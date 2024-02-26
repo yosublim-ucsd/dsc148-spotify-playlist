@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 801981,
+  "2024-02-26": 802029,
   "date_first_scraped": "2021-12-21",
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Marika Hackman",
   "name": "Infinite Indie Folk",
@@ -10030,6 +10030,24 @@
     },
     {
       "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
+    },
+    {
+      "album": {
         "name": "Where The Rocks Are",
         "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
       },
@@ -10095,7 +10113,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"

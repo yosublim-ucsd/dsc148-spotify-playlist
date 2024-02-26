@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19154,
+  "num_followers": 19160,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWQzMDYwNjQ3NjY2OTg1ODYxMWUyMTQxM2I0OGI1OTVmNjc4ZWVm",
+  "snapshot_id": "MCxkYTJjZjEyN2MwYjAyOTc0ZjA1MDU0MjM0YWVhYjUzMTY1NjRjNDA0",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Boca Aberta",
-        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
-      },
-      "artists": [
-        {
-          "name": "Reolamos",
-          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
-        }
-      ],
-      "duration_ms": 200086,
-      "name": "Boca Aberta",
-      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Boca Aberta",
+        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
+      },
+      "artists": [
+        {
+          "name": "Reolamos",
+          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
+        }
+      ],
+      "duration_ms": 200086,
+      "name": "Boca Aberta",
+      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Fora de S\u00e9rie",
-        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
+        "name": "bem vi",
+        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
       "artists": [
         {
-          "name": "Mari Blue",
-          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
         }
       ],
-      "duration_ms": 198250,
-      "name": "Fora de S\u00e9rie",
-      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
+      "duration_ms": 197297,
+      "name": "bem vi",
+      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "bem vi",
-        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
+        "name": "Fora de S\u00e9rie",
+        "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
       },
       "artists": [
         {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+          "name": "Mari Blue",
+          "url": "https://open.spotify.com/artist/7aBl5vxlbA4Nr4A1pGZgbb"
         }
       ],
-      "duration_ms": 197297,
-      "name": "bem vi",
-      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
+      "duration_ms": 198250,
+      "name": "Fora de S\u00e9rie",
+      "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
-      },
-      "artists": [
-        {
-          "name": "vicro",
-          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+      },
+      "artists": [
+        {
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Jardins",
-        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
-      },
-      "artists": [
-        {
-          "name": "Ceano",
-          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
-        }
-      ],
-      "duration_ms": 167551,
-      "name": "Jardins",
-      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Amor de Sonhos",
         "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Poema Suspenso",
-        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+        "name": "Jardins",
+        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
       },
       "artists": [
         {
-          "name": "Rizzih",
-          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+          "name": "Ceano",
+          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
         }
       ],
-      "duration_ms": 178935,
-      "name": "(((V\u00eanus)))",
-      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+      "duration_ms": 167551,
+      "name": "Jardins",
+      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -815,6 +799,22 @@
       "duration_ms": 160747,
       "name": "Como \u00c9 Que Faz",
       "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+      },
+      "artists": [
+        {
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+        }
+      ],
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
-      },
-      "artists": [
-        {
-          "name": "Nevilton",
-          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 218117,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
+      },
+      "artists": [
+        {
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
-      },
-      "artists": [
-        {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Meu Mantra pra Te Esquecer",
         "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 233019,
       "name": "Meu Mantra pra Te Esquecer",
       "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Surrender!",
         "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 189030,
       "name": "Surrender!",
       "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "VERO",
         "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197538,
       "name": "Bom Vivant",
       "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Cardeal",
-        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
-      },
-      "artists": [
-        {
-          "name": "Unidade Nova Praia",
-          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "\u00c9 preciso Calma",
-      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Fugitivos",
         "url": "https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 209486,
       "name": "Fugitivos",
       "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Cardeal",
+        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+      },
+      "artists": [
+        {
+          "name": "Unidade Nova Praia",
+          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "\u00c9 preciso Calma",
+      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
-      },
-      "artists": [
-        {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
-        }
-      ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 155129,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Disfar\u00e7a",
+        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+      },
+      "artists": [
+        {
+          "name": "Silveri\u00f4",
+          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+        }
+      ],
+      "duration_ms": 159736,
+      "name": "Disfar\u00e7a",
+      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
     }
   ],
   "unique_name": "Fresh Finds Brasil",

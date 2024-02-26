@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 353550,
+  "2024-02-26": 353543,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -15784,6 +15784,28 @@
     },
     {
       "album": {
+        "name": "Filipe Ret (Me Enforca, Me Bota)",
+        "url": "https://open.spotify.com/album/0AfVJsmzLwzvXSlpyGU1LH"
+      },
+      "artists": [
+        {
+          "name": "DJ Dollynho Da Lapa",
+          "url": "https://open.spotify.com/artist/3bc5LOOhGbLvDUcybl3LY8"
+        },
+        {
+          "name": "MC Biela",
+          "url": "https://open.spotify.com/artist/26Io4L3i0r3VCsdx0q3R2S"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Filipe Ret (Me Enforca, Me Bota)",
+      "url": "https://open.spotify.com/track/5ibCmdjaL6KE3fmtzZBaIJ"
+    },
+    {
+      "album": {
         "name": "FIM DA INF\u00c2NCIA EU VOU TE SARRANDO ESCUTANDO O BARULHINHO",
         "url": "https://open.spotify.com/album/76YahyNal5ptKixpfc77kW"
       },
@@ -26453,7 +26475,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 104076,
       "name": "MTG QUEM \u00c9 O LOUCO ENTRE N\u00d3S VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/270cxkt6RLHcRmP9HVzjEJ"
@@ -30775,7 +30797,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 163575,
       "name": "Passada de M\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0I0WaeHgXRRA9sP2LOLoE4"
@@ -33994,6 +34016,28 @@
     },
     {
       "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/0WfdMR6MT0GFtBOZna6ALJ"
+      },
+      "artists": [
+        {
+          "name": "Lueny Moura",
+          "url": "https://open.spotify.com/artist/4J8PDb1yM5j4D4t3CsM70f"
+        },
+        {
+          "name": "AYME\u00ca",
+          "url": "https://open.spotify.com/artist/2ab8aC5t1MroJyBCYV1FWD"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181371,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/0K6cWUk2yXhPgwcDvYnhaQ"
+    },
+    {
+      "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
@@ -34577,7 +34621,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
@@ -35995,6 +36039,32 @@
       "duration_ms": 200000,
       "name": "Sementinha do Mal",
       "url": "https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn"
+    },
+    {
+      "album": {
+        "name": "Sensa\u00e7ao",
+        "url": "https://open.spotify.com/album/5PwC1rFOzQQDgrZp9I0XQy"
+      },
+      "artists": [
+        {
+          "name": "DJ BRUNIN DA NT",
+          "url": "https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165537,
+      "name": "Sensa\u00e7ao",
+      "url": "https://open.spotify.com/track/6iyCUSkOIxIcxYYu3ERAJk"
     },
     {
       "album": {

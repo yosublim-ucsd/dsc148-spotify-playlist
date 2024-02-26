@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 1336,
+  "2024-02-26": 1338,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -299,6 +299,28 @@
       "duration_ms": 183706,
       "name": "Farben",
       "url": "https://open.spotify.com/track/47uoSjqgclu4zjv3TV6aBG"
+    },
+    {
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/5Nd0LK34wP57Bj340g1lGQ"
+      },
+      "artists": [
+        {
+          "name": "Essay",
+          "url": "https://open.spotify.com/artist/3MYwDZ7p0CZomBcNG3nGsm"
+        },
+        {
+          "name": "Ida Dillan",
+          "url": "https://open.spotify.com/artist/1C2vrhAxGY8eexy5BAypwE"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323075,
+      "name": "Find You feat. Ida Dillan",
+      "url": "https://open.spotify.com/track/2lKZhpcfZeWeDfAtBUbKHD"
     },
     {
       "album": {
@@ -707,10 +729,40 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 98181,
       "name": "krushed!",
       "url": "https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ"
+    },
+    {
+      "album": {
+        "name": "krushed! (remix)",
+        "url": "https://open.spotify.com/album/2U2GqbLeC0OdpjH0QG8j3A"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "FXRCE",
+          "url": "https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98192,
+      "name": "krushed! - remix",
+      "url": "https://open.spotify.com/track/63mLDC0ipF6NqJIjsS5gcx"
     },
     {
       "album": {
@@ -887,6 +939,24 @@
       "duration_ms": 141913,
       "name": "Miu Miu",
       "url": "https://open.spotify.com/track/71QJGJwpOwzpZEEinX345r"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DIAMANTE ROSA",
+        "url": "https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK"
+      },
+      "artists": [
+        {
+          "name": "vtze archive",
+          "url": "https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114951,
+      "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
+      "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
       "album": {
@@ -1619,7 +1689,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -1939,7 +2009,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"
@@ -2363,7 +2433,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 204900,
       "name": "\u043d\u0435\u043c\u0435\u0440\u0435\u043d\u043e",
       "url": "https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM"

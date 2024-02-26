@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42876,
+  "num_followers": 42879,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
+  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Venus Ate Mars",
-        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 285003,
-      "name": "Left Me Like Summer",
-      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Millionaire",
         "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 138190,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Venus Ate Mars",
+        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 285003,
+      "name": "Left Me Like Summer",
+      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Awake Is the New Sleep",
-        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
-      },
-      "artists": [
-        {
-          "name": "Ben Lee",
-          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Catch My Disease",
-      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Notion - EP",
         "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 341000,
       "name": "Notion",
       "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Awake Is the New Sleep",
+        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
+      },
+      "artists": [
+        {
+          "name": "Ben Lee",
+          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Catch My Disease",
+      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Brodie Street / Daquiri",
-        "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
+        "name": "Food In The Belly",
+        "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
       },
       "artists": [
         {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
         }
       ],
-      "duration_ms": 276650,
-      "name": "Daquiri",
-      "url": "https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa"
+      "duration_ms": 242426,
+      "name": "Messages",
+      "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Food In The Belly",
-        "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
+        "name": "Brodie Street / Daquiri",
+        "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
       },
       "artists": [
         {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
         }
       ],
-      "duration_ms": 242426,
-      "name": "Messages",
-      "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
+      "duration_ms": 276650,
+      "name": "Daquiri",
+      "url": "https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv"
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 276196,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
+      "duration_ms": 157787,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1159,6 +1159,22 @@
       "duration_ms": 197663,
       "name": "Everything Is Easy",
       "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Sponge Cake",
+        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 245687,
+      "name": "Be About You",
+      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1191,22 +1207,6 @@
       "duration_ms": 216636,
       "name": "On Our Own",
       "url": "https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Sponge Cake",
-        "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 245687,
-      "name": "Be About You",
-      "url": "https://open.spotify.com/track/1KWV9Yim7CuklJYp0Ne8AK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Keepsake",
         "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
       },
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/3g0uQDl6eYPBGsbX9C3axd"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 157787,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4VmJxOc6dQqgcVmZa8nWGK"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2pF0SGd7Fokl5dLlu10JiM"
       },
@@ -1319,6 +1287,22 @@
       "duration_ms": 199437,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0LY4FwDjGq6Z5wj8UHtIbP"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 276196,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1351,6 +1335,22 @@
       "duration_ms": 226733,
       "name": "London Still",
       "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
     },
     {
       "added_at": "2023-11-15 02:04:48",

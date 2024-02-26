@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 312534,
+  "num_followers": 312617,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDhjMjRjYzg0MGFiOWU0MWYwMjVkZjZhYjM0MjkzYTM2NDgxZjk3",
+  "snapshot_id": "MCw1YTdlYWVkMTQ0ZTk1MmRhNzBjMDcxZDg1NWM0NmJiMjQwZTZjYjgy",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Prom King",
-        "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
-      },
-      "artists": [
-        {
-          "name": "Skylar Spence",
-          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
-        }
-      ],
-      "duration_ms": 150879,
-      "name": "Cash Wednesday",
-      "url": "https://open.spotify.com/track/1rPPRe1Gci3keV676Z8s68"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/5eDidmMMMsRiCYIJkUs5qK"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 134199,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1tfdyWbDygXgMAf5AnN2GH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Prom King",
+        "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
+      },
+      "artists": [
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "duration_ms": 150879,
+      "name": "Cash Wednesday",
+      "url": "https://open.spotify.com/track/1rPPRe1Gci3keV676Z8s68"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pink Dance EP",
-        "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
-      },
-      "artists": [
-        {
-          "name": "Future Girlfriend Music",
-          "url": "https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Crazy Nights",
-      "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Prom King",
         "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 210586,
       "name": "Bounce Is Back",
       "url": "https://open.spotify.com/track/3Vw8ibvQbEfmUCwXpPeC6X"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Pink Dance EP",
+        "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
+      },
+      "artists": [
+        {
+          "name": "Future Girlfriend Music",
+          "url": "https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Crazy Nights",
+      "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dizzy Dream",
-        "url": "https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ"
+        "name": "DRENCH3D",
+        "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
       "artists": [
         {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+          "name": "3D BLAST",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 170847,
-      "name": "Dizzy Dream",
-      "url": "https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U"
+      "duration_ms": 141873,
+      "name": "DRENCH3D",
+      "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1363,34 +1363,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "DRENCH3D",
-        "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
+        "name": "Dizzy Dream",
+        "url": "https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ"
       },
       "artists": [
         {
-          "name": "3D BLAST",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
         }
       ],
-      "duration_ms": 141873,
-      "name": "DRENCH3D",
-      "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Now That I Have You",
-        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
-      },
-      "artists": [
-        {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "Unlimited",
-      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
+      "duration_ms": 170847,
+      "name": "Dizzy Dream",
+      "url": "https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1407,6 +1391,22 @@
       "duration_ms": 141145,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Now That I Have You",
+        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Unlimited",
+      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Glimmer / Change",
         "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 128032,
       "name": "Dancefloor Sneakers",
       "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Tropical Feeling",
+        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 292939,
+      "name": "Tropical Feeling",
+      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Tropical Feeling",
-        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 292939,
-      "name": "Tropical Feeling",
-      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
     },
     {
       "added_at": "2023-07-18 02:21:29",

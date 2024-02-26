@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
+    },
+    {
+      "album": {
         "name": "Bacilococo",
         "url": "https://open.spotify.com/album/5oL99oBZJgZ5UANGhPNzmV"
       },
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"

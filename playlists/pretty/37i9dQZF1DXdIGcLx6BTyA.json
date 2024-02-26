@@ -1,12 +1,12 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31807,
+  "num_followers": 31812,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1",
+  "snapshot_id": "MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1",
   "tracks": [
     {
       "added_at": "2021-07-06 14:22:02",
@@ -447,6 +447,22 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
+        "name": "Maybe A Moment / Graceland",
+        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "Maybe A Moment / Graceland",
-        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Faceplant",
-      "url": "https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Wine, Beer, Whiskey (Radio Edit)",
         "url": "https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 184266,
       "name": "Wine, Beer, Whiskey - Radio Edit",
       "url": "https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Faceplant",
+      "url": "https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Over Drinking",
+      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
         "name": "Weight of the World",
         "url": "https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 200386,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/55Z5eGNkXedn1N2mHwJ2hz"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Over Drinking",
-      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2021-07-06 14:22:02",

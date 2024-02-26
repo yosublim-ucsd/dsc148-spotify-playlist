@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 130687,
+  "num_followers": 130724,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGYxYzI3ZmViNjYzMGNjNjIyZTI1YmQ5MGE0Y2Y3OGIxNmFiZjQ2",
+  "snapshot_id": "MCw0MDM1Y2E5OWM2NTlmM2U5OTZkYTlkNGQ5NDIzY2U3NzMzYmU0OGI3",
   "tracks": [
     {
       "added_at": "2024-02-23 17:16:48",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-02-23 17:16:48",
       "album": {
+        "name": "Chega de Falar de Ice",
+        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
+      },
+      "artists": [
+        {
+          "name": "Leozin",
+          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
+        }
+      ],
+      "duration_ms": 177245,
+      "name": "Chega de Falar de Ice",
+      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
+    },
+    {
+      "added_at": "2024-02-23 17:16:48",
+      "album": {
         "name": "Espero Que Entendam (Freestyle)",
         "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 211859,
       "name": "Espero Que Entendam - Freestyle",
       "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
-    },
-    {
-      "added_at": "2024-02-23 17:16:48",
-      "album": {
-        "name": "Chega de Falar de Ice",
-        "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
-      },
-      "artists": [
-        {
-          "name": "Leozin",
-          "url": "https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "Chega de Falar de Ice",
-      "url": "https://open.spotify.com/track/7sO4qwDP84KRGKNCbMSn2o"
     },
     {
       "added_at": "2024-02-23 17:16:48",
@@ -2131,6 +2131,26 @@
     {
       "added_at": "2024-02-23 17:16:48",
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": "2024-02-23 17:16:48",
+      "album": {
         "name": "HSEH",
         "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
       },
@@ -2151,26 +2171,6 @@
       "duration_ms": 150260,
       "name": "HSEH",
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
-    },
-    {
-      "added_at": "2024-02-23 17:16:48",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2024-02-23 17:16:48",
@@ -2435,38 +2435,6 @@
     {
       "added_at": "2024-02-23 17:16:48",
       "album": {
-        "name": "Drink Azul",
-        "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
-      },
-      "artists": [
-        {
-          "name": "Lil Chainz",
-          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
-        },
-        {
-          "name": "VMZ",
-          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
-        },
-        {
-          "name": "MHRAP",
-          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
-        },
-        {
-          "name": "Jonis",
-          "url": "https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn"
-        },
-        {
-          "name": "Daja",
-          "url": "https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Drink Azul",
-      "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
-    },
-    {
-      "added_at": "2024-02-23 17:16:48",
-      "album": {
         "name": "Fiquei Rico Cedo",
         "url": "https://open.spotify.com/album/4PlhyAkvqUyaxsmbFtRyNS"
       },
@@ -2503,6 +2471,38 @@
       "duration_ms": 228661,
       "name": "Fiquei Rico Cedo",
       "url": "https://open.spotify.com/track/6tfEPfl4xxKUj4fAKsUd7w"
+    },
+    {
+      "added_at": "2024-02-23 17:16:48",
+      "album": {
+        "name": "Drink Azul",
+        "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        },
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        },
+        {
+          "name": "Jonis",
+          "url": "https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn"
+        },
+        {
+          "name": "Daja",
+          "url": "https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Drink Azul",
+      "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
     }
   ],
   "unique_name": "Trap Classe",

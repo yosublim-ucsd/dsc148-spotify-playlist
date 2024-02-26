@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,253 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,324 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 3 | [Sorri, Sou Rei \(KVSH Remix\)](https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Sorri, Sou Rei \(KVSH Remix\)](https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk) | 3:37 |
 | 4 | [Cante por Nós](https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Cante por Nós](https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm) | 3:29 |
 | 5 | [Don't Let It Go](https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Don't Let It Go](https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6) | 3:03 |
-| 6 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |
-| 7 | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Lowsince](https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw) | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii) | 2:56 |
+| 6 | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Lowsince](https://open.spotify.com/artist/40i93g6N3AaQ45tBod4pfw) | [Ainda Gosto Dela \(Dubdogz, RQntz & Lowsince Remix\)](https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii) | 2:56 |
+| 7 | [Sun Goes Down](https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW) | [Sun Goes Down](https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8) | 3:23 |
 | 8 | [Dog Days](https://open.spotify.com/track/3o6D9gHkSumEECclUt0tCN) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Rodrigo Luca](https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6) | [Dog Days](https://open.spotify.com/album/2gVD1C1QGkqfC1RvjHuNcC) | 4:11 |
 | 9 | [Várias Queixas \(Remix\) \(feat\. Gilsons\)](https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas \(Remix\) \(feat\. Gilsons\)](https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L) | 2:32 |
 | 10 | [Bem Melhor \- KVSH Remix](https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Bem Melhor \(KVSH Remix\)](https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Tudo Que Ela Gosta De Escutar \- Lion Remix](https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5), [LION dj](https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ) | [Tudo Que Ela Gosta De Escutar \(Lion Remix\)](https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD) | 5:00 |
 | 70 | [Sucker](https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM) | [Sucker](https://open.spotify.com/album/1tSHJ1U4wbL5zu20x4ku7i) | 2:52 |
 
-Snapshot ID: `MCw0MGZkMjgzZGFhNDVhODQxYWE2ZjU0YjYzN2Y3OTI4Nzk3YWIxMGU5`
+Snapshot ID: `MCwwMTliMDkzNjA3ZGU0YTYzNmMwYmE2MGZmOTc0YTBkMzBjODE2Yjk1`

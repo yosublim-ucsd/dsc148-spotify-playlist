@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,198 likes - 40 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,240 likes - 40 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 |
 | 40 | [Ladilafé](https://open.spotify.com/track/33F13lqbuq5XLeNJ2vqvdr) | [Xavier Picardo](https://open.spotify.com/artist/41dndcs0lGb9GMwJiJhVCJ) | [Ladilafé](https://open.spotify.com/album/4lQNX2CO4PA7tdwqBif5md) | 2:05 |
 
-Snapshot ID: `MCwwNzFiZDA2NjQwNzA2YTU3MmE3NjY0NjZmNjZiODQ5ZjJmMTc4ZmUx`
+Snapshot ID: `MCxjMjc3NTBmNWIyY2E1ZGFiODJhNTE0ZGU4ZTFmZDM5Yjk0YjY4Zjhj`

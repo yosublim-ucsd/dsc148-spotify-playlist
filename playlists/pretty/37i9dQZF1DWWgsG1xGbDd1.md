@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,781 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,898 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,21 +29,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 19 | [Waiting In Vain](https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 4:16 |
 | 20 | [Danger In Your Eyes](https://open.spotify.com/track/2PQeK7uGoKfc1sGRTN1cFR) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:53 |
 | 21 | [Soul Locks](https://open.spotify.com/track/49QxDYDu2N2G6vEyuOqPk9) | [St Ct and the Gladiators Band](https://open.spotify.com/artist/0dKddycMI80gcYQTkqKFQh) | [Studio One Dub Volume 2](https://open.spotify.com/album/4c5MDMjgliQuLDMq04ecp3) | 3:17 |
-| 22 | [I'm The Ruler](https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj) | [Anthony Rocky Ellis](https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:19 |
-| 23 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
+| 22 | [Bongo Red](https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:48 |
+| 23 | [I'm The Ruler](https://open.spotify.com/track/0naH4jtOlEiZYuuIrBdyIj) | [Anthony Rocky Ellis](https://open.spotify.com/artist/3UPeHT1ujrnMl7mOto6xTA) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:19 |
 | 24 | [Satisfy My Soul](https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:31 |
-| 25 | [Nanny’s Corner](https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:35 |
-| 26 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
-| 27 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
-| 28 | [Crabwalking](https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:15 |
+| 25 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
+| 26 | [Nanny’s Corner](https://open.spotify.com/track/5xUjLG37Qk3YR2CYpGHgKR) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:35 |
+| 27 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
+| 28 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
 | 29 | [I Man A Rasta](https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 30 | [Bad Treatment](https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV) | [Cannon & The Soul Vendors](https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:02 |
 | 31 | [The Well Run Dry](https://open.spotify.com/track/30b90XD4VP61a8h70iv31o) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:33 |
 | 32 | [Stir It Up \- Jamaican Version](https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
 | 33 | [Chuky Skank](https://open.spotify.com/track/232oGt97gDd6jJmb9lFcR2) | [Dillinger](https://open.spotify.com/artist/5J69edy1luLIzbgyl4u1Dv) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 2:39 |
-| 34 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
-| 35 | [Black Wax](https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y) | [Pablove Black](https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:24 |
-| 36 | [Bongo Red](https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:48 |
+| 34 | [Crabwalking](https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 3:15 |
+| 35 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
+| 36 | [Black Wax](https://open.spotify.com/track/1yZp4EH1pnKnytB1psEb7y) | [Pablove Black](https://open.spotify.com/artist/42FwZoRg0zhZgg2LUqglEz) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:24 |
 | 37 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 38 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 |
 | 39 | [Hang On Natty](https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Soul Jazz Records presents Sugar Minott at Studio One](https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Coconut Rock](https://open.spotify.com/track/3gxEtE7T9CdLod0ZdOTrJv) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:49 |
 | 60 | [Keep on Moving](https://open.spotify.com/track/3fooEYpcvSYV8XWRRZ59AD) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:30 |
 
-Snapshot ID: `MCw4NWNmZjlmYWM0ZTc0NDNlZDg3ODY5ZWViOWQzYTcwODcyZWJmOTc0`
+Snapshot ID: `MCw4Y2NhMzJkYjE0YmE1ZDVlYWNjNjA3NTI4MGNhMWNiNDg2MTgwOTRl`

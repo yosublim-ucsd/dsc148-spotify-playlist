@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43229,
+  "num_followers": 43228,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz",
+  "snapshot_id": "MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1289,6 +1289,22 @@
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Asylum",
@@ -1307,22 +1323,6 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "For Now",
-        "url": "https://open.spotify.com/album/0Ge8tR0lq1n6wVtYZTzWL1"
-      },
-      "artists": [
-        {
-          "name": "Romeyo Wilson",
-          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "LOVERS WAVE VOL. 1",
-        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
-      },
-      "artists": [
-        {
-          "name": "Lehla Samia",
-          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
-        }
-      ],
-      "duration_ms": 108588,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
-    },
-    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Pretty Ass Bish",
@@ -1539,6 +1523,22 @@
       "duration_ms": 143743,
       "name": "Pretty Ass Bish",
       "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "LOVERS WAVE VOL. 1",
+        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
+      },
+      "artists": [
+        {
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+        }
+      ],
+      "duration_ms": 108588,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1693,22 +1693,6 @@
       "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 146799,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Life",
@@ -1723,6 +1707,22 @@
       "duration_ms": 175999,
       "name": "Life",
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+    },
+    {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1741,24 +1741,20 @@
       "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Go Get Her",
-        "url": "https://open.spotify.com/album/7zTr0d1lb0Wak529YFKBCm"
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
       },
       "artists": [
         {
-          "name": "SHRETA",
-          "url": "https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
         }
       ],
-      "duration_ms": 163568,
-      "name": "Go Get Her",
-      "url": "https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf"
+      "duration_ms": 228334,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/37kCALixWCeDkqMSCITzmA"
     }
   ],
   "unique_name": "Some Kinda Way",

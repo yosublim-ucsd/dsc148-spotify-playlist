@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 111228,
+  "2024-02-26": 111233,
   "date_first_scraped": "2022-05-26",
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
   "name": "Sunset Chill",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -3927,7 +3927,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 228571,
       "name": "Swingtheory",
       "url": "https://open.spotify.com/track/2w7VjB083rwx1oxDW3CbfO"

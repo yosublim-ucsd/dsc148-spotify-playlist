@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 301081,
+  "num_followers": 301204,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzM2Y5MTkzZTZmMjVmYzA5ZDdiNDQzMDFmMmIzNjkzZGY3OThi",
+  "snapshot_id": "MCwxMDk0MjAxZDRjMTIwMmI5N2FhZmM2Zjc1NGI4NTAyMmU0NWI3NzY3",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -315,6 +315,26 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
+        "name": "Namora Comigo",
+        "url": "https://open.spotify.com/album/6Dz9DByVqaP2ok2vMK5BL5"
+      },
+      "artists": [
+        {
+          "name": "Tau\u00e3 Cordel",
+          "url": "https://open.spotify.com/artist/57qCX4KKubPxn6eBgfR3s6"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 209620,
+      "name": "Namora Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/74ZNzfjGzndMphc6lxiQUl"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
       },
@@ -403,26 +423,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Namora Comigo",
-        "url": "https://open.spotify.com/album/6Dz9DByVqaP2ok2vMK5BL5"
-      },
-      "artists": [
-        {
-          "name": "Tau\u00e3 Cordel",
-          "url": "https://open.spotify.com/artist/57qCX4KKubPxn6eBgfR3s6"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 209620,
-      "name": "Namora Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/74ZNzfjGzndMphc6lxiQUl"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Rouxin\u00f3is",
-        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
       "artists": [
         {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 190410,
-      "name": "Rouxin\u00f3is",
-      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -487,22 +487,18 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+        "name": "Rouxin\u00f3is",
+        "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
         }
       ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+      "duration_ms": 190410,
+      "name": "Rouxin\u00f3is",
+      "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -523,6 +519,42 @@
       "duration_ms": 190453,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -759,22 +791,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Avenida da Paix\u00e3o",
-        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
       },
       "artists": [
         {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 152934,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+        "name": "Avenida da Paix\u00e3o",
+        "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
       },
       "artists": [
         {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
         }
       ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+      "duration_ms": 152934,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -895,22 +911,6 @@
       "duration_ms": 153573,
       "name": "Na Positiva",
       "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-02-23 03:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
+        "name": "tudo \u00e9 mt distante",
+        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
         "name": "Enquanto Houver",
         "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "tudo \u00e9 mt distante",
-        "url": "https://open.spotify.com/album/6TPmiamOTKCDhsn5O5kmtv"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/3WgjuBYZ4lbcMewRspPd96"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "O Amor Venceu",
         "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+        "name": "Abre a Janela",
+        "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Maresia Ragga Surf",
+          "url": "https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx"
         }
       ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+      "duration_ms": 282560,
+      "name": "Abre a Janela",
+      "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
     }
   ],
   "unique_name": "Praiana",

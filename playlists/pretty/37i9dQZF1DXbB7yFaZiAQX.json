@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1020296,
+  "num_followers": 1020493,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz",
+  "snapshot_id": "MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
-        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Forever Young - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
         "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
         }
       ],
-      "duration_ms": 215203,
-      "name": "Love Buzz",
-      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
+      "duration_ms": 226000,
+      "name": "Forever Young - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -247,6 +231,22 @@
       "duration_ms": 145706,
       "name": "Blister In The Sun",
       "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 215203,
+      "name": "Love Buzz",
+      "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 239360,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Doolittle",
-        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Debaser",
-      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
       "artists": [
         {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Dancing with Tears in My Eyes",
-      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+      "duration_ms": 171746,
+      "name": "Debaser",
+      "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Hurting",
-        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Fine Young Cannibals",
         "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 215733,
       "name": "Johnny Come Home",
       "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Hurting",
+        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Shabooh Shoobah",
-        "url": "https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Don't Change",
-      "url": "https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "A Secret Wish (Analogue Sequence)",
         "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 282386,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Shabooh Shoobah",
+        "url": "https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Golden Age of Wireless",
-        "url": "https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dolby",
-          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "She Blinded Me With Science",
-      "url": "https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "London Town 1983-1993",
         "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Golden Age of Wireless",
+        "url": "https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Everyday Is Like Sunday - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "New Clear Days",
         "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 224106,
       "name": "Turning Japanese - Non Stop Edit",
       "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Everyday Is Like Sunday - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1719,22 +1719,6 @@
       "duration_ms": 238133,
       "name": "Pulling Mussels (From The Shell)",
       "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
-      },
-      "artists": [
-        {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Suedehead - 2011 Remaster",
-      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1831,6 +1815,22 @@
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Suedehead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Sparkle In The Rain",
         "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 289920,
       "name": "Waterfront - Remastered 2002",
       "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
+      },
+      "artists": [
+        {
+          "name": "Grauzone",
+          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
+        }
+      ],
+      "duration_ms": 288305,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Be Yourself Tonight",
         "url": "https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Eisb\u00e4r",
-        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
-      },
-      "artists": [
-        {
-          "name": "Grauzone",
-          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
-        }
-      ],
-      "duration_ms": 288305,
-      "name": "Eisb\u00e4r",
-      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2151,54 +2151,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "A Way of Life (35th Anniversary Edition; 2023 Remaster)",
-        "url": "https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t"
-      },
-      "artists": [
-        {
-          "name": "Suicide",
-          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Surrender ('88 Version) (2023 Remaster)",
-      "url": "https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "We Are The '80s",
-        "url": "https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "The More You Live, The More You Love",
-      "url": "https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Cities In Dust - Single Version",
-      "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Robbie Robertson",
         "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
       },
@@ -2231,18 +2183,50 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+        "name": "We Are The '80s",
+        "url": "https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV"
       },
       "artists": [
         {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Tugboat",
-      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+      "duration_ms": 249106,
+      "name": "The More You Live, The More You Love",
+      "url": "https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "A Way of Life (35th Anniversary Edition; 2023 Remaster)",
+        "url": "https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t"
+      },
+      "artists": [
+        {
+          "name": "Suicide",
+          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Surrender ('88 Version) (2023 Remaster)",
+      "url": "https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Cities In Dust - Single Version",
+      "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2259,6 +2243,22 @@
       "duration_ms": 411973,
       "name": "Uncertain Smile",
       "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Tugboat",
+      "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Blasphemous Rumours - 2006 Remaster",
-      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "I Just Can\u2019t Stop It (2012 Remaster)",
         "url": "https://open.spotify.com/album/6YMcUP9kpIRlglcO5WNMbC"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 188586,
       "name": "Mirror in the Bathroom - 2012 Remaster",
       "url": "https://open.spotify.com/track/3XggELqP0NoiOxhMDhSWBp"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Blasphemous Rumours - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Throw the Warped Wheel Out",
-        "url": "https://open.spotify.com/album/345hZBqG7vIgLMHJcMZSZM"
-      },
-      "artists": [
-        {
-          "name": "Fiction Factory",
-          "url": "https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj"
-        }
-      ],
-      "duration_ms": 214047,
-      "name": "(Feels Like) Heaven",
-      "url": "https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Quiet Life",
         "url": "https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 289080,
       "name": "Quiet Life",
       "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Throw the Warped Wheel Out",
+        "url": "https://open.spotify.com/album/345hZBqG7vIgLMHJcMZSZM"
+      },
+      "artists": [
+        {
+          "name": "Fiction Factory",
+          "url": "https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj"
+        }
+      ],
+      "duration_ms": 214047,
+      "name": "(Feels Like) Heaven",
+      "url": "https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8"
     },
     {
       "added_at": "2023-05-03 07:47:14",

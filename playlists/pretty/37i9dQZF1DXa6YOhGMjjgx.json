@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 471977,
+  "num_followers": 471974,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw",
+  "snapshot_id": "MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+        "name": "Sleeping On The Ceiling",
+        "url": "https://open.spotify.com/album/55FNjy6hxbZm9hV0iphC98"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
         }
       ],
-      "duration_ms": 219906,
-      "name": ".intoodeep.",
-      "url": "https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k"
+      "duration_ms": 118200,
+      "name": "Sleeping On The Ceiling",
+      "url": "https://open.spotify.com/track/2vfGITBrVJaPYSgKaKJv9Z"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Sleeping On The Ceiling",
-        "url": "https://open.spotify.com/album/55FNjy6hxbZm9hV0iphC98"
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
       "artists": [
         {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 118200,
-      "name": "Sleeping On The Ceiling",
-      "url": "https://open.spotify.com/track/2vfGITBrVJaPYSgKaKJv9Z"
+      "duration_ms": 219906,
+      "name": ".intoodeep.",
+      "url": "https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Life Support / Ms. Supernova",
+        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
       "added_at": "2023-10-05 15:20:21",
@@ -347,6 +347,22 @@
       "duration_ms": 197540,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -383,22 +399,6 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Life Support / Ms. Supernova",
-        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Take Back The Night",
-        "url": "https://open.spotify.com/album/0KO8BT7pSqGZugqBiKwieo"
-      },
-      "artists": [
-        {
-          "name": "Starbenders",
-          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Seven White Horses",
-      "url": "https://open.spotify.com/track/43yCaDI4VvDPY85pdjInSv"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "What's So Fucking Funny?",
         "url": "https://open.spotify.com/album/2RB8nl39caMcKZGb32pvPG"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 176119,
       "name": "Make A Dime",
       "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Take Back The Night",
+        "url": "https://open.spotify.com/album/0KO8BT7pSqGZugqBiKwieo"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Seven White Horses",
+      "url": "https://open.spotify.com/track/43yCaDI4VvDPY85pdjInSv"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Applause",
-        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
-      },
-      "artists": [
-        {
-          "name": "Liily",
-          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "STATUES (v2)",
         "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/5wBZdQtJp4ad73MspHd7DG"
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs"
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1011,6 +995,22 @@
       "duration_ms": 142760,
       "name": "Medication",
       "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/5wBZdQtJp4ad73MspHd7DG"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1177,20 +1177,20 @@
       "url": "https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
+      "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Old Wounds",
-        "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
       "artists": [
         {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 335733,
-      "name": "Old Wounds",
-      "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1209,20 +1209,20 @@
       "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
     },
     {
-      "added_at": "2023-09-08 20:23:35",
+      "added_at": "2023-10-05 15:20:21",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+        "name": "Old Wounds",
+        "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
       },
       "artists": [
         {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
         }
       ],
-      "duration_ms": 257398,
-      "name": "Father Of Lies",
-      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+      "duration_ms": 335733,
+      "name": "Old Wounds",
+      "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
       },
       "artists": [
         {
-          "name": "Electric Enemy",
-          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+          "name": "Dead Sara",
+          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
         }
       ],
-      "duration_ms": 188549,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5"
+      "duration_ms": 196457,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV"
       },
       "artists": [
         {
-          "name": "Dead Sara",
-          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
         }
       ],
-      "duration_ms": 196457,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
+      "duration_ms": 188549,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I"
       },
       "artists": [
         {
-          "name": "Loose Lips",
-          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
         }
       ],
-      "duration_ms": 184931,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
+      "duration_ms": 203064,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
     }
   ],
   "unique_name": "New  Alt-Rock Mixtape",

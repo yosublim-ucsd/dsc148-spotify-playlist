@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,482 likes - 80 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,492 likes - 80 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 35 | [MIRAKEL](https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:11 |
 | 36 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 |
 | 37 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 |
-| 38 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 |
-| 39 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 |
-| 40 | [Sommerhus](https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sommerhus](https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y) | 2:21 |
+| 38 | [Sommerhus](https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sommerhus](https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y) | 2:21 |
+| 39 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 |
+| 40 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 |
 | 41 | [Gas](https://open.spotify.com/track/77T996JlKleOyB1RAchTQr) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Gas](https://open.spotify.com/album/4rBij9sYNOfrBltR7rUYjN) | 2:53 |
 | 42 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 |
 | 43 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 75 | [Saint Laurent](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 |
 | 76 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 |
 | 77 | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox) | 3:10 |
-| 78 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 |
-| 79 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
-| 80 | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 |
+| 78 | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 |
+| 79 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 |
+| 80 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
 
-Snapshot ID: `MCw1MDY4OTEwNmQzM2QyZWY4N2E0NWY2Nzk0ZTViZjk1MDIyY2NlNDNi`
+Snapshot ID: `MCw3NGQ5NDlhMGJmMWU4NTAwYzllNDY5NGY3Zjc3OWRjZjM0YTYxMjIz`

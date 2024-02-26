@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-412 songs - 1 day 6 hr 24 min
+413 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Cumbia Panadero](https://open.spotify.com/track/7fRuzPdvA1IWQPow6vFAlx) | [Sonido de la Frontera](https://open.spotify.com/artist/0bHro9hNjlh1uyhCeEnYYx) | [Cumbia Mundial](https://open.spotify.com/album/5qevS0pmqfWaIpRrCD81fH) | 4:19 | 2023-12-15 | 2023-12-26 |
 | [Cumbion de las Aves](https://open.spotify.com/track/5fv7uY4AfOWlaLS0GVjibW) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Río Arriba](https://open.spotify.com/album/64YiuDZw5jozMxQHSldAej) | 4:45 | 2023-07-10 |  |
 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 | 2023-07-10 | 2023-10-06 |
+| [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 | 2024-01-19 |  |
 | [Damat Alam](https://open.spotify.com/track/1v55bBB5y2DqWkz622OMxv) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2) | [Music For Airplanes \- A collection of instrumental showpieces and scores for Egyptian films and TV\-series \(1973\-1980\)](https://open.spotify.com/album/38TAyky0FDfVX5oFeuIEGk) | 3:59 | 2023-07-10 |  |
 | [Dans l'eau de la claire fontaine](https://open.spotify.com/track/3wu98sggSB6ScL50tCl4Pk) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [Dans l'eau de la claire fontaine](https://open.spotify.com/album/60LrHgD4gtmsMQGviijZ7k) | 4:06 | 2023-07-10 | 2024-01-24 |
 | [Danza Del Millonario](https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Canibalismo](https://open.spotify.com/album/4QR28XDfACXN16nfQDWLRp) | 3:51 | 2023-07-10 |  |
@@ -266,7 +267,7 @@
 | [Moussolou](https://open.spotify.com/track/2jkZYhTXDk83BOaRTR8QxH) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/792ZgWQIn49vY1iv970M26) | 5:14 | 2023-07-10 | 2023-11-04 |
 | [Moussolou](https://open.spotify.com/track/5IQtSy70lutizrFGdOH9QJ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/1FXBNl5MIvP4wm7D3MgRDm) | 5:14 | 2023-07-10 |  |
 | [Mr Tembo](https://open.spotify.com/track/5oLOgSExVFBBzYTXVblcwu) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:43 | 2023-07-10 |  |
-| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 |  |
+| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 | 2024-02-26 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |
 | [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 |  |
 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 | 2023-07-10 |  |

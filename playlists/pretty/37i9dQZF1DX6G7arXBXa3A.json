@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 395414,
+  "num_followers": 395480,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTRiNzA0YzNkYzc3YmFhMjcwN2ZhOGIzNzA3YjcwOTFmMWI2NzY1",
+  "snapshot_id": "MCxmODYwMGRkNzVmMzEyZjFkYzJlOWJhZmRmYTg3YmJjMTkzNDIzYTgy",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -877,24 +877,32 @@
       "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
+      "added_at": "2022-07-22 04:02:00",
       "album": {
-        "name": "Present Perfect",
-        "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
+        "name": "I Can't Turn You Loose",
+        "url": "https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z"
       },
       "artists": [
         {
-          "name": "Rob McConnell",
-          "url": "https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr"
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
         },
         {
-          "name": "The Boss Brass",
-          "url": "https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT"
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Ronnie Cuber",
+          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
         }
       ],
-      "duration_ms": 582509,
-      "name": "The Waltz I Blew for You",
-      "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
+      "duration_ms": 314973,
+      "name": "I Can't Turn You Loose",
+      "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
     }
   ],
   "unique_name": "Big Band",

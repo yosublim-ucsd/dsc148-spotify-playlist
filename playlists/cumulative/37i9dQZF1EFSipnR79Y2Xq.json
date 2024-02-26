@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Yo Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173798,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/5h3YMVd2Jg3h7bf0a4RTrA"
+    },
+    {
+      "album": {
         "name": "As\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx"
       },

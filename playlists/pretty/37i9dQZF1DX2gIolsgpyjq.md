@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Kissimjau
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,428 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,446 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 |
 | 100 | [VDKDV?](https://open.spotify.com/track/5DKc7J0BxFKwYonJgWyU0v) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [VDKDV?](https://open.spotify.com/album/6vHMn2bJ7DggbtHzKZGiPC) | 2:19 |
 
-Snapshot ID: `MCxjZjQyMzNjMTE4ZWVhYTA4NDA0ZTgwMWY4ZjQ0MTgwODQxYzU4MmJi`
+Snapshot ID: `MCxhOWQ0OGNjNzc5MDk2NDYxN2ZjYjEwNTUyZTM2Mjc0ZDk3YTA2M2Rj`

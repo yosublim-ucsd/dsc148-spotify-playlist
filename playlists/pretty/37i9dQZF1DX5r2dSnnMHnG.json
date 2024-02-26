@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm",
+  "snapshot_id": "MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 203386,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 203780,
+      "name": "Just Can't Say",
+      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 203780,
-      "name": "Just Can't Say",
-      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
     },
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
+        "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
+      },
+      "artists": [
+        {
+          "name": "KIM DONG HYUN",
+          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
+        }
+      ],
+      "duration_ms": 223629,
+      "name": "SOME",
+      "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
-        "name": "Fling at Convenience Store (Original Television Soundtrack) Pt. 2",
-        "url": "https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU"
-      },
-      "artists": [
-        {
-          "name": "KIM DONG HYUN",
-          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
-        }
-      ],
-      "duration_ms": 223629,
-      "name": "SOME",
-      "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

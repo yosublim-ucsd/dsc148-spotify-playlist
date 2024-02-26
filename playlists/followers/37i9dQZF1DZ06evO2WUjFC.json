@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 727,
+  "2024-02-26": 727,
   "date_first_scraped": "2024-01-30",
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
   "name": "This Is Danny Felix",
@@ -123,6 +123,24 @@
       "duration_ms": 232350,
       "name": "Cajita De Oro (Live)",
       "url": "https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM"
+    },
+    {
+      "album": {
+        "name": "CELOSO",
+        "url": "https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "CELOSO",
+      "url": "https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7"
     },
     {
       "album": {

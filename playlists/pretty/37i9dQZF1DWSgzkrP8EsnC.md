@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgzkrP8EsnC.md) - [plain]
 
 > Blessd takes over Fuego! Featuring Feid, Crudo Means Raw, Maluma & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgzkrP8EsnC.md) - [plain]
 | 24 | [Hagale Pues](https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Hagale Pues](https://open.spotify.com/album/7I5F0zSVcazXWKAG0Pnr2l) | 2:28 |
 | 25 | [Energía](https://open.spotify.com/track/2iZZoJHrohOxAxlK6o2Awg) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Energía](https://open.spotify.com/album/76mNc50Njn9XlFMMYvh1G3) | 3:24 |
 
-Snapshot ID: `MCw5MmQ1OTM3NTFjODM4MWQ4MTg0YThlZDViYTI4N2FmOTg3Y2YzYmM2`
+Snapshot ID: `MCxkZGEyOGUwOGUwZDhmMWYwMjNhNmY3MDBlYzMzY2Q4Y2YyODg2M2Jm`

@@ -4,7 +4,7 @@
 
 > ou vc dança ou o grave t balança
 
-161 songs - 6 hr 59 min
+162 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 | 2023-12-18 | 2024-01-27 |
 | [Marolento](https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Pedro Bala](https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f) | [Marolento](https://open.spotify.com/album/4TzGr4urshbTMEJoXTfsb6) | 2:41 | 2023-10-06 | 2024-01-30 |
 | [Me Soca](https://open.spotify.com/track/2rRZwiJajLqunfgbyHVFln) | [DJ LUCIANO DE CAXIAS](https://open.spotify.com/artist/3tp8IOyma0Xf4B5qAa7cM3), [dj Douglas dedo Magico](https://open.spotify.com/artist/6mBgHtkdUuvLPjEPuEYq2e), [Mc Nick](https://open.spotify.com/artist/3ShnwaSECgcrXtWIe3A9Mz), [MC PG](https://open.spotify.com/artist/2vl278iLkl20FIEnTRDQm8) | [Me Soca](https://open.spotify.com/album/2PyLbdMTGl4jaOPTAuaw1a) | 2:36 | 2023-10-06 | 2023-10-25 |
-| [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 | 2023-11-27 |  |
+| [Mega a Cura Antidepressiva](https://open.spotify.com/track/60foquI0jndvp1YJEJrU0A) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Antidepressivo](https://open.spotify.com/album/630QH0pY7JTFT41zXQKGjb) | 2:20 | 2024-02-23 |  |
+| [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 | 2023-11-27 | 2024-02-26 |
 | [Mega do Akon](https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7) | [DJ Jonatas Felipe](https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr), [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI) | [Mega do Akon](https://open.spotify.com/album/6sLUkJ8lvG5naRIOOF0TJC) | 2:25 | 2023-10-06 |  |
 | [MEGA FUNK \(MARIA MARIAH\) \- DJ Ryder Remix](https://open.spotify.com/track/37Sefc4QQlymwpkn3EuAmI) | [DIQUIO](https://open.spotify.com/artist/4bM9L0VHyz6WgMgOcMyxYz), [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K) | [MEGA FUNK \(MARIA MARIAH\) \[DJ Ryder Remix\]](https://open.spotify.com/album/4tJTClj5yXFgYEC9ZoyEEc) | 2:24 | 2024-01-26 | 2024-02-16 |
 | [MEGA FUNK \(MARIA MARIAH\) \- DJ Ryder, Diquio Remix](https://open.spotify.com/track/3T0AHtCdteAb07Gz3lSSKt) | [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K), [DIQUIO](https://open.spotify.com/artist/4bM9L0VHyz6WgMgOcMyxYz) | [MEGA FUNK \(MARIA MARIAH\) \[DJ Ryder, Diquio Remix\]](https://open.spotify.com/album/7HxrlvMs2IKFmU6jjio0qC) | 2:24 | 2024-01-29 | 2024-02-09 |

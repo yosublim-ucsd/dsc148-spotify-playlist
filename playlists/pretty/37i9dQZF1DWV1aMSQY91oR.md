@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Da Crook
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,222 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,234 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Revenge](https://open.spotify.com/track/1EsoUjyIZfODyQXmPrA1vE) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Revenge](https://open.spotify.com/album/1kbQP08RHyPNFyy81b5piL) | 1:51 |
 | 49 | [Nostalgia](https://open.spotify.com/track/3NFUXAwuvn8ojSp8HI9DBd) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Dylvinci](https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS) | [Nostalgia](https://open.spotify.com/album/4p3wVTiSb4TAaC1M3oxGyo) | 1:43 |
 
-Snapshot ID: `MCwzZmUxNTFlMGQ5MThiZmYyYmY1YzBiYjMzYWZmMmE5NjZhODIwYmZh`
+Snapshot ID: `MCxmMzI1ZGI5NzBiMTczNGUwMjA2YjhlOGZmYzAwZjhmZGNlM2ZjMmUx`

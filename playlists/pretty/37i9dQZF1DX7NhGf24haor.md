@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Warface & Sound Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,134 likes - 89 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,224 likes - 89 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 88 | [Won't Bow Down](https://open.spotify.com/track/5PWKB6obYDWWls0we9zy18) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Max Alexander](https://open.spotify.com/artist/6OnsUDpZzOTWMOC1q1B0vH) | [Won't Bow Down](https://open.spotify.com/album/1bVzAXj4kOf964LKJgjXdr) | 3:44 |
 | 89 | [We Won't Stop \(For Eternity\)](https://open.spotify.com/track/3VpHxjjTRdyFH8MMSPR5Ws) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [We Won't Stop \(For Eternity\)](https://open.spotify.com/album/4OXThgRK0LJLpSPnPokYko) | 2:32 |
 
-Snapshot ID: `MCw5NzQ2ODE5NjEzODdjOTM2NzVlODU0NDE4ZDljYThlM2Y5MjM4ZTJi`
+Snapshot ID: `MCwxMDU2OWU2OGJlNjMxNzdlYTRkODk1OTA4NjhlYmNiYTJiN2Q0OTYw`

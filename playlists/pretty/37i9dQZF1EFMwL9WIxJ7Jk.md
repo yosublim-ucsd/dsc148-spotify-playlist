@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,537 likes - 134 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,538 likes - 134 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 34 | [Mom \(feat\. Kelli Trainor\)](https://open.spotify.com/track/7DCmHP3gX1PvlQNm0ia8Cf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kelli Trainor](https://open.spotify.com/artist/1pW0NUJuJSLcLNW1JTlqiP) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:14 |
 | 35 | [Close Your Eyes](https://open.spotify.com/track/2e1N4FhuB08W4iKmYpEftE) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:40 |
 | 36 | [Badass Woman \- From The Motion Picture "The Hustle"](https://open.spotify.com/track/5Glf3tBr73L1fbO9u4pL7r) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Badass Woman \(From The Motion Picture "The Hustle"\)](https://open.spotify.com/album/3Tc9tsOEotcIxR8SPW1dxC) | 3:30 |
-| 37 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 |
-| 38 | [If You Love Her \- feat\. Meghan Trainor](https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [If You Love Her \(feat\. Meghan Trainor\)](https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2) | 3:35 |
+| 37 | [If You Love Her \- feat\. Meghan Trainor](https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [If You Love Her \(feat\. Meghan Trainor\)](https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2) | 3:35 |
+| 38 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 |
 | 39 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 |
 | 40 | [I Love Me](https://open.spotify.com/track/0qPFRNlt5oKwW7xCpf0iwM) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 2:47 |
 | 41 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 51 | [Painkiller \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6ILsOdeN5cv3M0tp0ootWF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:23 |
 | 52 | [All The Ways](https://open.spotify.com/track/2V7UKe51RYveJXa8Hp3B5Y) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 2:55 |
 | 53 | [My Selfish Heart](https://open.spotify.com/track/3nomMSRbIRpAfIZLf3jOqS) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:46 |
-| 54 | [Kindly Calm Me Down](https://open.spotify.com/track/5dNsvzQqFLEmzyM5pCtODi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:58 |
-| 55 | [TREAT MYSELF](https://open.spotify.com/track/64BWkOjyNcmXoWH0b0Wq4R) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/3PdISxhFjQfTfzIltARJuG) | 2:53 |
+| 54 | [TREAT MYSELF](https://open.spotify.com/track/64BWkOjyNcmXoWH0b0Wq4R) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/3PdISxhFjQfTfzIltARJuG) | 2:53 |
+| 55 | [Kindly Calm Me Down](https://open.spotify.com/track/5dNsvzQqFLEmzyM5pCtODi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:58 |
 | 56 | [After You](https://open.spotify.com/track/2QmkjRXbiQ9Jf9SHc9AOSu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:26 |
 | 57 | [What If I](https://open.spotify.com/track/2Xd6Dy0x0MkfcGQ7Sqdkqi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:18 |
 | 58 | [Workin' On It \(feat\. Lennon Stella & Sasha Alex Sloan\)](https://open.spotify.com/track/4y1F0A5GeyDN5EdAIggqTB) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:01 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 133 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 134 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `Mjg0ODA0NTAsMDAwMDAwMDA1MTY1NjlkNGRmODlhZDU4NjViNTI1MmJiYzg1OTk2YQ==`
+Snapshot ID: `Mjg0ODE4OTAsMDAwMDAwMDA2Y2RkMzI3NTFjY2VhYTE4YzRlYWI2OGYxZTE5MzY3YQ==`

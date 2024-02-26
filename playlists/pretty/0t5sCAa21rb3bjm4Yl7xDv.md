@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Selena Gomez
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,452 likes - 101 songs - 5 hr 13 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,449 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 193075,
+  "2024-02-26": 193090,
   "date_first_scraped": "2023-01-19",
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
   "name": "This Is A Boogie Wit da Hoodie",
@@ -237,6 +237,28 @@
       "duration_ms": 136973,
       "name": "Booby Trap",
       "url": "https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR"
+    },
+    {
+      "album": {
+        "name": "LLAMADA PERDIDA",
+        "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221421,
+      "name": "Boogie Chata (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0KmbZSG6sTyZoflJbg9Uwu"
     },
     {
       "album": {
@@ -577,7 +599,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 202133,
       "name": "Glasses",
       "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"

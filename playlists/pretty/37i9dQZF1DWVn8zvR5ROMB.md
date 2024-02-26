@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jordan Davis, Bailey Zimmerman, Kenny Chesney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,473 likes - 67 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,664 likes - 67 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Hate This](https://open.spotify.com/track/4Qn7rSZvWOHy0erNMuWTDg) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Hate This](https://open.spotify.com/album/6QZZqvaAynbSUAgqumnqdc) | 3:12 |
 | 67 | [Ride With You](https://open.spotify.com/track/5vp0PvFdOcjUSINLltItfm) | [Buckstein](https://open.spotify.com/artist/4eMS4ToI7LTDDFcUuMvKOX) | [Ride With You](https://open.spotify.com/album/4Nm2el0waMAqJkKrS6H6x1) | 3:43 |
 
-Snapshot ID: `MCxlYzFiN2RjMzgwMTM1NDk1YjllNDFjMDBiOTY1N2UzMmIwMTVlMGM3`
+Snapshot ID: `MCxkODIyNDc3MmNjMGRjZTRkYTNkNDg0NWM1YjZhYjAwNzQ0ZDM2Yzg1`

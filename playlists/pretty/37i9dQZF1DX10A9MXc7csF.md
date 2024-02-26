@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Emanuel Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,485 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,490 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Amar Otra Vez](https://open.spotify.com/track/1wWROnFqptp0EsNZU3JlKK) | [Cash Bently](https://open.spotify.com/artist/6yjpnGMq2yiLvJCSIVBwzd) | [Cash Corridos 3](https://open.spotify.com/album/4pM7rMUi8J9UcuJG2JtJDh) | 2:37 |
 | 60 | [El Gatito SRT](https://open.spotify.com/track/2DjMsiNfNqToQGhSwyRhoD) | [Lorenzo Estrada](https://open.spotify.com/artist/6mWA1kHrFxOVWVtn1TZRgU) | [El Gatito SRT](https://open.spotify.com/album/3Oxpt2ju9u6exzHOWl97kT) | 2:45 |
 
-Snapshot ID: `MCw5NWViZTQyZDMzZDI0ZWI1NDJjMDJhNTUyN2UxZWY5MzM4ZTdjZTgz`
+Snapshot ID: `MCxkZjNmZWZlOGFmYjBhZTBhNTc5M2I3ZDFiZjBlZjEyNzdhMWM3ZTNk`

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 23660,
+  "num_followers": 23684,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2M5YmQ0OWQ2ZGU1ZWNhYjQxMzMzYmUxOTMxNzUwNDRmODI1MWNk",
+  "snapshot_id": "MCw0MWZkODMwMTA4Nzg5MmE3ZWZhNThmZjZjODY1MmVhY2IyZTM0ZTY5",
   "tracks": [
     {
       "added_at": "2024-02-22 09:44:01",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
+        "name": "The Dave Brubeck Quartet Featuring Paul Desmond In Concert",
+        "url": "https://open.spotify.com/album/3mjhty9NJpFD4WuAHHZ9x4"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 385706,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5ibCpoDH8OGVXxjmGlLl9v"
+    },
+    {
+      "added_at": "2024-02-22 09:44:01",
+      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
-    },
-    {
-      "added_at": "2024-02-22 09:44:01",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "The Dave Brubeck Quartet Featuring Paul Desmond In Concert",
-        "url": "https://open.spotify.com/album/3mjhty9NJpFD4WuAHHZ9x4"
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 385706,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5ibCpoDH8OGVXxjmGlLl9v"
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2024-02-22 09:44:01",

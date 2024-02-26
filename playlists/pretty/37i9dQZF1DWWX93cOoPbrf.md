@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Los Gemelos de Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,835 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,076 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Por Los Míos](https://open.spotify.com/track/5NkNurvhiesKAZGdjag90d) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [Por Los Míos](https://open.spotify.com/album/3msi2DuRz2v3xxNb8IuygJ) | 2:37 |
 | 75 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
 
-Snapshot ID: `MCwwYzdiZGQ0NzI1YWY0NTJmZDA2NTA1ZmU3OTBhODQyNTE5MWZjYzk1`
+Snapshot ID: `MCxkNGEyNWRhNjkxODMyNmMyZmUxNDAxYWZhYjY5ZTE2ODg5MjcyYTM0`

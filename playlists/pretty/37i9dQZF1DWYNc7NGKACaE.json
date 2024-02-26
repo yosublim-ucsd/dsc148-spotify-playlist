@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 77601,
+  "num_followers": 77627,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy",
+  "snapshot_id": "MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4",
   "tracks": [
     {
       "added_at": "2023-12-27 14:18:14",
@@ -735,30 +735,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Manda \u00c1udio (Sped Funk)",
-        "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        }
-      ],
-      "duration_ms": 99759,
-      "name": "Manda \u00c1udio (Sped Funk)",
-      "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Manda \u00c1udio (Sped Funk)",
+        "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        }
+      ],
+      "duration_ms": 99759,
+      "name": "Manda \u00c1udio (Sped Funk)",
+      "url": "https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "SEGREDO VERS\u00c3O BH",
-        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
-      },
-      "artists": [
-        {
-          "name": "Dj Vr Silva",
-          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
-        },
-        {
-          "name": "Karui",
-          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
-        }
-      ],
-      "duration_ms": 156922,
-      "name": "SEGREDO VERS\u00c3O BH",
-      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Virgulado",
         "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "SEGREDO VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
+      },
+      "artists": [
+        {
+          "name": "Dj Vr Silva",
+          "url": "https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I"
+        },
+        {
+          "name": "Karui",
+          "url": "https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw"
+        }
+      ],
+      "duration_ms": 156922,
+      "name": "SEGREDO VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "NICOTINA",
-        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
-      },
-      "artists": [
-        {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
-        }
-      ],
-      "duration_ms": 90240,
-      "name": "NICOTINA - Speed",
-      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "Sustenta a Botada",
         "url": "https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 144915,
       "name": "Sustenta a Botada - Speed",
       "url": "https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "NICOTINA",
+        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        }
+      ],
+      "duration_ms": 90240,
+      "name": "NICOTINA - Speed",
+      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
     },
     {
       "added_at": "2023-12-27 14:18:14",

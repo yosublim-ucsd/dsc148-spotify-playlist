@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SUPER BEAVER \*👉 <a href="https://spice.eplus.jp/articles/326494?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,682 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,710 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [月の熱](https://open.spotify.com/track/66uxCTJ3WCI1NvL1pzPuS2) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [月の熱](https://open.spotify.com/album/08iVUbPFYM5baMIOV24RS6) | 4:04 |
 | 80 | [Re\-魔法](https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Re\-魔法](https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo) | 4:38 |
 
-Snapshot ID: `MCw4Y2FkMjA1ZWI1ODM5NDQxOWVkODMzNjJjYWQ2YTNhZTRjNTRjYTAy`
+Snapshot ID: `MCxlMzc4ODQwNTViNDk0YTFjYTE2ZGVkZjFmN2JmYjFmNjE2ZWY0MWIz`

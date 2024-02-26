@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca in cover.",
-  "num_followers": 39467,
+  "num_followers": 39498,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTQ2YzhjODMxMDU3N2YyNTkzZDg4YzgwMmI1MGExMzIwYmUzMjA0",
+  "snapshot_id": "MCw4YzIwMTRiYzc1ZmViNTYyYTlkYzBjYTdmNWQ3Y2QzNjFjNDkwOTc0",
   "tracks": [
     {
       "added_at": "2024-02-22 23:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Faccio Quello Che Voglio",
+        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Non Piove",
+      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 205186,
       "name": "Da 1k In Su (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Faccio Quello Che Voglio",
-        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
-      },
-      "artists": [
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Non Piove",
-      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "La Novit\u00e0 (feat. Mostro)",
-        "url": "https://open.spotify.com/album/1W3wlUse97Ubgc8iPFJk0Z"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mostro",
-          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 245434,
-      "name": "La Novit\u00e0 (feat. Mostro)",
-      "url": "https://open.spotify.com/track/2LvX1NpoVEZITNQrBeRRb5"
+      "duration_ms": 354506,
+      "name": "Rigurgito antifascista",
+      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "La Novit\u00e0 (feat. Mostro)",
+        "url": "https://open.spotify.com/album/1W3wlUse97Ubgc8iPFJk0Z"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
         }
       ],
-      "duration_ms": 354506,
-      "name": "Rigurgito antifascista",
-      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
+      "duration_ms": 245434,
+      "name": "La Novit\u00e0 (feat. Mostro)",
+      "url": "https://open.spotify.com/track/2LvX1NpoVEZITNQrBeRRb5"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Rebus",
-        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Bugie Bianche",
-      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Rebus",
+        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Bugie Bianche",
+      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Il Tempo Vola 2002-2020",
+        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bugiardo",
+      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 179936,
       "name": "Guardie&Ladri (feat. Nayt)",
       "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Il Tempo Vola 2002-2020",
-        "url": "https://open.spotify.com/album/2t9xl2JQTdrndND3rdwIh6"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Bugiardo",
-      "url": "https://open.spotify.com/track/0sUDu8d4eRNgRk1u7WKINl"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Fuoco Sacro (feat. Colle Der Fomento)",
         "url": "https://open.spotify.com/album/3XvdjncaFFf6vTMcb35Gtj"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 287895,
       "name": "Fuoco Sacro (feat. Colle Der Fomento)",
       "url": "https://open.spotify.com/track/2fTBUYU6YJVbfHGTm56coQ"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1567,42 +1587,6 @@
       "duration_ms": 188456,
       "name": "Sono un Disastro",
       "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 242378,
       "name": "Casse rotte (feat. Brokenspeakers)",
       "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Ritorno",
         "url": "https://open.spotify.com/album/78JPV3YmDNUY0cECMdEXUn"
       },
@@ -1743,38 +1759,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
         "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 230375,
       "name": "Pioggia infinita",
       "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1839,18 +1839,26 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "-/-/-/-/-(L'attesa)",
-        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+        "name": "Infernum",
+        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Michele Venanzoni",
+          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
         }
       ],
-      "duration_ms": 277826,
-      "name": "Cose Preziose (Variante Di Lunenberg)",
-      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
+      "duration_ms": 180776,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1883,6 +1891,22 @@
       "duration_ms": 145446,
       "name": "SPECIALIST",
       "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "-/-/-/-/-(L'attesa)",
+        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 277826,
+      "name": "Cose Preziose (Variante Di Lunenberg)",
+      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -1923,30 +1947,6 @@
       "duration_ms": 183265,
       "name": "Lontano 2036",
       "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Infernum",
-        "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Michele Venanzoni",
-          "url": "https://open.spotify.com/artist/5Pp7noxtW19NbiFiZzOZpB"
-        }
-      ],
-      "duration_ms": 180776,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "The Newkingztape, Vol. 1",
+        "url": "https://open.spotify.com/album/7JWProXxk4k412vG7fJj3J"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Non Mi Avrete Mai",
+      "url": "https://open.spotify.com/track/1Uz7oq3Fe54LozBaydosIQ"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Max",
         "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
       },
@@ -2319,26 +2335,6 @@
       "duration_ms": 260800,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "MEDIOEGO",
-        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "VETERANO (feat. DJ Shocca)",
-      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -2399,6 +2395,26 @@
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "MEDIOEGO",
+        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "VETERANO (feat. DJ Shocca)",
+      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -2503,30 +2519,6 @@
       "duration_ms": 296093,
       "name": "Meglio Che Scendi",
       "url": "https://open.spotify.com/track/0LI4s4rl0QNYV0OrdHSYOY"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "One Shot",
-        "url": "https://open.spotify.com/album/1RKEPBGYN2Ei1iQcKFdZhm"
-      },
-      "artists": [
-        {
-          "name": "Giovane Feddini",
-          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
-        },
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        },
-        {
-          "name": "Ric de Large",
-          "url": "https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "One Shot",
-      "url": "https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU"
     }
   ],
   "unique_name": "Radici Hip-Hop",

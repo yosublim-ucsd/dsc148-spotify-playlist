@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 57986,
+  "num_followers": 57997,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGM0ZGJhMGE1ZTY0NWNkMmM5NzIwNTZmODhlNTIwMGY5NDdjODI2",
+  "snapshot_id": "MCxhZjExNmExY2VhYTAyNjEzYWQwYWVjNGZjMWFiYjgyYjQyOTMyMjg5",
   "tracks": [
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
-        "name": "Seguirla",
-        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
-      },
-      "artists": [
-        {
-          "name": "Gaspar OM",
-          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 191776,
-      "name": "Seguirla",
-      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Desinformation",
-        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
+        "name": "Torito",
+        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 243391,
-      "name": "Desinformation",
-      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
+      "duration_ms": 196000,
+      "name": "Torito",
+      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1439,38 +1439,6 @@
       "duration_ms": 258000,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
-        "name": "Torito",
-        "url": "https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Torito",
-      "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1499,6 +1467,38 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
+        "name": "Desinformation",
+        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 243391,
+      "name": "Desinformation",
+      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
         "name": "Liberaci\u00f3n",
         "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Tenia Tanto Para Darte",
-        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
       },
       "artists": [
         {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 263144,
-      "name": "Tenia Tanto Para Darte",
-      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
+        "name": "Tenia Tanto Para Darte",
+        "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 263144,
+      "name": "Tenia Tanto Para Darte",
+      "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
         "name": "El Gran Poder, Vol. 2",
         "url": "https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 215083,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
-        "name": "En Vivo Teatro Caupolic\u00e1n",
-        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 251567,
-      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
-      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     }
   ],
   "unique_name": "Reggae al Sur",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,022 songs - 6 day 9 hr 45 min
+4,023 songs - 6 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Distance](https://open.spotify.com/track/1Uio2dav0ZkJol7H9z2BK1) | [Jr\. Wellness](https://open.spotify.com/artist/7oc0u9Q0BkLat7c10fuHoF) | [Distance](https://open.spotify.com/album/5fPyps9KSXMiMiQSva5uoe) | 1:49 | 2021-02-14 | 2021-08-27 |
 | [Distances](https://open.spotify.com/track/6UMSnFNKH8Wb3PTZV5rQIE) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Distances](https://open.spotify.com/album/7wlGKkBInJWN8ZT7jVqlZa) | 1:56 | 2021-10-01 | 2023-11-24 |
 | [Distant Bustle](https://open.spotify.com/track/6Ox6q0vDLVKM41hBWnNydl) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Balcony Stories](https://open.spotify.com/album/0FmiMFTvlS0T211JgY7s3Q) | 1:57 | 2023-12-01 | 2023-12-22 |
+| [Distant Echoes](https://open.spotify.com/track/0ILggZPum1UMIIMuFAis5F) | [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Distant Echoes](https://open.spotify.com/album/1piYRHCGSsoNvcQfRHK9P8) | 2:43 | 2024-02-22 |  |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-04-28 | 2022-11-04 |
 | [Distraction](https://open.spotify.com/track/0Bpom7WsAdtk2e1lC5Qh6V) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Distraction](https://open.spotify.com/album/4ezXHBav6PCEJGr1ks1IJu) | 1:10 | 2019-10-11 | 2020-02-25 |
 | [divagando](https://open.spotify.com/track/1Efb7K2DjU5Fd0Nt5haXWY) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [divagando](https://open.spotify.com/album/3ZuKIiugjvSUYugMkYo9oC) | 2:08 | 2023-10-19 | 2024-01-12 |
@@ -1726,7 +1727,7 @@
 | [Jonfidence](https://open.spotify.com/track/2gTpjgb1NbvPViDHJUPJov) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [3pmbeatz](https://open.spotify.com/artist/4a3EaoH3UoVXC5Kt68AeMe) | [Space Maneuvers EP](https://open.spotify.com/album/2AFzAsp7OXwL7VZASRvWDJ) | 2:49 | 2021-11-12 | 2022-06-24 |
 | [Joni \- Live](https://open.spotify.com/track/3nKwfmras6MEfT9KfqFIfP) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Zijon](https://open.spotify.com/artist/56qVy7UZpdS4QSze8e3ZXA) | [Joni / Dirty Brass](https://open.spotify.com/album/5dUjbX3FmBiNnGdzTXjYDP) | 1:51 | 2019-05-26\* | 2019-08-13 |
 | [Jordans](https://open.spotify.com/track/6vJ4Z2Hc5Bmm0sdqf9CtTR) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Jordans](https://open.spotify.com/album/6GZT9DaFCdjvdy16esFGcA) | 2:58 | 2022-02-24 | 2022-04-22 |
-| [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 | 2024-02-08 |  |
+| [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 | 2024-02-08 | 2024-02-26 |
 | [Journey](https://open.spotify.com/track/0YYVvpHHqQ2eIhOvDwuaM3) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Journey](https://open.spotify.com/album/46DkLM24GRtWS6mw8jLVwT) | 2:03 | 2022-12-01 | 2023-06-02 |
 | [Journey](https://open.spotify.com/track/1vZUtM8CkOcfdmGJJDSDcM) | [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Out of Office](https://open.spotify.com/album/7p3u62N1aOmrTQ95VuPrYI) | 1:30 | 2021-06-05 | 2021-11-26 |
 | [Journey](https://open.spotify.com/track/4d76t4Be2X4TK8nFaY0z52) | [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [Journey](https://open.spotify.com/album/4Fsu8pPE83dm2kEhO86Tsr) | 1:45 | 2023-11-13 | 2023-12-02 |

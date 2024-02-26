@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Las Ganas Me Sobran",
+        "url": "https://open.spotify.com/album/6FVKnembS1hzUwl02DJva8"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "El De Los 20 \u201cEl Cachora\u201d",
+      "url": "https://open.spotify.com/track/5GUtX5G4owuZrkEVCgJ585"
+    },
+    {
+      "album": {
         "name": "\u00bfSer\u00e1 Prudente?",
         "url": "https://open.spotify.com/album/1j6Hr9ZFTNbAOj953dqmfb"
       },
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 155213,
       "name": "Oye",
       "url": "https://open.spotify.com/track/04JEvxmdGP93VzXekCxoJZ"

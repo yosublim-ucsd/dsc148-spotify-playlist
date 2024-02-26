@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-471 songs - 1 day 3 hr 59 min
+472 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-02-24 | 2022-04-20 |
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-12-23 | 2023-02-04 |
 | [Joint 3](https://open.spotify.com/track/3E0qbzENHXGixehNHr6Hsr) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Some Things Take Time](https://open.spotify.com/album/4npRaJShorujh6Mjfl8WZU) | 2:15 | 2022-04-14 | 2023-04-07 |
+| [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-02-22 |  |
 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-12-23 | 2022-07-29 |
 | [killer tune kills me](https://open.spotify.com/track/2JCdUwmGDO3SBkhwkfRaLr) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:10 | 2022-01-13 | 2022-06-27 |
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-10 | 2022-07-28 |
@@ -336,7 +337,7 @@
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2022-02-10 | 2022-07-29 |
 | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Suede Jury](https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr) | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA) | 3:08 | 2023-02-16 | 2024-01-19 |
 | [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 | 2023-07-13 | 2023-08-11 |
-| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 |  |
+| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2024-02-26 |
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-07 | 2022-08-19 |
 | [Sonhos Cor De Rosa](https://open.spotify.com/track/4BKsABy7jDwmuGRvnUcZkK) | [Tiawa](https://open.spotify.com/artist/0QrKRZo0bqCEvzjXfanjqw) | [Sonhos Cor De Rosa](https://open.spotify.com/album/3CaqsA6ii3fB6ME0EBZEQl) | 2:35 | 2022-03-31 | 2022-04-17 |
 | [SPACE](https://open.spotify.com/track/0w8KR0YHluavjJx1DLwu6Q) | [Spice rhythm](https://open.spotify.com/artist/5lmsbZAumn8MwK6llKn4Kx), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [SPACE](https://open.spotify.com/album/58UDQ360N0Iswe8is6rSuu) | 4:17 | 2022-03-24 | 2022-04-19 |

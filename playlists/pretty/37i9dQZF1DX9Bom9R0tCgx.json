@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 365134,
+  "num_followers": 365235,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTgyM2Y4MzFhZTNjMTZjMDlhYTU0ZWVlN2Y3YmQzZTkyNDcwZmIw",
+  "snapshot_id": "MCwyYWU3ZWQxOWVlNzA1ZGU2NGNhODJjMjU1ZWEzMjYyMThlNmQ2ZTk5",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Push Up (Original Mix)",
-        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 240059,
-      "name": "Push Up - Original Mix",
-      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 116433,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Push Up (Original Mix)",
+        "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 240059,
+      "name": "Push Up - Original Mix",
+      "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "Baby When The Light",
         "url": "https://open.spotify.com/album/5WMLIFXqC0ajansfAnQ8WV"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 155165,
       "name": "Baby When The Light",
       "url": "https://open.spotify.com/track/147hiQi8wu8SimEk0FAfzD"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1463,6 +1463,30 @@
       "duration_ms": 196615,
       "name": "Calling",
       "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 123669,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1547,30 +1571,6 @@
       "duration_ms": 230400,
       "name": "In The City - Yves V Remix",
       "url": "https://open.spotify.com/track/4tB7IiWex4iuPhdmOSDpo3"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/4A3yLU4tRdZ2vp8M27hsTB"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 123669,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Rising Dust",
+          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
+        }
+      ],
+      "duration_ms": 607552,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "Popcorn (Rework)",
         "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 167294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "Universo",
-        "url": "https://open.spotify.com/album/6lTv8SLRs1naQuh7YvdMjM"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Rising Dust",
-          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
-        }
-      ],
-      "duration_ms": 607552,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5DRGuHS0xJ3X3OZjCrglTI"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -2027,30 +2027,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "I Like The Way",
-        "url": "https://open.spotify.com/album/6Pp506fICZB5kD6futGFpp"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "HOURS",
-          "url": "https://open.spotify.com/artist/3mSK6i2fFglCG4ZspL0GnQ"
-        },
-        {
-          "name": "Tony Koma",
-          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/2WS439Dg6I4yJ9b6nnHS6l"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "One Day Left",
         "url": "https://open.spotify.com/album/6Gcq9YBTwpOsZxKXtZosrG"
       },
@@ -2071,6 +2047,30 @@
       "duration_ms": 206555,
       "name": "One Day Left",
       "url": "https://open.spotify.com/track/6j7c7qxP1BXBzbF6B9uxSz"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6Pp506fICZB5kD6futGFpp"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "HOURS",
+          "url": "https://open.spotify.com/artist/3mSK6i2fFglCG4ZspL0GnQ"
+        },
+        {
+          "name": "Tony Koma",
+          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/2WS439Dg6I4yJ9b6nnHS6l"
     },
     {
       "added_at": "2024-02-22 23:00:00",

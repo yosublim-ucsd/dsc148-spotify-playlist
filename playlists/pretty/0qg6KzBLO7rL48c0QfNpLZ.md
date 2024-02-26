@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 87,367 likes - 193 songs - 8 hr 56 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 87,619 likes - 193 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 17 | [crazy about you](https://open.spotify.com/track/22Kg9zkWePQpMdAAY3gplQ) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [crazy about you](https://open.spotify.com/album/795sLNiCOS6x2NJrmgT5BE) | 2:00 |
 | 18 | [Eyes Closed](https://open.spotify.com/track/5jJ67pAyLn89MqDoyyvQDd) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Eyes Closed](https://open.spotify.com/album/5PZsQtGRqhDNevRzj0Owmx) | 2:26 |
 | 19 | [On My Mind](https://open.spotify.com/track/5iXb773yc0P2Iqldzmg07X) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [Polariz](https://open.spotify.com/artist/5iw2cqb1v4T3RXOfKKslbq) | [On My Mind](https://open.spotify.com/album/483fnsVnxmkXzij70WA0X8) | 2:24 |
-| 20 | [Paris](https://open.spotify.com/track/2AwK34wiXqYBYr3DCI42LT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Paris](https://open.spotify.com/album/17UydYUpL2HYS6OQcYeKTK) | 2:57 |
-| 21 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 |
+| 20 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 |
+| 21 | [Paris](https://open.spotify.com/track/2AwK34wiXqYBYr3DCI42LT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Paris](https://open.spotify.com/album/17UydYUpL2HYS6OQcYeKTK) | 2:57 |
 | 22 | [Stole The Show](https://open.spotify.com/track/1SliPnarWMr2ABCvXzcU0k) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Britt](https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1) | [Stole The Show](https://open.spotify.com/album/3JhPrgL6Pq0xNBfw6CqK6u) | 3:07 |
 | 23 | [Another Day In Paradise](https://open.spotify.com/track/5RrsZazIDMMgkaVKYgRrZT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc) | [Another Day In Paradise](https://open.spotify.com/album/42yDY5FsWA93wG58kLs1Mb) | 2:17 |
 | 24 | [Unfold](https://open.spotify.com/track/3KU2gXZK47LdgH4ikBPKcQ) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Unfold](https://open.spotify.com/album/0ZcnPmqs0A072tQRA2cqWL) | 3:07 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 192 | [Walking On a Dream](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Walking On a Dream](https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s) | 2:49 |
 | 193 | [Alive](https://open.spotify.com/track/1jDLjeBGASzg5v9bOfJhA2) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Alive](https://open.spotify.com/album/3xovyf9YQeNiHusP6Z20Wv) | 2:00 |
 
-Snapshot ID: `NTE4MixiMTRmYTQxZGUwZGY1ODdhOTVhMGVhYzVjZGU4MzQxMTQ1N2UwYjdk`
+Snapshot ID: `NTE4NSw2ZmYzZTBmMDkzZTRhMzMyM2ZkYjM4NDg2MmY1ZTk3NDk3Yzk0Yjdi`

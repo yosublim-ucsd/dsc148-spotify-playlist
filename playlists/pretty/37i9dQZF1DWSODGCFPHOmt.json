@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Panter Belico\n",
-  "num_followers": 10970,
+  "num_followers": 10969,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGVmYzg1ZmE5ODI1MmMzZDAwYjFlOTczNDQxODIxY2M5ODQ5Nzlk",
+  "snapshot_id": "MCw2N2I5MWI5ODU5Nzg4NjdkMGM4NmRhMjdjY2Q5OWY1ZGY5YzE2ZTI4",
   "tracks": [
     {
       "added_at": "2023-11-30 20:30:31",
@@ -559,34 +559,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Eterna Navidad Celebremos",
-        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Am\u00e9rica Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
-        },
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        },
-        {
-          "name": "Valentina Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "50 Mentadas",
         "url": "https://open.spotify.com/album/7xFuSIZCtlLXW5YWlLHlF9"
       },
@@ -619,6 +591,34 @@
       "duration_ms": 172626,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Eterna Navidad Celebremos",
+        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Am\u00e9rica Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "Valentina Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
+        "name": "La Diva en Vivo",
+        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Navidad Sin Ti - Live",
+      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
         "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 187853,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "La Diva en Vivo",
-        "url": "https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Navidad Sin Ti - Live",
-      "url": "https://open.spotify.com/track/0IowQHym495GsLIVyuScWH"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Rodolfo El Reno",
-        "url": "https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 207766,
-      "name": "Rodolfo El Reno",
-      "url": "https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Solo En Navidad",
         "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191117,
       "name": "Solo En Navidad",
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
+        "name": "Rodolfo El Reno",
+        "url": "https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 207766,
+      "name": "Rodolfo El Reno",
+      "url": "https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
         "name": "Ya Viene Nochebuena",
         "url": "https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 196524,
       "name": "El Ni\u00f1o Del Tambor",
       "url": "https://open.spotify.com/track/5jGT4Ex7tp33av5SZVzf1Q"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 239547,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -1203,38 +1219,6 @@
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 239547,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1291,6 +1275,38 @@
       "duration_ms": 174933,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1387,22 +1403,6 @@
       "duration_ms": 237869,
       "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "Feliz Navidad Con Banda el Recodo de Cruz Liz\u00e1rraga",
-        "url": "https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV"
     }
   ],
   "unique_name": "La Posada",

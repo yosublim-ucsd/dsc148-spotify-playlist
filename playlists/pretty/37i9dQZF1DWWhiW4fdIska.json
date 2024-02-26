@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 26057,
+  "num_followers": 26083,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODg5ZjM1MWVjZmQxMWFkZWY5MzFiNDM4ZjE3NzZlMTA4ZGI0NmRk",
+  "snapshot_id": "MCxkNGQ4YWQzNWYyZDE0MzEzZGY5ODhmZWZkYjRiNjdhYjhhZGY3YzIw",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Cuttin' In",
-      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 910573,
       "name": "Blues At Sunrise",
       "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Ain't Enough Comin' In",
         "url": "https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 316666,
       "name": "It's My Own Fault",
       "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "The Very Best Of Albert King",
+        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
     }
   ],
   "unique_name": "Classic Blues Guitar",

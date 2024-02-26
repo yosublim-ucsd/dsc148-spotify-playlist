@@ -1,12 +1,12 @@
 {
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
-  "num_followers": 205607,
+  "num_followers": 205644,
   "original_name": "Arabic Trap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmUxMTg4MTM1NjY4NGJkZDIyMGZiMjczM2YzNjRlZTBiNzRjYjRk",
+  "snapshot_id": "MCxjOTgwZTc2NjU0MDkyNGU1NGE4MWM2ZGQxYjNhNjQwYjcyMzdmZmEx",
   "tracks": [
     {
       "added_at": "2023-02-17 13:36:32",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-02-17 13:36:32",
       "album": {
+        "name": "Arab Trap 2 / Habibi",
+        "url": "https://open.spotify.com/album/3rKeeAPE0Dj9QuzMqWIoCL"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "duration_ms": 122042,
+      "name": "Arab Trap 2 / Habibi",
+      "url": "https://open.spotify.com/track/3QelStmhpPgN2yDwxFuC7x"
+    },
+    {
+      "added_at": "2023-02-17 13:36:32",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7EbausJGSxGqXADTwIPdc8"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 137124,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5st0Mq0TsCJw1SMQXv6ugS"
-    },
-    {
-      "added_at": "2023-02-17 13:36:32",
-      "album": {
-        "name": "Arab Trap 2 / Habibi",
-        "url": "https://open.spotify.com/album/3rKeeAPE0Dj9QuzMqWIoCL"
-      },
-      "artists": [
-        {
-          "name": "DJ KABOO",
-          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
-        }
-      ],
-      "duration_ms": 122042,
-      "name": "Arab Trap 2 / Habibi",
-      "url": "https://open.spotify.com/track/3QelStmhpPgN2yDwxFuC7x"
     },
     {
       "added_at": "2023-02-17 13:36:32",

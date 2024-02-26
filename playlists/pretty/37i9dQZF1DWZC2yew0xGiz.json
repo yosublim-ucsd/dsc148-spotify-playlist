@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWZkZGYxZDFiN2Y1Mzc4ODJjZGM2MTg3MGMxY2VlMjhhZmZlMTFj",
+  "snapshot_id": "MCw0NzI1YmU2ZmRhZDgxYzI3YjFjNmE2ZDAyYjFhN2EwOTcyNmU3Mzkx",
   "tracks": [
     {
       "added_at": "2021-02-02 15:31:39",
@@ -323,26 +323,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 301626,
-      "name": "Give U My Heart (feat. Toni Braxton)",
-      "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "The Nutty Professor",
         "url": "https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 232706,
       "name": "Touch Me Tease Me",
       "url": "https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 301626,
+      "name": "Give U My Heart (feat. Toni Braxton)",
+      "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -447,26 +447,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "HAV PLENTY Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 263893,
       "name": "Get It Up - From The Columbia Motion Picture \"Poetic Justice\"",
       "url": "https://open.spotify.com/track/1zzmsLdx09eAIsB51QGkeJ"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "HAV PLENTY Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
     },
     {
       "added_at": "2021-02-02 15:31:39",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-02-02 15:31:39",
       "album": {
-        "name": "Don't Be A Menace To South Central While Drinking Your Juice In The Hood (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XhMjct5IBKfbl0N3NsRac"
-      },
-      "artists": [
-        {
-          "name": "Lost Boyz",
-          "url": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5"
-        }
-      ],
-      "duration_ms": 300093,
-      "name": "Renee",
-      "url": "https://open.spotify.com/track/6oEatPhiu9HoijKnU4v7WJ"
-    },
-    {
-      "added_at": "2021-02-02 15:31:39",
-      "album": {
         "name": "Do The Right Thing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 323466,
       "name": "Fight The Power - From \"Do The Right Thing\" Soundtrack",
       "url": "https://open.spotify.com/track/6lrs0IVK1i7SsVXxYW3IUG"
+    },
+    {
+      "added_at": "2021-02-02 15:31:39",
+      "album": {
+        "name": "Don't Be A Menace To South Central While Drinking Your Juice In The Hood (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XhMjct5IBKfbl0N3NsRac"
+      },
+      "artists": [
+        {
+          "name": "Lost Boyz",
+          "url": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Renee",
+      "url": "https://open.spotify.com/track/6oEatPhiu9HoijKnU4v7WJ"
     },
     {
       "added_at": "2021-02-02 15:31:39",

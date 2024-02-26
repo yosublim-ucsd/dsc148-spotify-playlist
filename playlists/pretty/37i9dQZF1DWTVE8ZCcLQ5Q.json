@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413722,
+  "num_followers": 413707,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2",
+  "snapshot_id": "MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Aguida Beats",
-          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
-        }
-      ],
-      "duration_ms": 154211,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Ver\u00e3o 021",
         "url": "https://open.spotify.com/album/0YEmY36nlVtX7odjfKFasc"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 182526,
       "name": "Ver\u00e3o 021",
       "url": "https://open.spotify.com/track/74uMkyhm8QY9XDjOou0t9i"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Aguida Beats",
+          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
+        }
+      ],
+      "duration_ms": 154211,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
       },
       "artists": [
         {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Eldorado Music",
+          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
         }
       ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
+      "duration_ms": 116571,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
       "artists": [
         {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Eldorado Music",
-          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
         }
       ],
-      "duration_ms": 116571,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
     },
     {
       "added_at": "2023-10-05 08:00:00",

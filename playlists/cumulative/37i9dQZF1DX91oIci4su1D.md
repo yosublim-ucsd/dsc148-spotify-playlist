@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-849 songs - 2 day 3 hr 37 min
+850 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Colour Me](https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Jan Burton](https://open.spotify.com/artist/5ESBqKoYWcMYwlngYyjcOB) | [Horizons \[Part 1\]](https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i) | 3:57 | 2022-05-20 | 2023-06-10 |
 | [Come Alive](https://open.spotify.com/track/0OO4gJdvGDN5a6WLioUObV) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [KAMA](https://open.spotify.com/artist/3dmaTiNzEiJ1D6YWCAyNM5) | [Come Alive](https://open.spotify.com/album/0FQihea0lY10da6hAwhYvj) | 2:09 | 2023-12-15 |  |
 | [Coming Home Again](https://open.spotify.com/track/4dpyt1bkbRDxY750vbw1sx) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Coming Home Again](https://open.spotify.com/album/6CCnaL2CgbW89JVL7CvdKD) | 3:22 | 2023-06-23 |  |
+| [Coming On Strong \- Trance Mix](https://open.spotify.com/track/4yozY8jbqO4L7Y8QRhH8sY) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Paul Findlay](https://open.spotify.com/artist/5PmrFNfi36ip2rjbGyY0AL), [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong \(Trance Mix\)](https://open.spotify.com/album/3OkNj45Dddtepk0AJECdKt) | 2:56 | 2024-02-23 |  |
 | [Coming Up \(Hold On\)](https://open.spotify.com/track/5JamVoaV0pgr8K90T93Phk) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Coming Up \(Hold On\)](https://open.spotify.com/album/5d82RvjKS1KqBpiuGb3ksx) | 4:16 | 2022-11-11 | 2022-12-16 |
 | [Completely](https://open.spotify.com/track/6narPoP1lFtQmKdHeHYXiD) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Completely](https://open.spotify.com/album/1oBKnCIdeXJqHN13zDNDoO) | 2:49 | 2022-03-25 | 2022-10-08 |
 | [Concentrate](https://open.spotify.com/track/1AO8Yfpq0V9LmFy5sIUOSm) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Concentrate](https://open.spotify.com/album/4c6mrmetESg9RbB1oie3HW) | 3:54 | 2023-07-21 |  |
@@ -256,7 +257,7 @@
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 | 2023-06-10 |
 | [Fata Morgana](https://open.spotify.com/track/6ZPnUBqOW5cPG4gYBSbfhl) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P) | [Fata Morgana](https://open.spotify.com/album/6JJcpji6WEQKGEPdf473uv) | 4:06 | 2022-12-10 | 2023-06-10 |
-| [Fear Of Losing You](https://open.spotify.com/track/5ORIbtsiH4h6xNmZFT3kKm) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Rob Tirea](https://open.spotify.com/artist/0D1FNjQMAVognp7FFrjGte) | [Fear Of Losing You](https://open.spotify.com/album/1hLgJFFXlpOKzt9nCL8qRp) | 3:45 | 2024-02-16 |  |
+| [Fear Of Losing You](https://open.spotify.com/track/5ORIbtsiH4h6xNmZFT3kKm) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Rob Tirea](https://open.spotify.com/artist/0D1FNjQMAVognp7FFrjGte) | [Fear Of Losing You](https://open.spotify.com/album/1hLgJFFXlpOKzt9nCL8qRp) | 3:45 | 2024-02-16 | 2024-02-26 |
 | [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 | 2023-05-13 |
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 | 2023-12-09 |
 | [Feel It in My Soul](https://open.spotify.com/track/64XX2sg5YsAnOyTwhfTHlG) | [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Andy Jay Powell](https://open.spotify.com/artist/6LcWcssoNHGP2WHVA9Fk51) | [Feel It in My Soul](https://open.spotify.com/album/4JdyE6xgvTGZsAiHJ90D9e) | 3:16 | 2023-11-17 | 2023-12-09 |

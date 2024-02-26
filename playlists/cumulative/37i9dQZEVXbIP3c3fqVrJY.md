@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,361 songs - 2 day 22 hr 9 min
+1,362 songs - 2 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [FREE KARLO](https://open.spotify.com/track/2fsxqsypWqwKLwMEG5NFo0) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [FREE KARLO](https://open.spotify.com/album/6a65L18ax0PvDDNcersagp) | 3:24 | 2022-11-16 | 2022-11-19 |
 | [FREKVENCIA](https://open.spotify.com/track/0oaYDITh6PTG3xB68Fedfc) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 3:14 | 2022-06-21 | 2022-06-25 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-08-01 |
-| [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-24 |  |
+| [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-24 | 2024-02-26 |
 | [Frodo](https://open.spotify.com/track/58gAD4XPfVGhI68d5lPwaA) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7), [Huclberry](https://open.spotify.com/artist/0TugplS9T5YUowNlX8MRZt), [P\-Money](https://open.spotify.com/artist/2Q13jBmo9llBTWdgnZMzyS) | [END 2 END](https://open.spotify.com/album/05uDINMCU7mz3jsnris5CM) | 3:45 | 2023-10-06 | 2023-10-08 |
 | [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-05-01 | 2022-06-01 |
 | [Fuck Off](https://open.spotify.com/track/3kB6mWr36IETKr8NQkANwD) | [Milion Plus](https://open.spotify.com/artist/5nnHdjcmMZ0uDgAauJQyFE), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC) | [Krtek Forever](https://open.spotify.com/album/1keVt8iUKPMJcKLHL07Oql) | 3:06 | 2023-06-10 | 2023-07-02 |
@@ -1153,6 +1153,7 @@
 | [Ted a tady](https://open.spotify.com/track/4Khibn3vvWZ0yyrroWGrEr) | [Eight O](https://open.spotify.com/artist/1oR9k6INbjcgqbBMtiOCJU), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Ted a tady](https://open.spotify.com/album/2VESsIkSFuhmRhwv0CNrlw) | 3:07 | 2023-11-24 | 2023-12-02 |
 | [Ted a tady](https://open.spotify.com/track/6Fw8aX93pjCE9b14ujASEG) | [Eight O](https://open.spotify.com/artist/1oR9k6INbjcgqbBMtiOCJU), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Bloodline](https://open.spotify.com/album/0s1aOfEIE74ei3EZww4DnZ) | 3:07 | 2023-11-18 | 2023-11-25 |
 | [TELEKINESIS](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-07-29 | 2023-07-31 |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/2NXwHjhgaAdkDy6GPSxMAd) | 3:55 | 2024-02-25 |  |
 | [TEČE KREV](https://open.spotify.com/track/6woITIeNoqG3s5NWtJ4Vkf) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [TEČE KREV](https://open.spotify.com/album/0ex3wlWwXuRJblT04ty4Zy) | 3:12 | 2022-02-15 | 2022-02-21 |
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-08-04 |
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2023-12-24 | 2023-12-26 |

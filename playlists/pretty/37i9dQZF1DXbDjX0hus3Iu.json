@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 492799,
+  "num_followers": 492861,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi",
+  "snapshot_id": "MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Alligator Stew",
-        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
-      },
-      "artists": [
-        {
-          "name": "Alligator Stew",
-          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Cats On The Coast",
         "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 411720,
       "name": "Grey Ghost",
       "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Alligator Stew",
+        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
+      },
+      "artists": [
+        {
+          "name": "Alligator Stew",
+          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "The Johnny Van Zant Collection",
-        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
-      },
-      "artists": [
-        {
-          "name": "Johnny Van Zant Band",
-          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "The Johnny Van Zant Collection",
+        "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Van Zant Band",
+          "url": "https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji"
     },
     {
       "added_at": "2023-01-18 21:52:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,977 likes - 52 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,992 likes - 52 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 51 | [CALLE](https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [CALLE](https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5) | 3:42 |
 | 52 | [El Humo \- Canción Original De La Película "Lo Dejo Cuando Quiera"](https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:46 |
 
-Snapshot ID: `Mjg0Nzk2MjgsMDAwMDAwMDBhZmJlODg2MzdiZWI0ZDE0OTliODY2Yjc2NmMyYTQ3OQ==`
+Snapshot ID: `Mjg0ODEwNDAsMDAwMDAwMDA3NWI0MDRjMzRmNWEzNzVkYjE3MzI4NjViYWI5ODAzMg==`

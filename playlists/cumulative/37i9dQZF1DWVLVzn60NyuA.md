@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-449 songs - 23 hr 45 min
+450 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 | 2021-12-16 | 2022-04-13 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-04-12 |  |
 | [Damages](https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Damages](https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK) | 2:49 | 2021-12-16 |  |
-| [Day 2 Day](https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Day 2 Day](https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf) | 2:48 | 2022-12-14 |  |
+| [Day 2 Day](https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Day 2 Day](https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf) | 2:48 | 2022-12-14 | 2024-02-26 |
 | [Day By Day](https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Day By Day](https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB) | 3:22 | 2021-12-16 | 2023-07-08 |
 | [Deep Trip](https://open.spotify.com/track/4h5PxOJugIKZdOmZCMGEr7) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Deep Trip](https://open.spotify.com/album/2wI9QCrd0Qh9RoLE2HBZGN) | 1:54 | 2023-03-02 | 2023-05-24 |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2021-12-16 |  |
@@ -258,6 +258,7 @@
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-12-14 |  |
 | [Mehbooba](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2021-12-16 | 2021-12-29 |
 | [Meliza](https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Meliza](https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1) | 3:32 | 2021-12-16 | 2023-10-17 |
+| [Meliza](https://open.spotify.com/track/7dQFi51rjTv7ZqCKXU7uvp) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Meliza](https://open.spotify.com/album/5H7N7wIDlfGlgqC2DzQDi1) | 3:32 | 2024-02-23 |  |
 | [Meliza](https://open.spotify.com/track/18gZKStoeGtCAm2FV7qQHa) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Meliza](https://open.spotify.com/album/3x1h0c30W0emfeGvoop6WX) | 3:32 | 2023-10-15 | 2024-02-04 |
 | [Middle of the Night](https://open.spotify.com/track/4oJyts0kE96tUG8ddpnXrD) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [3 Roses EP](https://open.spotify.com/album/0Gzj1fD75NJjvwuX6akFWm) | 2:46 | 2022-07-28 | 2023-04-07 |
 | [Midnight Boom \- with ChocQuibTown & Afro B](https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Midnight Boom \(with ChocQuibTown & Afro B\)](https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk) | 3:40 | 2021-12-16 |  |

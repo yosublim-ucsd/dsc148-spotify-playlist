@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 84194,
+  "2024-02-26": 84243,
   "date_first_scraped": "2022-04-08",
   "description": "Se prendi\u00f3 la fiesta, featuring Marc Anthony.",
   "name": "SABOR",
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 206493,
       "name": "El Cepillo",
       "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 184341,
       "name": "Lao' a Lao'",
       "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"

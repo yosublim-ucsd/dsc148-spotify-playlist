@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 449844,
+  "2024-02-26": 449973,
   "date_first_scraped": "2022-01-21",
   "description": "Canciones con la adrenalina necesaria para dar esa milla extra.",
   "name": "Corre con Rock",
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -2375,7 +2375,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 205226,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,827 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,844 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 24 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 25 | [Let Us Go \- Instrumental](https://open.spotify.com/track/1ll1aZEXUFW8kzC8QKn9nN) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE) | 3:41 |
 | 26 | [Sunset \- Instrumental](https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 |
-| 27 | [Is It Still Beautiful \- Instrumental](https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
-| 28 | [With You \- Instrumental](https://open.spotify.com/track/4WgPuqy54nt2pi89GM5gHs) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Descendants Of The Sun Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6) | 4:14 |
+| 27 | [With You \- Instrumental](https://open.spotify.com/track/4WgPuqy54nt2pi89GM5gHs) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Descendants Of The Sun Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6) | 4:14 |
+| 28 | [Is It Still Beautiful \- Instrumental](https://open.spotify.com/track/2h1Ul51I7yWhu2KcI6RSaO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 | 29 | [Grown Ups \- Instrumental](https://open.spotify.com/track/56dM5ZfDfaN36TX4tpN2sG) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Mister \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/27W4TPTbZf1E9PGLjgQoaW) | 4:19 |
 | 30 | [An Ordinary Day \- Instrumental](https://open.spotify.com/track/4ly1bQiQoFw5FgY49QccGg) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Mister \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw) | 4:34 |
-| 31 | [Photo of My Mind \- Instrumental](https://open.spotify.com/track/6eeFcUFMFDcYyuHL014IZl) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom) | 4:32 |
-| 32 | [그때 그 아인 \(Inst.\)](https://open.spotify.com/track/6VZXaEZCK1kAXUNPHvNIof) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3KK05sDCPzEVOMGPr5MHKf) | 4:47 |
+| 31 | [그때 그 아인 \(Inst.\)](https://open.spotify.com/track/6VZXaEZCK1kAXUNPHvNIof) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3KK05sDCPzEVOMGPr5MHKf) | 4:47 |
+| 32 | [Photo of My Mind \- Instrumental](https://open.spotify.com/track/6eeFcUFMFDcYyuHL014IZl) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom) | 4:32 |
 | 33 | [So Tender \- Instrumental](https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 | 34 | [The First Snow \- Instrumental](https://open.spotify.com/track/3HeXYGErUXeEDiTBF2zoJP) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Guardian \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5YTid0Ew5Mvlq08gE6ehqc) | 4:56 |
 | 35 | [Fall In Love \- Instrumental](https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Nevertheless, \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 50 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ) | 4:22 |
 
-Snapshot ID: `MCxkMTdlNTZiNDgxNTU0MTlmM2FiODYyYjdkMTBiNDZkY2QwYzBmNTE5`
+Snapshot ID: `MCxmMzMxZWYzODM5NDY3ODc3ODI0NWZiNjNmYWYyYmRhZWU3ZmY4Mzli`

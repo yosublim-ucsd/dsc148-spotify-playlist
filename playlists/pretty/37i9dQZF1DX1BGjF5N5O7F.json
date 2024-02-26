@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 563175,
+  "num_followers": 563163,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTk4MGU3Njk1MGU4NmZmYWFjZTcwNWM0OTk2MDJiMDZjODI5YjYz",
+  "snapshot_id": "MCw5NTBjY2UzOTQwOGE0MmVkM2JiOTk0MTgwMDlmYzQ5ZjJmZDZiODg2",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Power Over Me EP",
-        "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 200435,
-      "name": "Power Over Me - Acoustic",
-      "url": "https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 209341,
       "name": "Hard Time",
       "url": "https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Power Over Me EP",
+        "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 200435,
+      "name": "Power Over Me - Acoustic",
+      "url": "https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/3LN3dLb9gUpanpriaqagMU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY"
+        "name": "TRUE",
+        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 190093,
-      "name": "Slow Mover",
-      "url": "https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P"
+      "duration_ms": 186022,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
     }
   ],
   "unique_name": "intertwined",

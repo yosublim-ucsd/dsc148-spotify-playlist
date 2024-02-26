@@ -1,12 +1,12 @@
 {
   "description": "Get ready, to do, do rocksteady",
-  "num_followers": 173734,
+  "num_followers": 173795,
   "original_name": "Rocksteady",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNThiNjI3ODU1YmZkM2NkMWY0NmFiZjM3YWFjMGFmZDJhZDNiYTQ1",
+  "snapshot_id": "MCw4YjE0NjQwYjY3YTVlNzAyNGNkMWVhNzBiNGEzNjNhOTJmNDE1Zjll",
   "tracks": [
     {
       "added_at": "2022-03-28 19:58:56",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Original Paragons At Treasure Isle",
-        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "The Tide Is High",
-      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "Stop That Train!",
         "url": "https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 200386,
       "name": "Stop That Train",
       "url": "https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Sound Box Essentials (Platinum Edition)",
-        "url": "https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh"
-      },
-      "artists": [
-        {
-          "name": "Ken Parker",
-          "url": "https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "True True True",
-      "url": "https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 239760,
       "name": "River of Babylon",
       "url": "https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "Sound Box Essentials (Platinum Edition)",
+        "url": "https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh"
+      },
+      "artists": [
+        {
+          "name": "Ken Parker",
+          "url": "https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "True True True",
+      "url": "https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -467,8 +467,8 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "Original Paragons At Treasure Isle",
-        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Only a Smile",
-      "url": "https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5"
+      "duration_ms": 189346,
+      "name": "Island In the Sun",
+      "url": "https://open.spotify.com/track/3sHzZSmkmQOFaiVX1VNRqF"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -631,8 +631,8 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m"
+        "name": "Original Paragons At Treasure Isle",
+        "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
         }
       ],
-      "duration_ms": 189346,
-      "name": "Island In the Sun",
-      "url": "https://open.spotify.com/track/3sHzZSmkmQOFaiVX1VNRqF"
+      "duration_ms": 179666,
+      "name": "Only a Smile",
+      "url": "https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5"
     },
     {
       "added_at": "2022-03-28 19:58:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-28 19:58:56",
       "album": {
-        "name": "The Ultimate Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5"
-      },
-      "artists": [
-        {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Queen Majesty",
-      "url": "https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n"
-    },
-    {
-      "added_at": "2022-03-28 19:58:56",
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 151760,
       "name": "It's All in the Game",
       "url": "https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx"
+    },
+    {
+      "added_at": "2022-03-28 19:58:56",
+      "album": {
+        "name": "The Ultimate Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5"
+      },
+      "artists": [
+        {
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Queen Majesty",
+      "url": "https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n"
     },
     {
       "added_at": "2022-03-28 19:58:56",

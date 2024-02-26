@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 453716,
+  "2024-02-26": 453756,
   "date_first_scraped": "2021-12-21",
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Belmont",
   "name": "The Scene",
@@ -2957,7 +2957,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 172500,
       "name": "BURNOUT",
       "url": "https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo"
@@ -21191,6 +21191,24 @@
       "duration_ms": 182911,
       "name": "YEAH!",
       "url": "https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52"
+    },
+    {
+      "album": {
+        "name": "Year Of The Vulture",
+        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148882,
+      "name": "Year Of The Vulture",
+      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
     },
     {
       "album": {

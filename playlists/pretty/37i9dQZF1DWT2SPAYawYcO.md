@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,745 likes - 84 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,767 likes - 84 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 83 | [sway](https://open.spotify.com/track/503gLddG5seJR59iM2BLi7) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [sway](https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2) | 1:48 |
 | 84 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 |
 
-Snapshot ID: `MCwxNWEzNmY4ZDRkNWFjMDVlMzEyYjkwMGQ0M2Q0MDdjMDE1ZmNhNGVl`
+Snapshot ID: `MCw3M2EwZTI1NWM0ZDQzMTkzZGUxN2VhZjczOTRiMTg4NzQxN2I4ZjM2`

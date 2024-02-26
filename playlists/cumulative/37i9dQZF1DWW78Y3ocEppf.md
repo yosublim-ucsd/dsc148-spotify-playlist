@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-588 songs - 1 day 6 hr 42 min
+589 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-08-05 | 2023-03-18 |
 | [Glowin 4 Me](https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Glowin 4 Me](https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds) | 2:25 | 2023-03-17 | 2023-10-07 |
 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 | 2023-05-05 |  |
-| [Go Get Her](https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Go Get Her](https://open.spotify.com/album/7zTr0d1lb0Wak529YFKBCm) | 2:43 | 2022-11-11 |  |
+| [Go Get Her](https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Go Get Her](https://open.spotify.com/album/7zTr0d1lb0Wak529YFKBCm) | 2:43 | 2022-11-11 | 2024-02-26 |
 | [Go Home](https://open.spotify.com/track/3lQeU943lFCg95XDi8De7Y) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Left on Read](https://open.spotify.com/album/0yJkua96DygoM61HyEQ4Uy) | 2:15 | 2022-03-25 | 2022-07-24 |
 | [Go There With You](https://open.spotify.com/track/4DHbBXZYwlFIVpcI8fC6Ue) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [Gone](https://open.spotify.com/track/2JXKDWkz0E1LNy7tdsfqan) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Gone](https://open.spotify.com/album/1s3V8kTaePb4bhTGGd7tRT) | 3:48 | 2021-12-15 | 2022-07-24 |
@@ -523,6 +523,7 @@
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
 | [The One](https://open.spotify.com/track/4THEDAFFfKafxc78eZm2dj) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [4 PM In The Ville](https://open.spotify.com/album/5B1HM6z8jWC9LoRaKmfGqP) | 2:53 | 2023-06-23 | 2023-08-23 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2022-12-02 | 2023-07-22 |
+| [This Man](https://open.spotify.com/track/37kCALixWCeDkqMSCITzmA) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr) | 3:48 | 2023-09-22 |  |
 | [This Man](https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4) | 3:48 | 2023-09-22 | 2023-12-05 |
 | [Thug Cry](https://open.spotify.com/track/0sATEUoYEAH1zjfYSKIo8N) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Thug Cry](https://open.spotify.com/album/1MeVoCVoD5smZ3Z7urlmtu) | 2:59 | 2021-12-15 | 2022-07-10 |
 | [Thug Passion](https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Pray for a Beautiful Sky](https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M) | 3:49 | 2023-06-23 |  |

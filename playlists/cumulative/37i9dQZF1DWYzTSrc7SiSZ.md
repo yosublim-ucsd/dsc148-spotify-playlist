@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-245 songs - 13 hr 11 min
+246 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Eucalipto](https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Eucalipto](https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27) | 2:40 | 2022-05-20 | 2022-07-27 |
 | [Fantasias \- Unplugged](https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias \(Unplugged\)](https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G) | 3:20 | 2022-07-11 | 2022-10-28 |
 | [FAR AWAY](https://open.spotify.com/track/12H6iTEgiX4HPnCPphYSMk) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FAR AWAY](https://open.spotify.com/album/6oSnvw7yQpDFFTZIZA4Rxx) | 2:41 | 2022-05-20 | 2022-10-28 |
-| [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2022-05-20 |  |
+| [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2022-05-20 | 2024-02-26 |
 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 | 2022-05-20 |  |
 | [frío](https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Luisa](https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z) | [frío](https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT) | 4:38 | 2022-05-20 |  |
 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 | 2022-05-20 | 2022-10-28 |
@@ -169,6 +169,7 @@
 | [ojitos caramelo](https://open.spotify.com/track/3TDIrNpqBTHx4ePEBh6zyR) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/3tBjBSHpI7up9rQWNWZ3PL) | 2:27 | 2022-05-20 | 2022-07-29 |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-07-11 |  |
 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 | 2022-05-20 |  |
+| [Otra Ciudad](https://open.spotify.com/track/657ceMv7ArWXk1DOCGJ0wV) | [Rsel](https://open.spotify.com/artist/2bzev2RaU9OmS0wCG6Ge3A) | [Otra Ciudad](https://open.spotify.com/album/3Uoq5gccs4oCr4CMQ78ZUe) | 2:18 | 2024-02-09 |  |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-05-20 | 2024-01-28 |
 | [Otro Trago \- Acústico En Vivo](https://open.spotify.com/track/0VDvSDARyeJH7QIdsHNqur) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 3:44 | 2022-05-20 | 2022-10-28 |
 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 | 2022-12-30 | 2023-03-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jasiel Nu\u00f1ez en portada.",
-  "num_followers": 56060,
+  "num_followers": 56071,
   "original_name": "madEDM\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJlMTkxYWY3ZTRhMzlkOWNjZGRmZjg2NWFmNmE3OTZjYjA2Njhj",
+  "snapshot_id": "MCxiOTgyZDBiYTA1NGMyMjUwNzhhZjBmZjlhM2IzM2MxMDUyMjZhMjU0",
   "tracks": [
     {
       "added_at": "2024-02-23 19:23:44",
@@ -367,42 +367,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "DIOSA </3",
-        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
-      },
-      "artists": [
-        {
-          "name": "Nuvia",
-          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
-        },
-        {
-          "name": "Rodezel",
-          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "DIOSA </3",
-      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "CONVOY",
-        "url": "https://open.spotify.com/album/6d88bUgoIVyrLYTDegm5VM"
-      },
-      "artists": [
-        {
-          "name": "Barovier",
-          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
-        }
-      ],
-      "duration_ms": 156656,
-      "name": "CONVOY",
-      "url": "https://open.spotify.com/track/6RgJngxL83fbyYg6mXAwSu"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -423,6 +387,42 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "CONVOY",
+        "url": "https://open.spotify.com/album/6d88bUgoIVyrLYTDegm5VM"
+      },
+      "artists": [
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        }
+      ],
+      "duration_ms": 156656,
+      "name": "CONVOY",
+      "url": "https://open.spotify.com/track/6RgJngxL83fbyYg6mXAwSu"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "DIOSA </3",
+        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
+      },
+      "artists": [
+        {
+          "name": "Nuvia",
+          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "DIOSA </3",
+      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Where Have U Been",
-        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Xime Glo",
-          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
-        }
-      ],
-      "duration_ms": 222957,
-      "name": "Where Have U Been",
-      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Move My Body",
         "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 274239,
       "name": "Move My Body",
       "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Where Have U Been",
+        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Xime Glo",
+          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
+        }
+      ],
+      "duration_ms": 222957,
+      "name": "Where Have U Been",
+      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 332560,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
         "name": "Paleteao",
         "url": "https://open.spotify.com/album/29dE9XTfPPBfumn5T9eaxF"
       },
@@ -1463,6 +1483,26 @@
       "duration_ms": 138500,
       "name": "Paleteao",
       "url": "https://open.spotify.com/track/73C0oEa8vbrR0gPpj7HBkl"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1499,46 +1539,6 @@
       "duration_ms": 180521,
       "name": "Ojos - La Noche Mix - Radio Edit",
       "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
+      },
+      "artists": [
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        }
+      ],
+      "duration_ms": 373066,
+      "name": "X-Control",
+      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
         "name": "In You Arms",
         "url": "https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 154687,
       "name": "In You Arms",
       "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
-      },
-      "artists": [
-        {
-          "name": "Theus Mago",
-          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
-        }
-      ],
-      "duration_ms": 373066,
-      "name": "X-Control",
-      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
+        "name": "The Same Loop Again",
+        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        }
+      ],
+      "duration_ms": 279594,
+      "name": "The Same Loop Again",
+      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
         "name": "M13D0!!!",
         "url": "https://open.spotify.com/album/4aTl3DWFahOvOjDALn1hgp"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 213031,
       "name": "M13D0!!!",
       "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "The Same Loop Again",
-        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
-      },
-      "artists": [
-        {
-          "name": "Orig\u0101mi",
-          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
-        }
-      ],
-      "duration_ms": 279594,
-      "name": "The Same Loop Again",
-      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
     },
     {
       "added_at": "2024-02-23 19:23:44",

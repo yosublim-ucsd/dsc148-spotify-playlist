@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17886,
+  "num_followers": 17884,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDAyMTk3NjE1YmVmN2M2NDBhZWFiN2U0ZTYzNzdiMDQyYjYyMTNj",
+  "snapshot_id": "MCw5NDQ5ODI3MTRhODZlZTdkYzhkYzk0MWJiMjNkMTU5M2FkMGM1YzBj",
   "tracks": [
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
       },
       "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
         {
           "name": "Projota",
           "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+      "duration_ms": 181373,
+      "name": "Como Deus Quiser",
+      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
     },
     {
       "added_at": "2024-02-23 18:00:29",

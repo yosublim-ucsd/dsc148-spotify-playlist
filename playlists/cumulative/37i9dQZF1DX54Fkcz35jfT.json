@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 207006,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
@@ -3350,6 +3350,28 @@
       "duration_ms": 219810,
       "name": "Suisei",
       "url": "https://open.spotify.com/track/3gXDPaDY1jfwNdMu8C4jtK"
+    },
+    {
+      "album": {
+        "name": "PALEHELL",
+        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "SUPER PALE HORSE",
+      "url": "https://open.spotify.com/track/3I48EGIIUz6xDE87NoYI5y"
     },
     {
       "album": {

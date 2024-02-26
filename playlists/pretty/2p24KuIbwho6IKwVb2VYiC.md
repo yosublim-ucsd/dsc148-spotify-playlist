@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: The Banker Boys
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,259 likes - 102 songs - 5 hr 19 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,261 likes - 102 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

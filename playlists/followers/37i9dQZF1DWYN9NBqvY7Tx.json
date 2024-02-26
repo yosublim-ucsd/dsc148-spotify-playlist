@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 1051689,
+  "2024-02-26": 1052049,
   "date_first_scraped": "2022-05-09",
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
   "name": "Ultra Gaming",
@@ -51,7 +51,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
@@ -5449,7 +5449,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 224615,
       "name": "Luv Me a Little",
       "url": "https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT"
@@ -7579,10 +7579,32 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
+    },
+    {
+      "album": {
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/3BsuqyYCV0DYIBrDi1SKwQ"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119231,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/0hEjvk5rMwLzt9rUcFmZG7"
     },
     {
       "album": {

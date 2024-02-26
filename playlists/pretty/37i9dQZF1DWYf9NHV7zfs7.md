@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Lara91k
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,972 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,999 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 80 | [Quiero Verte](https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7) | [Lelé](https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Quiero Verte](https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI) | 3:52 |
 | 81 | [Donde digan las estrellas](https://open.spotify.com/track/243KMgjddKXmu7EMfdxoEJ) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Gonzalo Hermida](https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or) | [Donde digan las estrellas](https://open.spotify.com/album/688zCqVZX3ZJGjvaD8DiTY) | 3:32 |
 | 82 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
-| 83 | [FIKSION](https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [FIKSION](https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc) | 2:58 |
-| 84 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
+| 83 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 |
+| 84 | [FIKSION](https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [FIKSION](https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc) | 2:58 |
 | 85 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 |
 
-Snapshot ID: `MCw0OGI1MmU2NjRkNDg2YjY3MTFhMzRiYTZmY2IwMjlmN2E2MzQzZWYw`
+Snapshot ID: `MCw0ZDk4NWUwMDUzMDRmMDg1ZDQxYmJmMDk1M2E1YTk0ZDQ1MzVjYmRi`

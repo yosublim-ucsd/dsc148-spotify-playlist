@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Victor Manuelle",
-  "num_followers": 1810739,
+  "num_followers": 1810787,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzI4ZDVhYTk2ODI3M2JjZTJhODczN2QyYTg4NTE1MWI5MWE2Mzhh",
+  "snapshot_id": "MCw2NzdkM2VjMzFjMDgyZTBkY2RhYzI2YmYyM2QyYWFjOTc5MzlkZjFj",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 332493,
       "name": "Uno Se Cura",
       "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "No Es Amor",
-        "url": "https://open.spotify.com/album/3QS22ZODgzWwuJoPboESgN"
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
       },
       "artists": [
         {
-          "name": "Gian Marco",
-          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         },
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 319180,
-      "name": "No Es Amor",
-      "url": "https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ"
+      "duration_ms": 263631,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
+        "name": "No Es Amor",
+        "url": "https://open.spotify.com/album/3QS22ZODgzWwuJoPboESgN"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
         },
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 263631,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
+      "duration_ms": 319180,
+      "name": "No Es Amor",
+      "url": "https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Como Olvidarte",
-        "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 188078,
-      "name": "Como Olvidarte",
-      "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1483,18 +1463,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+        "name": "Como Olvidarte",
+        "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
       },
       "artists": [
         {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 309253,
-      "name": "Cinco Noches",
-      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
+      "duration_ms": 188078,
+      "name": "Como Olvidarte",
+      "url": "https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+      },
+      "artists": [
+        {
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "Cinco Noches",
+      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 228239,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Cosas Bonitas",
-        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         }
       ],
-      "duration_ms": 260632,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
+      "duration_ms": 228239,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 199656,
       "name": "Bochinchero",
       "url": "https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Cosas Bonitas",
+        "url": "https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 260632,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY"
     },
     {
       "added_at": "2024-02-23 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Taiu
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,699 likes - 70 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,701 likes - 70 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 69 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 |
 | 70 | [Undertones 2 \- Remix](https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI), [Rumanians](https://open.spotify.com/artist/5Hu2cTdWpxnck5aaCeirWv) | [Undertones 2 \(Remix\)](https://open.spotify.com/album/4uLKTeYiEOsqZDLg9m2hCl) | 7:12 |
 
-Snapshot ID: `MCxlNDZmYmEyOWNmNTJlMDJkOGUwNDNmODdiNzY2ZjE0YWNiNGRkMjgx`
+Snapshot ID: `MCwzNmIyNjZkODNiOGIwMzAyNmI2YWQwODkwNWY0NzRhN2FkMzYxYjk3`

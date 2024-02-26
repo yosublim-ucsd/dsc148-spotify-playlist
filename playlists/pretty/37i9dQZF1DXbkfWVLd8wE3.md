@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,383 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,465 likes - 90 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 65 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 66 | [I Like That](https://open.spotify.com/track/4MMqj7HaLL8BphbBZnlsdq) | [Houston](https://open.spotify.com/artist/5yCd7bxcAc3MdQ1h54ESsD), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [It's Already Written](https://open.spotify.com/album/5cCSKl7fCsFuNoTszec4MP) | 3:56 |
 | 67 | [X](https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [Restless](https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3) | 4:15 |
-| 68 | [I Can](https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:13 |
-| 69 | [Get Low](https://open.spotify.com/track/0jrz4ZQKCsC6h2vzqgHiEp) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Crunkest Hits](https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz) | 5:34 |
+| 68 | [Get Low](https://open.spotify.com/track/0jrz4ZQKCsC6h2vzqgHiEp) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Crunkest Hits](https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz) | 5:34 |
+| 69 | [I Can](https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:13 |
 | 70 | [Clap Back](https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Blood In My Eye](https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6) | 4:56 |
 | 71 | [California Love \- Original Version](https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
 | 72 | [Notorious B.I.G\. \(feat\. Lil' Kim & Puff Daddy\) \- 2005 Remaster](https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Born Again](https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6) | 3:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Breathe And Stop](https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Amplified](https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW) | 4:03 |
 | 90 | [Indian Flute \(feat\. Sebastian & Raje Shwari\)](https://open.spotify.com/track/2Y28AeUQPTx6UqWJImdPTf) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/1PqyGzj6IhtEQSyn4IowKw), [Sebastian](https://open.spotify.com/artist/6XVMtRHN03nQXr3dshNGsf), [Rajé Shwari](https://open.spotify.com/artist/5NDCWHHPCWPJi27puQSJpL) | [Under Construction, Part II](https://open.spotify.com/album/0jfrooQp2CEzzX0kwwcnM9) | 3:21 |
 
-Snapshot ID: `MCw3MTVjM2FmYTY0N2ZkNTNiNWU2Y2Y1NDA3ODAyODQ1MmRkM2QzNDNi`
+Snapshot ID: `MCxjYjlkZGI1YjYxMzRmZjNiNjFlYTY2YTY1Y2FiZTA3YTYyMjgwMTRh`

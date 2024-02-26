@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ti\u00ebsto, Karol G",
-  "num_followers": 973273,
+  "num_followers": 973247,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUwZjVhYTQxOWNkOWRiZjdkMTQ5MmYyNTVlN2VhNTE3NTNhN2Nj",
+  "snapshot_id": "MCxmZjFiOGNiODI0NTdjODIzZTU5MWFiODdlODI5ZTY4ZjdkNjAwMzM2",
   "tracks": [
     {
       "added_at": "2024-02-19 11:24:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
         "name": "Pasado Ma\u00f1ana",
         "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 156586,
+      "name": "BLACK OPIUM",
+      "url": "https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
         "name": "Puerta del Sol",
         "url": "https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 193150,
       "name": "Puerta del Sol",
       "url": "https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 156586,
-      "name": "BLACK OPIUM",
-      "url": "https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX"
     },
     {
       "added_at": "2024-02-19 11:24:23",

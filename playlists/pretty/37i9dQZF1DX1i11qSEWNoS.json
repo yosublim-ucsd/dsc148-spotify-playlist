@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 557532,
+  "num_followers": 557748,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjE5YmU5YmJhYjgxNDkyNzM0MDg1ZGU5NDdlMTRjNDZkNDhmZWEx",
+  "snapshot_id": "MCw1YTllNDJjODExOGY2NDY4NmZlNmRiZjk2MzVjY2Q4NmJjZjgwOTNj",
   "tracks": [
     {
       "added_at": "2024-02-23 09:04:15",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -587,6 +587,26 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
+        "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
+        "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "duration_ms": 125032,
+      "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
+      "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
-        "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
-        "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
-      },
-      "artists": [
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Beats by Luca",
-          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
-        }
-      ],
-      "duration_ms": 125032,
-      "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
-      "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -699,26 +719,6 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -743,6 +743,26 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
+        "name": "Erinner mich",
+        "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "duration_ms": 151409,
+      "name": "Erinner mich",
+      "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -779,26 +799,6 @@
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
-        "name": "Erinner mich",
-        "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
-        }
-      ],
-      "duration_ms": 151409,
-      "name": "Erinner mich",
-      "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
-        "name": "Unendlichkeit (Remix)",
-        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
-      },
-      "artists": [
-        {
-          "name": "MilleniumKid",
-          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
-        },
-        {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
-        },
-        {
-          "name": "The Boy The G",
-          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
-        }
-      ],
-      "duration_ms": 172764,
-      "name": "Unendlichkeit (Remix)",
-      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 210093,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
+        "name": "Unendlichkeit (Remix)",
+        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "The Boy The G",
+          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+        }
+      ],
+      "duration_ms": 172764,
+      "name": "Unendlichkeit (Remix)",
+      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
+        "name": "Next!",
+        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
+      },
+      "artists": [
+        {
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ding",
+      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
         "name": "Girl You Know It's True (Remix)",
         "url": "https://open.spotify.com/album/7JnXqGSQeMlboWuJpNGJAS"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 153826,
       "name": "Girl You Know It's True - Remix",
       "url": "https://open.spotify.com/track/5EUgF7uFtHByMB95zgf1ek"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
-        "name": "Next!",
-        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ding",
-      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
-        "name": "ONE NiGHT STAND (ONS)",
-        "url": "https://open.spotify.com/album/3Y8P5Y0HwyqG6BBDOimEjS"
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
       "artists": [
         {
@@ -1684,21 +1684,13 @@
           "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         },
         {
-          "name": "Katja Krasavice",
-          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
         }
       ],
-      "duration_ms": 129920,
-      "name": "ONE NiGHT STAND (ONS)",
-      "url": "https://open.spotify.com/track/1TWqmtN3u2peKwZHPP36gX"
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -1743,6 +1735,22 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
         "name": "KETA UND KRAWALL",
         "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
@@ -1759,22 +1767,6 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2024-02-23 09:04:15",
@@ -1803,6 +1795,22 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
+        "name": "All The Things She Said (Teaboy Flip)",
+        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
+      },
+      "artists": [
+        {
+          "name": "TEABOY",
+          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "All The Things She Said - Teaboy Flip",
+      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
+    },
+    {
+      "added_at": "2024-02-23 09:04:15",
+      "album": {
         "name": "Kommissar",
         "url": "https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi"
       },
@@ -1823,24 +1831,8 @@
     {
       "added_at": "2024-02-23 09:04:15",
       "album": {
-        "name": "All The Things She Said (Teaboy Flip)",
-        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
-      },
-      "artists": [
-        {
-          "name": "TEABOY",
-          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "All The Things She Said - Teaboy Flip",
-      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
-    },
-    {
-      "added_at": "2024-02-23 09:04:15",
-      "album": {
-        "name": "VAMOS",
-        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+        "name": "ONE NiGHT STAND (ONS)",
+        "url": "https://open.spotify.com/album/3Y8P5Y0HwyqG6BBDOimEjS"
       },
       "artists": [
         {
@@ -1848,13 +1840,21 @@
           "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         },
         {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         }
       ],
-      "duration_ms": 149773,
-      "name": "VAMOS",
-      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+      "duration_ms": 129920,
+      "name": "ONE NiGHT STAND (ONS)",
+      "url": "https://open.spotify.com/track/1TWqmtN3u2peKwZHPP36gX"
     }
   ],
   "unique_name": "schiebt anders",

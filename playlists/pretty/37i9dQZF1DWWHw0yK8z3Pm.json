@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Y0MWM5YmM0NDZkOTNjNWQyZGQ3ZDdiODQwNWI4MWFmYzU1NDMx",
+  "snapshot_id": "MCw0NzQ5OTZiNjJlOTM1YWJhYzI4ODU1ZWI3ZjJlM2Y5OGY1ZjdiYmM5",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Sudden Opera",
-        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
-      },
-      "artists": [
-        {
-          "name": "Pony Bradshaw",
-          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
-        }
-      ],
-      "duration_ms": 172840,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Sudden Opera",
+        "url": "https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "duration_ms": 172840,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 216311,
-      "name": "Till I Return",
-      "url": "https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 216311,
+      "name": "Till I Return",
+      "url": "https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Ways & Means",
         "url": "https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 203480,
       "name": "South Dakota Wild One",
       "url": "https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "A Heart of Gold Is Hard to Find",
+        "url": "https://open.spotify.com/album/06JtBYFdMrc26oPswxRFQY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "A Heart Of Gold Is Hard To Find",
+      "url": "https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 178826,
       "name": "Funny Black Lines",
       "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "A Heart of Gold Is Hard to Find",
-        "url": "https://open.spotify.com/album/06JtBYFdMrc26oPswxRFQY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "A Heart Of Gold Is Hard To Find",
-      "url": "https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J"
     },
     {
       "added_at": "2024-02-23 05:00:00",

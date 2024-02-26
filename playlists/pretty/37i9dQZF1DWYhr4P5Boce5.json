@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 201575,
+  "num_followers": 201614,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjA4NGU0MjIxNzA4NjRjYzUyOWI5MGIyN2Y3ZjA1N2QxN2QxODk5",
+  "snapshot_id": "MCw5YjdjZmQ4MTE1NGJhYWMyMjk4OTEzZTY5MjAzZGY1MmU0MTljZDZj",
   "tracks": [
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 232752,
-      "name": "Oh How I Love You - Bonus Track",
-      "url": "https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 232752,
+      "name": "Oh How I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "All About Love",
-        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "We Will Dance",
-      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Baby Will You Love Me",
         "url": "https://open.spotify.com/album/6pphhVn7pM8GDBSCozdAe2"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 213338,
       "name": "Baby Will You Love Me",
       "url": "https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "We Will Dance",
+      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1483,6 +1483,42 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1507,42 +1543,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "The Soul",
         "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 219653,
       "name": "Pilots",
       "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
       "artists": [
         {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
         }
       ],
-      "duration_ms": 242746,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1631,6 +1615,22 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Britt Nicole (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Fallin In Love",
-      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Songs from the Cloud",
-        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
+        "name": "Britt Nicole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
       },
       "artists": [
         {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Route 777",
-      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
+      "duration_ms": 251106,
+      "name": "Fallin In Love",
+      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1831,6 +1815,22 @@
       "duration_ms": 142091,
       "name": "Buy You Flowers",
       "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Songs from the Cloud",
+        "url": "https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Route 777",
+      "url": "https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "For the Soul",
-        "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
-      },
-      "artists": [
-        {
-          "name": "Erica Mason",
-          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
-        },
-        {
-          "name": "Hymn Logic",
-          "url": "https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH"
-        }
-      ],
-      "duration_ms": 199298,
-      "name": "Remind You",
-      "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "South Florida (Remix)",
         "url": "https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 165000,
       "name": "South Florida (Remix)",
       "url": "https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "For the Soul",
+        "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
+      },
+      "artists": [
+        {
+          "name": "Erica Mason",
+          "url": "https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz"
+        },
+        {
+          "name": "Hymn Logic",
+          "url": "https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH"
+        }
+      ],
+      "duration_ms": 199298,
+      "name": "Remind You",
+      "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2143,38 +2143,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "You Got It",
-        "url": "https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -2191,34 +2159,18 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2243,6 +2195,54 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Far Kingdom // Summer Sessions",
         "url": "https://open.spotify.com/album/3iKuyGRbczWDnigOalSaq7"
       },
@@ -2255,22 +2255,6 @@
       "duration_ms": 208493,
       "name": "Band of Gold // Summer Sessions",
       "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "BEBECITA SHAWTY",
-        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "BEBECITA SHAWTY",
-      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2307,6 +2291,22 @@
       "duration_ms": 138000,
       "name": "With You",
       "url": "https://open.spotify.com/track/7fB1Amw3clfbFAxksiowUg"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "BEBECITA SHAWTY",
+        "url": "https://open.spotify.com/album/2AJ4vqysy13rOsgyVAYgUk"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "BEBECITA SHAWTY",
+      "url": "https://open.spotify.com/track/7LJCFtScwKIE0WEznVnpgY"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2363,22 +2363,6 @@
       "duration_ms": 340200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "TEMPERATURA",
-        "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
-      },
-      "artists": [
-        {
-          "name": "Don Ryvcko",
-          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
-        }
-      ],
-      "duration_ms": 111910,
-      "name": "TEMPERATURA",
-      "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2447,6 +2431,22 @@
       "duration_ms": 158295,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4MxehknPShDdVgRciNtJTp"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "TEMPERATURA",
+        "url": "https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "duration_ms": 111910,
+      "name": "TEMPERATURA",
+      "url": "https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA"
     },
     {
       "added_at": "2024-02-05 17:58:02",

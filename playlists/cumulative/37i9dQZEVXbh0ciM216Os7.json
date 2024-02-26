@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 110550,
       "name": "Bombay Freestyle",
       "url": "https://open.spotify.com/track/1WGszl46YDd0HuPTkph5n2"
@@ -15208,7 +15208,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 126142,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/0tNrKgDkrktMm5QKRbvWWv"
@@ -15230,7 +15230,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 126142,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/3MGtul8CfDAIEEBV1HrpbV"
@@ -16682,6 +16682,28 @@
       "duration_ms": 234280,
       "name": "Pontius Pilate's Home Movies",
       "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
+    },
+    {
+      "album": {
+        "name": "Pop A Toast",
+        "url": "https://open.spotify.com/album/2psBcRphNc3beawn1UieYD"
+      },
+      "artists": [
+        {
+          "name": "Universaldagod",
+          "url": "https://open.spotify.com/artist/4UnG3Topo3zD9KluzAoeGR"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241789,
+      "name": "Pop A Toast",
+      "url": "https://open.spotify.com/track/3TEL2gBT4CU84SI33OXSmq"
     },
     {
       "album": {
@@ -19798,7 +19820,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 163971,
       "name": "Stand United",
       "url": "https://open.spotify.com/track/01CHrTerCzyRpMI1MzQ4fz"
@@ -24225,6 +24247,32 @@
     },
     {
       "album": {
+        "name": "Mac & Cheese 5",
+        "url": "https://open.spotify.com/album/4h0uWfzsIQ88OjBR88G7kq"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173861,
+      "name": "Where They At",
+      "url": "https://open.spotify.com/track/3MJEOuplsH2AnEXzQe02eL"
+    },
+    {
+      "album": {
         "name": "Live at RBC Echo Beach",
         "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
       },
@@ -24804,10 +24852,32 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 214994,
       "name": "yes, and? (with Mariah Carey)",
       "url": "https://open.spotify.com/track/2z65iWKbjfz4Ey2URvO1pt"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and? (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
     },
     {
       "album": {

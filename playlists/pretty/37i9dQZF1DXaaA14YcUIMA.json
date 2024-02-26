@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 461442,
+  "num_followers": 469246,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzEyYjZjNTg5MjYwN2YwZDRmYTkwZDc5MmU5ZDdiYzllNTYxNzc1",
+  "snapshot_id": "MCwwZTFkNjlhMTM5ZTFjNDRlMDNlNGY4MjVkNmFmYjUwMzVkNGU1ODI0",
   "tracks": [
     {
       "added_at": "2024-02-23 00:06:39",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Los Felinos",
-        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 226417,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "name": "Los Felinos",
+        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+      "duration_ms": 226417,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Los Sonidos De Su Esp\u00edritu",
         "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 226386,
       "name": "Contra El Drag\u00f3n",
       "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "Antolog\u00eda, Vol. 1",
         "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
         }
       ],
-      "duration_ms": 175373,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
+      "duration_ms": 175373,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Perdoname Mi Amor",
         "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 225973,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Enamorado De Tus Ojos",
-      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 210976,
       "name": "A Mentir A La Calle",
       "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Enamorado De Tus Ojos",
+      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Me Quede Llorando",
-      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Contigo Aprend\u00ed",
         "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Me Quede Llorando",
+      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
         "name": "Un D\u00eda Sin Ti",
         "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Quier\u00e9me M\u00e1s",
-        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
-      },
-      "artists": [
-        {
-          "name": "Grupo Modelo",
-          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Qui\u00e9reme M\u00e1s",
-      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Viva el Amor",
         "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+        "name": "Quier\u00e9me M\u00e1s",
+        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+          "name": "Grupo Modelo",
+          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+      "duration_ms": 238493,
+      "name": "Qui\u00e9reme M\u00e1s",
+      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
     },
     {
       "added_at": "2024-02-23 00:06:39",
@@ -1335,22 +1319,6 @@
     {
       "added_at": "2024-02-23 00:06:39",
       "album": {
-        "name": "Solo Lo Nuestro",
-        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
-    },
-    {
-      "added_at": "2024-02-23 00:06:39",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 157306,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2024-02-23 00:06:39",
+      "album": {
+        "name": "Solo Lo Nuestro",
+        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
     },
     {
       "added_at": "2024-02-23 00:06:39",

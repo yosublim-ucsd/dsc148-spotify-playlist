@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15060,
+  "num_followers": 15064,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mjk3ZDRhY2Y4MWIwNTljNGI5MTI4ZmFhZWUyMmVlNWY2MTU4MjA5",
+  "snapshot_id": "MCxmYjYyMTRjOTE4ZDUxMmE5YjAxZjczMDIxMmY2N2YxYWZlM2QyNWI3",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Maum, Part. 1",
-        "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
         "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 242338,
       "name": "\uc5ec\ud589\uc790",
       "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Maum, Part. 1",
+        "url": "https://open.spotify.com/album/2fyme9eWWyC0i5QKz586DV"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/78FwF2MisGmnjbMydmntr8"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
-      },
-      "artists": [
-        {
-          "name": "YERI",
-          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
-        }
-      ],
-      "duration_ms": 218523,
-      "name": "Dear Diary",
-      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
+      },
+      "artists": [
+        {
+          "name": "YERI",
+          "url": "https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1"
+        }
+      ],
+      "duration_ms": 218523,
+      "name": "Dear Diary",
+      "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
     },
     {
       "added_at": "2023-11-03 06:18:18",

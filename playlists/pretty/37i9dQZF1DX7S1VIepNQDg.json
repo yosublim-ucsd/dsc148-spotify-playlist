@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60176,
+  "num_followers": 60180,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2YwZWYwOGFhZWI1ZWU3YWMyODU3ODdhMGVkMDUwODI1OWYyYjZi",
+  "snapshot_id": "MCw4Y2JmNGYyNTM3MzA4OGUyZDk2MTRlY2VlODE5NDI1MTE1ZDZhMmM5",
   "tracks": [
     {
       "added_at": "2023-12-19 09:07:27",
@@ -971,22 +971,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Self To Blame",
-        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
+        "name": "Asthma (Billy Lemos Remix)",
+        "url": "https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
         },
         {
-          "name": "Kayla Blackmon",
-          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Self To Blame",
-      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
+      "duration_ms": 123979,
+      "name": "Asthma - Billy Lemos Remix",
+      "url": "https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Asthma (Billy Lemos Remix)",
-        "url": "https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn"
+        "name": "Self To Blame",
+        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
       },
       "artists": [
         {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         },
         {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
         }
       ],
-      "duration_ms": 123979,
-      "name": "Asthma - Billy Lemos Remix",
-      "url": "https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh"
+      "duration_ms": 245360,
+      "name": "Self To Blame",
+      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6"
       },
@@ -1215,22 +1231,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Nostalgia (feat. Little Green)",
-        "url": "https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW"
+        "name": "Don't Really Care",
+        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Nostalgia (feat. Little Green)",
-      "url": "https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT"
+      "duration_ms": 178405,
+      "name": "Don't Really Care",
+      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1251,34 +1263,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Don't Really Care",
-        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
+        "name": "Nostalgia (feat. Little Green)",
+        "url": "https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW"
       },
       "artists": [
         {
-          "name": "Djanaba",
-          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Don't Really Care",
-      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
-      },
-      "artists": [
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
         {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
         }
       ],
-      "duration_ms": 211855,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd"
+      "duration_ms": 163809,
+      "name": "Nostalgia (feat. Little Green)",
+      "url": "https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT"
     },
     {
       "added_at": "2023-12-19 09:07:27",

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-388 songs - 1 day 0 hr 30 min
+389 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aterrizar](https://open.spotify.com/track/2QFgldx3rvPBkhuJAYLD5Z) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Aterrizar](https://open.spotify.com/album/7BdowIiuf8GGI61aRT57oF) | 3:34 | 2020-09-19 | 2020-12-22 |
 | [Aterrizar](https://open.spotify.com/track/768tLXx4VDWno6kHx8zD2x) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/1pidJbR9q6T5hKMWGVTDsc) | 3:34 | 2020-10-08 | 2022-07-06 |
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2020-08-09 | 2022-04-18 |
+| [baby’s out of luck again](https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby's out of luck again](https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs) | 2:29 | 2024-02-21 |  |
 | [Bacilococo](https://open.spotify.com/track/1E9tTyrRvJqwPg9JXgLg7T) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [Bacilococo](https://open.spotify.com/album/5oL99oBZJgZ5UANGhPNzmV) | 2:30 | 2020-12-11 | 2021-03-06 |
 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 | 2020-11-06 | 2023-02-01 |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-12-22 |  |
@@ -363,7 +364,7 @@
 | [Under The Sea](https://open.spotify.com/track/7nUGcGf4JiQ1e8Xbsx8DTn) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Under The Sea](https://open.spotify.com/album/7FM6V8sCl1tH7nKyPOo1TR) | 3:59 | 2021-09-23 | 2022-07-29 |
 | [Up Late](https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 2:39 | 2024-01-26 |  |
 | [Useless](https://open.spotify.com/track/4IgNtm4lqRQEmykHJJjKOQ) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Useless](https://open.spotify.com/album/2kv9p5djEXh4d9mJ1QRBsi) | 3:21 | 2022-04-01 | 2022-06-05 |
-| [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 | 2022-02-24 |  |
+| [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 | 2022-02-24 | 2024-02-26 |
 | [Vibrate](https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:34 | 2021-07-11 |  |
 | [Waitin' \- Edit](https://open.spotify.com/track/0kBAFAVajRjCX8kXneVsZI) | [Boy Azooga](https://open.spotify.com/artist/4S2f4BosAW2oF9AfGEK8ZL) | [Waitin' \(Edit\)](https://open.spotify.com/album/68aYjlcWtBfK47iXFa0QA0) | 3:25 | 2019-11-19\* | 2020-12-22 |
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2020-08-09 | 2020-12-22 |

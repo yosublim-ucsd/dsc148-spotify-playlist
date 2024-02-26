@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394,453 likes - 60 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,395,061 likes - 60 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 |
 | 60 | [Paulus](https://open.spotify.com/track/4LNMpGnLPMy44Ojm1ME9I9) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T) | 6:15 |
 
-Snapshot ID: `MCxiMDJmMWZkZjVjMWVjNDY2NGM2MWY2ODc1ZGRhMGFiOTgxMGZkMmYz`
+Snapshot ID: `MCw1YTZkMjNjM2Q2NzM2NzU4MTExMzA1YjI4NDljMzhhYTIxNWE5MGFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,844 likes - 249 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,846 likes - 249 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 100 | [Babydoll](https://open.spotify.com/track/2Me3nF2ee0DCQ0MXuMxaGj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 5:06 |
 | 101 | [Boy \(I Need You\)](https://open.spotify.com/track/4vAfVTBWBZ2AP8avoLV0n1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:14 |
 | 102 | [Fourth of July](https://open.spotify.com/track/1YisXNr4DPHcPB4v5XfQ0t) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:22 |
-| 103 | [Faded](https://open.spotify.com/track/4jkr4EdrUpITdcQPVsG4CL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:39 |
-| 104 | [Side Effects](https://open.spotify.com/track/7cbTFYQnzTIZ0wPAfHYIwZ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:22 |
+| 103 | [Side Effects](https://open.spotify.com/track/7cbTFYQnzTIZ0wPAfHYIwZ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:22 |
+| 104 | [Faded](https://open.spotify.com/track/4jkr4EdrUpITdcQPVsG4CL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:39 |
 | 105 | [Infamous](https://open.spotify.com/track/0whvlq5itiG6JNCtPoPG82) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 3:35 |
 | 106 | [Joy Ride](https://open.spotify.com/track/5foiGVwPq1L04BZEdjKtVn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 4:03 |
 | 107 | [Portrait](https://open.spotify.com/track/2flnYutr2WlFzi6ZpXz8ci) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 4:01 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 201 | [Did I Do That?](https://open.spotify.com/track/2pkL5uXoGAF4ZIJMT0ABLx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 202 | [Reflections \(Care Enough\)](https://open.spotify.com/track/1z6nljyCf1yGg27jCA0mGJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:20 |
 | 203 | [All I Live For \- 1993](https://open.spotify.com/track/7zgEjKKBdV4SEX6X6n891W) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:22 |
-| 204 | [Cool On You \- 2007](https://open.spotify.com/track/0IIxSGyM0A14v1a9eccmKi) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:11 |
-| 205 | [So Lonely \(One & Only Pt\. II\) \- Ultra Album Version](https://open.spotify.com/track/1XCUkosTXbgAx0kdt4TYN7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:53 |
+| 204 | [So Lonely \(One & Only Pt\. II\) \- Ultra Album Version](https://open.spotify.com/track/1XCUkosTXbgAx0kdt4TYN7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:53 |
+| 205 | [Cool On You \- 2007](https://open.spotify.com/track/0IIxSGyM0A14v1a9eccmKi) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:11 |
 | 206 | [Can You Hear Me \- 1991](https://open.spotify.com/track/4y7X5M3kB8GJjWmngmGYY4) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:06 |
 | 207 | [Honey \(feat\. Da Brat & JD\) \- So So Def Mix](https://open.spotify.com/track/1GomH41h9rykoKiuxnf2TW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [JD](https://open.spotify.com/artist/3z7yKqJJRHP9hoCvCuFO4X) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 5:13 |
 | 208 | [Don't Stop \(Funkin' 4 Jamaica\)](https://open.spotify.com/track/7e5PmxlrXcTODQoW1W6B6D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:37 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `Mjg0ODA0NTAsMDAwMDAwMDBkNGIyNTYxZGFiZDY2MzRjNjY1YWY3Y2U3NzM0MWE5NA==`
+Snapshot ID: `Mjg0ODE4OTAsMDAwMDAwMDA1Y2I3ODk3MmQ3MGNkZGVhZDdjMTU0MGQ4MzI2YzkyMA==`

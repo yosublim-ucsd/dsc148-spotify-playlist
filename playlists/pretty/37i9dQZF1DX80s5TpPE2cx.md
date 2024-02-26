@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,739 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,752 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 59 | [Whoa!](https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Amaa Rae](https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR) | [Insert Project Name](https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw) | 3:25 |
 | 60 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
 
-Snapshot ID: `MCw3MGYxZDg0OGQ1ZGRiZDU2NTlkNzU1NDEzYjFhNDY0YzU5NDJkYjQx`
+Snapshot ID: `MCxkMzVlZjA0NWFmYjNlMmY5M2M0ZTFkYmQwODVjZWEyYzUwMTUyMjIz`

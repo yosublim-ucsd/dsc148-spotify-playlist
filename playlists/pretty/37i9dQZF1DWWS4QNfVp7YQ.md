@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,996 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,050 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 13 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 |
 | 14 | [Dame](https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Dame](https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ) | 2:36 |
 | 15 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 |
-| 16 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
-| 17 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
+| 16 | [Celosa](https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [Los Reyes del Tribal](https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF) | 3:14 |
+| 17 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
 | 18 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
 | 19 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 |
 | 20 | [Tribal Guarachoso](https://open.spotify.com/track/6cpZP3klWUpzQBMheImhO0) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 49 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
 | 50 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
 
-Snapshot ID: `MCw3NWYxZTQxMGE1Mjg1MWM3M2Q3N2Q4Yzg0ZTA2N2JhYTYxOTJiYmI4`
+Snapshot ID: `MCw1MDA5M2Y1ZmQ5OWYxMjI3ZDBhZjI1YmQ2ODMzMTAzZDkwNzJlNWRl`

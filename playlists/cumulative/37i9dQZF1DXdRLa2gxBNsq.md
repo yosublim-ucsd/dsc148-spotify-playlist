@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-97 songs - 5 hr 10 min
+98 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A.c.a.b.](https://open.spotify.com/track/5189Xj43eCOPecYdlM8ywk) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ), [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [El Rodillo del Kaos](https://open.spotify.com/album/3lu6CnUfdYKLipTuMFyo65) | 4:55 | 2023-12-08 |  |
 | [Adios Reina Mia](https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Demasiados Enemigos](https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk) | 4:27 | 2023-12-08 |  |
 | [Ahora Me Importa una Mierda](https://open.spotify.com/track/6xbnB16jmcQP6lWbYbn2rA) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:58 | 2023-12-08 |  |
-| [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 | 2023-12-08 |  |
+| [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 | 2023-12-08 | 2024-02-26 |
 | [Amanece](https://open.spotify.com/track/1i42C3sUtHwILtTleKkZVt) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2yFrNo9J8Gzp2RVefAP67B) | 3:32 | 2023-12-08 |  |
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
@@ -23,6 +23,7 @@
 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 | 2023-12-08 |  |
 | [Bad Religión](https://open.spotify.com/track/0jBZw8EyAsqnt5o4jHExRG) | [The Kagas](https://open.spotify.com/artist/25TQ86q5TLjD8MR099s51q), [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Nuevos Héroes del Rock](https://open.spotify.com/album/6pTO78gcvYctJTIBU2pvZ4) | 2:59 | 2023-12-08 |  |
 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 | 2023-12-08 |  |
+| [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 | 2024-02-08 |  |
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 |  |
 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 | 2023-12-08 |  |
 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 |  |

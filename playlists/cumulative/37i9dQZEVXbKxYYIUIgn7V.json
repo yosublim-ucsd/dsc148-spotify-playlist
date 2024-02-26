@@ -74,10 +74,32 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 209562,
       "name": "Always on the run",
       "url": "https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE"
+    },
+    {
+      "album": {
+        "name": "Angel Numbers Amapiano (Remix)",
+        "url": "https://open.spotify.com/album/71ibhohQM1AvBwEuIRbFqF"
+      },
+      "artists": [
+        {
+          "name": "Precious",
+          "url": "https://open.spotify.com/artist/4Dgly7VMwC7Fw5K1oz1cOH"
+        },
+        {
+          "name": "Olayimika anthony",
+          "url": "https://open.spotify.com/artist/2p7GBJUGXBRGrPks0dz5vm"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184505,
+      "name": "Angel Numbers Amapiano (Remix)",
+      "url": "https://open.spotify.com/track/1xQnEZSuYzP9LTooTD4gIK"
     },
     {
       "album": {
@@ -2161,6 +2183,32 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90305,
+      "name": "Out For Love",
+      "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
+    },
+    {
+      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -2612,7 +2660,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 154376,
       "name": "Spicy Margarita",
       "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"

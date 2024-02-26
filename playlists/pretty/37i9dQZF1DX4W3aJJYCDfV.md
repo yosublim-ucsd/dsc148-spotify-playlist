@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Catfish and the Bottlemen, Central Cee, SZA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,672 likes - 124 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,756 likes - 124 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [Across The Kuiper Belt](https://open.spotify.com/track/17TPAWKdutVufAbMptIwCH) | [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [Across The Kuiper Belt](https://open.spotify.com/album/0GXsAFarZHFDNeqFwXaQHu) | 4:29 |
 | 124 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 |
 
-Snapshot ID: `MCwzZDhmZjg1NDUyODVjZjQ2ZDhiNGExZDRmOTEyOGM3MGE2OTZkYWNl`
+Snapshot ID: `MCw0ZGQ1MjBkYTVjZGQ3MzA5Zjc2MTU5ZDQ4ZmY3ZmQ4MDNjYzdmNzk5`

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-890 songs - 1 day 10 hr 37 min
+891 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Joy of the harp](https://open.spotify.com/track/0LG0YbowzKhQpJ8o3cKwus) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Joy of the harp](https://open.spotify.com/album/33OZiiXN5TCAl3pyGexD6P) | 2:10 | 2022-12-09 | 2024-01-15 |
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-15 | 2022-09-09 |
 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 | 2022-04-15 | 2022-09-09 |
+| [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 | 2024-02-23 |  |
 | [Jump and Run](https://open.spotify.com/track/7MFQThHWQWeBLUrynWMxWh) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [KRETEK](https://open.spotify.com/artist/1Xvvf9ExdWJYvtXk2F5rVA) | [Jump and Run](https://open.spotify.com/album/120G1tTg76kYPRDFTVMBAu) | 2:50 | 2023-09-22 | 2023-10-16 |
 | [Just One Of Those Things](https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Just One of Those Things](https://open.spotify.com/album/4ECH1gTcz4Svspd0UrgwCT) | 4:06 | 2022-07-29 | 2023-10-06 |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2022-04-15 | 2022-07-08 |
@@ -522,7 +523,7 @@
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-04-15 | 2022-06-10 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2022-10-28 | 2023-10-06 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
-| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 |  |
+| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2024-02-26 |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |
@@ -584,7 +585,7 @@
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 |  |
 | [Pusher Street](https://open.spotify.com/track/2386ucGjI6rRj5OJTdP9To) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:31 | 2022-04-15 | 2022-06-10 |
-| [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 |  |
+| [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 | 2024-02-26 |
 | [quarantine blues](https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [quarantine blues](https://open.spotify.com/album/0KqGi4gaU2mBGqHDWWL3be) | 3:00 | 2022-04-15 |  |
 | [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2023-12-22 |  |
 | [Quiet Times](https://open.spotify.com/track/0lnaNbGICvWHQwQzE5jYO8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3Zf3qc9skmzkSI4heGer1R) | 1:42 | 2022-11-11 | 2022-12-14 |
@@ -643,7 +644,7 @@
 | [Say So](https://open.spotify.com/track/4cXMR7W8SZEL0Nw180Ue0Y) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Don't Start Now](https://open.spotify.com/album/4cZQzq6eQwg2xnh2oWuQEp) | 3:34 | 2022-11-11 | 2023-10-27 |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-22 |  |
 | [Seals](https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Seals](https://open.spotify.com/album/7eDjDYsBjvvaatdJyxmzhY) | 2:14 | 2022-11-11 |  |
-| [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 | 2024-02-25 |
+| [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 |  |
 | [Seasonal Love](https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Seasonal Love](https://open.spotify.com/album/3FJTcw8nFi6279pIUipMA7) | 2:00 | 2022-10-14 | 2023-10-06 |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2022-04-15 | 2022-05-14 |

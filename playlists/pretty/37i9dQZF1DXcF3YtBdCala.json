@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Irene Del Rosario en portada. ",
-  "num_followers": 131118,
+  "num_followers": 131134,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjdmYjdmZTU1NGExMjM2NTRlMTZkODAyYjNlOTc5NmQ3OTRjMTVj",
+  "snapshot_id": "MCw2YzAzOGRjYzFlYzI5OTRhY2QxYzhlMTRhODlkYTQ2YWFkY2JkOTBl",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -231,8 +231,8 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
       "artists": [
         {
@@ -240,13 +240,13 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -419,8 +419,8 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Ll\u00e9vate",
-        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
@@ -428,13 +428,13 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Ll\u00e9vate",
-      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "\u00bfTiempo Para Qu\u00e9?",
-        "url": "https://open.spotify.com/album/0vFdLZhONSz29O1XxA1MEd"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 205778,
-      "name": "\u00bfTiempo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2d3uKiGuZp67y9FfgTTSUc"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "\u00bfTiempo Para Qu\u00e9?",
+        "url": "https://open.spotify.com/album/0vFdLZhONSz29O1XxA1MEd"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 205778,
+      "name": "\u00bfTiempo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2d3uKiGuZp67y9FfgTTSUc"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Para No Pensar en Ti",
-        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar en Ti",
-      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 157280,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Para No Pensar en Ti",
+        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209702,
+      "name": "Para No Pensar en Ti",
+      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -971,22 +971,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "X Personas Como T\u00fa",
-        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
+        "name": "Vivir Sin Ti ( Version Acustica )",
+        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
       },
       "artists": [
         {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
         },
         {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 173016,
-      "name": "X Personas Como T\u00fa",
-      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
+      "duration_ms": 172813,
+      "name": "Vivir Sin Ti ( Version Acustica )",
+      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Vivir Sin Ti ( Version Acustica )",
-        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+        "name": "X Personas Como T\u00fa",
+        "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
       "artists": [
         {
-          "name": "Ana Emilia",
-          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
         },
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
         }
       ],
-      "duration_ms": 172813,
-      "name": "Vivir Sin Ti ( Version Acustica )",
-      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+      "duration_ms": 173016,
+      "name": "X Personas Como T\u00fa",
+      "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Solo Estoy Borracho",
-        "url": "https://open.spotify.com/album/4fchqiXSPg6fDhwNUJaSGb"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Barraza",
-          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
-        }
-      ],
-      "duration_ms": 173829,
-      "name": "Solo Estoy Borracho",
-      "url": "https://open.spotify.com/track/5HfTSXBmZK10JXgwdna5ct"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "\u00c9chame A M\u00ed La Culpa",
         "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 193826,
       "name": "\u00c9chame A M\u00ed La Culpa",
       "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Solo Estoy Borracho",
+        "url": "https://open.spotify.com/album/4fchqiXSPg6fDhwNUJaSGb"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Barraza",
+          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
+        }
+      ],
+      "duration_ms": 173829,
+      "name": "Solo Estoy Borracho",
+      "url": "https://open.spotify.com/track/5HfTSXBmZK10JXgwdna5ct"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "En Tu Sonrisa",
         "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+        "name": "Ven Porque Te Necesito",
+        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 185781,
-      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
+      "duration_ms": 185560,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Ven Porque Te Necesito",
-        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
+      "duration_ms": 185781,
+      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
     },
     {
       "added_at": "2024-02-23 06:00:00",

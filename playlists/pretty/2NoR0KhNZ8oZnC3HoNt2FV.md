@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > New album <a href="spotify:album:5yrqPWuCSAo6beZdIBYAUU">Nu Love</a> is now available.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,381 likes - 658 songs - 1 day 13 hr 15 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,372 likes - 658 songs - 1 day 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

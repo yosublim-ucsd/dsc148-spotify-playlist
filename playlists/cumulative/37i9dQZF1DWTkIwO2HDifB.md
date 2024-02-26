@@ -4,7 +4,7 @@
 
 > Rolê na Favela de Nave e os funks mais 🔑 do Brasil\. Foto: Oruam, Didi
 
-233 songs - 12 hr 44 min
+234 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Maçã Verde](https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Avisa que é o Funk](https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh) | 2:44 | 2021-12-31 | 2023-10-19 |
 | [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 | 2023-04-21 | 2023-07-08 |
 | [Mec Life](https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5) | [Mec Life](https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx) | 3:15 | 2023-05-30 | 2023-06-30 |
-| [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 | 2023-12-01 |  |
+| [Mega a Cura Antidepressiva](https://open.spotify.com/track/60foquI0jndvp1YJEJrU0A) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Antidepressivo](https://open.spotify.com/album/630QH0pY7JTFT41zXQKGjb) | 2:20 | 2024-02-23 |  |
+| [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 | 2023-12-01 | 2024-02-26 |
 | [Mega Funk Lost](https://open.spotify.com/track/1dNaW9Zy3lSgwylHwR75Ro) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/7z1fRz5wZLxWpxmsFRWa3A) | 2:41 | 2023-11-10 | 2024-01-31 |
 | [Mega Funk Lost](https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/42UgjLpkcOAF4emPZMmuw5) | 2:41 | 2024-01-26 |  |
 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-05 | 2023-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121193,
+  "num_followers": 121195,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDU3MDdjOWNhODg2Mjc0NGE5MzRjNTVmMjM5NzYxYTM1N2ZiZDEy",
+  "snapshot_id": "MCxiMzU3OWI0N2IyNGEyZWVjY2I2YThiZmJhMjA5NjIyYjNmODE2ZGQ3",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Now You're Gone",
-        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Now You're Gone",
-      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "When the Sun Goes Down",
         "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 124113,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Now You're Gone",
+        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Now You're Gone",
+      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 236671,
       "name": "Love International Inc.",
       "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 186340,
-      "name": "Tide (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Forms / Objects",
         "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 386508,
       "name": "Objects",
       "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 186340,
+      "name": "Tide (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
       "artists": [
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Electric Visions",
         "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 369346,
       "name": "Electric Visions",
       "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Toledo",
         "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1199,38 +1215,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 280888,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
+      },
+      "artists": [
+        {
+          "name": "Keljet",
+          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
+        },
+        {
+          "name": "Hyara",
+          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 165517,
       "name": "Hachi",
       "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
-      },
-      "artists": [
-        {
-          "name": "Keljet",
-          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
-        },
-        {
-          "name": "Hyara",
-          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "small talk",
         "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
       },
@@ -1607,18 +1623,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
       "artists": [
         {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+          "name": "Anna Simonetta",
+          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
+        },
+        {
+          "name": "Jeremy Lim",
+          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
         }
       ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+      "duration_ms": 194421,
+      "name": "Golven",
+      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
-      },
-      "artists": [
-        {
-          "name": "Anna Simonetta",
-          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
-        },
-        {
-          "name": "Jeremy Lim",
-          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
-        }
-      ],
-      "duration_ms": 194421,
-      "name": "Golven",
-      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
-      },
-      "artists": [
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 175711,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Loyal (Afro House Remix)",
         "url": "https://open.spotify.com/album/46trrRl1K6bdunvPrF0lrz"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 203478,
       "name": "Loyal - Afro House Remix",
       "url": "https://open.spotify.com/track/0kfoWZI1zb2zfnIvUCm52g"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 175711,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
     },
     {
       "added_at": "2024-02-15 23:00:00",

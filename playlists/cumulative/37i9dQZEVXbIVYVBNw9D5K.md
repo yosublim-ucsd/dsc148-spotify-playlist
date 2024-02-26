@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-858 songs - 1 day 18 hr 57 min
+859 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [B \- CHORBA](https://open.spotify.com/track/0vTMrazB9PoL7v8aYULj0c) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:27 | 2022-10-15 | 2022-10-31 |
 | [B.](https://open.spotify.com/track/64P8LehzuNRGQ5JhswIHNW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [B.](https://open.spotify.com/album/6ZMfAa72rsLzLtjuRygUki) | 4:47 | 2023-10-17 |  |
 | [B.S.G.](https://open.spotify.com/track/5KvWAPJDBNXzy5l1bywB7x) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [BEGEFENDİ](https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744) | 2:10 | 2021-03-27\* | 2021-05-03 |
-| [B2LA](https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [B2LA](https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw) | 2:34 | 2024-02-24 |  |
+| [B2LA](https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [B2LA](https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw) | 2:34 | 2024-02-24 | 2024-02-26 |
 | [Baba](https://open.spotify.com/track/4WVOnhv2a3vvBAzHbmdGHW) | [Ayaz Erdoğan](https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA), [Mengelez](https://open.spotify.com/artist/0YmKSLAY5SI1foE3K14u4g) | [Baba](https://open.spotify.com/album/5Lp153xQofl3Mje7Car9la) | 3:35 | 2021-10-07 | 2022-03-11 |
 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 | 2023-06-17 | 2023-08-20 |
 | [Baba Yak](https://open.spotify.com/track/0JBXoHRZdgMlOUrnALDs1y) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/0OAVYU8t5hsj92eYATU0IZ) | 2:18 | 2021-09-05 | 2021-09-08 |
@@ -196,7 +196,7 @@
 | [C \- CHORBA](https://open.spotify.com/track/0Xztn8NxTd0KreEFLxI7SX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:54 | 2022-10-15 | 2022-10-20 |
 | [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
 | [Can Dostum](https://open.spotify.com/track/6tHhAUAMwUwlEGpAVq1jlX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 2:27 | 2023-09-18 |  |
-| [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 | 2024-02-17 | 2024-02-23 |
+| [Caney](https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/46DEhRYZNFp9nBmC6j9Dru) | 2:45 | 2024-02-17 |  |
 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 | 2023-06-17 | 2024-02-18 |
 | [Cano](https://open.spotify.com/track/0zQ8vXWLqSyBi5bYebveW1) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Cano](https://open.spotify.com/album/5LIB6TtN0tsvBevHwi3D9l) | 2:41 | 2023-01-18 | 2023-08-10 |
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 | 2022-07-24 |
@@ -666,7 +666,7 @@
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-11 | 2021-05-20 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-04 | 2022-07-10 |
 | [RXCKSTAR](https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [RXCKSTAR](https://open.spotify.com/album/1XexpWydcoRRNHMaygdPbY) | 1:13 | 2024-01-29 | 2024-02-21 |
-| [Rüya Gibi](https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Rüya Gibi](https://open.spotify.com/album/768mfmAJuwFne65w5xmGso) | 2:50 | 2023-11-07 |  |
+| [Rüya Gibi](https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Rüya Gibi](https://open.spotify.com/album/768mfmAJuwFne65w5xmGso) | 2:50 | 2023-11-07 | 2024-02-26 |
 | [Rüyamda Buluttum](https://open.spotify.com/track/4DIgXpNk216oU44hPmyxy6) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6), [Demet Evgar](https://open.spotify.com/artist/5PZbAEIJg4YfrzvOIfdzbD) | [Rüyamda Buluttum / Acı Kiraz](https://open.spotify.com/album/6GuB5ytaOBqaiK4dFXc86C) | 3:26 | 2021-08-15 | 2021-10-03 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-10 |
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-25 | 2023-03-27 |
@@ -837,6 +837,7 @@
 | [Yıldızlara Bak](https://open.spotify.com/track/5jSjin6KJMH6WT68YnE7bW) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Yaşlı Amca](https://open.spotify.com/album/5UkfRBKjeHnppOGTHX7uJ4) | 4:00 | 2021-03-27\* | 2021-05-19 |
 | [Yıldızların Altında](https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf) | [Kargo](https://open.spotify.com/artist/3eedpDhV8pocvTvTHLGq9R) | [Yıldızların Altında](https://open.spotify.com/album/7iBnGObSriC4GOdsA2SVVg) | 2:57 | 2021-10-18 | 2022-02-03 |
 | [Zalim](https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Düş Bahçeleri](https://open.spotify.com/album/3pCSt4dgNRTTDVI1XO6nqZ) | 4:38 | 2023-06-13 | 2023-10-18 |
+| [Zalim \(Ellerine Sağlık\) \- Remastered](https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Ellerine Sağlık \(Remastered\)](https://open.spotify.com/album/1GtHpfgrBTLRG4JP2cZxPn) | 4:06 | 2024-02-25 |  |
 | [Zeki Müren](https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Zeki Müren](https://open.spotify.com/album/3eVrMsuPjOStJExES8clDg) | 2:15 | 2022-06-11 | 2022-06-19 |
 | [Zemin](https://open.spotify.com/track/5WT3ohLdg04eUy9Bz2sRsi) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Zemin](https://open.spotify.com/album/3GhtXj3VtpblJcDThh0m49) | 2:56 | 2021-03-27\* | 2021-03-27 |
 | [Zenti](https://open.spotify.com/track/1LuaqpbhicGeIYCptQf7cO) | [EX](https://open.spotify.com/artist/2RL1fxftHZRkaF1JQ62gaV) | [Zenti](https://open.spotify.com/album/4hSqLGHsRgNuUMGQNBp7lb) | 1:24 | 2022-05-11 | 2022-05-15 |

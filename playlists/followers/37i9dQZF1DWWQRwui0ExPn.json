@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 5249951,
+  "2024-02-26": 5250879,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -60950,6 +60950,24 @@
     },
     {
       "album": {
+        "name": "Lazy Streets",
+        "url": "https://open.spotify.com/album/5DffIqCUvdikkN6VtiyyvP"
+      },
+      "artists": [
+        {
+          "name": "galaxx",
+          "url": "https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120923,
+      "name": "Lazy Streets",
+      "url": "https://open.spotify.com/track/3VLrPtDygtrwm39saGbN61"
+    },
+    {
+      "album": {
         "name": "Lazy Sunday",
         "url": "https://open.spotify.com/album/0jLUAVjxT1TPqP4v4LdkPQ"
       },
@@ -94829,7 +94847,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 101544,
       "name": "Say It",
       "url": "https://open.spotify.com/track/05ungBOkFVFKAq4G54bbcm"

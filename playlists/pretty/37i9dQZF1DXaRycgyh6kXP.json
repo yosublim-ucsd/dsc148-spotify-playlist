@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 209106,
+  "num_followers": 209207,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk",
+  "snapshot_id": "MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 226876,
-      "name": "Sometimes He's In My Dreams",
-      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Gone To Earth (Remastered 2003)",
         "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 141120,
       "name": "Silver Moon Over Sleeping Steeples",
       "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 226876,
+      "name": "Sometimes He's In My Dreams",
+      "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
-        {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
-        }
-      ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 287720,
       "name": "Eyes Be Closed",
       "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Reality Testing",
+        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "duration_ms": 289082,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 136000,
       "name": "My Lights Kiss Your Thoughts Every Moment",
       "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Short And Sweet",
+        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
+      },
+      "artists": [
+        {
+          "name": "Little annie",
+          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Short And Sweet",
-        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
-      },
-      "artists": [
-        {
-          "name": "Little annie",
-          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Think Of You",
-      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "I Feel You Feel",
         "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 177024,
       "name": "Thru U (feat. Bklava)",
       "url": "https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Light Bodied",
+      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
     },
     {
       "added_at": "2024-01-19 05:00:00",

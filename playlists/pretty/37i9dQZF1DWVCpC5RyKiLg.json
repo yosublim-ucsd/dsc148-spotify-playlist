@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 715844,
+  "num_followers": 715917,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTAwMzc2NjQ2OGJiZTVhNTYxOTc3MWZlZGUxOTBmNjNlMDdiYzgw",
+  "snapshot_id": "MCxjYjVlYjk3Njk5NTRmOTI2NGMxY2IxMGM5YTdhOGQ5ZWIwYWRkMDBm",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Medo Bobo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 196830,
       "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
       "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Medo Bobo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Por Mais Beijos Ao Vivo",
-        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 169593,
-      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "TunTunTun (Spotify Singles)",
         "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 186501,
       "name": "TunTunTun - Spotify Singles",
       "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Por Mais Beijos Ao Vivo",
+        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 169593,
+      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "O Embaixador (Ao Vivo)",
         "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 203739,
       "name": "Cem Mil - Ao Vivo",
       "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2023-11-17 03:01:00",

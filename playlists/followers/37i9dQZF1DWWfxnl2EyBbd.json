@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 76250,
+  "2024-02-26": 76292,
   "date_first_scraped": "2022-02-11",
   "description": "The soft sound of a Jazz piano trio to help you relax and unwind.",
   "name": "Relaxing Jazz Piano",
@@ -7229,7 +7229,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 329166,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C"
@@ -10151,6 +10151,32 @@
       "duration_ms": 529200,
       "name": "Where Breathing Starts",
       "url": "https://open.spotify.com/track/5e4pjbR6UsKQE9fvWmQRkw"
+    },
+    {
+      "album": {
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/637CSjIkYI1pALV0yrFcfc"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Nilsson",
+          "url": "https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c"
+        },
+        {
+          "name": "Daniel Franck",
+          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418142,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/3eTUgNA4GrFu3mo1wy79ni"
     },
     {
       "album": {

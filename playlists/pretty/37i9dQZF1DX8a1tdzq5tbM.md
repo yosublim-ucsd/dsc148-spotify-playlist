@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,606 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,970 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 75 | [Fight For You \- Sultan & Ned Shephard Remix Radio Edit](https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Fight For You](https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb) | 3:56 |
 | 76 | [I Am Free \- Radio Edit](https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1) | [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [I Am Free](https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN) | 3:27 |
 | 77 | [Forever Today](https://open.spotify.com/track/3v2ZkuMfIB57fXEQLNynjA) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5) | 11:59 |
-| 78 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
-| 79 | [Love Don't Let Me Go \(Walking Away\) \(David Guetta vs\. The Egg\)](https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
+| 78 | [Love Don't Let Me Go \(Walking Away\) \(David Guetta vs\. The Egg\)](https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
+| 79 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
 | 80 | [Somewhere \(feat\. Sarah Lynn\) \- Radio Edit](https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M) | [DJ Mog](https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF), [Sarah Lynn](https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K) | [Somewhere \(feat\. Sarah Lynn\)](https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH) | 3:55 |
 | 81 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |
-| 82 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 |
-| 83 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
-| 84 | [Heartbreak \- Radio Edit](https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Heartbreak](https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7) | 3:41 |
-| 85 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
+| 82 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
+| 83 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 |
+| 84 | [Fire](https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Simon Le Bon](https://open.spotify.com/artist/4GNaWOK6CLMQOVajyjTJfj) | [L.E.F.](https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69) | 4:31 |
+| 85 | [Heartbreak \- Radio Edit](https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Heartbreak](https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7) | 3:41 |
 | 86 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |
 | 87 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
 | 88 | [Rocker](https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Transphormer](https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7) | 4:48 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/05u4uCA07oXnopEdlZ57Ug) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Awaken \(Pt\. 2\) \[Remixes\]](https://open.spotify.com/album/1ZMzi9pfVDFExVCKiDkYZO) | 3:44 |
 | 120 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 
-Snapshot ID: `MCw3MWQ3YTlmOGQ4OTI3MmRmMDBhMDBhYWI0ZTcyMGIyYWZlMzZjMDIz`
+Snapshot ID: `MCw1OWYyYjQ4ZjhmMzBhY2FlOThlYzQ4MDk0Y2M0ZGMyYTE1MjBhZjQy`

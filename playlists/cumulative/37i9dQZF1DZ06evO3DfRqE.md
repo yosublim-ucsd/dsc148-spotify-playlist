@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 13 min
+55 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2024-01-29 |  |
 | [Kiss the Girl](https://open.spotify.com/track/7yzU7C9CO3g3AfsSzU4Zfg) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:47 | 2024-02-05 |  |
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:20 | 2024-01-29 |  |
+| [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 | 2024-02-25 |  |
 | [Oama](https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:59 | 2024-01-29 |  |
 | [Pianoforte](https://open.spotify.com/track/4GknpPyvzFtjO8gmXVOWOX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 2:51 | 2024-01-29 |  |
 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2024-01-29 |  |
@@ -58,7 +59,7 @@
 | [フラガール \-虹を\-](https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Miho Teruya](https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:38 | 2024-01-29 |  |
 | [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 | 2024-01-29 |  |
 | [ホワイル・マイ・ギター・ジェントリー・ウィープス \- Solo](https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:06 | 2024-01-29 |  |
-| [レッツ・ダンス \- Solo](https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 2:45 | 2024-01-29 |  |
+| [レッツ・ダンス \- Solo](https://open.spotify.com/track/4OtasHlPr3hKhb8HEIruK1) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 2:45 | 2024-01-29 | 2024-02-26 |
 | [ヴァリエーションズ・オン・ア・ダンス](https://open.spotify.com/track/6Np7BEc0F56BSFnbVvC5xA) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live & Let Live～Love for Japan](https://open.spotify.com/album/6RMhWS03tHCnnSAWKM038l) | 6:41 | 2024-02-08 | 2024-02-23 |
 | [粛々楽々](https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp) | [BEGIN](https://open.spotify.com/artist/659Qn4ZTVZjnSBm6a6IniX), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [粛々楽々](https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f) | 2:54 | 2024-01-29 |  |
 | [麒麟紀行 III](https://open.spotify.com/track/0BwDNKlJrPwS3wWkwBIedz) | [John R Graham](https://open.spotify.com/artist/6jZAOebMq50uIGqf1zeN6a), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NHK大河ドラマ「麒麟がくる」オリジナル・サウンドトラック Vol.3](https://open.spotify.com/album/2SSjwFDguSVmDcK6mG9ASL) | 1:33 | 2024-01-29 |  |

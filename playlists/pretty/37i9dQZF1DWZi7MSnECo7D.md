@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: A Olívia
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,779 likes - 71 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,774 likes - 71 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 70 | [Quem Será?](https://open.spotify.com/track/6tw0Csa29CYVHEVAehI2Nm) | [Colibri](https://open.spotify.com/artist/3R9wxOS0XWvgNBJZxtXi4y), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r) | [Quem Será?](https://open.spotify.com/album/5I7TlP98sFvVBcuYcwz6lS) | 6:16 |
 | 71 | [Tô Bem Sozin](https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd) | [Fxbricio](https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Tô Bem Sozin](https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO) | 3:48 |
 
-Snapshot ID: `MCxlNDQ3MGFkOWY4NjIzNjkxODliNDA3ZDk0MDExM2ZhMWU1YzM4ZGZj`
+Snapshot ID: `MCw3NjNmYjIyOTMxYTkyOTY5NTI2MDJhNDdjNzUxODFhYTk3NWVmM2Fi`

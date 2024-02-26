@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-304 songs - 1 day 1 hr 42 min
+305 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 | 2022-04-15 |  |
 | [Aerials](https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:55 | 2024-01-02 |  |
 | [All on the Line \(Acoustic Version\)](https://open.spotify.com/track/0yJxgpSUFqkZCKlrg0mjs4) | [Adrenaline Mob](https://open.spotify.com/artist/1OiOWEQ9miUl9QbCX5JNza) | [Dearly Departed](https://open.spotify.com/album/5Wk6mSHON4ijJbo72pMOwQ) | 5:05 | 2022-04-15 | 2022-07-14 |
+| [Alone Again](https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo) | 4:20 | 2024-01-02 |  |
 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 | 2022-04-15 | 2024-02-10 |
 | [Alone Again \- 2006 Remaster](https://open.spotify.com/track/2CURikRfaKPervqY62sYxw) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Rhino Hi\-Five: Dokken](https://open.spotify.com/album/1vSlhlbh0SW0OBMz4qkNVc) | 4:22 | 2022-04-15 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 | 2022-04-15 |  |
@@ -82,7 +83,7 @@
 | [Every Time I Look At You](https://open.spotify.com/track/2wwTREXy3Uq8FWksOWYf03) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/0ebfVybTT7IVAfZ9uq5OX6) | 4:39 | 2022-04-15 | 2022-07-29 |
 | [Fade To Black](https://open.spotify.com/track/12oSzrBIyirNs0aCwk6elL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning](https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR) | 6:57 | 2022-04-15 | 2022-07-29 |
 | [Fade To Black \(Remastered\)](https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:57 | 2022-04-15 |  |
-| [Fall to Pieces](https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:31 | 2022-04-15 |  |
+| [Fall to Pieces](https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:31 | 2022-04-15 | 2024-02-26 |
 | [Farewell](https://open.spotify.com/track/3BKfbFphy0pj5zaXZDLmkx) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa) | [The Metal Opera Pt\. I](https://open.spotify.com/album/287hOKAfNAt7TPMtl8Au6N) | 6:32 | 2022-04-15 | 2022-07-29 |
 | [Farewell](https://open.spotify.com/track/4Qe4jyrOpoUeph5U8gwwxA) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa) | [The Metal Opera, Pt\. I](https://open.spotify.com/album/2HA77HLuzBmzeJp0Hc4YFO) | 6:32 | 2022-04-15 | 2022-11-13 |
 | [Father Time](https://open.spotify.com/track/6xaeNLTVajvNTpjkkNNR6L) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/3qZxvn6KGvO4vNwjnJmKrA) | 6:05 | 2022-04-15 | 2022-07-29 |

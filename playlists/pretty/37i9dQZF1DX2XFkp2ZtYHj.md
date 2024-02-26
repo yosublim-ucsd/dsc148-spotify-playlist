@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,190 likes - 217 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,247 likes - 217 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 216 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 |
 | 217 | [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 |
 
-Snapshot ID: `MCxmOTI4YjFlZTM4NjA0NzU3NzM0Y2E2MDBmOWFmNjlhNmMyOTMzM2Jl`
+Snapshot ID: `MCxiYmI0NGE3YjJiMGZiZWQ5MWQxOWRkMjZiZTMzZmQ0MmY0MzBiYWNm`

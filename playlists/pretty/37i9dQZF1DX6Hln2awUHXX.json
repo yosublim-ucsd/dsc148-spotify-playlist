@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 97104,
+  "num_followers": 97126,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTk5NjkxMTExZDkyNzIwYTVlNDk1MDY4Y2ZlMDNiNzlhNGIwZmZi",
+  "snapshot_id": "MCw3OTg5MWM2OTNmMjFmYjFjYTM0YzhmNGM4N2ZmOGZhZDBhNGM2MDg4",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1524,34 +1524,6 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Hans Hotter",
-          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
-      "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Solti - Wagner - The Operas",
-        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
           "name": "James King",
           "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
         },
@@ -1571,6 +1543,34 @@
       "duration_ms": 242306,
       "name": "Die Walk\u00fcre / Erster Aufzug: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
       "url": "https://open.spotify.com/track/4IdGIE4dqgJYisbTek67Nb"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Solti - Wagner - The Operas",
+        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Hans Hotter",
+          "url": "https://open.spotify.com/artist/3GtU1O2V8snd7EP5ySYLqN"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
+      "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1784,62 +1784,6 @@
           "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
         },
         {
-          "name": "Gary Lehman",
-          "url": "https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK"
-        },
-        {
-          "name": "Violeta Urmana",
-          "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
-        },
-        {
-          "name": "Evgeny Nikitin",
-          "url": "https://open.spotify.com/artist/54B5CQqpjezJJcYpuslgAX"
-        },
-        {
-          "name": "Alexei Tanovitski",
-          "url": "https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D"
-        },
-        {
-          "name": "Nikolai Putilin",
-          "url": "https://open.spotify.com/artist/0L9FBSnHsitCWR9pfBzzyJ"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        },
-        {
-          "name": "Mariinsky Chorus",
-          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
-        },
-        {
-          "name": "Mariinsky Children's Chorus",
-          "url": "https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ"
-        }
-      ],
-      "duration_ms": 327135,
-      "name": "Parsifal, WWV 111: Act III, Scene XI, \"Hoechsten Heiles Wunder!\"",
-      "url": "https://open.spotify.com/track/3Ug2qU2ZfQWZpsSK6wQSXj"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Parsifal",
-        "url": "https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Ren\u00e9 Pape",
-          "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
-        },
-        {
           "name": "Violeta Urmana",
           "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
         },
@@ -1879,6 +1823,62 @@
       "duration_ms": 559946,
       "name": "Parsifal, WWV 111: Act I, Scene I, \"He! Ho! Waldhueter ihr!\"",
       "url": "https://open.spotify.com/track/5vE0qrqpaO5cEa97CBBFCi"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Parsifal",
+        "url": "https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Ren\u00e9 Pape",
+          "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
+        },
+        {
+          "name": "Gary Lehman",
+          "url": "https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK"
+        },
+        {
+          "name": "Violeta Urmana",
+          "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
+        },
+        {
+          "name": "Evgeny Nikitin",
+          "url": "https://open.spotify.com/artist/54B5CQqpjezJJcYpuslgAX"
+        },
+        {
+          "name": "Alexei Tanovitski",
+          "url": "https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D"
+        },
+        {
+          "name": "Nikolai Putilin",
+          "url": "https://open.spotify.com/artist/0L9FBSnHsitCWR9pfBzzyJ"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Mariinsky Chorus",
+          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
+        },
+        {
+          "name": "Mariinsky Children's Chorus",
+          "url": "https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ"
+        }
+      ],
+      "duration_ms": 327135,
+      "name": "Parsifal, WWV 111: Act III, Scene XI, \"Hoechsten Heiles Wunder!\"",
+      "url": "https://open.spotify.com/track/3Ug2qU2ZfQWZpsSK6wQSXj"
     }
   ],
   "unique_name": "This Is Wagner",

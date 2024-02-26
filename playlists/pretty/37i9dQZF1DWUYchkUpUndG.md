@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=hhttps://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=HvrytxWdS3SWqKWnL86SIw>Reblah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,807 likes - 98 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,836 likes - 98 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 97 | [My Heart Cry](https://open.spotify.com/track/18E46OuftCCTGmb7IiZcaK) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [My Heart Cry](https://open.spotify.com/album/0t4FQkFbxUsx5kh3zaQUPX) | 5:14 |
 | 98 | [Praise Jam Medley](https://open.spotify.com/track/4Y6GdcIoFSptK1woFKn2K3) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX) | [Praise Jam Medley](https://open.spotify.com/album/2edC1ACu2J0yhn9D4W4piD) | 4:57 |
 
-Snapshot ID: `MCxiZjkzNjRlZjRmOWI3NTQyY2M5ODI3ZmJiOWI1ODhiNTMzNWRhZjFi`
+Snapshot ID: `MCxhZDE1YjEzYWM0NGQzNGU3OGIxOGRiMjI3NTc5ZjA0NTVjOGQ1NjM0`

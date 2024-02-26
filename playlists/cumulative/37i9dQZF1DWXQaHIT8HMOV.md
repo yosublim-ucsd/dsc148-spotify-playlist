@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-214 songs - 11 hr 2 min
+215 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2024-02-03 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 |  |
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
-| [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 | 2023-11-24 |  |
+| [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 | 2023-11-24 | 2024-02-26 |
 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 | 2022-05-27 | 2023-01-13 |
@@ -219,6 +219,7 @@
 | [We Made It](https://open.spotify.com/track/3KXmtXDQsT7QKCL90Pon4G) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [We Made It](https://open.spotify.com/album/69aaJYIIfp9BILNlgVjd2Y) | 3:13 | 2023-04-06 | 2023-08-26 |
 | [Where I Go](https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [DJ Victor256](https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX) | [Where I Go](https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L) | 2:55 | 2022-09-30 | 2023-02-01 |
 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 | 2023-09-07 | 2024-02-18 |
+| [Yo Body](https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Yo Body](https://open.spotify.com/album/4NRlTxbeenzGsRORM3gLPC) | 3:15 | 2024-02-23 |  |
 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 | 2022-07-08 | 2022-11-07 |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 | 2024-02-03 |
 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 | 2022-11-10 | 2023-03-25 |

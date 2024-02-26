@@ -4,7 +4,7 @@
 
 > me sentindo completamente macetado era isso q vc qria ivete????? parabens
 
-375 songs - 17 hr 40 min
+376 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Mec Life](https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5) | [Mec Life](https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx) | 3:15 | 2023-05-29 | 2023-06-30 |
 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 | 2022-12-19 | 2023-10-24 |
 | [Meca Cereja](https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meca Cereja](https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC) | 3:54 | 2022-11-09 | 2023-03-15 |
-| [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 | 2023-12-08 |  |
+| [Mega a Cura Antidepressiva](https://open.spotify.com/track/60foquI0jndvp1YJEJrU0A) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Antidepressivo](https://open.spotify.com/album/630QH0pY7JTFT41zXQKGjb) | 2:20 | 2024-02-19 |  |
+| [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 | 2023-12-08 | 2024-02-26 |
 | [MEGA DO TIMBALAND](https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/6Po1oYa7aaTKl1iVpuyB10) | 2:36 | 2022-09-26 | 2023-04-12 |
 | [MEGA DO TIMBALAND](https://open.spotify.com/track/2PTuhsCZhCpvxLfPz58oke) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/2KIvTugmHL9NLaUvoGGDCC) | 2:36 | 2022-09-28 | 2023-04-06 |
 | [Megão do Ploft](https://open.spotify.com/track/3WYXseBxjdRXkVFzBfV8lJ) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [MC Daniel DN](https://open.spotify.com/artist/1IWhchVnchJesDcsIqbHC9) | [Megão do Ploft](https://open.spotify.com/album/1Xd3B5QwJ0chwOBzpBGAib) | 3:41 | 2022-05-26 | 2022-08-30 |

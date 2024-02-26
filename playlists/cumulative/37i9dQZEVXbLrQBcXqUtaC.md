@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,150 songs - 2 day 18 hr 29 min
+1,151 songs - 2 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-04 | 2022-12-09 |
 | [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dina Rae](https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 5:50 | 2022-10-21 | 2023-02-25 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-03 | 2023-04-23 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-07-24 |  |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-07-24 | 2024-02-26 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-25 | 2021-12-29 |
 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-08-12 | 2023-09-11 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-28 |
@@ -1121,6 +1121,7 @@
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2021-10-22 | 2022-02-01 |
 | [مع الأسف](https://open.spotify.com/track/7yZoCbugaNaR3Ewwgr19y4) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [مع الأسف](https://open.spotify.com/album/7t3fiFizoUlCgSKdHTWCrC) | 4:40 | 2022-01-29 | 2022-02-06 |
 | [مغربي هجوله \| عندو لخيانه موضه ، شدي ولدك عليا \- مطلوبه اكثر شي](https://open.spotify.com/track/7uiVZHtBqbQmzcp2X7TNaW) | [SOMA FM](https://open.spotify.com/artist/3SoI7WIPPrMJKVvVwEx8Lc) | [مغربي هجوله \| عندو لخيانه موضه ، شدي ولدك عليا \- مطلوبه اكثر شي](https://open.spotify.com/album/3th4r95wvh2VFi8tHDKLYt) | 3:21 | 2023-07-12 | 2023-09-13 |
+| [مقادير](https://open.spotify.com/track/2Y8BkRBgG3sGQlNHi98P8Y) | [Talal Madah](https://open.spotify.com/artist/0yBICHPEyaDIolDCKzPyJf) | [مقادير](https://open.spotify.com/album/3dkUjNY2jd6xYl4ttpyYFc) | 1:17 | 2024-02-25 |  |
 | [مكس خليجي \- Acoustic Version](https://open.spotify.com/track/7jnd0lUhzAFVvEdkt5yrAe) | [الزمن الجميل](https://open.spotify.com/artist/1V281tW3M1nA4P4EGbWfE4) | [مكس خليجي \(Acoustic Version\)](https://open.spotify.com/album/4LVa8uAFcLzXex2dR9AF1y) | 4:16 | 2022-04-28 | 2022-04-29 |
 | [نارهم تاكل حطبهم \- مسرع](https://open.spotify.com/track/6bPeQsnBv2qQB19HZcl3eY) | [Rush](https://open.spotify.com/artist/4HR4IZeSmzfCD8WiIVPt3F) | [نارهم تاكل حطبهم \- مسرع](https://open.spotify.com/album/4KXGUMJMaurn7y3zGHSvmz) | 3:14 | 2024-02-13 |  |
 | [ناس طــارت](https://open.spotify.com/track/7aoQ4ne9cjMp6372x3Csjg) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [ناس طــارت](https://open.spotify.com/album/6J1KYLR1XUeVl5KjnR8y0U) | 4:35 | 2023-07-24 | 2023-08-06 |

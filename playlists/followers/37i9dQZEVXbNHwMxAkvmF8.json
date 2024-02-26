@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 71507,
+  "2024-02-26": 71515,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hungary.",
   "name": "Top 50 - Hungary",
@@ -115,6 +115,28 @@
       "duration_ms": 177692,
       "name": "10 PINK BB",
       "url": "https://open.spotify.com/track/6YOb1xX79GFT3QB2iu9rMX"
+    },
+    {
+      "album": {
+        "name": "BandoBabySeason",
+        "url": "https://open.spotify.com/album/5UQxk9LslRTr4Y0QMoIEh8"
+      },
+      "artists": [
+        {
+          "name": "Kis\u00e9",
+          "url": "https://open.spotify.com/artist/6zqr73J6gm3Son1vnWkbfK"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289484,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/05oBtpki5sMSdRO9tggYuH"
     },
     {
       "album": {
@@ -3281,7 +3303,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "casa de papel",
       "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
@@ -3517,7 +3539,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 219310,
       "name": "Cig\u00e1ny-\u00fcgy",
       "url": "https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse"
@@ -5837,7 +5859,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -13417,7 +13439,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -14761,7 +14783,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -15443,7 +15465,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 199719,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
@@ -17457,7 +17479,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 206037,
       "name": "szosziazi",
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"

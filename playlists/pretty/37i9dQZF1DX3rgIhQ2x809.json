@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70520,
+  "num_followers": 70525,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy",
+  "snapshot_id": "MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 197480,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Billete",
+        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
+      },
+      "artists": [
+        {
+          "name": "Chen",
+          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
+        }
+      ],
+      "duration_ms": 163777,
+      "name": "Billete",
+      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 177142,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Billete",
-        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
-      },
-      "artists": [
-        {
-          "name": "Chen",
-          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
-        }
-      ],
-      "duration_ms": 163777,
-      "name": "Billete",
-      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
     },
     {
       "added_at": "2023-06-09 02:27:24",

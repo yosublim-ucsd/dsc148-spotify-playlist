@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: TRACK15",
-  "num_followers": 12147,
+  "num_followers": 12169,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGViOTVkNDk1YTVjM2Y0MzIzOGI1ZTBlNjZhZDM3OGQ3MjhhZjc5",
+  "snapshot_id": "MCxiZGE5ZGY4MmNhZmYwOTZiNmU1YjdkYmNlZWI4ODEzZDc2YjNmYTQw",
   "tracks": [
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SONGS",
+      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-02-22 15:00:00",
+      "album": {
         "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
         "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 233173,
       "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
       "url": "https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm"
-    },
-    {
-      "added_at": "2024-02-22 15:00:00",
-      "album": {
-        "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq"
-      },
-      "artists": [
-        {
-          "name": "35.7",
-          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
-        }
-      ],
-      "duration_ms": 197604,
-      "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0647L6JfnQWufikSR6AabW"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Japa, Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,889 likes - 76 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,898 likes - 76 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Foco no Progresso](https://open.spotify.com/track/3glmPb4pOJm0M3hxOr4er1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [JKZ](https://open.spotify.com/artist/1Gn8eEXtOWHA7XU8wEWXOb) | [Foco no Progresso](https://open.spotify.com/album/1AyVu6lZh1dQTEnt9C4PmK) | 3:34 |
 | 76 | [Pique Faroeste](https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw), [Ventu075](https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf) | [Pique Faroeste](https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN) | 2:26 |
 
-Snapshot ID: `MCwxZGM4OTg2ZDE3MzZiNTlkZTM0MGMyOTI3MzVkYTg2YjE2YWY3MDAx`
+Snapshot ID: `MCxjYzQ3MzcxZTNiNWNhZGJjZTA4MTlkMmU0NDQzZDk1MjYwZGQ4MjEy`

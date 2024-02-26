@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Rolê na Favela de Nave e os funks mais 🔑 do Brasil\. Foto: Oruam, Didi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,212,031 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,214,163 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 17 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 |
 | 18 | [Mega Funk Lost](https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/42UgjLpkcOAF4emPZMmuw5) | 2:41 |
 | 19 | [Areia Branquinha 2](https://open.spotify.com/track/4gY1DaPZjAiIv8AwSLWLkL) | [Mc PP da VS](https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Areia Branquinha 2](https://open.spotify.com/album/5mz3mEsgla23m8lp4kiKsy) | 9:30 |
-| 20 | [Mega a Cura Antidepressiva](https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Mega a Cura Antidepressiva](https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc) | 2:20 |
+| 20 | [Mega a Cura Antidepressiva](https://open.spotify.com/track/60foquI0jndvp1YJEJrU0A) | [DJ Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Antidepressivo](https://open.spotify.com/album/630QH0pY7JTFT41zXQKGjb) | 2:20 |
 | 21 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 | 22 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 |
 | 23 | [400K](https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Jorgin](https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF) | [Ninguém Tá Puro!](https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Joga Pra Lua](https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Joga Pra Lua](https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1) | 2:05 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCxmYjM4NzgzOTA3OGFjYWRmNTRkMWNhNDVhMTAxM2E5Y2RmY2EyOTE0`
+Snapshot ID: `MCxiZWNmZWMwOTMxNmJmZjU5ODc1MmRmZTg3MzcwNzhiNjE1YzQwNDE2`

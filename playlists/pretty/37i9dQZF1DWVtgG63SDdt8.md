@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,799 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,839 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No One Like You](https://open.spotify.com/track/0Mhbrm9AQQ4qjFqT8PqaKY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [No One Like You](https://open.spotify.com/album/01kBhpUucPs5watbzwnZWc) | 6:07 |
 | 100 | [Living Proof \- Live](https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ) | 3:53 |
 
-Snapshot ID: `MCw4ZDgxOGVhNWZjOGM2ZDA1MzNjZmFjYzM0OWQxOWJlZThkYTZmODNk`
+Snapshot ID: `MCxjN2ZlNzMyNzZlYTE4NWQxMjNhMGJmZWIwM2EzNWI4MmQzZGFmMjg0`

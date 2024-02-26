@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-338 songs - 19 hr 26 min
+339 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 | 2023-06-16 |  |
 | [Celebration](https://open.spotify.com/track/25TsNPHlxwbF8e7vb0Ccim) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 2:56 | 2022-04-07 | 2022-04-21 |
-| [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 |  |
+| [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 | 2024-02-26 |
 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 | 2022-12-30 |  |
 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2021-12-09 |  |
 | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/track/6swmCwTX7kHTHCBhWCY41f) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/album/4q4EcWgffH5Cr6Ylfzk9pp) | 3:32 | 2021-12-09 |  |
@@ -161,6 +161,7 @@
 | [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 | 2021-12-09 | 2022-10-28 |
 | [Illusion](https://open.spotify.com/track/5ZIa8cVHWHnq6AArR7E2Xe) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Ilusión](https://open.spotify.com/album/0A39TiWqLdlK4Ausz2VTYQ) | 3:20 | 2021-12-09 | 2022-07-29 |
 | [INTRUDERS](https://open.spotify.com/track/5dWtSsXTOn5uQzMVMv2X3j) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:05 | 2022-04-07 |  |
+| [Juan de Dios](https://open.spotify.com/track/4lAtI8c42fN4eICMJRwH6n) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Juan de Dios](https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm) | 3:33 | 2024-02-23 |  |
 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 | 2021-12-09 | 2022-10-28 |
 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 | 2021-12-09 |  |
 | [Junto al Mar](https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB) | 4:38 | 2021-12-09 |  |

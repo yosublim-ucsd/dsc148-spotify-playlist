@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231961,
+  "num_followers": 231976,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDlmOTQzZDBkZDFjNTRlNjhkODEzZTU1NGU4N2Q1ZGRlM2M4ODYw",
+  "snapshot_id": "MCw3MmU0OWJmNGY1NTE5Y2QyMjAzN2JlMDhiMTdmYzZjZTRjMTcwYmVj",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Sambista Perfeito",
-        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Sambista Perfeito",
-      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Sambista Perfeito",
+        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Sambista Perfeito",
+      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Spc",
+      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
         "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 251850,
       "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Zeca Pagodinho",
-        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Spc",
-      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
     },
     {
       "added_at": "2023-08-04 03:01:00",

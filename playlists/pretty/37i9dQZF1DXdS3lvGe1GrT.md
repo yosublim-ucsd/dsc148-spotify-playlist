@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,003 likes - 102 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,037 likes - 102 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 101 | [Stomp Cry](https://open.spotify.com/track/2YtYxuLDjRzHljPDtDF1W2) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Cherry Red](https://open.spotify.com/album/57GELxq7HP4ou43SrSN8YA) | 2:13 |
 | 102 | [A Place I Used to Know](https://open.spotify.com/track/0sj8fAV0RF74ePYdeK194X) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [A Place I Used to Know](https://open.spotify.com/album/1SXAx4ozhaSpsHUpKXwswr) | 4:08 |
 
-Snapshot ID: `MCxmYzk0NGUwMTg4YzE5NDlhNjk3ZjMyNGVjNDI1YTMwMzJjMDcwNmY0`
+Snapshot ID: `MCw5ZTQwNzI5ODExOTYzNWRkMmI4MGQ4Njk3NzA4YThmMTJhZDNlNWVi`

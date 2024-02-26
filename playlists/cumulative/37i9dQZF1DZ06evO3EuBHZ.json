@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/7djfSzsm0iyC1WhGp3DrGi"
+    },
+    {
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -296,7 +314,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -560,7 +578,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 171666,
       "name": "Hound Dog - Single Version",
       "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/3wVw6PSNqqzaO3kVp00pvA"
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6VyhQsQIKMAnrLAzQ8mnHL"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 166906,
       "name": "No Jody for Me",
       "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 239000,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 107731,
       "name": "Sing Out For Jesus",
       "url": "https://open.spotify.com/track/1QYIfoRVZRbiHbzEUmG2x1"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 165573,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/6HbOH4rDGisZtZrc8vEC9D"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 162546,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/5dnK7TJR2qL6PVG4YVPVjM"
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 125191,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/2i2whoANAvSNNPCmtnvsvH"
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 184100,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/5r9QVHvSVZ5Ch9Dj0TVCVS"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/1QGCXux6EbV2Tisimd0H5f"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ"

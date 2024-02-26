@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fría&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;.
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,661 likes - 146 songs - 7 hr 46 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,662 likes - 146 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

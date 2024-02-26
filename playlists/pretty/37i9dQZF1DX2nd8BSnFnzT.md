@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, Supercombo
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,628 likes - 78 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,623 likes - 78 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 77 | [Remédios](https://open.spotify.com/track/3MXugNQaPFyMhvFFpXq6JK) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Remédios](https://open.spotify.com/album/5QyX1DXEcpmW6EIH3PPt2U) | 2:31 |
 | 78 | [Outro Lugar \(feat\. Badauí\) \- Ao Vivo](https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [20 Anos \- Acústico](https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw) | 4:14 |
 
-Snapshot ID: `MCxmNzgzMTc5NzJjNTAyMzU0NWFkZGVjMTU3YTQ5ZDMyZjJlOTNiMWI3`
+Snapshot ID: `MCwxMTQ1MzEzZTUwOWY5MmFhNmRhNzJlMzFmZTRmYzBkMDc5YmI2MDRh`

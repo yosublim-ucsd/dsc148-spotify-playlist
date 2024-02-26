@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 121420,
+  "2024-02-26": 121468,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
   "name": "Cancionistas",
@@ -5892,6 +5892,24 @@
     },
     {
       "album": {
+        "name": "Mi M\u00fasica Es Muy Triste",
+        "url": "https://open.spotify.com/album/7s3WWffDU7KPxRyfpxZ7Fk"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213943,
+      "name": "Mi M\u00fasica Es Muy Triste",
+      "url": "https://open.spotify.com/track/5dDM1BnFWoPv1PEbsUDzyc"
+    },
+    {
+      "album": {
         "name": "MIAU",
         "url": "https://open.spotify.com/album/6vw7xypWjaPM6UVjwLSyap"
       },
@@ -6853,7 +6871,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"

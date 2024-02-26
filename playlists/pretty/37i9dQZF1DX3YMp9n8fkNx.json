@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Matchbox Twenty",
-  "num_followers": 1301425,
+  "num_followers": 1301676,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWE4OTcxMmQzMjVmZjlhMTc1NWNjMGE3ZDRkZWQwZWE3Mjg2NWY2",
+  "snapshot_id": "MCw3MmY2OGFmYmQzNmQ2NzljYWQzOTJhNDRhMzYyNTFhZjJjZDE0ZWNj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Devils Haircut",
-      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Outside Looking In: The Best Of The Gin Blossoms",
         "url": "https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 236066,
       "name": "Hey Jealousy",
       "url": "https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Devils Haircut",
+      "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
+        "name": "God Shuffled His Feet",
+        "url": "https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI"
+      },
+      "artists": [
+        {
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "Mmm Mmm Mmm Mmm",
+      "url": "https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
         "name": "The Best of Fuel",
         "url": "https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq"
       },
@@ -1579,34 +1595,18 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
+        "name": "The Best Of Sugar Ray",
+        "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
         }
       ],
-      "duration_ms": 330946,
-      "name": "Where It's At",
-      "url": "https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
-        "name": "God Shuffled His Feet",
-        "url": "https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "Mmm Mmm Mmm Mmm",
-      "url": "https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD"
+      "duration_ms": 243333,
+      "name": "Someday - Remastered",
+      "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
     }
   ],
   "unique_name": "90s Pop Rock",

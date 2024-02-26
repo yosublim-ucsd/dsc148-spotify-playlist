@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3840,
+  "num_followers": 3835,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzdlODQ3OWQ4MGE0YjE2MjEzNGE4ZjFkNjNjMTc4MWY5NjMzMGQ1",
+  "snapshot_id": "MCw5Y2Q2OTBmZGUwNzBmZTM3YWYxNzc2OTEyMDhmMTllYjQwODlkY2Uz",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Sprint!",
-        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
-      "url": "https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Cow-Girl dor\u00e9e",
         "url": "https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9norme chien tr\u00e8s gentil",
-        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
+        "name": "Sprint!",
+        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
       "artists": [
         {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 179384,
-      "name": "L'\u00e9norme chien tr\u00e8s gentil",
-      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
+      "duration_ms": 164360,
+      "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
+      "url": "https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -959,6 +943,22 @@
       "duration_ms": 269013,
       "name": "La vie",
       "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9norme chien tr\u00e8s gentil",
+        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 179384,
+      "name": "L'\u00e9norme chien tr\u00e8s gentil",
+      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "AlgeVita",
+        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "AlgeVita",
+      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "3050 DEGREEZ: Condamn\u00e9 \u00e0 l'Excellence",
         "url": "https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 145617,
       "name": "AUDEMARS",
       "url": "https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "AlgeVita",
-        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
-      },
-      "artists": [
-        {
-          "name": "S\u2019tano",
-          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "AlgeVita",
-      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Grand Bleu",
         "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 175388,
       "name": "Grand Bleu",
       "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1747,18 +1731,34 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
       },
       "artists": [
         {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
         }
       ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Alexandre Martel",
+        "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
+      },
+      "artists": [
+        {
+          "name": "Anatole",
+          "url": "https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396"
+        }
+      ],
+      "duration_ms": 258215,
+      "name": "Toune 9",
+      "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Alexandre Martel",
-        "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
       },
       "artists": [
         {
-          "name": "Anatole",
-          "url": "https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396"
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
         }
       ],
-      "duration_ms": 258215,
-      "name": "Toune 9",
-      "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Moteur super sport",
-        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
+        "name": "Contentement",
+        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
       },
       "artists": [
         {
-          "name": "Tom Chicoine",
-          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
+          "name": "Julie Aub\u00e9",
+          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
         }
       ],
-      "duration_ms": 191420,
-      "name": "Moteur super sport",
-      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
+      "duration_ms": 205786,
+      "name": "Contentement",
+      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Contentement",
-        "url": "https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M"
+        "name": "Moteur super sport",
+        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
       },
       "artists": [
         {
-          "name": "Julie Aub\u00e9",
-          "url": "https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM"
+          "name": "Tom Chicoine",
+          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
         }
       ],
-      "duration_ms": 205786,
-      "name": "Contentement",
-      "url": "https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39"
+      "duration_ms": 191420,
+      "name": "Moteur super sport",
+      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'heure du th\u00e9 avec Margaret Tracteur",
-        "url": "https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP"
-      },
-      "artists": [
-        {
-          "name": "Margaret Tracteur",
-          "url": "https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz"
-        }
-      ],
-      "duration_ms": 228382,
-      "name": "Moshpit \u00e0 St-Dilon",
-      "url": "https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Pissenlit",
         "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 211935,
       "name": "Pissenlit",
       "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'heure du th\u00e9 avec Margaret Tracteur",
+        "url": "https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP"
+      },
+      "artists": [
+        {
+          "name": "Margaret Tracteur",
+          "url": "https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz"
+        }
+      ],
+      "duration_ms": 228382,
+      "name": "Moshpit \u00e0 St-Dilon",
+      "url": "https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2023",

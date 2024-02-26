@@ -1,12 +1,12 @@
 {
   "description": "Siempre espectaculares. Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 110341,
+  "num_followers": 110462,
   "original_name": "Las Estrellas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWIwYzg0NjljN2E3ZTc3NmVkMGUxYTZhYTQzZmJhNTkyOWI4ZWM2",
+  "snapshot_id": "MCw2NmI0YWY2Y2VjZmU5MTQzMjNiMGZiMjA1N2FkYmM4ODU4YTk2NDJi",
   "tracks": [
     {
       "added_at": "2021-12-21 16:52:55",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Mas Turbada Que Nunca",
         "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -551,34 +551,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
       "artists": [
         {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+      "duration_ms": 275066,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -595,6 +579,22 @@
       "duration_ms": 328320,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Hoy Lo Vi Pasar",
-      "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 195840,
       "name": "Eres",
       "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Hoy Lo Vi Pasar",
+      "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Reflexiones",
-        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Rancher\u00edsimo, Vol. 2",
         "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 234320,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Reflexiones",
+        "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 300600,
       "name": "Hey - Spanish",
       "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Por Que Sera",
-        "url": "https://open.spotify.com/album/4L92OJGSEZfrfBwPJWpLsd"
-      },
-      "artists": [
-        {
-          "name": "Rudy La Scala",
-          "url": "https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Por Que Sera",
-      "url": "https://open.spotify.com/track/2zFhOgUTFiAupp71sFKm77"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Viento A Favor",
         "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 248226,
       "name": "Amor De Papel",
       "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Por Que Sera",
+        "url": "https://open.spotify.com/album/4L92OJGSEZfrfBwPJWpLsd"
+      },
+      "artists": [
+        {
+          "name": "Rudy La Scala",
+          "url": "https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Por Que Sera",
+      "url": "https://open.spotify.com/track/2zFhOgUTFiAupp71sFKm77"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "La Cima del Cielo",
-      "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Solo Lo Mejor - 20 Exitos",
         "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 295866,
       "name": "Popurri Juan Gabriel Medley",
       "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "La Cima del Cielo",
+      "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Volvamos a Vivir",
-        "url": "https://open.spotify.com/album/1TNHTUsVLxVCLyHXhQkmqW"
-      },
-      "artists": [
-        {
-          "name": "Rudy La Scala",
-          "url": "https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Mi Vida Eres Tu",
-      "url": "https://open.spotify.com/track/02SYuW0BNj2bvwY81HBBTd"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "\u00c1mame una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/5xumVl9kckmGpDN23vLznZ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 266173,
       "name": "\u00c1mame Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6TcVUedzB0NE0mg6bORhx0"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Volvamos a Vivir",
+        "url": "https://open.spotify.com/album/1TNHTUsVLxVCLyHXhQkmqW"
+      },
+      "artists": [
+        {
+          "name": "Rudy La Scala",
+          "url": "https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Mi Vida Eres Tu",
+      "url": "https://open.spotify.com/track/02SYuW0BNj2bvwY81HBBTd"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Tu Mu\u00f1eca",
-        "url": "https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 224318,
-      "name": "Tu Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Camilo",
         "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
       },
@@ -1823,22 +1807,6 @@
       "duration_ms": 168466,
       "name": "Llueve Sobre Mojado",
       "url": "https://open.spotify.com/track/3PDLKMueFy9va2zRQynuWK"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Qu\u00e9date Conmigo Esta Noche",
-      "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1859,6 +1827,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Qu\u00e9date Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Tu Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/7cfzMngiaoy5cBYzen6rua"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 224318,
+      "name": "Tu Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/4jiZpcv4YwVDw46wnMHwsy"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Mas Y Mas",
-        "url": "https://open.spotify.com/album/2zlR6HUuSlMTw79fFUixUr"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Tarde \u00f3 Temprano",
-      "url": "https://open.spotify.com/track/6fK6IG8sXcNOLBBl6esA4x"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "El Alma Joven",
         "url": "https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 263786,
       "name": "Casi Perfecto",
       "url": "https://open.spotify.com/track/3D7oEQW1sblgMN8vxR6x06"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Mas Y Mas",
+        "url": "https://open.spotify.com/album/2zlR6HUuSlMTw79fFUixUr"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Tarde \u00f3 Temprano",
+      "url": "https://open.spotify.com/track/6fK6IG8sXcNOLBBl6esA4x"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2099,18 +2099,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
+      "duration_ms": 282866,
+      "name": "Fuiste un Trozo de Hielo en la Escarcha",
+      "url": "https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2131,18 +2131,34 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Fuiste un Trozo de Hielo en la Escarcha",
-      "url": "https://open.spotify.com/track/5zKq55gTFV7MvS3f9T4Gqu"
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Yo Te Pido Amor",
+        "url": "https://open.spotify.com/album/18mkaoHzSU5NdiSWc7aQp7"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Yo Te Pido Amor",
+      "url": "https://open.spotify.com/track/26ufEQiCJn9xe6s2zDBvub"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2175,22 +2191,6 @@
       "duration_ms": 214573,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Yo Te Pido Amor",
-        "url": "https://open.spotify.com/album/18mkaoHzSU5NdiSWc7aQp7"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Yo Te Pido Amor",
-      "url": "https://open.spotify.com/track/26ufEQiCJn9xe6s2zDBvub"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "La Puerta del Colegio",
-      "url": "https://open.spotify.com/track/46qSdXisq6hb1511VofsHy"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
       },
@@ -2271,6 +2255,38 @@
       "duration_ms": 215666,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "NUEVA ERA",
+        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "La Puerta del Colegio",
+      "url": "https://open.spotify.com/track/46qSdXisq6hb1511VofsHy"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2339,38 +2355,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "NUEVA ERA",
-        "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Cuarenta Grados (Tudo a Ver Com Teu Olhar)",
-      "url": "https://open.spotify.com/track/5qVrVer9M3KgjyafudqUR7"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lupita D'Alessio",
         "url": "https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh"
       },
@@ -2435,6 +2419,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Cuarenta Grados (Tudo a Ver Com Teu Olhar)",
+      "url": "https://open.spotify.com/track/5qVrVer9M3KgjyafudqUR7"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "O Ella o Yo",
         "url": "https://open.spotify.com/album/0Xy14kGbjkFXjijXR5UhWt"
       },
@@ -2447,6 +2447,22 @@
       "duration_ms": 233978,
       "name": "O Ella o Yo",
       "url": "https://open.spotify.com/track/1DCKdBD1sT3gIDEXyDQ0d9"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Lupita D'Alessio",
+        "url": "https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 311275,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2483,38 +2499,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Veinte Millas",
-      "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Lupita D'Alessio",
-        "url": "https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 311275,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "El Sonido Vol. 3",
         "url": "https://open.spotify.com/album/3K9Lx3MCERuTQswKy5tMQ7"
       },
@@ -2531,18 +2515,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
-        "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Amores extra\u00f1os",
-      "url": "https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv"
+      "duration_ms": 256200,
+      "name": "Veinte Millas",
+      "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2563,6 +2547,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
+        "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Amores extra\u00f1os",
+      "url": "https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "30 Grandes Canciones",
         "url": "https://open.spotify.com/album/0SHZBwCrRg88Yw6JK850gR"
       },
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Transparente",
-        "url": "https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj"
-      },
-      "artists": [
-        {
-          "name": "Litzy",
-          "url": "https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Sasha",
         "url": "https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 187600,
       "name": "Rueda Mi Mente",
       "url": "https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Transparente",
+        "url": "https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj"
+      },
+      "artists": [
+        {
+          "name": "Litzy",
+          "url": "https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Si Quieres Verme Llorar",
-        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
-        }
-      ],
-      "duration_ms": 190807,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "La Historia De Los \u00c9xitos",
         "url": "https://open.spotify.com/album/7ITWVrFjMOo5eVT31GY314"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 178866,
       "name": "Quincea\u00f1era",
       "url": "https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Si Quieres Verme Llorar",
+        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "Heridas",
-      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 287373,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2975,22 +2975,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Sus Mas Grandes Exit",
         "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 298986,
       "name": "Si T\u00fa Eres Mi Hombre y Yo Tu Mujer - The Power Of Love",
       "url": "https://open.spotify.com/track/483lAqPysPKoI3swMcwAlz"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "El D\u00eda Que Puedas",
-      "url": "https://open.spotify.com/track/5771xKcFZR5MT4HDzbSulB"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mis Canciones, Mi Voz, Mi Piano",
         "url": "https://open.spotify.com/album/2zM7EeQzkEVgHpUunxV4E5"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 218560,
       "name": "Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/1WpVNGu96nRoVeeUNthWkt"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "El D\u00eda Que Puedas",
+      "url": "https://open.spotify.com/track/5771xKcFZR5MT4HDzbSulB"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3143,6 +3143,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1wc5way7a45biOnobQUHJm"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "La Historia del Puma",
         "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
       },
@@ -3159,18 +3175,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
+        "name": "e5",
+        "url": "https://open.spotify.com/album/3gsFcX5tOaiy7dsSjtnTFp"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 199293,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1wc5way7a45biOnobQUHJm"
+      "duration_ms": 286586,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/1fhusBTFmHeB6BxVsvj2lN"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3203,22 +3219,6 @@
       "duration_ms": 263346,
       "name": "Amor fasc\u00edname",
       "url": "https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 234946,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/1phObKvh7T5uSypQ11RXHl"
     },
     {
       "added_at": "2021-12-21 16:52:55",

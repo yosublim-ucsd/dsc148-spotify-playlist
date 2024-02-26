@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,022 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,023 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 29 | [Christmas In My Home Town](https://open.spotify.com/track/6g7bSMPsAcO1BYHueLyXQ9) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Christmas In My Hometown \(Expanded Edition\)](https://open.spotify.com/album/0jnOrnjoEhB5tEMOFyzXPz) | 2:04 |
 | 30 | [Christmas At Our House](https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 2:52 |
 | 31 | [Love Has Come](https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 4:01 |
-| 32 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 |
-| 33 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 |
+| 32 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 |
+| 33 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 |
 | 34 | [Old Toy Trains](https://open.spotify.com/track/2Og7CqkL9EIknatnURMLgP) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [That Christmas Feeling](https://open.spotify.com/album/2xlhfPgJiHs0MAVhK1QR2g) | 2:20 |
 | 35 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 36 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 49 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
 | 50 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo) | 4:06 |
 
-Snapshot ID: `MCwyMzUzZTQzODdlOGRmMDUyZDY1NmFiYTc3M2Q2M2EwNmVlMDg2ZDAy`
+Snapshot ID: `MCwzNGVhMGFkMGQzM2MwY2U5ODdkNGJhODEyZmY5ZWU1ZjcwZjg3Yzg5`

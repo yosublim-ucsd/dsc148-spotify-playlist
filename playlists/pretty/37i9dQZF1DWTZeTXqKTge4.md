@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Loud, EDGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,914 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,923 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Hors\-d'œuvre](https://open.spotify.com/track/5H5oQLVhNRsOHM78KSsykD) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Hors\-d'œuvre](https://open.spotify.com/album/5PKOqlxt0khar45jGNunaz) | 3:14 |
 | 75 | [Tout est bon](https://open.spotify.com/track/3ewz0r9BwB0cbZ4Clleho6) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Tout est bon](https://open.spotify.com/album/2s0srAo1r2xhPVtxbsarKA) | 3:16 |
 
-Snapshot ID: `MCw0Y2NlN2JmYTA4YzUyYzdiZmY5ODMwZWNkOWIyMTQ5NTM4MjhlNThm`
+Snapshot ID: `MCw3MjVhMDY4YzUzMDRiNGY1ZGEwOTM2ODhlOWFlYjBkZjAxNTA2ZjNh`

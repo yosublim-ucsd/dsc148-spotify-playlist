@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,802 songs - 3 day 8 hr 40 min
+1,803 songs - 3 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Ballade d'amour](https://open.spotify.com/track/4ibd4ESFpgbPpO1NxhoT3q) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Ballade d'amour](https://open.spotify.com/album/1gdBJYSFRJGXydJNbarSGq) | 2:07 | 2022-05-31 | 2022-06-21 |
 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-25 | 2023-06-29 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2021-04-21 | 2022-04-16 |
-| [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-10 |  |
+| [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-10 | 2024-02-26 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-05-14 | 2021-05-15 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-03-27 | 2022-04-22 |
 | [Be, Leave](https://open.spotify.com/track/1NdgOyzoqE6FHIm7tM5ySM) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4r4uDSOluGi5a41Jh8XuZA) | 3:41 | 2021-04-30 | 2021-05-03 |
@@ -1560,6 +1560,7 @@
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-03-29 | 2022-04-14 |
 | [The Stars](https://open.spotify.com/track/3MudBKLYKO3jw8xl8HdLXi) | [Calle Rasmusson](https://open.spotify.com/artist/542yTnYI4To78OAWEblioM), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Dalasinfoniettan](https://open.spotify.com/artist/7zHTlOcdKTklAyain9VFB3) | [One](https://open.spotify.com/album/1UAS6rzizbJzW7mjr2qp3x) | 5:32 | 2021-05-16 | 2022-04-14 |
 | [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-25 | 2023-08-17 |
+| [The swan](https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [The swan](https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu) | 2:37 | 2024-02-22 |  |
 | [The Swan](https://open.spotify.com/track/4gnse1wE1sdaO1LNqyDVCo) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [The Swan](https://open.spotify.com/album/3n4E33QEwe90voYnoAWGtc) | 2:28 | 2021-05-05 | 2022-04-17 |
 | [The Thing With Feathers](https://open.spotify.com/track/3mFbJCcXcQJiyiksotg99d) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [The Thing With Feathers](https://open.spotify.com/album/5yo0tGwa1UDw1FqiCEItFK) | 2:39 | 2021-05-16 | 2021-05-18 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-04-15 |  |

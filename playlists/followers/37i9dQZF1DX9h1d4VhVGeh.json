@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 178502,
+  "2024-02-26": 178619,
   "date_first_scraped": "2022-05-01",
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
   "name": "Arabic Coffee",
@@ -1115,6 +1115,24 @@
       "duration_ms": 272333,
       "name": "Fasl",
       "url": "https://open.spotify.com/track/4QqcuDdCWhKKlnDFJtDTJH"
+    },
+    {
+      "album": {
+        "name": "Daba",
+        "url": "https://open.spotify.com/album/6KRkhJKJUmSYuJZghmNHd3"
+      },
+      "artists": [
+        {
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+        }
+      ],
+      "date_added": "2024-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272333,
+      "name": "Fasl",
+      "url": "https://open.spotify.com/track/5fEBsxnwaunWfMxbA9f8L9"
     },
     {
       "album": {
@@ -3019,7 +3037,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 112744,
       "name": "Ya Ashikata Al Wardi",
       "url": "https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI"

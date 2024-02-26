@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nadhira Suri
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,067 likes - 78 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,151 likes - 78 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Ice & Fire](https://open.spotify.com/track/672Y7jhCxTAk3vKe54jXBi) | [Maliq Adam](https://open.spotify.com/artist/2zvxf23vbqa8NaJlqY2st9) | [Ice & Fire](https://open.spotify.com/album/1ojxBG6nygWoFH51xxDQfv) | 3:11 |
 | 78 | [Tertipu Lagi](https://open.spotify.com/track/7MGdfibu9nL01I0VyOuBLG) | [Kasir](https://open.spotify.com/artist/0cAxFJLU6ONNLDgJyD6j1N) | [Tertipu Lagi](https://open.spotify.com/album/75hmfVZINdjKj8yVLvFx9o) | 4:23 |
 
-Snapshot ID: `MCxmOGQ0ZDFmNTJiMzJmOThlMTRiMDMxNjY4MzM0Yjc0YzQ5Y2Q4ZDcw`
+Snapshot ID: `MCw1MmQwMWYyYzlkZGQ1MTcyYjczMjBkYjA5OTU4Nzk4MGZjNTgzZjk1`

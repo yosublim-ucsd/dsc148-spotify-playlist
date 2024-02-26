@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 | 37 | [Kung Fu Suite \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/54bzmzTCRJjStJ7t3Rm6b9) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Kung Fu Suite \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3Z4O9z29ikbbKkToDNByIO) | 1:32 |
 | 38 | [Minions: The Rise of Gru Score Suite \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/1wtXJyAZjEQAApvfP7ACOQ) | [Heitor Pereira](https://open.spotify.com/artist/2RaHCHhZWBXn460JpMaicz) | [Minions: The Rise of Gru Score Suite \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6rehimSKuEx4c2JCRyivSI) | 3:50 |
 
-Snapshot ID: `MCw1NDI1MDg5OWQwMTdmMGVjZWQwZjEwNThmZTFlODVjMjg3OGYyMDA3`
+Snapshot ID: `MCxmMmI4OTc3MDRjMDAzYzg0MzVjN2M0ZDY1NjgxNDRmZDQ5MTY3NDc3`

@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15857,
+  "num_followers": 15861,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTJjODU2MTUzODNmNWYyY2VkOGVjZDFmY2JmYzlhYTMwM2NjODBj",
+  "snapshot_id": "MCxmYjBmMTQ4OGQwMTlhNDdiYmVmMDA4MjQwMDgzMDYwMDhmNThkZmY3",
   "tracks": [
     {
       "added_at": "2024-02-23 03:06:00",
@@ -95,6 +95,30 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
+        "name": "Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3uiNjRNPSEGqkdQibmNVlH"
+      },
+      "artists": [
+        {
+          "name": "Agriff",
+          "url": "https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn"
+        },
+        {
+          "name": "Luizinhx",
+          "url": "https://open.spotify.com/artist/3NFpYsSoEpAOeDFOy8kgVU"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "duration_ms": 207835,
+      "name": "Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/01VxieMzoMYrvl2aN2jHCf"
+    },
+    {
+      "added_at": "2024-02-23 03:06:00",
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/1WMGcN4qIb0ui7ZkljLkWi"
       },
@@ -171,22 +195,6 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
-        "name": "Morena Surreal",
-        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
-      },
-      "artists": [
-        {
-          "name": "Enry Sanches",
-          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
-        }
-      ],
-      "duration_ms": 214676,
-      "name": "Morena Surreal",
-      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
-    },
-    {
-      "added_at": "2024-02-23 03:06:00",
-      "album": {
         "name": "Proveito",
         "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
       },
@@ -207,26 +215,18 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
-        "name": "Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3uiNjRNPSEGqkdQibmNVlH"
+        "name": "Morena Surreal",
+        "url": "https://open.spotify.com/album/3FQPbRkybCwrp0HJ5voVsd"
       },
       "artists": [
         {
-          "name": "Agriff",
-          "url": "https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn"
-        },
-        {
-          "name": "Luizinhx",
-          "url": "https://open.spotify.com/artist/3NFpYsSoEpAOeDFOy8kgVU"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+          "name": "Enry Sanches",
+          "url": "https://open.spotify.com/artist/6Ke9kTvWWVIr6YKLVK1AOd"
         }
       ],
-      "duration_ms": 207835,
-      "name": "Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/01VxieMzoMYrvl2aN2jHCf"
+      "duration_ms": 214676,
+      "name": "Morena Surreal",
+      "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
     },
     {
       "added_at": "2024-02-23 03:06:00",
@@ -699,26 +699,22 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
       "artists": [
         {
-          "name": "Neittan",
-          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
         },
         {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        },
-        {
-          "name": "AlmaViva M\u00fasica",
-          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
         }
       ],
-      "duration_ms": 162338,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-02-23 03:06:00",
@@ -743,22 +739,26 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
       "artists": [
         {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
         },
         {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
         }
       ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     },
     {
       "added_at": "2024-02-23 03:06:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
-        "name": "Fatoss\u00edntese",
-        "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Oliveira",
-          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
-        },
-        {
-          "name": "Jovem Ralph",
-          "url": "https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "N\u00e3o Me Ligue Mais",
-      "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
-    },
-    {
-      "added_at": "2024-02-23 03:06:00",
-      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2024-02-23 03:06:00",
+      "album": {
+        "name": "Fatoss\u00edntese",
+        "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Oliveira",
+          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
+        },
+        {
+          "name": "Jovem Ralph",
+          "url": "https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "N\u00e3o Me Ligue Mais",
+      "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
     },
     {
       "added_at": "2024-02-23 03:06:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-02-23 03:06:00",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2024-02-23 03:06:00",
-      "album": {
         "name": "O Que Ela Tem?",
         "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
+    },
+    {
+      "added_at": "2024-02-23 03:06:00",
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2024-02-23 03:06:00",

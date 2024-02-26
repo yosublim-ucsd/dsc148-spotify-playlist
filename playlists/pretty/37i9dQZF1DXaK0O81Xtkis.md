@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Audrey Nuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,660 likes - 58 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,653 likes - 58 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 57 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 58 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 
-Snapshot ID: `MCwwMzMwNGEwNDVhZjRhMWQ2OTcyZDliNDkyMWRmM2RiNzBjYTc0M2Vi`
+Snapshot ID: `MCwyYzk2MGY3OWIxYWI2OTI3ZjUyYjhjOGM5YTVkNGE5Y2Y5YzkzOTA1`

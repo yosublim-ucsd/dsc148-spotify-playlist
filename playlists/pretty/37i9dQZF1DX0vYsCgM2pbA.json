@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 134824,
+  "num_followers": 134886,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTM5M2MxYTk3ZjA0ZDBkZjcwYTkzODBlNWUzYmU2MmVjYTUwZTA3",
+  "snapshot_id": "MCxiNWNhNWEyM2UyMDhlNGI3ZDZkOTRkYTNlNDMxNjI5NTEyZTVlMzNh",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/7ArxGCEhnDapBu3NWCsytf"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Everything (Sonnee Remix)",
         "url": "https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 180382,
       "name": "Everything - Sonnee Remix",
       "url": "https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/7ArxGCEhnDapBu3NWCsytf"
     },
     {
       "added_at": "2024-02-01 13:01:25",

@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. DJ Shocca in cover.
 
-350 songs - 20 hr 21 min
+351 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Non mi avrete mai](https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Fabiano detto Inoki](https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8) | 3:52 | 2022-07-28 | 2024-02-16 |
 | [Non Mi Avrete Mai](https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Fabiano Detto Inoki](https://open.spotify.com/album/78a5pjxDZLeFZQnGyjRiDQ) | 3:52 | 2022-05-05 | 2022-07-29 |
 | [Non Mi Avrete Mai](https://open.spotify.com/track/0qeuNdwRQYx4w4eFWkqZN1) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [The Newkingztape Vol\. 1](https://open.spotify.com/album/0Nfy0NIQMl7h08O4lwxa75) | 3:58 | 2024-02-15 | 2024-02-22 |
+| [Non Mi Avrete Mai](https://open.spotify.com/track/1Uz7oq3Fe54LozBaydosIQ) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [The Newkingztape, Vol\. 1](https://open.spotify.com/album/7JWProXxk4k412vG7fJj3J) | 3:58 | 2024-02-22 |  |
 | [Non mi scordo](https://open.spotify.com/track/0baPcSrQYRF1F6FjEAijW8) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4) | [Nicolás](https://open.spotify.com/album/1244XJiYbBebIUObMvxBZa) | 3:23 | 2022-05-05 | 2022-07-28 |
 | [Non Piove](https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm) | [Vacca](https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR) | [Faccio Quello Che Voglio](https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f) | 4:30 | 2022-05-12 |  |
 | [Non è tempo per piangere \- St Luca Spenish Remix](https://open.spotify.com/track/46VBmqVfyQfJJTbsPFEnUY) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [EliaPhoks](https://open.spotify.com/artist/0qU0syBMTJmfk1ZJTA2d9L), [St Luca Spenish](https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx) | [Rapper bianco in mescalina \(Remix\)](https://open.spotify.com/album/4OmYFNNX0i6J1quY0qXZHN) | 4:01 | 2022-07-21 | 2022-07-28 |
@@ -231,7 +232,7 @@
 | [Oltre](https://open.spotify.com/track/6zYD9LGRFUCo3wRFcN2sY1) | [OneMic](https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25) | [Sotto La Cintura](https://open.spotify.com/album/1kHOImbv2A2NfTkP3XVL7Z) | 3:44 | 2022-06-22 | 2022-07-26 |
 | [Oltre l'apparentemente bello](https://open.spotify.com/track/6cNRZxzb9Z7vBnM4tODloT) | [Grungi Aiax](https://open.spotify.com/artist/1D7xqdaJaCPhNxUM8GolpB), [zipcrü](https://open.spotify.com/artist/3nMQqAFeiJZeCq5PwMqPWR) | [Oltre l'apparentemente bello](https://open.spotify.com/album/6q7mnkd5dogS65HMmKAPMk) | 2:07 | 2022-07-21 | 2022-08-27 |
 | [On The Beach](https://open.spotify.com/track/04fHNMMiEHtiOIhVXvq2TB) | [Fratelli Freschi](https://open.spotify.com/artist/6Ftirks48hLIeJvN9azQ81) | [On The Beach](https://open.spotify.com/album/4tNPM2Gw2IUslI4tYbXMWK) | 2:45 | 2022-06-02 | 2022-07-28 |
-| [One Shot](https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Vacca](https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu) | [One Shot](https://open.spotify.com/album/1RKEPBGYN2Ei1iQcKFdZhm) | 3:28 | 2024-01-11 |  |
+| [One Shot](https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Vacca](https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu) | [One Shot](https://open.spotify.com/album/1RKEPBGYN2Ei1iQcKFdZhm) | 3:28 | 2024-01-11 | 2024-02-26 |
 | [Ora Che La Musica Non C'è](https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Ora Che La Musica Non C'è](https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49) | 4:22 | 2022-11-10 | 2022-12-24 |
 | [Orizzonte Arancio.](https://open.spotify.com/track/4XQe4g2zRCD7WOy02zKlPR) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [Orizzonte Arancio.](https://open.spotify.com/album/0jeiHa9d1h6FTsbCIDFLWf) | 3:25 | 2022-05-05 | 2022-07-29 |
 | [Panico](https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Guerra E Pace](https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE) | 4:13 | 2022-07-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60xWeQ4ak8TFjjcvYyjn0x.md) - [plain]
 
 > Listen • Train • Repeat\. Music for your complete workout.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 7,394 likes - 80 songs - 4 hr 14 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 7,393 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

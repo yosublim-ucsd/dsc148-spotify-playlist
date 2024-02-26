@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Sum 41",
-  "num_followers": 566500,
+  "num_followers": 566559,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTY3MWVkZDI0NGI4NzFjZTI1ZTk3ZWFiMTkyMzQxNmI3Y2Q2ODBi",
+  "snapshot_id": "MCw2OTk1ZmExYWQzMDhiODE0NjRhNGUxOTczZWJjNDY0NTczMDY5NTQ3",
   "tracks": [
     {
       "added_at": "2024-02-23 11:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Girl Shaped Crater",
-        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 182855,
-      "name": "Girl Shaped Crater",
-      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 171729,
       "name": "2005",
       "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Girl Shaped Crater",
+        "url": "https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 182855,
+      "name": "Girl Shaped Crater",
+      "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Take Me With You",
-        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Take Me With You",
-      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 120855,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "shut up & kiss me",
         "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 161000,
       "name": "shut up & kiss me",
       "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": "2024-02-23 11:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-23 11:00:00",
       "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye"
-    },
-    {
-      "added_at": "2024-02-23 11:00:00",
-      "album": {
         "name": "Six Feet",
         "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 181580,
       "name": "Six Feet",
       "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
+    },
+    {
+      "added_at": "2024-02-23 11:00:00",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye"
     },
     {
       "added_at": "2024-02-23 11:00:00",

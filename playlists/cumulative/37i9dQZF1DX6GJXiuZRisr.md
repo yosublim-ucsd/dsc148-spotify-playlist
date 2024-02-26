@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-451 songs - 1 day 8 hr 20 min
+452 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Meru](https://open.spotify.com/track/0g6ETeguyh9nVpvXunhCzb) | [Gil Zambrano](https://open.spotify.com/artist/0unsoQpK3DQyCnKzWcDfJ0) | [Meru](https://open.spotify.com/album/6nvbxjQkkmoKSFs31HhhHu) | 3:52 | 2021-05-07 | 2022-06-30 |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 |  |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-14 | 2024-01-05 |
-| [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-08-26 |  |
+| [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-08-26 | 2024-02-26 |
 | [Miracles](https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Miracles](https://open.spotify.com/album/5TUntnLcRe7YdSjrVQFOoF) | 3:03 | 2021-05-07 | 2022-05-16 |
 | [Monkey & Disorder](https://open.spotify.com/track/7JCFsXGVsFPEhzvTkdjFsf) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ) | [Prélude](https://open.spotify.com/album/6bbYm4X9iwpNE1BIjtuAkd) | 6:07 | 2021-05-07 | 2022-04-21 |
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2021-05-07 | 2022-08-14 |
@@ -420,6 +420,7 @@
 | [Umbra](https://open.spotify.com/track/6WJll3eZF7ok5LAKouTj61) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebek](https://open.spotify.com/artist/070GpDQjNHzkY6j2OrFcrA) | [Umbra](https://open.spotify.com/album/5n8XJ70T3OkIFOGOsL8YvA) | 8:19 | 2021-05-07 | 2022-04-21 |
 | [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 | 2024-02-24 |
 | [Underwater](https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Underwater](https://open.spotify.com/album/66rcyq2d4MQDcWe6iVoUyc) | 2:57 | 2021-05-07 | 2022-08-26 |
+| [Underwater](https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Underwater](https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2) | 3:01 | 2024-02-23 |  |
 | [Unfolding](https://open.spotify.com/track/6YMaVo9FZy0aDrntxEwA72) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Unfolding](https://open.spotify.com/album/6cg3skxeiab9T4p7B0XpZm) | 4:20 | 2021-05-07 | 2022-07-25 |
 | [Unity \- Radio Edit](https://open.spotify.com/track/6IRX8HIpiNuUF3F5cat8su) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Regrets \(Radio Edits\)](https://open.spotify.com/album/5VzOEPqJTYOSl1zr9FOx2T) | 3:14 | 2021-05-07 | 2022-04-20 |
 | [Universal Love \- Edit](https://open.spotify.com/track/1eDXl7SV2o2jSrFbClsgVB) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Universal Love](https://open.spotify.com/album/0Ze2x7JSIuxLz7gXPzJMAY) | 5:17 | 2021-05-07 | 2022-07-29 |

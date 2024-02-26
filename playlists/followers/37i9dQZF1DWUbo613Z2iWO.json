@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 48721,
+  "2024-02-26": 48749,
   "date_first_scraped": "2022-02-24",
   "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis and Tone Stith",
   "name": "R&B Rising",
@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 209693,
       "name": "Closure (feat. Jane Handcock)",
       "url": "https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL"
@@ -3010,6 +3010,28 @@
     },
     {
       "album": {
+        "name": "Deep Ellum Interlude",
+        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
+      },
+      "artists": [
+        {
+          "name": "Zay Johnny",
+          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123150,
+      "name": "Deep Ellum Interlude",
+      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
+    },
+    {
+      "album": {
         "name": "Definition of Love",
         "url": "https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i"
       },
@@ -3459,6 +3481,24 @@
       "duration_ms": 159244,
       "name": "Double Back",
       "url": "https://open.spotify.com/track/5WIsCDJeKudbztUiWhmSwt"
+    },
+    {
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0S9vPSM57NuSvEMj3QV7Ni"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm"
     },
     {
       "album": {
@@ -5807,7 +5847,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 139885,
       "name": "HER TYPE",
       "url": "https://open.spotify.com/track/3RaW9KtmsJaDDsbXYPQLOh"
@@ -12661,7 +12701,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
@@ -15235,6 +15275,28 @@
       "duration_ms": 203144,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"
+    },
+    {
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/6xZys52Lk6ywAsI76kBBmH"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235609,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/3qYA03ei7Dd6YgEe4oUjOF"
     },
     {
       "album": {

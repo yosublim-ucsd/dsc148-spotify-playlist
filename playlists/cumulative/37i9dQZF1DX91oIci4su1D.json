@@ -3111,6 +3111,40 @@
     },
     {
       "album": {
+        "name": "Coming On Strong (Trance Mix)",
+        "url": "https://open.spotify.com/album/3OkNj45Dddtepk0AJECdKt"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Paul Findlay",
+          "url": "https://open.spotify.com/artist/5PmrFNfi36ip2rjbGyY0AL"
+        },
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176892,
+      "name": "Coming On Strong - Trance Mix",
+      "url": "https://open.spotify.com/track/4yozY8jbqO4L7Y8QRhH8sY"
+    },
+    {
+      "album": {
         "name": "Coming Up (Hold On)",
         "url": "https://open.spotify.com/album/5d82RvjKS1KqBpiuGb3ksx"
       },
@@ -5240,7 +5274,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 225230,
       "name": "Fear Of Losing You",
       "url": "https://open.spotify.com/track/5ORIbtsiH4h6xNmZFT3kKm"

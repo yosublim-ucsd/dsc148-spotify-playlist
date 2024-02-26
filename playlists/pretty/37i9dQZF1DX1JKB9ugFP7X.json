@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23909,
+  "num_followers": 23914,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTZiNjcyMzVkOWFhZTc1Nzc2MjIzMTcyNGQ0MjQ0MTM0MGQwNTMx",
+  "snapshot_id": "MCw5NDI2NTI3YjU0ZjEwMDk2ZGRmMWY4ZTM1ODBiYTMzNTI2ZDdiZDE1",
   "tracks": [
     {
       "added_at": "2024-02-22 21:52:01",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
+    },
+    {
+      "added_at": "2024-02-22 21:52:01",
+      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 212390,
       "name": "DARKSOULS",
       "url": "https://open.spotify.com/track/1pBugwted2IO3pR7APQPP5"
-    },
-    {
-      "added_at": "2024-02-22 21:52:01",
-      "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "No Van a Parar",
-      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
     },
     {
       "added_at": "2024-02-22 21:52:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
-        "name": "TU SI K TA LOKO",
-        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
-    },
-    {
-      "added_at": "2024-02-22 21:52:01",
-      "album": {
         "name": "Xtasis",
         "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2024-02-22 21:52:01",
+      "album": {
+        "name": "TU SI K TA LOKO",
+        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
     },
     {
       "added_at": "2024-02-22 21:52:01",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-02-22 21:52:01",
+      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
-    },
-    {
-      "added_at": "2024-02-22 21:52:01",
-      "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-02-22 21:52:01",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2024-02-22 21:52:01",
-      "album": {
         "name": "El Mundo Ser\u00e1 Nuestro",
         "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 278120,
       "name": "El Mundo Ser\u00e1 Nuestro",
       "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
+    },
+    {
+      "added_at": "2024-02-22 21:52:01",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-02-22 21:52:01",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
-        "name": "PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
-      },
-      "artists": [
-        {
-          "name": "HAKANNA",
-          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
-        },
-        {
-          "name": "Joshvatunes",
-          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "PANTERA NEGRA",
-      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
-    },
-    {
-      "added_at": "2024-02-22 21:52:01",
-      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 357200,
       "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
       "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
+    },
+    {
+      "added_at": "2024-02-22 21:52:01",
+      "album": {
+        "name": "PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
+      },
+      "artists": [
+        {
+          "name": "HAKANNA",
+          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
+        },
+        {
+          "name": "Joshvatunes",
+          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "PANTERA NEGRA",
+      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
     },
     {
       "added_at": "2024-02-22 21:52:01",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
-    },
-    {
-      "added_at": "2024-02-22 21:52:01",
-      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 226464,
       "name": "M\u00edstico Mezcal",
       "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
+    },
+    {
+      "added_at": "2024-02-22 21:52:01",
+      "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2024-02-22 21:52:01",
@@ -1747,18 +1747,22 @@
     {
       "added_at": "2024-02-22 21:52:01",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
       "artists": [
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
         }
       ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     }
   ],
   "unique_name": "ElectroPop",

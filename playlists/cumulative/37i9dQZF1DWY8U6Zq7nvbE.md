@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-448 songs - 1 day 0 hr 15 min
+449 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 | 2023-10-27 |  |
 | [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 | 2023-10-28 |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-14 | 2023-10-28 |
+| [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 | 2024-02-23 |  |
 | [Blinding Lights](https://open.spotify.com/track/0cQJGoRki2avKVodXEmr0d) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Blinding Lights](https://open.spotify.com/album/6pQZPa398NswBXGYyqHH7y) | 2:27 | 2022-08-31 | 2022-11-26 |
 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 | 2023-06-08 |  |
 | [Body Back \(feat\. Maia Wright\) \- Acoustic](https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\) \[Acoustic\]](https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc) | 3:16 | 2021-03-11 | 2023-10-28 |
@@ -196,7 +197,7 @@
 | [How Do You Sleep? \- Acoustic](https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep? \(Acoustic\)](https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE) | 3:25 | 2021-03-11 | 2023-04-14 |
 | [How to save a life \- Acoustic version](https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [How to save a life \- Acoustic version](https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353) | 3:27 | 2023-01-04 |  |
 | [Human Nature](https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl) | [Justin Morgan](https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw) | [Human Nature](https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB) | 3:56 | 2021-03-11 | 2022-12-17 |
-| [HURTFUL](https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [HURTFUL](https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8) | 2:26 | 2023-02-17 |  |
+| [HURTFUL](https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [HURTFUL](https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8) | 2:26 | 2023-02-17 | 2024-02-26 |
 | [I ain't worried](https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I ain't worried](https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza) | 2:48 | 2022-11-11 | 2023-10-28 |
 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 | 2023-10-27 |  |
 | [I Can't Sleep \- Acoustic Version](https://open.spotify.com/track/6laJcLUfg7c1fyt0oSDJGV) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [I Can't Sleep \(Acoustic Version\)](https://open.spotify.com/album/5w0lLWWDP7hvVz3a2KuLgb) | 3:03 | 2021-03-11 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,238 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,251 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 98 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 |
 | 99 | [DOUBLE DUTCH](https://open.spotify.com/track/7xc8nL2r4N5Ful0QPGlYwB) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [DOUBLE DUTCH](https://open.spotify.com/album/1ZEgZwv6633Vgeea2hBUc3) | 2:17 |
 
-Snapshot ID: `MCw4N2YwY2E3MTBiNzNiMWFlNWYxYTZlNzNiYmI3YzViM2I4NTQwZmU5`
+Snapshot ID: `MCw5NGJlODllYzc0NjkxYWJkNzc1NjRiNTNkMTlmMzE0NjM4OWIwMTI4`

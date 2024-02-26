@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 158861,
+  "num_followers": 158963,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGRmYjU4NDAzYmM5OTIzZWExNDMxZTgzNjVmZThlN2ZhMWJiNjk4",
+  "snapshot_id": "MCw3MGNjNTE5NzExMDQwNjZkYTY5NzFjMzA1ZThkZmIzNGM3YjJjZjk1",
   "tracks": [
     {
       "added_at": "2024-02-09 07:01:34",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Kleiner Finger Schwur",
-        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Kleiner Finger Schwur",
-      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+        "name": "Kleiner Finger Schwur",
+        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
       },
       "artists": [
         {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
+      "duration_ms": 168306,
+      "name": "Kleiner Finger Schwur",
+      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -455,18 +439,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
       },
       "artists": [
         {
-          "name": "BECKS",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
         }
       ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -483,6 +467,22 @@
       "duration_ms": 200946,
       "name": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
       "url": "https://open.spotify.com/track/50brQMN8OxkmYUb1LyOsnQ"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Diese Eine",
+        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 138924,
+      "name": "Diese Eine",
+      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 174500,
       "name": "mailbox",
       "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Diese Eine",
-        "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 138924,
-      "name": "Diese Eine",
-      "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Laut Gedacht (Re-Edition)",
-        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
-      },
-      "artists": [
-        {
-          "name": "Silbermond",
-          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Das Beste",
-      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Laut Gedacht (Re-Edition)",
+        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
+      },
+      "artists": [
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
     },
     {
       "added_at": "2024-02-09 07:01:34",

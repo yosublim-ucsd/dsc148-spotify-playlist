@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
-  "num_followers": 8927,
+  "num_followers": 8936,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU4NzI1NWZiMWEzNDJhYjUyN2QxNThhNWFiNmNmOWYyZjhkODEx",
+  "snapshot_id": "MCxlYzU0MzNmZjM0N2VlMDY2ZDJlM2I1ZmFhNmY3ZTJkYzg0OTZjMjgz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Sourire kabyle",
-        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
-      },
-      "artists": [
-        {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
-        }
-      ],
-      "duration_ms": 196410,
-      "name": "Jack Sparrow",
-      "url": "https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Trapstar",
         "url": "https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 187343,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Sourire kabyle",
+        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        }
+      ],
+      "duration_ms": 196410,
+      "name": "Jack Sparrow",
+      "url": "https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "B\u00e2timent",
         "url": "https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 167418,
       "name": "B\u00e2timent",
       "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Les Fr\u00e8res Cueilleurs",
+        "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 228092,
+      "name": "\u00c7a que c'tait",
+      "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "51tr4p Fr4p50",
         "url": "https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 226067,
       "name": "On Fouette",
       "url": "https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Les Fr\u00e8res Cueilleurs",
-        "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "\u00c7a que c'tait",
-      "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "DZA",
+        "url": "https://open.spotify.com/album/71VBYhDkS6wrZxhDkBkt7I"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/36KtGGw7S4psu6I0PEcUOT"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Petit prince",
         "url": "https://open.spotify.com/album/3UBeTz59zmzBaNQmUlp0y4"
       },
@@ -1735,6 +1751,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Le sens des paroles",
+        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 254396,
+      "name": "La famille",
+      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
       },
@@ -1751,22 +1783,6 @@
       "duration_ms": 236657,
       "name": "Faya",
       "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Le sens des paroles",
-        "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 254396,
-      "name": "La famille",
-      "url": "https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1803,26 +1819,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "La Coupe",
-        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
-      },
-      "artists": [
-        {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
-        },
-        {
-          "name": "Tommy Kruise",
-          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
-        }
-      ],
-      "duration_ms": 172489,
-      "name": "Findsemaine",
-      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Sainte-Foy",
         "url": "https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g"
       },
@@ -1843,6 +1839,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "La Coupe",
+        "url": "https://open.spotify.com/album/0RmRcOngbxdmj2xaqbG8qg"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        },
+        {
+          "name": "Tommy Kruise",
+          "url": "https://open.spotify.com/artist/6qbvYddbPDB4W0dHHmJ38S"
+        }
+      ],
+      "duration_ms": 172489,
+      "name": "Findsemaine",
+      "url": "https://open.spotify.com/track/12ArV5PWkSFau0DO3oZEHB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Surhomme",
         "url": "https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo"
       },
@@ -1859,26 +1875,6 @@
       "duration_ms": 195600,
       "name": "Sac de sport",
       "url": "https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Cest la vie",
-        "url": "https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV"
-      },
-      "artists": [
-        {
-          "name": "Soubillz",
-          "url": "https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp"
-        },
-        {
-          "name": "YH",
-          "url": "https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5"
-        }
-      ],
-      "duration_ms": 182569,
-      "name": "Cest la vie",
-      "url": "https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E"
     }
   ],
   "unique_name": "Les nouveaux classiques",

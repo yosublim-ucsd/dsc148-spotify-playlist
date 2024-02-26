@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-347 songs - 22 hr 31 min
+348 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-10-20 | 2023-05-24 |
 | [Mercy through the Clouds](https://open.spotify.com/track/5D6GPHLuelrjivumi4YWwt) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Mercy through the Clouds](https://open.spotify.com/album/4sU68bQNkqQrIZGtxCYYqb) | 4:39 | 2022-12-15 | 2023-01-27 |
 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 | 2023-04-27 | 2023-06-17 |
-| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-18 |  |
+| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-18 | 2024-02-26 |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-01-26 | 2023-02-15 |
 | [MOONLIGHT](https://open.spotify.com/track/2AmftacZfB4ryvX6mzWvP4) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [MOONLIGHT](https://open.spotify.com/album/1OKelYkx4MDM1diKDsg107) | 3:16 | 2023-05-16 | 2023-08-18 |
 | [moonlight](https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [exported\_file\_1](https://open.spotify.com/album/6galsYHbpMeQzgpGmVnfHb) | 3:16 | 2023-10-17 | 2023-11-17 |
@@ -221,6 +221,7 @@
 | [Past From \- Rebelski Remix](https://open.spotify.com/track/3pCjv2qXqPpiCttub0jk32) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Rebelski](https://open.spotify.com/artist/18zTVJ6fMHo39oGuHINfOX) | [Past From \(Rebelski Remix\)](https://open.spotify.com/album/6YidGPbvQ6iC6LJx3XFIQK) | 4:55 | 2023-10-26 | 2023-10-30 |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-17 | 2023-11-29 |
 | [Phone Call \- Jeremy Sylvester Instrumental Remix](https://open.spotify.com/track/2BhxMkUVFB3rCn1si53whZ) | [Henry Wu](https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha), [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [Phone Call \(Remixes\)](https://open.spotify.com/album/47yMeut9nuYgagAYUdEPN5) | 6:11 | 2022-10-20 | 2022-11-25 |
+| [Pictures of You](https://open.spotify.com/track/2cAZ6Pxbq34h5rgUr7hZKC) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:09 | 2024-02-22 |  |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-10-20 | 2022-11-11 |
 | [Pink Moon](https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Endless Coloured Ways: The Songs of Nick Drake](https://open.spotify.com/album/41NPRAXWRq1a5JKOfxvkfE) | 2:06 | 2023-07-06 | 2023-07-21 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-09 |  |

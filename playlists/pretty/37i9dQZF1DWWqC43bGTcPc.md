@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,117 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,252 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [OH LA LA LA \(麥當勞40週年主題曲\)](https://open.spotify.com/track/6jtrNlsySHvVZJZi39i3JK) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [OH LA LA LA \(麥當勞40週年主題曲\)](https://open.spotify.com/album/4majV2qxRh9OPRkdBusd6z) | 3:00 |
 | 50 | [無垢](https://open.spotify.com/track/08VBl78Lgs7VIEzCL1Btyv) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 3:29 |
 
-Snapshot ID: `MCwzMTFkODA5Y2VkODU0OGEzOTU3MzhiNWEwYmRjYjk4MDJkMDQzMWZi`
+Snapshot ID: `MCwyZGFmNTFiNzg2ZDczOTcyMGNmYzc1OGRkMzI2YzI3ODNkMTc2NDgx`

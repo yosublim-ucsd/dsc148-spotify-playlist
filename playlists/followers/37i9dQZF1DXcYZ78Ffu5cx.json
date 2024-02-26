@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 10613,
+  "2024-02-26": 10637,
   "date_first_scraped": "2023-06-02",
   "description": "music, waves, friends and a good time.",
   "name": "Fiesta en Bote",
@@ -1137,6 +1137,24 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "album": {
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/1I8gUYpocfQL7AOiSz1wLB"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179345,
+      "name": "Historia",
+      "url": "https://open.spotify.com/track/7zHZTHScVaGQ7ETXBiuHRH"
     },
     {
       "album": {
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"

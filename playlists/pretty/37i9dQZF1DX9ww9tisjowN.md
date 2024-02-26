@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Serani Poji
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,368 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,624 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [I LOVE MEでいられるように](https://open.spotify.com/track/4pXbAglLeVpxeCsg1bVYcj) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [湊あくあ](https://open.spotify.com/artist/6GHr4rGFHGRUuzuCuxJA0f) | [DOPING!!!!!!](https://open.spotify.com/album/665mRkLCt1DhBhj6IXl4dk) | 3:00 |
 | 75 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 |
 
-Snapshot ID: `MCw4NTE2MTllZjI5NWRhNzQzNjY5NDIzMWUyMjAyOTdhMDk3NzNiYjY3`
+Snapshot ID: `MCw3YzQ5Zjg4ZmU0ZjY5NDFkZTRlMDUxNDY2OGRhNjUzZjQwZjZiM2Jl`

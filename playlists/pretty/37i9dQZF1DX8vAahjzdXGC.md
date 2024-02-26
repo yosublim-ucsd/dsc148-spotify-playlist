@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Arsy Widianto, Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,854 likes - 106 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,930 likes - 106 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 105 | [it's better..?](https://open.spotify.com/track/6cqT6ViBsBdNeuu0T2a1NQ) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [it's better..?](https://open.spotify.com/album/2ZiYpPxsxgdYqmSyhAwMkE) | 2:31 |
 | 106 | [last time to say good bye](https://open.spotify.com/track/4KPwXRoWPiNBmPGxhPw22l) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn), [Peach Panicha](https://open.spotify.com/artist/4TD4e5RXY48KUakKXpRTSF) | [last time to say good bye](https://open.spotify.com/album/0gBAtFOsF4cDCK9S653eXT) | 3:34 |
 
-Snapshot ID: `MCw3Y2MwZmVjZDNiNTI4NTE3YjgzOWU0ZGM2MjBkNTc0YmFhOGQ0Mjky`
+Snapshot ID: `MCw4YmY2ZjUxYjQwYTIzNzhjNjA0YWY2YjI0NjBlZTM3YmZjNzlkZjcz`

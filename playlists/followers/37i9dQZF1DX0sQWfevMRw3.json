@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 157538,
+  "2024-02-26": 157801,
   "date_first_scraped": "2021-12-21",
   "description": "I NORRLAND \u00c4R DET FEST!!",
   "name": "30 km/h",
@@ -169,6 +169,24 @@
       "duration_ms": 192947,
       "name": "2010",
       "url": "https://open.spotify.com/track/3Vo04mpLNaOsFvBfQmXwv3"
+    },
+    {
+      "album": {
+        "name": "30 KM/H",
+        "url": "https://open.spotify.com/album/3nFLg2pkAqrTrK9JbySHny"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168687,
+      "name": "30 KM/H",
+      "url": "https://open.spotify.com/track/5877bQq4QOaIYvwo9LtmVB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5181,
+  "num_followers": 5192,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmIzYTVhOTViZWMzYTgxODAzZGE5M2M0NmQyZTJmNDg4ODAxZGYz",
+  "snapshot_id": "MCxmNWFiMTk2MTQ3NzJkMGY3MTRiNjlkZmQyZTRiODUzMDM0OTVkMWU4",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00edEst\u00e1 es mi rumba!",
-        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
-      },
-      "artists": [
-        {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Viento de Agua Unplugged: Materia Prima",
         "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 325666,
       "name": "Pa\u2019 un Plenero (plena)",
       "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
+        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Plena De San Anton",
+      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Zona de Bomba",
         "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 310440,
       "name": "La Marej\u00e1 de los Muertos",
       "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
-        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Plena De San Anton",
-      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
     },
     {
       "added_at": "2023-06-13 22:15:19",

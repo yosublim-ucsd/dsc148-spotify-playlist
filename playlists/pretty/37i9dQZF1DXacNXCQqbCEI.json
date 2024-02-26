@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 354033,
+  "num_followers": 354058,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzczOGFkNTcwNmVjMzBhMjEwNWNiODM0MWIwNzA2NzBhNTE0MzJi",
+  "snapshot_id": "MCxhZjYzM2E0N2U1OGRjMDc2ZmM3MmM1YmVjZjdlOGJjYTM0OGZlNjg1",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
-      },
-      "artists": [
-        {
-          "name": "Landikhan",
-          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
-        },
-        {
-          "name": "Ni\u00f1a indigo",
-          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
-        }
-      ],
-      "duration_ms": 348887,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
+      },
+      "artists": [
+        {
+          "name": "Landikhan",
+          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
+        },
+        {
+          "name": "Ni\u00f1a indigo",
+          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
+        }
+      ],
+      "duration_ms": 348887,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
     },
     {
       "added_at": "2023-11-24 02:05:30",

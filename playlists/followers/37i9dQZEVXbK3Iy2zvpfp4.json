@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 4609,
+  "2024-02-26": 4610,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -289,7 +289,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 144000,
       "name": "15",
       "url": "https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06"
@@ -7171,7 +7171,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 202508,
       "name": "Dance You Outta My Head",
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
@@ -7211,7 +7211,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 142080,
       "name": "DARK ARIA <LV2>",
       "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
@@ -8987,7 +8987,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 214349,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/2rphJ6C6aQMpKm1ObzQTRS"
@@ -14771,7 +14771,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -18401,7 +18401,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -20761,7 +20761,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 124615,
       "name": "Moves",
       "url": "https://open.spotify.com/track/52TqMUnMqutEqQR9K5hi9d"
@@ -20939,6 +20939,24 @@
       "duration_ms": 268434,
       "name": "Murder on My Mind",
       "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
+    },
+    {
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "album": {
@@ -27953,7 +27971,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -37269,6 +37287,24 @@
       "duration_ms": 87259,
       "name": "\u041d\u041d\u0414",
       "url": "https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q"
+    },
+    {
+      "album": {
+        "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
+        "url": "https://open.spotify.com/album/1mbnvxxtv7Gsz9iVVeql7I"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189131,
+      "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
+      "url": "https://open.spotify.com/track/1stbYttwZb0Hsj4JJrru1z"
     },
     {
       "album": {

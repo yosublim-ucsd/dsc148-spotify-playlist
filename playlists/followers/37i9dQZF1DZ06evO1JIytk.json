@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 15834,
+  "2024-02-26": 15833,
   "date_first_scraped": "2022-09-17",
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
   "name": "This Is Anti-Flag",
@@ -1154,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62113,
+      "name": "Resist",
+      "url": "https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G"
+    },
+    {
+      "album": {
         "name": "LIES THEY TELL OUR CHILDREN",
         "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
       },
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 204293,
       "name": "Turn Your Back With Anti-Flag",
       "url": "https://open.spotify.com/track/4hnR3vkREdoAIk5AMIp1E8"

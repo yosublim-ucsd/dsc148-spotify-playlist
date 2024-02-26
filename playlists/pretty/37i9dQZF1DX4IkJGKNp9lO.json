@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31070,
+  "num_followers": 31075,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzJjOTJkZjg3MDFiYmQ5M2RjNTE2NmUxYTM2ODcxYzVhZjQ5YWNm",
+  "snapshot_id": "MCwzNzNhMzdiODZjYmRiNTRkMzBlYWRjYzcxNjRhMGM0YTE1MjY5Mzcw",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Finito",
-        "url": "https://open.spotify.com/album/2SlVOhQ6AwhzB2fDOTrl4f"
-      },
-      "artists": [
-        {
-          "name": "Radioaktiva R\u00e4ker",
-          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Bakom Spegeln",
-      "url": "https://open.spotify.com/track/6TYwqGXwwgBbkocgdvJvzL"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Le Som En Fotomodell",
         "url": "https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 207160,
       "name": "Dricka Sprit Och H\u00e5lla K\u00e4ften",
       "url": "https://open.spotify.com/track/3EtDZnjDsQxkj5c54Lmvoa"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Finito",
+        "url": "https://open.spotify.com/album/2SlVOhQ6AwhzB2fDOTrl4f"
+      },
+      "artists": [
+        {
+          "name": "Radioaktiva R\u00e4ker",
+          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Bakom Spegeln",
+      "url": "https://open.spotify.com/track/6TYwqGXwwgBbkocgdvJvzL"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Tid att vara arg",
-      "url": "https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "MNW Klassiker - Imperiet",
         "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 256079,
       "name": "Du ska va president",
       "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "Tid att vara arg",
+      "url": "https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Noppriga Tights Och Moonboots",
-        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Spriten R\u00e4ddade Mig Fr\u00e5n Sporten",
-      "url": "https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Kaos & Skr\u00e5l 85-87",
         "url": "https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 171373,
       "name": "Betongbarn",
       "url": "https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Noppriga Tights Och Moonboots",
+        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Spriten R\u00e4ddade Mig Fr\u00e5n Sporten",
+      "url": "https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "V\u00e4lkommen Hit",
-        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
-      },
-      "artists": [
-        {
-          "name": "V\u00c4NSTERN\u00c4VEN",
-          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
-        }
-      ],
-      "duration_ms": 90493,
-      "name": "Arbetsl\u00f6s",
-      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177426,
       "name": "Mamma pappa barn",
       "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "V\u00e4lkommen Hit",
+        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
+      },
+      "artists": [
+        {
+          "name": "V\u00c4NSTERN\u00c4VEN",
+          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
+        }
+      ],
+      "duration_ms": 90493,
+      "name": "Arbetsl\u00f6s",
+      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Bakom ljuset",
-        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
+        "name": "Lite sne",
+        "url": "https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3"
       },
       "artists": [
         {
-          "name": "Norra Hospitalet",
-          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+          "name": "Krigsstigen",
+          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
         }
       ],
-      "duration_ms": 136944,
-      "name": "Kaos",
-      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
+      "duration_ms": 172851,
+      "name": "Lite sne",
+      "url": "https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Lite sne",
-        "url": "https://open.spotify.com/album/0ALw6RtBaizdypw99L98K3"
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
       },
       "artists": [
         {
-          "name": "Krigsstigen",
-          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
         }
       ],
-      "duration_ms": 172851,
-      "name": "Lite sne",
-      "url": "https://open.spotify.com/track/78OGaloEbDptQzd8vl8vDE"
+      "duration_ms": 136944,
+      "name": "Kaos",
+      "url": "https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 136068,
-      "name": "Martin I Skitlandet",
-      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "P\u00e5 \u00c4ventyr i Historien III",
         "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 114960,
       "name": "Mellanstadiedisco",
       "url": "https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 136068,
+      "name": "Martin I Skitlandet",
+      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Upp till dans",
-        "url": "https://open.spotify.com/album/18L1bqPh5qwlWXx7LMfib4"
-      },
-      "artists": [
-        {
-          "name": "Vidro",
-          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
-        }
-      ],
-      "duration_ms": 71094,
-      "name": "Allt brinner",
-      "url": "https://open.spotify.com/track/7dORssXsZyQAKwXxzMwljM"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Parasit",
         "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Fina Flickor",
-        "url": "https://open.spotify.com/album/10zKkoCqYTmbhzvri9o4My"
+        "name": "Upp till dans",
+        "url": "https://open.spotify.com/album/18L1bqPh5qwlWXx7LMfib4"
       },
       "artists": [
         {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+          "name": "Vidro",
+          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
         }
       ],
-      "duration_ms": 143026,
-      "name": "Kungar Och Knektar",
-      "url": "https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0"
+      "duration_ms": 71094,
+      "name": "Allt brinner",
+      "url": "https://open.spotify.com/track/7dORssXsZyQAKwXxzMwljM"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+        "name": "Fina Flickor",
+        "url": "https://open.spotify.com/album/10zKkoCqYTmbhzvri9o4My"
       },
       "artists": [
         {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
         }
       ],
-      "duration_ms": 68638,
-      "name": "Boostade Egon",
-      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
+      "duration_ms": 143026,
+      "name": "Kungar Och Knektar",
+      "url": "https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 201093,
       "name": "Lyckliga Land",
       "url": "https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 68638,
+      "name": "Boostade Egon",
+      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
     },
     {
       "added_at": "2024-02-22 23:00:00",

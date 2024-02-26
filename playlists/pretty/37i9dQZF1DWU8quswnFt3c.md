@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,840 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,787 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 2 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
-| 3 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
-| 4 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 |
+| 3 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 |
+| 4 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 5 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 |
 | 6 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 |
 | 7 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 |
 | 12 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 |
 | 13 | [样子 \- 电视剧《要久久爱》主题曲](https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [样子 \(电视剧《要久久爱》主题曲\)](https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9) | 4:06 |
-| 14 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
-| 15 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
-| 16 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
+| 14 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
+| 15 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
+| 16 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
 | 17 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 |
 | 18 | [Em nên yêu cô ta](https://open.spotify.com/track/6u8BfDFmGXZRkxfd8M3PSp) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 4:01 |
 | 19 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [言不由衷](https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 4:59 |
 | 28 | [Все невипадково](https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Віддаю](https://open.spotify.com/album/0KZVsgKj9r6pwqdohzFWy8) | 3:04 |
 | 29 | [Płonę](https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Płonę](https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS) | 3:29 |
-| 30 | [Struny](https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Struny](https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB) | 3:57 |
-| 31 | [Gönlümün Balkonu](https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Eteğimdeki Taşlar](https://open.spotify.com/album/0kKWs0ComnwZkfZyeTgMkI) | 3:57 |
-| 32 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 |
+| 30 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 |
+| 31 | [Struny](https://open.spotify.com/track/3hgzcmfsYzEnrzQxlybLzV) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Struny](https://open.spotify.com/album/4fkX5RAQ0XaL8bSipYU5MB) | 3:57 |
+| 32 | [Gönlümün Balkonu](https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Eteğimdeki Taşlar](https://open.spotify.com/album/0kKWs0ComnwZkfZyeTgMkI) | 3:57 |
 | 33 | [חיבוק אחרון](https://open.spotify.com/track/16a8kHfP9No2P9zqULmhtD) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [חיבוק אחרון](https://open.spotify.com/album/6rYUd3vvCwvRdqW0o6W5Ms) | 2:53 |
 | 34 | [Know How](https://open.spotify.com/track/4ERFzjhhC0CwzmtzsAerAN) | [Dara Rolins](https://open.spotify.com/artist/6Tv7lGZFGzalpRGE3aonac), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [Know How](https://open.spotify.com/album/1UiY8YvbGr3qi5DK0UHZCn) | 3:08 |
 | 35 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [TOKYOITE](https://open.spotify.com/track/6CyZCDqEgRAMjbJrzkpWnT) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [TOKYOITE](https://open.spotify.com/album/3MtWoSQsfhcelBCzUwaLAB) | 2:48 |
 | 49 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 
-Snapshot ID: `MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj`
+Snapshot ID: `MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw`

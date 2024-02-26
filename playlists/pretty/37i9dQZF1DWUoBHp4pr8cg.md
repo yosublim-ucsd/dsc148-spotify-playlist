@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from ScHoolboy Q pictured\) Don Toliver, 21 Savage, The Big Hash, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,441 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,471 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [Company](https://open.spotify.com/track/1bNCUFkAMRwPN0LvH2EdUO) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Company](https://open.spotify.com/album/1NvFX3PwqZbpeNQuB4Awyy) | 4:04 |
 | 50 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 |
 
-Snapshot ID: `MCwyZjUzMjVkMzhmY2Q2ZmQ3MjJhNDM0NjMyNzZiNDJjNDU4ZjVlYjJl`
+Snapshot ID: `MCwwNDcwYWU4NjNmODllZTI5ZjMxNmQzNTExMDk0ZTkxMGM1OGIxYzg2`

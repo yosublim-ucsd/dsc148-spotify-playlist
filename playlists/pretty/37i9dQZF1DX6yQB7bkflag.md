@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,532 likes - 92 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,540 likes - 92 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 91 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 |
 | 92 | [Pernah Singgah \- From "Layangan Putus The Movie"](https://open.spotify.com/track/5Bch2Q7Y7PxrwX1ziMlkJf) | [Citra Scholastika](https://open.spotify.com/artist/1jWIP5sLhDZttQeR0mPffn) | [Pernah Singgah \(From "Layangan Putus The Movie"\)](https://open.spotify.com/album/7afJVAypn9avb7dfSymkEW) | 3:01 |
 
-Snapshot ID: `MCw3ZTEzNTMxZjc2ZDdiYmRjNDI3ZmIwNzNjZjMyOGQ5NzBhMTFhODJi`
+Snapshot ID: `MCw0MWZiMzc0M2ZhZDU3OGQxMTQ1YjYxODBkMWM3YmY0NzkwZmU4YTIz`

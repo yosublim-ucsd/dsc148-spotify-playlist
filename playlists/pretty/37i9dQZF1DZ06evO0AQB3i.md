@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,164 likes - 16 songs - 53 min 6 sec
+[Spotify](https://open.spotify.com/user/spotify) - 51,176 likes - 16 songs - 53 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 10 | [Shoegaze](https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 2:59 |
 | 11 | [I Ain't The Same](https://open.spotify.com/track/3NZdB4XxTQYZgRdrZRm60h) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:55 |
 | 12 | [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 |
-| 13 | [Goin' To The Party](https://open.spotify.com/track/4MFQxc7nmKBzMDplDb5UGL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 1:45 |
+| 13 | [Be Mine](https://open.spotify.com/track/6OXj4cEa6vAAs0jsJVFHxS) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 4:14 |
 | 14 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 |
-| 15 | [Be Mine](https://open.spotify.com/track/6OXj4cEa6vAAs0jsJVFHxS) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 4:14 |
+| 15 | [Goin' To The Party](https://open.spotify.com/track/4MFQxc7nmKBzMDplDb5UGL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 1:45 |
 | 16 | [Gimme All Your Love](https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:03 |
 
-Snapshot ID: `Mjg0Nzk2MjksMDAwMDAwMDAwYmIwMjZlZmVjZTI0MDIxNmU0MGE3OTQxN2E0ZTI3Nw==`
+Snapshot ID: `Mjg0ODEwNDAsMDAwMDAwMDAxNmZkMTE3MmVmZmRkMGFjMjZhMmM0YzNlNWRkZDUwMw==`

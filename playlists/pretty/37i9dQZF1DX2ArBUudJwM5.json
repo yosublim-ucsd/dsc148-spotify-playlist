@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40105,
+  "num_followers": 40101,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTU1ODdiOGNhZWU3NTBkMmExYTVjNWQ3MTVmYWExMjJiMDBmMjQ0",
+  "snapshot_id": "MCwyOWIwMmZmZGU1NDEzZTRhMmIyOGViYzQ4ZTkzMzk1Y2YzYWJhYWRh",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 274858,
+      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 132531,
       "name": "BALENCI",
       "url": "https://open.spotify.com/track/3GXoZfQYnWhZ476kAWfI2u"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 274858,
-      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 126146,
-      "name": "Pal Tiempo Del Carnaval",
-      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 130576,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 126146,
+      "name": "Pal Tiempo Del Carnaval",
+      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "L\u00c1 L\u00c1",
         "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 164095,
       "name": "L\u00c1 L\u00c1",
       "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "eclips3",
         "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 162843,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Nasty Girl (feat. Ingratax)",
         "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 245538,
       "name": "Nasty Girl (feat. Ingratax)",
       "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Lo M\u00e1s Cercano a Caer",
-        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 146668,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 187880,
       "name": "Esa Musiquita (with Teresa Parodi)",
       "url": "https://open.spotify.com/track/2Ez9mTUUoXZYpJmr6OFEUu"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Lo M\u00e1s Cercano a Caer",
+        "url": "https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 146668,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Cay\u00f3 el Valiente",
         "url": "https://open.spotify.com/album/6N4ZiLKW6mQ9jPmwjxj2rd"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 199500,
       "name": "Del Amor el Helado",
       "url": "https://open.spotify.com/track/6xVQpm9hI7692sWxl6EaEt"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "El Final de Las Cosas",
-        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
+        "name": "Cardo o Ceniza",
+        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
         }
       ],
-      "duration_ms": 319807,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
+      "duration_ms": 183434,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Cardo o Ceniza",
-        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
+        "name": "El Final de Las Cosas",
+        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
       "artists": [
         {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 183434,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+      "duration_ms": 319807,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
     },
     {
       "added_at": "2024-01-10 17:36:14",

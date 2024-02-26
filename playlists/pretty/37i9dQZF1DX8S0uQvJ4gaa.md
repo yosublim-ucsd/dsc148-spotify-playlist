@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,810 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,313 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
 | 100 | [Breaking My Heart](https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Breaking My Heart](https://open.spotify.com/album/6JPhvVl0yTlDB1MoUNFea1) | 3:40 |
 
-Snapshot ID: `MCxmMzJlM2U0ZjFlNGE0NGM1OTM4YTk2NmE3Zjg3YWM1ZWE4ZWQ4MzEz`
+Snapshot ID: `MCwyZDdiNzU0OThiZDQzMzQ5MWRjNDM5MjMwMDkyZmU2NjIzOWYyMGQ3`

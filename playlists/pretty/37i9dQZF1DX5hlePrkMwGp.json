@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 129220,
+  "num_followers": 129272,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWI1Y2I2MzhhODRlMzZkNzFmZmJkY2RjZjNiYmYzM2JiMWJiYTIw",
+  "snapshot_id": "MCw5ZjBhZTYzOGYxODNhOTczZmU3ZjY4ZDNkYWE4NjFmOWM0YjE4NWZh",
   "tracks": [
     {
       "added_at": "2021-08-02 09:30:31",
@@ -571,6 +571,26 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
+        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Pragathi",
+          "url": "https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa"
+        }
+      ],
+      "duration_ms": 368106,
+      "name": "Osaka Osaka",
+      "url": "https://open.spotify.com/track/7xV3MCJ6YI3K4I6Jt1a9H7"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
         "name": "Rockstar Anirudh Special",
         "url": "https://open.spotify.com/album/43MRDI02yQ8V1lGyveTq4C"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 301950,
       "name": "Neeyum Naanum (From \"Naanum Rowdy Dhaan\")",
       "url": "https://open.spotify.com/track/6qBLachpHaVUmpHKWyesmq"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
-        "name": "Vanakkam Chennai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Pragathi",
-          "url": "https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa"
-        }
-      ],
-      "duration_ms": 368106,
-      "name": "Osaka Osaka",
-      "url": "https://open.spotify.com/track/7xV3MCJ6YI3K4I6Jt1a9H7"
     },
     {
       "added_at": "2021-08-02 09:30:31",

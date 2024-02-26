@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 179397,
+  "num_followers": 179433,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3",
+  "snapshot_id": "MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "DTOX",
+        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 168974,
+      "name": "Alante Alante",
+      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Sin Gravedad",
         "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 180779,
       "name": "Sin Gravedad",
       "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "DTOX",
-        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 168974,
-      "name": "Alante Alante",
-      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
-      },
-      "artists": [
-        {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Que Es La Que Hay",
-      "url": "https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
@@ -895,18 +875,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
       "artists": [
         {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+      "duration_ms": 244506,
+      "name": "Que Es La Que Hay",
+      "url": "https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -923,6 +907,22 @@
       "duration_ms": 211411,
       "name": "Llename",
       "url": "https://open.spotify.com/track/3B9hzZyZTyTOi2d4nPI2S4"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Por un Momento",
-        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
       "artists": [
         {
-          "name": "The cXurch",
-          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
         },
         {
-          "name": "Villanova",
-          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Por un Momento",
-      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
+        "name": "Por un Momento",
+        "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
       "artists": [
         {
-          "name": "Artury Pepper",
-          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+          "name": "The cXurch",
+          "url": "https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL"
         },
         {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+          "name": "Villanova",
+          "url": "https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu"
         }
       ],
-      "duration_ms": 210266,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
+      "duration_ms": 211600,
+      "name": "Por un Momento",
+      "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Mateo 10:16",
         "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 179999,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
     },
     {
       "added_at": "2022-08-27 05:04:45",

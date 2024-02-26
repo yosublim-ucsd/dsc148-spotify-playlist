@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Dadju x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,280 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,535 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 |
 | 50 | [Na nko](https://open.spotify.com/track/2JabqDTQuQ1vqNi6tYVbKE) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [Na nko](https://open.spotify.com/album/1KCsbYW5kIb3lDaMhByDqS) | 2:44 |
 
-Snapshot ID: `MCxjYzM4NjA5N2Y2Njc0YTBlZDA0NDk5ODFhZDIwZWQxM2U2MmEzOGY2`
+Snapshot ID: `MCw5NTM0OTczMDAxNmQ0ZmQ5MDdkNzQyOGQ2MGQ4ZmQyODAyNDQyMDVm`

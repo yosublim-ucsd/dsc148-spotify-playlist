@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 480038,
+  "num_followers": 480296,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjBkNTlhZThjYzk0ZDE4MDQzMzZjYjhlNWQ4MTU0ZmMwMzIyN2U5",
+  "snapshot_id": "MCwyOGVjZWNjNjhkZTFhODRmNDU4OTU0ODhhMTJkN2ViM2JkZmMyOTg2",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Jazzanova EP",
         "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 414693,
       "name": "Bohemian Sunset",
       "url": "https://open.spotify.com/track/3YOQjNRshNSJcrHH4Ui5gL"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Breath From Another",
-        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
-      },
-      "artists": [
-        {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Dr. Octagonecologyst",
         "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 197400,
       "name": "Blue Flowers",
       "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Breath From Another",
+        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+      },
+      "artists": [
+        {
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
     },
     {
       "added_at": "2023-06-20 20:30:21",

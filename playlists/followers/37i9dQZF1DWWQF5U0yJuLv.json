@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 11919,
+  "2024-02-26": 11924,
   "date_first_scraped": "2023-10-15",
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
   "name": "Quirktronica",
@@ -927,7 +927,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 228289,
       "name": "Fol-de-rol",
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
@@ -1227,6 +1227,24 @@
       "duration_ms": 275372,
       "name": "I Had Too Much to Dream Last Night",
       "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
+    },
+    {
+      "album": {
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/5r5fXDkWHAZhdAzVLC2c1I"
+      },
+      "artists": [
+        {
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
     },
     {
       "album": {
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 254800,
       "name": "Plaything",
       "url": "https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI"
@@ -2301,6 +2319,28 @@
       "duration_ms": 326829,
       "name": "Soft Gaiden",
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
     },
     {
       "album": {

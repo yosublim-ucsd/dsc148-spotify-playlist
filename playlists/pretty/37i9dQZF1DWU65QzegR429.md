@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Lismar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,526 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,545 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 38 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
 | 39 | [Omaiga](https://open.spotify.com/track/5i8SITM9WdvP8i9sovMdNk) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Omaiga](https://open.spotify.com/album/5TIVcAaaSJSCcLfvWqJHn0) | 3:21 |
 | 40 | [Urau](https://open.spotify.com/track/3ar209bZ8iKi049HcYhRFQ) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Urau](https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI) | 2:16 |
-| 41 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
-| 42 | [TOKO](https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TOKO](https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z) | 2:55 |
-| 43 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 |
-| 44 | [Insomnia](https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Insomnia](https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA) | 2:09 |
+| 41 | [Insomnia](https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Insomnia](https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA) | 2:09 |
+| 42 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
+| 43 | [TOKO](https://open.spotify.com/track/1kE0aGbuxGUOS6rUaBPhCe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TOKO](https://open.spotify.com/album/0IKs9DTpEL26R4G8h0fW5z) | 2:55 |
+| 44 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 |
 | 45 | [SPICY](https://open.spotify.com/track/3Qjwo4QZcSR79l5GaoHweR) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [SPICY](https://open.spotify.com/album/5D0lLOvY3tsKuo2WTFfj4d) | 3:00 |
-| 46 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
-| 47 | [Para Mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
-| 48 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
-| 49 | [Ghetto Love \(feat\. Modblack\)](https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [Modblack](https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil) | [Ghetto Love \(feat\. Modblack\)](https://open.spotify.com/album/34IJofkFyAezKIRECKpiFC) | 3:05 |
-| 50 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 46 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 47 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
+| 48 | [Para Mi \(Freestyle\)](https://open.spotify.com/track/25H61Zdd3LWgBoA3oOFS25) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [para mi \(Freestyle\)](https://open.spotify.com/album/2weIKy90mPEnXC0dgo7n8C) | 2:50 |
+| 49 | [Anormales](https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Anormales](https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD) | 3:28 |
+| 50 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
 
-Snapshot ID: `MCw5OWE4MjQ3NzczZDQ4ZmNkMWQwNzU1YjI2N2YwM2EyOGRlYTBiZTNi`
+Snapshot ID: `MCxkN2VkODg0NTgzMDVmY2M2Y2RmZDhiNjRhZWQ1NDFlNzM4NzhiZGMy`

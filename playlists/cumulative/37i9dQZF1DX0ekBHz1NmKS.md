@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,044 songs - 2 day 6 hr 49 min
+1,045 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Behöver inte dig](https://open.spotify.com/track/5RSiyTwpksCU6D6l68Nwd8) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Behöver inte dig](https://open.spotify.com/album/0vkWo7jXOSLoYJYePkUpVm) | 2:46 | 2023-10-19 | 2023-11-13 |
 | [Belly Shots](https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU) | 2:35 | 2023-03-30 | 2023-10-06 |
 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 | 2022-05-26 | 2023-03-18 |
-| [Beneath Your Scars](https://open.spotify.com/track/7vTEpPeufYujPJLgsxkhwl) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [Beneath Your Scars](https://open.spotify.com/album/0opqZfmdLnbaOgkmw6GdK1) | 2:13 | 2024-01-25 |  |
+| [Beneath Your Scars](https://open.spotify.com/track/7vTEpPeufYujPJLgsxkhwl) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [Beneath Your Scars](https://open.spotify.com/album/0opqZfmdLnbaOgkmw6GdK1) | 2:13 | 2024-01-25 | 2024-02-26 |
 | [Beredd](https://open.spotify.com/track/2eKwwemjhxoVlWts1OWnkh) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Beredd](https://open.spotify.com/album/5kbWLTbn9bWugPRmd0yeK3) | 3:33 | 2024-02-24 |  |
 | [Bergs slussar](https://open.spotify.com/track/41hvvom2OTDhkJXm66bWuj) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Bergs slussar](https://open.spotify.com/album/4eJb8UiSDKyIADcaeXjKBG) | 2:31 | 2022-03-17 | 2022-07-29 |
 | [Bergtagen](https://open.spotify.com/track/2cDVHPlEJggkzq9Juzxul0) | [Magasin](https://open.spotify.com/artist/474TD8iZGUC4xnqe35aD2X) | [Bergtagen](https://open.spotify.com/album/3re55H1epL9mQUf4XWQgHi) | 3:55 | 2024-01-25 | 2024-02-25 |
@@ -118,7 +118,7 @@
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
-| [Bränns](https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb) | [Jonathan Breiner](https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI) | [Bränns](https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF) | 2:40 | 2024-02-22 | 2024-02-25 |
+| [Bränns](https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb) | [Jonathan Breiner](https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI) | [Bränns](https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF) | 2:40 | 2024-02-22 |  |
 | [Brännvin](https://open.spotify.com/track/42MiqIBN5TvEvcT6UeS6fB) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 3:34 | 2024-01-18 |  |
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 | 2023-04-07 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
@@ -273,6 +273,7 @@
 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 | 2021-12-16 | 2022-03-06 |
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
 | [Faller lågt](https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Faller lågt](https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH) | 2:15 | 2023-10-20 | 2024-01-26 |
+| [Faller Ner](https://open.spotify.com/track/4wNyKgv2tmSXQd87efe6PT) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Faller Ner](https://open.spotify.com/album/4Ac2VukiWnfghWhtCuO04b) | 2:29 | 2024-02-24 |  |
 | [Faller tillbaks](https://open.spotify.com/track/7p1kRbPVjeXLSFk3ZFKlyH) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Faller tillbaks](https://open.spotify.com/album/17dugdiTQctuhzPaPAEeYb) | 2:48 | 2021-12-16 | 2022-03-11 |
 | [Faller vi tillbaka](https://open.spotify.com/track/2h2EYn1y3oEmQzMp4LcRVc) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Faller vi tillbaka](https://open.spotify.com/album/1YWpzv7Xwa44VksvzyTHQG) | 3:51 | 2021-12-16 | 2022-01-14 |
 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 | 2023-08-31 | 2024-01-19 |
@@ -437,7 +438,7 @@
 | [I Had You By My Side](https://open.spotify.com/track/76TMobb4xIq90XBLOzf3WC) | [Isabel Neib](https://open.spotify.com/artist/7hsUdPSrlTdl9cHyGl7KL5) | [I Had You By My Side](https://open.spotify.com/album/43i3iARN8iEutbpyn5hZAu) | 4:07 | 2024-01-25 | 2024-01-28 |
 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-10 | 2023-10-20 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-08-14 |
-| [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-02-08 |  |
+| [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-02-08 | 2024-02-26 |
 | [I Lost](https://open.spotify.com/track/5j3KH3ZJUzAIrXnF4s90JS) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [I Lost](https://open.spotify.com/album/5lGBBVEh15bNp0FptPimbS) | 2:51 | 2021-12-16 | 2022-01-07 |
 | [I Need Love \(feat\. Trevor Daniel\)](https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh) | 3:06 | 2021-12-16 | 2022-03-11 |
 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 | 2023-02-16 | 2023-06-05 |

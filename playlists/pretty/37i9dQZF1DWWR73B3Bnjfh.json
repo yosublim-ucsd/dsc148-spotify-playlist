@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 166841,
+  "num_followers": 167159,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2I2MTE0YzY5YmRhZGZmZDFkZjcxNjg4NmRiZTI4MWMwYmY2ZDZm",
+  "snapshot_id": "MCwzNDc1NGZkNTZkOTMyOWYzOGQyMzNlODBhZGI2ZmRhNmFkNThjMGJi",
   "tracks": [
     {
       "added_at": "2024-02-21 13:05:59",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-02-21 13:05:59",
       "album": {
-        "name": "Adam's Apple (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 394466,
-      "name": "502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya"
-    },
-    {
-      "added_at": "2024-02-21 13:05:59",
-      "album": {
         "name": "Jazz Masters",
         "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 248373,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
+    },
+    {
+      "added_at": "2024-02-21 13:05:59",
+      "album": {
+        "name": "Adam's Apple (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 394466,
+      "name": "502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya"
     },
     {
       "added_at": "2024-02-21 13:05:59",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2024-02-21 13:05:59",
       "album": {
-        "name": "Brown And Roach Incorporated",
-        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
+        "name": "Mating Call [RVG Remaster]",
+        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+          "name": "Tadd Dameron",
+          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
         },
         {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 442533,
-      "name": "I Don't Stand A Ghost Of A Chance With You",
-      "url": "https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz"
+      "duration_ms": 321400,
+      "name": "Soultrane - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
     },
     {
       "added_at": "2024-02-21 13:05:59",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2024-02-21 13:05:59",
       "album": {
-        "name": "Mating Call [RVG Remaster]",
-        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
+        "name": "Brown And Roach Incorporated",
+        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
       "artists": [
         {
-          "name": "Tadd Dameron",
-          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         },
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 321400,
-      "name": "Soultrane - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
+      "duration_ms": 442533,
+      "name": "I Don't Stand A Ghost Of A Chance With You",
+      "url": "https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz"
     },
     {
       "added_at": "2024-02-21 13:05:59",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-02-21 13:05:59",
       "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+        "name": "Messages",
+        "url": "https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 355320,
-      "name": "Blues In The Night",
-      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+      "duration_ms": 523266,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
     },
     {
       "added_at": "2024-02-21 13:05:59",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-02-21 13:05:59",
       "album": {
-        "name": "Messages",
-        "url": "https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55"
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 523266,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
+      "duration_ms": 355320,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
     },
     {
       "added_at": "2024-02-21 13:05:59",
@@ -1291,30 +1291,26 @@
     {
       "added_at": "2024-02-21 13:05:59",
       "album": {
-        "name": "Falling In Love With Paul Desmond",
-        "url": "https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc"
+        "name": "The Standard Joe",
+        "url": "https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         },
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Al Foster",
+          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
         },
         {
-          "name": "Eugene Wright",
-          "url": "https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53"
-        },
-        {
-          "name": "Connie Kay",
-          "url": "https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake"
+          "name": "Rufus Reid",
+          "url": "https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg"
         }
       ],
-      "duration_ms": 343000,
-      "name": "When Joanna Loved Me",
-      "url": "https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY"
+      "duration_ms": 530000,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
     }
   ],
   "unique_name": "Jazz Noir",

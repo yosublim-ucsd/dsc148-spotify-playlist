@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Volcán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,055 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,066 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Saavedra](https://open.spotify.com/track/1HfOHsQQK219cvLdaKhilO) | [Kiefa](https://open.spotify.com/artist/1pdGBLkz1FE6kFpgjXtMfX), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ) | [Saavedra](https://open.spotify.com/album/24pYKSMrbxBygJqiwkNs5S) | 3:40 |
 | 50 | [Rock And Roll Total](https://open.spotify.com/track/64RqDxHfG8YfzmAI3SEVhF) | [Paranoid Mice](https://open.spotify.com/artist/1n8PJqn427HbPezKtdOvdA), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Rock And Roll Total](https://open.spotify.com/album/3nwxtmaKK7R2WG9kSpX2xz) | 3:56 |
 
-Snapshot ID: `MCw4YjBiMDkyNDRmY2I3NDYyZGFlZjhkYjI3NDhlOTc1MTk3OWYxMGQz`
+Snapshot ID: `MCw0YjQ2MzI0MWIxMmViNTU4MzIyNWI4ZTEzNjViNmExZjFmODdiOGUx`

@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 119902,
+  "num_followers": 119945,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2",
+  "snapshot_id": "MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -319,6 +319,26 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "Tudo Vai Ficar Bem",
         "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 209998,
       "name": "Tudo Vai Ficar Bem",
       "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -979,22 +979,26 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
+        "name": "Tropa de Jesus (2024)",
+        "url": "https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL"
       },
       "artists": [
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "BIG FOOT PRODUTORA",
+          "url": "https://open.spotify.com/artist/6IlrVPaoBFaS2Mh7taMjTt"
         },
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "DJ Pez\u00e3o",
+          "url": "https://open.spotify.com/artist/2NKWxU3WeE5hQdL5ukUGhU"
         }
       ],
-      "duration_ms": 133548,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
+      "duration_ms": 106285,
+      "name": "Tropa de Jesus (2024)",
+      "url": "https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1023,26 +1027,22 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Tropa de Jesus (2024)",
-        "url": "https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL"
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
       "artists": [
         {
-          "name": "BIG FOOT PRODUTORA",
-          "url": "https://open.spotify.com/artist/6IlrVPaoBFaS2Mh7taMjTt"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         },
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "DJ Pez\u00e3o",
-          "url": "https://open.spotify.com/artist/2NKWxU3WeE5hQdL5ukUGhU"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         }
       ],
-      "duration_ms": 106285,
-      "name": "Tropa de Jesus (2024)",
-      "url": "https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh"
+      "duration_ms": 133548,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
     },
     {
       "added_at": "2024-01-05 13:32:37",

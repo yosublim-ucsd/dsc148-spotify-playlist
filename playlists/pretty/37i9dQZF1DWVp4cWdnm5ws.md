@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2023\. Cover: Alamat
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,216 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,272 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 51 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 |
 | 52 | [The Beast](https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [The Beast](https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX) | 3:25 |
 
-Snapshot ID: `MCw3MTE4NGJkYTljY2JjNzY3ZWQwZjc3ODAwZmFmMTg3MDU0OGNkNDEz`
+Snapshot ID: `MCwwM2I4MTlmMjQzNTFkMTE3MjJhYWYzYzM1MjQ2Yzk1YzJhN2VhN2Uw`

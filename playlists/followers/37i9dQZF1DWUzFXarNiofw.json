@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 1034668,
+  "2024-02-26": 1034748,
   "date_first_scraped": "2021-12-21",
   "description": "The newest r&b drops, every week. Cover: SiR and Isaiah Rashad",
   "name": "R&B Weekly",
@@ -5227,7 +5227,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 247345,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS"
@@ -8044,6 +8044,28 @@
     },
     {
       "album": {
+        "name": "Deep Ellum Interlude",
+        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
+      },
+      "artists": [
+        {
+          "name": "Zay Johnny",
+          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123150,
+      "name": "Deep Ellum Interlude",
+      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
+    },
+    {
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -9159,7 +9181,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 241132,
       "name": "Doom Gloom",
       "url": "https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp"
@@ -9301,6 +9323,24 @@
       "duration_ms": 203606,
       "name": "double standard",
       "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
+    },
+    {
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0S9vPSM57NuSvEMj3QV7Ni"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm"
     },
     {
       "album": {
@@ -36975,7 +37015,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 168937,
       "name": "TTUP",
       "url": "https://open.spotify.com/track/2fZxYUDo4kkFiMXYXbrwPv"
@@ -40922,6 +40962,28 @@
     },
     {
       "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/6xZys52Lk6ywAsI76kBBmH"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235609,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/3qYA03ei7Dd6YgEe4oUjOF"
+    },
+    {
+      "album": {
         "name": "enLIGHTened",
         "url": "https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh"
       },
@@ -41247,6 +41309,24 @@
       "duration_ms": 232778,
       "name": "Zodiac Freak",
       "url": "https://open.spotify.com/track/5XbkYMeg7g7Tt7XMcBHGiJ"
+    },
+    {
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/0OVLpCmijNHTvfTGZg5K3C"
+      },
+      "artists": [
+        {
+          "name": "Iman Omari",
+          "url": "https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206922,
+      "name": "Zone",
+      "url": "https://open.spotify.com/track/0S5MI9ZVClvTcg07igMq3Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Alicia Creti
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,175 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,186 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Out of Sight](https://open.spotify.com/track/2xBknrtjrQlYJndkbYGDvE) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Out of Sight](https://open.spotify.com/album/3lrT53M5XyaNM1q6vU2i3u) | 2:26 |
 | 100 | [Delayed Reaction](https://open.spotify.com/track/54aVxRwyXVMcXw02TanBEi) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Delayed Reaction](https://open.spotify.com/album/1UcyntOu6kiFcpal7Lyz1h) | 3:34 |
 
-Snapshot ID: `MCw1OWFlMTVlNGRiZjJjNzY2NmVhYjVjZDI1YTlkNzYyOWJjNTM0MDEz`
+Snapshot ID: `MCxiYWUxYWE1YjNiMjQyYjRiNTAyNDdjYzIzMmEwYzM1MjdiMTE0YWU5`

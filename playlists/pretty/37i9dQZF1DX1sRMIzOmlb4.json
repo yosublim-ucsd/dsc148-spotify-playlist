@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 37483,
+  "num_followers": 37512,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjNmNzg2NDdjOGNlNzMwZDM1MmYzM2E1NTY2NTRkYzg1MGI4NWQ1",
+  "snapshot_id": "MCwzMzQ4MzM4YjE5YTNiYzhmYWI0YzljZmIxY2Y3YjA3ZTBlMmU1NDNh",
   "tracks": [
     {
       "added_at": "2021-12-16 01:13:56",
@@ -95,22 +95,6 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
     },
     {
       "added_at": "2021-12-16 01:13:56",
@@ -203,38 +203,6 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
         "name": "Por Fin Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/6waZU5OJmLrEJqUvy4Zytm"
       },
@@ -255,6 +223,22 @@
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
     },
     {
       "added_at": "2021-12-16 01:13:56",
@@ -311,6 +295,22 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -323,22 +323,6 @@
       "duration_ms": 229933,
       "name": "Me Soltaste",
       "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
       "added_at": "2021-12-16 01:13:56",
@@ -363,6 +347,22 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "\u00bfC\u00f3mo Pagarte?",
+      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
         "name": "Sobre El Amor Y Sus Efectos Secundarios",
         "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 202120,
       "name": "En Un S\u00f3lo Dia",
       "url": "https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 256948,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
     },
     {
       "added_at": "2021-12-16 01:13:56",
@@ -475,6 +459,22 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 256948,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
         "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 209786,
       "name": "S\u00edgueme Y Te Sigo",
       "url": "https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 183926,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
     },
     {
       "added_at": "2021-12-16 01:13:56",
@@ -655,6 +639,22 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 183926,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
         "name": "Todo Comenz\u00f3 Bailando",
         "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
-        "name": "Una en un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/0evHi0UCHqXRSofSW6bzLR"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Una en un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/4SrcC7RYF496LSwl0XKdi1"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 241560,
       "name": "Nunca Me Olvides",
       "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
+        "name": "Una en un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/0evHi0UCHqXRSofSW6bzLR"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Una en un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/4SrcC7RYF496LSwl0XKdi1"
     },
     {
       "added_at": "2021-12-16 01:13:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-12-16 01:13:56",
       "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Obsesionado",
-      "url": "https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1"
-    },
-    {
-      "added_at": "2021-12-16 01:13:56",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 241986,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef"
+    },
+    {
+      "added_at": "2021-12-16 01:13:56",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Obsesionado",
+      "url": "https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1"
     },
     {
       "added_at": "2021-12-16 01:13:56",

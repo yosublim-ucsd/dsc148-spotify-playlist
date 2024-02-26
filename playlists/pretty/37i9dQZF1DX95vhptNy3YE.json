@@ -1,12 +1,12 @@
 {
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 227521,
+  "num_followers": 227586,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmU5Y2I0YjM1ODQ0NTQyNzBiYmY3MzY0YjA3MzNmNTRkMmNhMWEx",
+  "snapshot_id": "MCxjMzExZjQ3MmViOTE5NTA1YTUwYzQ2ZGFhYTQ4YTY1ZTkyODRmYzUy",
   "tracks": [
     {
       "added_at": "2024-02-23 17:46:18",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 163056,
+      "name": "A Preta Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp"
+    },
+    {
+      "added_at": "2024-02-23 17:46:18",
+      "album": {
         "name": "Invis\u00edvel pt.2",
         "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
       },
@@ -527,6 +543,22 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
+        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Deixa em Off - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
+    },
+    {
+      "added_at": "2024-02-23 17:46:18",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -547,46 +579,6 @@
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
-    },
-    {
-      "added_at": "2024-02-23 17:46:18",
-      "album": {
-        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Deixa em Off - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG"
-    },
-    {
-      "added_at": "2024-02-23 17:46:18",
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "LISBOA",
-          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
-        }
-      ],
-      "duration_ms": 209141,
-      "name": "da lua",
-      "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -615,6 +607,30 @@
       "duration_ms": 195553,
       "name": "Ordem do Mano",
       "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
+    },
+    {
+      "added_at": "2024-02-23 17:46:18",
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "LISBOA",
+          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
+        }
+      ],
+      "duration_ms": 209141,
+      "name": "da lua",
+      "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -667,22 +683,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2024-02-23 17:46:18",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 163056,
-      "name": "A Preta Venceu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
+    },
+    {
+      "added_at": "2024-02-23 17:46:18",
+      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -847,22 +863,6 @@
       "duration_ms": 202550,
       "name": "Nota D\u00f3",
       "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
-    },
-    {
-      "added_at": "2024-02-23 17:46:18",
-      "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150851,
+      "name": "Baile Charme - Ao Vivo",
+      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
+    },
+    {
+      "added_at": "2024-02-23 17:46:18",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 214783,
       "name": "Posturada - Ao Vivo",
       "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
-    },
-    {
-      "added_at": "2024-02-23 17:46:18",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150851,
-      "name": "Baile Charme - Ao Vivo",
-      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
+        "name": "Cora\u00e7\u00e3o Quebrado",
+        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
+      },
+      "artists": [
+        {
+          "name": "Ley",
+          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+        }
+      ],
+      "duration_ms": 193222,
+      "name": "Cora\u00e7\u00e3o Quebrado",
+      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
+    },
+    {
+      "added_at": "2024-02-23 17:46:18",
+      "album": {
         "name": "Xuxu",
         "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
       },
@@ -1231,18 +1247,22 @@
     {
       "added_at": "2024-02-23 17:46:18",
       "album": {
-        "name": "Cora\u00e7\u00e3o Quebrado",
-        "url": "https://open.spotify.com/album/1fiBWXxVHBIcvQsEdedjQL"
+        "name": "Sim ou N\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7bXQjVDcnOwxULak7LS6pF"
       },
       "artists": [
         {
-          "name": "Ley",
-          "url": "https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         }
       ],
-      "duration_ms": 193222,
-      "name": "Cora\u00e7\u00e3o Quebrado",
-      "url": "https://open.spotify.com/track/6Ic0vDAv2KgsiPcxIIcPgg"
+      "duration_ms": 192160,
+      "name": "Sim ou N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hWc5QZGLh14Skp6rKPB9C"
     },
     {
       "added_at": "2024-02-23 17:46:18",
@@ -1267,26 +1287,6 @@
       "duration_ms": 178728,
       "name": "Camuflado De BAPE - Feat. Rare Kidd",
       "url": "https://open.spotify.com/track/6ZZUdr6fEEyWKqTxXIPaek"
-    },
-    {
-      "added_at": "2024-02-23 17:46:18",
-      "album": {
-        "name": "Dorme Com Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1 Na Mente",
-          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 215554,
-      "name": "Dorme Com Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ"
     }
   ],
   "unique_name": "AMPLIFIKA",

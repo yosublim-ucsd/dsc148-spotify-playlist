@@ -4,7 +4,7 @@
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Loud
 
-196 songs - 11 hr 44 min
+197 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 | 2022-03-11 |  |
 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 | 2022-03-11 |  |
 | [Catherine](https://open.spotify.com/track/5kvv0hFIsENrRGZfev16n5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Geto Rock for the Youth](https://open.spotify.com/album/61ayZWNfFBA7Nmskd03sf8) | 3:18 | 2022-03-11 | 2022-07-11 |
-| [Cest la vie](https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E) | [Soubillz](https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp), [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Cest la vie](https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV) | 3:02 | 2022-03-11 |  |
+| [Cest la vie](https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E) | [Soubillz](https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp), [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Cest la vie](https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV) | 3:02 | 2022-03-11 | 2024-02-26 |
 | [Chacun son récit](https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:51 | 2022-03-11 |  |
 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 | 2022-03-11 |  |
 | [Ciel](https://open.spotify.com/track/0hZXdVHvyIpCjGZ1JXTHUT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Ciel](https://open.spotify.com/album/5WwJNEopJyLHy4bD1YjDK2) | 2:34 | 2022-03-11 |  |
@@ -127,6 +127,7 @@
 | [Makeup](https://open.spotify.com/track/21RgjCszrzZBePdEBDgubQ) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zay](https://open.spotify.com/album/2jXXgAO8DRfHewBk849PSp) | 3:37 | 2022-03-11 |  |
 | [Marie Jeanne](https://open.spotify.com/track/2n7k7XtQb1R6JUnWCKUpHJ) | [Dydadon](https://open.spotify.com/artist/1p7j6UOCpRwruI32SGyokQ) | [Parfaite Imperfection](https://open.spotify.com/album/2tBnH3zIFsipdMLQPKd1vK) | 3:15 | 2022-03-11 | 2022-07-01 |
 | [Mauvais Garçons](https://open.spotify.com/track/5R3j6PGP10J8P9rN4omxZU) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:11 | 2022-03-11 |  |
+| [Million](https://open.spotify.com/track/36KtGGw7S4psu6I0PEcUOT) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [DZA](https://open.spotify.com/album/71VBYhDkS6wrZxhDkBkt7I) | 3:33 | 2022-03-11 |  |
 | [Million](https://open.spotify.com/track/3qwydWBT6HeDnY2KSL3v9u) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Million](https://open.spotify.com/album/7h5gv1Uv0H4A9x6q3dlY9V) | 3:33 | 2022-03-11 | 2024-02-24 |
 | [Mouvement Gang](https://open.spotify.com/track/69SY8H98zo81vN0UOXyXDX) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [IMPRÉVU](https://open.spotify.com/album/0ZT9myo7oZW88ZB81glyvE) | 3:17 | 2022-03-11 | 2022-07-27 |
 | [Mystique](https://open.spotify.com/track/5kRHk8mtxCcaHE0My2fXJL) | [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Mystique](https://open.spotify.com/album/6ag15zvfT5UfVnNFUEyyn6) | 3:19 | 2022-03-11 | 2022-07-29 |

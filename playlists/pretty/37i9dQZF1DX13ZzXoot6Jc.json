@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Chris Stapleton",
-  "num_followers": 456295,
+  "num_followers": 456297,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGZkMzk3ZmE5Yzg4MmQxYjg1YWQxZjIxYTQ1ODY0MjJkODAzZjQz",
+  "snapshot_id": "MCxkODRjODg1ZGEyMzBhYWZmMGM1ODA4NjE2MDY3Y2JiNTUyZmRhNDdi",
   "tracks": [
     {
       "added_at": "2024-02-23 05:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "I Will (When You Do)",
         "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 207533,
       "name": "I Will (When You Do)",
       "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "See You Next Summer",
-        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
+        "name": "The Outlaw Side Of Me",
+        "url": "https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2"
       },
       "artists": [
         {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 157800,
-      "name": "See You Next Summer",
-      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
+      "duration_ms": 162344,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "The Outlaw Side Of Me",
-        "url": "https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2"
+        "name": "See You Next Summer",
+        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
         }
       ],
-      "duration_ms": 162344,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/0lbHiQaHPlp5gGtsUPtj6l"
+      "duration_ms": 157800,
+      "name": "See You Next Summer",
+      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Southern and Slow",
-        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Southern and Slow",
-      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "If We Were A Love Song",
         "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 167333,
       "name": "Daylight Savings",
       "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Southern and Slow",
+        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Southern and Slow",
+      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Do This Life",
         "url": "https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 182706,
       "name": "Do This Life",
       "url": "https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Who Says You Can't Have Everything",
+      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
         "name": "Two of Us",
         "url": "https://open.spotify.com/album/6hBCrISl057IRjVjlghx5P"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 194800,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/4SBF12nxiWZhQCwC7EGFiR"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Who Says You Can't Have Everything",
-      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
     },
     {
       "added_at": "2024-02-23 05:01:00",

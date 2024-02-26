@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 421270,
+  "2024-02-26": 421351,
   "date_first_scraped": "2023-08-09",
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
   "name": "This Is Gerardo Ortiz",
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 135127,
       "name": "El Convoy de los Hermanos",
       "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 230802,
       "name": "Tal Como Eres",
       "url": "https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg"

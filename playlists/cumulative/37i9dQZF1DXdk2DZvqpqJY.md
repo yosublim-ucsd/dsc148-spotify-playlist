@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-423 songs - 1 day 2 hr 11 min
+424 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2023-03-20 |  |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-03-20 |  |
 | [Magnificent Moon](https://open.spotify.com/track/5WR54xSw59vPETCbTxp0td) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Wax /// Wane](https://open.spotify.com/album/3swLRGtEULofJUboHcsYyf) | 6:10 | 2022-04-22 | 2022-06-03 |
-| [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 | 2023-09-22 |  |
+| [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 | 2023-09-22 | 2024-02-26 |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2023-03-20 |  |
 | [Mars Walk](https://open.spotify.com/track/0xAh6kOHUk9mWKNEH60aut) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Mars Walk](https://open.spotify.com/album/1mwBt9QErZLgnSVNfbfTdm) | 4:03 | 2022-02-17 | 2022-04-29 |
 | [May As Well Be](https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [May As Well Be](https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo) | 4:00 | 2022-02-17 | 2022-11-26 |
@@ -373,6 +373,7 @@
 | [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-03-20 |  |
+| [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 | 2024-02-23 |  |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2022-02-17 | 2022-09-05 |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2022-09-21 | 2023-03-21 |
 | [Those Days Would Never End](https://open.spotify.com/track/3q3BeCTFH56wbSWusGyBE0) | [Trummor & Orgel](https://open.spotify.com/artist/5wVGq0o0tqq9ZAfdbzDpzA) | [Glow](https://open.spotify.com/album/6Op0xaySOcty5w1fEyUHDH) | 3:11 | 2022-03-24 | 2022-04-21 |

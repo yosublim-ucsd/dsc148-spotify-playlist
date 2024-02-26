@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 361941,
+  "num_followers": 362039,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmJiYWRhMTBiMTMyZTFkOTFkZmU0OGNkZDU2NmFjMmUyODUwNWJk",
+  "snapshot_id": "MCxjMjg3OTY5YWI0NDYwNzlmOTZkNWYxY2E5MTc3OWMzZDNiZmE4YzIx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -167,18 +167,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
       "artists": [
         {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+      "duration_ms": 280880,
+      "name": "Georgy Porgy (feat. Faith Evans)",
+      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -199,22 +203,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "A Day in the Life",
-        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
       },
       "artists": [
         {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
         }
       ],
-      "duration_ms": 280880,
-      "name": "Georgy Porgy (feat. Faith Evans)",
-      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
+      "duration_ms": 222760,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
     },
     {
       "added_at": "2021-01-15 05:01:00",

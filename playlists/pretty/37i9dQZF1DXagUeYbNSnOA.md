@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Olivia Wald\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,981 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,986 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [el afortunado](https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [el afortunado](https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2) | 3:20 |
 | 50 | [Notitass](https://open.spotify.com/track/2JnI6NuAH7ZxKAW7ytsQvK) | [padh ag](https://open.spotify.com/artist/6hdGQmrrjlQuLrdyukoa3F) | [Hola? Adios.](https://open.spotify.com/album/48r8og8G52uFXr1prCm1Gb) | 2:25 |
 
-Snapshot ID: `MCxlNDBiOGMyYmE4ZjM0ZmFjMjE0MDg5NWFiY2RlMjBmZDU5MzkwM2Zm`
+Snapshot ID: `MCxjNjQzYWE5Yjk1NGU4NjA0YjVkMjQ1MzUyZDYyYzE4ZmJlZjVkYTdm`

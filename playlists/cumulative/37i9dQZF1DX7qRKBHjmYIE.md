@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Mica Sotera & Los Otros Días.
 
-669 songs - 1 day 12 hr 19 min
+671 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-01-11 |
 | [BF](https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BF](https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg) | 2:21 | 2024-01-12 |  |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 | 2023-09-30 |
+| [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 | 2024-02-23 |  |
 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 | 2023-02-02 | 2023-03-09 |
 | [Blue](https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 2:25 | 2022-07-20 | 2022-10-15 |
 | [Blázares](https://open.spotify.com/track/0gnYGP3T94rLdSWTZbTx7I) | [BFlecha](https://open.spotify.com/artist/269q1RiWEIZ2IwKRF0jXNO) | [Blázares](https://open.spotify.com/album/0cYrmDXrlJJQZ0LvlfB7Oi) | 4:34 | 2021-12-02 | 2022-01-25 |
@@ -394,7 +395,7 @@
 | [Mirror In My Living Room](https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Mirror In My Living Room](https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg) | 3:00 | 2023-03-22 | 2023-04-07 |
 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 | 2023-10-13 | 2024-02-24 |
 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 | 2023-05-26 | 2023-08-05 |
-| [Monumento](https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [Monumento](https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s) | 2:42 | 2023-11-17 |  |
+| [Monumento](https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [Monumento](https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s) | 2:42 | 2023-11-17 | 2024-02-26 |
 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 | 2023-08-25 | 2024-02-24 |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 | 2023-03-08 | 2023-04-14 |
 | [Moth To A Flame](https://open.spotify.com/track/5skCXaRnin2BIR8U5V2Z10) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dance electro mood](https://open.spotify.com/album/1z9nNuYJuBwgOVI9efNg7B) | 3:54 | 2022-11-04 | 2022-11-13 |
@@ -543,7 +544,7 @@
 | [Si nos vamos](https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Si nos vamos](https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ) | 2:46 | 2022-01-24 | 2023-02-17 |
 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-28 | 2023-09-30 |
 | [Si Veo a Tu Mamá](https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:50 | 2022-01-24 | 2022-05-26 |
-| [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 | 2023-11-03 |  |
+| [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 | 2023-11-03 | 2024-02-26 |
 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 | 2023-04-13 | 2023-08-26 |
 | [Sin Dormir \- Live](https://open.spotify.com/track/26NRRiDHgh3SXa6ovSCINl) | [Jaswiry Morel](https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW) | [Sin Dormir \(Live\)](https://open.spotify.com/album/0AMLHfrKcXe464LzwHwnK6) | 4:47 | 2022-06-03 | 2022-07-28 |
 | [Sin Explicación](https://open.spotify.com/track/3vHKVGqtZsMwWt0EJ9qxPi) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 1:58 | 2022-10-27 | 2022-11-05 |
@@ -660,6 +661,7 @@
 | [wonder](https://open.spotify.com/track/6d4J0NMFdQ8Y6dRCAc0Kzp) | [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [wonder](https://open.spotify.com/album/5YBrEKfnHHCPWoLSKl9L1d) | 2:54 | 2023-02-17 | 2023-03-09 |
 | [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-08 | 2023-08-05 |
 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2023-01-10 | 2023-08-26 |
+| [Y Qué](https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7) | [Y Qué](https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ) | 2:48 | 2024-02-23 |  |
 | [Y Se Va Se Va](https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Y Se Va Se Va](https://open.spotify.com/album/31dwAkGkz6VQGfe7KXlMr6) | 3:34 | 2023-03-01 | 2023-03-29 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2021-12-02 | 2022-03-22 |
 | [Ya no siento nada](https://open.spotify.com/track/1ltRCX8f708xUGyQaKlUNk) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Ya no siento nada](https://open.spotify.com/album/3eT2h0juVrYJQM4z7mn5EJ) | 3:12 | 2021-12-02 | 2022-01-29 |

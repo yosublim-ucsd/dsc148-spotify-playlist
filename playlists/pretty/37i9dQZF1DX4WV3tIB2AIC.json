@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best gaming tracks of the year. Cover: ericdoa",
-  "num_followers": 12326,
+  "num_followers": 12328,
   "original_name": "Top Gaming Tracks of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDU1MmM1YmJkZDUyMGU0YTZjYjQwMmZhMmEzNjI5ZDlhNjFkOTA3",
+  "snapshot_id": "MCxlNmZlYzA4NjFmZWM5ZjllZGFmYWU3NTVlMWYxNjdhMzYyNDI3ODM0",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "GODS",
-        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 220878,
-      "name": "GODS",
-      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "GMFU (w/ 6arelyhuman)",
         "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "GODS",
+        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 220878,
+      "name": "GODS",
+      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
       "added_at": "2023-11-29 12:16:00",

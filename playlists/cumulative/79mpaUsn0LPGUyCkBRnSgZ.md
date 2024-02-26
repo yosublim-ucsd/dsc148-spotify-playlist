@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-584 songs - 1 day 13 hr 59 min
+585 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Prologue \(feat\. Jordon Ellis\)](https://open.spotify.com/track/3pu7cPzTVatpVAyUdvPhtX) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Jordon Ellis](https://open.spotify.com/artist/2vGS5VgfM3eDDlFtVTTD28) | [Infowars \(feat\. Jordon Ellis\)](https://open.spotify.com/album/1z5RTkAi1kwbV0WN8t24K3) | 1:00 | 2024-01-18 |  |
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-04-25 |  |
 | [Psychedelics: I\. Deep Blue \(You Beat Me\)](https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon) | [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Rough Magic](https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d) | 4:39 | 2024-01-29 |  |
+| [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2024-01-08 |  |
 | [Quivering In Time](https://open.spotify.com/track/20droT4qrvOsNlAhUpuI2r) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Quivering In Time](https://open.spotify.com/album/0C0mGs17Sqyfbty2Fkii82) | 6:36 | 2022-05-18 |  |
 | [Race for the Prize \- 2017 Remaster](https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [The Soft Bulletin](https://open.spotify.com/album/1mJFgPeuLhU1PzLNBURdJC) | 4:18 | 2022-08-19 |  |

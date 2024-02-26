@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 321092,
+  "num_followers": 321174,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRlYzRkOTBhNTRhZTU4NmU3NDY3MTlhMDQ1ZmM1OTU1OGU3YjVj",
+  "snapshot_id": "MCxjMDliNmRhZjU2MzE2ZTk2Zjg5MzY0YTY4MzlkYWZmMGZmODdiMTdj",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Pra Frente",
+        "url": "https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 229401,
+      "name": "Pra Frente",
+      "url": "https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Em Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 300000,
       "name": "Em Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Pra Frente",
-        "url": "https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 229401,
-      "name": "Pra Frente",
-      "url": "https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV"
     },
     {
       "added_at": "2023-12-22 03:00:00",

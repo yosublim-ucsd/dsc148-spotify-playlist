@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 702496,
+  "num_followers": 702626,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY0MGIyOTY0OWY3OGU4OTkzOWMwMjZhNmMyNWYyY2M4NjA2Y2Y4",
+  "snapshot_id": "MCxlOWIyNGQ4NzAzYzNjMmZlYzA2ODMxZWU4Y2E3MGNmNmNjNmUzNmNm",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -151,18 +151,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
       "artists": [
         {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "JASMINE",
-        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
-      },
-      "artists": [
-        {
-          "name": "Renao",
-          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "JASMINE",
-      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/0pvoZXSoNL1s8Th3qzffYI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 114416,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/5dlGXVhVA7rVK51leoEU5D"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "JASMINE",
+        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
+      },
+      "artists": [
+        {
+          "name": "Renao",
+          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "JASMINE",
+      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
     },
     {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "are you sleeping alone again?",
+      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
       "added_at": "2024-02-02 06:00:00",
       "album": {
         "name": "HITA",
@@ -1291,22 +1307,6 @@
       "duration_ms": 155498,
       "name": "HITA",
       "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "are you sleeping alone again?",
-      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "IdgaF",
         "url": "https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk"
       },
@@ -1699,26 +1719,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "JUMP OUT",
-        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "JUMP OUT",
-      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Leak 04-13 (Bait Ones)",
         "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "ROMCOM",
-        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
       },
       "artists": [
         {
-          "name": "Jakey",
-          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
         }
       ],
-      "duration_ms": 185233,
-      "name": "TOMMY HANKS",
-      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
+      "duration_ms": 100714,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
     }
   ],
   "unique_name": "anti pop",

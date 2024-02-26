@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 158779,
+  "2024-02-26": 158812,
   "date_first_scraped": "2022-09-17",
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
   "name": "This Is Rise Against",
@@ -169,10 +169,28 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 228480,
       "name": "Blood To Bleed",
       "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
+    },
+    {
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd"
     },
     {
       "album": {
@@ -259,7 +277,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Endgame",
       "url": "https://open.spotify.com/track/2xbPgQOfICgLYs8P4lkEtx"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 238573,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe"

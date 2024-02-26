@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Mad Caddies",
-  "num_followers": 46654,
+  "num_followers": 46694,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDdjNjNlOGU3YzE2YWVlYTkyNmYwOTQ4ODhiMGVhMDA0OGE0ZmQx",
+  "snapshot_id": "MCxkNDc3MGQ5YzIwYWFjNzI4ZWQxMjZiOTMzMDBhZmE3NjNkMmQ5ZjYy",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:31",
@@ -575,18 +575,22 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -747,22 +751,18 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
       "artists": [
         {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1371,6 +1371,22 @@
       "duration_ms": 205120,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
+    },
+    {
+      "added_at": "2024-02-23 18:26:31",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "Baggy Trousers",
+      "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1423,22 +1439,6 @@
       "duration_ms": 199541,
       "name": "La Bolsa",
       "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
-    },
-    {
-      "added_at": "2024-02-23 18:26:31",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/5HkyBg5Hj4PanOXcWe9i49"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 167173,
-      "name": "Baggy Trousers",
-      "url": "https://open.spotify.com/track/3Sbnhrpec0ULbeWBsA6GS6"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Night Boat to Cairo",
+      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
+    },
+    {
+      "added_at": "2024-02-23 18:26:31",
+      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 261321,
       "name": "Tania",
       "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
-    },
-    {
-      "added_at": "2024-02-23 18:26:31",
-      "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Night Boat to Cairo",
-      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
     },
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
+        "name": "Historias de amor y otras mierdas",
+        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "duration_ms": 185925,
+      "name": "Me Va A Castigar El Se\u00f1or",
+      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
+    },
+    {
+      "added_at": "2024-02-23 18:26:31",
+      "album": {
         "name": "Si Oh !",
         "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
@@ -1671,38 +1687,18 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "...and the usual suspects",
-        "url": "https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ"
+        "name": "The Story So Far...",
+        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
       },
       "artists": [
         {
-          "name": "Oxo86",
-          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
-        },
-        {
-          "name": "Ole - Brutal Bravo",
-          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
         }
       ],
-      "duration_ms": 239725,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF"
-    },
-    {
-      "added_at": "2024-02-23 18:26:31",
-      "album": {
-        "name": "Historias de amor y otras mierdas",
-        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
-      },
-      "artists": [
-        {
-          "name": "Eskorzo",
-          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
-        }
-      ],
-      "duration_ms": 185925,
-      "name": "Me Va A Castigar El Se\u00f1or",
-      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
+      "duration_ms": 269400,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
     }
   ],
   "unique_name": "Ska Around The Globe",

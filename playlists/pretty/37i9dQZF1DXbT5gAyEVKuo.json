@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 79199,
+  "num_followers": 79260,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGRlYjI0ZWYwNzYxYmYzZDM4MmFlNjk4MDY1ZDY5YWUxNDYxMmVk",
+  "snapshot_id": "MCw5YTViOGM5MTAxZTJkMzIyMGNmZGU2ZDYyMWYzM2ViNWY3NDE4Njhj",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live In Washington",
-        "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 388626,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Peace: The Album",
         "url": "https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 462320,
       "name": "Rushing In - Live",
       "url": "https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Live In Washington",
+        "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 388626,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Experience",
-        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 465933,
-      "name": "Open My Heart - Live",
-      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Gospel's Best Live",
         "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 249176,
       "name": "Maintain (feat. Chantae Cann) (Live)",
       "url": "https://open.spotify.com/track/4w2Tb5sSoWow02O8Y0Rmrp"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "The Experience",
+        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 465933,
+      "name": "Open My Heart - Live",
+      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
     },
     {
       "added_at": "2023-02-18 05:28:04",

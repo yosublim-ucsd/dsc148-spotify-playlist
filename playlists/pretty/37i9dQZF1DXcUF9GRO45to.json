@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 36029,
+  "num_followers": 36074,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWU5MjVkNzA4ODk1MjcxYjJkZDU4ODI5N2IxZTZkMzkxMGEwODc1",
+  "snapshot_id": "MCxlZjk4OWI5N2FhZWRjNGJjODFmZjRjNDg0NzhjNjhhMzMwNWY3M2Iz",
   "tracks": [
     {
       "added_at": "2024-01-19 09:53:33",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Meule",
-        "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
-      },
-      "artists": [
-        {
-          "name": "MEULE",
-          "url": "https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H"
-        }
-      ],
-      "duration_ms": 228307,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Factory",
         "url": "https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 198540,
       "name": "Brother",
       "url": "https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Meule",
+        "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
+      },
+      "artists": [
+        {
+          "name": "MEULE",
+          "url": "https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H"
+        }
+      ],
+      "duration_ms": 228307,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "The Second Take",
-        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
-      },
-      "artists": [
-        {
-          "name": "Do Not Machine",
-          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
-        }
-      ],
-      "duration_ms": 220971,
-      "name": "The Second Take",
-      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Linger Over, Linger On",
         "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 283226,
       "name": "Anyone, Evermore",
       "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "The Second Take",
+        "url": "https://open.spotify.com/album/4xOhdwMBgMHJTODhsn4HSf"
+      },
+      "artists": [
+        {
+          "name": "Do Not Machine",
+          "url": "https://open.spotify.com/artist/76dbfnuKsRUbrChI7vlOXE"
+        }
+      ],
+      "duration_ms": 220971,
+      "name": "The Second Take",
+      "url": "https://open.spotify.com/track/27zUZ7wZnlkzv2WAvVFK9W"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Power Lines",
-        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
-      },
-      "artists": [
-        {
-          "name": "Two Trains Left",
-          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Power Lines",
-      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Bodysick",
         "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "L\u00e9on",
-        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
+        "name": "Power Lines",
+        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
       },
       "artists": [
         {
-          "name": "Ottis C\u0153ur",
-          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
         }
       ],
-      "duration_ms": 271000,
-      "name": "L\u00e9on",
-      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
+      "duration_ms": 220812,
+      "name": "Power Lines",
+      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Staring At The Sun",
-        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
+        "name": "L\u00e9on",
+        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
       },
       "artists": [
         {
-          "name": "Not Scientists",
-          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
+          "name": "Ottis C\u0153ur",
+          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
         }
       ],
-      "duration_ms": 229429,
-      "name": "Like gods we feast",
-      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+      "duration_ms": 271000,
+      "name": "L\u00e9on",
+      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -783,6 +767,22 @@
       "duration_ms": 190508,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
+      },
+      "artists": [
+        {
+          "name": "Not Scientists",
+          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
+        }
+      ],
+      "duration_ms": 229429,
+      "name": "Like gods we feast",
+      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x"
       },
       "artists": [
         {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
         }
       ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+      "duration_ms": 320813,
+      "name": "Disappointed",
+      "url": "https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x"
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
       "artists": [
         {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
         }
       ],
-      "duration_ms": 320813,
-      "name": "Disappointed",
-      "url": "https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK"
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -959,6 +959,22 @@
       "duration_ms": 278801,
       "name": "R.I.P. In Peace",
       "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Songs/Revolving",
+        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
+      },
+      "artists": [
+        {
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+        }
+      ],
+      "duration_ms": 340004,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -995,18 +1011,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Songs/Revolving",
-        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
+        "name": "DEUXI\u00c8ME \u00c9TOILE",
+        "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
       },
       "artists": [
         {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+          "name": "P\u00e9niche",
+          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
         }
       ],
-      "duration_ms": 340004,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
+      "duration_ms": 164026,
+      "name": "REQUIN MAKO",
+      "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1023,22 +1039,6 @@
       "duration_ms": 188736,
       "name": "Newspapers",
       "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "DEUXI\u00c8ME \u00c9TOILE",
-        "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9niche",
-          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "REQUIN MAKO",
-      "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Can't Wait to Be Fine",
-        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 358080,
-      "name": "Can't Wait to Be Fine",
-      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Chantal",
         "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 294594,
       "name": "Cold Crusader",
       "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Can't Wait to Be Fine",
+        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 358080,
+      "name": "Can't Wait to Be Fine",
+      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Little Armageddon",
-        "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
-      },
-      "artists": [
-        {
-          "name": "Skip the Use",
-          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Second To None",
-      "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "FRENCH FRIES",
         "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "AqME",
-        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
+        "name": "Little Armageddon",
+        "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
       },
       "artists": [
         {
-          "name": "AqME",
-          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
         }
       ],
-      "duration_ms": 182546,
-      "name": "Tant d'ann\u00e9es",
-      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
+      "duration_ms": 186160,
+      "name": "Second To None",
+      "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+        "name": "AqME",
+        "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
       },
       "artists": [
         {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+          "name": "AqME",
+          "url": "https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26"
         }
       ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+      "duration_ms": 182546,
+      "name": "Tant d'ann\u00e9es",
+      "url": "https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "...About Going Home",
         "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
       },
@@ -1363,38 +1363,6 @@
       "duration_ms": 249013,
       "name": "Model",
       "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Blue Orchid",
-        "url": "https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB"
-      },
-      "artists": [
-        {
-          "name": "Blue Orchid",
-          "url": "https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j"
-        }
-      ],
-      "duration_ms": 314704,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Post-Post-",
-        "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
-      },
-      "artists": [
-        {
-          "name": "The Psychotic Monks",
-          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
-        }
-      ],
-      "duration_ms": 454282,
-      "name": "Post-Post-",
-      "url": "https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1431,6 +1399,54 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Blue Orchid",
+        "url": "https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB"
+      },
+      "artists": [
+        {
+          "name": "Blue Orchid",
+          "url": "https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j"
+        }
+      ],
+      "duration_ms": 314704,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Post-Post-",
+        "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
+      },
+      "artists": [
+        {
+          "name": "The Psychotic Monks",
+          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+        }
+      ],
+      "duration_ms": 454282,
+      "name": "Post-Post-",
+      "url": "https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "The Lair of Gods",
+        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
+      },
+      "artists": [
+        {
+          "name": "Servo",
+          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+        }
+      ],
+      "duration_ms": 241812,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "The Cage & The Crown : Chapter I",
         "url": "https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "The Lair of Gods",
-        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
-      },
-      "artists": [
-        {
-          "name": "Servo",
-          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
-        }
-      ],
-      "duration_ms": 241812,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Postmodern Blue",
         "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Songs from the Deepwater",
-        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
-      },
-      "artists": [
-        {
-          "name": "Stone From the Sky",
-          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
-        }
-      ],
-      "duration_ms": 284098,
-      "name": "Le Squinfus",
-      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+        "name": "Songs from the Deepwater",
+        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
       "artists": [
         {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+          "name": "Stone From the Sky",
+          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+      "duration_ms": 284098,
+      "name": "Le Squinfus",
+      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1555,6 +1539,22 @@
       "duration_ms": 192815,
       "name": "Humans",
       "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+      },
+      "artists": [
+        {
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Dissociation",
-        "url": "https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG"
+        "name": "Ain't No Princess",
+        "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
       },
       "artists": [
         {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+          "name": "Can't Bear This Party!",
+          "url": "https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f"
         }
       ],
-      "duration_ms": 257763,
-      "name": "Sick As A Dog",
-      "url": "https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM"
+      "duration_ms": 197333,
+      "name": "So Quarrelsome",
+      "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
     }
   ],
   "unique_name": "French Noise",

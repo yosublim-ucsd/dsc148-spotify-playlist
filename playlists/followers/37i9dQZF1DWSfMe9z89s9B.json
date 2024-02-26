@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 1381184,
+  "2024-02-26": 1381162,
   "date_first_scraped": "2021-12-21",
   "description": "Leaders of the new school...Alternative R&B. Cover: Rhyan Douglas",
   "name": "Vanguard",
@@ -2748,6 +2748,36 @@
     },
     {
       "album": {
+        "name": "I've Never Been Here Before",
+        "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "R\u00dcDE C\u00c5T",
+          "url": "https://open.spotify.com/artist/3uCltoxNuL9ErT2V8tSyXh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290810,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/3S4dS34keJs4DJrvPLLoEw"
+    },
+    {
+      "album": {
         "name": "Breathe My Name",
         "url": "https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx"
       },
@@ -3337,7 +3367,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 194906,
       "name": "Caught Me Running",
       "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
@@ -11879,7 +11909,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 161573,
       "name": "Millionth Time",
       "url": "https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS"
@@ -12556,6 +12586,28 @@
     },
     {
       "album": {
+        "name": "New Friends (feat. Eem Triplin)",
+        "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "New Friends (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
+    },
+    {
+      "album": {
         "name": "Nimbus",
         "url": "https://open.spotify.com/album/1NZZZZwUsYX2Lnmav1WwLG"
       },
@@ -13115,7 +13167,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 170616,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p"
@@ -19283,6 +19335,28 @@
       "duration_ms": 176191,
       "name": "UGOMDN - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk"
+    },
+    {
+      "album": {
+        "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/6PkAatyHeh4ez3Cpkaezqg"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "UGOMDN pt. 2 (ft. Mick Jenkins) - pt. 2",
+      "url": "https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg"
     },
     {
       "album": {

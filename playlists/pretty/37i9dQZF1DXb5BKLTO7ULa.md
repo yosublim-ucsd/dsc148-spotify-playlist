@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,104 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,113 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cumbia De Pena](https://open.spotify.com/track/6ROf38sm9fS78z95vKRXjE) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl) | [Cumbia De Pena](https://open.spotify.com/album/2eHRkE1beUBKDaq1eS8SwD) | 3:05 |
 | 100 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
 
-Snapshot ID: `MCw3YmExY2Y1NTkzYzAyOTQ5MTQzZmNkZDlmYmRhZGFhMDAyM2VlY2Zl`
+Snapshot ID: `MCwwYTA2OTk3Zjk4NmY2ZTk0ZWM1MjFjOTUwYTVmYmQ4MTM1ZmRmM2Zl`

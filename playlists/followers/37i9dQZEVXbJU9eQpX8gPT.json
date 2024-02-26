@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 50379,
+  "2024-02-26": 50427,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -1713,6 +1713,24 @@
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
+    },
+    {
+      "album": {
+        "name": "Allo Oui",
+        "url": "https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197722,
+      "name": "Allo Oui",
+      "url": "https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy"
     },
     {
       "album": {
@@ -4777,7 +4795,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 204444,
       "name": "Chouwafat",
       "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
@@ -11701,7 +11719,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 152611,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i"
@@ -13313,7 +13331,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -13685,7 +13703,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -26115,7 +26133,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 203807,
       "name": "\u00c9chec - Spotify Singles",
       "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"

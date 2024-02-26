@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 396418,
+  "num_followers": 396522,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDY4N2VmZmFjOGQyYThmN2I2OTEzYjZmZjAyZDY5MTUxOWFkNzlk",
+  "snapshot_id": "MCwwOWY2ZWY4YjZjMzVkYWQ3NjQ1ZmYxYTkyN2ZmODFhOTQ4MmNjNmVk",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gabalier",
+          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
+        }
+      ],
+      "duration_ms": 180252,
+      "name": "Hulapalu",
+      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gabalier",
-          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
-        }
-      ],
-      "duration_ms": 180252,
-      "name": "Hulapalu",
-      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Das Beste von Geier Sturzflug",
+        "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
+      },
+      "artists": [
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Bruttosozialprodukt",
+      "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Das Beste von Geier Sturzflug",
-        "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
-      },
-      "artists": [
-        {
-          "name": "Geier Sturzflug",
-          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Bruttosozialprodukt",
-      "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
       "artists": [
         {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
         }
       ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -667,22 +667,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 227040,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Ouzo",
         "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 274914,
       "name": "Ouzo",
       "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Auf zum Apr\u00e8s Ski",
         "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177750,
       "name": "Auf zum Apr\u00e8s Ski",
       "url": "https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
       },
       "artists": [
         {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+        "name": "Lass uns nicht geh'n (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+      "duration_ms": 164840,
+      "name": "Lass uns nicht geh'n - Stereoact Remix",
+      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Nummer Eins",
         "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 240000,
       "name": "Saufen aufm Spielplatz",
       "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2024-02-15 23:00:00",

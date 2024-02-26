@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from SZA, Selena Gomez, Charlotte Day Wilson, Central Cee and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,850 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,890 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [PERRE4R CON L4 DR4MA](https://open.spotify.com/track/2Q397Yc7f8AZi1HluHyVZS) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [PERRE4R CON L4 DR4MA](https://open.spotify.com/album/4Xh3Ds7e7wtvn59l7q3yRg) | 2:25 |
 | 100 | [Now or Never](https://open.spotify.com/track/4hLL7Gq1saeR6cyHCMP9d0) | [John River](https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg) | [Now or Never](https://open.spotify.com/album/5cZndzLvB9i5eN1XfK0yww) | 2:47 |
 
-Snapshot ID: `MCw1NjQ1ZDc1ZTFjM2E2ZDIzODEwZTk2MjM4YjAwZGU2NGNiYzQ1MDRh`
+Snapshot ID: `MCw1OTIxZGRkMDExMGY3YTc0YzVlNTczMzRkMTAwZmRlNTVhMTBlYjIw`

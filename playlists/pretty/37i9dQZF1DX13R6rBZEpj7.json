@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 203999,
+  "num_followers": 204080,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTgzNDUxNWI5MmJiODkyYzVhYjIyMDZmMmIzMDc3YjM5NDY1NGVi",
+  "snapshot_id": "MCw5YTIwNjJmYWI5OGE1NmU0NGZhYmZlYzY0ODEwOWZiODg2MzFkZGQ3",
   "tracks": [
     {
       "added_at": "2024-02-23 11:13:46",
@@ -831,22 +831,18 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Ikebana - EP",
-        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         }
       ],
-      "duration_ms": 226896,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -867,18 +863,22 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+        "name": "Ikebana - EP",
+        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+      "duration_ms": 226896,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
       },
@@ -999,6 +999,42 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Gully",
+        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
+      },
+      "artists": [
+        {
+          "name": "Solex",
+          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
+        },
+        {
+          "name": "Fugzi",
+          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Gully",
+      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Want (ur body)",
+        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 274672,
+      "name": "Want (ur body)",
+      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1027,42 +1063,6 @@
       "duration_ms": 198400,
       "name": "Talk to Me Nice",
       "url": "https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
-        "name": "Want (ur body)",
-        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 274672,
-      "name": "Want (ur body)",
-      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
-        "name": "Gully",
-        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
-      },
-      "artists": [
-        {
-          "name": "Solex",
-          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
-        },
-        {
-          "name": "Fugzi",
-          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Gully",
-      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Came Here For",
-        "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
-      },
-      "artists": [
-        {
-          "name": "Cajama",
-          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
-        },
-        {
-          "name": "x.o.anne",
-          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Came Here For",
-      "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
       },
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
+        "name": "Came Here For",
+        "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
+      },
+      "artists": [
+        {
+          "name": "Cajama",
+          "url": "https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Came Here For",
+      "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
         "name": "Barrington / Bodies",
         "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 221818,
       "name": "Barrington",
       "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 215282,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1347,22 +1363,6 @@
       "duration_ms": 206500,
       "name": "Never",
       "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 215282,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
     }
   ],
   "unique_name": "Bassline Bangers",

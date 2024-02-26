@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 426527,
+  "num_followers": 426565,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzEyMTRkMzM3MzU4YWQzNmFmM2U4NzliNGQ5NDlkNWJjZmFjNWZh",
+  "snapshot_id": "MCwwODQxOTlhYmEwMmFhZjE5YmUxZWU1NjE5YzQ0NjMyOTA4YzViZWNl",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Show Me Your Mind",
-        "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
-      },
-      "artists": [
-        {
-          "name": "Sunken",
-          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Show Me Your Mind",
-      "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Show Me Your Mind",
+        "url": "https://open.spotify.com/album/1SRKtsEc9mOeNc6yhQrzpM"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/7KkGto8VYz1WpvIsaSGsFs"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Show Me Your Mind",
+      "url": "https://open.spotify.com/track/2ZgOEDHGRz34mewrKsND2t"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Let Them In",
-        "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 233968,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 144404,
       "name": "My Evil",
       "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Let Them In",
+        "url": "https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 233968,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Way Past Three",
-        "url": "https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z"
-      },
-      "artists": [
-        {
-          "name": "Nightbus",
-          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Way Past Three",
-      "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 264746,
       "name": "L'Inconnue",
       "url": "https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Way Past Three",
+        "url": "https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z"
+      },
+      "artists": [
+        {
+          "name": "Nightbus",
+          "url": "https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Way Past Three",
+      "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Spelling",
         "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "I, Gemini",
-        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
       "artists": [
         {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
         }
       ],
-      "duration_ms": 339173,
-      "name": "Deep Six Textbook",
-      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1387,6 +1371,22 @@
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "I, Gemini",
+        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 339173,
+      "name": "Deep Six Textbook",
+      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
     },
     {
       "added_at": "2023-11-03 23:08:22",

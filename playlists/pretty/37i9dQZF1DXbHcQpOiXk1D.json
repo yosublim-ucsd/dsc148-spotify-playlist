@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Jasmine Myra",
-  "num_followers": 306958,
+  "num_followers": 307021,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDRlYWM4ZTE5YzkwN2Y0YjhjMTMwMDJjMzdlYTc3NGFhMTlhMWQ4",
+  "snapshot_id": "MCw0YmJjOGViYmUzNDQ4Mzk3Y2IxZmU5M2Y5YjAzN2MwMWFjYzg0MzU1",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -361,30 +361,6 @@
       "url": "https://open.spotify.com/track/045wxsluiQXkFHTHbASfQ8"
     },
     {
-      "added_at": "2024-02-02 13:50:02",
-      "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
-    },
-    {
       "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Fukswityu",
@@ -399,6 +375,22 @@
       "duration_ms": 202000,
       "name": "Fukswityu",
       "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -421,20 +413,28 @@
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
     },
     {
-      "added_at": "2023-12-22 00:00:01",
+      "added_at": "2024-02-02 13:50:02",
       "album": {
-        "name": "Freudian Slips",
-        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
         }
       ],
-      "duration_ms": 163516,
-      "name": "Freudian Slips",
-      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -599,18 +599,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -659,26 +667,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
       },
       "artists": [
         {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -873,6 +873,42 @@
       "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Apho",
+      "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
+    },
+    {
       "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Next Spring",
@@ -887,22 +923,6 @@
       "duration_ms": 224322,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -963,6 +983,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Annie's Tune",
         "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
       },
@@ -983,6 +1019,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -995,42 +1047,6 @@
       "duration_ms": 250480,
       "name": "Hizuki",
       "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Apho",
-      "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1055,22 +1071,6 @@
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Whatever You Want",
-        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Empty Flower",
-        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
-      },
-      "artists": [
-        {
-          "name": "Raquel Martins",
-          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
-        }
-      ],
-      "duration_ms": 233122,
-      "name": "Empty Flower",
-      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Mother Tongue",
         "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+        "name": "Empty Flower",
+        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
         }
       ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+      "duration_ms": 233122,
+      "name": "Empty Flower",
+      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1223,38 +1207,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Knocked Down",
-        "url": "https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC"
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Paya",
-          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Knocked Down",
-      "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1327,6 +1291,34 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Cheap Cigars",
+        "url": "https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Tertia May",
+          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
+        },
+        {
+          "name": "illiterate",
+          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
+        },
+        {
+          "name": "Hutch",
+          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Cheap Cigars",
+      "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Late Night People",
         "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
@@ -1359,50 +1351,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Fragile Eyes",
-        "url": "https://open.spotify.com/album/2G9G69vAI4Ek21msHECI0E"
-      },
-      "artists": [
-        {
-          "name": "Raquel Martins",
-          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
-        }
-      ],
-      "duration_ms": 264870,
-      "name": "Fragile Eyes",
-      "url": "https://open.spotify.com/track/0JTZDtBqZTCQZlVER9Z9E3"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Cheap Cigars",
-        "url": "https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Tertia May",
-          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
-        },
-        {
-          "name": "illiterate",
-          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
-        },
-        {
-          "name": "Hutch",
-          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Cheap Cigars",
-      "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Sample The Sky",
         "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
       },
@@ -1415,6 +1363,22 @@
       "duration_ms": 247102,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Fragile Eyes",
+        "url": "https://open.spotify.com/album/2G9G69vAI4Ek21msHECI0E"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "duration_ms": 264870,
+      "name": "Fragile Eyes",
+      "url": "https://open.spotify.com/track/0JTZDtBqZTCQZlVER9Z9E3"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1435,6 +1399,22 @@
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        }
+      ],
+      "duration_ms": 149968,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
     }
   ],
   "unique_name": "Jazz UK",

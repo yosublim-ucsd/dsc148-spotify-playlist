@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 146323,
+  "num_followers": 146471,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWE0MTJkMmI1YjJlN2JmOThmMWE0ZDlhNzQzZmExZmRjOTcwZTJk",
+  "snapshot_id": "MCw3NDBhM2VkM2Y1N2ZkYmZiZmM0OWE0ZDVmZWVhNGNhZWI2NGYzMzY1",
   "tracks": [
     {
       "added_at": "2024-02-22 19:40:36",
@@ -423,22 +423,18 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
       "artists": [
         {
           "name": "P-Square",
           "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
         }
       ],
-      "duration_ms": 264092,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
+      "duration_ms": 268318,
+      "name": "No One Like You - Deluxe",
+      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -523,22 +519,6 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
         "name": "Gobe",
         "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
       },
@@ -551,6 +531,22 @@
       "duration_ms": 229668,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -627,50 +623,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Gameover (Deluxe)",
-        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
       "artists": [
         {
           "name": "P-Square",
           "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 268318,
-      "name": "No One Like You - Deluxe",
-      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
-      },
-      "artists": [
+        },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
         }
       ],
-      "duration_ms": 190295,
-      "name": "Skelewu",
-      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+      "duration_ms": 264092,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -691,6 +659,38 @@
       "duration_ms": 246832,
       "name": "Caro",
       "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 156479,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
         "name": "Chop My Money",
         "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
@@ -823,38 +823,18 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
         }
       ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 279353,
-      "name": "Don't Dull",
-      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
+      "duration_ms": 156479,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -871,6 +851,26 @@
       "duration_ms": 250257,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -903,6 +903,22 @@
       "duration_ms": 194876,
       "name": "Personally",
       "url": "https://open.spotify.com/track/4YTMIcFroWpTMRLY8su9bf"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 212005,
-      "name": "Pakurumo",
-      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
         "name": "Break Through",
         "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 237106,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/1tvi8tv0eykhNcV1WtaIqO"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7mBq0ZB8bjoMviXOGaGDZz"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7mBq0ZB8bjoMviXOGaGDZz"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
         "name": "D'banj Essentials",
         "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Kele Kele",
-      "url": "https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
         "name": "YBNL",
         "url": "https://open.spotify.com/album/0mBEVecZUhNn4sD2nHvJTX"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 186666,
       "name": "First of All",
       "url": "https://open.spotify.com/track/6aWJGYvtifenSm5hYVYqii"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Kele Kele",
+      "url": "https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz"
     },
     {
       "added_at": "2024-02-22 19:40:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-22 19:40:36",
       "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/7kISXLFPktG2yJEQPbYN0J"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Kilofeshe",
-      "url": "https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd"
-    },
-    {
-      "added_at": "2024-02-22 19:40:36",
-      "album": {
         "name": "Best Of Wande Coal",
         "url": "https://open.spotify.com/album/42byhYQHESB4Gix7pRmf66"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 225933,
       "name": "Bumper To Bumper",
       "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
+    },
+    {
+      "added_at": "2024-02-22 19:40:36",
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/7kISXLFPktG2yJEQPbYN0J"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Kilofeshe",
+      "url": "https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd"
     },
     {
       "added_at": "2024-02-22 19:40:36",

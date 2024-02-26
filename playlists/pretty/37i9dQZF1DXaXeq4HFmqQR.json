@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 13362,
+  "num_followers": 13361,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy",
+  "snapshot_id": "MCxhOTRkY2YxY2FhMWYyNjcyZDM5Y2Q5N2YwNTYwZmEwYzE1NzdiMGE5",
   "tracks": [
     {
       "added_at": "2024-01-10 17:55:32",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "El Regalito",
+        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
+      },
+      "artists": [
+        {
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "El Regalito",
+      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Chao",
         "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
@@ -775,34 +791,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "El Regalito",
-        "url": "https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "El Regalito",
-      "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Ice",
-        "url": "https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR"
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
       },
       "artists": [
         {
           "name": "Aura BAE",
           "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 255897,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo"
+      "duration_ms": 173158,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -823,22 +827,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 198983,
-      "name": "Jugando Con Fuego",
-      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV"
       },
@@ -851,6 +839,22 @@
       "duration_ms": 298973,
       "name": "Dame Luz",
       "url": "https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 198983,
+      "name": "Jugando Con Fuego",
+      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
     }
   ],
   "unique_name": "EQUAL Chile",

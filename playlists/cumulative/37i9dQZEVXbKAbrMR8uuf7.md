@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,272 songs - 2 day 20 hr 43 min
+1,273 songs - 2 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Deconecte](https://open.spotify.com/track/4Re80N9s1sgBbzIiV21zPI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Black Jonas Point](https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12) | [Deconecte](https://open.spotify.com/album/5iN8QSwK0Fg4c4ZUfh1sLX) | 3:06 | 2024-01-04 | 2024-01-21 |
 | [Deficit](https://open.spotify.com/track/54yXhZtB9LSG3g6LMBe0ST) | [Wilmer Roberts](https://open.spotify.com/artist/0WZrXchGKwOH39DJHUPny3) | [Poeta Maldecido](https://open.spotify.com/album/4dh6ZvyXNtphZKLYe2JJLE) | 2:55 | 2024-01-10 | 2024-01-12 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-06-27 |
-| [Dejalos que hablen](https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Dejalos que hablen](https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv) | 2:55 | 2024-02-24 |  |
+| [Dejalos que hablen](https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Dejalos que hablen](https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv) | 2:55 | 2024-02-24 | 2024-02-26 |
 | [Dejame Volver](https://open.spotify.com/track/01bQ56KQj2A2YCFmMXPxfJ) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu) | 3:51 | 2023-12-26 | 2023-12-30 |
 | [Del Kilo](https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:46 | 2022-12-10 | 2023-05-09 |
 | [DELETE](https://open.spotify.com/track/4vUjkdHefbN7Qh1cMcDqZU) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Nelly Nelz](https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su), [Keko Musik](https://open.spotify.com/artist/4Fw6S1XIDNuw6dutII4SsZ) | [DELETE](https://open.spotify.com/album/67hqkJUg7E5tz4UWO7WGYV) | 3:32 | 2023-11-18 | 2023-11-22 |
@@ -884,6 +884,7 @@
 | [Piri Bambam](https://open.spotify.com/track/2J25zvoM9fD8M8dGfdqvek) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Piri Bambam](https://open.spotify.com/album/0WhY1UWzAGs4peljp0bMFS) | 2:54 | 2021-12-19 | 2022-01-26 |
 | [Piropi](https://open.spotify.com/track/1yJlQ08TIeLsYoIpsupsRd) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/2yQCcSxT6uPVcWjXfk4dAD) | 3:10 | 2022-10-27 | 2022-11-09 |
 | [Piropi](https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc) | 3:10 | 2022-10-20 | 2023-01-04 |
+| [Pitoleo](https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi) | [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Pitoleo](https://open.spotify.com/album/1Rcui07oTG9hhKgmJN5vQu) | 1:48 | 2024-02-25 |  |
 | [Pitone](https://open.spotify.com/track/1ao3LOVRfwArGbtSo76W2W) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/0NoOtIDqn1o4RoRK3xQINS) | 2:04 | 2024-01-25 |  |
 | [Pitone](https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3) | 2:04 | 2023-12-31 | 2024-01-26 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-25 | 2022-04-15 |

@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47807,
+  "num_followers": 47810,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmYzY2QyYzMyYzQwMzZkMWQ4MmY1YzZhY2U2MTNlNmY1MTBmZjI4",
+  "snapshot_id": "MCw0MTM0MDUzNjlhM2JjZjM1ZjhlZmMxOTc1NTRkYjVlYTgxYzlhZTMy",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 173322,
-      "name": "K\u00c1LICE",
-      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "O Amor Machuca Demais",
         "url": "https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 188638,
       "name": "O Amor Machuca Demais",
       "url": "https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 173322,
+      "name": "K\u00c1LICE",
+      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -759,22 +759,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Muito Al\u00e9m",
-        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+        "name": "lentamente",
+        "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
         }
       ],
-      "duration_ms": 168505,
-      "name": "Muito Al\u00e9m",
-      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
+      "duration_ms": 199611,
+      "name": "lentamente",
+      "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -795,22 +791,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "lentamente",
-        "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 199611,
-      "name": "lentamente",
-      "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Hoje eu n\u00e3o vim falar de Amor",
         "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 228920,
       "name": "Hoje eu n\u00e3o vim falar de Amor",
       "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Castelo De Areia",
-        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Bullet Bane",
-          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Castelo De Areia",
-      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "Obscuro",
         "url": "https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6"
       },
@@ -875,26 +855,6 @@
       "duration_ms": 218161,
       "name": "Obscuro",
       "url": "https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "Vampira (Remix)",
-        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Vampira - Remix",
-      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -923,22 +883,42 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
+        "name": "Vampira (Remix)",
+        "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
         },
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 205913,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+      "duration_ms": 178848,
+      "name": "Vampira - Remix",
+      "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Castelo De Areia",
+        "url": "https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Bullet Bane",
+          "url": "https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Castelo De Areia",
+      "url": "https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -999,6 +979,26 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 205913,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "MENTIRA FAVORITA",
         "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         }
       ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
-        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 207070,
-      "name": "CORPO FECHADO",
-      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "\u00daltimo Clich\u00ea",
         "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 169411,
       "name": "\u00daltimo Clich\u00ea",
       "url": "https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+        "name": "MINHA RELIGI\u00c3O",
+        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
       },
       "artists": [
         {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
+      "duration_ms": 153000,
+      "name": "MINHA RELIGI\u00c3O",
+      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "MINHA RELIGI\u00c3O",
-        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
         }
       ],
-      "duration_ms": 153000,
-      "name": "MINHA RELIGI\u00c3O",
-      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2024-02-22 17:25:15",

@@ -1,12 +1,12 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 69373,
+  "num_followers": 69492,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjc2MzkzNmFiNmNhYTBjMzM4ZWRhNGU3ZmM5N2M5YTk1NjJiZjNl",
+  "snapshot_id": "MCwzMjMyMjI1MGYxNTg3NGU1MzMzNTljOWQwZDJmMzMxMmY4OWJmMzUz",
   "tracks": [
     {
       "added_at": "2023-11-06 20:37:56",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "Exitos Con Mariachi",
         "url": "https://open.spotify.com/album/6F03Kjdql6MfZnNFIIH3zy"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Antolog\u00eda. . . Los Solitarios",
-        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Nada de tu amor",
-      "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "15 Exitos, Vol. I",
         "url": "https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 165960,
       "name": "\u00c1ngel de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Solitarios",
+        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Nada de tu amor",
+      "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "15 Exitos Del Recuerdo",
-        "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
-      },
-      "artists": [
-        {
-          "name": "Polo Y Los Apson",
-          "url": "https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "Anoche Me Enamore",
-      "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 234493,
       "name": "Mi Forma De Sentir",
       "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "15 Exitos Del Recuerdo",
+        "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
+      },
+      "artists": [
+        {
+          "name": "Polo Y Los Apson",
+          "url": "https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "Anoche Me Enamore",
+      "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
     },
     {
       "added_at": "2023-11-06 20:37:56",

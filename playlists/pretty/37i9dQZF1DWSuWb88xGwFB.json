@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33077,
+  "num_followers": 33086,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4",
+  "snapshot_id": "MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Feel It / Waterfalls",
-        "url": "https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT"
-      },
-      "artists": [
-        {
-          "name": "After Hours",
-          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
-        }
-      ],
-      "duration_ms": 358680,
-      "name": "Waterfalls (3 A.M. Mix)",
-      "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Reach - The Ultimate Remixes",
         "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 472453,
       "name": "Reach (Little \"More\" Mix)",
       "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Feel It / Waterfalls",
+        "url": "https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT"
+      },
+      "artists": [
+        {
+          "name": "After Hours",
+          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
+        }
+      ],
+      "duration_ms": 358680,
+      "name": "Waterfalls (3 A.M. Mix)",
+      "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Spark da Meth",
-        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
-      },
-      "artists": [
-        {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
-        }
-      ],
-      "duration_ms": 398566,
-      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
-      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Rise from Your Grave",
         "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Spark da Meth",
+        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
+      },
+      "artists": [
+        {
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+        }
+      ],
+      "duration_ms": 398566,
+      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
+      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "So Deep, so Good",
         "url": "https://open.spotify.com/album/2NZvKyGrVoErnHeASSUEmN"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 456236,
       "name": "So Deep, so Good (Ndako Gboya Mix)",
       "url": "https://open.spotify.com/track/36q4kV9QMWJOOANWJR21Wr"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -751,6 +735,38 @@
       "duration_ms": 369461,
       "name": "Special (Club Mix)",
       "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -815,22 +831,6 @@
       "duration_ms": 343720,
       "name": "Dance to the Rhythm",
       "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ],
+      "duration_ms": 334220,
+      "name": "We Can Make It (The \u2018I Believe' Dub)",
+      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 554971,
       "name": "The Sound (The Studio 54 Mix)",
       "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
-        }
-      ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",

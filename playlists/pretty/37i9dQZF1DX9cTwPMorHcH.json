@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 83821,
+  "num_followers": 83850,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjcyYTdkM2UyZTExYWVlZjJjOGYzMTYxNTZhY2I4ZDBiZGIyZTY3",
+  "snapshot_id": "MCw3ZGZiN2FkMzI0MjYyOTA3NDA5YjIzYzViOGRmNjFjN2VkNTdkZTkw",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 486773,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Brighter Days",
@@ -643,6 +627,22 @@
       "duration_ms": 183240,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 486773,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "A Bothered Mind",
-        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Someday Baby",
-      "url": "https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 232866,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "A Bothered Mind",
+        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Someday Baby",
+      "url": "https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Koko Taylor",
-        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Blak and Blu (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 324786,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Koko Taylor",
+        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Suitcase",
         "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 256493,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Blacktop Run",
-        "url": "https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 234417,
-      "name": "Somebody Gotta Make A Move",
-      "url": "https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Power Of The Pontchartrain",
@@ -1479,6 +1463,38 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Blacktop Run",
+        "url": "https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 234417,
+      "name": "Somebody Gotta Make A Move",
+      "url": "https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
+        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "The Pleasure's All Mine",
+      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1511,22 +1527,6 @@
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Years Gone By",
-        "url": "https://open.spotify.com/album/3zpze3mdxnwIuPIQMIXqoW"
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
         }
       ],
-      "duration_ms": 250893,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/32ZrzDjibAsbGvsmV7IbJ9"
+      "duration_ms": 290000,
+      "name": "It Hurt So Bad",
+      "url": "https://open.spotify.com/track/3RqsX9mUWAhkFeRESUs1e8"
     }
   ],
   "unique_name": "Blues Drive",

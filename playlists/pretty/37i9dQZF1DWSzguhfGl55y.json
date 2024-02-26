@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 623410,
+  "num_followers": 623425,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNThjZTVlYWJiZDk0M2UyYWQzMGJjMjA2ZWY3MDc0ZThiMmVlNTk1",
+  "snapshot_id": "MCwzYTgzNDcyMDA1YjM1ZmFhOTBhMjA5NDEzY2JjYjY3YmQxYjQyMzJh",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -895,22 +895,26 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Freiheit",
-        "url": "https://open.spotify.com/album/2WlEcoKtbsgH5Vtu9l11d1"
+        "name": "Esperanto",
+        "url": "https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT"
       },
       "artists": [
         {
-          "name": "Curse",
-          "url": "https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi"
+          "name": "Freundeskreis",
+          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
         },
         {
-          "name": "Silbermond",
-          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+          "name": "Max Herre",
+          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        },
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
         }
       ],
-      "duration_ms": 224426,
-      "name": "Bis zum Schluss (feat. Silbermond)",
-      "url": "https://open.spotify.com/track/1UW6Rf2rDz3XkHqnVZuHUu"
+      "duration_ms": 278960,
+      "name": "Mit Dir (feat. Joy Denalane)",
+      "url": "https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

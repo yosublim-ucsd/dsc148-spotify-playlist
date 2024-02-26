@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Wallows",
-  "num_followers": 1689357,
+  "num_followers": 1689396,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBkN2NkOWMzYjlmNmM1ZTNlMmE0YjcwOTMwNTUzZWYyMjIxMmVh",
+  "snapshot_id": "MCwyMzg1MmMwMzZhZmU4M2Q1NDQ4NGU2NTgxNWU2MmVhYjFiZDhhMjY3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:15:13",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 204857,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -869,20 +869,24 @@
       "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
     },
     {
-      "added_at": "2024-02-09 18:17:32",
+      "added_at": "2024-02-16 05:15:13",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
       },
       "artists": [
         {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         }
       ],
-      "duration_ms": 270314,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
+      "duration_ms": 323789,
+      "name": "TEXAS BLUE (with Kevin Abstract)",
+      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -903,6 +907,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 270314,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/205Dyp6IqtOcYRX72QvbB7"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Hot in NY",
         "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 118787,
       "name": "Hot in NY",
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
-    },
-    {
-      "added_at": "2024-02-16 05:15:13",
-      "album": {
-        "name": "SCRAPYARD",
-        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 323789,
-      "name": "TEXAS BLUE (with Kevin Abstract)",
-      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Sweet N Low",
-        "url": "https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 179049,
-      "name": "Sweet N Low",
-      "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Sweet N Low",
+        "url": "https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 179049,
+      "name": "Sweet N Low",
+      "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Moon Girl",
         "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
-      },
-      "artists": [
-        {
-          "name": "Bullion",
-          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1171,6 +1151,26 @@
       "duration_ms": 121533,
       "name": "Drain Me!",
       "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Into Your Room",
-        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 209787,
-      "name": "Into Your Room",
-      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Into Your Room",
+        "url": "https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 209787,
+      "name": "Into Your Room",
+      "url": "https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 160258,
       "name": "we don't move",
       "url": "https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
     },
     {
       "added_at": "2024-02-09 18:17:32",

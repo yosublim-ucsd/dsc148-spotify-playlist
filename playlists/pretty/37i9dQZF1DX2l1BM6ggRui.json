@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6461,
+  "num_followers": 6460,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGNlMzYwODk4ZTQ3ZWJkYjUyNGQ5MmUwYTMwNDg3Nzc1YTc0NjE5",
+  "snapshot_id": "MCw2OTcwYWRiN2U5ODAxNmRhNjQwNjBjM2VjNjc0MzUzOWRmMjYxNjlm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "BASTIONS OST Part.4",
         "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -371,6 +355,22 @@
       "duration_ms": 175293,
       "name": "Mixtape : Time Out",
       "url": "https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Why Can't You Love Me?",
-      "url": "https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180320,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Why Can't You Love Me?",
+      "url": "https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
-        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "SEOUL (Such a Beautiful City)",
-      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "A-MOONO-KE",
         "url": "https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 177840,
       "name": "A-MOONO-KE (I\u2019m OK)",
       "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "H1-KEY 2nd Mini Album [Seoul Dreaming]",
+        "url": "https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "SEOUL (Such a Beautiful City)",
+      "url": "https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'",
-        "url": "https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C"
-      },
-      "artists": [
-        {
-          "name": "LIMELIGHT",
-          "url": "https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Don't Call Me - The 7th Album",
         "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 180986,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/14bycLXzjEIFKVQCe2K6M2"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'",
+        "url": "https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C"
+      },
+      "artists": [
+        {
+          "name": "LIMELIGHT",
+          "url": "https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 230597,
-      "name": "I FLY",
-      "url": "https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0eWeQtF47FUpI8kRLDEiCp"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 230597,
+      "name": "I FLY",
+      "url": "https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r"
     },
     {
       "added_at": "2023-11-03 06:14:32",

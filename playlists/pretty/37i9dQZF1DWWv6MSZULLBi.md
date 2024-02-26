@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Shaina Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,513 likes - 103 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,524 likes - 103 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 102 | [I'm Around](https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I'm Around](https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS) | 3:20 |
 | 103 | [Honest Mistake](https://open.spotify.com/track/7I5lWaa5IhmZ9e2C1CNMeh) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Honest Mistake](https://open.spotify.com/album/6UDL0OtfOKN5aEqFwfenl4) | 3:32 |
 
-Snapshot ID: `MCwxMGMyY2JjY2MyODJlNzc1NzVlMGY5MTdjZmIwZjdhYmZmMmE3NDBk`
+Snapshot ID: `MCxiODBhNzdkNTQ5OWVmNDBhNWQwZDQ2N2E1OWZmMmMzZDljNTRiZDJi`

@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 0,
+  "2024-02-26": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -393,7 +393,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 225189,
       "name": "A Little Respect - Live",
       "url": "https://open.spotify.com/track/3kZO1uiKbiFejNUYJE04qW"
@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 240304,
       "name": "Black Star",
       "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
@@ -2801,7 +2801,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 166719,
       "name": "Bling-Bang-Bang-Born-Merengue",
       "url": "https://open.spotify.com/track/5WGN2tC9o9ImbOSUKmMeDb"
@@ -4573,7 +4573,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 365282,
       "name": "Dark Empath",
       "url": "https://open.spotify.com/track/3IyMTdXLWF6bodKNRUMads"
@@ -5269,7 +5269,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 197996,
       "name": "Don't Tell Me (feat. Ann Wilson) - PLZ Tethered Version",
       "url": "https://open.spotify.com/track/4JMiWfmZVNXTu9yQQHsFqI"
@@ -7813,7 +7813,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 239500,
       "name": "Hablando a tu coraz\u00f3n",
       "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
@@ -11921,7 +11921,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 337473,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2"
@@ -12359,7 +12359,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 228333,
       "name": "Love's Got A Hold On Me - 2024 Remaster",
       "url": "https://open.spotify.com/track/6H6CNp67xOzUKGjPBE3VGw"
@@ -14107,7 +14107,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 215282,
       "name": "Nothing But The Whole Wide World (with Eric Clapton)",
       "url": "https://open.spotify.com/track/434fZ0lHIQv3AsLoGjR7TR"
@@ -14183,7 +14183,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 449405,
       "name": "Novum Vetus",
       "url": "https://open.spotify.com/track/1OlbUQSGl2vsB1S7CaprIw"
@@ -14823,7 +14823,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 205742,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb"
@@ -16748,6 +16748,24 @@
     },
     {
       "album": {
+        "name": "Rock Bottom In Cincinnati 1995 (Live In Cincinnati, 1995)",
+        "url": "https://open.spotify.com/album/43qbDgAEajocqwWRqXXN5S"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626307,
+      "name": "Rock Bottom - Live in Cincinnati, 1995",
+      "url": "https://open.spotify.com/track/6i6rKOIFyjICxufDfEYYMn"
+    },
+    {
+      "album": {
         "name": "Asphalt Meadows (Acoustic)",
         "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
       },
@@ -17473,7 +17491,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 240034,
       "name": "Serpentskirt - Remastered 2024",
       "url": "https://open.spotify.com/track/7LT8r0DwhQd3UtD0I1Exja"
@@ -18119,7 +18137,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 232300,
       "name": "So Much (For) Stardust - Edit",
       "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
@@ -18645,7 +18663,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 154376,
       "name": "Spicy Margarita",
       "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
@@ -19389,7 +19407,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 211200,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
@@ -19539,7 +19557,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 110475,
       "name": "Te amar\u00e9",
       "url": "https://open.spotify.com/track/5JWmuL1m81BgNsNXJFIMpO"
@@ -20882,6 +20900,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "album": {
         "name": "Let Them Drag My Soul Away: Singles, Demos, Sessions And Live Recordings (1979-1982)",
         "url": "https://open.spotify.com/album/3uYx5vJTvX3oQU6oEq7gqG"
       },
@@ -21031,7 +21071,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 268614,
       "name": "The World I Know",
       "url": "https://open.spotify.com/track/5bmcj9oN7axXea8m3CzaK6"
@@ -22121,7 +22161,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 206626,
       "name": "Un \u00c1ngel (Instrumental)",
       "url": "https://open.spotify.com/track/79ZqiKgDmeHj8zmIuSMTFs"
@@ -22441,7 +22481,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 280200,
       "name": "Venus - Live in Cincinnati, 1995",
       "url": "https://open.spotify.com/track/7uX2VEdhtPqaF8jEgOXDJS"
@@ -23859,7 +23899,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 148235,
       "name": "Ya Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/4LVPeCZ2iOpkLcmGhSdNkV"

@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 742116,
+  "2024-02-26": 742238,
   "date_first_scraped": "2021-12-21",
   "description": "Where everything is lovely and snuggly <3 ",
   "name": "Stay in Bed",
@@ -1219,6 +1219,24 @@
       "duration_ms": 283190,
       "name": "Everything Is Just a Mess",
       "url": "https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg"
+    },
+    {
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h"
     },
     {
       "album": {
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"

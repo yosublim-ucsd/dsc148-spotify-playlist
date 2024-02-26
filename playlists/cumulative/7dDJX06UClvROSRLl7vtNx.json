@@ -219,6 +219,32 @@
     },
     {
       "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/3V4qu83f9ZoDOe1uvQ6tUy"
+      },
+      "artists": [
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        },
+        {
+          "name": "Spagbo",
+          "url": "https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/5fc1tca544MPaPJ1ng7Q8T"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/0136dl7WXw7P8tptO4Ir2t"
       },
@@ -1788,7 +1814,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 185901,
       "name": "Got This Feeling",
       "url": "https://open.spotify.com/track/5WkrXPFs3gene3t5pkbNHn"
@@ -2708,7 +2734,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 184173,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1prkZSe9bHalA9qVpxSVth"
@@ -3630,7 +3656,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 164936,
       "name": "Never Found It",
       "url": "https://open.spotify.com/track/5vz1ItCx8S2bZWbfjk4ESo"
@@ -4547,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "Stay Tight (Lost In Reveries Remix)",
+        "url": "https://open.spotify.com/album/0S2RG64P5jrmX2h7eEMKAD"
+      },
+      "artists": [
+        {
+          "name": "Bloome",
+          "url": "https://open.spotify.com/artist/7wh5DgRdtPmQaD7pfGV2TU"
+        },
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147130,
+      "name": "Stay Tight (Lost In Reveries Remix)",
+      "url": "https://open.spotify.com/track/3SBLKWCOzWZvEJqKo8YvCI"
+    },
+    {
+      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY"
       },
@@ -4724,7 +4772,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 200769,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/3cuoNCWAR8qyiMpecD1oK4"
@@ -5354,6 +5402,58 @@
       "duration_ms": 136956,
       "name": "Warm Tonight",
       "url": "https://open.spotify.com/track/3LT5XVBeevDtlwowO5Xk30"
+    },
+    {
+      "album": {
+        "name": "Way To Go",
+        "url": "https://open.spotify.com/album/3z3we6BWEp2Lx0nM5E4RIY"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Way To Go",
+      "url": "https://open.spotify.com/track/5sfwEVocOCjqkikU6bc5eY"
+    },
+    {
+      "album": {
+        "name": "What I Hope",
+        "url": "https://open.spotify.com/album/6DGYEiIQ9BmFhFp7B1mIRF"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        },
+        {
+          "name": "Axel Ehnstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "What I Hope",
+      "url": "https://open.spotify.com/track/5RbOuBKXy5FF4ogE9WsAK3"
     },
     {
       "album": {

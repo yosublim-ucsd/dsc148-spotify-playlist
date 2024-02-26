@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,196 songs - 3 day 11 hr 15 min
+1,197 songs - 3 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 | 2023-09-13 |
 | [Animal](https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Animal](https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L) | 4:03 | 2023-03-17 | 2023-03-25 |
 | [Anomaly](https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Anomaly / Drift](https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A) | 3:18 | 2023-05-19 | 2023-06-11 |
+| [Anonymus Two \- Live](https://open.spotify.com/track/0lBN5pXrgVFPn17jazhHGe) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [vol huis \(Live\)](https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu) | 26:28 | 2024-02-23 |  |
 | [Another Chance](https://open.spotify.com/track/0eF6n8Dl1aTmnF0u3yl4DD) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Sleep, and I Will Sing](https://open.spotify.com/album/1Uzm2LM1hoellDYBaTgL0p) | 4:04 | 2023-05-19 | 2023-06-11 |
 | [Ansiedad por escribir](https://open.spotify.com/track/1BJP0TLvzHD66twOeyA9jt) | [daimonklaroskuro](https://open.spotify.com/artist/2UidjQc7U8EWac0MLuLhoe), [Mente Sabia Crú](https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ) | [Ansiedad por escribir](https://open.spotify.com/album/1bV4eY646dU8P7FerspjRR) | 3:50 | 2024-02-16 |  |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 | 2023-05-14 |
@@ -343,7 +344,7 @@
 | [First In Line](https://open.spotify.com/track/7vdv5e5atEgBlW9oGjtPIG) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [First In Line](https://open.spotify.com/album/6XN4rXWgar54VuGsPQLkHm) | 5:22 | 2023-10-13 | 2023-11-14 |
 | [Fits Like a Glove \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/3CHYQ3WhPwhEoTrjNta8o1) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 4:53 | 2023-04-07 | 2023-04-15 |
 | [Fliegen](https://open.spotify.com/track/1cVYXLicQk4b4dDtriIvIK) | [Blutengel](https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR) | [Fliegen](https://open.spotify.com/album/1yRZFRNcCmyx8CHX4wTg6p) | 4:11 | 2023-03-24 | 2023-04-01 |
-| [Focus III \- Live](https://open.spotify.com/track/09zo76vfPszZXCkB9y7t3b) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [vol huis \(Live\)](https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu) | 3:29 | 2024-02-23 |  |
+| [Focus III \- Live](https://open.spotify.com/track/09zo76vfPszZXCkB9y7t3b) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [vol huis \(Live\)](https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu) | 3:29 | 2024-02-23 | 2024-02-26 |
 | [Follow The Reaper \- Final Show in Helsinki Ice Hall 2019](https://open.spotify.com/track/3zC4RUrTFhIEjXkMnuiiV1) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Follow The Reaper \(Final Show in Helsinki Ice Hall 2019\)](https://open.spotify.com/album/4EIfIMDA0HZONcUIu2hGqg) | 3:47 | 2023-12-08 | 2023-12-16 |
 | [Forever Young](https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 3:15 | 2023-06-02 | 2023-07-02 |
 | [Forevermore](https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Torch In The Dark](https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx) | 2:53 | 2023-11-03 | 2023-12-03 |

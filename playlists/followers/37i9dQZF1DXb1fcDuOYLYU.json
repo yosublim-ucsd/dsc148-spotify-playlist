@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 49832,
+  "2024-02-26": 49857,
   "date_first_scraped": "2022-03-22",
   "description": "Celebrating the powerful voices of Latin music. Cover: Belinda",
   "name": "Women of Latin",
@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
+    },
+    {
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -385,7 +403,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 175506,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3"

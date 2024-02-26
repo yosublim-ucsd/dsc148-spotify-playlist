@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1142649,
+  "num_followers": 1142809,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWNlMDhjNjRhNjJhNTM2MTkyMzk3YzIwZjcyZGMzMmQ2YzVlNWIw",
+  "snapshot_id": "MCxkZWFmZTQ2YTFhMzBkMGZkODBjNTBlYTMzNGNkN2YzMDYzODE0YTEy",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Fever Tree",
-        "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
-      },
-      "artists": [
-        {
-          "name": "Fever Tree",
-          "url": "https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "San Francisco Girls (Return Of The Native)",
-      "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 303000,
       "name": "Bass Strings",
       "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Fever Tree",
+        "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
+      },
+      "artists": [
+        {
+          "name": "Fever Tree",
+          "url": "https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "San Francisco Girls (Return Of The Native)",
+      "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
     },
     {
       "added_at": "2023-01-18 16:20:47",

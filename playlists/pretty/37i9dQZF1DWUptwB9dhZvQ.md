@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,092 likes - 82 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,118 likes - 82 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 32 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 |
 | 33 | [Con Man Theme](https://open.spotify.com/track/1zaBUwtk0sHWTRf1Xw9O4N) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5v13LEH1063XjCLELeUqdC) | 2:23 |
 | 34 | [The Fall of Pandya](https://open.spotify.com/track/1VtExYv1dUAAZM2uIX1IYE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Ilango Krishnan](https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 1:51 |
-| 35 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 |
+| 35 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/26yOMBYGKZUzYMAfslSjaE) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Uq2YDSGPR3Lb7dw8te7Qm) | 1:10 |
 | 36 | [Engagement Theme](https://open.spotify.com/track/0qvIE86cWV2yft3kqhgHEz) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Custody \(Original Background Score\)](https://open.spotify.com/album/5e9eBInfxA0pbT6A78rJv0) | 1:13 |
-| 37 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/26yOMBYGKZUzYMAfslSjaE) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Uq2YDSGPR3Lb7dw8te7Qm) | 1:10 |
+| 37 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 |
 | 38 | [Market Chase](https://open.spotify.com/track/6aDJpjOrTmAkN7crqY6eBg) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 2:34 |
 | 39 | [Alappara Theme \- Instrumental](https://open.spotify.com/track/4ui3hCbu9ERDqVMENogH3e) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:17 |
 | 40 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 81 | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 |
 | 82 | [Manmadhan Theme Music](https://open.spotify.com/track/4ObpDubU06zaWluKR7lCls) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Y7FfRUWBEKImjc2T6NjzO) | 1:23 |
 
-Snapshot ID: `MCw5ZDRkYzM5M2VhZTMyYTk1Nzk3NGM0OTgzOGFiNTA3MDU3NGJiYjlj`
+Snapshot ID: `MCwyMzk2MGJlYzZmYjdjNjcyMzgyZmE2ZjJlMTQ4ZGMzNTlmMDM0ZWJi`

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 33162,
+  "num_followers": 33193,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWY4OTlmY2M3YzBhNTQwNzRhZmE5MDAyYjU1OWRjMTM1NWFhNzYy",
+  "snapshot_id": "MCxhMTgyMjkzZDg1NDZiYzJiODBjZmU1YmMzYjRlNmY0MDkwZmUxZWU5",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
+      },
+      "artists": [
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        },
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "duration_ms": 189672,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 224322,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0Bg7QNJQrlWzyXIKuOoV3h"
-      },
-      "artists": [
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
-        }
-      ],
-      "duration_ms": 189672,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/72Ri6rmuWUuf10a3Vg6v2X"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Sublime Tech House, Vol. 20",
         "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1347,6 +1347,22 @@
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1387,26 +1403,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Stutter EP",
-        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Disco Trip EP",
         "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
       },
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Single Kiss",
-        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
+        "name": "Stutter EP",
+        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
       "artists": [
         {
-          "name": "Salom\u00e9 Le Chat",
-          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Single Kiss",
-      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
+      "duration_ms": 233333,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+        "name": "Single Kiss",
+        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
       },
       "artists": [
         {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+          "name": "Salom\u00e9 Le Chat",
+          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
         }
       ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
+      "duration_ms": 232000,
+      "name": "Single Kiss",
+      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1503,6 +1503,22 @@
       "duration_ms": 335269,
       "name": "Step Forward",
       "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+      },
+      "artists": [
+        {
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "World Is Empty",
         "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Broke Man",
-        "url": "https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
       "artists": [
         {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
         }
       ],
-      "duration_ms": 342717,
-      "name": "Broke Man",
-      "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1607,6 +1607,22 @@
       "duration_ms": 189473,
       "name": "0121 Do One",
       "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Broke Man",
+        "url": "https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "duration_ms": 342717,
+      "name": "Broke Man",
+      "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
       },
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2024-02-23 05:00:00",

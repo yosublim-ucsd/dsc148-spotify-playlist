@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: lullaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,465 likes - 86 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,469 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 85 | [it's better..?](https://open.spotify.com/track/6cqT6ViBsBdNeuu0T2a1NQ) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [it's better..?](https://open.spotify.com/album/2ZiYpPxsxgdYqmSyhAwMkE) | 2:31 |
 | 86 | [last time to say good bye](https://open.spotify.com/track/4KPwXRoWPiNBmPGxhPw22l) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn), [Peach Panicha](https://open.spotify.com/artist/4TD4e5RXY48KUakKXpRTSF) | [last time to say good bye](https://open.spotify.com/album/0gBAtFOsF4cDCK9S653eXT) | 3:34 |
 
-Snapshot ID: `MCwwNWFmNTM5Mjc1YmE5NTc5MzI4YWQzMzFiM2RhZTEwZDg2N2QwMzNm`
+Snapshot ID: `MTcwODYxNzYwMCwwMDAwMDAwMDA5NGRlMTI1ODcxMjA5NGIwNmU5NjNlMGIxYzAwZjBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,896 likes - 77 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,932 likes - 77 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 76 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 77 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 |
 
-Snapshot ID: `MCxkNWQ3OGRiNTNkNGZkNGVmOTMwYzE0MzdmOTE2MWE5ZDI2YmJjOWI4`
+Snapshot ID: `MCxlMWI2MjNmNjg0MzRhYzUxZWY3ZGRjNGRiMDAzMGUxODkzYmZkZjE3`

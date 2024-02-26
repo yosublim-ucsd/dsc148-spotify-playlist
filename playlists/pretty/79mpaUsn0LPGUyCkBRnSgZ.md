@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 455 songs - 1 day 5 hr 18 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 456 songs - 1 day 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -463,5 +463,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 453 | [Turnover](https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Repeater + 3 Songs](https://open.spotify.com/album/6JbGZGta38AArBgflt024C) | 4:15 |
 | 454 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 |
 | 455 | [Only When I](https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:51 |
+| 456 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 |
 
-Snapshot ID: `MTM4OCw0OTc1NTFhMjRjMzg5MGZmMTA4ZDk0NWY3MDlhYWExYjY1NDViYmE3`
+Snapshot ID: `MTM4OSxiNWI1NGJlMGE0ZTU3MGMyMDJjZTg1NjI1ZmYzOTM4NTliMzc5YzZh`

@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 59154,
+  "2024-02-26": 59158,
   "date_first_scraped": "2022-02-06",
   "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
   "name": "RADAR Global ",
@@ -1909,10 +1909,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 258560,
       "name": "Beautiful Everything",
       "url": "https://open.spotify.com/track/73RorSjAZnRkFzUWYFx4yg"
+    },
+    {
+      "album": {
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258560,
+      "name": "Beautiful Everything",
+      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
     },
     {
       "album": {

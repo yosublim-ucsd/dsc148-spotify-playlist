@@ -1,12 +1,12 @@
 {
   "description": "saturation, distortion, feedBack. ft. bixby",
-  "num_followers": 36086,
+  "num_followers": 36108,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDYyMjM3NjZmNzA0NzM2MmMwMzA2MDNkYzUxODMxNWI3MWNhMTky",
+  "snapshot_id": "MCw1NjFmY2E4Zjk5ZWM1ZmQwYTc1NDE5Y2Y0YjVhNmJhY2E1ODI3NTAx",
   "tracks": [
     {
       "added_at": "2024-02-14 20:46:47",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/7qJKkYuJJ5xcLxq9rqNDlJ"
+      },
+      "artists": [
+        {
+          "name": "Zayuh",
+          "url": "https://open.spotify.com/artist/1AOUCMkVCOAcW0tbUXwDQB"
+        }
+      ],
+      "duration_ms": 84480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7KbzSmMnizGMv73yXiqZyz"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "all out of love",
         "url": "https://open.spotify.com/album/4xldIoQMfWknQAEq3P2ORa"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 143272,
       "name": "crying at the Orgy",
       "url": "https://open.spotify.com/track/67k9cC6UadKPmToT2OZm1D"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/7qJKkYuJJ5xcLxq9rqNDlJ"
-      },
-      "artists": [
-        {
-          "name": "Zayuh",
-          "url": "https://open.spotify.com/artist/1AOUCMkVCOAcW0tbUXwDQB"
-        }
-      ],
-      "duration_ms": 84480,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7KbzSmMnizGMv73yXiqZyz"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "falling in love",
-        "url": "https://open.spotify.com/album/46WOsjiOXOsTY4EW7zWLxI"
-      },
-      "artists": [
-        {
-          "name": "juno",
-          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
-        }
-      ],
-      "duration_ms": 200149,
-      "name": "falling in love",
-      "url": "https://open.spotify.com/track/4PUaMFi7oEiOeOu55JasTY"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "Started With",
         "url": "https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 125647,
       "name": "Started With",
       "url": "https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "falling in love",
+        "url": "https://open.spotify.com/album/46WOsjiOXOsTY4EW7zWLxI"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        }
+      ],
+      "duration_ms": 200149,
+      "name": "falling in love",
+      "url": "https://open.spotify.com/track/4PUaMFi7oEiOeOu55JasTY"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "miami",
-        "url": "https://open.spotify.com/album/3gY2ykqoZaGvj1RJiH1UiB"
-      },
-      "artists": [
-        {
-          "name": "Koi",
-          "url": "https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk"
-        }
-      ],
-      "duration_ms": 160495,
-      "name": "miami",
-      "url": "https://open.spotify.com/track/3dKdZudgHv3s6DUtbvf7R6"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "pretty girls",
         "url": "https://open.spotify.com/album/71HSjUSrkwWSrQRQJswmyI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180451,
       "name": "pretty girls",
       "url": "https://open.spotify.com/track/1nikStujV5DDL1gX7lYMzt"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "miami",
+        "url": "https://open.spotify.com/album/3gY2ykqoZaGvj1RJiH1UiB"
+      },
+      "artists": [
+        {
+          "name": "Koi",
+          "url": "https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk"
+        }
+      ],
+      "duration_ms": 160495,
+      "name": "miami",
+      "url": "https://open.spotify.com/track/3dKdZudgHv3s6DUtbvf7R6"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -907,34 +907,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "for the hell of it",
-        "url": "https://open.spotify.com/album/5tuRJA0jYlArO69f7lhCCK"
+        "name": "bounty",
+        "url": "https://open.spotify.com/album/0VHaKFRIkracVMCyzw8y7E"
       },
       "artists": [
         {
-          "name": "Zac Greer",
-          "url": "https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz"
+          "name": "Jay Kim",
+          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
         }
       ],
-      "duration_ms": 117299,
-      "name": "loser",
-      "url": "https://open.spotify.com/track/07FL8cDV9O80vETGlPbTrn"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "teeth",
-        "url": "https://open.spotify.com/album/6rPaZlzhLAO2z3NwGtIL1b"
-      },
-      "artists": [
-        {
-          "name": "juno",
-          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
-        }
-      ],
-      "duration_ms": 144448,
-      "name": "my fault",
-      "url": "https://open.spotify.com/track/2yHDIMVsumkPPNLo3omJKk"
+      "duration_ms": 172500,
+      "name": "bounty",
+      "url": "https://open.spotify.com/track/76nPwPy3z57UlFiLTWUKS7"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "bounty",
-        "url": "https://open.spotify.com/album/0VHaKFRIkracVMCyzw8y7E"
+        "name": "for the hell of it",
+        "url": "https://open.spotify.com/album/5tuRJA0jYlArO69f7lhCCK"
       },
       "artists": [
         {
-          "name": "Jay Kim",
-          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
+          "name": "Zac Greer",
+          "url": "https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz"
         }
       ],
-      "duration_ms": 172500,
-      "name": "bounty",
-      "url": "https://open.spotify.com/track/76nPwPy3z57UlFiLTWUKS7"
+      "duration_ms": 117299,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/07FL8cDV9O80vETGlPbTrn"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -983,6 +967,22 @@
       "duration_ms": 114342,
       "name": "YOU & I",
       "url": "https://open.spotify.com/track/6lQOT2gQrFPGvhydbi4Lkw"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "teeth",
+        "url": "https://open.spotify.com/album/6rPaZlzhLAO2z3NwGtIL1b"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        }
+      ],
+      "duration_ms": 144448,
+      "name": "my fault",
+      "url": "https://open.spotify.com/track/2yHDIMVsumkPPNLo3omJKk"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "ROCK 'N' RAVE",
-        "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 146195,
-      "name": "DECAY",
-      "url": "https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "wither away",
         "url": "https://open.spotify.com/album/3BDB0JyZKOysFtzDQvIjHu"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 168018,
       "name": "wither away",
       "url": "https://open.spotify.com/track/5Wh3fHoeTzzUxXvhqVs6Kk"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "ROCK 'N' RAVE",
+        "url": "https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 146195,
+      "name": "DECAY",
+      "url": "https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "STARCROSSED",
+        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "duration_ms": 172256,
+      "name": "STARCROSSED",
+      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "FlySolo",
         "url": "https://open.spotify.com/album/1fPetlgE9MxlziP9R7J1G7"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "A PROPHECY",
-        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 148303,
-      "name": "BUTTERFLY \ub098\ube44",
-      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "as long as i'm by your side",
         "url": "https://open.spotify.com/album/0TXtUdpJzaovSnMfADYPE1"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "STARCROSSED",
-        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
-      },
-      "artists": [
-        {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
-        }
-      ],
-      "duration_ms": 172256,
-      "name": "STARCROSSED",
-      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "castle in the woods song",
         "url": "https://open.spotify.com/album/6FCltUoh0A8nBBSlEibOkl"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 121318,
       "name": "castle in the woods song",
       "url": "https://open.spotify.com/track/1EBHLTCDBFwuHVhrtq6H1z"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "A PROPHECY",
+        "url": "https://open.spotify.com/album/697xj44bX9XhpDsx2poKKg"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 148303,
+      "name": "BUTTERFLY \ub098\ube44",
+      "url": "https://open.spotify.com/track/4AT6shMJB9sHmw7hJJ0PI1"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "VIDEO GAME",
-        "url": "https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb"
+        "name": "people are the enemy",
+        "url": "https://open.spotify.com/album/3XnkMXav9Tp4SJspgw3zD9"
       },
       "artists": [
         {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
         }
       ],
-      "duration_ms": 128720,
-      "name": "VIDEO GAME",
-      "url": "https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5"
+      "duration_ms": 129600,
+      "name": "people are the enemy",
+      "url": "https://open.spotify.com/track/5MBp4svXIK3qHw9xMM9ZRp"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "try",
-        "url": "https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 128168,
-      "name": "try",
-      "url": "https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "people are the enemy",
-        "url": "https://open.spotify.com/album/3XnkMXav9Tp4SJspgw3zD9"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "people are the enemy",
-      "url": "https://open.spotify.com/track/5MBp4svXIK3qHw9xMM9ZRp"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "spit",
         "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
       },
@@ -1487,6 +1455,38 @@
       "duration_ms": 139800,
       "name": "spit",
       "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "VIDEO GAME",
+        "url": "https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 128720,
+      "name": "VIDEO GAME",
+      "url": "https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "try",
+        "url": "https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 128168,
+      "name": "try",
+      "url": "https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "get it together !",
+        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "get it together !",
+      "url": "https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/0L1GatITCRcqZThNREgTQW"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 118309,
       "name": "why????? (all my angels cry)",
       "url": "https://open.spotify.com/track/6NoAkMdjhzRlruHG38LHm5"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "get it together !",
-        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "get it together !",
-      "url": "https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm"
     },
     {
       "added_at": "2024-02-13 14:25:05",

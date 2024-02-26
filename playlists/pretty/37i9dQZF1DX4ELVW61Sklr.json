@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 188610,
+  "num_followers": 188600,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2I4YmNmNmQ2YjQ5MDU3MjczZjdmMzQ3MDdiN2ZiNTAxMjI1OTI3",
+  "snapshot_id": "MCxhYTY3MWQ4Y2VlZGRmNjljYjNmNzI4Nzc0MGI4YjliYzUzZGU5ZDUx",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -245,20 +245,24 @@
       "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
     },
     {
-      "added_at": "2023-11-03 05:45:27",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX"
+        "name": "A Different Christmas",
+        "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 152205,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC"
+      "duration_ms": 160981,
+      "name": "presents (feat. Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -285,24 +289,20 @@
       "url": "https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2023-11-03 05:45:27",
       "album": {
-        "name": "A Different Christmas",
-        "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 160981,
-      "name": "presents (feat. Kiana Led\u00e9)",
-      "url": "https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA"
+      "duration_ms": 152205,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -683,6 +683,30 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
+      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -735,30 +759,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
-      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "A Mary Christmas",
         "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 188889,
       "name": "Litmas",
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 202007,
+      "name": "Just Ain't Christmas",
+      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
       "added_at": "2023-11-03 05:45:27",
@@ -827,22 +843,6 @@
       "duration_ms": 251040,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Another Kind Of Christmas",
-        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 202007,
-      "name": "Just Ain't Christmas",
-      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Let It Snow (with dvsn)",
+      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Spend Christmas With You",
@@ -1207,26 +1227,6 @@
       "duration_ms": 249760,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Let It Snow (with dvsn)",
-      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
     },
     {
       "added_at": "2021-12-15 17:30:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/lakeithstanfield3/">LaKeith Stanfield</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,036 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,112 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 59 | [Uncatena](https://open.spotify.com/track/7vITd7ck8l9Ww62BWpIhTY) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:15 |
 | 60 | [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/5ohsTkUXwgGfR1t9YEaM7W) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 6:37 |
 
-Snapshot ID: `MCwxMWQxM2M2ZDA2MWYyNjM1YzVhM2RhMmIwMjA5YmE5MGU0MWU4ZWUz`
+Snapshot ID: `MCxlMmM2OTdhMWZjN2Q4NGI2MTIxNjYyM2JmNDFmNjVjMWYwYzkzYWQx`

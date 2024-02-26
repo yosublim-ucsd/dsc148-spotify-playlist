@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,014 likes - 52 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,092 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 51 | [2023 World Championship Theme](https://open.spotify.com/track/7s9QiG7yUXpr9qNPUlZH3r) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2023 World Championship Theme](https://open.spotify.com/album/41OWf02MFdHDPMP8439pWP) | 2:59 |
 | 52 | [Smolder, the Fiery Fledgling](https://open.spotify.com/track/1Fbm1bxQ0sXamkpjiXMClp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Smolder, the Fiery Fledgling](https://open.spotify.com/album/2qebqrLs9esVTMWZRsztPj) | 3:40 |
 
-Snapshot ID: `Mjg0Nzk2MjgsMDAwMDAwMDA0MzQ2ZjdhMzZjMzY3NjM4OWQxYjdkYjVmZWFlNmMyYQ==`
+Snapshot ID: `Mjg0ODEwNDAsMDAwMDAwMDBkNDY3M2NjNjc5MWU1OTNjMDZkMGEyNzM0YTEwM2ZiMA==`

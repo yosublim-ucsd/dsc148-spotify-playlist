@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 154261,
+  "num_followers": 154291,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmUzYmYwZmJhNWJkYjk3NGMwNzc2MmE4Nzg2NjY5MDJkMzEwODY1",
+  "snapshot_id": "MCwzZWRmMGI5MmEwZmNjZWU5NDY1MDMxYmEzOTVmOWE2ZjNkYmEzYzBk",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -239,18 +239,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "You're Only Lonely",
-        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
+        "name": "Almost Blue",
+        "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
       },
       "artists": [
         {
-          "name": "JD Souther",
-          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
         }
       ],
-      "duration_ms": 228000,
-      "name": "You're Only Lonely",
-      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
+      "duration_ms": 188920,
+      "name": "Good Year For The Roses",
+      "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Almost Blue",
-        "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
+        "name": "You're Only Lonely",
+        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "JD Souther",
+          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
         }
       ],
-      "duration_ms": 188920,
-      "name": "Good Year For The Roses",
-      "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
+      "duration_ms": 228000,
+      "name": "You're Only Lonely",
+      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
     },
     {
       "added_at": "2022-06-01 14:18:36",

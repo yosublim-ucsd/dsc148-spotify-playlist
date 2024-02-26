@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 832335,
+  "num_followers": 832374,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU4ZDMxNDBjNDE4NmUwOTg4NzgxZjA2OWUzNjI2MzMxNmVlZDE0",
+  "snapshot_id": "MCwxY2RjYzAxY2Y5Mzc4Yjc1ZDM5YWQzYjRlYmE3ZTYzMWM0NTE4MGMy",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
+        "name": "Comfort Chain",
+        "url": "https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Comfort Chain",
+      "url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
         "name": "Songs & Demos 2015-2017",
         "url": "https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 212307,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
-        "name": "Comfort Chain",
-        "url": "https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
-      "url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW"
     }
   ],
   "unique_name": "aesthetic",

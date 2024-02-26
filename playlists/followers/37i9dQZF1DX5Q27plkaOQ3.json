@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 982553,
+  "2024-02-26": 982627,
   "date_first_scraped": "2021-12-21",
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Marshmello",
   "name": "Dubstep Don",
@@ -1091,6 +1091,28 @@
       "duration_ms": 291635,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU"
+    },
+    {
+      "album": {
+        "name": "Big Boss (Zomboy Remix)",
+        "url": "https://open.spotify.com/album/3DX9xoviUg09WYAVb88dIL"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Big Boss - Zomboy Remix",
+      "url": "https://open.spotify.com/track/22HbOaQNUoOQ9jQ5TRpvkD"
     },
     {
       "album": {
@@ -10047,7 +10069,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 169600,
       "name": "Supercharged",
       "url": "https://open.spotify.com/track/2ccd5DFVTdoUOXGmChrM9j"

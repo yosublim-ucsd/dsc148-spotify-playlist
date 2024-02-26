@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Alpha Wolf + ICE\-T
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,087 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,244 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 | 100 | [VIOLENT JOY](https://open.spotify.com/track/4WsMqcjOJFnRggNYBUINQl) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [Violent Joy](https://open.spotify.com/album/55Kv93b3BrRFBzwADP6Xo7) | 3:01 |
 
-Snapshot ID: `MCw4MTRhNGRhZDcwYjg1YTkzYThlZGNkYWM5ZTdlYjZkODVhYzFiNDRi`
+Snapshot ID: `MCw0YmFhZjAzNGYzZmE2YzA4YTM4OTk2MThlZTM3MGFjMjliY2ZiZmE5`

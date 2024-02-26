@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,897 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,896 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 9 | [Christmas](https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:12 |
 | 10 | [Lonesome Christmas](https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 3:04 |
 | 11 | [Christmas Boogie \(One Little Kiss\)](https://open.spotify.com/track/78YBLISfvGcnRlMQQpdR6L) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Rockin' Christmas Blues](https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT) | 6:54 |
-| 12 | [Blues For Christmas](https://open.spotify.com/track/3bldbpvqL5jC4BqxgMOTrD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Complete '50s Chess Recordings](https://open.spotify.com/album/6ZytgjeBLBmOmxt8OyhMk0) | 3:19 |
-| 13 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
+| 12 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
+| 13 | [Blues For Christmas](https://open.spotify.com/track/3bldbpvqL5jC4BqxgMOTrD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Complete '50s Chess Recordings](https://open.spotify.com/album/6ZytgjeBLBmOmxt8OyhMk0) | 3:19 |
 | 14 | [Merry Christmas Baby \- New Orleans Version](https://open.spotify.com/track/3ps6Pv734JDeN2iZG54EDe) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Merry Christmas Baby \(New Orleans Version\)](https://open.spotify.com/album/2xnAx374BbuXmXUt0OvODM) | 3:23 |
 | 15 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:37 |
 | 16 | [Merry, Merry Christmas](https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:28 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 26 | [Baby, It's Cold Outside](https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Baby, It's Cold Outside](https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4) | 4:31 |
 | 27 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
 | 28 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
-| 29 | [Zydeco Christmas](https://open.spotify.com/track/7gasD9T7DdXyjyotYJJ4vJ) | [C\. J\. Chenier & the Red Hot Louisiana Band](https://open.spotify.com/artist/2dNbwxgYSvdnMGWsYHJ38j) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:25 |
-| 30 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 29 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 30 | [Zydeco Christmas](https://open.spotify.com/track/7gasD9T7DdXyjyotYJJ4vJ) | [C\. J\. Chenier & the Red Hot Louisiana Band](https://open.spotify.com/artist/2dNbwxgYSvdnMGWsYHJ38j) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:25 |
 | 31 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
 | 32 | [Santa Claus Wants Some Lovin'](https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 3:23 |
 | 33 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/4mq2MC2DC09gWikiZ0NX8J) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 | 80 | [Christmas Morning Blues](https://open.spotify.com/track/7iRsHtzLvEtBlfYLN5BCL1) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/5MlssT9XEHTMve8ztzOAyF) | 3:25 |
 
-Snapshot ID: `MCxlZGU0MmU1ZWE3NGJmYWM0Y2RmZWZiNDAyYjg1NDBmNGMzNGNlMGM4`
+Snapshot ID: `MCxmYWQ4Y2QxNzAyOGQ2MDdkNzQ2MjBlZmNiNDhlZmVmNjE0NTQxMTVk`

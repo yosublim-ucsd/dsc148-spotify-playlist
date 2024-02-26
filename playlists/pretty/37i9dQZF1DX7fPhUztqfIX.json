@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 121318,
+  "num_followers": 121383,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
+  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Another In The Fire (Studio)",
         "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
       },
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Holy (Song Of The Ages) [Live]",
-        "url": "https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
-        }
-      ],
-      "duration_ms": 381995,
-      "name": "Holy (Song Of The Ages) - Live",
-      "url": "https://open.spotify.com/track/48AddYWpZJG2ON0wA1Uae2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Goodness of God - EP",
         "url": "https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 258250,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Holy (Song Of The Ages) [Live]",
+        "url": "https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "duration_ms": 381995,
+      "name": "Holy (Song Of The Ages) - Live",
+      "url": "https://open.spotify.com/track/48AddYWpZJG2ON0wA1Uae2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "There\u2019s Nothing That Our God Can\u2019t Do (Radio Version)",
-        "url": "https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 253706,
-      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Radio Version",
-      "url": "https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Exalt (Worship Version)",
         "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 292840,
       "name": "Come Holy Spirit - Worship Version",
       "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "There\u2019s Nothing That Our God Can\u2019t Do (Radio Version)",
+        "url": "https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 253706,
+      "name": "There\u2019s Nothing That Our God Can\u2019t Do - Radio Version",
+      "url": "https://open.spotify.com/track/3sTH5twYNUS1twuAQUZtL1"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 242606,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1911,22 +1927,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/35uMWw91HLD6OCBwCJSEv9"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 242606,
-      "name": "Reputation",
-      "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Here Comes This Dreamer (Live)",
         "url": "https://open.spotify.com/album/5qIgXZGm3ED0bstbSg37Ig"
       },
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "King Jesus",
+        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 414698,
+      "name": "King Jesus - Live",
+      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Stand Amazed",
         "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 268500,
       "name": "I Stand Amazed",
       "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "King Jesus",
-        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 414698,
-      "name": "King Jesus - Live",
-      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Find a Reason",
-        "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Desi Raines",
-          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
-        }
-      ],
-      "duration_ms": 254310,
-      "name": "Praise Your Name (feat. Desi Raines)",
-      "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Find a Reason",
+        "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Desi Raines",
+          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
+        }
+      ],
+      "duration_ms": 254310,
+      "name": "Praise Your Name (feat. Desi Raines)",
+      "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Your Name (Live)",
-        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 385294,
-      "name": "Your Name - Live",
-      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Lord You Have My Heart (feat. Martin Smith)",
         "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
       },
@@ -2355,18 +2339,42 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
+        "name": "Your Name (Live)",
+        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
         }
       ],
-      "duration_ms": 285690,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
+      "duration_ms": 385294,
+      "name": "Your Name - Live",
+      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
+        "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "duration_ms": 409909,
+      "name": "The Blessing (feat. Maranda Curtis) - Song Session",
+      "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
     }
   ],
   "unique_name": "New & Bold",

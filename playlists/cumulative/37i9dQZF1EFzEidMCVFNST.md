@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-348 songs - 16 hr 32 min
+349 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Bate Palminha pra Ela](https://open.spotify.com/track/1HWXovIGDnctwV4CqHF3nV) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [GD Trilogia](https://open.spotify.com/album/3K9vzIZ8MJpkgYvH3jMWTH) | 3:03 | 2024-01-29 |  |
 | [Beba Mais](https://open.spotify.com/track/6rR6G2Jczsf9ldmewLhIRe) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beba Mais](https://open.spotify.com/album/27rNQ2moFYiYsdIMeIACUJ) | 2:55 | 2024-01-29 |  |
 | [Beijadamente Calculado \- Ao Vivo](https://open.spotify.com/track/3CnSYOH099qNCbPI68itcZ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB) | 2:28 | 2024-01-29 |  |
-| [Beijo Copiado](https://open.spotify.com/track/30u65Sc9NT96nZu6sURWsa) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Beijo Copiado](https://open.spotify.com/album/5dePgI40qsgDa83TUSgKzf) | 2:38 | 2024-01-29 |  |
+| [Beijo Copiado](https://open.spotify.com/track/30u65Sc9NT96nZu6sURWsa) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Beijo Copiado](https://open.spotify.com/album/5dePgI40qsgDa83TUSgKzf) | 2:38 | 2024-01-29 | 2024-02-26 |
+| [Beijo Copiado \(Ao Vivo\)](https://open.spotify.com/track/36blJmFwv2kgydOpsmbLL4) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:38 | 2024-02-25 |  |
 | [Beijão](https://open.spotify.com/track/4edZCJCx5PLEqpKMrxNesS) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Emocionadin da Vida](https://open.spotify.com/album/6fFHUxOeBbOH9xY7QnjFlr) | 2:34 | 2024-01-29 |  |
 | [Bichaozão](https://open.spotify.com/track/7hJ7ZSgct4oEkkeAJ7EEyr) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Gleydson Gavião](https://open.spotify.com/artist/2eSyfNgqkRpB4Ggu55P1Gg) | [Desliga o 4G \(DELUXE\)](https://open.spotify.com/album/67nUaaRzsfSkAx1Zqimf6Z) | 2:07 | 2024-01-29 |  |
 | [Blefei](https://open.spotify.com/track/38TGD4IpNmnoIBtpBC4ckC) | [Felipe Ferraz](https://open.spotify.com/artist/3CCNkfSibkHmOHUN4ikMAI) | [Felipe Ferraz, Nova Face \(EP 1\)](https://open.spotify.com/album/5sbb0EGSmj3YB9OfwNCZBM) | 2:58 | 2024-01-29 |  |

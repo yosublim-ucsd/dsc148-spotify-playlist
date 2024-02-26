@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-836 songs - 1 day 19 hr 47 min
+837 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Dominique](https://open.spotify.com/track/2YMaQIN48lOHPJ8LxjsvLq) | [The Singing Nuns](https://open.spotify.com/artist/4Z54MVNM1aoWmQSXIyFqmO) | [Sounds of Joyful Music](https://open.spotify.com/album/0WeaqQtMz3cdSUE8p54poO) | 2:47 | 2019-07-18 | 2019-07-29 |
 | [Don't Break The Heart That Loves You](https://open.spotify.com/track/56dvZpE8MJapo0nGj8vxaD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 3:02 | 2019-07-21 | 2020-08-15 |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/0V1hBXTdYOWv3N2FVzG3OM) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [A's B's & EP's](https://open.spotify.com/album/5PPJARZ9TyE48ABZFD8Eua) | 2:25 | 2019-07-17 | 2021-05-20 |
+| [Don't Let Me Be Misunderstood](https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animal Tracks](https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby) | 2:29 | 2022-08-12 |  |
 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 | 2019-05-26\* |  |
 | [Down On The Corner](https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:46 | 2019-06-09 |  |
 | [Down On The Corner](https://open.spotify.com/track/4YMLW13PuuO7o3jkIWlKAs) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(40th Anniversary Edition\)](https://open.spotify.com/album/4ePaYyKlg5pmQFkLu7TwV7) | 2:46 | 2020-08-27 | 2022-07-02 |
@@ -543,7 +544,7 @@
 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 | 2019-07-16 |  |
 | [Ramblin' Gamblin' Man](https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ramblin' Gamblin' Man](https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE) | 2:25 | 2020-08-15 | 2023-11-25 |
 | [Rawhide \- Single Version](https://open.spotify.com/track/7K9j1l8gM2yBRfPwAb7gxi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Whistle Bait: 25 Rockabilly Rave\-Ups](https://open.spotify.com/album/4vlbGggiywlr01bTF1GrFG) | 2:05 | 2019-07-16 | 2019-07-28 |
-| [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2022-08-12 |  |
+| [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2022-08-12 | 2024-02-26 |
 | [Reach Out, I'll Be There](https://open.spotify.com/track/3zA42VIIrkVc2OkgUENTa5) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Gold \(International Version\)](https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx) | 2:54 | 2019-05-26\* | 2022-07-28 |
 | [Ready or Not Here I Come \(Can't Hide from Love\)](https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:59 | 2019-07-24 | 2019-08-08 |
 | [Red Rubber Ball](https://open.spotify.com/track/213YUBpRZdZGCrtb2dcbzi) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [Red Rubber Ball](https://open.spotify.com/album/1zRCoUPL0gauLKMfYKfqio) | 2:19 | 2019-07-27 | 2020-08-15 |

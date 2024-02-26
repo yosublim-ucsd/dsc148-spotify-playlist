@@ -1,12 +1,12 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 71920,
+  "num_followers": 71969,
   "original_name": "los pasos prohibidos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGFmOWFlYjEyZWJlMDFjMzgwMzVkMjM2NjA4NDY0MzczNDM3Nzhl",
+  "snapshot_id": "MCxhZDg1MzY2YTBkOGU2MzkwMDg2OGUzYmRhYzhkZGIxMGMxMzEzZTQ0",
   "tracks": [
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1011,34 +1011,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Hoy Volvi a Verte (Remix)",
-        "url": "https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Hoy Volvi a Verte - Remix",
-      "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -1071,6 +1043,34 @@
       "duration_ms": 281861,
       "name": "Te Vas Con El O Te Vas Conmigo",
       "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Hoy Volvi a Verte (Remix)",
+        "url": "https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Hoy Volvi a Verte - Remix",
+      "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
-      },
-      "artists": [
-        {
-          "name": "Nery Pedraza",
-          "url": "https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0"
-        },
-        {
-          "name": "Los Guraperos de la Cumbia",
-          "url": "https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs"
-        }
-      ],
-      "duration_ms": 352480,
-      "name": "El Reo Ausente",
-      "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
       },
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
+      },
+      "artists": [
+        {
+          "name": "Nery Pedraza",
+          "url": "https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0"
+        },
+        {
+          "name": "Los Guraperos de la Cumbia",
+          "url": "https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs"
+        }
+      ],
+      "duration_ms": 352480,
+      "name": "El Reo Ausente",
+      "url": "https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
         "name": "Merengues Con Gusto",
         "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 291324,
       "name": "Moviendo Las Caderas",
       "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Exitos Sonideros, Vol. 2",
+        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
+      },
+      "artists": [
+        {
+          "name": "Sonideros de MEX USA",
+          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+        }
+      ],
+      "duration_ms": 196637,
+      "name": "Cumbia Yemaya",
+      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Exitos Sonideros, Vol. 2",
-        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
       "artists": [
         {
-          "name": "Sonideros de MEX USA",
-          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 196637,
-      "name": "Cumbia Yemaya",
-      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1231,22 +1247,6 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2023-08-14 15:48:07",

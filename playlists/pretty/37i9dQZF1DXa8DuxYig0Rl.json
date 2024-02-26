@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 1245,
+  "num_followers": 1129,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTQwNDQ2YjE1M2EzMmJiYWYwYWMwZTUzM2ExMGY1NDYyMThmNzZk",
+  "snapshot_id": "MCw2YzI0N2EyODI4ZTcyOWQzYmU2ODhkZmM4ODgxMmQ4MDM4NGRiYzM3",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
       },
       "artists": [
         {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
         }
       ],
-      "duration_ms": 182720,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -347,6 +331,22 @@
       "duration_ms": 167933,
       "name": "Necesito Que Regreses",
       "url": "https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 Exitos \"Danzones\"",
-        "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
       "artists": [
         {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 203786,
-      "name": "Rigoletito",
-      "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
+      "duration_ms": 173933,
+      "name": "Bonito y Sabroso",
+      "url": "https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+        "name": "15 Exitos \"Danzones\"",
+        "url": "https://open.spotify.com/album/3IGN80pC3sPnYgsKq4sVga"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Bonito y Sabroso",
-      "url": "https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV"
+      "duration_ms": 203786,
+      "name": "Rigoletito",
+      "url": "https://open.spotify.com/track/4L69BoE55Rl105sozTJNfK"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Danzones a la Mexicana",
-        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
       "artists": [
         {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 152006,
-      "name": "Sal\u00f3n M\u00e9xico",
-      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
+      "duration_ms": 191733,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
       },
       "artists": [
         {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
+      "duration_ms": 152006,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Algo Nuevo en Danzon",
-        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 222197,
-      "name": "Campanario",
-      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "El Pasado",
         "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 170319,
       "name": "El Restaurantito",
       "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Algo Nuevo en Danzon",
+        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+        }
+      ],
+      "duration_ms": 222197,
+      "name": "Campanario",
+      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
-        }
-      ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
         }
       ],
-      "duration_ms": 186720,
-      "name": "La Cocaleca",
-      "url": "https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm"
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1307,6 +1291,22 @@
       "duration_ms": 217813,
       "name": "Aguita de Coco",
       "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "La Cocaleca",
+      "url": "https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Jesusita en Chihuahua",
-      "url": "https://open.spotify.com/track/4N0JmfzmvTef5umsXnRNfA"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Pachito E\u00b4che",
         "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 188290,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Jesusita en Chihuahua",
+      "url": "https://open.spotify.com/track/4N0JmfzmvTef5umsXnRNfA"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Botecito de Vela",
-      "url": "https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 147840,
       "name": "Mambo Universitario",
       "url": "https://open.spotify.com/track/32xH84FLeD1lEuePV242FO"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Botecito de Vela",
+      "url": "https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw"
     }
   ],
   "unique_name": "Aguas Frescas",

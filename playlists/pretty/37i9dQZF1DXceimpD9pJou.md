@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a> y <a href="spotify:artist:0oaW8w858ZIyAnhDIskEqw">Barajas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,383 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,420 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Fiel](https://open.spotify.com/track/4fEg8Xc1eDR0p4wRjZs6r4) | [Juan Carlos Rosa](https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO), [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Fiel](https://open.spotify.com/album/0lZLINWF9DbplVpvkW23Gj) | 5:46 |
 | 100 | [Permanecer](https://open.spotify.com/track/3HojFX8N0oTUjOCCrXBGnx) | [FC Music](https://open.spotify.com/artist/60bQ6WSUb51AY6uCIBdG7m) | [Permanecer](https://open.spotify.com/album/39WxL5m5yumx21H4f3Hd2r) | 5:19 |
 
-Snapshot ID: `MCxjMTJhMTRiZDM0NTJkM2RjNGI2NTlkMzc5ZTAyNzJlOGNhNmYwODYz`
+Snapshot ID: `MCwxZDRjYzljMzg5ODQ0ODA5OTUzYTUxZDA0NzFlM2I4NDE2NWU4MGFh`

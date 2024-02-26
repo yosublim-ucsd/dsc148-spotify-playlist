@@ -1,5 +1,5 @@
 {
-  "2024-02-25": 1017709,
+  "2024-02-26": 1017744,
   "date_first_scraped": "2021-12-21",
   "description": "The chillest instrumental lofi beats, certified lush.",
   "name": "lush lofi",
@@ -3283,6 +3283,24 @@
       "duration_ms": 136000,
       "name": "Cloudy Haze",
       "url": "https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh"
+    },
+    {
+      "album": {
+        "name": "coconut",
+        "url": "https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd"
+      },
+      "artists": [
+        {
+          "name": "Ali Kaj",
+          "url": "https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170730,
+      "name": "coconut",
+      "url": "https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu"
     },
     {
       "album": {
@@ -11607,7 +11625,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 160714,
       "name": "Meetings",
       "url": "https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA"
