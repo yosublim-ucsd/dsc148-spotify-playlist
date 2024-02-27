@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,512 likes - 175 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,557 likes - 175 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 |
 | 175 | [Pleasure delayer](https://open.spotify.com/track/5BKL1Q0k2rJLywgjpjTFhv) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Pleasure delayer](https://open.spotify.com/album/0QRfOnmGwaspN4mOLShbG6) | 2:24 |
 
-Snapshot ID: `MCwyZDA0OTUxOGY5ZjUzNDA5ZmE3YjgyZmU5MTNjODU2NTJmN2I1ZGM1`
+Snapshot ID: `MCw3MjQ3YjRkYzIyMTA4M2RjODJlZjliNjM4ODFkMjM4ZjUyMzk2YzBi`

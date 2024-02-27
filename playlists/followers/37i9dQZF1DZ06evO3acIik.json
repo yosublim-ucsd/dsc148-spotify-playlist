@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 52368,
+  "2024-02-27": 52391,
   "date_first_scraped": "2022-09-15",
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
   "name": "This Is Montell Fish",
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 128000,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q"
@@ -1181,6 +1181,28 @@
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162921,
+      "name": "Memoirs",
+      "url": "https://open.spotify.com/track/2DJIj4fcNtcf2PvWDyS3do"
     },
     {
       "album": {

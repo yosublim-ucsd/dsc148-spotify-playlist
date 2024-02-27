@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-527 songs - 20 hr 11 min
+531 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [it will be fine](https://open.spotify.com/track/4NLCbAGUF1SP8MEE1z51S0) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [it will be fine](https://open.spotify.com/album/0D1UbvmcsT5pSZ8thasK7h) | 2:04 | 2024-01-05 |  |
 | [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2024-01-05 |  |
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2024-01-05 |  |
+| [Jump](https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Jump](https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0) | 2:05 | 2024-02-23 |  |
 | [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2024-01-05 |  |
 | [Keeps Me Wondering Why](https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Keeps Me Wondering Why](https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR) | 1:57 | 2024-01-05 |  |
 | [kick it back, kid](https://open.spotify.com/track/2I9KLecFGk6rKauCvN6eME) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [kick it back, kid & unwind to shine](https://open.spotify.com/album/3kRfqs6Qw9A9zorGmQJOUR) | 3:05 | 2024-01-05 |  |
@@ -253,6 +254,7 @@
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2024-01-05 |  |
 | [Laurel Canyon](https://open.spotify.com/track/44qZfwmOOTfLY8eBwhHRsW) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Laurel Canyon](https://open.spotify.com/album/3d1wydqwhtpXOvGFJqWYsq) | 2:24 | 2024-01-05 |  |
 | [Lazy Locomotive](https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Lazy Locomotive](https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk) | 2:00 | 2024-01-05 |  |
+| [Lazy Streets](https://open.spotify.com/track/3VLrPtDygtrwm39saGbN61) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Lazy Streets](https://open.spotify.com/album/5DffIqCUvdikkN6VtiyyvP) | 2:00 | 2024-02-23 |  |
 | [Leaps Of Faith](https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Leaps Of Faith](https://open.spotify.com/album/2tdVnz8aJLwRWcIp15rTY6) | 2:18 | 2024-01-05 |  |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2024-01-05 |  |
 | [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2024-01-05 |  |
@@ -420,7 +422,7 @@
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2024-01-05 |  |
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2024-01-05 |  |
 | [Singing In The Sun](https://open.spotify.com/track/6gksRXjdLpmjotIM7m0S2R) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Singing In The Sun](https://open.spotify.com/album/2Qp4HMhHwUlSxLOvRXp43S) | 2:45 | 2024-01-05 |  |
-| [Sinnlig](https://open.spotify.com/track/1QLn1ZxpNoMD8ATiLcAT8w) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Sinnlig](https://open.spotify.com/album/3jlHIjqf15s7iAeytrZvO0) | 2:03 | 2024-01-05 |  |
+| [Sinnlig](https://open.spotify.com/track/1QLn1ZxpNoMD8ATiLcAT8w) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Sinnlig](https://open.spotify.com/album/3jlHIjqf15s7iAeytrZvO0) | 2:03 | 2024-01-05 | 2024-02-27 |
 | [Sitting in the back of the bar](https://open.spotify.com/track/2xgqlUPRHDVzwsPQLkzLtW) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Sitting in the back of the bar](https://open.spotify.com/album/6L86usczi60obBJx6cLG3z) | 2:03 | 2024-01-05 |  |
 | [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 | 2024-01-05 |  |
 | [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2024-01-05 | 2024-02-23 |
@@ -463,6 +465,7 @@
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2024-01-05 |  |
 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 | 2024-01-05 |  |
 | [Survival](https://open.spotify.com/track/0f9hjKIkQqW6IVrX3CMuof) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Survival](https://open.spotify.com/album/6gbpld3gTD8mNXRfSvMLoC) | 2:32 | 2024-01-05 |  |
+| [Sweet Apollo](https://open.spotify.com/track/387Et4ZBM5n4NEmpkvN3RR) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Sweet Apollo](https://open.spotify.com/album/0iStaKoeXbhVN6C75N1wm3) | 2:18 | 2024-02-23 |  |
 | [Sweet water](https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Sweet water](https://open.spotify.com/album/1cuUSlktiaqYuwj6wquDxI) | 2:24 | 2024-01-18 | 2024-02-06 |
 | [Takeabreakalready](https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc) | [Chapel Chill](https://open.spotify.com/artist/0p1wRvBAsXKq83OSFwFAvE) | [Takeabreakalready](https://open.spotify.com/album/3SWva0m3WplRxy58XAof2n) | 2:12 | 2024-01-05 |  |
 | [Tear Me Apart](https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tear Me Apart](https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr) | 2:01 | 2024-01-05 |  |
@@ -488,6 +491,7 @@
 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 | 2024-01-05 | 2024-01-24 |
 | [Timing](https://open.spotify.com/track/6XdulSZx2waNFqtpZE1hL3) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Timing](https://open.spotify.com/album/23dtHzD8bRAg4oN58li4Hp) | 2:21 | 2024-01-05 |  |
 | [ting](https://open.spotify.com/track/2EpkC5rovFu6Kqb6Rw9uYA) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [ting](https://open.spotify.com/album/2MJC68gu7gXgSGiht2JdcJ) | 2:18 | 2024-01-05 |  |
+| [toasty](https://open.spotify.com/track/1wiToTJb3JoC3KLevi9mzx) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [toasty](https://open.spotify.com/album/3YDDPxNCBqCJOlStSPUnoG) | 1:56 | 2024-02-23 |  |
 | [Tough Night](https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx) | [Thin Wire](https://open.spotify.com/artist/6XsmusNMQByvF8YoSjokGJ) | [Tough Night](https://open.spotify.com/album/18fZ6VNfyQ0rkBAWHuqZOQ) | 1:47 | 2024-01-05 |  |
 | [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2024-01-05 |  |
 | [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2024-01-05 |  |
@@ -495,7 +499,7 @@
 | [transient beach](https://open.spotify.com/track/30eLFH6K8Dro6bUQ6hGvrl) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [transient beach](https://open.spotify.com/album/1TVeo9z2FlgRQ0XuKXZpju) | 2:27 | 2024-01-05 |  |
 | [Trip walkin](https://open.spotify.com/track/2hm1fDCEshDF9cR02ruyWq) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Trip walkin](https://open.spotify.com/album/2c72iSKyHIYZBN5JH8OQZ9) | 2:17 | 2024-01-05 |  |
 | [Tronntora](https://open.spotify.com/track/2f26EtMrZFMuFLx8RrFeaL) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Tronntora](https://open.spotify.com/album/38e12KrFKnDpLXp6x5rrCN) | 2:06 | 2024-01-05 |  |
-| [troppo cotti](https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [troppo cotti](https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz) | 1:52 | 2024-02-01 |  |
+| [troppo cotti](https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [troppo cotti](https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz) | 1:52 | 2024-02-01 | 2024-02-27 |
 | [True Crimes](https://open.spotify.com/track/1Xom95weqXElNvdHoAxuSi) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [True Crimes](https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds) | 2:11 | 2024-01-05 |  |
 | [Tryna Ball](https://open.spotify.com/track/4K5RujJ9IOPKEfTBDvunHS) | [French Connection](https://open.spotify.com/artist/0mCMWvvi5gXel5a0ZZ172H) | [Grind For Years](https://open.spotify.com/album/5AiP0EETQ0GhQNJdEQbwHi) | 1:36 | 2024-01-05 |  |
 | [Tune Out](https://open.spotify.com/track/4ZsI2orhFDadedp84ZXOIl) | [logan finneas](https://open.spotify.com/artist/0lHDsHD5CqzIcgnW7icG6p) | [Tune Out](https://open.spotify.com/album/5d99rDqVXjp3NsBIcGNyFS) | 2:13 | 2024-01-05 |  |
@@ -508,7 +512,7 @@
 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 | 2024-01-05 |  |
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2024-01-05 |  |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2024-01-05 |  |
-| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2024-01-18 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2024-01-18 | 2024-02-27 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2024-01-05 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2024-01-05 |  |
 | [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2024-01-05 |  |
@@ -528,7 +532,7 @@
 | [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2024-01-05 |  |
 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 | 2024-01-05 |  |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2024-01-05 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2024-01-05 |  |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2024-01-05 | 2024-02-27 |
 | [Yellow Cab Conversations](https://open.spotify.com/track/1lBL6xxGxERtu699sTR54u) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Yellow Cab Conversations](https://open.spotify.com/album/6M0eFWazhJIkTw2gUE1sHF) | 3:29 | 2024-01-05 |  |
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2024-01-05 |  |
 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 | 2024-01-05 |  |

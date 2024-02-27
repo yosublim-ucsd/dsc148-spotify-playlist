@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Braile",
+        "url": "https://open.spotify.com/album/2nh8yCmEkU8KEnkFNWK4xi"
+      },
+      "artists": [
+        {
+          "name": "Zalzuki",
+          "url": "https://open.spotify.com/artist/3pgbbDVJmM1wvztXv7vvXO"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "Braile",
+      "url": "https://open.spotify.com/track/7iERhC20w8QuVDkLyMSn8K"
+    },
+    {
+      "album": {
         "name": "Brillo De M\u00e1s",
         "url": "https://open.spotify.com/album/1AFexsSshLU0jyHrRHyfTi"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 190417,
       "name": "Bubbaloo - Remix",
       "url": "https://open.spotify.com/track/5dnyYvMzZC1VwihNeXSLtc"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 193246,
       "name": "Drip",
       "url": "https://open.spotify.com/track/3X721QdxD1Y8mGZ8uUdzGE"
@@ -1836,6 +1854,24 @@
       "duration_ms": 196500,
       "name": "Excusa",
       "url": "https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL"
+    },
+    {
+      "album": {
+        "name": "fa$hion killa",
+        "url": "https://open.spotify.com/album/5UfL0JnWie1XjTqmPhf8R8"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128332,
+      "name": "fa$hion killa",
+      "url": "https://open.spotify.com/track/64KyVkOxuptx0T5ecVZdfP"
     },
     {
       "album": {
@@ -2282,7 +2318,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 211723,
       "name": "Ghetto Stars",
       "url": "https://open.spotify.com/track/3QHU2LDY6LcNrJRrxM0fVp"
@@ -3568,6 +3604,28 @@
       "duration_ms": 141187,
       "name": "No me retracto",
       "url": "https://open.spotify.com/track/06F1xerME9zW3bZMP4RweE"
+    },
+    {
+      "album": {
+        "name": "SESIONES EN RAMEN, Vol.1",
+        "url": "https://open.spotify.com/album/17et1U7WDaz9JrBBsUZeXZ"
+      },
+      "artists": [
+        {
+          "name": "Interface",
+          "url": "https://open.spotify.com/artist/7MTsoppc8uObq6H28nH0rd"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "No Se Tu - S10",
+      "url": "https://open.spotify.com/track/3kGbJwQoCeG1asWwRmlVdD"
     },
     {
       "album": {

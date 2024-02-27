@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-761 songs - 1 day 19 hr 0 min
+764 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Aphex Wins](https://open.spotify.com/track/0vVCVbOgsdCnKTs0dz46CN) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Aphex Wins](https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As) | 1:45 | 2020-04-03\* | 2021-06-16 |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-02-19 | 2021-09-22 |
 | [Aqua](https://open.spotify.com/track/7etvw1iMT1W7wApghIDSiG) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Aqua](https://open.spotify.com/album/2pMIDANmZuBqebALcHef4n) | 2:25 | 2022-10-28 |  |
+| [Arcade Lounge](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Arcade Lounge](https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms) | 3:16 | 2024-02-26 |  |
 | [As a Kite](https://open.spotify.com/track/3PD90aDVz4wKRYmmF3LLf9) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [As a Kite](https://open.spotify.com/album/6fdQudYgibZfZs5VDj3F0J) | 2:55 | 2022-01-21 | 2022-09-17 |
 | [Asy](https://open.spotify.com/track/0xgQ3LG2JQcvtPivzIaACS) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Gaze](https://open.spotify.com/album/0k82yUpUYyvQV11mes5JgX) | 7:53 | 2020-10-27 | 2020-12-24 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2021-05-06 |  |
@@ -540,6 +541,7 @@
 | [Retrospective](https://open.spotify.com/track/49tKOc2iyWnOWKfYyz0Lxg) | [Car P](https://open.spotify.com/artist/6KgCq2d0xwa6CnEN4zdvma) | [Retrospective](https://open.spotify.com/album/5Fg0Xsu2PtYLdI0ODQ3LSY) | 4:15 | 2020-04-03\* | 2021-01-18 |
 | [reverberate \- Edit](https://open.spotify.com/track/1mvVAEIbx3mnrJYcciC28X) | [Grennels](https://open.spotify.com/artist/0qbTETuJCrGSTL7EKVWIH5) | [reverberate \- Edit](https://open.spotify.com/album/124HlCJQczrdQvEhF7z6FL) | 2:38 | 2023-01-06 |  |
 | [Reverie](https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs) | [Liona Lotus](https://open.spotify.com/artist/30aieRomfqWYR79BigbnoI) | [Reverie](https://open.spotify.com/album/02gm1MgsEebvH23TcrB8y3) | 3:14 | 2021-06-16 | 2022-02-11 |
+| [Rewind](https://open.spotify.com/track/1X3ZacDFsFxqwWJud95Iah) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [Rewind](https://open.spotify.com/album/7y38qm3CFyQNWJdo8xb2zm) | 2:53 | 2024-02-26 |  |
 | [Rheya](https://open.spotify.com/track/2oMDxIp1I6uNQkexFBjJWQ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Fascination](https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb) | 3:03 | 2020-11-19 | 2022-06-24 |
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2021-11-08 |  |
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2021-03-18 | 2023-10-05 |
@@ -723,6 +725,7 @@
 | [U Don't Know Me](https://open.spotify.com/track/15HntUgJrBgxcM19YHweix) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [U Don't Know Me](https://open.spotify.com/album/5msBbhCc6MIGGAT6rLq5a8) | 2:04 | 2021-06-02 |  |
 | [U Got Me](https://open.spotify.com/track/12cjUe9jUhiAhaqZmgd59O) | [Robotto\-Sei?](https://open.spotify.com/artist/4LNo6UafG70bhFNAG07o4f) | [U Got Me](https://open.spotify.com/album/4BudCMbI5iSGmn37zj1lnX) | 2:24 | 2022-01-21 |  |
 | [Uhuru](https://open.spotify.com/track/6yUgU40FMxeTBtzx1WaksW) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Uhuru](https://open.spotify.com/album/5NTePsboD5zQS7Bq9nk9dv) | 2:41 | 2023-04-21 |  |
+| [Ultra Vox](https://open.spotify.com/track/5XkvJe4K43yHEIsJpDoj4s) | [Hamasi](https://open.spotify.com/artist/6RQzicg4zJqgbzvIx3qqgm) | [Ultra Vox](https://open.spotify.com/album/7LGHiA1kv2ZkIL4iwBJdDQ) | 2:05 | 2024-02-26 |  |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-11 | 2021-04-21 |
 | [Underview](https://open.spotify.com/track/5Ut0xXdUvgW5TVuTr6FZCv) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 3:57 | 2021-06-16 | 2021-09-22 |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2021-07-08 |  |

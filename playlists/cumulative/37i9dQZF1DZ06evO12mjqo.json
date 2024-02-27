@@ -1122,6 +1122,24 @@
     {
       "album": {
         "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56306,
+      "name": "Sp\u00f6ksonat",
+      "url": "https://open.spotify.com/track/45E7Yc6VNL0Qoo216EoD0R"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
       },
       "artists": [

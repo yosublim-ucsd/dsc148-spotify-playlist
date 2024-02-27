@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12644,
+  "num_followers": 12641,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0",
+  "snapshot_id": "MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -179,34 +195,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+        "name": "The Story of You",
+        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Satsang",
+          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
         }
       ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Storm Boy",
-        "url": "https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Storm Boy",
-      "url": "https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB"
+      "duration_ms": 261560,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -227,18 +227,38 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "The Story of You",
-        "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
       "artists": [
         {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 261560,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
+      "duration_ms": 238767,
+      "name": "Summertime (feat. Citizen Cope)",
+      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Storm Boy",
+        "url": "https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Storm Boy",
+      "url": "https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -259,6 +279,26 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "The Change I'm Seeking",
         "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
       },
@@ -271,26 +311,6 @@
       "duration_ms": 482173,
       "name": "Permanent Holiday",
       "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 238767,
-      "name": "Summertime (feat. Citizen Cope)",
-      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -347,26 +367,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Leylines",
         "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 307880,
       "name": "Harmonize",
       "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -507,6 +523,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "These Are My Roots",
         "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
       },
@@ -519,22 +551,6 @@
       "duration_ms": 234061,
       "name": "These Are My Roots",
       "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
-      },
-      "artists": [
-        {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "You Ain't Going Nowhere",
         "url": "https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 145404,
       "name": "You Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -651,26 +667,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Everyday Life, Everyday People",
-        "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
-      },
-      "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -703,6 +699,26 @@
       "duration_ms": 251840,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Everyday Life, Everyday People",
+        "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Flow State",
         "url": "https://open.spotify.com/album/6EN8PtrmSzYfybaZQYYaOc"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 205612,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/0sIxAwobJDRyxlx6kvD2oo"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -851,22 +867,6 @@
       "duration_ms": 234000,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Road Goes All Night",
-        "url": "https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D"
-      },
-      "artists": [
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 351272,
-      "name": "Steppegrass",
-      "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
     }
   ],
   "unique_name": "Peace Of Mind",

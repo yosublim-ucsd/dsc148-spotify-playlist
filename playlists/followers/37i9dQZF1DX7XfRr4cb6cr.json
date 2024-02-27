@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 184597,
+  "2024-02-27": 184730,
   "date_first_scraped": "2022-01-25",
   "description": "Hymns for darker hours.",
   "name": "Dark Ambient",
@@ -223,6 +223,32 @@
       "duration_ms": 116013,
       "name": "All We Can't See",
       "url": "https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5"
+    },
+    {
+      "album": {
+        "name": "Ambavi",
+        "url": "https://open.spotify.com/album/1M6QRkZzYvIYZ97f15zwBl"
+      },
+      "artists": [
+        {
+          "name": "Alleviation",
+          "url": "https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw"
+        },
+        {
+          "name": "Anarekli",
+          "url": "https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N"
+        },
+        {
+          "name": "Buneba",
+          "url": "https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141864,
+      "name": "Ambavi",
+      "url": "https://open.spotify.com/track/255kpkW8fGXGGrAwjfWGdp"
     },
     {
       "album": {
@@ -1331,7 +1357,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 150000,
       "name": "gates",
       "url": "https://open.spotify.com/track/1L7S9ISZQC1IuEgYGd91v8"
@@ -1955,6 +1981,28 @@
       "duration_ms": 177971,
       "name": "Info Pandemie",
       "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
+    },
+    {
+      "album": {
+        "name": "Inorganic Demons",
+        "url": "https://open.spotify.com/album/1VbuQanwqzCERmfSo1Uvqe"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        },
+        {
+          "name": "Naal",
+          "url": "https://open.spotify.com/artist/7sJr36QeOFmSoyi8ONUTbI"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523792,
+      "name": "Inorganic Demons",
+      "url": "https://open.spotify.com/track/0BkcuXoT80uebKpJGz3Od5"
     },
     {
       "album": {
@@ -4825,7 +4873,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 314454,
       "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
       "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"

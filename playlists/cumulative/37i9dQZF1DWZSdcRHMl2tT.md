@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-414 songs - 20 hr 47 min
+418 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Cassette Tape](https://open.spotify.com/track/34vL3tUAnlevnJR0NyiEkB) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Cassette Tape](https://open.spotify.com/album/0xysheVNUl2zt3wib4ksKh) | 3:32 | 2023-03-03 | 2023-06-24 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-04-05 |  |
 | [Catch You](https://open.spotify.com/track/2Pv7YbMUjKW0lIgmh23gPe) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Catch You](https://open.spotify.com/album/0F4SOdr9OcdJPOUJxy3IiO) | 2:14 | 2022-06-03 | 2022-07-29 |
-| [Century 21](https://open.spotify.com/track/2YoXYKyPI7tzCACr6lfG2S) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Century 21](https://open.spotify.com/album/1t5AdYrBVeg9YmWnSUuStP) | 3:46 | 2022-10-28 |  |
+| [Century 21](https://open.spotify.com/track/2YoXYKyPI7tzCACr6lfG2S) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Century 21](https://open.spotify.com/album/1t5AdYrBVeg9YmWnSUuStP) | 3:46 | 2022-10-28 | 2024-02-27 |
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2022-04-15 |  |
 | [champagne and kisses](https://open.spotify.com/track/4UKnKyvCDI9QhMD2jRC0ma) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [champagne and kisses](https://open.spotify.com/album/5iFj47fk9OPPC1kw4eI9ul) | 4:01 | 2023-01-20 |  |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
@@ -109,6 +109,7 @@
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-05 | 2022-07-29 |
 | [electric sea](https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [electric sea](https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA) | 2:33 | 2022-10-07 | 2023-09-02 |
 | [Elevate](https://open.spotify.com/track/3CkWkWAhZii9OWuQJw0NTe) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Elevate](https://open.spotify.com/album/53k8qzmKzuo6zxjEpeTSsM) | 3:17 | 2022-09-02 | 2023-06-03 |
+| [Elevate](https://open.spotify.com/track/3UNkKybunQxyPE6y0PD74i) | [Molinerd](https://open.spotify.com/artist/4BJxAbl4YewXwednS4pwHi) | [Elevate](https://open.spotify.com/album/60JP4dV59LJPj1jZC6FwRq) | 2:38 | 2024-02-27 |  |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2022-04-05 |  |
 | [embrace](https://open.spotify.com/track/3plZSRM45AgutYEAsQCZ0j) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [embrace](https://open.spotify.com/album/0QUAVjr8P0jffmbgL6YYwE) | 2:39 | 2022-09-02 |  |
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2022-04-05 | 2022-09-02 |
@@ -298,12 +299,15 @@
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2022-04-05 | 2022-05-20 |
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2022-04-05 |  |
 | [Radio Signals](https://open.spotify.com/track/2a2dInHxcHah7QAyRDdZHR) | [Paper Cat](https://open.spotify.com/artist/4vhrFsNjg8ErTHAJZ9b5NF) | [Radio Signals](https://open.spotify.com/album/00bVTZWCFrc8niXp7otN0O) | 3:04 | 2022-04-05 | 2022-07-29 |
+| [Rainfall](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2) | [Purple Smog](https://open.spotify.com/artist/32T4i79ZuvzxjSochD6bgP) | [Rainfall](https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ) | 2:21 | 2024-02-27 |  |
+| [Raining Again](https://open.spotify.com/track/3II3luScpKF4w9kVTST3Z2) | [Me Gic](https://open.spotify.com/artist/64VPx6lcReM0kEbCFJqbv1) | [Raining Again](https://open.spotify.com/album/5CAQ5Fp0qNYreFU9PgWPZY) | 2:43 | 2024-02-27 |  |
 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 | 2022-09-23 |  |
 | [Ray Of Sun](https://open.spotify.com/track/3i2EyWC04DDRnGwCw6ovoI) | [Pink Villa](https://open.spotify.com/artist/4PtcKLZL32MSk0wzcJM2mk) | [Ray Of Sun](https://open.spotify.com/album/0Adp9JwGMLTuhYKalZO33I) | 3:04 | 2023-10-20 |  |
 | [Reels](https://open.spotify.com/track/6fVFTZa7AaCemySAj7RLID) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Reels](https://open.spotify.com/album/2iM3u37XQuGEXl5xXtfpU5) | 2:31 | 2022-11-25 |  |
 | [Rejuvenation](https://open.spotify.com/track/2OoSVZpPiO8fmzey4DV2vy) | [Slow Reveal](https://open.spotify.com/artist/4auJYfz4JXxJCbshIMPuVv) | [Rejuvenation](https://open.spotify.com/album/0yNijVFEBsj0Kv2eO1Wcqi) | 2:37 | 2022-04-05 | 2022-07-29 |
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2022-09-23 |  |
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2022-04-05 | 2023-01-13 |
+| [Rent](https://open.spotify.com/track/19iugsWjMy6wDD225VT35E) | [RA DAR](https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1) | [Rent](https://open.spotify.com/album/5K9Yvjbzn5BdhpQyA4hJ2M) | 2:29 | 2024-02-27 |  |
 | [Restart The Sun](https://open.spotify.com/track/3gvLr8fEhn74EU2LArj5wN) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Restart The Sun](https://open.spotify.com/album/0wd3qZEL6B5CsSUR9GM7dg) | 2:59 | 2022-11-25 |  |
 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 | 2022-04-05 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2022-04-05 | 2022-05-11 |

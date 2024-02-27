@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,265 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,266 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 |
 | 80 | [Falling Again](https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Falling Again](https://open.spotify.com/album/3KUTpdKpT4zvjSechCnIPL) | 2:50 |
 
-Snapshot ID: `MCwxNTAyMGRhYjZhOWZmMGIyN2JhMDcwOTFlMmYyZjQxYmUyZGUzYTg1`
+Snapshot ID: `MCwwNDU1ZGY4NTAzMjVhMDNmMDIzNGQ5ZTE2ZmI1ODAxNWRhOTY4YTZi`

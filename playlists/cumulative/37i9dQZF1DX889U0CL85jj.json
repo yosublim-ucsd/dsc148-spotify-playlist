@@ -4985,24 +4985,6 @@
     },
     {
       "album": {
-        "name": "Call It Home: Vol. 2",
-        "url": "https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "date_added": "2023-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220186,
-      "name": "In My Baby's Arms",
-      "url": "https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4"
-    },
-    {
-      "album": {
         "name": "Call It Home: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE"
       },
@@ -5018,6 +5000,28 @@
       "duration_ms": 220186,
       "name": "In My Baby's Arms",
       "url": "https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz"
+    },
+    {
+      "album": {
+        "name": "Call It Home: Vol. 2",
+        "url": "https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        },
+        {
+          "name": "Amethyst Starr",
+          "url": "https://open.spotify.com/artist/7euhIbMlHCCZYE1Xegaobf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "In My Baby's Arms",
+      "url": "https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4"
     },
     {
       "album": {

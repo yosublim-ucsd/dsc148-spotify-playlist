@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6976,
+  "num_followers": 6974,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzZmOTc4NmI2NDA2YmYwOWNhMDZmMTc2OGRkY2M5YWQyZjZhMjA0",
+  "snapshot_id": "MCwyNDAyNTIwM2M5OTg4ZTIzNTJiZDg1M2I4MTk4MGI0ZmIyYjgzZGZi",
   "tracks": [
     {
       "added_at": "2024-01-29 17:19:17",
@@ -519,22 +519,18 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Casa Lumbre",
-        "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
         }
       ],
-      "duration_ms": 189924,
-      "name": "Muy Tarde",
-      "url": "https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H"
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -559,18 +555,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+        "name": "Casa Lumbre",
+        "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+      "duration_ms": 189924,
+      "name": "Muy Tarde",
+      "url": "https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "EN LA MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 153391,
+      "name": "EN LA MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "Olivia Rodrigo",
         "url": "https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 169301,
       "name": "Forma de Ser",
       "url": "https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "EN LA MA\u00d1ANA",
-        "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "EN LA MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "Si Se Siente",
+        "url": "https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+        }
+      ],
+      "duration_ms": 184965,
+      "name": "Si Se Siente",
+      "url": "https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "XO clubeteado",
         "url": "https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 154630,
       "name": "XO clubeteado",
       "url": "https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "Si Se Siente",
-        "url": "https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9"
-      },
-      "artists": [
-        {
-          "name": "Los Bravos De La H",
-          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
-        }
-      ],
-      "duration_ms": 184965,
-      "name": "Si Se Siente",
-      "url": "https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH"
     },
     {
       "added_at": "2024-01-29 17:19:17",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc"
-      },
-      "artists": [
-        {
-          "name": "Ratchet\u00f3n",
-          "url": "https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5"
-        }
-      ],
-      "duration_ms": 146726,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
         "name": "guestlist",
         "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 211070,
       "name": "guestlist",
       "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc"
+      },
+      "artists": [
+        {
+          "name": "Ratchet\u00f3n",
+          "url": "https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5"
+        }
+      ],
+      "duration_ms": 146726,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j"
     }
   ],
   "unique_name": "Hyphenated",

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: SZA",
-  "num_followers": 259113,
+  "num_followers": 259116,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTA2OTk3Zjk4NmY2ZTk0ZWM1MjFjOTUwYTVmYmQ4MTM1ZmRmM2Zl",
+  "snapshot_id": "MCw3YmExY2Y1NTkzYzAyOTQ5MTQzZmNkZDlmYmRhZGFhMDAyM2VlY2Zl",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -684,10 +684,6 @@
       },
       "artists": [
         {
-          "name": "WAVEY",
-          "url": "https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt"
-        },
-        {
           "name": "Kleine John",
           "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
         },
@@ -698,6 +694,10 @@
         {
           "name": "Dior",
           "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        },
+        {
+          "name": "WAVEY",
+          "url": "https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt"
         }
       ],
       "duration_ms": 136855,
@@ -944,8 +944,8 @@
           "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
         },
         {
-          "name": "adm:t",
-          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
         }
       ],
       "duration_ms": 199521,
@@ -1170,6 +1170,10 @@
         {
           "name": "Femme",
           "url": "https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z"
+        },
+        {
+          "name": "JAPS",
+          "url": "https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc"
         }
       ],
       "duration_ms": 154285,

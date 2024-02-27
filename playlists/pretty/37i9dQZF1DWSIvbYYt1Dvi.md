@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > froid e ecologyk é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,014 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,990 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
 | 50 | [SE EU NÃO TE CANTAR](https://open.spotify.com/track/2ScAPgiv2nJmADqClv28ce) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 2:38 |
 
-Snapshot ID: `MCxjNzMwM2EyZTE2ZTRiMDVjM2RhYzVkYjIwNWRkZmJiMWU4M2ZkZWZl`
+Snapshot ID: `MCw2M2VlNDcyZDIzMWZkN2I2ZTYzOTJmOTM0Y2MyNzlhZDRiNTU1NGYz`

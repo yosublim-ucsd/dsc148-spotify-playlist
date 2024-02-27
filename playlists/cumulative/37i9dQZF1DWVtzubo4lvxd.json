@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "oldies",
+        "url": "https://open.spotify.com/album/2QbZsCrvSQeFKn1UUgJxXw"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103424,
+      "name": "hand of god",
+      "url": "https://open.spotify.com/track/4U3ch2mx6XHGIRrpQuIlWQ"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm"
       },
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 92471,
       "name": "Lost In Florence",
       "url": "https://open.spotify.com/track/4WrlDl9oNqNrnZ10441ANu"
@@ -2246,6 +2264,24 @@
       "duration_ms": 81060,
       "name": "love",
       "url": "https://open.spotify.com/track/2UmXJ7gMnfyTolPmhnJ2ZQ"
+    },
+    {
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/61CQz8YbOzoQMYnHoRIynv"
+      },
+      "artists": [
+        {
+          "name": "kuars0",
+          "url": "https://open.spotify.com/artist/0GHkPZdgdbVENOjwwKDVcR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/0SxuTT5deUYpfLsZzoPEU8"
     },
     {
       "album": {

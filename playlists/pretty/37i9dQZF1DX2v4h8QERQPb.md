@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,422 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,568 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 15 | [Todo va a seguir igual](https://open.spotify.com/track/3tdGm2kGNMSbKC7Xwmkset) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Todo va a seguir igual](https://open.spotify.com/album/1xvukhClHNVj4jAgXba5kO) | 2:18 |
 | 16 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 |
 | 17 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |
-| 18 | [Vamos por todo](https://open.spotify.com/track/68Rlhbme6eKfq2gzIqi1Ib) | [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj), [Mendez](https://open.spotify.com/artist/66dSssqABqDgJNX48wRErt) | [Vamos por todo](https://open.spotify.com/album/4pbW5SsWU5x3vsY43CrHo4) | 3:45 |
+| 18 | [Vamos por todo](https://open.spotify.com/track/68Rlhbme6eKfq2gzIqi1Ib) | [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj), [Mendez](https://open.spotify.com/artist/3tvLEIn7PxHY6IDaUtWM9R) | [Vamos por todo](https://open.spotify.com/album/4pbW5SsWU5x3vsY43CrHo4) | 3:45 |
 | 19 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
 | 20 | [Sin Drama](https://open.spotify.com/track/12GYDIfcTO5fEbWuU9kgCZ) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Melodía](https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc) | 2:51 |
 | 21 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 100 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 |
 
-Snapshot ID: `MCxkZDI1NGI2OTcxMDE5NDE4OWEwYjYwNDRhYjJkOTI4ZTNiZGUyNzhm`
+Snapshot ID: `MCxmNzQ2ZTA0YTNmMmU1ZGExMWVjY2IzMDQwZmJmZWU3NzBjMDgzNTll`

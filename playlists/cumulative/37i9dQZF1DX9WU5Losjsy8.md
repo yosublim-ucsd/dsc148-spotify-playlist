@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-120 songs - 6 hr 4 min
+121 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,12 +96,13 @@
 | [Morgen kickt der Kater](https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Morgen kickt der Kater](https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz) | 3:16 | 2023-08-31 | 2023-12-10 |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |
 | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
+| [Nimm mich mit ins Paradies](https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn) | 2:44 | 2024-02-15 |  |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 | 2024-01-19 |
 | [Oh Baby](https://open.spotify.com/track/59HKKV0eD3UPJ3RCG5qFcc) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Oh Baby](https://open.spotify.com/album/5xZubDsUa9davo8N2LOFy6) | 3:11 | 2024-01-26 |  |
 | [Olivia](https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I) | [Die Zipfelbuben](https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U), [DJ Cashi](https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo) | [Olivia](https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx) | 3:00 | 2023-07-14 |  |
 | [Ouzo](https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp) | [Vincent Gross](https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy) | [Ouzo](https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K) | 4:34 | 2023-11-14 |  |
 | [Partyanimal](https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF) | [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Partyanimal](https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx) | 2:19 | 2023-07-14 |  |
-| [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 | 2023-07-14 |  |
+| [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 | 2023-07-14 | 2024-02-27 |
 | [PECH & SCHWEFEL](https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:18 | 2023-07-14 |  |
 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 | 2023-07-14 |  |
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-14 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-385 songs - 22 hr 13 min
+386 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [Same Old Ways](https://open.spotify.com/track/4kgKjHMIDWri9XHjyxSbpy) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 2:43 | 2022-07-18 |  |
 | [SAS CRISE](https://open.spotify.com/track/4FUhCO72hcdrMl5VUsYozL) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [ALAYZHA SKY](https://open.spotify.com/artist/1ys0QHSVytn5whGulnol2f), [Ghost](https://open.spotify.com/artist/1J5CMCxIRPfdVGb4B23mgf) | [SAS CRISE](https://open.spotify.com/album/0Agr5yS006IXzRfj81s1hx) | 1:32 | 2022-04-26 | 2023-10-25 |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-04-26 | 2022-10-28 |
-| [Seein You](https://open.spotify.com/track/2hqLmveueV7W3VlnFS5dpQ) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Up All Night](https://open.spotify.com/album/233nFUbotfBzmZ7Zg72KC2) | 5:34 | 2023-10-24 |  |
+| [Seein You](https://open.spotify.com/track/2hqLmveueV7W3VlnFS5dpQ) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Up All Night](https://open.spotify.com/album/233nFUbotfBzmZ7Zg72KC2) | 5:34 | 2023-10-24 | 2024-02-27 |
+| [Seein You](https://open.spotify.com/track/2u65abnY1xF8vlTE5yQEXP) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [Up All Night](https://open.spotify.com/album/4P9LWCZfrRJRZBIw8X3pK5) | 5:34 | 2023-10-24 |  |
 | [Sensitive](https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM) | 2:54 | 2022-02-04 | 2022-10-28 |
 | [Sensitive](https://open.spotify.com/track/2Zro1WMCALzX7HfZKGIweU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/5Nt1LTzawqGEb4tolMpRQu) | 2:54 | 2022-02-04 | 2022-10-13 |
 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 | 2023-10-24 |  |

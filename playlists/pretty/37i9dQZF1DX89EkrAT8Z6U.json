@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>",
-  "num_followers": 983309,
+  "num_followers": 984712,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDZkZDlhMmYwZjdmYjEyNzVjZmQ0MDkxZmNkNGJiNDg5ODk2MGEx",
+  "snapshot_id": "MCxjZTJiYzRhODc3YmNjMjMyZTI5ZDhmOGNjZTlhNWYwMjFlYjc3MDc3",
   "tracks": [
     {
       "added_at": "2024-02-22 21:41:29",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "paranoia",
         "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 117408,
       "name": "paranoia",
       "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "Hexada",
+        "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 124538,
+      "name": "Mercury: Retrograde",
+      "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "I No Longer Fear The Razor Guarding My Heel (V)",
         "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
@@ -219,18 +235,18 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Hexada",
-        "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
         }
       ],
-      "duration_ms": 124538,
-      "name": "Mercury: Retrograde",
-      "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -267,18 +283,18 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR"
       },
       "artists": [
         {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
         }
       ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+      "duration_ms": 128004,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 128004,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "GTG",
         "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
       },
@@ -327,26 +327,6 @@
       "duration_ms": 93893,
       "name": "GTG",
       "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -399,6 +379,26 @@
       "duration_ms": 143609,
       "name": "PUNK TACTICS",
       "url": "https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Shakira!",
         "url": "https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 149577,
       "name": "Shakira!",
       "url": "https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "E-GIRLS ARE RUINING MY LIFE!",
-        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        }
-      ],
-      "duration_ms": 105176,
-      "name": "E-GIRLS ARE RUINING MY LIFE!",
-      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "LA ESPADA",
         "url": "https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 99807,
       "name": "WTH",
       "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "E-GIRLS ARE RUINING MY LIFE!",
+        "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        }
+      ],
+      "duration_ms": 105176,
+      "name": "E-GIRLS ARE RUINING MY LIFE!",
+      "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -755,38 +755,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Riders",
-        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
-      },
-      "artists": [
-        {
-          "name": "onimanxd",
-          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
-        }
-      ],
-      "duration_ms": 107620,
-      "name": "Riders",
-      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "XO EViL LiF3 (.DEMON.)",
-        "url": "https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm"
-      },
-      "artists": [
-        {
-          "name": "steve breaux",
-          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
-        }
-      ],
-      "duration_ms": 123591,
-      "name": "XO EViL LiF3 (.DEMON.)",
-      "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "MISA MISA!",
         "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 129196,
       "name": "Killin' On Demand",
       "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Riders",
+        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
+      },
+      "artists": [
+        {
+          "name": "onimanxd",
+          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
+        }
+      ],
+      "duration_ms": 107620,
+      "name": "Riders",
+      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "XO EViL LiF3 (.DEMON.)",
+        "url": "https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "duration_ms": 123591,
+      "name": "XO EViL LiF3 (.DEMON.)",
+      "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
     },
     {
       "added_at": "2024-01-12 18:00:00",

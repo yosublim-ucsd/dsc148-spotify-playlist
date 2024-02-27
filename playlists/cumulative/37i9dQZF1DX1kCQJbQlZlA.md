@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
 
-137 songs - 10 hr 49 min
+138 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Trên Dòng Sông Nhỏ](https://open.spotify.com/track/7dhaxUr0uDCGjgRm9qZSeu) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Thà Giết Người Yêu](https://open.spotify.com/album/6sGNU2iucs0IhCUz6LA7NC) | 5:40 | 2022-05-12 |  |
 | [Trăng Về Thôn Dã](https://open.spotify.com/track/0flxosFliKeD2nftYJtAUo) | [Ái Thanh](https://open.spotify.com/artist/2C6IlYdKn4jZq8BjxPawYn), [Chi Tai](https://open.spotify.com/artist/7gHc41Fe39ilUF7RE4Ezt7) | [Một Ông Hai Bà](https://open.spotify.com/album/2RfdeQfWDtKBTKzcsPgnjN) | 3:55 | 2022-05-12 | 2024-01-24 |
 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4EsFje6KwIcdm1lfuTDEdp) | [Son Tuyen](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Thà Trắng Thà Đen](https://open.spotify.com/album/1VywfbWfieh83tyZfkmSxx) | 5:02 | 2022-05-12 | 2022-07-29 |
-| [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 | 2022-07-15 |  |
+| [Tát Nước Đầu Đình](https://open.spotify.com/track/121yxFWXB5N4tKlvH82ujT) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/4L8IWrNxt0QeXoQlZrMAdJ) | 5:02 | 2024-02-23 |  |
+| [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 | 2022-07-15 | 2024-02-27 |
 | [Tân Khúc Lý Cô Ba](https://open.spotify.com/track/6TRpFn93kffx16XZUE8k1C) | [NSND Bach Tuyet](https://open.spotify.com/artist/6BLc7t4KaJGJXuRlUgUNgx), [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te) | [Tân Khúc Lý Cô Ba](https://open.spotify.com/album/5UYisJuXkNCUvlafiK5Stj) | 4:20 | 2024-01-25 |  |
 | [Tình Lúa Duyên Trăng](https://open.spotify.com/track/4FtxhwPM6EnuAvWTfSh2zD) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Huynh That](https://open.spotify.com/artist/5QpW2yyV617XwROzHkqGzB) | [Tâm Sự Nàng Xuân](https://open.spotify.com/album/7girI5OMh6o8ft6DUiAp9B) | 4:35 | 2022-05-12 | 2022-07-16 |
 | [Tình Nhỏ Mau Quên](https://open.spotify.com/track/6nT25zd99pNhLRDfuUVeis) | [Nam Cuong](https://open.spotify.com/artist/64vIV4nGYnWdHeioX3kIdA), [Ngọc Liên](https://open.spotify.com/artist/7DJMiXpr6bRhOvkvMO479r) | [Tình Nhỏ Mau Quên](https://open.spotify.com/album/3BDJOmAgf8CXxp1KxdkGkh) | 3:52 | 2022-05-12 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and let the hum of calming white noise box fans and air conditioner sounds lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,767 likes - 138 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,811 likes - 138 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 | 137 | [Sleep Oasis: Box Fan Melodies](https://open.spotify.com/track/1KMamrEkafIoLHUQltaUyx) | [Fan Fans](https://open.spotify.com/artist/6vg3Al8inaxQiiwsbzccnF) | [Tranquil Whispers: Box Fan Sleep Therapy](https://open.spotify.com/album/4X3Awj4oiXSZKaB7qCo5PE) | 2:22 |
 | 138 | [Box Fan Lullabies: Serenades for Peaceful Sleep](https://open.spotify.com/track/4vz5U3D9UzspobK8hrFtW0) | [Cosmos Noise](https://open.spotify.com/artist/0Xm5ak5ChDxVwUuxnhmE33) | [Tranquil Whispers: Box Fan's Soothing Melodies](https://open.spotify.com/album/61E6AV1w5Hf1MwcU8SSsrg) | 2:32 |
 
-Snapshot ID: `MCxmOTAzNTk3ZDE5ZmFiODgyYzdkZjk2MTMzN2I4ZTE1MDU4MzAzNjMy`
+Snapshot ID: `MCwwNGZmMzFiNDg4MDk5YjM4ZmRjZDI3MjU0YWU2MzMxZmI2NzY4MDM3`

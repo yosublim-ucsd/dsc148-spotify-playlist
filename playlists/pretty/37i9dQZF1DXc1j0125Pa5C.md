@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,906 likes - 75 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,984 likes - 75 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Chegamos Ao Fim / Além do Meu Querer / Fim da Tristeza \- Ao Vivo](https://open.spotify.com/track/0AGCb8UOErEkIWxmqx07E1) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Samba Pro Meu Povo: Bloco Referências \(Ao Vivo\)](https://open.spotify.com/album/1g1Jqje9vE1uUYJzb74UKt) | 4:35 |
 | 75 | [Gamei / Essência da Paixão / Mande um Sinal \- Ao Vivo](https://open.spotify.com/track/0RuSdArxtpcIhHxZaxMZOi) | [Tirando Onda](https://open.spotify.com/artist/4QNNbfyXlnSNaEiM00hkVd), [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [I Love Sp, Vol\. 2 \(1ª Edição\) \[Ao Vivo\]](https://open.spotify.com/album/671VcYTP3pEfDxG9JrKJw9) | 5:06 |
 
-Snapshot ID: `MCw0YjQwYTA1MTM4NDkzZDIzMmZhN2FmODNmNTU5YTcyMzcwOTczZGUz`
+Snapshot ID: `MCw2MWFlNTM5N2E4ZDUxYTVlOGEwNGE4Zjk2NjBmZjIyNTkyZGU1MWVi`

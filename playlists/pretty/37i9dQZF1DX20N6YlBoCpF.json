@@ -1,12 +1,12 @@
 {
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=GZaYZwMBRbasLH7vauDTtw\">Die Piesangskille</a>  ",
-  "num_followers": 20307,
+  "num_followers": 20326,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWIzMDA2Yjc5YTEyNjFlMjZmZGM0ODAyMjk3OTlmZTJkNjE3Yjc1",
+  "snapshot_id": "MCw2OWMwMjdlZDdiMDQ4N2U5NDE1YWJhMTJmYWI1MzI0MzhhMDdhNzYx",
   "tracks": [
     {
       "added_at": "2024-02-22 22:00:00",
@@ -139,6 +139,26 @@
       "duration_ms": 228319,
       "name": "Elke Troep",
       "url": "https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau"
+    },
+    {
+      "added_at": "2024-02-26 09:23:48",
+      "album": {
+        "name": "Toe Die Engel Aan Die Water Raak",
+        "url": "https://open.spotify.com/album/1LkcnNbrxQvrVQYzVLN9Db"
+      },
+      "artists": [
+        {
+          "name": "Dozi",
+          "url": "https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf"
+        },
+        {
+          "name": "N\u00e1dine",
+          "url": "https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U"
+        }
+      ],
+      "duration_ms": 230685,
+      "name": "Toe Die Engel Aan Die Water Raak",
+      "url": "https://open.spotify.com/track/4xPpFrmBwVfpKpXOXdAiOL"
     },
     {
       "added_at": "2024-01-25 22:00:00",
@@ -1091,22 +1111,6 @@
       "duration_ms": 150352,
       "name": "In My O\u00eb",
       "url": "https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr"
-    },
-    {
-      "added_at": "2024-01-05 05:17:41",
-      "album": {
-        "name": "Ons Sal Jonk Bly",
-        "url": "https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP"
-      },
-      "artists": [
-        {
-          "name": "Nicholis Louw",
-          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
-        }
-      ],
-      "duration_ms": 265321,
-      "name": "Ons Sal Jonk Bly",
-      "url": "https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r"
     }
   ],
   "unique_name": "Nuwe Afrikaans",

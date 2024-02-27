@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,130 songs - 1 day 18 hr 50 min
+1,131 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Forgotten Photos](https://open.spotify.com/track/4hvCO4S2yEoIKV30nS7Fhz) | [patient wave](https://open.spotify.com/artist/2A5Rk0otLWV24A4IswyhTf), [Colens](https://open.spotify.com/artist/4l1PTmvLhCof1Px22Ph189) | [Night Time Memories Pt\. 1](https://open.spotify.com/album/0MgSCdHx5mPoxeVkC50lyc) | 2:27 | 2022-12-16 | 2023-10-13 |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-11-10 |  |
 | [Free](https://open.spotify.com/track/2oClB1VZuMWLc84FT3tcWS) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Free](https://open.spotify.com/album/7dCa4BkUGKW6GMRVgik5de) | 2:25 | 2023-07-13 | 2024-02-06 |
+| [free bloom](https://open.spotify.com/track/55rlnrbVIFVijNiVqVl3XP) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [free bloom](https://open.spotify.com/album/4CyuTfpanYaZSMp5HmsLfe) | 2:46 | 2024-02-26 |  |
 | [free ride](https://open.spotify.com/track/1ocT9fovQjIS7rMsvDrkqw) | [kid.](https://open.spotify.com/artist/1ndPfZm8zHSlyrJs3itOSP) | [free ride](https://open.spotify.com/album/0ymYpgZXa2a2m8fCzl7YQT) | 1:36 | 2022-12-23 |  |
 | [fresh rain](https://open.spotify.com/track/5ernJjUjgHAEBghcGitmm9) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [fresh rain](https://open.spotify.com/album/5QfyUbUbhSV4gFoeM2c5hM) | 2:12 | 2022-10-15 | 2023-10-06 |
 | [Freshair](https://open.spotify.com/track/4DEHwA8wStG2BQraOkuFLB) | [Carborator](https://open.spotify.com/artist/3YPjCkxMec5GzFenbxDOgO) | [Freshair](https://open.spotify.com/album/73a9ZyY1UWVLxuUIwgl2qQ) | 2:51 | 2021-11-10 | 2023-01-20 |
@@ -475,7 +476,7 @@
 | [In Perpetuum](https://open.spotify.com/track/3ImHLPyqf739WgzXKjPqfU) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [In Perpetuum](https://open.spotify.com/album/2dou5NJzqX9nWvR6eoamLM) | 1:52 | 2022-02-18 | 2023-03-18 |
 | [In The Sky](https://open.spotify.com/track/2t8xuOOSyDjt1jDhUjoNGO) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN) | [In The Sky](https://open.spotify.com/album/6KPHCCekZmbCHQihlMB1Pm) | 2:12 | 2022-06-03 | 2023-08-04 |
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2021-11-10 | 2022-06-10 |
-| [In Time](https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [In Time](https://open.spotify.com/album/4VUZzn1ttvR5jVbRMdk3Te) | 2:19 | 2022-07-08 | 2024-02-26 |
+| [In Time](https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [In Time](https://open.spotify.com/album/4VUZzn1ttvR5jVbRMdk3Te) | 2:19 | 2022-07-08 |  |
 | [in too deep](https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [in too deep](https://open.spotify.com/album/43yg43a1K5ssEj8EXHSLXN) | 3:11 | 2024-01-19 |  |
 | [Infatuation](https://open.spotify.com/track/3UY75fys1T1zWADWQAs96z) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Infatuation](https://open.spotify.com/album/4zZKMPFyShYfoE0Jv8XepT) | 1:20 | 2022-12-16 |  |
 | [Infinite](https://open.spotify.com/track/4LJlnit8huwaWtlvDlVKb2) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Infinite](https://open.spotify.com/album/7FBFVGMtNfcb74gVgzYw6K) | 1:52 | 2022-09-02 | 2023-03-18 |
@@ -633,7 +634,7 @@
 | [Miffing](https://open.spotify.com/track/482V3gj1s0CmyxggOk4OLh) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Miffing](https://open.spotify.com/album/2HW7ivX1zL2ymrEdQkecm8) | 2:23 | 2021-11-10 | 2022-05-20 |
 | [Miles Away](https://open.spotify.com/track/3uWdeGEr2Qc2fpZiH1Y9nP) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Wander Sky](https://open.spotify.com/artist/17xlXpr4XlWjdh6J2h6AlM) | [Miles Away](https://open.spotify.com/album/6M91sRmX0njuP8Fq4Jk78A) | 2:10 | 2022-06-24 | 2022-07-29 |
 | [Milky Swirl](https://open.spotify.com/track/0hmSTKEg8QxYcL67V6odjJ) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Milky Swirl](https://open.spotify.com/album/2JTzXEEL1CKLGNMCbmRcT7) | 2:17 | 2023-12-22 |  |
-| [Milky Way](https://open.spotify.com/track/5nWGzYwSHWntp8LnGmOf1z) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Milky Way](https://open.spotify.com/album/2xrz63P92SbAKFUkvoWUvi) | 1:54 | 2022-12-16 |  |
+| [Milky Way](https://open.spotify.com/track/5nWGzYwSHWntp8LnGmOf1z) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Milky Way](https://open.spotify.com/album/2xrz63P92SbAKFUkvoWUvi) | 1:54 | 2022-12-16 | 2024-02-27 |
 | [Mind The Gap](https://open.spotify.com/track/6uTQFfranV3N08C6H3M2PU) | [Jeya Mira](https://open.spotify.com/artist/24ec9e0WVfG0YKY1ODiBAr) | [Mind The Gap](https://open.spotify.com/album/7MktGxa4bx7lLU4WHmlxcB) | 2:08 | 2023-03-16 |  |
 | [Mindfeed](https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Mindfeed](https://open.spotify.com/album/0qgpvMEpFqBZncu6mDlCwI) | 2:11 | 2023-09-15 |  |
 | [Miracle Seed](https://open.spotify.com/track/2mkPfkWMCzMCgRAVoIOxA3) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Miracle Seed](https://open.spotify.com/album/53oO5j6Y0ZBpFp8FNu8Rof) | 2:52 | 2022-08-05 | 2022-10-29 |
@@ -1003,7 +1004,7 @@
 | [The Snake](https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [The Snake](https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi) | 2:08 | 2023-11-17 |  |
 | [The Spy Hunter](https://open.spotify.com/track/1AMBXDrCOcfzXIKaJF23yx) | [Pensive Strider](https://open.spotify.com/artist/32v1SzCcOazNtxUl8CQQyB) | [Life Finds A Way](https://open.spotify.com/album/2c6XwUzMBg6jbkxrLl9cQi) | 2:53 | 2021-11-10 | 2022-07-29 |
 | [The Storm Passes](https://open.spotify.com/track/1Mc0LHhNuvfLnm1cSxVGbJ) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [The Storm Passes](https://open.spotify.com/album/1GGjh8xsJiBx49YK1nogBv) | 2:35 | 2022-10-28 | 2023-04-28 |
-| [The Story](https://open.spotify.com/track/64sbKboQ2UAvVXhQ3lrdq7) | [Strewing](https://open.spotify.com/artist/3xrmsAjmghKq63pzvotPNJ), [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O) | [The Story](https://open.spotify.com/album/09804Khi8BfOlrNXoqQxsD) | 1:53 | 2022-12-09 |  |
+| [The Story](https://open.spotify.com/track/64sbKboQ2UAvVXhQ3lrdq7) | [Strewing](https://open.spotify.com/artist/3xrmsAjmghKq63pzvotPNJ), [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O) | [The Story](https://open.spotify.com/album/09804Khi8BfOlrNXoqQxsD) | 1:53 | 2022-12-09 | 2024-02-27 |
 | [the village](https://open.spotify.com/track/3sHl6w5wL2D2XxQdAWiz5i) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [sonder](https://open.spotify.com/album/0OESQqApCnyYPj49o5S0jY) | 2:03 | 2021-11-10 | 2022-04-08 |
 | [Theme 4](https://open.spotify.com/track/2Llr4t1DGeszidGhWsOMto) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 4](https://open.spotify.com/album/4wOlFumY13kWF3liXZfUat) | 1:57 | 2023-04-20 |  |
 | [Theres A Light](https://open.spotify.com/track/4hA14T1yvVbmeDLXzxJzB1) | [milow](https://open.spotify.com/artist/5Fhirk5jON5pzTHB3BJaAo) | [Growing Mind](https://open.spotify.com/album/6fnjiqOUwvnK4YmsRl4dxe) | 1:51 | 2023-07-13 |  |

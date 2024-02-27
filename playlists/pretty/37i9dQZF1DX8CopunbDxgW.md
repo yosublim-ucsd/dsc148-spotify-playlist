@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Julio Bashmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,631 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,634 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 31 | [skyskysky](https://open.spotify.com/track/74ndPRenu6lTSh0xWRZ0EG) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [skyskysky](https://open.spotify.com/album/3qG21Y27grIgeNvunf72Q8) | 2:23 |
 | 32 | [Nandakke?](https://open.spotify.com/track/3lgPLaan7Kt1KGfNGdtMO8) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Nandakke?](https://open.spotify.com/album/47MNeiL3ppEnb4WwSa27hM) | 2:53 |
 | 33 | [Here With Me](https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Here With Me](https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC) | 3:13 |
-| 34 | [Some Kind of Static \- Alan Braxe Remix](https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Some Kind of Static \(Alan Braxe Remix\)](https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV) | 4:03 |
+| 34 | [Some Kind of Static \- Remix](https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Some Kind of Static \(Remix\)](https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV) | 4:03 |
 | 35 | [Out Cold!](https://open.spotify.com/track/0bFbrt4TvyMHXii7zbipdk) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6), [Soak XP](https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl) | [Out Cold!](https://open.spotify.com/album/6jdrdawyUSmMGMSMyLVQsa) | 2:45 |
 | 36 | [One Night/All Night](https://open.spotify.com/track/6tAXrxWNaWpqcu5cCOP7dI) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night \| Generator](https://open.spotify.com/album/7wnTMEroi4M4hofOhMO5Ys) | 4:36 |
 | 37 | [somethingsgonnaworkout](https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [somethingsgonnaworkout](https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
 | 100 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
 
-Snapshot ID: `MCxlMTBhMGM0OTA1MDg2NjA0ODI2ZWJjNjM5ZTNmNWI0NjQ1ZjYwMmIz`
+Snapshot ID: `MCw3MDAyMTJlNDZlZjMzOWRjZmU2ZGNlNzhmM2JmZGJkYWYzMWEwMjdl`

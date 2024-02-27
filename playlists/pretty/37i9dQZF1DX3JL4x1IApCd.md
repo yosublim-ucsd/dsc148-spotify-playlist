@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2023\. Cover: Uncojingjong
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,670 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,672 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 40 | [Tunajienjoy](https://open.spotify.com/track/5naXm7Cg0tvVbCupoZDvhb) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Tunajienjoy](https://open.spotify.com/album/5QGn8oyBAVabSHcNmHM8bA) | 3:45 |
 | 41 | [Siskii](https://open.spotify.com/track/7puSVBxqYL4iHE3s6Xu7dx) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 3:13 |
 | 42 | [Drunk N Disorderly](https://open.spotify.com/track/2wkzB9IwJTATr2ORoqQKzo) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Drunk N Disorderly](https://open.spotify.com/album/3TePjPiZ3703jTmot3igo0) | 2:54 |
-| 43 | [Shamra Shamra \- Remix](https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Gabu](https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6), [Kristoff](https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Frasha](https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Three Wise Goats](https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR) | 4:48 |
+| 43 | [Shamra Shamra \(Remix\)](https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Gabu](https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6), [Kristoff](https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Frasha](https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Three Wise Goats](https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR) | 4:48 |
 | 44 | [Spoil](https://open.spotify.com/track/3w2WZOz87AHiYpqf5BlT6e) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 2:26 |
 | 45 | [Shu Shu](https://open.spotify.com/track/6oI6TJo36NNHCN6XgaXYf7) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Shu Shu](https://open.spotify.com/album/4JgYfTdb3RQ6MCROVWb3nO) | 2:47 |
 | 46 | [Rich Rich Man](https://open.spotify.com/track/3dwtuXIgLUVCdR6r4CAyww) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 49 | [Btw](https://open.spotify.com/track/1JbIMllQHyjAdq3S1yHeep) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Exray](https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Btw](https://open.spotify.com/album/1q84EwpxHLZf3dWlUsw0No) | 4:04 |
 | 50 | [Classy Feat \(Exray Taniua & Kristoff MWB\)](https://open.spotify.com/track/0tbntItotdcLQ8tb1aFDJ8) | [Mc Rayan The Dj](https://open.spotify.com/artist/230ekA5qM5ff89XJ7qIN4Z), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Kristoff MWB](https://open.spotify.com/artist/6rJsKSCMerhXVye0hh3y3e) | [Classy Feat \(Exray Taniua & Kristoff MWB\)](https://open.spotify.com/album/01fGcRXLXW5PjZJ2E90M1w) | 3:06 |
 
-Snapshot ID: `MCxiMDViZTQ1ZThhMWYwOTAwOTVhNDJjM2I2ZWQ4N2UyZmYwOWQyZmEy`
+Snapshot ID: `MCxhYmY2OTYxMzZmNGNkOGI4OWJmZDk5NjFjNmE3NDJmNzI0MzZlOWVm`

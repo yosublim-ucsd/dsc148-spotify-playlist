@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Jessie Murph, Beyoncé, Harry Styles &amp; more! Cover: Jessie Murph
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,227 likes - 33 songs - 1 hr 42 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,228 likes - 33 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 12 | [YOSHIMITSU](https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [YOSHIMITSU](https://open.spotify.com/album/4slW380gBywM6GpFwXzYWi) | 2:52 |
 | 13 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 |
 | 14 | [Colder](https://open.spotify.com/track/6RW1csDGTkCmKCbOwYFtlA) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Colder](https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun) | 2:58 |
-| 15 | [No Caller ID \(Emo Cowgirl Live Sessions\)](https://open.spotify.com/track/04lZeAyWs7Seg9HtM43XTH) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID.](https://open.spotify.com/album/0LRkpQ6fa1zF2ttXJ9UFUj) | 3:48 |
+| 15 | [No Caller ID \(Emo Cowgirl Live Sessions\)](https://open.spotify.com/track/04lZeAyWs7Seg9HtM43XTH) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/0LRkpQ6fa1zF2ttXJ9UFUj) | 3:48 |
 | 16 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 17 | [Trauma \(feat\. Lil Tjay\)](https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 3:17 |
 | 18 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,787 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,744 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 20 | [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 |
 | 21 | [la raíz](https://open.spotify.com/track/03tz2giwv6Jv0Sl5bXDy0A) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [con cariño y con cuidado](https://open.spotify.com/album/5AHM4rMUidenTvhMQb4cz7) | 3:44 |
 | 22 | [Hold On](https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Hold On](https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt) | 3:06 |
-| 23 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 |
-| 24 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
+| 23 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
+| 24 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 |
 | 25 | [LIE BACK HARDER](https://open.spotify.com/track/7ho7R7emSd3bEPb1Rm0BZ6) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [LIE BACK HARDER](https://open.spotify.com/album/4o6p4bcvWaLIxInauE5CvI) | 2:02 |
 | 26 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
 | 27 | [言不由衷](https://open.spotify.com/track/1K4viDkmDlxabXN2f39VfC) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 4:59 |
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 32 | [Gönlümün Balkonu](https://open.spotify.com/track/1F0bRB1uo9a8uMO5RrQBd8) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Eteğimdeki Taşlar](https://open.spotify.com/album/0kKWs0ComnwZkfZyeTgMkI) | 3:57 |
 | 33 | [חיבוק אחרון](https://open.spotify.com/track/16a8kHfP9No2P9zqULmhtD) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [חיבוק אחרון](https://open.spotify.com/album/6rYUd3vvCwvRdqW0o6W5Ms) | 2:53 |
 | 34 | [Know How](https://open.spotify.com/track/4ERFzjhhC0CwzmtzsAerAN) | [Dara Rolins](https://open.spotify.com/artist/6Tv7lGZFGzalpRGE3aonac), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [Know How](https://open.spotify.com/album/1UiY8YvbGr3qi5DK0UHZCn) | 3:08 |
-| 35 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
-| 36 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
+| 35 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
+| 36 | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \- Melatonin](https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [คิดมากแต่ไม่มากเท่าคิดถึงเธอ \(Melatonin\)](https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t) | 3:15 |
 | 37 | [Goodbye Letter](https://open.spotify.com/track/3dyYVOZcDsqk3TiIyUJlqU) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Goodbye Letter](https://open.spotify.com/album/4P7lsbjehz1NEWxXxZKWY5) | 3:43 |
 | 38 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 |
 | 39 | [Mula](https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Mula](https://open.spotify.com/album/34oz7Evonovs53OIyZFvDQ) | 3:00 |
-| 40 | [Mulher](https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 4:49 |
-| 41 | [WHAT YOU THINK OF](https://open.spotify.com/track/4GmOUr865qgrdmZOIOLH2q) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH), [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [WHAT YOU THINK OF](https://open.spotify.com/album/01ngB0MbBmzxx8QbUvtRh8) | 2:30 |
+| 40 | [WHAT YOU THINK OF](https://open.spotify.com/track/4GmOUr865qgrdmZOIOLH2q) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH), [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x) | [WHAT YOU THINK OF](https://open.spotify.com/album/01ngB0MbBmzxx8QbUvtRh8) | 2:30 |
+| 41 | [Mulher](https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 4:49 |
 | 42 | [mother luna](https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [mother luna](https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy) | 2:28 |
 | 43 | [עד שייפול הירח](https://open.spotify.com/track/1IGBBGr0r8xVAm49Pkf4YR) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [עד שייפול הירח](https://open.spotify.com/album/53Hrnu2s8H9ALN0zoOv12L) | 3:19 |
 | 44 | [Troubled Waters](https://open.spotify.com/track/6TuyWjGT8Gi0kRu0S3MU1o) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Troubled Waters](https://open.spotify.com/album/5ibxI0a4EgHOBYGMkk5P0Y) | 4:06 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [TOKYOITE](https://open.spotify.com/track/6CyZCDqEgRAMjbJrzkpWnT) | [TOMOKO IDA](https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB) | [TOKYOITE](https://open.spotify.com/album/3MtWoSQsfhcelBCzUwaLAB) | 2:48 |
 | 49 | [Cloudy Skies](https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU) | [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ), [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Cloudy Skies](https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc) | 4:13 |
 
-Snapshot ID: `MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw`
+Snapshot ID: `MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj`

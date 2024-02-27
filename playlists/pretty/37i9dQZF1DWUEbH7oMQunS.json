@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 59765,
+  "num_followers": 59790,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx",
+  "snapshot_id": "MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Clearly",
-        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
-      },
-      "artists": [
-        {
-          "name": "Hillside Recording",
-          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
-        }
-      ],
-      "duration_ms": 223486,
-      "name": "Clearly",
-      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hold You Tight",
         "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 175133,
       "name": "Hold You Tight",
       "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Clearly",
+        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
+      },
+      "artists": [
+        {
+          "name": "Hillside Recording",
+          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
+        }
+      ],
+      "duration_ms": 223486,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "I Could Sing Of Your Love Forever - Instrumental",
-      "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 236386,
       "name": "* Consecrate *",
       "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "I Could Sing Of Your Love Forever - Instrumental",
+      "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -635,6 +635,38 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Hymns for Eventide",
+        "url": "https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 213370,
+      "name": "Nearer My God to Thee - Eventide Mix",
+      "url": "https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Young Oceans",
+        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "Great Is Our God",
+      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Yoga Practice & Mindfulness Music",
         "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
       },
@@ -659,22 +691,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Young Oceans",
-        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "Great Is Our God",
-      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Will Remember",
         "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 351646,
       "name": "I Will Remember",
       "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Hymns for Eventide",
-        "url": "https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 213370,
-      "name": "Nearer My God to Thee - Eventide Mix",
-      "url": "https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes of Wonder",
-        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 151169,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Contemporary Worship Hits",
         "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 179678,
       "name": "Lord I need You",
       "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 151169,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -923,6 +939,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -959,34 +991,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Echoes of Wonder",
-        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
       },
       "artists": [
         {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
-      },
-      "artists": [
-        {
-          "name": "Carinthia",
-          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
-        }
-      ],
-      "duration_ms": 411933,
-      "name": "Every Mountain View",
-      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 338504,
       "name": "Peace",
       "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
+      },
+      "artists": [
+        {
+          "name": "Carinthia",
+          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
+        }
+      ],
+      "duration_ms": 411933,
+      "name": "Every Mountain View",
+      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Higher Ways",
-        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
-      },
-      "artists": [
-        {
-          "name": "Olu Meduoye",
-          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
-        }
-      ],
-      "duration_ms": 333750,
-      "name": "Higher Ways",
-      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rekindle",
         "url": "https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 327186,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Higher Ways",
+        "url": "https://open.spotify.com/album/6FcRqLpn1eas7Mu76WCRgh"
+      },
+      "artists": [
+        {
+          "name": "Olu Meduoye",
+          "url": "https://open.spotify.com/artist/5xqhFZdZvx6TXidSCzqPj0"
+        }
+      ],
+      "duration_ms": 333750,
+      "name": "Higher Ways",
+      "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
     },
     {
       "added_at": "2023-07-28 04:02:00",

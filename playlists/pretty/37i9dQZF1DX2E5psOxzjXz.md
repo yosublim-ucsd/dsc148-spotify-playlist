@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,264 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,287 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 84 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 |
 | 85 | [Sub Theek Hai](https://open.spotify.com/track/2q0amZ8WgDGN7xBOBG7Dl6) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq) | [Sub Theek Hai](https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF) | 2:23 |
 
-Snapshot ID: `MCw1Y2M4YTA1ZmQwNWVkYmNiOTAwMGNjMDljYTA3NjQ5MTk4MjVhYTA0`
+Snapshot ID: `MCw5ZDRlZjA0Y2M5MDRiNWRjZTAwOGFjMzUzZDYzMTVhNGU1OTYyNzg4`

@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 1214867,
+  "2024-02-27": 1214875,
   "date_first_scraped": "2021-12-21",
   "description": "Soft and cozy acoustic covers of famous songs.",
   "name": "Chill Acoustic Covers",
@@ -1329,6 +1329,24 @@
       "duration_ms": 186560,
       "name": "Bless the Broken Road",
       "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "album": {
@@ -3517,7 +3535,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 146000,
       "name": "HURTFUL",
       "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"

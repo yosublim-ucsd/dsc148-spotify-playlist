@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Lawrence Fields Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,229 likes - 45 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,244 likes - 45 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 |
 | 2 | [Chester](https://open.spotify.com/track/6his7KKdPVSHQ9aUU2v62m) | [Mazarin](https://open.spotify.com/artist/1TK4K6ubLW1mCYZpWfSNRv) | [Chester](https://open.spotify.com/album/2w4Dei8BnVwsswJ4JCoeOH) | 8:21 |
-| 3 | [moon（feat\. Sara Wakui）](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon（feat\. Sara Wakui）](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
+| 3 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
 | 4 | [Motion](https://open.spotify.com/track/3nOqSknOTK1xN0ZwxSu2tv) | [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn), [Kyryllch](https://open.spotify.com/artist/7Ajotsth9cvhl7hX2VeFvt), [Andrii Frolov](https://open.spotify.com/artist/4JvXpML8Fo2hBNMVQMExVs), [Ivan Korniienko](https://open.spotify.com/artist/2dSx4VzsV1SB78xjKAuLBS), [Stanislav Diachenko](https://open.spotify.com/artist/4QLuMp5SszGid5FBSaWo4K) | [Motion](https://open.spotify.com/album/10NGY2OWKsOzCBaQKAA6b0) | 4:50 |
 | 5 | [Happy Song](https://open.spotify.com/track/619HrUZnhAoIXCAZgH4pK3) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [No Cosmos](https://open.spotify.com/album/4FzBKHHnmNPZ6HvN8gkIDY) | 4:41 |
 | 6 | [Linus with the Sick Burn](https://open.spotify.com/track/6mXmpS192kxmwUs894iz0H) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO) | [Linus With The Sick Burn](https://open.spotify.com/album/3RCs4LtRiYg3pfuPJLws3b) | 3:39 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 44 | [TRIP](https://open.spotify.com/track/3pM64kvoySAPp9m6MyyuNa) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [TRIP](https://open.spotify.com/album/4lSWHrokA8Dns4QENfvKdm) | 3:26 |
 | 45 | [strider](https://open.spotify.com/track/2RL1rKwbnmRCYc7HHAEXwE) | [DREAMSCAPES](https://open.spotify.com/artist/3MasxTtJV1RA8nnX53K3Bx) | [strider](https://open.spotify.com/album/5NoDLQ5QSJ4duUHcQVRXFs) | 4:27 |
 
-Snapshot ID: `MCxhZjcwMzkxOThiMGY4MGUyYmE1YjU5MmUwNWQzMWM5ZWJjMDI5ZTQ0`
+Snapshot ID: `MCxiYzc4MjMxMjFlZGNjMzk0Y2MzZmJhZDVhOWFjMTNiZWU1ZTk5ZDFh`

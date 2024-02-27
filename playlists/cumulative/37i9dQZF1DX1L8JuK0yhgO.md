@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-3,111 songs - 7 day 3 hr 31 min
+3,112 songs - 7 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2755,6 +2755,7 @@
 | [Wood Chopper](https://open.spotify.com/track/2xqouH70SMy49lr6ueCALL) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [maiya rei](https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ), [D5](https://open.spotify.com/artist/0ZLgrBbVKwrB1mMM4BTDKX) | [Wood Chopper](https://open.spotify.com/album/42xbmE0Ve1kH6vhghxNheU) | 2:28 | 2023-07-31 | 2023-08-07 |
 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2023-08-28 | 2023-09-04 |
 | [Working Class Anthem](https://open.spotify.com/track/5zr1oaT8nATIgplLPs6vB7) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Working Class Anthem](https://open.spotify.com/album/4v2W75mkbuGiM2Py0MPcOt) | 2:51 | 2023-08-28 | 2023-09-04 |
+| [Worlds End](https://open.spotify.com/track/2qwa4X0hkyvGl4r7dPih60) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Worlds End](https://open.spotify.com/album/4Jln0RSP9m7oSo5Xi9MTM5) | 2:04 | 2024-02-25 |  |
 | [Worldwide Princess](https://open.spotify.com/track/6wio2bKEvuzkTet7ToNI2m) | [Maphie](https://open.spotify.com/artist/38oAzEhxXOHHI96zBA29WP), [Yoyou](https://open.spotify.com/artist/217ChH8bJDq7t6NiqMK2dF) | [FORUM](https://open.spotify.com/album/3fs7dA4GlAjvSjjHFr6KI9) | 2:59 | 2023-03-26 | 2023-04-04 |
 | [Worm In The Apple](https://open.spotify.com/track/0ZBHa9TysExACr8i7OGQlf) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Worm In The Apple](https://open.spotify.com/album/2UsZcm499RxgMvb1Hn4U8i) | 2:17 | 2024-01-28 | 2024-02-05 |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2023-03-12 | 2023-03-21 |
@@ -2958,7 +2959,7 @@
 | [不自由の中](https://open.spotify.com/track/3tyikmaHUEnM0jn1MDTUJs) | [黒魔 \(Chroma\)](https://open.spotify.com/artist/2Gtmf2gf0Rs6NN2RTld3O2) | [不自由の中](https://open.spotify.com/album/3qHh3XhvMcTMUH0azZaDkH) | 3:43 | 2023-09-25 | 2023-10-02 |
 | [不要煩](https://open.spotify.com/track/1WVnhma7zzI2EAjHkglyhe) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/6N6wopy7YBAeu265Qc3mbh) | 5:08 | 2024-01-28 | 2024-02-02 |
 | [不要煩](https://open.spotify.com/track/4agWmkaREyGIj9LnAzwurZ) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [不要煩](https://open.spotify.com/album/2Ru6wYnq25w72SPBavb6It) | 5:08 | 2024-01-28 | 2024-02-05 |
-| [世界の終わり](https://open.spotify.com/track/2bYn5OJ5dxADM9bV9ZHN3t) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [世界の終わり](https://open.spotify.com/album/51VlSb0eonAG86sk2GcC4H) | 2:04 | 2024-02-25 |  |
+| [世界の終わり](https://open.spotify.com/track/2bYn5OJ5dxADM9bV9ZHN3t) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [世界の終わり](https://open.spotify.com/album/51VlSb0eonAG86sk2GcC4H) | 2:04 | 2024-02-25 | 2024-02-27 |
 | [乱痴気](https://open.spotify.com/track/1ZwmnDFffrkCgc4xzGVfqx) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [乱痴気](https://open.spotify.com/album/2lhPOikWoaNbBvmjmREKC3) | 3:41 | 2023-12-10 | 2023-12-18 |
 | [二つ目の家族 \- Sped Up Version](https://open.spotify.com/track/57MFJJBr3qfaYXtz6UKe3t) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You \(Sped Up Version+Live Version\)](https://open.spotify.com/album/2tU8IM4u4YMOoqgvLT2RUo) | 2:55 | 2023-07-10 | 2023-07-17 |
 | [人生はラブコメじゃない](https://open.spotify.com/track/4Elw59NCfkX7GU4M3u4Csb) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [人生はラブコメじゃない](https://open.spotify.com/album/4oYrPsYTM0FSHZyGhJKrSM) | 2:30 | 2023-09-04 | 2023-09-11 |

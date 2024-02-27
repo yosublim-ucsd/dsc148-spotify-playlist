@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57109,
+  "num_followers": 57114,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWU0ZGExMGM4OGM5YjYyOGNkYjRmZWRlMTkxY2MyNjMxODI2YWU3",
+  "snapshot_id": "MCw5MjE5NmY5ZGEyM2Y4NTczZjFlMDE1ZmRlODhjZDM3NDFiYTUyN2I2",
   "tracks": [
     {
       "added_at": "2024-02-16 09:14:10",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/4QCj8gMq1fH5Pg06bpik3x"
     },
     {
+      "added_at": "2024-02-26 04:59:06",
+      "album": {
+        "name": "Meetadene Veene (From \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/5wAXK9k4QwX1y1eAIz315g"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 193321,
+      "name": "Meetadene Veene (From \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
+    },
+    {
       "added_at": "2024-02-22 10:15:57",
       "album": {
         "name": "Paapa Santhosha (From \"Bachelor Party\")",
@@ -83,6 +103,62 @@
       "duration_ms": 179253,
       "name": "Paapa Santhosha (From \"Bachelor Party\")",
       "url": "https://open.spotify.com/track/1nrSPuvDqrA947Cm2DPKNO"
+    },
+    {
+      "added_at": "2024-01-30 12:16:19",
+      "album": {
+        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 262725,
+      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
+    {
+      "added_at": "2024-02-26 11:54:15",
+      "album": {
+        "name": "Agali Iralareno (From \"Shakhahaari\")",
+        "url": "https://open.spotify.com/album/6DC4tG2nFXgrd5XEWDlvYy"
+      },
+      "artists": [
+        {
+          "name": "Mayur Ambekallu",
+          "url": "https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY"
+        },
+        {
+          "name": "Chandrashekhara Kambara",
+          "url": "https://open.spotify.com/artist/6EYRxwHAGnVZt2QtmlJ9RW"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Agali Iralareno - From \"Shakhahaari\"",
+      "url": "https://open.spotify.com/track/7mjVi2K8KKADjAAJNPIYeY"
+    },
+    {
+      "added_at": "2024-02-26 11:56:03",
+      "album": {
+        "name": "Manadanne (From \"Jog101\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/41Hna42eX35xAnm1bSRtRp"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Manadanne (From \"Jog101\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2AkQiTgCq6QAI0yam6vZIL"
     },
     {
       "added_at": "2024-02-22 10:18:09",
@@ -203,26 +279,6 @@
       "duration_ms": 127765,
       "name": "Devil The Hero Theme (From \"Devil The Hero\")",
       "url": "https://open.spotify.com/track/42NA1xlDyARsiNnGet2liL"
-    },
-    {
-      "added_at": "2024-01-30 12:16:19",
-      "album": {
-        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
-        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 262725,
-      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
-      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
     },
     {
       "added_at": "2024-02-13 12:56:20",
@@ -1609,50 +1665,6 @@
       "url": "https://open.spotify.com/track/4GfL2pMoV9ezqb96ghS0Sq"
     },
     {
-      "added_at": "2024-01-05 11:04:23",
-      "album": {
-        "name": "Monsoon Raaga (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oixp1AOZA785RiouHdBmR"
-      },
-      "artists": [
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        }
-      ],
-      "duration_ms": 164460,
-      "name": "Muddada Moothi (From \"Monsoon Raaga\")",
-      "url": "https://open.spotify.com/track/7ImmZM54jCxOxOkP96Gt2x"
-    },
-    {
-      "added_at": "2024-01-03 06:20:24",
-      "album": {
-        "name": "Baaro Baaro Bottle Tharo (from \"Matinee\")",
-        "url": "https://open.spotify.com/album/0ZMMArRHJcD9gc9DwOHwZc"
-      },
-      "artists": [
-        {
-          "name": "Poornachandra Tejaswi S.V.",
-          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
-        },
-        {
-          "name": "Sathish Ninasam",
-          "url": "https://open.spotify.com/artist/5KegCXoizRH58V8svTCHHn"
-        },
-        {
-          "name": "Real Ranna",
-          "url": "https://open.spotify.com/artist/2h9oVdNDYkvFICEmzPnsDO"
-        }
-      ],
-      "duration_ms": 221085,
-      "name": "Baaro Baaro Bottle Tharo (from \"Matinee\")",
-      "url": "https://open.spotify.com/track/75SHothxMmRqp5itO7KiMN"
-    },
-    {
       "added_at": "2024-01-05 05:03:40",
       "album": {
         "name": "Noorupayi Mix (from \"Bheema\")",
@@ -1699,74 +1711,6 @@
       "duration_ms": 201777,
       "name": "Eerappanu (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/1qscQ1xijcC6dBuS4HN4BF"
-    },
-    {
-      "added_at": "2023-12-21 09:15:43",
-      "album": {
-        "name": "Emayyindho Emito (From \"Mangalavaaram\")",
-        "url": "https://open.spotify.com/album/1OwdlU4fg9joNQCn7aT3fQ"
-      },
-      "artists": [
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Chaitanya Prasad",
-          "url": "https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf"
-        }
-      ],
-      "duration_ms": 231131,
-      "name": "Emayyindho Emito (From \"Mangalavaaram\")",
-      "url": "https://open.spotify.com/track/6TQ3JzAH2uG4Lkgr737bLa"
-    },
-    {
-      "added_at": "2023-12-07 12:32:14",
-      "album": {
-        "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
-        "url": "https://open.spotify.com/album/5l4sstEqegMJYkX8FtU6jc"
-      },
-      "artists": [
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Anil CJ",
-          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
-      "url": "https://open.spotify.com/track/6NcPqD2dMeDQXvsO5OvwwF"
-    },
-    {
-      "added_at": "2023-12-13 13:03:56",
-      "album": {
-        "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
-        "url": "https://open.spotify.com/album/41t989WnmcAp7zZEVOFSlq"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Kinnal Raj",
-          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
-        },
-        {
-          "name": "Vijayalaxmi Mettinahole",
-          "url": "https://open.spotify.com/artist/0Y21TyAFkjyalKuDvyvT75"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Aakaasha Gadiya (From \"Salaar Cease Fire - Kannada\")",
-      "url": "https://open.spotify.com/track/3xiIegrnJHAfte9IzO8hfc"
     }
   ],
   "unique_name": "Latest Kannada",

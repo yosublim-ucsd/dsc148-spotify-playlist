@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-850 songs - 2 day 3 hr 40 min
+851 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 | 2023-12-09 |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
 | [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 |  |
-| [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 |  |
+| [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 | 2024-02-27 |
 | [Deja Vu](https://open.spotify.com/track/4hpCaW3UntoXmsgTbl5FVV) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Deja Vu](https://open.spotify.com/album/5rF0AAKnkVnlYaAYXF0eng) | 3:46 | 2023-06-09 |  |
 | [Delyo's Voyage](https://open.spotify.com/track/4cNnZvWG0RuQpVsb3jbcu8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Delyo's Voyage](https://open.spotify.com/album/03BW71V7SXKx2drYPScy6B) | 4:26 | 2022-04-08 | 2023-04-09 |
 | [Departure](https://open.spotify.com/track/2rESTwxLf2TgzK0vpcHaq6) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Departure](https://open.spotify.com/album/2pqx5Sjc6xGWD5p87aXhUC) | 3:27 | 2023-07-14 |  |
@@ -477,6 +477,7 @@
 | [Midnight Sun](https://open.spotify.com/track/0YAYFl6Nsj6nYrTYKaIj2g) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy), [Dave Raval](https://open.spotify.com/artist/3MtctuuM4lt9jFuVA8zZxg) | [Midnight Sun](https://open.spotify.com/album/6xuGSr1yn3W4vIgaQ4oOQe) | 3:26 | 2022-10-14 | 2023-06-10 |
 | [Militia](https://open.spotify.com/track/5BPmf3wlUmDDQvsFMJaXby) | [Rodrigo Deem](https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF) | [Militia](https://open.spotify.com/album/6vyYIItTUALUcBmCGreLRp) | 3:30 | 2022-01-21 | 2022-07-08 |
 | [Million Stars](https://open.spotify.com/track/58LpK5TgVzFDounJPpBydQ) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Million Stars](https://open.spotify.com/album/3WUx199WAQBeSOxSkPftCh) | 3:36 | 2022-12-23 | 2023-07-08 |
+| [Mine To Keep](https://open.spotify.com/track/3vr2YH4NansAvoWPrIAPEy) | [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA), [Neev Kennedy](https://open.spotify.com/artist/7pmlqf0aeApxVFDwlCANsu) | [Mine To Keep](https://open.spotify.com/album/2MFNv4JzpiEtH6LkJZ0S4i) | 3:50 | 2024-02-23 |  |
 | [Minuetto](https://open.spotify.com/track/1viuOuVuZ6Q4BmlMYi9SDm) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY), [Frank Spector](https://open.spotify.com/artist/1LlWF34CT7pudW0sFZpsuG), [Luca Morris](https://open.spotify.com/artist/4ZVC41uL0ehcBycZaTN68j) | [Minuetto](https://open.spotify.com/album/62e3MjKwa0xzs0LppFYRht) | 3:38 | 2023-06-30 |  |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-10 | 2023-07-22 |
 | [Miracle \(with Ellie Goulding\) \- Ben Nicky Extended Remix](https://open.spotify.com/track/0FPYgYDpOuWU1Hbrw3tvon) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [Miracle \(with Ellie Goulding\) \[Remixes\]](https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab) | 5:19 | 2023-06-23 | 2023-08-19 |

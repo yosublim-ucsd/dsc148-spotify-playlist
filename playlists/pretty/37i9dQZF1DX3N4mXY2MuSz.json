@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 63190,
+  "num_followers": 63182,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmU2YzVjYmQ5ZDI4MTIwMzAxYjVmOTJhMjlmYTc0ZTEwY2Q0NmZm",
+  "snapshot_id": "MCwzM2M2Y2ExNjNjZDJkYzg3OThkMjViNTY1ZjYyODgwODY4NmY0YmJm",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "sympathy 4 the grinch",
         "url": "https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 215293,
       "name": "Deadbeat Holiday",
       "url": "https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Merry Christmas, Kiss My Ass",
-      "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "I Won't Be Home For Christmas",
         "url": "https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 198093,
       "name": "I Won't Be Home For Christmas",
       "url": "https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Merry Christmas, Kiss My Ass",
+      "url": "https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 81080,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
         "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 81080,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -407,38 +407,6 @@
       "duration_ms": 99573,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Let It Snow Baby...Let It Reindeer",
-        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
-      },
-      "artists": [
-        {
-          "name": "Relient K",
-          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -459,6 +427,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Not Another Christmas Song",
         "url": "https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas With Weezer",
         "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 124653,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Let It Snow Baby...Let It Reindeer",
+        "url": "https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Groovy Xmas",
         "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Nothing For Christmas",
-      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
+      "duration_ms": 214733,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
       "artists": [
         {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 214733,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
+      "duration_ms": 215200,
+      "name": "Nothing For Christmas",
+      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "The Goldfinger Christmas EP",
-        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 86386,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Happy Holidays, You Bastard",
         "url": "https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 43526,
       "name": "Happy Holidays, You Bastard",
       "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "The Goldfinger Christmas EP",
+        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 86386,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Ruin Jonny's Bar Mitzvah",
+        "url": "https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Hava Nagila",
+      "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Hopeless For The Holidays",
         "url": "https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 179054,
       "name": "December's Here",
       "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Ruin Jonny's Bar Mitzvah",
-        "url": "https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Hava Nagila",
-      "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 107063,
-      "name": "Carol Of The Beers",
-      "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 52250,
       "name": "It's Beginning to Look a Lot Like Shitmas",
       "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 107063,
+      "name": "Carol Of The Beers",
+      "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "FM Static",
-          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Christmas Shoes",
-      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christma-ska",
         "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 159133,
       "name": "Rudy Christmas A Jail",
       "url": "https://open.spotify.com/track/1iICcD096UT9ckrlTent5j"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "FM Static",
+          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Christmas Shoes",
+      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
     },
     {
       "added_at": "2023-11-18 13:41:26",

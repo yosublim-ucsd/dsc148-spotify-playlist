@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,317 likes - 147 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,378 likes - 147 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 36 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/37MIbOM51JGsex15cprRXV) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1ZUXPYKXlg2Su8jB2h2Abp) | 2:24 |
 | 37 | [Ziggy Stardust](https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Ziggy Stardust](https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w) | 3:45 |
 | 38 | [Up Where We Belong](https://open.spotify.com/track/3DGhWJz1fSwd80IOi6LjUH) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Up Where We Belong](https://open.spotify.com/album/2n5lxbfM2ypvRahQ6LDrvc) | 3:21 |
-| 39 | [The Path of the Wind](https://open.spotify.com/track/12Ij9SbpofEHe5uOjYrjJo) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [The Path of the Wind](https://open.spotify.com/album/0WCAk84CLdkrJTCc77pESJ) | 1:42 |
+| 39 | [The Path of the Wind \(From "My Neighbour Totoro"\)](https://open.spotify.com/track/12Ij9SbpofEHe5uOjYrjJo) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [The Path of the Wind \(From "My Neighbour Totoro"\)](https://open.spotify.com/album/0WCAk84CLdkrJTCc77pESJ) | 1:42 |
 | 40 | [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 |
 | 41 | [Through The Fire](https://open.spotify.com/track/7E59DQ6k27g52Av9z4KEe6) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Through The Fire](https://open.spotify.com/album/6VMNvH3uJxczSKgqI3SOFJ) | 3:22 |
 | 42 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 146 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 147 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 
-Snapshot ID: `MCwyMGM0MmEwYzdhZjc2OGI3YzA5MWVkYTg5MmI4MmU2MGQxZmM2YTcx`
+Snapshot ID: `MCw5ZjFkZThjNzFkMjU0NzdjYzAzODA2MjFhMjRmY2Q3NmM5YWJmY2M0`

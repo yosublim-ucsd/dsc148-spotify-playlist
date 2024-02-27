@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 446134,
+  "num_followers": 446182,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBlYmU1NTRkYjEwOWI4YWRhOTNhZTgwM2ZiMTZjMjUzMjI3MDU0",
+  "snapshot_id": "MCw1M2YxZjRkNjYwMzg4MzdlMDBlYjAwNjIwNjZjNjkxMDM4NjZlNDIy",
   "tracks": [
     {
       "added_at": "2024-02-22 09:11:45",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-22 09:11:45",
       "album": {
-        "name": "trading places",
-        "url": "https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP"
-      },
-      "artists": [
-        {
-          "name": "Mig Palmer",
-          "url": "https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y"
-        }
-      ],
-      "duration_ms": 108181,
-      "name": "trading places",
-      "url": "https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj"
-    },
-    {
-      "added_at": "2024-02-22 09:11:45",
-      "album": {
         "name": "Breakfast In Bed",
         "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 166491,
       "name": "Breakfast In Bed",
       "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
+    },
+    {
+      "added_at": "2024-02-22 09:11:45",
+      "album": {
+        "name": "trading places",
+        "url": "https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP"
+      },
+      "artists": [
+        {
+          "name": "Mig Palmer",
+          "url": "https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y"
+        }
+      ],
+      "duration_ms": 108181,
+      "name": "trading places",
+      "url": "https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj"
     },
     {
       "added_at": "2024-02-22 09:11:45",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-22 09:11:45",
       "album": {
-        "name": "dream surfer",
-        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
-      },
-      "artists": [
-        {
-          "name": "loyCOY",
-          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "dream surfer",
-      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
-    },
-    {
-      "added_at": "2024-02-22 09:11:45",
-      "album": {
         "name": "superabundance",
         "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2024-02-22 09:11:45",
+      "album": {
+        "name": "dream surfer",
+        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
+      },
+      "artists": [
+        {
+          "name": "loyCOY",
+          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "dream surfer",
+      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
     },
     {
       "added_at": "2024-02-22 09:11:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-02-22 09:11:45",
       "album": {
-        "name": "Prelude to the Dawn",
-        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
-      },
-      "artists": [
-        {
-          "name": "Behind Clouds",
-          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "But of All We Did Together, Was It Worth It?",
-      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
-    },
-    {
-      "added_at": "2024-02-22 09:11:45",
-      "album": {
         "name": "Frostthrone",
         "url": "https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 228000,
       "name": "Frostthrone",
       "url": "https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF"
+    },
+    {
+      "added_at": "2024-02-22 09:11:45",
+      "album": {
+        "name": "Prelude to the Dawn",
+        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+      },
+      "artists": [
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "But of All We Did Together, Was It Worth It?",
+      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
     },
     {
       "added_at": "2024-02-22 09:11:45",

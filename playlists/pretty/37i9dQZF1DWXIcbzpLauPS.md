@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Alpha Wolf + ICE\-T
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,244 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,411 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 71 | [Panic Waves](https://open.spotify.com/track/2UE48m09FyDdc6Ot1sGKqS) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Panic Waves](https://open.spotify.com/album/5aNJN4zGJTPKvie47D56aE) | 4:07 |
 | 72 | [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 |
 | 73 | [The Reckoning](https://open.spotify.com/track/5TWO6RPpkaaan9mO7Uyou2) | [Dayshell](https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX) | [Pegasus](https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w) | 4:01 |
-| 74 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 |
+| 74 | [Perpetual Terminal](https://open.spotify.com/track/4Sa3ILVhdU197MT78j1QOa) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4VNi4KMdhD5OYfsClMJxii) | 5:47 |
 | 75 | [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 |
 | 76 | [A Different Shade Of Misery](https://open.spotify.com/track/3DwTUh6jG71oZC2j6wyIOq) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [A Different Shade Of Misery](https://open.spotify.com/album/0EUw8C9ILegKHE3AzgmLID) | 3:38 |
 | 77 | [Pushing The Pink Envelope](https://open.spotify.com/track/0ktqowpZZ3losVs1xUf9lg) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/5o0XYoeBMFq6zeyADEfBqU) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 | 100 | [VIOLENT JOY](https://open.spotify.com/track/4WsMqcjOJFnRggNYBUINQl) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [Violent Joy](https://open.spotify.com/album/55Kv93b3BrRFBzwADP6Xo7) | 3:01 |
 
-Snapshot ID: `MCw0YmFhZjAzNGYzZmE2YzA4YTM4OTk2MThlZTM3MGFjMjliY2ZiZmE5`
+Snapshot ID: `MCw4MTRhNGRhZDcwYjg1YTkzYThlZGNkYWM5ZTdlYjZkODVhYzFiNDRi`

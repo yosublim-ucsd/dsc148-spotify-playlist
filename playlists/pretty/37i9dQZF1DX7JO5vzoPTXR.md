@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:59uIMi3xrGO0kwfy7Zea24">Navvy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,550 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,560 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 34 | [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 |
 | 35 | [I WANT U](https://open.spotify.com/track/1HOoBrjejodwLuc3yv1loA) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [DOWN 2 EARTH](https://open.spotify.com/album/5hex99Indqa3PADdOOFmDi) | 1:55 |
 
-Snapshot ID: `MCw4YTA1NGI2OWQ4NGQ1NjNmOGNmMTFhNTRkYmUwYzU3YTQyZTQzZjQ3`
+Snapshot ID: `MCxmODVhOGM5M2NhNzJkZmQ4YTc1NTM0MjVkMDIzZGZiNmY2YTgzYzcy`

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 204080,
+  "num_followers": 204155,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTIwNjJmYWI5OGE1NmU0NGZhYmZlYzY0ODEwOWZiODg2MzFkZGQ3",
+  "snapshot_id": "MCxjOTgzNDUxNWI5MmJiODkyYzVhYjIyMDZmMmIzMDc3YjM5NDY1NGVi",
   "tracks": [
     {
       "added_at": "2024-02-23 11:13:46",
@@ -707,6 +707,26 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
         "name": "Can't Escape",
         "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 188160,
       "name": "Tune",
       "url": "https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Ikebana - EP",
         "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
       },
@@ -903,22 +887,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "One Ting",
-        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "One Ting",
-      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 213743,
       "name": "Let Go (with Aleya Mae)",
       "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "One Ting",
+        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "One Ting",
+      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
+        "name": "Want (ur body)",
+        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 274672,
+      "name": "Want (ur body)",
+      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
       },
@@ -1023,18 +1039,22 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Want (ur body)",
-        "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Corrupt (UK)",
+          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
+        },
+        {
+          "name": "GAWP",
+          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
         }
       ],
-      "duration_ms": 274672,
-      "name": "Want (ur body)",
-      "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
+      "duration_ms": 181418,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1063,26 +1083,6 @@
       "duration_ms": 198400,
       "name": "Talk to Me Nice",
       "url": "https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
-      },
-      "artists": [
-        {
-          "name": "Corrupt (UK)",
-          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
-        },
-        {
-          "name": "GAWP",
-          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
-      },
-      "artists": [
-        {
-          "name": "Jacko",
-          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
-        }
-      ],
-      "duration_ms": 232888,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Came Here For",
         "url": "https://open.spotify.com/album/2hJch4KUiT6m6vLURAeDCG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 214545,
       "name": "Came Here For",
       "url": "https://open.spotify.com/track/2V3S1RkfQlvCZQIjO62LKa"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
+      },
+      "artists": [
+        {
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
+        "name": "Wavelord Bizniz",
+        "url": "https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK"
       },
       "artists": [
         {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
         },
         {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+          "name": "Napes",
+          "url": "https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
+      "duration_ms": 280656,
+      "name": "Wavelord Bizniz",
+      "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
     }
   ],
   "unique_name": "Bassline Bangers",

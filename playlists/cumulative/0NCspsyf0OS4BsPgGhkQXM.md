@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,023 songs - 2 day 5 hr 40 min
+1,024 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Crown of Lies](https://open.spotify.com/track/59waNUA8R0Rt3OZ9q7rwrw) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Vicious Circle](https://open.spotify.com/album/3AWkCUGopNfIhNQpX1nfho) | 3:07 | 2022-01-14 | 2022-09-15 |
 | [Cruisin](https://open.spotify.com/track/4cloSS3oel9ebFIhCDJOcR) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [Cruisin](https://open.spotify.com/album/6ddMElOzexBvFbNV4ZKWEX) | 2:52 | 2022-02-18 | 2022-03-19 |
 | [CRUSH](https://open.spotify.com/track/3l5KAvmMw41kdoU4lZZHVJ) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [CRUSH](https://open.spotify.com/album/4NnwLNTiAQkGZvhs3b9GET) | 2:42 | 2022-03-25 | 2022-04-30 |
+| [cry](https://open.spotify.com/track/5pQYJXn5R1vFH7dWQjCYQl) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/1ZlMjs8vlEf19g3APSF892) | 2:11 | 2024-02-26 |  |
 | [D E A T H Metal Rage](https://open.spotify.com/track/54UnnwazTfj2nI5O98kzTx) | [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [D E A T H METAL RAGE](https://open.spotify.com/album/1DI6dxxuE5EaKX1hqG5HVv) | 2:20 | 2022-10-24 | 2022-12-10 |
 | [Daggers](https://open.spotify.com/track/0D6OgpGKzbKrGVn3MZmEIQ) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Twilight](https://open.spotify.com/album/5ZSqXREKvuRcwsOhZvIMVG) | 2:51 | 2022-06-03 | 2022-09-15 |
 | [Dale Vuelta](https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU), [episcool](https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4) | [Dale Vuelta](https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD) | 3:00 | 2022-11-16 | 2023-04-29 |

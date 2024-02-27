@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,150 songs - 2 day 16 hr 25 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,151 songs - 2 day 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1158,5 +1158,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1148 | [Victory](https://open.spotify.com/track/2r70WCWAe6rSse7KL9ItdY) | [Rayvolt](https://open.spotify.com/artist/1R2w3Q79ySxr9LyhQL4ty2), [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Victory](https://open.spotify.com/album/0ZStfzITWNkS9n2g4Jq4q4) | 3:43 |
 | 1149 | [LEGEND \(feat\. XELOR\)](https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [No Rules](https://open.spotify.com/album/4BthNnsYQRqzWirIhkpNl9) | 3:03 |
 | 1150 | [Miniskirt](https://open.spotify.com/track/27bAbN1x4o0Aif1ruHtBfw) | [Tritium](https://open.spotify.com/artist/4NhYoKVnVJMTBCr7CRQt4w), [Rowdy](https://open.spotify.com/artist/2hmckvtgNataPUqMug2ksV) | [Miniskirt](https://open.spotify.com/album/05YMjHBOZtkIqfoi7AUx0M) | 3:50 |
+| 1151 | [KCKPRN](https://open.spotify.com/track/7FrV6yX49s94lvvM0Biysg) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [KCKPRN](https://open.spotify.com/album/5R2UErVCGjqlKTcMKHzUu0) | 2:13 |
 
-Snapshot ID: `MTE5MywzM2MzZjA3NTZhNzY2MTEyNjlkNGJjNzNlNjRhNzkwNDgxZTQ1N2I0`
+Snapshot ID: `MTE5NCwwOTQ1ZGQzN2Q2YTVkMGUzMzJjMjk3MzJlMTAyMjA4NzY5ZmUwZGMw`

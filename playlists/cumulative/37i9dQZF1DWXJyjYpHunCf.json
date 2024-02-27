@@ -4478,7 +4478,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 186973,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
@@ -5848,6 +5848,24 @@
       "duration_ms": 279653,
       "name": "Time Stand Still",
       "url": "https://open.spotify.com/track/6DblObtQQRnyqx9z6KVGFy"
+    },
+    {
+      "album": {
+        "name": "trees talk",
+        "url": "https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO"
+      },
+      "artists": [
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "trees talk",
+      "url": "https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16"
     },
     {
       "album": {

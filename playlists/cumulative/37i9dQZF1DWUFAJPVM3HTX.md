@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc?si=sCJpLXugRKKZssTKQEG4ig"> Josef Lamercier </a>\. Updates every Wednesday.
 
-2,057 songs - 4 day 9 hr 46 min
+2,058 songs - 4 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,7 +962,8 @@
 | [Keys](https://open.spotify.com/track/07QiIu2CE9j2yuKmo8XZvx) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Keys](https://open.spotify.com/album/5gDvyk122g7t7QihZBKVrR) | 3:51 | 2021-12-01 | 2022-01-13 |
 | [Khadejah](https://open.spotify.com/track/3zrkrtka1h9Gfc7hMBvdyU) | [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl) | [JamPak Spring '23](https://open.spotify.com/album/5UX2LNdPA85YxwFya3hpOl) | 2:14 | 2023-04-12 | 2023-08-04 |
 | [Kill For Me](https://open.spotify.com/track/2yfHDd0rPoElTIYyHo5G41) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Kill For Me](https://open.spotify.com/album/7pZtsED6CbIjHuYpKl1xNJ) | 1:42 | 2023-02-15 | 2023-05-06 |
-| [Killa](https://open.spotify.com/track/4iw1I7SDIs1on54qPSfNeM) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Killa](https://open.spotify.com/album/7w5yz9k2Uk3wOncaIPJjZF) | 2:01 | 2024-02-21 |  |
+| [Killa](https://open.spotify.com/track/1HEcHAoEry62baI40swiFd) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Fate Loves Irony](https://open.spotify.com/album/4sfXXUtY2VizTQgQrT6imN) | 2:01 | 2024-02-21 |  |
+| [Killa](https://open.spotify.com/track/4iw1I7SDIs1on54qPSfNeM) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Killa](https://open.spotify.com/album/7w5yz9k2Uk3wOncaIPJjZF) | 2:01 | 2024-02-21 | 2024-02-27 |
 | [Killing It](https://open.spotify.com/track/4X7l2qd1q8g92N2Bof5Qkd) | [Elif Dame](https://open.spotify.com/artist/0SxhCRUBtbMq1EdVV257PO), [GANZ](https://open.spotify.com/artist/6sUbCA1obWzdoJ1FM3I9Ks) | [Killing It](https://open.spotify.com/album/2fYuuU45ynrqEQ57uWOMaQ) | 3:45 | 2023-07-14 | 2023-08-26 |
 | [Kind and Nasty](https://open.spotify.com/track/7w1SCVdXT4EwWLDjodMyjf) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Kind and Nasty](https://open.spotify.com/album/0efUzTrEnHuaGZdRaHmGw9) | 2:56 | 2023-06-02 | 2023-08-04 |
 | [Kinda Love](https://open.spotify.com/track/548cTdHVWvO8YTcqW7FzS9) | [Ashleyn](https://open.spotify.com/artist/3Xkj2AWTceLmIkrP8RC96c) | [Kinda Love](https://open.spotify.com/album/443uct6tMBcxhXK2bLOO80) | 2:54 | 2022-02-02 | 2022-03-31 |

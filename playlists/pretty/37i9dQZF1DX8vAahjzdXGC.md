@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Arsy Widianto, Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,930 likes - 106 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,974 likes - 106 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 40 | [FRUITS OF LABOR](https://open.spotify.com/track/3YPovQfGXCD4fhVESxwLz8) | [Cito Gakso](https://open.spotify.com/artist/7N3quq8Eg4bBzq3Jo53zJP) | [FRUITS OF LABOR](https://open.spotify.com/album/2e66IH016ve5npPq7zpocO) | 3:16 |
 | 41 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
 | 42 | [Pulang \(apa yang kau cari\)](https://open.spotify.com/track/1i2daOPiOt2WUavNZPT4od) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [Pulang \(apa yang kau cari\)](https://open.spotify.com/album/0n8LxBrC4PGsNcD9YAqpHQ) | 3:49 |
-| 43 | [Glue](https://open.spotify.com/track/5SYd6IN1yVsVXeJLBhDyJw) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Glue](https://open.spotify.com/album/05ladeAY3Vo6yH0eTPUBhR) | 2:52 |
+| 43 | [GLUE](https://open.spotify.com/track/5SYd6IN1yVsVXeJLBhDyJw) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [GLUE](https://open.spotify.com/album/05ladeAY3Vo6yH0eTPUBhR) | 2:52 |
 | 44 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 |
 | 45 | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 |
 | 46 | [Fashion Icon](https://open.spotify.com/track/69bzIFqUFyIjeFIe45jFni) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Fashion Icon](https://open.spotify.com/album/3q4wWa29EzzrMBcvxd6cos) | 2:09 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 76 | [Delusional](https://open.spotify.com/track/7IuESz4oeZ8Cvk7PnnPVy5) | [Gugun Blues Shelter](https://open.spotify.com/artist/5sIvntdXv3HcJucbkLNePp) | [Delusional](https://open.spotify.com/album/6l5WGps52CmRcvW7WbyoSf) | 4:16 |
 | 77 | [Isi Hati \- From "Melodate"](https://open.spotify.com/track/3aWdJOcKFwVniGuVD0b1Fh) | [Avia Athalia](https://open.spotify.com/artist/5TT4XW9r3HNJ4elktvvzUE) | [Isi Hati \(From "Melodate"\)](https://open.spotify.com/album/2pn4jGlwvGfQQzBToaQYKO) | 3:06 |
 | 78 | [Dari Hati](https://open.spotify.com/track/3XBNm5G7uhsBU1hhHOC2pA) | [NUBICA](https://open.spotify.com/artist/3WPe1m1f5FSE9gaeHzzJq9) | [Dari Hati](https://open.spotify.com/album/75WDAKk1KfYUjJ1uCvMiFp) | 4:47 |
-| 79 | [Waktu](https://open.spotify.com/track/3l56vp662K3q6glphUa8CN) | [Reyzha](https://open.spotify.com/artist/2Q6yXg5u4pFDF5OCqLMxKw) | [Reyzha](https://open.spotify.com/album/52CFKPFJX8kRtDktzf6Ofb) | 3:55 |
+| 79 | [Waktu](https://open.spotify.com/track/3l56vp662K3q6glphUa8CN) | [Reyzha](https://open.spotify.com/artist/2Q6yXg5u4pFDF5OCqLMxKw) | [Waktu](https://open.spotify.com/album/52CFKPFJX8kRtDktzf6Ofb) | 3:55 |
 | 80 | [Asik sik sik](https://open.spotify.com/track/2oeh8IA1qaxYx8A4UsNLoM) | [PORIS](https://open.spotify.com/artist/6oW4eaSyUiBItGKBghBSTe), [Wicigo Shawty](https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx), [Sexy Goath](https://open.spotify.com/artist/3W5jBEPEo6sAcvVOyL9RnY) | [Asik sik sik](https://open.spotify.com/album/6XOKVRvgZNkG9jjDzmQBEF) | 2:22 |
-| 81 | [Si Manis](https://open.spotify.com/track/6S0wpphUOCOhUm4KnIrqw2) | [Kuburan & Hydro Koplo](https://open.spotify.com/artist/5ZJUGNb3PCZnHfcnKK08Jh) | [Si Manis](https://open.spotify.com/album/1H8xGQEfT1rxJBFPi7GPwh) | 3:53 |
+| 81 | [Si Manis](https://open.spotify.com/track/6S0wpphUOCOhUm4KnIrqw2) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb), [Hydro Koplo](https://open.spotify.com/artist/2HcpnLsxMuost5q2UP9oCc) | [Si Manis](https://open.spotify.com/album/1H8xGQEfT1rxJBFPi7GPwh) | 3:53 |
 | 82 | [Kala](https://open.spotify.com/track/5qZaUXReflJ1xBAVoCkCNH) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [432](https://open.spotify.com/album/3Y8arCliQxNDeECDJWFM8M) | 3:42 |
 | 83 | [Jalur Sederhana](https://open.spotify.com/track/51E3gEbBKHzXNKNePh2OxL) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jalur Sederhana](https://open.spotify.com/album/6nDD5YC6D13gJ1SSalUiJC) | 3:34 |
 | 84 | [PASTEL](https://open.spotify.com/track/4q0CYq46WxuMBCrXcs57vq) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [PASTEL](https://open.spotify.com/album/1QxYNSafFlcKwmnazaU8yE) | 3:20 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 105 | [it's better..?](https://open.spotify.com/track/6cqT6ViBsBdNeuu0T2a1NQ) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [it's better..?](https://open.spotify.com/album/2ZiYpPxsxgdYqmSyhAwMkE) | 2:31 |
 | 106 | [last time to say good bye](https://open.spotify.com/track/4KPwXRoWPiNBmPGxhPw22l) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn), [Peach Panicha](https://open.spotify.com/artist/4TD4e5RXY48KUakKXpRTSF) | [last time to say good bye](https://open.spotify.com/album/0gBAtFOsF4cDCK9S653eXT) | 3:34 |
 
-Snapshot ID: `MCw4YmY2ZjUxYjQwYTIzNzhjNjA0YWY2YjI0NjBlZTM3YmZjNzlkZjcz`
+Snapshot ID: `MCxjOTNlMmFlYWE3YTVhY2ZkNDY3YWEwN2NjMzNkOGIwMzMxNGM1NzQ4`

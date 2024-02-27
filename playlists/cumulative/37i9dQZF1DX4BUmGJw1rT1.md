@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-224 songs - 15 hr 30 min
+225 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,14 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-08 | 2022-10-11 |
 | [All Afternoon](https://open.spotify.com/track/2bHH3I9iNj9fGJ65v84SmS) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [All Afternoon](https://open.spotify.com/album/2gJjnxF6adR6zRffq45eXy) | 4:07 | 2023-11-24 | 2024-02-21 |
 | [All the Way](https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Take Your Shoes Off](https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh) | 5:11 | 2022-05-25 |  |
-| [Am I Still Mine](https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU) | [Murphy](https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN) | [Am I Still Mine](https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr) | 2:35 | 2023-08-18 |  |
+| [Am I Still Mine](https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU) | [Murphy](https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN) | [Am I Still Mine](https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr) | 2:35 | 2023-08-18 | 2024-02-27 |
 | [And That's Saying a Lot](https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1) | 3:00 | 2022-10-03 |  |
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2022-05-25 | 2023-08-25 |
 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 | 2022-05-25 |  |
 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 | 2022-10-03 |  |
 | [Behind The Rain](https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx) | [Grace Theisen](https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf) | [Behind The Rain](https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE) | 3:34 | 2022-05-25 |  |
 | [Believe These Blues](https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:24 | 2022-07-08 |  |
+| [Better Days](https://open.spotify.com/track/6JUbNCkbY43fsTVcEr3Yxf) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/0p5LJ9i0t0HBwNDvuud4Kj) | [The Alders & The Ashes](https://open.spotify.com/album/2tqfiWVMrP284aCYzqtJb1) | 4:04 | 2023-11-24 |  |
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:03 | 2023-08-18 | 2024-02-20 |
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 | 2023-06-28 |
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2022-05-25 |  |

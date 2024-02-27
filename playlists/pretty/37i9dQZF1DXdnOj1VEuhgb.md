@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Batuflex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,714 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,966 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 4 | [B2LA](https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [B2LA](https://open.spotify.com/album/2scj0YG10DXcGLkgQ3KvSw) | 2:34 |
 | 5 | [yıldızlar şahit aşkıma](https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [yıldızlar şahit aşkıma](https://open.spotify.com/album/75stAff8dVdEedkMHAsB74) | 2:36 |
 | 6 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 3:11 |
-| 7 | [Nerdesin](https://open.spotify.com/track/333y41DcVB1R1Ly1vPNFKO) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Nerdesin](https://open.spotify.com/album/5CLxL72LeuNhfE9ijddWaP) | 3:25 |
-| 8 | [SUÇ](https://open.spotify.com/track/7eB0GHwce0u93PS6yvAatH) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SUÇ](https://open.spotify.com/album/4kPfEb1aBplSNm7lCvufkj) | 2:58 |
-| 9 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
-| 10 | [Olmaz Dediler](https://open.spotify.com/track/163s0gyZnKzROauE3JqbKG) | [Resul Aydemir](https://open.spotify.com/artist/6Qf3MTu5yyMzrfFJiHOHQP), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS) | [Olmaz Dediler](https://open.spotify.com/album/4UUs0YqJ5Dn1taqE5isjmk) | 2:06 |
-| 11 | [Seni Yazdım](https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Seni Yazdım](https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg) | 2:31 |
+| 7 | [Seni Yazdım](https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Seni Yazdım](https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg) | 2:31 |
+| 8 | [Nerdesin](https://open.spotify.com/track/333y41DcVB1R1Ly1vPNFKO) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Nerdesin](https://open.spotify.com/album/5CLxL72LeuNhfE9ijddWaP) | 3:25 |
+| 9 | [SUÇ](https://open.spotify.com/track/7eB0GHwce0u93PS6yvAatH) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SUÇ](https://open.spotify.com/album/4kPfEb1aBplSNm7lCvufkj) | 2:58 |
+| 10 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
+| 11 | [Olmaz Dediler](https://open.spotify.com/track/163s0gyZnKzROauE3JqbKG) | [Resul Aydemir](https://open.spotify.com/artist/6Qf3MTu5yyMzrfFJiHOHQP), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS) | [Olmaz Dediler](https://open.spotify.com/album/4UUs0YqJ5Dn1taqE5isjmk) | 2:06 |
 | 12 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 |
 | 13 | [Mektup](https://open.spotify.com/track/7Hy7NaeQg0tevx13jY0q3d) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Mektup](https://open.spotify.com/album/0tZHOfWSEkkaWOt4blEaWL) | 2:04 |
 | 14 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 | 50 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 
-Snapshot ID: `MCxlMGRlZjBhNzdjN2Y1YzMxYjY2MDFhMjNkMjM4OWU0MjA2NjU5OTdm`
+Snapshot ID: `MCw2MWQ1N2U0YjdlZDk0ZjJjYWViNDdhZjVkY2Q4MzBkNTRjNzhlMTZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Sterre Koning
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,423 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,440 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 9 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 |
 | 10 | [ELKE KEER](https://open.spotify.com/track/1HJQ9AiWo6PKbl9gG5JKFo) | [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI) | [ELKE KEER](https://open.spotify.com/album/0LQUgfDRfaNLVxO7WaxQIk) | 2:20 |
 | 11 | [Wat Blijft Er Over](https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Wat Blijft Er Over](https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j) | 2:37 |
-| 12 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 |
+| 12 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z), [JAPS](https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 |
 | 13 | [Leuker Als Je High Bent](https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Leuker Als Je High Bent](https://open.spotify.com/album/5IauvUhxaKVAcwfISQ2I2S) | 2:50 |
 | 14 | [Backstage](https://open.spotify.com/track/6TOPN39UPam4SJBCntOKb6) | [Janneman](https://open.spotify.com/artist/7KbCF5fYC33a22gM39YswN) | [Backstage](https://open.spotify.com/album/79GyjK7amWo1kbpAICZDom) | 2:24 |
 | 15 | [Blindelings](https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Blindelings](https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 | 70 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 
-Snapshot ID: `MCw0YmZlNTU0ZTkxYTBlOWY4YTg3MDM0NTY1ZTllOTg0Mjk3NjM3YjIz`
+Snapshot ID: `MCxmNmMyMDEyMzEzYTZlNGQzNDA0ZmYyYjZmM2E2OWVmMTQ1MjBiMTAy`

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "3Einy Shayfa Feky",
+        "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "3Einy Shayfa Feky",
+      "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
+    },
+    {
+      "album": {
         "name": "Nancy 10",
         "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
       },
@@ -2154,6 +2172,28 @@
       "duration_ms": 195576,
       "name": "Khayef",
       "url": "https://open.spotify.com/track/2ExMyvTPD9nsEBgq80zQQB"
+    },
+    {
+      "album": {
+        "name": "Khedi El Ghamrat",
+        "url": "https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        },
+        {
+          "name": "Marwan Khoury",
+          "url": "https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253124,
+      "name": "Khedi El Ghamrat",
+      "url": "https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,073 likes - 156 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,113 likes - 156 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FORCE](https://open.spotify.com/track/4eaeb6yZdjHiZxah0DFsnK) | [Nth Shade](https://open.spotify.com/artist/7JjX7x1u28JKVMa8BZUSVB) | [FORCE](https://open.spotify.com/album/7eAyYcKJHcFtmUr7hTLhRu) | 2:12 |
+| 1 | [Force](https://open.spotify.com/track/4eaeb6yZdjHiZxah0DFsnK) | [Nth Shade](https://open.spotify.com/artist/7JjX7x1u28JKVMa8BZUSVB) | [Force](https://open.spotify.com/album/7eAyYcKJHcFtmUr7hTLhRu) | 2:12 |
 | 2 | [Perfect Circus](https://open.spotify.com/track/08ZBgVEJzJxdEqMf8cE4Tt) | [Vince Voyage](https://open.spotify.com/artist/229yYJk7wWvnJcs9bhJx5N) | [Perfect Circus](https://open.spotify.com/album/5CRwyLx3ogA1XaEqaqJRMe) | 2:06 |
 | 3 | [Riviera Blue](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Riviera Blue](https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ) | 2:40 |
 | 4 | [Signs](https://open.spotify.com/track/7sK0vS2FyHMb5wFGFcwUMI) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Signs](https://open.spotify.com/album/46l0p9rQdScWD3CZjMqWtn) | 2:14 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 155 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 |
 | 156 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 |
 
-Snapshot ID: `MCxkNzZmOTY0YzY0MDFlN2I5MmM0MzNlMTdmMmE2MDkyNDM4NWFjMWRl`
+Snapshot ID: `MCw5MmJlNDc3OThjMWU1ZWM1ZTkzYzJmZDU2ZTlhYjZmODMzMjVjY2Jj`

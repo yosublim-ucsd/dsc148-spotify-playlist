@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,301 likes - 125 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,313 likes - 125 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 93 | [MED DIG](https://open.spotify.com/track/0mLTjcZQN4ZYpCXuPW5RmC) | [Teck Noir](https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE) | [MED DIG](https://open.spotify.com/album/6flWGUPm26oSE2SHZqqVkk) | 2:56 |
 | 94 | [sunshine](https://open.spotify.com/track/5NXXeTMDIVzR0ox6AKLvp2) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [sunshine](https://open.spotify.com/album/3y7QMNP0PIwoqBgX2O8XOc) | 2:47 |
 | 95 | [När dimman sjunker](https://open.spotify.com/track/7jN5eFTpas9sslUGf2KnAA) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD), [Luka Nemorin](https://open.spotify.com/artist/3CJPBkbeGVqeuCBH7SvyF5) | [När dimman sjunker](https://open.spotify.com/album/7r5fkxxwszGuBfKwYIqwmD) | 2:57 |
-| 96 | [Tristressens patrioter](https://open.spotify.com/track/6gi3R2qmkbE75wtAMNzlyO) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Tristessens patrioter](https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go) | 3:03 |
+| 96 | [Tristessens patrioter](https://open.spotify.com/track/6gi3R2qmkbE75wtAMNzlyO) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Tristessens patrioter](https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go) | 3:03 |
 | 97 | [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 |
 | 98 | [Enemy](https://open.spotify.com/track/27SeBSei8zhwNUbbWeyOXz) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Bruno Wolff](https://open.spotify.com/artist/0pn6XJi2YF35lsPYokfM5B) | [Enemy](https://open.spotify.com/album/42HeQeiSNttAIQLRMnWeya) | 2:37 |
 | 99 | [Your Shadow](https://open.spotify.com/track/6W4Xn6J7c3KEYPxCn3JVHQ) | [Kyyhky](https://open.spotify.com/artist/4vNfleEK3kFDBE5EmQ0lVu), [Tutorial](https://open.spotify.com/artist/1ehmm9eylhtvBZW5PDP9yn) | [Your Shadow](https://open.spotify.com/album/5cwUV1U3ystrwrWsAAy3r2) | 2:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 124 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 |
 | 125 | [Andra platsen](https://open.spotify.com/track/4B4pTAFGAKoVRnPmhoZBFb) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Andra platsen](https://open.spotify.com/album/3nzplr9marTkqVih8v7yR7) | 2:48 |
 
-Snapshot ID: `MCw1YTdlMjI4ZjE4MGRkNTE1NDg1N2E2NmY5MDJhZDAyNjBjOTRjMzUz`
+Snapshot ID: `MCwwZDJjMWRmNzk1MjlkZDFjNjJhOWVlY2NlNzc3NTU3OTVkODA1ZmMz`

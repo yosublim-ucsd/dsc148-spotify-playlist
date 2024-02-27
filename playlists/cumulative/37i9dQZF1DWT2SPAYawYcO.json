@@ -59664,10 +59664,28 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 242932,
       "name": "You Should Run",
       "url": "https://open.spotify.com/track/77IqChB6QtRts2AYuAZwjE"
+    },
+    {
+      "album": {
+        "name": "You Should Run",
+        "url": "https://open.spotify.com/album/2YgO7cUK0Oa4cgKagnyKDw"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242991,
+      "name": "You Should Run",
+      "url": "https://open.spotify.com/track/1ag5ta4sPfcGiweZ2TlEt9"
     },
     {
       "album": {

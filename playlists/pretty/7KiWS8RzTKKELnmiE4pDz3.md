@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 182 songs - 9 hr 38 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 183 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,5 +190,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 180 | [Tell më](https://open.spotify.com/track/1ObrUCFugAMJoXcvpggbOd) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:03 |
 | 181 | [Moneybags](https://open.spotify.com/track/75wojwz55E8iWfUHreFEg8) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [RichPoSlim](https://open.spotify.com/artist/2qY9jco1b25sKtNR3u8K8f) | [Dirty Dingy](https://open.spotify.com/album/2T9pnP03f4v6XMVb1VAJcT) | 3:36 |
 | 182 | [Objects in the Mirror](https://open.spotify.com/track/64gyqTtDDel7B2NoEkOa0A) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off \(Deluxe Edition\)](https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN) | 4:19 |
+| 183 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 |
 
-Snapshot ID: `NzI0Nyw1ODM5MGYxOTk5YjQzYjQ2ZGYxY2U1MWNhYmMwMjM1Njg0YmEzMzBm`
+Snapshot ID: `NzI0OCxkMjBjZDQwMWNhMGQ5NjEyN2YzZDAxNTRlNjk5NmFkMGZmMjg1OTcw`

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-535 songs - 1 day 14 hr 48 min
+536 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Night like This \- 2006 Remaster](https://open.spotify.com/track/7cKCz7gG84i1XLvDeM3ByT) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 4:16 | 2022-11-17 | 2023-08-02 |
 | [A Rush and a Push and the Land Is Ours \- 2011 Remaster](https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:03 | 2020-12-08 |  |
 | [Abacab \- 2007 Digital Remaster](https://open.spotify.com/track/3QDR1x6MUqRL9eRiuKwBCc) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab](https://open.spotify.com/album/1meDXzOLASv06BT60e9yYD) | 6:56 | 2020-12-08 | 2022-07-29 |
+| [Abacab \- 2007 Remaster](https://open.spotify.com/track/10ThhPNj7E31iHGR0jTfeP) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 6:58 | 2022-11-17 |  |
 | [Addicted To That Rush \- Remastered Version](https://open.spotify.com/track/1RCOCHtcnVWoWNSarMlwyd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:46 | 2020-12-08 | 2022-07-28 |
 | [Ain't Gonna Cry](https://open.spotify.com/track/57hzm0CI2uuIYtB1Etngb8) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:07 | 2020-12-08 | 2022-07-13 |
 | [All Fired Up](https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Wide Awake In Dreamland](https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb) | 4:32 | 2020-12-08 |  |
@@ -160,7 +161,7 @@
 | [Guns In The Sky](https://open.spotify.com/track/5sUmNduSaYbbgq3AHIRRYn) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 2:21 | 2020-12-08 | 2022-07-27 |
 | [Hammer To Fall \- Remastered 2011](https://open.spotify.com/track/7Im5F8fliiF16D2te5rYNv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:25 | 2020-12-08 | 2022-07-29 |
 | [Hand To Hold On To](https://open.spotify.com/track/7fPXqb7yuGbSl0ZM3EddHx) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 3:25 | 2020-12-08 |  |
-| [Hang Fire \- Remastered](https://open.spotify.com/track/5HcTLesmMaPr0CkwdbtK0o) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bob Clearmountain](https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 2:21 | 2020-12-08 |  |
+| [Hang Fire \- Remastered](https://open.spotify.com/track/5HcTLesmMaPr0CkwdbtK0o) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bob Clearmountain](https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 2:21 | 2020-12-08 | 2024-02-27 |
 | [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 | 2020-12-08 | 2022-07-27 |
 | [Happy When It Rains](https://open.spotify.com/track/325ipyWkzIGakH2DJgDlOT) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:37 | 2020-12-08 | 2022-11-14 |
 | [Harden My Heart](https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [MacGruber](https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp) | 3:52 | 2020-12-08 | 2022-07-28 |

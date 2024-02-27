@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,347 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,433 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 23 | [Poetry \(feat\. Young Thug\)](https://open.spotify.com/track/3LUpZ1UXIp0xU5KZ8vIAcH) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poetry \(feat\. Young Thug\)](https://open.spotify.com/album/2ymNS2YXhwg2akYRX1aL6A) | 4:13 |
 | 24 | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL) | 2:46 |
 | 25 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
-| 26 | [1998](https://open.spotify.com/track/5K7gHsFBKJ5iL0DTFpvQ5z) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Boaz](https://open.spotify.com/artist/6GHPFG30HgJzP3aJHNzMVs), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [1998](https://open.spotify.com/album/39MIGhdTdKHEu8AdtXGbpu) | 3:19 |
+| 26 | [1998](https://open.spotify.com/track/5K7gHsFBKJ5iL0DTFpvQ5z) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [1998](https://open.spotify.com/album/39MIGhdTdKHEu8AdtXGbpu) | 3:19 |
 | 27 | [cake](https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [cake / don't be dishonest](https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ) | 2:57 |
 | 28 | [swag it!](https://open.spotify.com/track/09Hd4FJEuSAWVvv4W152Wg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [swag it!](https://open.spotify.com/album/2LBEpxENc2U91CV2bHA8bP) | 3:17 |
 | 29 | [Spin The Block \(feat\. Styles P & 50 Cent\)](https://open.spotify.com/track/7Cp8NGy4IqrJiefzZoSG0w) | [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Lenny Grant Story](https://open.spotify.com/album/6n6mqhHkj0WWIuE2xmmKb6) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah) | 2:49 |
 | 100 | [Money Ain't A Thing](https://open.spotify.com/track/46JdWbIn4Pqz5MnRELOjSX) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Mac & Cheese 5](https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3) | 3:13 |
 
-Snapshot ID: `MCxiMTMwOTI5OWI5ZmZmMjU1ZTM1MDE3MTU5Y2IxMjUzOGE3YzBjZDhh`
+Snapshot ID: `MCxhOWY5YjYyYmUxMWE4MTM0YzkwMThiZDAwY2M4ZGJhM2JiYzgwZTQz`

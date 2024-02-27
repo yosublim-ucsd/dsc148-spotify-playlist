@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 226956,
       "name": "Defector",
       "url": "https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv"
@@ -10036,6 +10036,28 @@
       "duration_ms": 216956,
       "name": "Million Stars",
       "url": "https://open.spotify.com/track/58LpK5TgVzFDounJPpBydQ"
+    },
+    {
+      "album": {
+        "name": "Mine To Keep",
+        "url": "https://open.spotify.com/album/2MFNv4JzpiEtH6LkJZ0S4i"
+      },
+      "artists": [
+        {
+          "name": "Darren Porter",
+          "url": "https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA"
+        },
+        {
+          "name": "Neev Kennedy",
+          "url": "https://open.spotify.com/artist/7pmlqf0aeApxVFDwlCANsu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230341,
+      "name": "Mine To Keep",
+      "url": "https://open.spotify.com/track/3vr2YH4NansAvoWPrIAPEy"
     },
     {
       "album": {

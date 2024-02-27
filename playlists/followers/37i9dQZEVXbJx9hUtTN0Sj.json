@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 23041,
+  "2024-02-27": 23040,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Blaue Monarchie, Vol.3",
+        "url": "https://open.spotify.com/album/6clw5tbvf7KHa0NuT2DWDu"
+      },
+      "artists": [
+        {
+          "name": "Cortex_Sound",
+          "url": "https://open.spotify.com/artist/4nHmMOpyMZ99ndnkcOBJ7T"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152464,
+      "name": "Blaue Monarchie, Vol.3",
+      "url": "https://open.spotify.com/track/38H4YiyRNiLMo1DFFXCf4d"
+    },
+    {
+      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -503,7 +521,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 90305,
       "name": "Out For Love",
       "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"

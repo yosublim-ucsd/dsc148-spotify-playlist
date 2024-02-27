@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 262447,
+  "2024-02-27": 262477,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -6105,7 +6105,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 100207,
       "name": "Ciapakwybujany",
       "url": "https://open.spotify.com/track/2PF5O4wQHtD9KpxNALuoBD"
@@ -9551,6 +9551,24 @@
       "duration_ms": 111219,
       "name": "ELEKTRYCZNE KRZES\u0141O",
       "url": "https://open.spotify.com/track/6fOvRdhEYcZGQ17G0DbcRJ"
+    },
+    {
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "album": {
@@ -14791,7 +14809,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Jolie Jolie",
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
@@ -29951,7 +29969,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 215426,
       "name": "SUPRO",
       "url": "https://open.spotify.com/track/0DDsdWwUGvwMsIl62fFyXQ"
@@ -31797,7 +31815,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -32711,7 +32729,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 216923,
       "name": "Vanitas",
       "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"

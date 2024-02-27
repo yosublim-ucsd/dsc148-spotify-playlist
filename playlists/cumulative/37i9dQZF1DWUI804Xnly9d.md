@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-280 songs - 15 hr 56 min
+281 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Baarishein Lana](https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Baarishein Lana](https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ) | 3:08 | 2023-07-05 | 2023-07-26 |
 | [Baarishon Mein](https://open.spotify.com/track/5vy3eZEsqsDH06DVtyvuLj) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Baarishon Mein](https://open.spotify.com/album/28cnP6Q0Nk6D0Ty7spGDWq) | 3:43 | 2023-07-13 | 2023-10-05 |
 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 | 2023-05-17 |  |
+| [Bacardi Love](https://open.spotify.com/track/5rLrXNir0IKxHJItvVosAb) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [Bacardi Love](https://open.spotify.com/album/6etH85UcGZO1niJvt2RJGm) | 4:09 | 2024-02-26 |  |
 | [Back To College](https://open.spotify.com/track/6UXNYzUEn7WMmdrA3d52vE) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Back To College](https://open.spotify.com/album/4YstqbeaEbhxWhZrihruzM) | 3:01 | 2023-05-17 | 2023-06-07 |
 | [Bade Achhe Lagte Hai](https://open.spotify.com/track/65qGnOwNU4odSdjL4gzx48) | [Ashish Khandal](https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF) | [Saregama Open Stage, Vol\. 15](https://open.spotify.com/album/32gAy0gxgW1ZEokDsNu76h) | 1:34 | 2023-05-17 | 2023-07-21 |
 | [Bade Achhe Lagte Hain](https://open.spotify.com/track/6Vl1npfEdPnhtZ26xtpE7Z) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Rahul Jain Romantic Hits](https://open.spotify.com/album/6WIwOfxOvJYhjuHRdfaGss) | 2:44 | 2023-05-17 | 2023-07-08 |
@@ -103,7 +104,7 @@
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq Ibaadat Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat Unplugged](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 |  |
-| [Ishq Ki Baat](https://open.spotify.com/track/2ckptbX68hmRuRAXDmBK2y) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/1mST5bUGOaBHO8r1CQoWm0) | 1:31 | 2024-02-19 |  |
+| [Ishq Ki Baat](https://open.spotify.com/track/2ckptbX68hmRuRAXDmBK2y) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/1mST5bUGOaBHO8r1CQoWm0) | 1:31 | 2024-02-19 | 2024-02-27 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 | 2024-02-20 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
 | [Jaan](https://open.spotify.com/track/5jmM3dnSEoHVRl5AZD3kli) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jaan](https://open.spotify.com/album/1XCilJdUD4bYha219y4yLo) | 3:25 | 2024-02-05 |  |

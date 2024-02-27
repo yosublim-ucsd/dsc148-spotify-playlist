@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Alejandro y Maria Laura en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,303 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,301 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 23 | [EFÍMERO](https://open.spotify.com/track/5gXR3Qj04wz3QTn26gHiYw) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [EFÍMERO](https://open.spotify.com/album/7DiaeTQqUOO6QpOYkOn0v7) | 2:06 |
 | 24 | [Tu Locura](https://open.spotify.com/track/6cKfpV2HpnZaCBpjODj07B) | [Rodrigo Solo](https://open.spotify.com/artist/2XSPl1pclaAddjCxZTOhZT), [JXV](https://open.spotify.com/artist/7HGgTDYVsfBM7ga8ta8NOI) | [Tu Locura](https://open.spotify.com/album/1XoJrWQI4e65mYDsrO7LYp) | 2:53 |
 | 25 | [deja vu](https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [deja vu](https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj) | 2:22 |
-| 26 | [Días Intensos](https://open.spotify.com/track/3Bajl2IJEPKvqreFTG7NcQ) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9) | [Días Intensos](https://open.spotify.com/album/4FgdkHfhnyuUVUsj6ouz65) | 3:13 |
+| 26 | [Días Intensos](https://open.spotify.com/track/3Bajl2IJEPKvqreFTG7NcQ) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [MAYLO](https://open.spotify.com/artist/7gv5fhuu1sjsD5QQXU47v9) | [Días Intensos](https://open.spotify.com/album/4FgdkHfhnyuUVUsj6ouz65) | 3:13 |
 | 27 | [X ALGO](https://open.spotify.com/track/1HaEGqOu8FK3aNiwKoz6Or) | [D’Garay](https://open.spotify.com/artist/5tAbkBMgE8yJ39PyGnWqjz), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ), [Ambê](https://open.spotify.com/artist/0kmXfDTZHhHBkAreTqXJi7) | [X ALGO](https://open.spotify.com/album/4hAnLHE13pKiCSbQBl1Xz9) | 2:51 |
 | 28 | [lo q necesitabas](https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [lo q necesitabas](https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT) | 1:43 |
 | 29 | [Jardín sin Flores](https://open.spotify.com/track/74lJVBflpwgvtJCiO5Cjds) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Jardín sin Flores](https://open.spotify.com/album/05kCXGb9jDcJMw4pnjs4Vt) | 3:13 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 54 | [Sonido Extraño](https://open.spotify.com/track/7ctaBLwRYtOBqMLiEIqWL1) | [Vez Era](https://open.spotify.com/artist/0CbGB2Pok6qspGdkxe0eBq) | [Sonido Extraño](https://open.spotify.com/album/4sKyL05PEMuX7ikttIurTq) | 3:11 |
 | 55 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 
-Snapshot ID: `MCw2NWI2YWRjNWM1YmIyMjRhMDgxY2IzZTVmOWVkYzMzMWM3OTZjZjkz`
+Snapshot ID: `MCw2OTg3YWY4MmE1M2Q5MGI3MGVmMWZiNGFiNWMyMTZlYjk0Y2ZlNWU5`

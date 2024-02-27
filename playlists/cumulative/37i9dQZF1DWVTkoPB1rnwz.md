@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-340 songs - 19 hr 37 min
+341 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-16 |  |
 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 | 2022-01-12 |  |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2022-07-29 |
-| [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 |  |
+| [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 | 2024-02-27 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2022-10-26 |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6) | 6:42 | 2021-10-16 |  |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 | 2021-10-16 | 2023-04-30 |
@@ -198,10 +198,11 @@
 | [Migrations](https://open.spotify.com/track/4oiwHTTaiLERMEEhHwqnq2) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/5bd2paC7EFKOS6YJv4se2e) | 3:16 | 2021-10-16 | 2022-07-10 |
 | [mirage](https://open.spotify.com/track/5Sort7TKBLV8Mf5SiW85bw) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [mirage](https://open.spotify.com/album/3X8ZJ5G96XzV3LBJpe8Qs3) | 2:02 | 2021-10-16 |  |
 | [Monospace](https://open.spotify.com/track/01t81v0bqY73qcOoM6WUOC) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Monospace](https://open.spotify.com/album/10UfKBIklZy668Jcv6pN5S) | 2:26 | 2021-10-16 | 2022-12-22 |
-| [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 | 2021-10-16 | 2024-02-25 |
+| [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 | 2021-10-16 |  |
 | [Morning Air](https://open.spotify.com/track/3apgKNuLnTfH8siJ9eguoI) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/6BELq0OyBnc4gysFejtl3w) | 2:38 | 2021-10-16 | 2022-07-19 |
 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 | 2021-10-16 |  |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-10-16 | 2023-02-03 |
+| [Mudita](https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI) | [Marko Ivic](https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C) | [Mudita](https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K) | 6:17 | 2024-02-26 |  |
 | [Murmer Double](https://open.spotify.com/track/7kj7ZqCPVeAl103iUrOi11) | [Duncan Marquiss](https://open.spotify.com/artist/0HBHvIQvXpsiwrbyXKRlSE) | [Wires Turned Sideways In Time](https://open.spotify.com/album/1fP3dyBEao39IZeLKC4pzw) | 5:43 | 2022-03-30 | 2022-07-29 |
 | [my best shot](https://open.spotify.com/track/4kPLP31slFMsv94aWHdO0p) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c) | [My Best Shot](https://open.spotify.com/album/6f5taBUAPQIMplBqTWKEyn) | 1:37 | 2022-01-07 | 2022-08-22 |
 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 | 2021-10-16 |  |
@@ -290,7 +291,7 @@
 | [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 | 2022-10-25 |
 | [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 | 2022-08-03 | 2024-01-04 |
 | [Sweet Everything](https://open.spotify.com/track/7u9rHpnezNKnNhEf84IehW) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Sleep Tones](https://open.spotify.com/album/7kZiqKwpxTF81kZFmdX9dn) | 3:09 | 2021-10-16 | 2022-06-21 |
-| [Switched\-On](https://open.spotify.com/track/4cREs51dQyaV23CO8pCguj) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:35 | 2023-10-23 |  |
+| [Switched\-On](https://open.spotify.com/track/4cREs51dQyaV23CO8pCguj) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:35 | 2023-10-23 | 2024-02-27 |
 | [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 | 2024-01-08 |
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |
 | [tears \(is this even real?\)](https://open.spotify.com/track/1WiKzAtJ6E1AGjk0VFiT1U) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 2:55 | 2021-10-16 | 2023-06-28 |

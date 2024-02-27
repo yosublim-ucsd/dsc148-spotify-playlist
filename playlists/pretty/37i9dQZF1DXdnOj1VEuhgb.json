@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex",
-  "num_followers": 1333714,
+  "num_followers": 1333966,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRlZjBhNzdjN2Y1YzMxYjY2MDFhMjNkMjM4OWU0MjA2NjU5OTdm",
+  "snapshot_id": "MCw2MWQ1N2U0YjdlZDk0ZjJjYWViNDdhZjVkY2Q4MzBkNTRjNzhlMTZi",
   "tracks": [
     {
       "added_at": "2024-02-22 21:00:00",
@@ -123,6 +123,26 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Seni Yazd\u0131m",
+        "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        },
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        }
+      ],
+      "duration_ms": 151059,
+      "name": "Seni Yazd\u0131m",
+      "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Nerdesin",
         "url": "https://open.spotify.com/album/5CLxL72LeuNhfE9ijddWaP"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 126593,
       "name": "Olmaz Dediler",
       "url": "https://open.spotify.com/track/163s0gyZnKzROauE3JqbKG"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Seni Yazd\u0131m",
-        "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        },
-        {
-          "name": "Decrat",
-          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
-        }
-      ],
-      "duration_ms": 151059,
-      "name": "Seni Yazd\u0131m",
-      "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
     },
     {
       "added_at": "2024-02-22 21:00:00",

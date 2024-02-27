@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Ayra Starr
+> Altijd fris in Fresh Hits\. Cover: Broederliefde
 
 475 songs - 22 hr 54 min
 

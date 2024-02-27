@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 618,
+  "2024-02-27": 618,
   "date_first_scraped": "2022-09-17",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3\">Nathan Galante</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Nathan Galante",
@@ -123,6 +123,24 @@
       "duration_ms": 191146,
       "name": "Andar Soltero",
       "url": "https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy"
+    },
+    {
+      "album": {
+        "name": "Yo Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173798,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/5h3YMVd2Jg3h7bf0a4RTrA"
     },
     {
       "album": {

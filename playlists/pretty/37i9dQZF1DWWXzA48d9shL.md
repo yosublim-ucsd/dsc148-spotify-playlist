@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,142 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,263 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 2 | [\#scrimjustwannahavefun](https://open.spotify.com/track/2vl8WMaahDYGl4uqYsdxCM) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy \(deluxe edition\)](https://open.spotify.com/album/436V8ojzFS3ZadTeK3GPVZ) | 2:28 |
 | 3 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:11 |
 | 4 | [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 |
-| 5 | [0% \(feat\. ZillaKami\)](https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [0% \(feat\. ZillaKami\)](https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc) | 2:12 |
-| 6 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |
-| 7 | [Genesis](https://open.spotify.com/track/34LzJ0pKASl3mmMprZPZuS) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [.ZIP](https://open.spotify.com/album/5jwI06RORdt3bZ6AgOftHP) | 1:48 |
-| 8 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 |
-| 9 | [BUSINESS MAN \(feat\. Juicy J\)](https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [BUSINESS MAN \(feat\. Juicy J\)](https://open.spotify.com/album/6x8lWNQO52kkPpsQ7TpFyP) | 3:30 |
-| 10 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 |
-| 11 | [brand of sacrifice](https://open.spotify.com/track/751LChVLJ1vWrijD6zb2tw) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [brand of sacrifice](https://open.spotify.com/album/1thedlMFT9GxcNjdV1AVBV) | 2:30 |
+| 5 | [brand of sacrifice](https://open.spotify.com/track/751LChVLJ1vWrijD6zb2tw) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [brand of sacrifice](https://open.spotify.com/album/1thedlMFT9GxcNjdV1AVBV) | 2:30 |
+| 6 | [0% \(feat\. ZillaKami\)](https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [0% \(feat\. ZillaKami\)](https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc) | 2:12 |
+| 7 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |
+| 8 | [Genesis](https://open.spotify.com/track/34LzJ0pKASl3mmMprZPZuS) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [.ZIP](https://open.spotify.com/album/5jwI06RORdt3bZ6AgOftHP) | 1:48 |
+| 9 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 |
+| 10 | [BUSINESS MAN \(feat\. Juicy J\)](https://open.spotify.com/track/1Mw3psWtFi2ojE9gudDpm1) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [BUSINESS MAN \(feat\. Juicy J\)](https://open.spotify.com/album/6x8lWNQO52kkPpsQ7TpFyP) | 3:30 |
+| 11 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 |
 | 12 | [CHEVY THANG](https://open.spotify.com/track/3d9995PfvymUKvnYB9a2CK) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [CHROME CASKETZ 2: ARMAGEDDON](https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE) | 1:30 |
 | 13 | [Scars](https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Scars](https://open.spotify.com/album/0m1FGRxM3wEaIxEgqSW5Oq) | 2:27 |
 | 14 | [WTF 2](https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/5ERveSd2VSGk3x37LPgjYy) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/track/5MrQWiPCl5x6WFuni1hV2p) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [Istasha](https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/album/6sdW9d68koNLQXuchDsJLN) | 2:48 |
 | 100 | [BLACKTOP](https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 1:21 |
 
-Snapshot ID: `MCw1NmIyZDBiOThmMzg5ODA4ZjFlNzkyOWUxZjMzNjhmZDk3NzU2ZGRk`
+Snapshot ID: `MCwxNzgwNTlhMmYyMTBiOTMwMGEwMjNhMGUzZmMwOTg1ZWUzMWIzZGQ5`

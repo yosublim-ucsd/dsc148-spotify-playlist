@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-1,144 songs - 2 day 12 hr 25 min
+1,145 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Everyone Is Famous](https://open.spotify.com/track/1SPTGLtjLGVKmGK2HE2VMK) | [Forever X2](https://open.spotify.com/artist/2w8oxfFhjoH3JRaPQhYmBW) | [Everyone Is Famous](https://open.spotify.com/album/5N3Eh2INcYrYe2V7lpMpWh) | 2:41 | 2022-01-14 | 2022-06-01 |
 | [Everyone Knows](https://open.spotify.com/track/3nOwNZLewhpiuX8W1smZih) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Overrated](https://open.spotify.com/album/5VUkRHHQ12rH4g6c0hp2T6) | 2:21 | 2022-03-25 | 2022-05-22 |
 | [Everything \(I Wish I Could Claim to Be\)](https://open.spotify.com/track/5PUDFlvi5guWNkYmhGy10A) | [Catapults](https://open.spotify.com/artist/1kgH8UtIKcjH6fuUj1DnFG) | [Everything \(I Wish I Could Claim to Be\)](https://open.spotify.com/album/2X9d1U1s9GZ9GeYm0TTdsf) | 3:30 | 2022-02-04 | 2022-05-12 |
-| [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-04-10 |  |
+| [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-04-10 | 2024-02-27 |
 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 | 2023-09-22 | 2023-12-09 |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
 | [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2023-12-15 | 2024-02-24 |
@@ -538,6 +538,7 @@
 | [Jessie's Girl 2 \- Director's Cut](https://open.spotify.com/track/1lZ86E2Dhleb9D6BhlMKvA) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Jessie's Girl 2](https://open.spotify.com/album/5Zfdfa6sjhaLSCSsCDDis7) | 3:51 | 2021-12-10 | 2022-07-24 |
 | [Jesus](https://open.spotify.com/track/4ELaNiaXfb6V8RtGnPEjOv) | [Young Culture](https://open.spotify.com/artist/2LbKmGXwOFCFl4KJRAfMSr), [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Jesus](https://open.spotify.com/album/6tVYzz3VmqLcRSGGZu14pB) | 2:30 | 2023-11-10 |  |
 | [Jesus Can't Save You](https://open.spotify.com/track/3I0LB9kaFoeGl6pb2RHzDJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Jesus Can't Save You](https://open.spotify.com/album/0hccm7QD6LJXkY44eymod5) | 3:05 | 2022-02-04 | 2022-04-10 |
+| [Joan of Hill](https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Joan of Hill](https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr) | 4:13 | 2024-02-23 |  |
 | [Joy Notes](https://open.spotify.com/track/1wXMDIfGsQtercGl4X2qxe) | [Rich People](https://open.spotify.com/artist/5lSyekL7APqKdusY0pGcGf) | [Joy Notes](https://open.spotify.com/album/4DeJ2CdZDBlfNGA4QYHFXY) | 3:50 | 2021-12-10 | 2022-07-26 |
 | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT) | 2:40 | 2021-12-10 | 2022-02-12 |
 | [Just Kidding](https://open.spotify.com/track/2cnE9wO8KpXg17uayG693F) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Just Kidding](https://open.spotify.com/album/1aQNPD8kuo8D8y3kjkUXHb) | 2:29 | 2021-12-10 | 2022-05-17 |

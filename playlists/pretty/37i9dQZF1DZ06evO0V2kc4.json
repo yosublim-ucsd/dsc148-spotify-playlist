@@ -1,15 +1,15 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 63763,
+  "num_followers": 63769,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0ODEwNDAsMDAwMDAwMDBmNDI1M2ZiOWEzMDEyMjE2ZjgwYzhhZGNiZWI0N2JlMw==",
+  "snapshot_id": "Mjg0ODI0ODEsMDAwMDAwMDAzMDdkMjhiYzhiOWNjOTQ4MzZjYjZiZjc3NWIxNGQ1Ng==",
   "tracks": [
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Sacco e Vanzetti (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Donna Donna",
+      "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
@@ -109,7 +125,23 @@
       "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "From Every Stage",
         "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "The Complete Gold Castle Masters",
         "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/4xFsqBho4pb6caTAredS1r"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
@@ -205,10 +237,10 @@
       "url": "https://open.spotify.com/track/7kFN6oceID4DUi29EjIYmi"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -216,12 +248,12 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 201160,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
+      "duration_ms": 152066,
+      "name": "Silver Dagger",
+      "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
@@ -237,7 +269,23 @@
       "url": "https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Joan",
         "url": "https://open.spotify.com/album/7MHKK9mfQGgNOF3BXOvcUD"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/54r96rfihIM6TXasz0mYxL"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
@@ -321,7 +369,7 @@
       "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "From Every Stage",
         "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
@@ -425,23 +473,7 @@
       "url": "https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Joe Hill - Live",
-      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
@@ -457,7 +489,23 @@
       "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Joe Hill - Live",
+      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
@@ -489,23 +537,7 @@
       "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Pack Up Your Sorrows",
-      "url": "https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
@@ -521,7 +553,23 @@
       "url": "https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Pack Up Your Sorrows",
+      "url": "https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
@@ -537,59 +585,7 @@
       "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Daddy, You Been On My Mind",
-      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Mimi Fari\u00f1a",
-          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "I Am A Poor Wayfaring Stranger",
-      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/1wn4WMOzOZo9PXAJdDlcGS"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
@@ -624,28 +620,32 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mimi Fari\u00f1a",
+          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Prison Trilogy (Billy Rose)",
-      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+      "duration_ms": 281000,
+      "name": "I Am A Poor Wayfaring Stranger",
+      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
@@ -656,12 +656,12 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 134133,
-      "name": "Llego Con Tres Heridas",
-      "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
+      "duration_ms": 220866,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
@@ -681,7 +681,55 @@
       "url": "https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 134133,
+      "name": "Llego Con Tres Heridas",
+      "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/6f39dg5y3Hj0p179o2Bu8z"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Baez Sings Dylan",
         "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
@@ -713,23 +761,7 @@
       "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
@@ -745,7 +777,23 @@
       "url": "https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
+    },
+    {
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
@@ -761,55 +809,7 @@
       "url": "https://open.spotify.com/track/1l8Adf2L6CiKmLNH9JuTLz"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "Joan Baez, Vol. Ii",
-        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Plaisir D' Amour",
-      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 677800,
-      "name": "Sad-Eyed Lady Of The Low Lands",
-      "url": "https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng"
-    },
-    {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
         "name": "Honest Lullaby",
         "url": "https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd"
@@ -825,10 +825,10 @@
       "url": "https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0"
     },
     {
-      "added_at": "2024-02-25 12:00:16",
+      "added_at": "2024-02-26 12:01:31",
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 299466,
-      "name": "North Country Blues",
-      "url": "https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL"
+      "duration_ms": 677800,
+      "name": "Sad-Eyed Lady Of The Low Lands",
+      "url": "https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng"
     }
   ],
   "unique_name": "This Is Joan Baez",

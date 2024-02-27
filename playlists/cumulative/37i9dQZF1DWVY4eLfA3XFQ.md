@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Walker & Royce\. 50% techno, 50% house
 
-1,481 songs - 3 day 12 hr 8 min
+1,482 songs - 3 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-23 | 2023-07-20 |
 | [Fuego \(VIP\)](https://open.spotify.com/track/6BXEWL3JzbTlEMefaRw1BM) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego \(VIP\)](https://open.spotify.com/album/4CAfJlVsnGypCwurPp5jTw) | 2:49 | 2022-12-09 | 2023-03-04 |
 | [Funk Accelerator](https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Funk Accelerator](https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl) | 3:52 | 2022-04-15 | 2022-05-07 |
-| [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 | 2023-11-17 |  |
+| [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 | 2023-11-17 | 2024-02-27 |
 | [Future](https://open.spotify.com/track/5tHokMQ1Hf1zmr6gQFe5ix) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Future](https://open.spotify.com/album/1bH1PACzw0Q1JkI6szxA4m) | 3:38 | 2022-07-22 | 2022-09-17 |
 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 | 2023-05-19 | 2023-12-16 |
 | [Gelato Dream](https://open.spotify.com/track/6T37xNJpgshMDpdrigh8eK) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Gelato Dream](https://open.spotify.com/album/4ORtIEkrRwL36U3dUB8GVj) | 4:58 | 2022-12-28 | 2023-01-06 |
@@ -690,6 +690,7 @@
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-17 | 2023-06-17 |
 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 | 2023-03-17 | 2023-06-17 |
 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 | 2021-11-26 | 2022-04-23 |
+| [La Vida Es Un Carnaval](https://open.spotify.com/track/4QHReI7hHndwJVFesx6w26) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Skylin3](https://open.spotify.com/artist/0lfEYuqXghLpDw2GvG1kOB) | [La Vida Es Un Carnaval](https://open.spotify.com/album/3VGYnKhtRiZYkDlj1I3Pn3) | 2:05 | 2024-02-09 |  |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 2:14 | 2023-09-01 |  |
 | [LALALA](https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [LALALA](https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW) | 2:49 | 2023-10-27 | 2024-02-24 |
 | [Las Morenas](https://open.spotify.com/track/1DADRCZI1S4DJJ9QxvK9gG) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Felipe Espitia](https://open.spotify.com/artist/1PzUnwBokS2SFzZ2DJmqb8) | [Las Morenas](https://open.spotify.com/album/6EWPPT3LHZbGcF5EZ18DR0) | 3:10 | 2022-05-06 | 2022-05-14 |

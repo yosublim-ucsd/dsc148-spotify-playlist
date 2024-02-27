@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 166805,
       "name": "I Know How It Feels",
       "url": "https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 270160,
       "name": "Strong Hearts Bleed Out First",
       "url": "https://open.spotify.com/track/6w3E4mrMqc8Z1sYIU03IUv"
@@ -1080,10 +1080,28 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 264676,
       "name": "Twin Size Mattress",
       "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
+    },
+    {
+      "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/0PDvD9PL4X7KSczUKmdV8x"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Mohamed Ramadan, Future & Massari
 
-323 songs - 17 hr 59 min
+324 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Awake](https://open.spotify.com/track/4hLN4fsuA4E5HyOQM7d5Fo) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Awake](https://open.spotify.com/album/4EVEmumfv1Maw79Kipv0Uw) | 3:00 | 2021-12-16 | 2022-10-09 |
 | [Bahja Bidha](https://open.spotify.com/track/75pvUJiPQ2Eg0wSiZokVe9) | [Dahmane El Harrachi](https://open.spotify.com/artist/0WtlXlCzfp2mJyINCsf1tb) | [Le Chaâbi, Vol\. 2](https://open.spotify.com/album/0kNtY2VnymD3B7veZcLoaR) | 5:57 | 2022-06-06 | 2022-06-24 |
 | [Bansa 7aly](https://open.spotify.com/track/4eJk6TUT561QX2BE73Q208) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Bansa 7aly](https://open.spotify.com/album/01cwuv9Yy87R1HmNsKJsbi) | 2:36 | 2023-12-15 | 2024-02-14 |
-| [Batwanes Beek](https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe) | 2:09 | 2024-01-05 |  |
+| [Batwanes Beek](https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe) | 2:09 | 2024-01-05 | 2024-02-27 |
+| [Batwanes Beek](https://open.spotify.com/track/1YsyeSTv6thppccjlrF7nt) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/14EHIFpulqmcBYw2L6eR84) | 2:09 | 2024-02-13 |  |
 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 | 2022-06-06 | 2022-06-24 |
 | [Beating Broken Heart](https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jon Paul](https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Beating Broken Heart](https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl) | 2:19 | 2022-05-26 | 2022-12-08 |
 | [Believing In Me \(feat\. King Los\)](https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Believing In Me](https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM) | 2:24 | 2023-01-25 | 2023-09-07 |

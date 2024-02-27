@@ -4,7 +4,7 @@
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-91 songs - 3 hr 51 min
+92 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Blue Ridge Cabin Home](https://open.spotify.com/track/1Lw8GLJX0va0dCP4UnPICt) | [The Osborne Brothers](https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c) | [Bluegrass Collection](https://open.spotify.com/album/0sNJxbeInhCu3q0xJG8JKc) | 3:10 | 2023-11-22 |  |
 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 | 2018-04-04 |  |
 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 | 2018-04-04 |  |
-| [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 | 2018-04-04 |  |
+| [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 | 2018-04-04 | 2024-02-27 |
+| [Brilliancy Medley](https://open.spotify.com/track/5RHd8E97Q0SUzCwubRQlLS) | [Eck Robertson & Family](https://open.spotify.com/artist/3fW3THqeQ6uRBjbgd0Mgmt), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Texas Hillbillies](https://open.spotify.com/album/07tIpgVyWPTGevkFpnZOC5) | 2:56 | 2023-11-22 |  |
 | [Bury Me Beneath The Weeping Willow](https://open.spotify.com/track/4vhzOZExArTd8p8wBlhr0g) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Songs Of The Carter Family](https://open.spotify.com/album/0PnJLj6sxYe3SnusdT8BW3) | 2:23 | 2018-04-04 | 2022-07-29 |
 | [Bury Me Beneath The Weeping Willow](https://open.spotify.com/track/1nwjk7kcMMG3erc0wciRlF) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [I Ain't Gonna Work Tomorrow](https://open.spotify.com/album/5cmMGRDHxa1ci8z5yfxFtN) | 2:24 | 2022-10-07 | 2022-11-13 |
 | [Childish Love](https://open.spotify.com/track/7x4Ungw4VU2GMohlcoJCH5) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Childish Love](https://open.spotify.com/album/3xDpIztajZaXLs3EKoUxc0) | 2:55 | 2022-09-09 |  |

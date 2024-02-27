@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 45846,
+  "num_followers": 45849,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQxMGVhYWVmYzc0ZTcyZDc2NWQwNGU1MmU0Y2QyNjZmNjUzZTBi",
+  "snapshot_id": "MCxjOTk0NDI4ZTk1OTNjMTdlMWZmY2M2ODY5NzRkZGE0ZWQyZTQ4OGJj",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Mean Well",
-        "url": "https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 172912,
-      "name": "Mean Well",
-      "url": "https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Mean Well",
+        "url": "https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 172912,
+      "name": "Mean Well",
+      "url": "https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY"
     },
     {
       "added_at": "2024-01-26 05:00:00",

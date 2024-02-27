@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
@@ -4080,6 +4080,24 @@
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "album": {
+        "name": "Mudita",
+        "url": "https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K"
+      },
+      "artists": [
+        {
+          "name": "Marko Ivic",
+          "url": "https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377560,
+      "name": "Mudita",
+      "url": "https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI"
     },
     {
       "album": {

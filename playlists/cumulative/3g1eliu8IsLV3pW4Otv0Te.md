@@ -4,7 +4,7 @@
 
 > 
 
-190 songs - 13 hr 22 min
+192 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2019-11-07 |  |
 | [Elise \(Hit Rewind\)](https://open.spotify.com/track/0F5uDInBfzqzpvOgH4sjdG) | [Resonata](https://open.spotify.com/artist/0DPxk01Zpe39U3H7gTBj4H) | [Full Circle](https://open.spotify.com/album/5jaudo7OCpJTvkJ7scAaDz) | 6:57 | 2016-09-04 |  |
 | [Endorphins \- Sub Focus Vs\. Fred V & Grafix Remix](https://open.spotify.com/track/7IvgViHYDXeWa2CILskhUX) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl), [N Douwma](https://open.spotify.com/artist/6GskrsOe5wAKXOgRfpsIM7), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Endorphins](https://open.spotify.com/album/14HygQjdmJBRk3qFTLDtRB) | 4:35 | 2016-01-15 |  |
+| [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2024-02-26 |  |
 | [Epiphany](https://open.spotify.com/track/4raUe9c8X1PYDhMnbjssS3) | [TwoThirds](https://open.spotify.com/artist/1Q0ug0ZkUQ3pyfY8vKE730), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Epiphany](https://open.spotify.com/album/64j5TWi1LnQlAqIU1WykcF) | 6:07 | 2016-01-15 |  |
 | [Escape](https://open.spotify.com/track/3WHlzAecQsOU8vkbUUrw9s) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Darrison](https://open.spotify.com/artist/58ZRLzk0lW889BWG8OtmGA) | [Netsky](https://open.spotify.com/album/5i90ZRThEcUxoiq9ihDeFA) | 5:57 | 2016-10-04 |  |
 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 | 2019-09-17 |  |
@@ -152,6 +153,7 @@
 | [Someone \- The Prototypes Remix](https://open.spotify.com/track/0wfplXvoyb8vY4MjFw0pDz) | [Someone \(Feat\. Mclean\)](https://open.spotify.com/artist/606NobRCnZyp7gwy8bStHT), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [McLean](https://open.spotify.com/artist/4u4unPAmNsYPO7rtYgWeaz) | [Someone EP](https://open.spotify.com/album/4KUe6EEQlzIwz7SigCh96s) | 4:18 | 2018-01-31 |  |
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |
 | [Starscapes \- Rameses B Remix](https://open.spotify.com/track/2aw6LCIiF9kqmKvZmm92wB) | [TwoThirds](https://open.spotify.com/artist/1Q0ug0ZkUQ3pyfY8vKE730), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Starscapes](https://open.spotify.com/album/1X0na0LkeuKTH5nGJAP7fA) | 4:51 | 2016-07-14 |  |
+| [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 | 2024-02-26 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2024-01-16 |  |
 | [Stay High \- Habits Remix](https://open.spotify.com/track/4J8WVHRtXM6SMgsF7qohXy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Truth Serum](https://open.spotify.com/album/11goDT4Xan4nsWpiFIsf6N) | 4:18 | 2016-01-15 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-29 |  |

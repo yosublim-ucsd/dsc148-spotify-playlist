@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Picaretas de Fachada
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,085 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,087 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
 | 75 | [Qbd](https://open.spotify.com/track/46K2YTnkjpdtdYtIxjj6gR) | [Drako](https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Qbd](https://open.spotify.com/album/6i1qVNi1ZohQaBiNBQb78E) | 2:44 |
 
-Snapshot ID: `MCxjNWNmNGE0NzA4YzBlOWExZGNmNzlkMDdkMWY2OTk3MmY1NDYxMzU4`
+Snapshot ID: `MCw0MmQ4MGJkOTk4NzFlMTk4NDIxMWUzYTA1Y2MzMmQ4ODI2NzZiZDJi`

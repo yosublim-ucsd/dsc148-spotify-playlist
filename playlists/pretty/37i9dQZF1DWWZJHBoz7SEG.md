@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya es Viernes, y eso sólo significa una cosa: ¡Nueva música, súbeleeee! 🎶 Yuridia y Eden Muñoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,247 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,441 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 29 | [Gpi Al Perreo](https://open.spotify.com/track/0bH8otgZfS8Jymjpx8AL5g) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Ana Simg](https://open.spotify.com/artist/7nXdrq8t22HH3fouDSBBla), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3) | [Gpi Al Perreo](https://open.spotify.com/album/6mS75CeSpGeiNFypriAXim) | 2:32 |
 | 30 | [Cositas Sucias](https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Cositas Sucias](https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj) | 2:21 |
 | 31 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 |
-| 32 | [no me siento mejor](https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [no me siento mejor](https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr) | 3:03 |
+| 32 | [no me siento mejor](https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [no me siento mejor](https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr) | 3:03 |
 | 33 | [CULIGOTIKA](https://open.spotify.com/track/0Qy0ssIMo9jy74V2gKrpSQ) | [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [CULIGOTIKA](https://open.spotify.com/album/4n9mr0wnbqy9n56hopbFnU) | 3:02 |
 | 34 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 35 | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
 | 50 | [Venas](https://open.spotify.com/track/00ene37VcA5iTFUh4QggOM) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV), [Canibal](https://open.spotify.com/artist/1uiOqydYnYyA2Omy3mM6dA) | [Venas](https://open.spotify.com/album/6qy4zVKB6zQMsVO9FiuO6W) | 3:03 |
 
-Snapshot ID: `MCwwZDVmMjE4ZjFmNzhjNjE2YzVhOGJhMTI2OGI2MzM2YzNjOTE1NDc4`
+Snapshot ID: `MCwxMGU1Y2JmMDI4YTg2ZWE5OGY3ZDY0OWM5ZDQ4YTI1ZTk2ZGFiMDcw`

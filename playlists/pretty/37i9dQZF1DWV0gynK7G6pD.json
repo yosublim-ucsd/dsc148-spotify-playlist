@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Olivia Belli",
-  "num_followers": 703985,
+  "num_followers": 704031,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGYzZWFjYzkzODgzNzA0MDkxOWNkODc0NzhlNWRjYTJmOGU2YTRk",
+  "snapshot_id": "MCw5NGU0ZDFiMzVhNDg3ZTgzNjNmZTg3MzU0N2UzZmNiYzQxOTczOTJh",
   "tracks": [
     {
       "added_at": "2024-02-23 04:00:00",
@@ -667,7 +667,7 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "III. Scherzo. Allegro vivace",
+        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
         "url": "https://open.spotify.com/album/1Q2D9fyOTWgybkBe9EfpPO"
       },
       "artists": [
@@ -685,7 +685,7 @@
         }
       ],
       "duration_ms": 333440,
-      "name": "III. Scherzo. Allegro vivace",
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\"/III. Scherzo. Allegro vivace",
       "url": "https://open.spotify.com/track/2qx9t9Tzoz2DBTJqT9DWQe"
     },
     {
@@ -924,28 +924,12 @@
           "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
         },
         {
-          "name": "Czech National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX"
-        },
-        {
-          "name": "Ji\u0159\u00ed \u0160taidl",
-          "url": "https://open.spotify.com/artist/0TrJN2627MaGQP5a3xIjHC"
-        },
-        {
-          "name": "Joachim Relin",
-          "url": "https://open.spotify.com/artist/1FOp4HUpl9TmewV7gJ58X2"
-        },
-        {
-          "name": "Bert Olden",
-          "url": "https://open.spotify.com/artist/2Sqj5I50nij86bakytXJ7p"
-        },
-        {
-          "name": "Franti\u0161ek Krti\u010dka",
-          "url": "https://open.spotify.com/artist/1d1CKALcWaH3mwBhoOic3f"
-        },
-        {
           "name": "4 TENO\u0158I",
           "url": "https://open.spotify.com/artist/5Uvu6HmSTiG0nVXQnqYttE"
+        },
+        {
+          "name": "Czech National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX"
         }
       ],
       "duration_ms": 179893,

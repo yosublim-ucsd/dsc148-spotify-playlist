@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 114027,
+  "num_followers": 114063,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjlmYjc1NzI4NDA4NjRmMmFhM2E2MjgyNTVkNDcwNmVlOGRmMzc5",
+  "snapshot_id": "MCxjZWViZWI5NDExNmIyYzdiNTI3NDAyYjllZmY0MWQzNTUwZGQyNThh",
   "tracks": [
     {
       "added_at": "2024-01-12 16:17:07",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 300408,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Super Cumbias (Remastered)",
-        "url": "https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Ahora Estoy Solo",
-      "url": "https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 303413,
       "name": "Dificil de igualar",
       "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Super Cumbias (Remastered)",
+        "url": "https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Ahora Estoy Solo",
+      "url": "https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
         "name": "Sr. Pombero",
         "url": "https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D"
       },
@@ -427,44 +411,8 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Pense Que Te Olvide (feat. 8 Corazones)",
-        "url": "https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        },
-        {
-          "name": "8 Corazones",
-          "url": "https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "Pense Que Te Olvide (feat. 8 Corazones)",
-      "url": "https://open.spotify.com/track/39gWip1Y0ihun0akUpA270"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
       },
       "artists": [
         {
@@ -472,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Si Yo Fuera El",
-      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -499,18 +447,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "\u00a1Anotate!",
-        "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
       },
       "artists": [
         {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 191680,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -531,6 +479,42 @@
       "duration_ms": 155191,
       "name": "El Gallo Rojo",
       "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Pense Que Te Olvide (feat. 8 Corazones)",
+        "url": "https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        },
+        {
+          "name": "8 Corazones",
+          "url": "https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma"
+        }
+      ],
+      "duration_ms": 182204,
+      "name": "Pense Que Te Olvide (feat. 8 Corazones)",
+      "url": "https://open.spotify.com/track/39gWip1Y0ihun0akUpA270"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "\u00a1Anotate!",
+        "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Si Yo Fuera El",
+      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
         "name": "Amaneci\u00f3 lloviendo",
         "url": "https://open.spotify.com/album/0IxIeG2XORcCoPjyGWtBzt"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 189077,
       "name": "Amaneci\u00f3 lloviendo",
       "url": "https://open.spotify.com/track/3zZsSn7sjY7sZQtRT7tJNa"
-    },
-    {
-      "added_at": "2024-01-12 16:17:07",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
-      },
-      "artists": [
-        {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
-        }
-      ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
       "artists": [
         {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
         }
       ],
-      "duration_ms": 203253,
-      "name": "Que Loco Amor",
-      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Olv\u00eddame Si Puedes",
-        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
       },
       "artists": [
         {
-          "name": "Noa - Noa",
-          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
+          "name": "Cumbia Juan",
+          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
         }
       ],
-      "duration_ms": 198773,
-      "name": "Pobre De Mis Ojos",
-      "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
+      "duration_ms": 203253,
+      "name": "Que Loco Amor",
+      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-01-12 16:17:07",
       "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ"
+        "name": "Olv\u00eddame Si Puedes",
+        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
       },
       "artists": [
         {
-          "name": "Yelsid",
-          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
+          "name": "Noa - Noa",
+          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
         }
       ],
-      "duration_ms": 217192,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK"
+      "duration_ms": 198773,
+      "name": "Pobre De Mis Ojos",
+      "url": "https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC"
     },
     {
       "added_at": "2024-01-12 16:17:07",
@@ -763,6 +747,22 @@
       "duration_ms": 180195,
       "name": "Loquita",
       "url": "https://open.spotify.com/track/3Aws1K6BcnUjAwnfuGg3A1"
+    },
+    {
+      "added_at": "2024-01-12 16:17:07",
+      "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ"
+      },
+      "artists": [
+        {
+          "name": "Yelsid",
+          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
+        }
+      ],
+      "duration_ms": 217192,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK"
     },
     {
       "added_at": "2024-01-12 16:17:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,473,256 likes - 140 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,473,321 likes - 140 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 40 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 41 | [Terms & Conditions](https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Terms & Conditions](https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B) | 4:04 |
 | 42 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 |
-| 43 | [In My Baby's Arms](https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 2](https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt) | 3:40 |
+| 43 | [In My Baby's Arms](https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Amethyst Starr](https://open.spotify.com/artist/7euhIbMlHCCZYE1Xegaobf) | [Call It Home: Vol\. 2](https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt) | 3:40 |
 | 44 | [Floating](https://open.spotify.com/track/4pL6ttMaK39bVEvGhDTOmE) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Floating](https://open.spotify.com/album/4yri1y8XKblskxc5Gt92Aw) | 3:31 |
 | 45 | [How Far We've Come](https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [How Far We've Come](https://open.spotify.com/album/7692cF5NNEjB7l9ky4X4ID) | 3:07 |
 | 46 | [Answering Machine](https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 5:09 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 139 | [Float](https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn) | 4:00 |
 | 140 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 
-Snapshot ID: `MCw0MTVlMzZjNzI3MTQ4ZWY3YjAxZGJiMTYwMzQyZDdjZTEzYzVkMjRi`
+Snapshot ID: `MCw3N2M4YTJhYzdkMjZjODViMGUzNTc0NGQzNGU4YjRmMGQyNGEyODQw`

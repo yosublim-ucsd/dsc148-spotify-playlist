@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Alpha Wolf + ICE\-T
 
-835 songs - 2 day 4 hr 13 min
+836 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,8 @@
 | [Passenger](https://open.spotify.com/track/2SXk2Adq9A8hMvrbglHmRs) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [This place only brings death](https://open.spotify.com/album/5bds0LlgCaYsvAscrK1HQ0) | 3:59 | 2023-09-29 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2022-07-13 | 2022-07-23 |
-| [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 | 2023-12-22 |  |
+| [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 | 2023-12-22 | 2024-02-27 |
+| [Perpetual Terminal](https://open.spotify.com/track/4Sa3ILVhdU197MT78j1QOa) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4VNi4KMdhD5OYfsClMJxii) | 5:47 | 2024-02-23 |  |
 | [Perpetual Terminal](https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB) | 5:47 | 2023-11-27 | 2023-12-24 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
 | [Pizza Homicide](https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pizza Homicide](https://open.spotify.com/album/4NTGoJrPUvdgihClkErxoM) | 3:00 | 2023-03-10 | 2023-05-06 |

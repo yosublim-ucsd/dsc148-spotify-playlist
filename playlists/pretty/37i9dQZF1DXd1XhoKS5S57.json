@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12361,
+  "num_followers": 12371,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1",
+  "snapshot_id": "MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -211,22 +211,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -247,18 +231,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 269973,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -275,6 +259,22 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 301133,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -919,22 +919,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Pieces of A Dream",
-        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Sick and Tired",
-      "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -967,22 +951,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "la fierte des notres",
-        "url": "https://open.spotify.com/album/5Cp07JiZnqruQBNZb88OCf"
+        "name": "Pieces of A Dream",
+        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
       },
       "artists": [
         {
-          "name": "Rohff",
-          "url": "https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp"
-        },
-        {
-          "name": "Natty",
-          "url": "https://open.spotify.com/artist/6DgyAh4MS5wtfJcP5DH2FT"
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Le son qui tue (avec Natty)",
-      "url": "https://open.spotify.com/track/3ee6eXqZqJo3DJEiBr1SHs"
+      "duration_ms": 212266,
+      "name": "Sick and Tired",
+      "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1003,6 +983,42 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "la fierte des notres",
+        "url": "https://open.spotify.com/album/5Cp07JiZnqruQBNZb88OCf"
+      },
+      "artists": [
+        {
+          "name": "Rohff",
+          "url": "https://open.spotify.com/artist/32UhRcgdXO6LdLhOpfIdxp"
+        },
+        {
+          "name": "Natty",
+          "url": "https://open.spotify.com/artist/6DgyAh4MS5wtfJcP5DH2FT"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Le son qui tue (avec Natty)",
+      "url": "https://open.spotify.com/track/3ee6eXqZqJo3DJEiBr1SHs"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "Trick Me - Club Mix",
+      "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "Trag\u00e9die (\u00c9dition Deluxe)",
         "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 216493,
       "name": "Sexy pour moi! - Mix 2",
       "url": "https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Dip It Low",
-        "url": "https://open.spotify.com/album/3iJxV52syDyKSOoS6aC3cE"
-      },
-      "artists": [
-        {
-          "name": "Christina Milian",
-          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Dip It Low",
-      "url": "https://open.spotify.com/track/4L55p6txv9vuCWhpNnY6eY"
     }
   ],
   "unique_name": "Top Hits France 2004",

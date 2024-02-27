@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,861 songs - 4 day 4 hr 35 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,862 songs - 4 day 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1869,5 +1869,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1859 | [shhh](https://open.spotify.com/track/6kh9HwHs4jdVtwejIHdEVV) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:38 |
 | 1860 | [Romeo and Juliet, Op\. 64 / Act 1: Dance Of The Knights](https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Lorin Maazel](https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve) | [Prokofiev: Romeo & Juliet](https://open.spotify.com/album/2wYzIASaoQtpXa16C5HvDZ) | 5:07 |
 | 1861 | [Glory to Arstotzka](https://open.spotify.com/track/1j8nEnYhowaJRq5aZD35mo) | [Lucas Pope](https://open.spotify.com/artist/78f89mbowbxt39ctuqX8bM) | [Papers, Please \(Original Game Soundtrack\)](https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW) | 1:43 |
+| 1862 | [Avalon](https://open.spotify.com/track/7CxFWAnQ8eqiRL4W12Xzb6) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Avalon](https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv) | 2:20 |
 
-Snapshot ID: `NzEyLDAwNjY4MmVlYzBkMzIxMWQxNjQxYTMxMzNkMjkwZGQ0MjNmZWFiOGY=`
+Snapshot ID: `NzEzLDg1ZDA0MjI2NTY0Yjc2YmY3ZWUyY2NkYjlhMTczMzc4MjAxZDcwMmQ=`

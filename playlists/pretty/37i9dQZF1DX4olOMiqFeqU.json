@@ -1,12 +1,12 @@
 {
-  "description": "100% Pinoy hits from your favorite artists! Cover: Michael Pangilinan",
-  "num_followers": 2401488,
+  "description": "100% Pinoy hits from your favorite artists! Cover: KZ Tandingan",
+  "num_followers": 2401923,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmJhMDA0NTQxNTY3ODFlMjIzYjdjOWUzNmI5MzdmZjQ4NGYwMjdl",
+  "snapshot_id": "MCxhOGY0OWYyN2UzODAzZmE3ZTI0NDBlNDZhNmZkYmE4ZmEwOTBmZGYw",
   "tracks": [
     {
       "added_at": "2024-01-31 04:16:32",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Higa",
-      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Hale",
         "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
@@ -323,22 +307,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Ikaw Pa Rin",
         "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
       },
@@ -371,34 +339,18 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Fuchsiang Pag-Ibig",
-        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 306466,
-      "name": "Ikaw Lamang",
-      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
-      },
-      "artists": [
-        {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Kung Wala Ka",
-      "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -419,6 +371,38 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Ikaw Lamang",
+      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
         "name": "Bigotilyo",
         "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 168493,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -511,6 +527,22 @@
       "duration_ms": 285138,
       "name": "Sa Ngalan Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -551,38 +583,6 @@
       "duration_ms": 291506,
       "name": "Nobela",
       "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl"
-      },
-      "artists": [
-        {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 349750,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -663,38 +663,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Materyal",
-        "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
-      },
-      "artists": [
-        {
-          "name": "Shanti Dope",
-          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Nadarang",
-      "url": "https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Materyal",
+        "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Nadarang",
+      "url": "https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Sana",
-        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
-      },
-      "artists": [
-        {
-          "name": "I Belong to the Zoo",
-          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
-        }
-      ],
-      "duration_ms": 277098,
-      "name": "Sana - Single Version",
-      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 249080,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "duration_ms": 277098,
+      "name": "Sana - Single Version",
+      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+        "name": "panaginip",
+        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "iluna",
+          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+      "duration_ms": 332406,
+      "name": "panaginip",
+      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
     }
   ],
   "unique_name": "OPM Favorites",

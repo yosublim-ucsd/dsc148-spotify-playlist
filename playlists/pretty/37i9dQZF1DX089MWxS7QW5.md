@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jiselle\(지셀\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,592 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,614 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [INVU](https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [INVU](https://open.spotify.com/album/0ToIkUqka6WWsMQw3TETdw) | 3:04 |
 | 50 | [Beside You \(feat\. LIMZY\)](https://open.spotify.com/track/6FCgF4BO3QzteywSsuJ7Tk) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Limzy](https://open.spotify.com/artist/1S3po0DnvzmI2nDXxbxfUu) | [Beside You \(feat\. LIMZY\)](https://open.spotify.com/album/3zUFUes1ztWrgPFWSkomfu) | 3:08 |
 
-Snapshot ID: `MCxkNGFiODhjYTU0MGZkOWE4Y2FiNWUxNjY4YjFhYTVjOTc4YWYyZjJi`
+Snapshot ID: `MCw0MjIzZjg3NmJlODczNTU4ZjRhNTkyNGRlZWZkNzlmMDg3NTgxZjQ3`

@@ -4,7 +4,7 @@
 
 > 
 
-628 songs - 1 day 5 hr 35 min
+629 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 | 2023-12-15 |  |
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2022-11-18 | 2023-05-09 |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 | 2023-05-09 |
+| [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-26 |  |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 | 2023-05-09 |
 | [News or Something](https://open.spotify.com/track/3BzlZAqfnZDjv1F5CLlpHx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:33 | 2023-03-06 | 2023-12-14 |
 | [NIGHTCARE](https://open.spotify.com/track/6M3E2Zamd9yPqklfHqye8Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:22 | 2023-03-11 | 2023-12-14 |

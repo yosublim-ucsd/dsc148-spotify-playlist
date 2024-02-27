@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-521 songs - 21 hr 23 min
+522 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Berlin Rain](https://open.spotify.com/track/4bIti4ZqD4yOkTvHEHJ04L) | [Muscle](https://open.spotify.com/artist/7rX3arPA93JjNPBtZ9JNu2) | [Berlin Rain / At Dusk](https://open.spotify.com/album/1BzHg6Un80v0yApbtlyt90) | 1:33 | 2019-05-26\* | 2020-01-14 |
 | [Best Regards](https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Best Regards](https://open.spotify.com/album/5EFl3ZMdhYIhsBpysh8QlF) | 2:36 | 2020-06-19 | 2022-07-22 |
 | [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 | 2023-11-23 |  |
-| [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-09-28 |  |
+| [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-09-28 | 2024-02-27 |
 | [Bike Ride in Osaka](https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [Bike Ride in Osaka](https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis) | 2:00 | 2022-10-20 | 2023-03-02 |
 | [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 | 2022-01-27 | 2023-03-13 |
 | [bitter soil](https://open.spotify.com/track/5xmX8H9bWWlGZrs7UBuYLJ) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bitter soil](https://open.spotify.com/album/6rzVxkkcRVKGjAZO2KkEUB) | 2:06 | 2022-07-28 | 2022-08-01 |
@@ -497,6 +497,7 @@
 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 | 2019-07-26 |  |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-28 |
 | [Wake Up](https://open.spotify.com/track/7d4R7B6FWSiXFTD7p6REdx) | [Wenzel](https://open.spotify.com/artist/1tQmb1kAHc5lpCA5Pdl7Pz) | [Wake Up](https://open.spotify.com/album/0k043wif6WPtTIbfO0zMX7) | 1:21 | 2019-05-26\* | 2019-06-15 |
+| [Warm Flicker \- Uevo & Noflik Remix](https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Warm Flicker \(Uevo & Noflik Remix\)](https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY) | 2:16 | 2024-02-22 |  |
 | [Warmer Together](https://open.spotify.com/track/1PFBZIQJ5ETnT0f1zTSPQs) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/5H601bXKqXGE6LpnIZwkne) | 2:37 | 2020-06-19 | 2022-04-19 |
 | [Warmer Together](https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK) | [lisnn](https://open.spotify.com/artist/1REa8kI2N4Jp9xZJ9wHFdd), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warmer Together](https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB) | 2:37 | 2022-08-25 |  |
 | [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 | 2022-11-13 |

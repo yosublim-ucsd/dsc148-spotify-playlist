@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes! Cover: Broederliefde
+> Motion & good vibes! Cover: KATNUF
 
-887 songs - 1 day 16 hr 2 min
+888 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Cadeau \(feat\. Tiakola\)](https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:31 | 2023-02-02 | 2023-03-31 |
 | [Cadera](https://open.spotify.com/track/6K1AmddbdQv51KzTJacJxq) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu) | [Cadera](https://open.spotify.com/album/7N1omA7OfEgQ8EU97dFMys) | 1:14 | 2022-07-28 | 2022-09-16 |
 | [Call Jehova](https://open.spotify.com/track/1CANP9um3E8PolYHhvzttV) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Call Jehova](https://open.spotify.com/album/0bDZOcGeHoA2GM0qll0beL) | 2:39 | 2023-01-26 | 2023-02-10 |
-| [Call You](https://open.spotify.com/track/6hzT12LQd1xNhiKg8IHR5X) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Call You](https://open.spotify.com/album/2LV4hZm1PwNtxfPffOk3Xx) | 2:10 | 2024-02-08 |  |
+| [Call You](https://open.spotify.com/track/6hzT12LQd1xNhiKg8IHR5X) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Call You](https://open.spotify.com/album/2LV4hZm1PwNtxfPffOk3Xx) | 2:10 | 2024-02-08 | 2024-02-27 |
 | [Calling Me \(feat\. Jandro\)](https://open.spotify.com/track/6wPxHfzLzKHyFcY1dLPbtZ) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [Gangster Love](https://open.spotify.com/album/3ugtz6llOiSYzYJg2qp9Tx) | 2:28 | 2022-07-14 | 2022-10-21 |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-07-14 | 2022-07-29 |
 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 | 2024-01-11 | 2024-02-02 |
@@ -195,7 +195,7 @@
 | [Consciousness](https://open.spotify.com/track/3fDQa06TlrJoC4zDH1iuaB) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Consciousness](https://open.spotify.com/album/0D3M7NwWQe4iL0rMNfPWQk) | 1:51 | 2022-07-21 | 2022-08-26 |
 | [CONTEST](https://open.spotify.com/track/6yWzuF0sb6cX2gyNFl5mYJ) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [CONTEST](https://open.spotify.com/album/3iJqniJbShK8X9G0TMazur) | 2:17 | 2022-11-17 | 2022-12-24 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-11-18 | 2023-04-07 |
-| [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 | 2024-02-22 |  |
+| [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 | 2024-02-22 |  |
 | [Criminal](https://open.spotify.com/track/18cF0f2BcZJNQDHLsc6fWh) | [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59), [Bandolera](https://open.spotify.com/artist/6iFmzXMBX8z3Egytb0JRii) | [Criminal](https://open.spotify.com/album/7CZgWFavJsC6Xw1BJMusdx) | 2:10 | 2023-02-16 | 2023-03-01 |
 | [Criminal](https://open.spotify.com/track/4VQrJat2MItnL0LFV4nPLh) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT) | [Criminal](https://open.spotify.com/album/1bVBtbblyGjF4FbJWqDU3d) | 2:37 | 2022-07-21 | 2022-10-14 |
 | [Criminal](https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [Criminal](https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl) | 2:37 | 2022-07-14 | 2022-07-29 |
@@ -793,6 +793,7 @@
 | [Trending](https://open.spotify.com/track/3yOnuflqoO8zLHYPdHRtMp) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [Trending](https://open.spotify.com/album/2AXU24ckAzEVkWUL8c7D25) | 2:41 | 2023-10-12 | 2023-12-01 |
 | [Tricks](https://open.spotify.com/track/2xgL1NT5nk0zw6chUtWH9x) | [Babybang](https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Tricks](https://open.spotify.com/album/10zUSiruePJMcNy4nuYkRS) | 3:00 | 2022-10-13 | 2022-10-28 |
 | [Tril](https://open.spotify.com/track/6kSv8PoHReHzdB7sFBf2l7) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Jayh Owen](https://open.spotify.com/artist/4hgkBqik8f6ZueCQEA5VG8), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp) | [Tril](https://open.spotify.com/album/6tk81SkkRjdGhq9RJHYZLv) | 2:15 | 2023-11-16 | 2023-12-22 |
+| [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 | 2024-02-26 |  |
 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 | 2023-08-15 | 2023-11-17 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 | 2023-04-20 | 2023-05-19 |
 | [Trust Issues](https://open.spotify.com/track/0AHFRN8Cp9qBMFnP7d9LzK) | [Oli Yayo](https://open.spotify.com/artist/4DCi3ihpMPqe9l3D9sGbJI) | [Trust Issues](https://open.spotify.com/album/5Qj2NsWAZ0r6LAsqmQemlV) | 2:14 | 2023-08-31 | 2023-12-15 |

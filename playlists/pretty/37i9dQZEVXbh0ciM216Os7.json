@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Nzc3NDAsMDAwMDAwMDBlYzc1Nzk0N2VmZDk1NjE4NWM3ZDJiNmM2YTkwNTg2ZQ==",
+  "snapshot_id": "Mjg0Nzc3NDAsMDAwMDAwMDBlMTViMGUxZTk1ZjI0NmYzOWRjN2U2ZmNjNWQwMzM5NQ==",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Mac & Cheese 5",
-        "url": "https://open.spotify.com/album/4h0uWfzsIQ88OjBR88G7kq"
+        "name": "Mac & Cheese 5 (Versions)",
+        "url": "https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs"
       },
       "artists": [
         {
@@ -30,7 +30,7 @@
       ],
       "duration_ms": 173861,
       "name": "Where They At",
-      "url": "https://open.spotify.com/track/3MJEOuplsH2AnEXzQe02eL"
+      "url": "https://open.spotify.com/track/0OI6FqVRdAFhWOBo4tq0UV"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -155,30 +155,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Glass: Cocteau Trilogy",
-        "url": "https://open.spotify.com/album/23xqTlF6y74ydN1PJlUQZB"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: I. Le caf\u00e9",
-      "url": "https://open.spotify.com/track/3OEFievKZpxgLKdcU0sLUe"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "The Four Horsemen (feat. Robert Trujillo)",
         "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
       },
@@ -195,6 +171,22 @@
       "duration_ms": 286117,
       "name": "The Four Horsemen (feat. Robert Trujillo)",
       "url": "https://open.spotify.com/track/5tZHAwrNbJEA0o7jK2nilG"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Ils dansent",
+        "url": "https://open.spotify.com/album/2LjeJoPZubfsFVIKVBWbXf"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 147457,
+      "name": "Ils dansent",
+      "url": "https://open.spotify.com/track/3VRQ95U3wwWqIIO3UzfW5T"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -219,18 +211,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Ils dansent",
-        "url": "https://open.spotify.com/album/2LjeJoPZubfsFVIKVBWbXf"
+        "name": "Glass: Cocteau Trilogy",
+        "url": "https://open.spotify.com/album/23xqTlF6y74ydN1PJlUQZB"
       },
       "artists": [
         {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
         }
       ],
-      "duration_ms": 147457,
-      "name": "Ils dansent",
-      "url": "https://open.spotify.com/track/3VRQ95U3wwWqIIO3UzfW5T"
+      "duration_ms": 201680,
+      "name": "Orph\u00e9e - Arr. for Piano duet / Act 2: VIII. Le studio d'Orph\u00e9e",
+      "url": "https://open.spotify.com/track/59sFH6bAdy0TMs4ICQ447D"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -296,7 +296,7 @@
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "yes, and?",
-        "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8"
+        "url": "https://open.spotify.com/album/7hh2WcisTDUhAbCig0FfKu"
       },
       "artists": [
         {
@@ -310,7 +310,7 @@
       ],
       "duration_ms": 214994,
       "name": "yes, and? (with Mariah Carey)",
-      "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
+      "url": "https://open.spotify.com/track/2z65iWKbjfz4Ey2URvO1pt"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -327,26 +327,6 @@
       "duration_ms": 206401,
       "name": "Insignificant",
       "url": "https://open.spotify.com/track/01EVRD1UeZ9HegpaVZLwyS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Ottomans",
-        "url": "https://open.spotify.com/album/0GSXfRutHvrM76sOwT6R1y"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "unJUST",
-          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
-        }
-      ],
-      "duration_ms": 172076,
-      "name": "Ottomans",
-      "url": "https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -371,6 +351,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Ottomans",
+        "url": "https://open.spotify.com/album/0GSXfRutHvrM76sOwT6R1y"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "unJUST",
+          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
+        }
+      ],
+      "duration_ms": 172076,
+      "name": "Ottomans",
+      "url": "https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "One, Two, & 3",
         "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
       },
@@ -388,7 +388,7 @@
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Nothing",
-        "url": "https://open.spotify.com/album/0ghNsmRvZyOMxrYkDV3jVS"
+        "url": "https://open.spotify.com/album/5UH47NIEKQbj5oivxQ6pyn"
       },
       "artists": [
         {
@@ -402,7 +402,7 @@
       ],
       "duration_ms": 126142,
       "name": "Nothing",
-      "url": "https://open.spotify.com/track/3MGtul8CfDAIEEBV1HrpbV"
+      "url": "https://open.spotify.com/track/0tNrKgDkrktMm5QKRbvWWv"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 179770,
-      "name": "Off Minor - Remastered 2013",
-      "url": "https://open.spotify.com/track/0j7Sdz3I9lkgEjBoJ31Cti"
+      "duration_ms": 190948,
+      "name": "Introspection - Remastered 2013",
+      "url": "https://open.spotify.com/track/1whnVNKaYTdBatWkX8TX7T"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
         }
       ],
-      "duration_ms": 454370,
-      "name": "Lingua Ignota",
-      "url": "https://open.spotify.com/track/1cZl7hRofiCAzcWVWjHQ3q"
+      "duration_ms": 388496,
+      "name": "The Equable",
+      "url": "https://open.spotify.com/track/4UxJcns8mhRVaRqfTxmwZA"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

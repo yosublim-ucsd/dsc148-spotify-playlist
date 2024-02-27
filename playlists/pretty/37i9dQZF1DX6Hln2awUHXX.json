@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 97126,
+  "num_followers": 97159,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTg5MWM2OTNmMjFmYjFjYTM0YzhmNGM4N2ZmOGZhZDBhNGM2MDg4",
+  "snapshot_id": "MCwzZTk5NjkxMTExZDkyNzIwYTVlNDk1MDY4Y2ZlMDNiNzlhNGIwZmZi",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Flying Dutchman, Das Rheingold, Gotterdammerung, Parsifal - Wagner, Musically Speaking",
-        "url": "https://open.spotify.com/album/2s0yfwD8DBHCAq8nC0k6u4"
-      },
-      "artists": [
-        {
-          "name": "Gerard Schwarz",
-          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
-        }
-      ],
-      "duration_ms": 672226,
-      "name": "Parsifal Wagner - Good Friday Spell",
-      "url": "https://open.spotify.com/track/2BUAMUzW0PMPeY4AHbhVi0"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Scenes From Lohengrin and Siegfried",
         "url": "https://open.spotify.com/album/2u4PmXmyyth3qOAihNI8kd"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 321120,
       "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
       "url": "https://open.spotify.com/track/0lQPorDUzsJJ20gdXt8Sc2"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Flying Dutchman, Das Rheingold, Gotterdammerung, Parsifal - Wagner, Musically Speaking",
+        "url": "https://open.spotify.com/album/2s0yfwD8DBHCAq8nC0k6u4"
+      },
+      "artists": [
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
+        }
+      ],
+      "duration_ms": 672226,
+      "name": "Parsifal Wagner - Good Friday Spell",
+      "url": "https://open.spotify.com/track/2BUAMUzW0PMPeY4AHbhVi0"
     },
     {
       "added_at": "2022-06-28 08:58:25",

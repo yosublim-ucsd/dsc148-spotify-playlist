@@ -248,6 +248,24 @@
           "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241786,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/1vwEgKpkdY63nX0jrrYj9X"
+    },
+    {
+      "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
       "date_removed": null,

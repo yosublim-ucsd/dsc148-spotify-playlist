@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126489,
+  "num_followers": 126479,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU4MCxkNmQ5OTJmZGU5ODc4ZjZkOTA4ZTVjNzFhNDc0ZjMzZWY5NjllOGM1",
+  "snapshot_id": "NDU4MSxiOWI4Nzc5ZmQxMjU3ZDIyMGU2MjFmNjFmMTJhMmQ0ODA5OTExZDlj",
   "tracks": [
+    {
+      "added_at": "2024-02-26 20:04:41",
+      "album": {
+        "name": "Rawthentic",
+        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 221918,
+      "name": "Rawthentic",
+      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
+    },
     {
       "added_at": "2024-02-23 17:00:10",
       "album": {

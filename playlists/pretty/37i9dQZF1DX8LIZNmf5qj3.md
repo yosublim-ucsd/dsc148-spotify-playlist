@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,098 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,115 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [best thing for me](https://open.spotify.com/track/7cPYni8RIhjePdNSNxkVOZ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [best thing for me](https://open.spotify.com/album/5u2VPya6pROsJYlXa3v0pm) | 2:26 |
 | 50 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 
-Snapshot ID: `MCw1NTUxNWE1NzEyMDdkYWE2ZGZkODdhMjkxMzkzNTM2Y2ZlZjE4ZGQw`
+Snapshot ID: `MCwyNWQ3MDMzOTVlYTUyZDdkMGQ4MjA5MjAzMDMyZjdmZWE3NjM0NjVj`

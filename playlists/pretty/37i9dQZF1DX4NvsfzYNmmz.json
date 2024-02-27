@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 8023,
+  "num_followers": 8020,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGVhMGFkMGQzM2MwY2U5ODdkNGJhODEyZmY5ZWU1ZjcwZjg3Yzg5",
+  "snapshot_id": "MCwyMzUzZTQzODdlOGRmMDUyZDY1NmFiYTc3M2Q2M2EwNmVlMDg2ZDAy",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Merry Christmas Baby / White Christmas",
-        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "20th Century Masters - The Best of Smokey Robinson & The Miracles: The Christmas Collection",
         "url": "https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 221853,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "Sessions 1967-1975 - Rarities from The RCA Albums Collection",
         "url": "https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 147066,
       "name": "Snow - Alternate Version",
       "url": "https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "Merry Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 161493,
       "name": "It Won't Be Long 'Til Christmas - Bonus Track / 2015 Mix",
       "url": "https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Step Into Christmas",
-        "url": "https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
-      "url": "https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8"
     }
   ],
   "unique_name": "Christmas Dinner",

@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74331,
+  "num_followers": 74326,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzgwNTlkMmNhOGQ2Njg1YmY3MTI4OGNkNDU1Njc4NGQ0OWJlYzQ3",
+  "snapshot_id": "MCxmYmVmZDBiMjU0NjA1MzllYjljZTRiZTAzZjQ0ZTE1YTU4MDQ2Mzcy",
   "tracks": [
     {
       "added_at": "2024-01-23 03:56:17",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
+      "added_at": "2024-02-26 21:31:36",
+      "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/5UupaLxMiJS0dk06AldUGH"
+    },
+    {
       "added_at": "2024-02-02 06:04:28",
       "album": {
         "name": "People Who Aren\u2019t There Anymore",
@@ -73,24 +89,36 @@
       "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
-      "added_at": "2024-01-26 18:46:37",
+      "added_at": "2024-02-26 21:39:08",
       "album": {
-        "name": "Mami Chota",
-        "url": "https://open.spotify.com/album/2aVbO5vigwRXW0oJZycri4"
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 233939,
-      "name": "Mami Chota",
-      "url": "https://open.spotify.com/track/7gHO9902nXNaoU48h8twI3"
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
+    {
+      "added_at": "2024-02-26 21:38:37",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2024-02-10 20:47:08",
@@ -135,6 +163,26 @@
       "duration_ms": 217630,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/1OVRnfZ5zSR0GwXcSYMGEg"
+    },
+    {
+      "added_at": "2024-01-26 18:46:37",
+      "album": {
+        "name": "Mami Chota",
+        "url": "https://open.spotify.com/album/2aVbO5vigwRXW0oJZycri4"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "duration_ms": 233939,
+      "name": "Mami Chota",
+      "url": "https://open.spotify.com/track/7gHO9902nXNaoU48h8twI3"
     },
     {
       "added_at": "2024-02-02 06:04:28",
@@ -797,22 +845,6 @@
       "url": "https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2"
     },
     {
-      "added_at": "2023-10-28 00:55:54",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
       "added_at": "2024-01-18 21:30:54",
       "album": {
         "name": "A Love International",
@@ -827,22 +859,6 @@
       "duration_ms": 255100,
       "name": "A Love International",
       "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
-    },
-    {
-      "added_at": "2023-12-22 16:07:41",
-      "album": {
-        "name": "La boca aigua",
-        "url": "https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 128728,
-      "name": "Globus",
-      "url": "https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk"
     }
   ],
   "unique_name": "Kaleidoscope",

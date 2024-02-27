@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=9ip45wyNQf2aPFk4O3V05Q">Selena Gomez</a>
 
-2,205 songs - 6 day 6 hr 22 min
+2,205 songs - 6 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1989,7 +1989,7 @@
 | [Uhuru](https://open.spotify.com/track/3uKSq5fLzIs29JcgdFZ2g3) | [Reed](https://open.spotify.com/artist/3Mc4l3jbHlfPf4cUomYBJv), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2) | [Uhuru](https://open.spotify.com/album/64zvN4OX2PtlexDMgcRzt0) | 8:29 | 2024-02-16 | 2024-02-24 |
 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-08 | 2023-06-16 |
 | [Ukhathele \(feat\. Mashbeatz & Mdu aka TRP\)](https://open.spotify.com/track/6eg1GFb4o455b1WsvPwMUY) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Ukhathele \(feat\. Mashbeatz & Mdu aka TRP\)](https://open.spotify.com/album/1CsTMoLSbJPiw38XDvnVvS) | 8:35 | 2024-02-16 | 2024-02-24 |
-| [Ukhona](https://open.spotify.com/track/5JkKNV2t1EvknHoJlNlxAp) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Ukhona](https://open.spotify.com/album/7BDUadhFFqWLJLfOyzpDO3) | 3:21 | 2024-02-23 |  |
+| [Ukhona](https://open.spotify.com/track/5JkKNV2t1EvknHoJlNlxAp) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Ukhona](https://open.spotify.com/album/7BDUadhFFqWLJLfOyzpDO3) | 3:54 | 2024-02-23 |  |
 | [Ukudanza](https://open.spotify.com/track/02lf7BGiCI0BdYI08BQd9f) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Sweetsher](https://open.spotify.com/artist/4nrqhL63ApBq2GrEi3hGNk), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Ukudanza](https://open.spotify.com/album/45LLbCdhOU5RA2NPD8I0Dh) | 3:29 | 2023-06-15 | 2023-06-23 |
 | [ULAZI & INFINITY MUSIQ \(MGUZU LAND\)](https://open.spotify.com/track/0OEJCv9tgsSNeEOgAe0iMU) | [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l) | [ULAZI & INFINITY MUSIQ \(MGUZU LAND\)](https://open.spotify.com/album/0hUuTtQ0m0LAI3vUW8g7PY) | 6:25 | 2023-10-06 | 2023-10-13 |
 | [ULAZI Infinity MusiQ \(CYAN BOUJEE\)](https://open.spotify.com/track/40qyZYbOdtBFb9xPhKdMZ8) | [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l) | [ULAZI Infinity MusiQ \(CYAN BOUJEE\)](https://open.spotify.com/album/0rLKlrr007HC7xgWMDLY78) | 6:21 | 2023-08-10 | 2023-08-18 |

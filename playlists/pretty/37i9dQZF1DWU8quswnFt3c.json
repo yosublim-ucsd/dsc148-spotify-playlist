@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 903787,
+  "num_followers": 903744,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw",
+  "snapshot_id": "MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Scoot",
-        "url": "https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Scoot",
-      "url": "https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Scoot",
+        "url": "https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Scoot",
+      "url": "https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
-        "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
-      },
-      "artists": [
-        {
-          "name": "Praesun",
-          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
-      "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 194615,
       "name": "liar",
       "url": "https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
+        "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
+      "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Ao Mar",
-        "url": "https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL"
-      },
-      "artists": [
-        {
-          "name": "\u00c3o",
-          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
-        }
-      ],
-      "duration_ms": 289640,
-      "name": "Mulher",
-      "url": "https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "WHAT YOU THINK OF",
         "url": "https://open.spotify.com/album/01ngB0MbBmzxx8QbUvtRh8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 150909,
       "name": "WHAT YOU THINK OF",
       "url": "https://open.spotify.com/track/4GmOUr865qgrdmZOIOLH2q"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Ao Mar",
+        "url": "https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "duration_ms": 289640,
+      "name": "Mulher",
+      "url": "https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u"
     },
     {
       "added_at": "2024-02-07 13:26:59",

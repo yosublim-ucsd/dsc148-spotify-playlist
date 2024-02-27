@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 227586,
+  "2024-02-27": 227649,
   "date_first_scraped": "2022-03-24",
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
@@ -3451,7 +3451,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 215554,
       "name": "Dorme Com Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ"
@@ -11469,6 +11469,28 @@
       "duration_ms": 164571,
       "name": "Silenciador",
       "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
+    },
+    {
+      "album": {
+        "name": "Sim ou N\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7bXQjVDcnOwxULak7LS6pF"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "Sim ou N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hWc5QZGLh14Skp6rKPB9C"
     },
     {
       "album": {

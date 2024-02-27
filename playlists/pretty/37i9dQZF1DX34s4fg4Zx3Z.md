@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Em Ellata
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,691 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,740 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [anh muốn mình như con thuyền kia lao vào em rồi đắm chìm](https://open.spotify.com/track/1Qnt8m0uB5Q9QtFNFGKP4c) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P), [Mhee](https://open.spotify.com/artist/5ZhTl7bT6oDSoXIq1Zzf53), [Bạn Có Tài Mà](https://open.spotify.com/artist/6FCF4ljKz7tzcsOyUExpS7) | [anh muốn mình như con thuyền kia lao vào em rồi đắm chìm](https://open.spotify.com/album/56qStkWFU20BjBD77Oaspr) | 3:25 |
 | 100 | [Yêu Quái](https://open.spotify.com/track/4DBeVwr5plThoDpVeRXqfn) | [AnhPxx](https://open.spotify.com/artist/0y2MH5pUMkpj7xZ2hl41Cl) | [Yêu Quái](https://open.spotify.com/album/3JnTy5nNVfKdrXbYOck1s8) | 1:05 |
 
-Snapshot ID: `MCw4YjlkMTJkZGRhYTUwNGY3NWU0ZGFkZmExYTBmNDVjZjU0ODEzYzBi`
+Snapshot ID: `MCw0ZjFlNjY3MTNlZmI3ODRmN2Y4NjQ2ZDQ1Mjk4ZmNiYWRmMGEyYjQ1`

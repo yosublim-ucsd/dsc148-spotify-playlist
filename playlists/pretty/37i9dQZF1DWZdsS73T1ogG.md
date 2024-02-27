@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: RaiNao
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,846 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,888 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 11 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 |
 | 12 | [PERREO LENTO](https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS MARCIANOS Vol.1: Dei V Version](https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a) | 2:36 |
 | 13 | [BEBÉ](https://open.spotify.com/track/6sGnHZ87j6S76DkY36pYvh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [BEBÉ](https://open.spotify.com/album/56gG3L1q2IClYml31bL8mT) | 2:48 |
-| 14 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 |
+| 14 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [juhn](https://open.spotify.com/artist/4h3wVsJDhbn23uUNp1ZrFS) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 |
 | 15 | [VVS Switch](https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [VVS Switch](https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg) | 2:48 |
 | 16 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
 | 17 | [PRODIGY \- Freestyle](https://open.spotify.com/track/2kia0RpeNzZI57iMnULjGa) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [PRODIGY \(Freestyle\)](https://open.spotify.com/album/3SfdQgNhPO9cqKmVwFab1f) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Le Gustan lo' Flaites](https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC) | [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ), [Celso El Potente](https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2) | [Le Gustan lo' Flaites](https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx) | 3:03 |
 | 100 | [3ple X \- Radio Edit](https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [3ple X \(Radio Edit\)](https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd) | 3:31 |
 
-Snapshot ID: `MCw0NDlhOWQyOTcxMWMwYzViYjk1OWMzYThlODk3ZjA2OWE5OGFlMWI1`
+Snapshot ID: `MCw2NDhiYzI1YjYwMDQ3ODNmYTM1ODgxZDcwNmVjMjE1NjMzYzg0Zjk4`

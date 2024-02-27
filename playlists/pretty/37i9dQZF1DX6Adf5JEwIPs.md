@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: La Adictiva, Grupo Marca Registrada y Montana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,717 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,876 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 32 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 |
 | 33 | [El Pitufo](https://open.spotify.com/track/4vE0Xxu4M21TzYlrRVU6GD) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Pitufo](https://open.spotify.com/album/6EaaqOlpziEc8qXfnDRSDW) | 4:05 |
 | 34 | [El Mero Mero](https://open.spotify.com/track/7pt3E97ekAwqWRp5vGBkvY) | [El Guero MP](https://open.spotify.com/artist/5YwRUBJj4qUHBc1mPNT3FC), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [El Mero Mero](https://open.spotify.com/album/5t7yjTXTUbpYzBilMPmfdf) | 2:43 |
-| 35 | [Apoco No](https://open.spotify.com/track/0LC2x5UTnbmDWIjFEdSSxJ) | [Memo Garza](https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F) | [Apoco No](https://open.spotify.com/album/6rh66Mns8zdXUWWGU7LwD4) | 2:48 |
+| 35 | [A Poco No](https://open.spotify.com/track/0LC2x5UTnbmDWIjFEdSSxJ) | [Memo Garza](https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F) | [A Poco No](https://open.spotify.com/album/6rh66Mns8zdXUWWGU7LwD4) | 2:48 |
 | 36 | [Sobre Mis Pies \- En Vivo](https://open.spotify.com/track/1b0ZBk7oTbXPcHD6pHbYLM) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [En Vivo Desde La Finca San Miguel](https://open.spotify.com/album/7gpmGTY97ogInwx0z7reyj) | 3:56 |
 | 37 | [Chuy Patabionica \(En Vivo\)](https://open.spotify.com/track/6kd85d1pfuV1aHDlsGXaT8) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Chuy Patabionica \(En Vivo\)](https://open.spotify.com/album/6Wh6nMUspNA4wnhXzmQvGE) | 2:36 |
-| 38 | [Ando Detras Del Billete](https://open.spotify.com/track/6jYXCRbqZmjlkU8tMRnPoq) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR) | [Ando Detras del Billete](https://open.spotify.com/album/6q28eYpdCpTI6uVCwcM5w6) | 3:05 |
+| 38 | [Ando Detras del Billete](https://open.spotify.com/track/6jYXCRbqZmjlkU8tMRnPoq) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR) | [Ando Detras del Billete](https://open.spotify.com/album/6q28eYpdCpTI6uVCwcM5w6) | 3:05 |
 | 39 | [MILLAS](https://open.spotify.com/track/708JPXmTUccJ5t6aKzThG1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [MILLAS](https://open.spotify.com/album/3GSs7IdhLrNsZuSOxmqnt8) | 2:41 |
 | 40 | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ahí Les Encargo \(En Vivo\)](https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje) | 2:51 |
 | 41 | [No Me Arrepiento \- En Vivo](https://open.spotify.com/track/2FUmjd9WyjNleQjxR3c5hG) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Jose Aldaz](https://open.spotify.com/artist/5xWXHrFtcWUXdve0kYZyb4) | [No Me Arrepiento \(En Vivo\)](https://open.spotify.com/album/21Tjk6RM8h4DtFZtR2ZTbh) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Va Por Ahi \- En Vivo](https://open.spotify.com/track/6yDb7UGeiG4D8fNbsRtVmP) | [Carácter Norteño](https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw) | [Va Por Ahi \(En Vivo\)](https://open.spotify.com/album/47HPiyWvBEwD75WTipY2tC) | 2:52 |
 | 50 | [La Cachucha Negra](https://open.spotify.com/track/1maPA4wxM27PiBXsrw51ow) | [Diego DeLa Rosca](https://open.spotify.com/artist/5sEu1N2B7Y1VCPU8R4zmx6) | [La Cachucha Negra](https://open.spotify.com/album/5uer2UgYxHC2HEEUCU9oo8) | 2:52 |
 
-Snapshot ID: `MCwwZTEwZTA5NDczZjc2YmRlMmIxM2Q2NDFmNjZjODcwMTAyOThlOGQz`
+Snapshot ID: `MCw2YzdjNDA2ZmY4ZGZlMjY2YzU4ZGQwZGJkYTE4ZTJlMzdhMjM1Nzdj`

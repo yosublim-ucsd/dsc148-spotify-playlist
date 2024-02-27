@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > I NORRLAND ÄR DET FEST!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,801 likes - 102 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,926 likes - 102 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 19 | [IN MED EN PRILLA](https://open.spotify.com/track/4HgBgnmaUUKxMoQIxrslHZ) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IN MED EN PRILLA](https://open.spotify.com/album/518DYZMBB8fLL3E8HKIMNR) | 2:10 |
 | 20 | [PSYKOPAT](https://open.spotify.com/track/513HKBUyCIwv1zXOLmEYCM) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [PSYKOPAT](https://open.spotify.com/album/3LrERkehZNXq8YsN2HowHo) | 2:36 |
 | 21 | [800 GRADER](https://open.spotify.com/track/5nkwINOjO6hcXZ4D4v6uyo) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [DJ DUNK](https://open.spotify.com/artist/3xZIABI7kdGYETfS4fSbOI) | [800 GRADER](https://open.spotify.com/album/2cXAMdZ2qJMe4T5a2cKaij) | 2:18 |
-| 22 | [CHEVAN](https://open.spotify.com/track/36xJk4gT1rLIZfMVlVQ96f) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [RAGGARSVINET](https://open.spotify.com/artist/36nIhRqcdo4CCcCl3Eadgp), [PILLAN](https://open.spotify.com/artist/4tJG2ZApXKB8ZWCHoO4JgI) | [CHEVAN](https://open.spotify.com/album/1qY4vTekRHNxzIoHo9XHst) | 2:09 |
+| 22 | [CHEVAN](https://open.spotify.com/track/36xJk4gT1rLIZfMVlVQ96f) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [RAGGARSVINET](https://open.spotify.com/artist/36nIhRqcdo4CCcCl3Eadgp), [Flickan](https://open.spotify.com/artist/3RdDWXaVwMOWEyhG0Zq0D7) | [CHEVAN](https://open.spotify.com/album/1qY4vTekRHNxzIoHo9XHst) | 2:09 |
 | 23 | [Bahamas](https://open.spotify.com/track/2EP3cB1YnTBr38bumyIjeF) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Bahamas](https://open.spotify.com/album/2P5Ms7VhOiTigKxqi555HV) | 2:31 |
 | 24 | [Flaskans Sång](https://open.spotify.com/track/3uDLQGy7CnWsddp7bRMcKw) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Flaskans Sång](https://open.spotify.com/album/0Npj0zvpAHF4YTXaxz4lET) | 2:27 |
 | 25 | [Chans](https://open.spotify.com/track/2zT31Dd0jUQqdiT9UkXJti) | [Strögarn](https://open.spotify.com/artist/0Ez9DrPW7wlt26uoAUezSP), [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Chans](https://open.spotify.com/album/5yrcOHobsI4fKokh1OwScS) | 2:56 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 101 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 102 | [Rulla \- JulleMeck Remix](https://open.spotify.com/track/7ylBp2FdcIlkrJSlg1IuJX) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [Rulla \(JulleMeck Remix\)](https://open.spotify.com/album/39E2muCHB9RcIJu3atUy4C) | 2:06 |
 
-Snapshot ID: `MCwxZGQzM2VkN2JhNGJmYTA5NmVmMjQ0YmZlN2I3OWI5MGEwOWExOGZi`
+Snapshot ID: `MCw3Yzc2NjcwOGMwMTQwNTI0MDVmMjMxMDNkOTJjNzc3ZGY3NDEzYTBk`

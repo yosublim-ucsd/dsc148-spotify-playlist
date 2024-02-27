@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 820890,
+  "2024-02-27": 820974,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -1847,7 +1847,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 154285,
       "name": "B2LA",
       "url": "https://open.spotify.com/track/4rz4fCQqbxjBQZW3cQXiL5"
@@ -3641,7 +3641,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 165059,
       "name": "Caney",
       "url": "https://open.spotify.com/track/5mE8MWkWjLbfmd9ipiroVt"
@@ -12905,7 +12905,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 170500,
       "name": "R\u00fcya Gibi",
       "url": "https://open.spotify.com/track/06wiBJmkmQSQUEUj8TESu0"
@@ -16281,6 +16281,24 @@
       "duration_ms": 278133,
       "name": "Zalim",
       "url": "https://open.spotify.com/track/3HrH0tLPJHsweeAlw3leQO"
+    },
+    {
+      "album": {
+        "name": "Ellerine Sa\u011fl\u0131k (Remastered)",
+        "url": "https://open.spotify.com/album/1GtHpfgrBTLRG4JP2cZxPn"
+      },
+      "artists": [
+        {
+          "name": "Yal\u0131n",
+          "url": "https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Zalim (Ellerine Sa\u011fl\u0131k) - Remastered",
+      "url": "https://open.spotify.com/track/6aEEq4m2qAuRKV8wr3Y40Y"
     },
     {
       "album": {

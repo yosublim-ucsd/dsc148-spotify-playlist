@@ -18126,10 +18126,6 @@
       },
       "artists": [
         {
-          "name": "WAVEY",
-          "url": "https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt"
-        },
-        {
           "name": "Kleine John",
           "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
         },
@@ -18140,6 +18136,10 @@
         {
           "name": "Dior",
           "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        },
+        {
+          "name": "WAVEY",
+          "url": "https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt"
         }
       ],
       "date_added": "2024-02-22",
@@ -19646,6 +19646,10 @@
         {
           "name": "Femme",
           "url": "https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z"
+        },
+        {
+          "name": "JAPS",
+          "url": "https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc"
         }
       ],
       "date_added": "2024-02-22",
@@ -55246,8 +55250,8 @@
           "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
         },
         {
-          "name": "adm:t",
-          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
         }
       ],
       "date_added": "2024-02-22",

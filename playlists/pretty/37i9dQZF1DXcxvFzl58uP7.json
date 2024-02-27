@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1105887,
+  "num_followers": 1105938,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzE0MzU4Yjg3N2YwYWIwNjYyNGVhOTY4MDY2YzM4YjYxYTQxZDhl",
+  "snapshot_id": "MCw0NDFiYmU5MTU2MDU1ZjRjODVkMjI5MjY2MzU5YTQ3NGI3NDcyODRj",
   "tracks": [
     {
       "added_at": "2024-01-12 16:54:40",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "Moonlight/Rare",
+        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Op Shop Lover",
         "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Moonlight/Rare",
-        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Coney Island",
         "url": "https://open.spotify.com/album/0FYqjvkAX9ZF7q3xpg7Qzn"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 169973,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/4NBYId6eoacEMJDkhfTPG7"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 153783,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "A lot to explain",
         "url": "https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 133109,
       "name": "A lot to explain",
       "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 153783,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "Spoonfed",
+        "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
+      },
+      "artists": [
+        {
+          "name": "Hala",
+          "url": "https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "What Is Love? Tell Me, Is It Easy?",
+      "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Spoonfed",
-        "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
-      },
-      "artists": [
-        {
-          "name": "Hala",
-          "url": "https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "What Is Love? Tell Me, Is It Easy?",
-      "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "With Somebody",
-        "url": "https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "With Somebody",
-      "url": "https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Chaos Calls",
         "url": "https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "With Somebody",
+        "url": "https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "With Somebody",
+      "url": "https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Fit Me In",
         "url": "https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 122298,
       "name": "Young",
       "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 277312,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 277312,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "PLEASURES",
         "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Liquid Sunshine EP",
-        "url": "https://open.spotify.com/album/426V1QEmGVI8bI2nuFoVk6"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
       },
       "artists": [
         {
-          "name": "Devan",
-          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 145718,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/5C5kyJAAl8LNBg61hIjmUe"
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1371,6 +1355,22 @@
       "duration_ms": 260480,
       "name": "Pond Weed",
       "url": "https://open.spotify.com/track/2Tq8kdQuyuQNudS7PO3fSw"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Liquid Sunshine EP",
+        "url": "https://open.spotify.com/album/426V1QEmGVI8bI2nuFoVk6"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "duration_ms": 145718,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/5C5kyJAAl8LNBg61hIjmUe"
     },
     {
       "added_at": "2024-01-12 16:54:40",

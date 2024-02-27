@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-80 songs - 3 hr 39 min
+81 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [АФТЕРПАТИ](https://open.spotify.com/track/2trIptvItNErAkJBJnJ3j9) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 3:18 | 2024-01-29 |  |
 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 | 2024-01-29 |  |
 | [Дерьмо](https://open.spotify.com/track/0MVVy6JqnmQHtxvDB860FJ) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [JERK SHIT HAPPENS](https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV) | 1:30 | 2024-01-29 |  |
-| [До скорых встреч](https://open.spotify.com/track/36ocjwXRcwzf4W8atfWmR5) | [ALMARY](https://open.spotify.com/artist/5ADNOtLjanEDh5IA9YdCoC) | [До скорых встреч](https://open.spotify.com/album/4gKUNXn3KAOEHaM6aWEU44) | 3:07 | 2024-02-17 | 2024-02-26 |
+| [До скорых встреч](https://open.spotify.com/track/36ocjwXRcwzf4W8atfWmR5) | [ALMARY](https://open.spotify.com/artist/5ADNOtLjanEDh5IA9YdCoC) | [До скорых встреч](https://open.spotify.com/album/4gKUNXn3KAOEHaM6aWEU44) | 3:07 | 2024-02-17 |  |
 | [Дорога домой](https://open.spotify.com/track/1ThEP94Iih9kvh08PJERVF) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [Дорога домой](https://open.spotify.com/album/1HW3bEOH1B1kBz9tsuqVQ5) | 3:02 | 2024-02-03 | 2024-02-12 |
 | [Дымок](https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Дымок](https://open.spotify.com/album/2SjkQbWglFSOGpM7NziXF6) | 2:19 | 2024-01-29 |  |
 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 | 2024-01-29 |  |
@@ -55,7 +55,7 @@
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2024-01-29 |  |
 | [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2024-01-29 |  |
 | [Мечты](https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 1:50 | 2024-01-29 | 2024-02-18 |
-| [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 |  |
+| [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 | 2024-02-27 |
 | [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-02-05 |  |
 | [Нефертити](https://open.spotify.com/track/727kExjEJLlSfeQUnWealQ) | [LIL GNEEFF](https://open.spotify.com/artist/6eUqOwSR5XC5MeKPdxsY1o) | [Нефертити](https://open.spotify.com/album/3AQsIPONxcS2v4MJv82mS9) | 2:09 | 2024-02-09 |  |
 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 | 2024-01-29 |  |
@@ -68,7 +68,7 @@
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2024-01-29 |  |
 | [Прощание](https://open.spotify.com/track/1nginMHZwOYjtYDndhCeY2) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ), [MONA](https://open.spotify.com/artist/791r7uYF9uUkMi7yBveXBj) | [melancholia](https://open.spotify.com/album/4zuWO3wSh815WtZ4aqyWdi) | 3:56 | 2024-01-29 |  |
 | [Пыяла](https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Пыяла](https://open.spotify.com/album/4QgrwWHm4ivBW2c0p1aUU0) | 3:30 | 2024-01-29 | 2024-02-13 |
-| [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 | 2024-02-22 |  |
+| [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 | 2024-02-22 | 2024-02-27 |
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-29 |  |
 | [Самый лучший день](https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Эскапист](https://open.spotify.com/album/0QbaRQInDgZOAjogD0Ku7V) | 1:33 | 2024-01-29 |  |
 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-01-29 |  |
@@ -86,6 +86,7 @@
 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2024-01-29 |  |
 | [Это любовь](https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Дом с нормальными явлениями](https://open.spotify.com/album/7j7tgADtrPaN7Rrfb8qIcI) | 4:39 | 2024-01-29 |  |
 | [Юрфак](https://open.spotify.com/track/7hcU2QzT149fKRIuX0SitB) | [Grebz](https://open.spotify.com/artist/5ZaA4lK0Z5LScbA7FCise2) | [STYLE IN MC](https://open.spotify.com/album/1DEFg68c8kx3bRC67YPaNp) | 2:37 | 2024-02-06 | 2024-02-19 |
+| [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-02-26 |  |
 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2024-01-29 |  |
 | [Я хочу быть с тобой](https://open.spotify.com/track/1oWbH9Opqup135f8S8VOh7) | [Nautilus Pompilius](https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0) | [Подъем](https://open.spotify.com/album/3S70BaqeIZzFzggeQaLIBx) | 4:20 | 2024-01-29 | 2024-02-06 |
 

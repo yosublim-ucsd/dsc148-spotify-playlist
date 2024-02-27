@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 112218,
+  "2024-02-27": 112298,
   "date_first_scraped": "2021-10-26",
   "description": "8 bit bangers.",
   "name": "8 Bit Hits",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 199401,
       "name": "A Favor House Atlantic",
       "url": "https://open.spotify.com/track/7K40LeW7IOsTmdgsfDasWx"
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 147079,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ"

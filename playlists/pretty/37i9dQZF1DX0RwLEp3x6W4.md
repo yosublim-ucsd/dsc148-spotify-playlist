@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,775 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,794 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 56 | [That Home Far Away](https://open.spotify.com/track/1Jso0EGbuknStEGE3BNVtX) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Bluegrass Salvation](https://open.spotify.com/album/6xLntxpd4hP4okMk8SpYcc) | 2:08 |
 | 57 | [The River Of Jordan](https://open.spotify.com/track/4gTi2eLT148WtxCP7INt3b) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:07 |
 | 58 | [Little Cabin Home on the Hill](https://open.spotify.com/track/613oBlS9X5BrMGhBpea5MK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:58 |
-| 59 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
+| 59 | [Brilliancy Medley](https://open.spotify.com/track/5RHd8E97Q0SUzCwubRQlLS) | [Eck Robertson & Family](https://open.spotify.com/artist/3fW3THqeQ6uRBjbgd0Mgmt), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Texas Hillbillies](https://open.spotify.com/album/07tIpgVyWPTGevkFpnZOC5) | 2:56 |
 | 60 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MCxkNmJkMWMxM2RhOGVkNTZlOGJkMDU3YTdiNDQ4MjM5MTEwN2ZhMTBj`
+Snapshot ID: `MCxiYzBlMTQwNGQ4YWRkODdjZTBhMzhlMTIxZGQ3OTUyZjM2YzVkZDIw`

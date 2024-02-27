@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Mike Parker, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,196 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,223 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 100 | [Worth the Hurt](https://open.spotify.com/track/2aGGuuXLCCmSKGhUU1u5R0) | [Sarah Lake](https://open.spotify.com/artist/5CFrJThh3hNdK5iDk7iLZq) | [Worth the Hurt](https://open.spotify.com/album/3fRnM9fnSTj9X4QYCU6qNb) | 3:27 |
 | 101 | [End of the Line \(feat\. Makena Hartlin\)](https://open.spotify.com/track/5q0sUOIMSVigoEGsTrtOJL) | [Austin Brown](https://open.spotify.com/artist/6cpT40sKg2vCnQsHDLxrxk), [Makena Hartlin](https://open.spotify.com/artist/2MzHCysoDydVG3tu8d2ItY) | [End of the Line \(feat\. Makena Hartlin\)](https://open.spotify.com/album/5OlOOvYXb2ZGxBT3XJEQ9b) | 2:56 |
 
-Snapshot ID: `MCwwZTNiMjdkM2FmNThmZmM5MmNlYTA5YzBmMWRkNjlmMGIwMDhmYjlh`
+Snapshot ID: `MCw0MjVmZWJiZTA5MTM1ZTRhYTFlOWIwYmE5YmNkZTMwZGE5MGEyNDA0`

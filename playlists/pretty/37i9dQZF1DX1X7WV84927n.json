@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Fame on Fire",
-  "num_followers": 351266,
+  "num_followers": 351445,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzQ0OWI5YTNlOWE5ZjVlYmY1ZTM0NTM2MDRjODEwYWYwMzJiNGNh",
+  "snapshot_id": "MCwxZGRjYzk3YmU4Zjk2Mjk2MWViOGQ1YmM2MGQ0ZWU5ZTU0MzEzZTcz",
   "tracks": [
     {
       "added_at": "2024-02-24 05:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -619,6 +619,22 @@
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9"
+    },
+    {
+      "added_at": "2024-02-26 21:27:05",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/0uvd0sRUmlxkkAC69d64tj"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 197806,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5SbotHmwNvolKkFo4GqaFW"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "Wash It Away",
         "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 214710,
       "name": "Wash It Away",
       "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1447,6 +1463,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "Middle Finger Motto",
+        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 171937,
+      "name": "Middle Finger Motto",
+      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "The Mechanic",
         "url": "https://open.spotify.com/album/0ebgzc7Y3Pq5xXbaDWxLCE"
       },
@@ -1475,22 +1507,6 @@
       "duration_ms": 210973,
       "name": "Future Proof",
       "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Middle Finger Motto",
-        "url": "https://open.spotify.com/album/788rbiHAOAvbo26RzsdyOU"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "Middle Finger Motto",
-      "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "FSU",
-        "url": "https://open.spotify.com/album/5BrFYonFpDFxtfQLFmroGD"
-      },
-      "artists": [
-        {
-          "name": "GH\u00d8STKID",
-          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
-        }
-      ],
-      "duration_ms": 223674,
-      "name": "FSU",
-      "url": "https://open.spotify.com/track/6LNu8Kp0Binqalakqg6GjZ"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 227678,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/5BrFYonFpDFxtfQLFmroGD"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "duration_ms": 223674,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/6LNu8Kp0Binqalakqg6GjZ"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Deadman's Trigger",
-        "url": "https://open.spotify.com/album/2KXdyYAiLtrZVHsKQYJS54"
+        "name": "Framed",
+        "url": "https://open.spotify.com/album/31eJcUcsYbTWuc3K4TQRXH"
       },
       "artists": [
         {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
         }
       ],
-      "duration_ms": 207985,
-      "name": "Deadman's Trigger",
-      "url": "https://open.spotify.com/track/3kHkDyrxBg1VtbUstO7OpT"
+      "duration_ms": 248209,
+      "name": "Framed",
+      "url": "https://open.spotify.com/track/0jo90geHp9tYBjUUTMjDuY"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1687,18 +1703,34 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Framed",
-        "url": "https://open.spotify.com/album/31eJcUcsYbTWuc3K4TQRXH"
+        "name": "Deadman's Trigger",
+        "url": "https://open.spotify.com/album/2KXdyYAiLtrZVHsKQYJS54"
       },
       "artists": [
         {
-          "name": "Sterling Elza",
-          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
         }
       ],
-      "duration_ms": 248209,
-      "name": "Framed",
-      "url": "https://open.spotify.com/track/0jo90geHp9tYBjUUTMjDuY"
+      "duration_ms": 207985,
+      "name": "Deadman's Trigger",
+      "url": "https://open.spotify.com/track/3kHkDyrxBg1VtbUstO7OpT"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Some Bridges Are Better Off Burning",
+        "url": "https://open.spotify.com/album/4RecNVIK5rn6c2yiGWlvlr"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Some Bridges Are Better Off Burning",
+      "url": "https://open.spotify.com/track/0MmuEXjSgn7duSjyRBmggu"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1751,6 +1783,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/0VeOTsnKfj6XALgO0MWMS2"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "duration_ms": 209672,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0qQgO4bGfJ3U6HTz84vqSW"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "When The Pain Comes",
         "url": "https://open.spotify.com/album/778Va2ghjUV0BwrzgHe61G"
       },
@@ -1763,22 +1811,6 @@
       "duration_ms": 204338,
       "name": "When The Pain Comes",
       "url": "https://open.spotify.com/track/2SS8uiav9RDrBhGqTpRvVY"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Some Bridges Are Better Off Burning",
-        "url": "https://open.spotify.com/album/4RecNVIK5rn6c2yiGWlvlr"
-      },
-      "artists": [
-        {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Some Bridges Are Better Off Burning",
-      "url": "https://open.spotify.com/track/0MmuEXjSgn7duSjyRBmggu"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1839,22 +1871,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Strings",
-        "url": "https://open.spotify.com/album/7jA6Bqej12RXcjAp2Mt2CX"
-      },
-      "artists": [
-        {
-          "name": "Keith Wallen",
-          "url": "https://open.spotify.com/artist/1WmFkdy2mHEoItVK2t7OL9"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Strings",
-      "url": "https://open.spotify.com/track/2SVVS94k30M3wgm7COhSsW"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/0VeOTsnKfj6XALgO0MWMS2"
+        "name": "Strings",
+        "url": "https://open.spotify.com/album/7jA6Bqej12RXcjAp2Mt2CX"
       },
       "artists": [
         {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+          "name": "Keith Wallen",
+          "url": "https://open.spotify.com/artist/1WmFkdy2mHEoItVK2t7OL9"
         }
       ],
-      "duration_ms": 209672,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0qQgO4bGfJ3U6HTz84vqSW"
+      "duration_ms": 154000,
+      "name": "Strings",
+      "url": "https://open.spotify.com/track/2SVVS94k30M3wgm7COhSsW"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1939,6 +1955,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
+      },
+      "artists": [
+        {
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
+        }
+      ],
+      "duration_ms": 291034,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "Maybe In Another Life",
         "url": "https://open.spotify.com/album/3VSUMjz2mL2kIrlLek00PL"
       },
@@ -1971,6 +2003,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "PALEHELL",
+        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "PALEHELL",
+      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "Zombies",
         "url": "https://open.spotify.com/album/7GqiDBKILjsu4NL97ycmJT"
       },
@@ -1987,22 +2035,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Terminal",
-        "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
-      },
-      "artists": [
-        {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
-        }
-      ],
-      "duration_ms": 291034,
-      "name": "Terminal",
-      "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "002.TV",
         "url": "https://open.spotify.com/album/24NJXCfZ37G4sqHSRgFFzs"
       },
@@ -2015,22 +2047,6 @@
       "duration_ms": 229874,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0kFbA2CVvQ2B8HUmAj9E9n"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "PALEHELL",
-        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
-      },
-      "artists": [
-        {
-          "name": "Paledusk",
-          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "PALEHELL",
-      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -2063,22 +2079,6 @@
       "duration_ms": 223750,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/6UlQHIRJLrUcWFcGgYoo8l"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/7xsDnMioueCDm9yn5EVuUn"
-      },
-      "artists": [
-        {
-          "name": "Shakra",
-          "url": "https://open.spotify.com/artist/3uDNdt0Zy8VcTK2vvFghyM"
-        }
-      ],
-      "duration_ms": 217340,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7orv2uSpEE29JlKDfExRpG"
     }
   ],
   "unique_name": "Hard Rock",

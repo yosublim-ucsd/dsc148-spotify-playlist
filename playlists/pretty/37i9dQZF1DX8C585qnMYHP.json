@@ -1,12 +1,12 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
-  "num_followers": 153146,
+  "num_followers": 153189,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjJhMTIwOGFlMjgzNzZhN2ZmZWI3MmYyZDg3MzUxYTAwM2IzNjVj",
+  "snapshot_id": "MCxkYmIwYWUxYjE4Y2NiODIxMmU0ZTQwODhiNDY4ODg1NWMyNjE2YTlj",
   "tracks": [
     {
       "added_at": "2024-01-24 03:58:32",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Flat Earth",
         "url": "https://open.spotify.com/album/0Qx7587Va1Auh1OjFI4RnX"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "wondering dub",
-        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 127015,
-      "name": "wondering dub",
-      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
-    },
-    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "The Witness",
@@ -539,22 +523,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Asa De Menino Chapter 2",
-        "url": "https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh"
-      },
-      "artists": [
-        {
-          "name": "Arthur Liory",
-          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
-        }
-      ],
-      "duration_ms": 98115,
-      "name": "Asa De Menino Chapter 2",
-      "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Eating food and fighting Wizards",
         "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
       },
@@ -571,18 +539,34 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+        "name": "Asa De Menino Chapter 2",
+        "url": "https://open.spotify.com/album/0iZIAcvk4pHh9GizYvoTMh"
       },
       "artists": [
         {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Arthur Liory",
+          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
         }
       ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+      "duration_ms": 98115,
+      "name": "Asa De Menino Chapter 2",
+      "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "wondering dub",
+        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 127015,
+      "name": "wondering dub",
+      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -599,6 +583,22 @@
       "duration_ms": 123692,
       "name": "YATKAMAN3000",
       "url": "https://open.spotify.com/track/3hsMgDto5riKNTHnrlTGLd"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "Diaries Beneath Fragile Glass",
-        "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
-      },
-      "artists": [
-        {
-          "name": "Martyna Basta",
-          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/5Oz3jQcdkQhGV7nDRITbr9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 256088,
       "name": "10easy",
       "url": "https://open.spotify.com/track/4tbc7xmFrymbMc7kYDLWrL"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Diaries Beneath Fragile Glass",
+        "url": "https://open.spotify.com/album/6NYmIzDYe3E2XWFmPkw3r4"
+      },
+      "artists": [
+        {
+          "name": "Martyna Basta",
+          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6DQxEmCC0BKGxMWEY0pRKJ"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -775,6 +775,22 @@
       "duration_ms": 321671,
       "name": "Picture / Three Shadows",
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -829,22 +845,6 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
-      "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Arcadian Daze",
@@ -861,20 +861,20 @@
       "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2024-01-10 20:04:58",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/11woWQDGXwLOKQ4ofuPdqj"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 229602,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "My Noise Is Nothing",
@@ -1093,52 +1077,20 @@
       "url": "https://open.spotify.com/track/1izzRAv6eDzahDVryCP3dA"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Hit With The Most",
-        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
-      },
-      "artists": [
-        {
-          "name": "RIBBON STAGE",
-          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
-        }
-      ],
-      "duration_ms": 105739,
-      "name": "Sulfate",
-      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Toquei no Sol",
-        "url": "https://open.spotify.com/album/3q1hEZct2ZR75qQMbLTW1d"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3h52mrddDECCjCN4giJrxh"
       },
       "artists": [
         {
-          "name": "Marlene Ribeiro",
-          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 441840,
-      "name": "You Do It",
-      "url": "https://open.spotify.com/track/7J46lkQn2onLYyg4PtJEJk"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "The Blissful Sounds of Miracula",
-        "url": "https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9"
-      },
-      "artists": [
-        {
-          "name": "oedipus apartment complex",
-          "url": "https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe"
-        }
-      ],
-      "duration_ms": 215257,
-      "name": "The Blissful Sounds (Title Track)",
-      "url": "https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL"
+      "duration_ms": 229602,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1157,20 +1109,52 @@
       "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "if i'm not home : i'm not far away",
-        "url": "https://open.spotify.com/album/18SpelKdJeotuyD7glSGzs"
+        "name": "Toquei no Sol",
+        "url": "https://open.spotify.com/album/3q1hEZct2ZR75qQMbLTW1d"
       },
       "artists": [
         {
-          "name": "Surma",
-          "url": "https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz"
+          "name": "Marlene Ribeiro",
+          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
         }
       ],
-      "duration_ms": 200000,
-      "name": ": h\u00e9lo\u00efse",
-      "url": "https://open.spotify.com/track/2TRAd6kQmvRSJZMvZzuIRo"
+      "duration_ms": 441840,
+      "name": "You Do It",
+      "url": "https://open.spotify.com/track/7J46lkQn2onLYyg4PtJEJk"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Hit With The Most",
+        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
+      },
+      "artists": [
+        {
+          "name": "RIBBON STAGE",
+          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
+        }
+      ],
+      "duration_ms": 105739,
+      "name": "Sulfate",
+      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "The Blissful Sounds of Miracula",
+        "url": "https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9"
+      },
+      "artists": [
+        {
+          "name": "oedipus apartment complex",
+          "url": "https://open.spotify.com/artist/3ny7Weqo4NGDnp0kT8WhXe"
+        }
+      ],
+      "duration_ms": 215257,
+      "name": "The Blissful Sounds (Title Track)",
+      "url": "https://open.spotify.com/track/2e5f3N5VvL9qAt6VKZ6mnL"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "if i'm not home : i'm not far away",
+        "url": "https://open.spotify.com/album/18SpelKdJeotuyD7glSGzs"
+      },
+      "artists": [
+        {
+          "name": "Surma",
+          "url": "https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": ": h\u00e9lo\u00efse",
+      "url": "https://open.spotify.com/track/2TRAd6kQmvRSJZMvZzuIRo"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Notes on Listening",
-        "url": "https://open.spotify.com/album/31RUPJCnUvO3k9aY5ImKgn"
-      },
-      "artists": [
-        {
-          "name": "Suki Sou",
-          "url": "https://open.spotify.com/artist/76CkKrf6jBFHRDtRyJr8P3"
-        }
-      ],
-      "duration_ms": 265665,
-      "name": "Oscillating Swoosh",
-      "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Cicada Lullaby",
@@ -1283,6 +1267,22 @@
       "duration_ms": 219546,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Notes on Listening",
+        "url": "https://open.spotify.com/album/31RUPJCnUvO3k9aY5ImKgn"
+      },
+      "artists": [
+        {
+          "name": "Suki Sou",
+          "url": "https://open.spotify.com/artist/76CkKrf6jBFHRDtRyJr8P3"
+        }
+      ],
+      "duration_ms": 265665,
+      "name": "Oscillating Swoosh",
+      "url": "https://open.spotify.com/track/5dHVl3VXApP4q5WQ3lDLSh"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-01-10 04:24:05",
       "album": {
+        "name": "Peeled",
+        "url": "https://open.spotify.com/album/6xVlRIV4dfG9HxtEbiN4Ut"
+      },
+      "artists": [
+        {
+          "name": "JJ+JS",
+          "url": "https://open.spotify.com/artist/1vjWJg4BeeTL5Y7NrFH8Wj"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "Lily Pad",
+      "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
         "name": "\u00c9coute Au Loin",
         "url": "https://open.spotify.com/album/0q9y44TMNzrIUylHjwCwrZ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 362893,
       "name": "\u00c9coute Au Loin",
       "url": "https://open.spotify.com/track/0roPZdFgmpj7jFe7WstJBK"
-    },
-    {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Peeled",
-        "url": "https://open.spotify.com/album/6xVlRIV4dfG9HxtEbiN4Ut"
-      },
-      "artists": [
-        {
-          "name": "JJ+JS",
-          "url": "https://open.spotify.com/artist/1vjWJg4BeeTL5Y7NrFH8Wj"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "Lily Pad",
-      "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Rainbow's End / In My Dreams I Find You Again",
-        "url": "https://open.spotify.com/album/0ozSGk5VHtpRGbNuMHvKij"
-      },
-      "artists": [
-        {
-          "name": "Harmony Index",
-          "url": "https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9"
-        }
-      ],
-      "duration_ms": 93176,
-      "name": "Rainbow's End",
-      "url": "https://open.spotify.com/track/1Gb4G9QFsEwReyWsmkwS2g"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Nebula",
@@ -1547,6 +1531,22 @@
       "duration_ms": 181960,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Rainbow's End / In My Dreams I Find You Again",
+        "url": "https://open.spotify.com/album/0ozSGk5VHtpRGbNuMHvKij"
+      },
+      "artists": [
+        {
+          "name": "Harmony Index",
+          "url": "https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9"
+        }
+      ],
+      "duration_ms": 93176,
+      "name": "Rainbow's End",
+      "url": "https://open.spotify.com/track/1Gb4G9QFsEwReyWsmkwS2g"
     },
     {
       "added_at": "2024-01-10 04:24:05",

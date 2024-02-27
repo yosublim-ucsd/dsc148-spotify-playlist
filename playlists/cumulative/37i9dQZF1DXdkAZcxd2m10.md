@@ -4,7 +4,7 @@
 
 > La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
 
-55 songs - 2 hr 50 min
+56 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Tricorder](https://open.spotify.com/track/0X970883UAzMVpILfUDmYx) | [Akron](https://open.spotify.com/artist/45IqlMXLUpoBZFleCbvBUv) | [The Akron Quartet Plays "Ritualul Sferei"](https://open.spotify.com/album/2CDjq9CrnaCZzY8uHe6HrJ) | 2:27 | 2022-05-20 |  |
 | [Una Persona Sospechosa](https://open.spotify.com/track/03N3GfcATqhDRFqyfftGdu) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [Aniquilación](https://open.spotify.com/album/3dDLPzKdTFl4pFJKqWU6EV) | 2:43 | 2024-02-21 |  |
 | [X Navidad](https://open.spotify.com/track/0m3HOgZIzCirRNspU8A7Jo) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [X Navidad](https://open.spotify.com/album/1ffzMWWzDL5e35MNRKRRJx) | 2:40 | 2024-02-21 |  |
+| [Ya Na Va Se Como Ante](https://open.spotify.com/track/0er4nRPCpLxzWX9ieY41AV) | [Chavales](https://open.spotify.com/artist/5sOiOYJjn604pooGW8HlGF) | [Ya Na Va Se Como Ante](https://open.spotify.com/album/3YDqHFRPaVPffYcxyGEafJ) | 2:17 | 2024-02-26 |  |
 | [Yo Sigo Iual \- Prod\. Fakeguido & el Guincho](https://open.spotify.com/track/25RN6owXD29BH7fu2vlz3q) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Fakeguido](https://open.spotify.com/artist/0AK3HD29uDPufiH2YWi1VG), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Worldwide Angel](https://open.spotify.com/album/4CseW0RVZOocevhdVs3pLV) | 3:09 | 2022-05-20 |  |
 | [¡Hola, Mi Amor!](https://open.spotify.com/track/0nx9jYqyxwX4fmt67GOizz) | [Chavales](https://open.spotify.com/artist/5sOiOYJjn604pooGW8HlGF) | [¡Hola, Mi Amor!](https://open.spotify.com/album/5vCHBm1Kh3jvsWLsklo3ge) | 2:34 | 2022-05-20 |  |
 

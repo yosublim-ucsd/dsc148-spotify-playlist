@@ -1,12 +1,12 @@
 {
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
-  "num_followers": 14665,
+  "num_followers": 14711,
   "original_name": "Hope & Heartbreak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTJhOTgxNTNiNzQ1OTRjZDdjNmE0N2EwOTliNTI1ODNiZDIyNjQx",
+  "snapshot_id": "MCwzMTk3MDQwMDRlODZlMzM2MjFmZWFjZTI5ZDE1MmY5M2QxMTMxMzM3",
   "tracks": [
     {
       "added_at": "2024-02-03 03:32:22",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Song of a Broken Heart",
+      "url": "https://open.spotify.com/track/0zRjxy9NIytQwIP4jHZxEx"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Hymns & Soul",
         "url": "https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB"
       },
@@ -655,18 +671,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+        "name": "Unequally Yoked",
+        "url": "https://open.spotify.com/album/0p1a2mVeG4oHJC9moDH0A6"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        },
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Song of a Broken Heart",
-      "url": "https://open.spotify.com/track/0zRjxy9NIytQwIP4jHZxEx"
+      "duration_ms": 211041,
+      "name": "Unequally Yoked",
+      "url": "https://open.spotify.com/track/2gxWNnQJ7K3VGwK92vLl7A"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -703,26 +723,6 @@
       "duration_ms": 212374,
       "name": "Story",
       "url": "https://open.spotify.com/track/1MeQJmRY0bhWHBifD2dL7I"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Unequally Yoked",
-        "url": "https://open.spotify.com/album/0p1a2mVeG4oHJC9moDH0A6"
-      },
-      "artists": [
-        {
-          "name": "Franchesca",
-          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
-        },
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 211041,
-      "name": "Unequally Yoked",
-      "url": "https://open.spotify.com/track/2gxWNnQJ7K3VGwK92vLl7A"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Coffee & Cherries",
-        "url": "https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Odetta",
-          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Coffee & Cherries",
-      "url": "https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Be Nice",
         "url": "https://open.spotify.com/album/0LmA15MGeELnk6x4MTc353"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 175058,
       "name": "Be Nice",
       "url": "https://open.spotify.com/track/5Dky4RsXGTWbNhaJ3Povd4"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Coffee & Cherries",
+        "url": "https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Coffee & Cherries",
+      "url": "https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa"
+        "name": "Heartbreak Hero",
+        "url": "https://open.spotify.com/album/5oThcyRZSILQz8NhXlEibE"
       },
       "artists": [
         {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI"
+      "duration_ms": 207040,
+      "name": "Heartbreak Hero",
+      "url": "https://open.spotify.com/track/1xvD9RjTZ8F03VyA1qlrWX"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Heartbreak Hero",
-        "url": "https://open.spotify.com/album/5oThcyRZSILQz8NhXlEibE"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa"
       },
       "artists": [
         {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
         }
       ],
-      "duration_ms": 207040,
-      "name": "Heartbreak Hero",
-      "url": "https://open.spotify.com/track/1xvD9RjTZ8F03VyA1qlrWX"
+      "duration_ms": 215200,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "love in the summer",
-        "url": "https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3"
+        "name": "doing well",
+        "url": "https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd"
       },
       "artists": [
         {
-          "name": "Ben Lawrence",
-          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
         }
       ],
-      "duration_ms": 145263,
-      "name": "love in the summer",
-      "url": "https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW"
+      "duration_ms": 139230,
+      "name": "doing well",
+      "url": "https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "doing well",
-        "url": "https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd"
+        "name": "love in the summer",
+        "url": "https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3"
       },
       "artists": [
         {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+          "name": "Ben Lawrence",
+          "url": "https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN"
         }
       ],
-      "duration_ms": 139230,
-      "name": "doing well",
-      "url": "https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB"
+      "duration_ms": 145263,
+      "name": "love in the summer",
+      "url": "https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Nothing But The Hits: Fred Hammond",
+        "url": "https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 300080,
+      "name": "Mender Of Broken Hearts",
+      "url": "https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Who You?",
         "url": "https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Nothing But The Hits: Fred Hammond",
-        "url": "https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 300080,
-      "name": "Mender Of Broken Hearts",
-      "url": "https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Giving You All Of Me",
         "url": "https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 149538,
       "name": "Giving You All Of Me",
       "url": "https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Just Hold On",
-        "url": "https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 143457,
-      "name": "Just Hold On",
-      "url": "https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1391,6 +1375,22 @@
       "duration_ms": 164831,
       "name": "That's On You",
       "url": "https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Just Hold On",
+        "url": "https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 143457,
+      "name": "Just Hold On",
+      "url": "https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
         "name": "Memories!",
         "url": "https://open.spotify.com/album/2WHKSSpeXR4ByTAJh7yF3J"
       },
@@ -1467,18 +1483,22 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A"
+        "name": "Love Parables",
+        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
       },
       "artists": [
         {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        },
+        {
+          "name": "Jay Sanon",
+          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
         }
       ],
-      "duration_ms": 201874,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO"
+      "duration_ms": 157465,
+      "name": "Fables",
+      "url": "https://open.spotify.com/track/794TOghUvz5JLRJlLeTpGA"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Love Parables",
-        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
-      },
-      "artists": [
-        {
-          "name": "Ilish",
-          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
-        },
-        {
-          "name": "Jay Sanon",
-          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
-        }
-      ],
-      "duration_ms": 157465,
-      "name": "Fables",
-      "url": "https://open.spotify.com/track/794TOghUvz5JLRJlLeTpGA"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "With You Through It All",
         "url": "https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g"
       },
@@ -1571,26 +1571,6 @@
       "duration_ms": 228648,
       "name": "With You Through It All",
       "url": "https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "Tell Me To Go",
-        "url": "https://open.spotify.com/album/1eu7uuZ9dgJ3EVL7M1gnn7"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        }
-      ],
-      "duration_ms": 111673,
-      "name": "Tell Me To Go",
-      "url": "https://open.spotify.com/track/5XT4Jav7IcUirhKKSbxFj7"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1611,6 +1591,26 @@
       "duration_ms": 160052,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Tell Me To Go",
+        "url": "https://open.spotify.com/album/1eu7uuZ9dgJ3EVL7M1gnn7"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        }
+      ],
+      "duration_ms": 111673,
+      "name": "Tell Me To Go",
+      "url": "https://open.spotify.com/track/5XT4Jav7IcUirhKKSbxFj7"
     },
     {
       "added_at": "2024-02-03 03:32:22",

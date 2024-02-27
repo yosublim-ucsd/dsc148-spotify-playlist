@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Xande de Pilares, LUDMILLA, Oruam com MC Ryan SP e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,040 likes - 72 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,198 likes - 72 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 12 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 |
 | 13 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 |
 | 14 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
-| 15 | [Chuva de Verão \(Modo Esquece\)](https://open.spotify.com/track/57A5HbAVHLF9yfEUk2vT5G) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Chuva de Verão \(Modo Esquece\)](https://open.spotify.com/album/2sAhH6CkhXvRWof3Xq4gnl) | 3:18 |
+| 15 | [Chuva de Verão \(Modo Esquece\)](https://open.spotify.com/track/57A5HbAVHLF9yfEUk2vT5G) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Chuva de Verão \(Modo Esquece\)](https://open.spotify.com/album/2sAhH6CkhXvRWof3Xq4gnl) | 3:18 |
 | 16 | [After Party](https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Gabriel Lucchini](https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs) | [After Party](https://open.spotify.com/album/5OnEFLCrBXHykrmCWgMPTt) | 3:07 |
 | 17 | [Preta](https://open.spotify.com/track/1AxwFhon2S7mRDaNIP2PaR) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Preta](https://open.spotify.com/album/1KrP7RmvdKTuDmuGTUISoj) | 2:56 |
 | 18 | [Quem Disse](https://open.spotify.com/track/5KZ7Yz0RbA2nnrd7tads38) | [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Quem Disse](https://open.spotify.com/album/7oIAuLmBm1yp2zl8sPilL5) | 3:21 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 71 | [Vira\-lata Caramelo](https://open.spotify.com/track/6TMVpf8MoJgWnRNacsXOaP) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vira\-lata Caramelo](https://open.spotify.com/album/6XiZjm58a8pcj3oSqCQr4Z) | 3:32 |
 | 72 | [Mistério Solar](https://open.spotify.com/track/2285beJSt5Jh4XYssg4jDr) | [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Mistério Solar](https://open.spotify.com/album/1cKgSLrlNvt4Tqt1sjE4Kz) | 2:38 |
 
-Snapshot ID: `MCxkOTRlNGJhNTNlZjIyNDA0M2E2ZTY0MDFhNDI5ODgyNDA5NjRlMTFl`
+Snapshot ID: `MCw5NWZlN2M0MmEzNzViNjJhY2M0ZmYwZGJlOTg0MTIwOTVmMGQyOTU1`

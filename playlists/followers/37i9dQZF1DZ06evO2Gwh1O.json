@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 6580,
+  "2024-02-27": 6579,
   "date_first_scraped": "2022-10-26",
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
   "name": "This Is Funeral For A Friend",
@@ -165,6 +165,24 @@
       "duration_ms": 165573,
       "name": "Best Friends and Hospital Beds",
       "url": "https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2024-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "Broken Foundation",
+      "url": "https://open.spotify.com/track/0jzH91ZIVQM9RFuGrB4BgB"
     },
     {
       "album": {
@@ -647,7 +665,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 169026,
       "name": "Man Alive",
       "url": "https://open.spotify.com/track/1kA1bCNfXuDqajsf9h3oHc"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 164866,
       "name": "No Honour Among Thieves",
       "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 151173,
       "name": "Wrench",
       "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"

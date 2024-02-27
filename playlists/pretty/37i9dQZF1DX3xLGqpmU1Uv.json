@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 154395,
+  "num_followers": 154428,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh",
+  "snapshot_id": "MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Significas Todo Para Mi",
-      "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Discos Del Mill\u00f3n",
         "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
       },
@@ -211,26 +195,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Historia Musical de Mis Exitos",
-        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 146796,
-      "name": "Melod\u00eda de Amor",
-      "url": "https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -243,6 +207,22 @@
       "duration_ms": 175995,
       "name": "Despeinada",
       "url": "https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Significas Todo Para Mi",
+      "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
     },
     {
       "added_at": "2022-05-04 17:04:54",
@@ -263,34 +243,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
       },
       "artists": [
         {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 156699,
-      "name": "Olv\u00eddalo",
-      "url": "https://open.spotify.com/track/4OxlguwUtqjNU0zkAueh9o"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Discos Del Mill\u00f3n",
-        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
-      },
-      "artists": [
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
         {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
         }
       ],
-      "duration_ms": 176493,
-      "name": "Lagrimas De Cristal",
-      "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
+      "duration_ms": 146796,
+      "name": "Melod\u00eda de Amor",
+      "url": "https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -307,22 +275,6 @@
       "duration_ms": 143146,
       "name": "La Novia de Mi Mejor Amigo (The Girl of My Best Friend)",
       "url": "https://open.spotify.com/track/41GiXurY9UN1dU3erI1D4c"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "El Juego De Sim\u00f3n",
-        "url": "https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        }
-      ],
-      "duration_ms": 108483,
-      "name": "El Juego De Sim\u00f3n",
-      "url": "https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -355,6 +307,38 @@
       "duration_ms": 155533,
       "name": "Corina, Corina",
       "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 156699,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/4OxlguwUtqjNU0zkAueh9o"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Discos Del Mill\u00f3n",
+        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Lagrimas De Cristal",
+      "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -403,6 +387,22 @@
       "duration_ms": 224533,
       "name": "Rosas en el Mar",
       "url": "https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "El Juego De Sim\u00f3n",
+        "url": "https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        }
+      ],
+      "duration_ms": 108483,
+      "name": "El Juego De Sim\u00f3n",
+      "url": "https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -503,6 +503,38 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 133093,
+      "name": "Florida Twist",
+      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "Baile Monkey",
         "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
       },
@@ -535,34 +567,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
       "artists": [
         {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 80764,
-      "name": "Yo No Soy Rebelde",
-      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 133093,
-      "name": "Florida Twist",
-      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
+      "duration_ms": 171733,
+      "name": "Popotitos (Bonie Moroni)",
+      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -611,22 +627,6 @@
       "duration_ms": 170000,
       "name": "Barba azul - Let's Do The limbo",
       "url": "https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
-        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Popotitos (Bonie Moroni)",
-      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
         }
       ],
-      "duration_ms": 176848,
-      "name": "Aladino",
-      "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
+      "duration_ms": 160496,
+      "name": "El Rock Del Bebe",
+      "url": "https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd"
     },
     {
       "added_at": "2020-03-18 04:18:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,839 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,850 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 24 | [Proud of You](https://open.spotify.com/track/53cdNLzauTpsvCSbOQY4CY) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Proud of You](https://open.spotify.com/album/0lDZxSZH13HjjhRLnK4n7i) | 2:47 |
 | 25 | [Ready to Grow](https://open.spotify.com/track/4ZllCBoKAxXoho6arZQXVK) | [Jennifer Jimenez](https://open.spotify.com/artist/34AvaqEPfpouhvRvlhRFLY) | [Ready to Grow](https://open.spotify.com/album/3RpPPodEVjdowyI1Xleh6o) | 4:21 |
 | 26 | [Rather Be Alone](https://open.spotify.com/track/6qSz7JRxl82ktOqEFkYs5N) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Rather Be Alone](https://open.spotify.com/album/4ZV3fFSgd1t8KroYEopSS6) | 2:47 |
-| 27 | [Happy from the Inside Out \(Psalm 16\)](https://open.spotify.com/track/7MJeZBRDhvhR5HrpS1AkU7) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW) | [Happy from the Inside Out \(Psalm 16\)](https://open.spotify.com/album/1HWPk9cAnqJkHZ5nGmfPGR) | 2:30 |
+| 27 | [Happy from the Inside Out \(Psalm 16\)](https://open.spotify.com/track/7MJeZBRDhvhR5HrpS1AkU7) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Emoni Wilkins](https://open.spotify.com/artist/5SGi9yykBsq5MH6l3S31rT) | [Happy from the Inside Out \(Psalm 16\)](https://open.spotify.com/album/1HWPk9cAnqJkHZ5nGmfPGR) | 2:30 |
 | 28 | [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 |
 | 29 | [Focus](https://open.spotify.com/track/7zOIKb1mrfzKX59ZFqsvbg) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Focus](https://open.spotify.com/album/5Mgs1pjaiwVAwuZLoJ84vs) | 3:14 |
 | 30 | [Ask My Exes](https://open.spotify.com/track/1oQT5xalinvidcLAhUmOLb) | [Rachel Mac](https://open.spotify.com/artist/3pB8QIJumrdCSnV2IvhrFz) | [Ask My Exes](https://open.spotify.com/album/3R4zc23OTFUgH3Hyf95MHN) | 2:32 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 40 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp) | 5:23 |
 | 41 | [Love Doesn't](https://open.spotify.com/track/2CmNdRHM8I1yJEhi93D8Tx) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [Love Doesn't](https://open.spotify.com/album/5jko03PAdSJ5jZvZH0dKyp) | 3:15 |
 | 42 | [Narrow Road](https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Narrow Road](https://open.spotify.com/album/06bBBzYhH0ZP73qteIAEX1) | 4:25 |
-| 43 | [Always On The Way \- Studio](https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Always On The Way \(Studio\)](https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW) | 4:28 |
+| 43 | [Always On The Way](https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Always On The Way](https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW) | 4:28 |
 | 44 | [What Matters](https://open.spotify.com/track/76loPA8VreActL34EP0F6C) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [What Matters](https://open.spotify.com/album/5JVnBe55nq6AhfwyzPQzXC) | 3:47 |
 | 45 | [My Life Is Proof \- Studio Sessions](https://open.spotify.com/track/49WRG6DxWFrvHpYZsXNbuN) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [My Life Is Proof \(Studio Sessions\)](https://open.spotify.com/album/0TDuvrKYKSZhld2IW3cfiA) | 4:11 |
 | 46 | [Come Through \- Live](https://open.spotify.com/track/7pi5ZG05gmoB6WRQ8EtUft) | [Destiny Worship Music](https://open.spotify.com/artist/5qlCb5hbJ9JGhi6FcMwwbc) | [Come Through \(Live\)](https://open.spotify.com/album/2dRs64aOexU0nHQ24KpfDJ) | 7:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No One Like You](https://open.spotify.com/track/0Mhbrm9AQQ4qjFqT8PqaKY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [No One Like You](https://open.spotify.com/album/01kBhpUucPs5watbzwnZWc) | 6:07 |
 | 100 | [Living Proof \- Live](https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Testify \(Live\)](https://open.spotify.com/album/5Gh92ayf6MMWd7Ffsc5SfJ) | 3:53 |
 
-Snapshot ID: `MCxjN2ZlNzMyNzZlYTE4NWQxMjNhMGJmZWIwM2EzNWI4MmQzZGFmMjg0`
+Snapshot ID: `MCw4ZDgxOGVhNWZjOGM2ZDA1MzNjZmFjYzM0OWQxOWJlZThkYTZmODNk`

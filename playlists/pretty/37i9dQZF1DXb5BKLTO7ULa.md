@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,113 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,116 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 36 | [Turn Me On](https://open.spotify.com/track/70pNsXFxPkPw5pkwMuywP2) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ) | [Turn Me On](https://open.spotify.com/album/1dACmwUnkKyXTl2w04Zymr) | 2:06 |
 | 37 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 |
 | 38 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
-| 39 | [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 |
+| 39 | [Crazy Voor Je](https://open.spotify.com/track/1v4iJIzIG7s24gFHkkRqZ3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt) | [Crazy Voor Je](https://open.spotify.com/album/7tr5ueYHoryHonldC6JNG8) | 2:16 |
 | 40 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 41 | [Better Now \(feat\. Rae Morris\)](https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:46 |
 | 42 | [It's Not Right \(But It's Ok\)](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right \(But It's Ok\)](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 50 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 |
 | 51 | [Plenty](https://open.spotify.com/track/2T07sAeLnTl5Cgjto5na5w) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN), [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [Plenty](https://open.spotify.com/album/2Tn9gE8mErrrs2jH60UuxH) | 3:00 |
 | 52 | [GAS](https://open.spotify.com/track/21UbKUXTXEsxZ2zhpgYNE4) | [MOOON](https://open.spotify.com/artist/53U4hWtcbNtLw3Q5w8ttDH) | [III](https://open.spotify.com/album/30NCLljkVLQ31gG1HiEplA) | 4:10 |
-| 53 | [Midas Touch](https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 3:19 |
+| 53 | [Midas Touch](https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 3:19 |
 | 54 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 |
 | 55 | [Hypnotized](https://open.spotify.com/track/5ZJnBpPd7a6ez7aqaRN4DS) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Hypnotized](https://open.spotify.com/album/6FVdxcuhtQrF45t4fX2p78) | 2:46 |
 | 56 | [Night & Day](https://open.spotify.com/track/5j041p2jGJrjPNm8k94Ngn) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Night & Day](https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0) | 3:29 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 63 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 |
 | 64 | [Prachtig](https://open.spotify.com/track/0pxS1fBrvTkHOX7Ju7tAIa) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Prachtig](https://open.spotify.com/album/2RSuXyn3lOKsezy238uoIZ) | 2:17 |
-| 65 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 |
+| 65 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z), [JAPS](https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 |
 | 66 | [Midnight Lover](https://open.spotify.com/track/0waC54U6IPRJws5gPW5LgW) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Midnight Lover](https://open.spotify.com/album/2idGqa3Qj3PMa1thq4lYZQ) | 2:03 |
 | 67 | [World Order \- Part 1](https://open.spotify.com/track/3Wvj7BhA9Y0n1kQcblA11l) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [World Order](https://open.spotify.com/album/5I9eNLid2BUT6tCUZTjCe6) | 4:07 |
 | 68 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cumbia De Pena](https://open.spotify.com/track/6ROf38sm9fS78z95vKRXjE) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl) | [Cumbia De Pena](https://open.spotify.com/album/2eHRkE1beUBKDaq1eS8SwD) | 3:05 |
 | 100 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
 
-Snapshot ID: `MCwwYTA2OTk3Zjk4NmY2ZTk0ZWM1MjFjOTUwYTVmYmQ4MTM1ZmRmM2Zl`
+Snapshot ID: `MCw3YmExY2Y1NTkzYzAyOTQ5MTQzZmNkZDlmYmRhZGFhMDAyM2VlY2Zl`

@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-292 songs - 16 hr 34 min
+293 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Olorun Maje](https://open.spotify.com/track/63asnqY4DG3bbdew7ioJBE) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Phase One](https://open.spotify.com/album/4jeLU9uhpa3D4qG7lWzyVT) | 2:41 | 2022-11-04 | 2023-09-22 |
 | [Olorun Maje](https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Olorun Maje](https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc) | 2:41 | 2022-11-04 | 2023-01-07 |
 | [OMG](https://open.spotify.com/track/5mHJrT793MaOfEf3pHM7cN) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon) | [OMG](https://open.spotify.com/album/4RGIttt0mc1TFsYSvigowx) | 3:02 | 2022-03-24 | 2022-04-29 |
+| [ON & ON](https://open.spotify.com/track/6jvSpQ8UmGuRiKC9ALyinP) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Seben of Luv](https://open.spotify.com/album/00ReOEqHyrVmjHOOun88Ak) | 2:53 | 2024-02-26 |  |
 | [On My Own](https://open.spotify.com/track/4zcfiDFbvmL9ci2QaFmUcL) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c), [Suffix](https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s), [Meek](https://open.spotify.com/artist/5byyBDHX1qHmRwHldi9pRp) | [On My Own](https://open.spotify.com/album/2mNVGKIBlzM8gDwj7BMR9c) | 2:33 | 2023-12-08 |  |
 | [Ona](https://open.spotify.com/track/00pChZkejWf3hVQmIE3lFw) | [Obeezy De Master](https://open.spotify.com/artist/0S88PnaohNjC5FRouUJB6s) | [Ona](https://open.spotify.com/album/3aYpY9iK3wXfg6Jwoco9Uu) | 3:18 | 2023-02-10 | 2023-02-17 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 | 2022-12-02 |

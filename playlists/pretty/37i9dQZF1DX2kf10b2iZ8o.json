@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 22427,
+  "num_followers": 22428,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmZjMzAyNmM1YWE2MGQ4MzEyMjY3MzliMGNkNzY2MGNhNjM3ZTgw",
+  "snapshot_id": "MCxjYzgwNDAzMzlmNTdiOTMzZjAwZWE4NDUzMzkxMGZkNGRkZjI4MjRl",
   "tracks": [
     {
       "added_at": "2024-02-13 15:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M",
+        "url": "https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE"
+      },
+      "artists": [
+        {
+          "name": "S.E.M",
+          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Multiple Entertainment Show!",
+      "url": "https://open.spotify.com/track/2TntR07b85I4VG8htD397u"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders",
         "url": "https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 247120,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M",
-        "url": "https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE"
-      },
-      "artists": [
-        {
-          "name": "S.E.M",
-          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Multiple Entertainment Show!",
-      "url": "https://open.spotify.com/track/2TntR07b85I4VG8htD397u"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 02",
+        "url": "https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF"
+      },
+      "artists": [
+        {
+          "name": "S.E.M",
+          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "\u30b5\u30fb\u30e8\u30fb\u30ca\u30fb\u30e9 Summer Holiday",
+      "url": "https://open.spotify.com/track/3GTuCwTQnwQwdDQF427hWN"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SideM ST@RTING LINE-01 Jupiter",
         "url": "https://open.spotify.com/album/22IQ39FuyEE3gXT8wAW9n1"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 284946,
       "name": "Caf\u00e9 Parade!",
       "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 02",
-        "url": "https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF"
-      },
-      "artists": [
-        {
-          "name": "S.E.M",
-          "url": "https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "\u30b5\u30fb\u30e8\u30fb\u30ca\u30fb\u30e9 Summer Holiday",
-      "url": "https://open.spotify.com/track/3GTuCwTQnwQwdDQF427hWN"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -807,34 +807,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 17",
-        "url": "https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY"
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME",
+        "url": "https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv"
       },
       "artists": [
         {
-          "name": "Beit",
-          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
+          "name": "FRAME",
+          "url": "https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0"
         }
       ],
-      "duration_ms": 224053,
-      "name": "MIRROR of TRUTH",
-      "url": "https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles\uff01",
-        "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
-      },
-      "artists": [
-        {
-          "name": "315 ALLSTARS",
-          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Growing Smiles\uff01",
-      "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
+      "duration_ms": 244026,
+      "name": "Plus 1 Good Day!",
+      "url": "https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -855,50 +839,34 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
-        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles\uff01",
+        "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
       },
       "artists": [
         {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+          "name": "315 ALLSTARS",
+          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
         }
       ],
-      "duration_ms": 278026,
-      "name": "Make New Legend",
-      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
+      "duration_ms": 273866,
+      "name": "Growing Smiles\uff01",
+      "url": "https://open.spotify.com/track/0UsHnrAzaZu6axEJ8lAbux"
     },
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME",
-        "url": "https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv"
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 17",
+        "url": "https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY"
       },
       "artists": [
         {
-          "name": "FRAME",
-          "url": "https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0"
+          "name": "Beit",
+          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Plus 1 Good Day!",
-      "url": "https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Reversed Masquerade",
-      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
+      "duration_ms": 224053,
+      "name": "MIRROR of TRUTH",
+      "url": "https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -931,6 +899,38 @@
       "duration_ms": 220293,
       "name": "GIVE ME FUSION",
       "url": "https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
+        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
+      },
+      "artists": [
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+        }
+      ],
+      "duration_ms": 278026,
+      "name": "Make New Legend",
+      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Reversed Masquerade",
+      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Teatime Clich\u00e9",
+      "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03",
         "url": "https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Teatime Clich\u00e9",
-      "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1119,54 +1119,6 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-13 \u3082\u3075\u3082\u3075\u3048\u3093",
-        "url": "https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
-          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
-      "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Tone's Destiny",
-      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "VOY@GER (SideM\u76e4)",
-        "url": "https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r"
-      },
-      "artists": [
-        {
-          "name": "315 STARS",
-          "url": "https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO"
-        }
-      ],
-      "duration_ms": 339640,
-      "name": "VOY@GER - SideM Ver.",
-      "url": "https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
         "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
       },
@@ -1195,6 +1147,38 @@
       "duration_ms": 238000,
       "name": "Cherish BOUQUET",
       "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-13 \u3082\u3075\u3082\u3075\u3048\u3093",
+        "url": "https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
+          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
+      "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Tone's Destiny",
+      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1231,6 +1215,54 @@
       "duration_ms": 255506,
       "name": "ALL nOR NOTHING",
       "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "VOY@GER (SideM\u76e4)",
+        "url": "https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r"
+      },
+      "artists": [
+        {
+          "name": "315 STARS",
+          "url": "https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO"
+        }
+      ],
+      "duration_ms": 339640,
+      "name": "VOY@GER - SideM Ver.",
+      "url": "https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
+        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
+      },
+      "artists": [
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
+        }
+      ],
+      "duration_ms": 256338,
+      "name": "\u904b\u547d\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
+    },
+    {
+      "added_at": "2024-02-13 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
+        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
+          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
     },
     {
       "added_at": "2024-02-13 15:00:00",
@@ -1279,50 +1311,18 @@
     {
       "added_at": "2024-02-13 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
-        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
+        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
       },
       "artists": [
         {
-          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
-          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
+          "name": "\u5c71\u4e0b\u6b21\u90ce (CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)",
+          "url": "https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k"
         }
       ],
-      "duration_ms": 246240,
-      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
-      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
-        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
-      },
-      "artists": [
-        {
-          "name": "Jupiter",
-          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
-        }
-      ],
-      "duration_ms": 256338,
-      "name": "\u904b\u547d\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
-    },
-    {
-      "added_at": "2024-02-13 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
-        "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
-      },
-      "artists": [
-        {
-          "name": "\u6728\u6751 \u9f8d (CV.\u6ff1 \u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "SPARKLE SIGN",
-      "url": "https://open.spotify.com/track/0pMPm7ylpawoWSFzFin9JS"
+      "duration_ms": 262680,
+      "name": "GOLD \uff5eNo.79\uff5e",
+      "url": "https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",

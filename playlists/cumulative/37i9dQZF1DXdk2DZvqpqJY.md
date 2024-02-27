@@ -4,13 +4,13 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-424 songs - 1 day 2 hr 13 min
+425 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2021](https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [2021](https://open.spotify.com/album/6m2Lew9fzZPIXJfjsHKsQG) | 2:08 | 2022-02-17 | 2022-05-04 |
 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 | 2022-02-17 | 2023-03-21 |
-| [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2023-03-20 |  |
+| [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2023-03-20 | 2024-02-27 |
 | [A Simple Book](https://open.spotify.com/track/2djXr7LTah8IBtXTviKLA7) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:35 | 2023-05-04 | 2024-01-18 |
 | [A Slice Of The Top](https://open.spotify.com/track/6FYkE7YkOeTXc4m6tc2em6) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:11 | 2022-02-17 | 2022-04-22 |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-20 |  |
@@ -131,6 +131,7 @@
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2022-12-09 | 2023-03-21 |
 | [Fork In The Rhodes](https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:58 | 2022-06-02 | 2022-11-20 |
 | [Fortune Favor](https://open.spotify.com/track/4updZ1LUcfCllOSjLTfNGg) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Fortune Favor](https://open.spotify.com/album/7gbsBmLPC2Guw1oQ9rue5l) | 3:43 | 2023-05-04 | 2023-05-08 |
+| [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 | 2024-02-23 |  |
 | [Frank's Tune](https://open.spotify.com/track/0j5BDpqfAAzF4mtu4vE68P) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:37 | 2022-04-22 | 2023-03-21 |
 | [Fresh Bloom](https://open.spotify.com/track/7qmcHozSGwsH5I7IjF16eU) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Fresh Bloom](https://open.spotify.com/album/2tc7pWoDXmlpiWrGuaeyPA) | 1:45 | 2023-03-02 | 2023-05-05 |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2022-12-22 | 2023-02-23 |

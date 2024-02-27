@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Gatecreeper
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,384 likes - 47 songs - 2 hr 59 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,386 likes - 47 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

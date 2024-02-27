@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 16529,
+  "num_followers": 16534,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWJiMjkxYWMzYzZiNGE0OWQyMTY1NmIzY2I2MTE0N2VmNzk4OGQ0",
+  "snapshot_id": "MCxkNGQ4NjllNGYwNzJmOWNlZTFhMzM3MDdjZjJlNTNkMjBhOGJjZTUy",
   "tracks": [
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1287,18 +1287,26 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
-        "url": "https://open.spotify.com/album/1m5z7P6KlQzsmoGEIfRyO9"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
+        "url": "https://open.spotify.com/album/6sSOBO1MujX5DaNgbEq0mZ"
       },
       "artists": [
+        {
+          "name": "Sherry 'n Cherry",
+          "url": "https://open.spotify.com/artist/6idGBSEeLYtLCWPdwqnhZ4"
+        },
+        {
+          "name": "Konomi Baba (CV: Minami Takahashi)",
+          "url": "https://open.spotify.com/artist/71gXraRrIXOxtuvIGPhQKw"
+        },
         {
           "name": "Rio Momose (CV: Rikako Yamaguchi)",
           "url": "https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV"
         }
       ],
-      "duration_ms": 241320,
-      "name": "Be My Boy",
-      "url": "https://open.spotify.com/track/1TDvkZrSVGBTLT38UFCbvI"
+      "duration_ms": 240613,
+      "name": "Cherry Colored Love",
+      "url": "https://open.spotify.com/track/5Resjvj2AzujqR57LdaTgA"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1331,42 +1339,46 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
-        "url": "https://open.spotify.com/album/6sSOBO1MujX5DaNgbEq0mZ"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/1m5z7P6KlQzsmoGEIfRyO9"
       },
       "artists": [
-        {
-          "name": "Sherry 'n Cherry",
-          "url": "https://open.spotify.com/artist/6idGBSEeLYtLCWPdwqnhZ4"
-        },
-        {
-          "name": "Konomi Baba (CV: Minami Takahashi)",
-          "url": "https://open.spotify.com/artist/71gXraRrIXOxtuvIGPhQKw"
-        },
         {
           "name": "Rio Momose (CV: Rikako Yamaguchi)",
           "url": "https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV"
         }
       ],
-      "duration_ms": 240613,
-      "name": "Cherry Colored Love",
-      "url": "https://open.spotify.com/track/5Resjvj2AzujqR57LdaTgA"
+      "duration_ms": 241320,
+      "name": "Be My Boy",
+      "url": "https://open.spotify.com/track/1TDvkZrSVGBTLT38UFCbvI"
     },
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER COLLECTION Vol.1 -765PRO ALLSTARS-",
-        "url": "https://open.spotify.com/album/3hJ9lKU2CKPjXVVUioW9fP"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
+        "url": "https://open.spotify.com/album/6CHF5KwVa5xtifocxw8Ylv"
       },
       "artists": [
         {
-          "name": "Hibiki Ganaha (CV: Manami Numakura)",
-          "url": "https://open.spotify.com/artist/2BoTUCgw9GuJy5OAwCsfmn"
+          "name": "TIntMe!",
+          "url": "https://open.spotify.com/artist/7q5emy14khONfDWIyi09ds"
+        },
+        {
+          "name": "Tamaki Ogami (CV: Eri Inagawa)",
+          "url": "https://open.spotify.com/artist/2flYBiUZHUmExLFIQy9t0u"
+        },
+        {
+          "name": "Iku Nakatani (CV: Akari Harashima)",
+          "url": "https://open.spotify.com/artist/0V7mNNTpBiNAILcuDPVwst"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
         }
       ],
-      "duration_ms": 244280,
-      "name": "Rebellion",
-      "url": "https://open.spotify.com/track/0vALWnA4YFT18TlyXqauec"
+      "duration_ms": 311466,
+      "name": "Arrive You: Sore ga Unmei de mo",
+      "url": "https://open.spotify.com/track/6XeltobxzIpBLUoGlYL7bg"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1395,6 +1407,22 @@
       "duration_ms": 263186,
       "name": "Melty Fantasia",
       "url": "https://open.spotify.com/track/4oQd5G4hiTVxsZcx4OZW0h"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER COLLECTION Vol.1 -765PRO ALLSTARS-",
+        "url": "https://open.spotify.com/album/3hJ9lKU2CKPjXVVUioW9fP"
+      },
+      "artists": [
+        {
+          "name": "Hibiki Ganaha (CV: Manami Numakura)",
+          "url": "https://open.spotify.com/artist/2BoTUCgw9GuJy5OAwCsfmn"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/0vALWnA4YFT18TlyXqauec"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1443,50 +1471,6 @@
       "duration_ms": 268960,
       "name": "addicted",
       "url": "https://open.spotify.com/track/6RFmQhWIaazSsZyh6IeJzX"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER COLLECTION Vol.1 -765PRO ALLSTARS-",
-        "url": "https://open.spotify.com/album/3hJ9lKU2CKPjXVVUioW9fP"
-      },
-      "artists": [
-        {
-          "name": "Chihaya Kisaragi (CV: Asami Imai)",
-          "url": "https://open.spotify.com/artist/08p1DexsyTgWd1i1l50pcL"
-        }
-      ],
-      "duration_ms": 301626,
-      "name": "Snow White",
-      "url": "https://open.spotify.com/track/3odEwCm4qTAQHYjXRzCL25"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
-        "url": "https://open.spotify.com/album/6CHF5KwVa5xtifocxw8Ylv"
-      },
-      "artists": [
-        {
-          "name": "TIntMe!",
-          "url": "https://open.spotify.com/artist/7q5emy14khONfDWIyi09ds"
-        },
-        {
-          "name": "Tamaki Ogami (CV: Eri Inagawa)",
-          "url": "https://open.spotify.com/artist/2flYBiUZHUmExLFIQy9t0u"
-        },
-        {
-          "name": "Iku Nakatani (CV: Akari Harashima)",
-          "url": "https://open.spotify.com/artist/0V7mNNTpBiNAILcuDPVwst"
-        },
-        {
-          "name": "Momoko Suou (CV: Keiko Watanabe)",
-          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
-        }
-      ],
-      "duration_ms": 311466,
-      "name": "Arrive You: Sore ga Unmei de mo",
-      "url": "https://open.spotify.com/track/6XeltobxzIpBLUoGlYL7bg"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1551,30 +1535,50 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 16 Kimidori",
-        "url": "https://open.spotify.com/album/3euXi9Cyegs6mgCvU08pFC"
+        "name": "THE IDOLM@STER LIVE THE@TER COLLECTION Vol.1 -765PRO ALLSTARS-",
+        "url": "https://open.spotify.com/album/3hJ9lKU2CKPjXVVUioW9fP"
       },
       "artists": [
         {
-          "name": "Kimidori",
-          "url": "https://open.spotify.com/artist/5lTVbmy8jp0LQJlsjvTyJ4"
-        },
-        {
-          "name": "Megumi Tokoro (CV: Yukiyo Fujii)",
-          "url": "https://open.spotify.com/artist/5xRVfZ3FGcLVFE2lMlTmxS"
-        },
-        {
-          "name": "Arisa Matsuda (CV: Rie Murakawa)",
-          "url": "https://open.spotify.com/artist/39P8OKnL0nlCK2bkt27UfF"
-        },
-        {
-          "name": "Kana Yabuki (CV: Ibuki Kido)",
-          "url": "https://open.spotify.com/artist/3x67a8whel5V68sXtDbNC9"
+          "name": "Chihaya Kisaragi (CV: Asami Imai)",
+          "url": "https://open.spotify.com/artist/08p1DexsyTgWd1i1l50pcL"
         }
       ],
-      "duration_ms": 260812,
-      "name": "Pan to Film",
-      "url": "https://open.spotify.com/track/01H2jPtYSWtdwpPZoMS2Do"
+      "duration_ms": 301626,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/3odEwCm4qTAQHYjXRzCL25"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER THE@TER ACTIVITIES 02",
+        "url": "https://open.spotify.com/album/6GBsoeSbiZSZ9euyx0su40"
+      },
+      "artists": [
+        {
+          "name": "Julia (CV: Aimi)",
+          "url": "https://open.spotify.com/artist/1CLvL2z5LbARBiaOY5fVeH"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "Tamaki Ogami (CV: Eri Inagawa)",
+          "url": "https://open.spotify.com/artist/2flYBiUZHUmExLFIQy9t0u"
+        },
+        {
+          "name": "Hinata Kinoshita (CV: Nao Tamura)",
+          "url": "https://open.spotify.com/artist/48iNzeWkRNroqYTfYx28hS"
+        },
+        {
+          "name": "Noriko Fukuda (CV: Nana Hamasaki)",
+          "url": "https://open.spotify.com/artist/1oVowWqa3FDbOTRBS6BLtO"
+        }
+      ],
+      "duration_ms": 234946,
+      "name": "Kyoki Ranbu",
+      "url": "https://open.spotify.com/track/6KuhJx1AhTXoxlytQHDtNP"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1635,38 +1639,6 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER THE@TER ACTIVITIES 02",
-        "url": "https://open.spotify.com/album/6GBsoeSbiZSZ9euyx0su40"
-      },
-      "artists": [
-        {
-          "name": "Julia (CV: Aimi)",
-          "url": "https://open.spotify.com/artist/1CLvL2z5LbARBiaOY5fVeH"
-        },
-        {
-          "name": "Momoko Suou (CV: Keiko Watanabe)",
-          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
-        },
-        {
-          "name": "Tamaki Ogami (CV: Eri Inagawa)",
-          "url": "https://open.spotify.com/artist/2flYBiUZHUmExLFIQy9t0u"
-        },
-        {
-          "name": "Hinata Kinoshita (CV: Nao Tamura)",
-          "url": "https://open.spotify.com/artist/48iNzeWkRNroqYTfYx28hS"
-        },
-        {
-          "name": "Noriko Fukuda (CV: Nana Hamasaki)",
-          "url": "https://open.spotify.com/artist/1oVowWqa3FDbOTRBS6BLtO"
-        }
-      ],
-      "duration_ms": 234946,
-      "name": "Kyoki Ranbu",
-      "url": "https://open.spotify.com/track/6KuhJx1AhTXoxlytQHDtNP"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND",
         "url": "https://open.spotify.com/album/0OECGehOOIyFrZceit0Z1S"
       },
@@ -1699,6 +1671,34 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 16 Kimidori",
+        "url": "https://open.spotify.com/album/3euXi9Cyegs6mgCvU08pFC"
+      },
+      "artists": [
+        {
+          "name": "Kimidori",
+          "url": "https://open.spotify.com/artist/5lTVbmy8jp0LQJlsjvTyJ4"
+        },
+        {
+          "name": "Megumi Tokoro (CV: Yukiyo Fujii)",
+          "url": "https://open.spotify.com/artist/5xRVfZ3FGcLVFE2lMlTmxS"
+        },
+        {
+          "name": "Arisa Matsuda (CV: Rie Murakawa)",
+          "url": "https://open.spotify.com/artist/39P8OKnL0nlCK2bkt27UfF"
+        },
+        {
+          "name": "Kana Yabuki (CV: Ibuki Kido)",
+          "url": "https://open.spotify.com/artist/3x67a8whel5V68sXtDbNC9"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "Pan to Film",
+      "url": "https://open.spotify.com/track/01H2jPtYSWtdwpPZoMS2Do"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
         "url": "https://open.spotify.com/album/0HeYRJu4ii8PbAU7xFuVQI"
       },
@@ -1723,42 +1723,6 @@
       "duration_ms": 210480,
       "name": "Raise the FLAG",
       "url": "https://open.spotify.com/track/3saiWeXAqXZaNn5pZokpNY"
-    },
-    {
-      "added_at": "2023-11-07 18:19:56",
-      "album": {
-        "name": "THE IDOLM@STER STARLIT SEASON 00 GR@TITUDE (Lantis Version)",
-        "url": "https://open.spotify.com/album/5ys3SB9qTxfyBKydm1TqA9"
-      },
-      "artists": [
-        {
-          "name": "MILLIONSTARS",
-          "url": "https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii"
-        },
-        {
-          "name": "Mirai Kasuga (CV: Haruka Yamazaki)",
-          "url": "https://open.spotify.com/artist/3JuayHx0kZxDWrUzCslgvn"
-        },
-        {
-          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
-          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
-        },
-        {
-          "name": "Tsubasa Ibuki (CV: Machico)",
-          "url": "https://open.spotify.com/artist/10vdoYkSqeOCKyaZLp6Rhb"
-        },
-        {
-          "name": "Tsumugi Shiraishi (CV: Saki Minami)",
-          "url": "https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD"
-        },
-        {
-          "name": "Kaori Sakuramori (CV: Arisa Kori)",
-          "url": "https://open.spotify.com/artist/7bKxo2ghxiaI6fOEZPk8W6"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "GR\uff20TITUDE - MILLION LIVE! Version",
-      "url": "https://open.spotify.com/track/13ZkMneUu4rXa4QAoP0FXF"
     },
     {
       "added_at": "2023-11-07 18:19:56",
@@ -1823,30 +1787,66 @@
     {
       "added_at": "2023-11-07 18:19:56",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER SEASON LOVERS HEART",
-        "url": "https://open.spotify.com/album/1YZvBliSpdX75FmUBVOZ7c"
+        "name": "THE IDOLM@STER STARLIT SEASON 00 GR@TITUDE (Lantis Version)",
+        "url": "https://open.spotify.com/album/5ys3SB9qTxfyBKydm1TqA9"
       },
       "artists": [
         {
-          "name": "Tomoka Tenkubashi (CV: Kotori Koiwai)",
-          "url": "https://open.spotify.com/artist/5ftm42yZ4mdsrNtEdl8nrm"
+          "name": "MILLIONSTARS",
+          "url": "https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii"
         },
         {
-          "name": "Yayoi Takatsuki (CV: Mayako Nigo)",
-          "url": "https://open.spotify.com/artist/0KL84pqXr8aAwNGKy9jAAl"
+          "name": "Mirai Kasuga (CV: Haruka Yamazaki)",
+          "url": "https://open.spotify.com/artist/3JuayHx0kZxDWrUzCslgvn"
         },
         {
-          "name": "Minako Satake (CV: Eri Ozeki)",
-          "url": "https://open.spotify.com/artist/3NBn8nSFdjI2uxEh2NmPyT"
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
         },
         {
-          "name": "Yuriko Nanao (CV: Miku Ito)",
-          "url": "https://open.spotify.com/artist/6QaH6xMAiRcPLwngGK4aI8"
+          "name": "Tsubasa Ibuki (CV: Machico)",
+          "url": "https://open.spotify.com/artist/10vdoYkSqeOCKyaZLp6Rhb"
+        },
+        {
+          "name": "Tsumugi Shiraishi (CV: Saki Minami)",
+          "url": "https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD"
+        },
+        {
+          "name": "Kaori Sakuramori (CV: Arisa Kori)",
+          "url": "https://open.spotify.com/artist/7bKxo2ghxiaI6fOEZPk8W6"
         }
       ],
-      "duration_ms": 248800,
-      "name": "LOVE is GAME",
-      "url": "https://open.spotify.com/track/78bN76pwC3tPCzwtdaAmRn"
+      "duration_ms": 262266,
+      "name": "GR\uff20TITUDE - MILLION LIVE! Version",
+      "url": "https://open.spotify.com/track/13ZkMneUu4rXa4QAoP0FXF"
+    },
+    {
+      "added_at": "2023-11-07 18:19:56",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
+        "url": "https://open.spotify.com/album/4XqjxLuLH7cFqWPRHN4jtk"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3iAxQsr8qizy91doRJwK6S"
+        },
+        {
+          "name": "Tamaki Ogami (CV: Eri Inagawa)",
+          "url": "https://open.spotify.com/artist/2flYBiUZHUmExLFIQy9t0u"
+        },
+        {
+          "name": "Akane Nonohara (CV: Saki Ogasawara)",
+          "url": "https://open.spotify.com/artist/5OPLU2q1IdrBalJYL23Oa6"
+        },
+        {
+          "name": "Serika Hakozaki (CV: Momo Asakura)",
+          "url": "https://open.spotify.com/artist/6NMIepIEDmpEftdZ4GkYrE"
+        }
+      ],
+      "duration_ms": 292893,
+      "name": "Sweet Sweet Soul",
+      "url": "https://open.spotify.com/track/1KXav3uYDfxhXR1ZrzubaG"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",

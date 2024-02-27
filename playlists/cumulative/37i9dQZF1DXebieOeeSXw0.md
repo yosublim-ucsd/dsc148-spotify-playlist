@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-354 songs - 1 day 4 hr 42 min
+355 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,8 @@
 | [Quien es el Patron?](https://open.spotify.com/track/5s3936VbCpdkM0ogKWE8Nn) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Systema Solar](https://open.spotify.com/album/6ZX1lEw6XfbUAkN9CDV6hO) | 3:23 | 2021-12-24 |  |
 | [Quiero a Mi Gente](https://open.spotify.com/track/1K1Kz6leLWIBLdHw3HbT8C) | [Abelardo Carbonó y su Conjunto](https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8) | [Guana Tangula](https://open.spotify.com/album/2jCg6WjHRtfLBQNivXzThE) | 3:48 | 2021-12-24 |  |
 | [Qué Pena](https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Qué Pena](https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5) | 4:55 | 2021-12-24 |  |
-| [Rakia](https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:38 | 2021-12-24 |  |
+| [Rakia](https://open.spotify.com/track/0xaol8Y0BI26bLCp8u2HF5) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/4abpmOU9V3Cd5dah1L7L5x) | 5:38 | 2021-12-24 |  |
+| [Rakia](https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:38 | 2021-12-24 | 2024-02-27 |
 | [Relax and Mambo](https://open.spotify.com/track/33vIIwfMDRoJwlizrQu8tM) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Presentando a Machito](https://open.spotify.com/album/2tVM5mKWo3iZ8qfcTmxAhs) | 3:09 | 2023-02-28 |  |
 | [Richie's Jala Jala](https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 5:07 | 2021-12-24 |  |
 | [Rokiatou](https://open.spotify.com/track/5aaidt5hnIJY2znbS47XMa) | [Loketo](https://open.spotify.com/artist/67Rl5EBm63MHcIxbYxiWoE), [Sahlomon](https://open.spotify.com/artist/1VyXjkwod2pjlb6j18EbM9) | [Choc à distance \(Le n°1 du soukouss\)](https://open.spotify.com/album/6MZWMLUwMbqpIT4Vfo96zF) | 3:49 | 2021-12-24 |  |

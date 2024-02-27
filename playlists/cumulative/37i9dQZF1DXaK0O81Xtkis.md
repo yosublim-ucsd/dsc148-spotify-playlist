@@ -4,7 +4,7 @@
 
 > make it pop! cover: Audrey Nuna
 
-893 songs - 1 day 20 hr 24 min
+894 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [lonely](https://open.spotify.com/track/2Lm0zTyVto9JsTwcjIuZcw) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [lonely](https://open.spotify.com/album/4WtLTJCmLuJ1XQHHt4jOcy) | 2:08 | 2023-03-24 | 2023-07-01 |
 | [loner](https://open.spotify.com/track/3MtZ7NDO0eVP2mltk9PdGA) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [loner](https://open.spotify.com/album/3QRGojp6gEqZf9QgxH6lMK) | 2:46 | 2023-03-10 | 2023-06-24 |
 | [Look Mom](https://open.spotify.com/track/1ydXPq8Lja4OS9UlMT5a28) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP), [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Look Mom](https://open.spotify.com/album/67EduQ0YlRpR9YKyEvsztu) | 2:29 | 2024-01-12 |  |
-| [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 |  |
+| [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 | 2023-12-08 | 2024-02-27 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-29 | 2022-01-22 |
 | [Lose My Mind](https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Lose My Mind](https://open.spotify.com/album/5GlO7wj3p6cmmgT8qnFqEg) | 2:26 | 2023-03-10 | 2023-04-15 |
 | [Lose My Number](https://open.spotify.com/track/6YG2PNDqV4qfKcKRhyMPKU) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Lose My Number](https://open.spotify.com/album/4DHc6jdGV40ZcJeDzPpAGF) | 2:23 | 2021-10-29 | 2022-02-26 |
@@ -543,6 +543,7 @@
 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 | 2023-03-24 | 2023-07-22 |
 | [Naive](https://open.spotify.com/track/5IyQ3FaPU3EbE9Sbleq59M) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Naive](https://open.spotify.com/album/17CC61VuUARx8AHynTbmnP) | 3:15 | 2023-02-10 | 2023-04-15 |
 | [Natural](https://open.spotify.com/track/7z9TlbrDkEkwKAyScdDamy) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/1MC8OGjVd1Wjs7ng4oiKXO) | 2:36 | 2023-06-23 | 2023-07-29 |
+| [Nature Song](https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv) | [TogetherEffect](https://open.spotify.com/artist/43O9PYwjSqOaAgz8BQxswm) | [Nature Song](https://open.spotify.com/album/2EiH4Rpf1OIxnvbZXOjkHe) | 3:06 | 2024-02-26 |  |
 | [naïve](https://open.spotify.com/track/1wAadgVOHT3eHLXGzynAMB) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:50 | 2022-05-27 | 2022-06-04 |
 | [nervous](https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [nervous](https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5) | 2:58 | 2023-01-27 | 2023-03-25 |
 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 | 2023-01-27 | 2023-05-02 |

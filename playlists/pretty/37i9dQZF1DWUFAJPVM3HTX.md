@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc?si=sCJpLXugRKKZssTKQEG4ig"> Josef Lamercier </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,793 likes - 134 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,849 likes - 134 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 20 | [Cherry Bomb](https://open.spotify.com/track/7klvOqigim4Y9u7q3Kh1H2) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Cherry Bomb](https://open.spotify.com/album/1YgP1jGwV0e16SBGUegDaE) | 3:32 |
 | 21 | [i'll never send it](https://open.spotify.com/track/25VtsClydYUl4opmlZeJIr) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [i'll never send it](https://open.spotify.com/album/7vY33ZKZ5f5CprSw3HFFGp) | 2:34 |
 | 22 | [Late to the Party](https://open.spotify.com/track/2gnjGxnyrkD5JEd6T0qT8E) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Late to the Party](https://open.spotify.com/album/4n7mXxNyD93LHBamg4tAPq) | 2:59 |
-| 23 | [Killa](https://open.spotify.com/track/4iw1I7SDIs1on54qPSfNeM) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Killa](https://open.spotify.com/album/7w5yz9k2Uk3wOncaIPJjZF) | 2:01 |
+| 23 | [Killa](https://open.spotify.com/track/1HEcHAoEry62baI40swiFd) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Fate Loves Irony](https://open.spotify.com/album/4sfXXUtY2VizTQgQrT6imN) | 2:01 |
 | 24 | [When You Need Me](https://open.spotify.com/track/1QIeQ4ulLpBMnROqqqnwiG) | [Zyanna](https://open.spotify.com/artist/3jnexhFggORGjrBZrDGoJf) | [When You Need Me](https://open.spotify.com/album/0v4nj6GsOYEgjFus7zUS58) | 3:00 |
 | 25 | [Sinner](https://open.spotify.com/track/5kdedjiGOxBj3oqgXikAr9) | [Maxine Scott](https://open.spotify.com/artist/1KbzThyB1jS28RXOc1lyvY) | [Sinner](https://open.spotify.com/album/3Vq4RDcSq5SOecbM5KQQx5) | 3:57 |
 | 26 | [California](https://open.spotify.com/track/5BxYazqSVSy7UzAhOXDYpH) | [Sakura](https://open.spotify.com/artist/7GnLNup2bwOa18n7FxB3Rp) | [California](https://open.spotify.com/album/2zS3Coa2scUlz9cfwc87Bo) | 2:37 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 133 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 134 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 |
 
-Snapshot ID: `MCwxMjIyN2Q4MWVlMWQwZjk0Mjk0NzM1ZDdhNjQxZWQwMzFlYjllOGUy`
+Snapshot ID: `MCw1NzViMmVjYmQwMzVkOGNkZjhkN2VjMGRmNTFhNzVjMTI2ZjE4NzZl`

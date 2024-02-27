@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Audrey Nuna.",
-  "num_followers": 284791,
+  "num_followers": 284812,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzRiNTNkYzhlNWVlODlmN2UxYmQzNjI5MTA1ZGYyNDllMTMyZDA3",
+  "snapshot_id": "MCxhZTRkYWE0YWVlMmIwZDUzMzBjMDNmMjZmNDgwODkwZTAwMzU1NDk4",
   "tracks": [
     {
       "added_at": "2024-02-23 17:58:51",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
+      "duration_ms": 262680,
+      "name": "Letter To My 13 Year Old Self",
+      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 262680,
-      "name": "Letter To My 13 Year Old Self",
-      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 215082,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
-    },
-    {
-      "added_at": "2024-02-23 17:58:51",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 168461,
       "name": "Unlearn You",
       "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
+    },
+    {
+      "added_at": "2024-02-23 17:58:51",
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 215082,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
-      },
-      "artists": [
-        {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
-    },
-    {
-      "added_at": "2024-02-23 17:58:51",
-      "album": {
         "name": "ENVY",
         "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 202753,
       "name": "ENVY",
       "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
+    },
+    {
+      "added_at": "2024-02-23 17:58:51",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
+        "name": "Water Worship Pray",
+        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 191016,
+      "name": "Water Worship Pray",
+      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
+    },
+    {
+      "added_at": "2024-02-23 17:58:51",
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 178346,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
-    },
-    {
-      "added_at": "2024-02-23 17:58:51",
-      "album": {
-        "name": "Water Worship Pray",
-        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 191016,
-      "name": "Water Worship Pray",
-      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 158130,
+      "name": "Isn't It Obvious",
+      "url": "https://open.spotify.com/track/362K2bSyVFq3aMkDYkQsLd"
+    },
+    {
+      "added_at": "2024-02-23 17:58:51",
+      "album": {
         "name": "If I Say I Love You",
         "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+        "name": "love letters to u (EP)",
+        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
         }
       ],
-      "duration_ms": 158130,
-      "name": "Isn't It Obvious",
-      "url": "https://open.spotify.com/track/362K2bSyVFq3aMkDYkQsLd"
+      "duration_ms": 157377,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -1523,22 +1539,6 @@
       "duration_ms": 218762,
       "name": "Swapping Socks",
       "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
-    },
-    {
-      "added_at": "2024-02-23 17:58:51",
-      "album": {
-        "name": "love letters to u (EP)",
-        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 196075,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+    },
+    {
+      "added_at": "2024-02-23 17:58:51",
+      "album": {
         "name": "On Everything",
         "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 188373,
       "name": "On Everything",
       "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
-    },
-    {
-      "added_at": "2024-02-23 17:58:51",
-      "album": {
-        "name": "Future Reference",
-        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 196075,
-      "name": "Leave With Me",
-      "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
     },
     {
       "added_at": "2024-02-23 17:58:51",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-02-23 17:58:51",
       "album": {
-        "name": "ANGEL",
-        "url": "https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO"
-      },
-      "artists": [
-        {
-          "name": "GAVIN:D",
-          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
-        }
-      ],
-      "duration_ms": 124371,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R"
-    },
-    {
-      "added_at": "2024-02-23 17:58:51",
-      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/4kbbT0b2ORMOulej4sdUON"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 147387,
       "name": "Venom",
       "url": "https://open.spotify.com/track/2pJBg4Qxgj7Rl7y4HPGTUw"
+    },
+    {
+      "added_at": "2024-02-23 17:58:51",
+      "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        }
+      ],
+      "duration_ms": 124371,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/1Hlb5As8d3o1wiWou14m2R"
     },
     {
       "added_at": "2024-02-23 17:58:51",

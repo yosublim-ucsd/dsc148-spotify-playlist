@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Gatecreeper
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,578 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,602 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 20 | [Best Of Me](https://open.spotify.com/track/6UlQHIRJLrUcWFcGgYoo8l) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Best Of Me](https://open.spotify.com/album/5NqdLNd7vk6Ll3ZUsNkWLf) | 3:43 |
 | 21 | [DAMN](https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down \(Deluxe\)](https://open.spotify.com/album/5WdK1rqJzIGuT11HRzvClm) | 3:37 |
 | 22 | [A Prayer to the Holy Death](https://open.spotify.com/track/7zHT1njNnTaq7viuyAH2OR) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4VNi4KMdhD5OYfsClMJxii) | 3:23 |
-| 23 | [Orphan Of Blight \- Live from Rotterdam](https://open.spotify.com/track/1i6goWD53YhDkhiY6rjC9z) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Heritage: Absolute Deluxe Edition](https://open.spotify.com/album/457SsoSJsCuFrO4jRWHMU3) | 4:48 |
+| 23 | [Orphan of Blight \- Live from Rotterdam](https://open.spotify.com/track/1i6goWD53YhDkhiY6rjC9z) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Heritage: Absolute Deluxe Edition](https://open.spotify.com/album/457SsoSJsCuFrO4jRWHMU3) | 4:48 |
 | 24 | [Judgment Day \(feat\. Ov Sulfur\)](https://open.spotify.com/track/5OJjxwaf87vuYVFEKHdBs1) | [Austrian Death Machine](https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS), [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Judgment Day](https://open.spotify.com/album/7pgkjYg0Kwwkbl8yv6zlqK) | 4:06 |
 | 25 | [In Eternity](https://open.spotify.com/track/5UtdnAmaj0ouJmW1k2VbWi) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [In Eternity](https://open.spotify.com/album/58CIfEUTW6jkC8PNLrCqko) | 3:39 |
 | 26 | [Burning Down](https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Burning Down](https://open.spotify.com/album/3N0MmEkRF87NFwaRWppLr0) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [My Dog Is My God](https://open.spotify.com/track/2vCGAPCR3uAYYatwUicIix) | [Today Was Yesterday](https://open.spotify.com/artist/6L203fqSOp5UnstZtOV5U9), [Alex Lifeson](https://open.spotify.com/artist/4vC9kK4Y7SBM3mSsyeTKCo) | [Today Was Yesterday](https://open.spotify.com/album/4q3Nh1CqeMfUjsbDRjJqtc) | 4:52 |
 | 50 | [Tear 'Em To Bits](https://open.spotify.com/track/6nHZGXUYKxaErnmDSpUBgX) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Tear 'Em To Bits](https://open.spotify.com/album/3i8beiM6UW6fLUvcXY5ibr) | 2:09 |
 
-Snapshot ID: `MCw1YWZiYTkwNWNiMTU1MDdmODMzYjM1YWE5MDdhNjkwMDNkNzQ0OGQ4`
+Snapshot ID: `MCw4OGY1NWY2NDAxM2EwYTU3NWNlMzQzYzQ0MTBlNDIwZjZkMzQzZTJi`

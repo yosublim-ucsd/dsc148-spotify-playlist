@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,913 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,928 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [BAD GIRLS](https://open.spotify.com/track/1TtlUZyjlDxAU1bJUw7TuX) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [RESET](https://open.spotify.com/album/23lGhqrRevarvQiffZW90G) | 3:02 |
 | 50 | [Violence & Poésie](https://open.spotify.com/track/3yyGilBl0qbv0Sp2StCAC1) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [Violence & Poésie](https://open.spotify.com/album/1ouOyVJEBm4gRkiWuZsbtv) | 3:25 |
 
-Snapshot ID: `MCwwYTNiZDA5Mzc1OTE1YWUzN2UzY2ZmOTA4M2FlNjEyY2QxMDk2YjNh`
+Snapshot ID: `MCxhZmM4ZDY0ZTU3NDMxZTNjYTI0Y2MyNzEyYTQ0YTU5NDkyNmYwOTEy`

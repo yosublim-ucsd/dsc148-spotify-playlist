@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-361 songs - 17 hr 56 min
+362 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2023-04-06 | 2023-07-29 |
 | [Bid to Wonder](https://open.spotify.com/track/3o9ntzrGGcWTf455Cotank) | [Reinstallation Conundrum](https://open.spotify.com/artist/0wi4qBw9aaXBjMr7peZ8eT) | [Sochi](https://open.spotify.com/album/2gvyCBlwTSzWCQlmAkw2CW) | 3:11 | 2023-04-06 | 2024-01-18 |
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2023-04-06 | 2024-01-18 |
+| [Blissful Drift](https://open.spotify.com/track/0g6As2M9UUFkaXWE0eTbY9) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Blissful Drift](https://open.spotify.com/album/78PL8SM08sW5MmRZ77p76o) | 3:02 | 2024-02-26 |  |
 | [Bogha](https://open.spotify.com/track/6VdWgQuECUyNtfgm8ZBCKy) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha](https://open.spotify.com/album/3Ltc5DM8l3p3uqps7l9AR4) | 3:26 | 2023-11-10 |  |
 | [Bring You Home](https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Bring You Home](https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1) | 2:41 | 2023-04-06 |  |
 | [Burgeon](https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Burgeon](https://open.spotify.com/album/63OxZ1kqFKqftIwuwKTAEl) | 2:48 | 2024-01-17 |  |
@@ -94,7 +95,7 @@
 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 | 2023-04-06 |  |
 | [Dolce](https://open.spotify.com/track/0PbMPORCi8wc3jlw1kipOm) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Dolce](https://open.spotify.com/album/0ygFEGKH9Rn6GeeThGKVOc) | 1:46 | 2023-04-06 | 2023-07-29 |
 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 | 2023-04-06 |  |
-| [Double Helix](https://open.spotify.com/track/5Hd70laM8Glw4wcT8FFEO5) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Double Helix](https://open.spotify.com/album/1yep9TfPABX97QXdFKao62) | 2:55 | 2024-01-17 |  |
+| [Double Helix](https://open.spotify.com/track/5Hd70laM8Glw4wcT8FFEO5) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Double Helix](https://open.spotify.com/album/1yep9TfPABX97QXdFKao62) | 2:55 | 2024-01-17 | 2024-02-27 |
 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 | 2023-04-06 | 2024-01-18 |
 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 | 2023-04-06 | 2024-01-18 |
 | [drifting](https://open.spotify.com/track/6modbrrro6DfCp4MGSUtZ7) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream loop](https://open.spotify.com/album/18QvxWz9cpcqw0PwpByVwR) | 3:20 | 2023-04-06 | 2023-10-03 |
@@ -107,7 +108,7 @@
 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 | 2023-04-06 |  |
 | [Elevated Pastures](https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux) | [Chinyami](https://open.spotify.com/artist/1ey8cZsgOMCClk9NjQLJcd) | [Elevated Pastures](https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm) | 3:33 | 2023-04-06 | 2023-04-14 |
 | [Elm Lake](https://open.spotify.com/track/2OTbdztO2bxflTGGlxyEri) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:57 | 2023-04-06 | 2024-01-18 |
-| [Emerge](https://open.spotify.com/track/5ksyRTzb82DVjzZbsk9jpf) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Emerge](https://open.spotify.com/album/7yz5FdiA1JiWjk9MjN1gaP) | 2:48 | 2023-11-10 |  |
+| [Emerge](https://open.spotify.com/track/5ksyRTzb82DVjzZbsk9jpf) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Emerge](https://open.spotify.com/album/7yz5FdiA1JiWjk9MjN1gaP) | 2:48 | 2023-11-10 | 2024-02-27 |
 | [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 | 2023-04-06 |  |
 | [Envision](https://open.spotify.com/track/4WDiuLIXEaVph0nG3B0zJE) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:39 | 2023-04-06 | 2024-01-18 |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2023-04-06 |  |
@@ -183,7 +184,7 @@
 | [Kama](https://open.spotify.com/track/1SCV472JdWgdTVieHOEale) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Kama](https://open.spotify.com/album/5NNGEQOYsonnzf3fwEiwj3) | 3:40 | 2023-04-06 | 2024-01-18 |
 | [Kinship](https://open.spotify.com/track/0lZYIXIXkyzwyCWptYemZH) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Kinship](https://open.spotify.com/album/2oZqK64LsvmZLtaw3mcA8B) | 3:02 | 2023-04-06 |  |
 | [Kissing the Ambience](https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Kissing the Ambience](https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP) | 3:06 | 2023-04-06 | 2024-01-18 |
-| [Kujtimet](https://open.spotify.com/track/283VpOIFxubROj0o6mHD83) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Kujtimet](https://open.spotify.com/album/0XDfEjLWDo0Sv1KsQnROmp) | 2:15 | 2023-06-23 |  |
+| [Kujtimet](https://open.spotify.com/track/283VpOIFxubROj0o6mHD83) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Kujtimet](https://open.spotify.com/album/0XDfEjLWDo0Sv1KsQnROmp) | 2:15 | 2023-06-23 | 2024-02-27 |
 | [Lake At Dusk](https://open.spotify.com/track/6x229Z6uADTV3RP220roWB) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Lake At Dusk](https://open.spotify.com/album/1hdwkd8wlkrVsr8In3KNwh) | 3:16 | 2024-01-17 |  |
 | [Lake Huron](https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 3:15 | 2023-04-06 |  |
 | [Libre](https://open.spotify.com/track/0BCjtbFNaEJwVTIaho8CKp) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Libre](https://open.spotify.com/album/0m0XWF4ACGQ9a5AUvsrIaY) | 2:33 | 2023-04-06 |  |
@@ -242,7 +243,7 @@
 | [Outra Noite](https://open.spotify.com/track/2mH0B6EKz3XUy1SO77wfe5) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Outra Noite](https://open.spotify.com/album/0n4GsYckCir9CAVbcV3ddY) | 3:08 | 2023-04-06 |  |
 | [Parallel Void](https://open.spotify.com/track/0xlR8OODoH9NNF9yI7iSoQ) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Parallel Void](https://open.spotify.com/album/3ZiLcrESAcVR3QL2rtUHsm) | 2:54 | 2024-01-17 |  |
 | [Passing Pt\. 2](https://open.spotify.com/track/1xI0wUyKvS6X52icQaI3jo) | [Aleisha](https://open.spotify.com/artist/7l6luxZVx54LDIfZLTzYoj) | [Passing](https://open.spotify.com/album/37v6qu611SVpd3YU08ippf) | 2:00 | 2023-04-06 | 2024-01-18 |
-| [Pathways](https://open.spotify.com/track/1X8t9FdeTtwM5zvkjqOICk) | [Kenton](https://open.spotify.com/artist/4ca2Gq9ywZqv78Z2a39Hpg) | [Pathways](https://open.spotify.com/album/7oTxf5kOGua8NxsM7CHUdy) | 3:56 | 2024-01-17 |  |
+| [Pathways](https://open.spotify.com/track/1X8t9FdeTtwM5zvkjqOICk) | [Kenton](https://open.spotify.com/artist/4ca2Gq9ywZqv78Z2a39Hpg) | [Pathways](https://open.spotify.com/album/7oTxf5kOGua8NxsM7CHUdy) | 3:56 | 2024-01-17 | 2024-02-27 |
 | [Peaceful Moment](https://open.spotify.com/track/4wrIugI2EGkMemvV7bEqRp) | [Ambient Euphoria](https://open.spotify.com/artist/2ZtrNChkXKPqFw2TEvvBuN) | [Peaceful Moment](https://open.spotify.com/album/3gL9A9uR0DKYqMeLCsXqsI) | 2:54 | 2023-04-06 | 2023-07-14 |
 | [Peaceful Night](https://open.spotify.com/track/6d87FW26ifnIhdCWr6vmIU) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Night](https://open.spotify.com/album/4IfVbgpBlsArlRQIlfTPby) | 3:53 | 2023-04-06 | 2023-09-01 |
 | [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 | 2023-04-06 |  |
@@ -368,6 +369,6 @@
 | [You've Sent Me Peace](https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:14 | 2023-04-06 |  |
 | [Your Are The Calm](https://open.spotify.com/track/2APApFAWZgn1F0Efpl6jlj) | [Takhall](https://open.spotify.com/artist/5JT8XbqZDGSHR91TqvUKi0) | [Element](https://open.spotify.com/album/0USAI4oXakWxAFFvMXYjmp) | 3:10 | 2023-05-05 |  |
 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 | 2023-04-06 | 2023-07-14 |
-| [Zuma](https://open.spotify.com/track/29MAJChL6Clm5tKBCBvWTC) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Zuma](https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK) | 3:08 | 2024-01-17 |  |
+| [Zuma](https://open.spotify.com/track/29MAJChL6Clm5tKBCBvWTC) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Zuma](https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK) | 3:08 | 2024-01-17 | 2024-02-27 |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

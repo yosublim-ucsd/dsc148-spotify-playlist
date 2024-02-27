@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 539095,
+  "2024-02-27": 539120,
   "date_first_scraped": "2021-12-21",
   "description": "riff-heavy, fuzzed-out numbers. ",
   "name": "Stoner Rock",
@@ -5097,7 +5097,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 237424,
       "name": "There is Nothing New Under the Sun",
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
@@ -5241,7 +5241,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"

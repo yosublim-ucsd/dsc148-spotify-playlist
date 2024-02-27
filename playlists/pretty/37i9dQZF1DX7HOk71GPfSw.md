@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,729 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,755 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 5 | [No Service](https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [No Service](https://open.spotify.com/album/0SijjdP4yC4j4SO9xIXbTM) | 2:20 |
 | 6 | [Celestial Kiss](https://open.spotify.com/track/0BeYfKg45UTONeA65CSxGR) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Dreamland](https://open.spotify.com/album/48bM9Odm50py9VSzXQ93Pk) | 2:37 |
 | 7 | [Everything We Tried](https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Pointillism / Everything We Tried](https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK) | 3:28 |
-| 8 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/0Qhg5ChZBQuCVGFZt2T1zd), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 |
+| 8 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 |
 | 9 | [4eva](https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [4eva](https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8) | 2:20 |
 | 10 | [Parking Lot](https://open.spotify.com/track/525wrNQ7CY1KmtAFz2wVo6) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Parking Lot](https://open.spotify.com/album/4HsSjx4IFp6iYWymdauN3E) | 2:04 |
 | 11 | [exulansis](https://open.spotify.com/track/5xcnGHVSWWaPK1nn4QuN6P) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [exulansis](https://open.spotify.com/album/2j4dSdxMOgttevg8D0MB9e) | 1:41 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 54 | [two am](https://open.spotify.com/track/0DFyo7KI5TihXA6xKI7nCO) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [a night in virginia](https://open.spotify.com/album/6hR5LXmqqaonYxc2oQe7EG) | 1:53 |
 | 55 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 56 | [FCKNSTR](https://open.spotify.com/track/4hFlAmJ6zJ53nZNRbsNpTn) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [FCKNSTR](https://open.spotify.com/album/1LXC62pD9hPjQaMWT4wKuD) | 2:34 |
-| 57 | [Q.O.S.D](https://open.spotify.com/track/5XbJqPCN3wwU4PBqPaNJGm) | [That Kid](https://open.spotify.com/artist/46w6XrUFjgxf0iiL3qpMV3) | [Q.O.S.D](https://open.spotify.com/album/1zV9Coy8MhabcGX7d16bkP) | 2:11 |
+| 57 | [Q.O.S.D](https://open.spotify.com/track/5XbJqPCN3wwU4PBqPaNJGm) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Q.O.S.D](https://open.spotify.com/album/1zV9Coy8MhabcGX7d16bkP) | 2:11 |
 | 58 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
 | 59 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 |
 | 60 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [buffalo '66](https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [the end](https://open.spotify.com/album/3yAtabXHQMk1uJ9tqaCDDL) | 2:36 |
 | 100 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
 
-Snapshot ID: `MCw5MjgxNDU3OWZkMDllZjYyYWMyYmY4YTJkN2ExYzNlNzcwZTZlMDdk`
+Snapshot ID: `MCw5ODEyMDE4Zjc0MzVlOWY4YWExOWY1MTNhYTY1YmVhZGM2NmUxM2Yy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,104 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,123 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 43 | [La Gitane](https://open.spotify.com/track/2ILYW4UzOgyp7m7XzoTUG8) | [Angelo DeBarre](https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt), [Serge Camps](https://open.spotify.com/artist/55ZhUTep3QMZowur0wWJuR) | [Gypsy Guitars](https://open.spotify.com/album/5wWUzrBjAqUJSUNmJGYUSd) | 3:39 |
 | 44 | [Manoir de mes rêves](https://open.spotify.com/track/4NZRU7uEZEL4nH29wAXtCg) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 5:49 |
 | 45 | [Puttin' On the Ritz](https://open.spotify.com/track/0UOKYamx2rZB4HYjedYFxn) | [Gypsy Swing Revue](https://open.spotify.com/artist/3ZJrLqiSpAZueYPclk65Cl) | [Puttin' On The Ritz](https://open.spotify.com/album/2GhFpYVZdVZ1PnVkphY0OU) | 3:58 |
-| 46 | [Coquette](https://open.spotify.com/track/1mfaDtRk81CE7EQ9VZ18RA) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Caution Hot](https://open.spotify.com/album/1plB2YqojpYtNMOWREhOEr) | 2:35 |
+| 46 | [Coquette](https://open.spotify.com/track/1mfaDtRk81CE7EQ9VZ18RA) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8), [Jon Larsen](https://open.spotify.com/artist/78932qb8ldFSsXgDq2cltO), [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn), [Ben Powell](https://open.spotify.com/artist/25HkovLb1b05hLLIIoohM6) | [Caution Hot](https://open.spotify.com/album/1plB2YqojpYtNMOWREhOEr) | 2:35 |
 | 47 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
 | 48 | [Blue Bossa](https://open.spotify.com/track/34x5AhvVgbLhebznYRBrSO) | [Jimmy Rosenberg](https://open.spotify.com/artist/6tq9JKuE6vPDbQw5EiXLwn) | [Trio](https://open.spotify.com/album/7BMdSO57gHOuHihr4o95Bg) | 3:38 |
 | 49 | [Je suis en amour](https://open.spotify.com/track/6AHft4gweShwU086omcQTE) | [Steeve Laffont](https://open.spotify.com/artist/0redyV7MGTS7VmhcgfEBTX) | [Enamoromaï](https://open.spotify.com/album/6ZujwfBhiTxkIkDGZi2yvq) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 74 | [Hungaria](https://open.spotify.com/track/3bS7AcjV8Dn2ulBF9XdZCo) | [Biréli Lagrène Gipsy Project](https://open.spotify.com/artist/0LrCg8l9Wi1EIqpkW6D3ra) | [Move](https://open.spotify.com/album/7tY1AorZ64PmB6tCp9OLfl) | 2:51 |
 | 75 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 |
 
-Snapshot ID: `MCxlYjdjODJlZTY0ZmNiYzI0ZmMxNTMyMGQ2MGMzZjc0NGE5ZDk3ZjM1`
+Snapshot ID: `MCwxNzQxNjM4ZTBkNzkyYjgyNzhlMGJkZjBjZmRkMTA0MzNjZjBlNjVm`

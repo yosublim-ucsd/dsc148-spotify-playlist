@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Morrita Azul",
+        "url": "https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs"
+      },
+      "artists": [
+        {
+          "name": "Lengua de Mapa",
+          "url": "https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237076,
+      "name": "Morrita Azul",
+      "url": "https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW"
+    },
+    {
+      "album": {
         "name": "M\u00e1tenme Porque Me Muero",
         "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
       },

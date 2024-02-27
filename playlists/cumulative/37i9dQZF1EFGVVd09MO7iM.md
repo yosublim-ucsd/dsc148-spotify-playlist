@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-453 songs - 1 day 5 hr 40 min
+454 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Intro](https://open.spotify.com/track/07H9mwJYoTQdOoaOKxBH5z) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 2:16 | 2024-01-29 |  |
 | [It Girl](https://open.spotify.com/track/4nLHTIo4DqpCvD2EiLKhtJ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:49 | 2024-02-01 |  |
 | [It Girl](https://open.spotify.com/track/7pjWl2IAZcszPDFpcSVWHA) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [It Girl \(Video\)](https://open.spotify.com/album/3UNMOR5IWPOTF3ztJ4y4DG) | 5:06 | 2024-01-29 | 2024-02-02 |
-| [It's All Yours \(feat\. Gina Thompson\)](https://open.spotify.com/track/74S8BajRxF14NYUGj1I04o) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Gina Thompson](https://open.spotify.com/artist/5u15ozs1bXTC2vJTPt2tpM) | [Seven & Seven](https://open.spotify.com/album/0BWr3HdIiI92N95KC0IqNz) | 4:40 | 2024-01-29 |  |
+| [It's All Yours \(feat\. Gina Thompson\)](https://open.spotify.com/track/74S8BajRxF14NYUGj1I04o) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Gina Thompson](https://open.spotify.com/artist/5u15ozs1bXTC2vJTPt2tpM) | [Seven & Seven](https://open.spotify.com/album/0BWr3HdIiI92N95KC0IqNz) | 4:40 | 2024-01-29 | 2024-02-27 |
 | [IT'S GETTING HOT](https://open.spotify.com/track/7o9NyyroX5a9Hp0NKMnrYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:14 | 2024-01-30 |  |
 | [IT'S GETTING HOT](https://open.spotify.com/track/4qDmKSu3dZnyMsphUpKFd7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [IT'S GETTING HOT](https://open.spotify.com/album/483F7Wy5uAfDHB84Tohvfo) | 2:25 | 2024-01-29 | 2024-01-31 |
 | [It's On Again](https://open.spotify.com/track/25iwSdBP7aQW8XnNPd8EHc) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [It's On Again \(The Amazing Spider\-Man 2 \- Official Video\)](https://open.spotify.com/album/7DtIDOjNVrV4JuENn0L4Sr) | 3:50 | 2024-01-30 | 2024-02-02 |
@@ -395,6 +395,7 @@
 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 | 2024-01-29 |  |
 | [T.D \(Lil Yachty & Tierra Whack feat\. A$AP Rocky & Tyler, The Creator\)](https://open.spotify.com/track/0gO3E51A3fqp0ypJ26QbVP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 3:52 | 2024-01-29 |  |
 | [Take It From Here](https://open.spotify.com/track/0qpCwx9VYn7yR3d3YdT5Wd) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 6:14 | 2024-01-29 |  |
+| [Take It Off \(Dim The Lights\)](https://open.spotify.com/track/3xyknHSrdlYkvJNpQx2Vsr) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:07 | 2024-02-26 |  |
 | [Take Me Higher](https://open.spotify.com/track/5hLXpILJlmWc1Gn7vYh7ho) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [On Earth, and in Heaven](https://open.spotify.com/album/5xDfo5P0vSP0xIt6toSmGL) | 4:04 | 2024-01-29 |  |
 | [Take Ya Home](https://open.spotify.com/track/6GdX30E1389PWOcayiiPQE) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Doggy Bag](https://open.spotify.com/album/3QYnKegTMFDSwUPE6r17db) | 3:59 | 2024-01-29 |  |
 | [Tamagotchi](https://open.spotify.com/track/7sg9kDT8H2P0wPACXnWRdN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:48 | 2024-01-29 |  |

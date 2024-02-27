@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 175565,
+  "2024-02-27": 175613,
   "date_first_scraped": "2022-04-20",
   "description": "Come alive with this progressive & melodic house selection.",
   "name": "Melodic & Euphoric",
@@ -2176,6 +2176,28 @@
     },
     {
       "album": {
+        "name": "Sunlight (Rodriguez Jr. Remix)",
+        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199897,
+      "name": "Sunlight - Rodriguez Jr. Remix",
+      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
+    },
+    {
+      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -2611,7 +2633,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 232795,
       "name": "Won't Give Up",
       "url": "https://open.spotify.com/track/26jQz1uxGLamG6naDNzjD4"

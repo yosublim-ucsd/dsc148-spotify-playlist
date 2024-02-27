@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,534 likes - 171 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,776 likes - 171 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 55 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
 | 56 | [Ms\. Understood](https://open.spotify.com/track/64bJhLHgoP7NgmD94eOfCt) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw), [WAVZ](https://open.spotify.com/artist/4jGzUiB1DZDpiqHEidOT7t) | [Ms\. Understood](https://open.spotify.com/album/4lk2Pp4BMWQiYNjfeU1ZdQ) | 3:12 |
 | 57 | [Goodbyes](https://open.spotify.com/track/3CoTxjHzLNzuSceVoPly5U) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Goodbyes](https://open.spotify.com/album/4RgU7Z5O3vXfxrqmiJKocf) | 4:09 |
-| 58 | [Hold On Me \- Lavern Remix](https://open.spotify.com/track/4zv2umOrC6X06s2P9bs7iO) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold On Me \(Remixes\)](https://open.spotify.com/album/2j0I3fCFeUI1M4ZCu7z9Ds) | 2:18 |
+| 58 | [Hold On Me \- Lavern Remix](https://open.spotify.com/track/4zv2umOrC6X06s2P9bs7iO) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Lavern](https://open.spotify.com/artist/2cXG38trTMcyGDnwbNpHqZ) | [Hold On Me \(Remixes\)](https://open.spotify.com/album/2j0I3fCFeUI1M4ZCu7z9Ds) | 2:18 |
 | 59 | [Small Sanctuary \- nimino Remix](https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Small Sanctuary \(nimino Remix\)](https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0) | 4:12 |
 | 60 | [forget you](https://open.spotify.com/track/4vi667XVbRUTchDlwk2fA7) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [forget you](https://open.spotify.com/album/5QquIokU1OAyf4HD0EuxsJ) | 2:10 |
 | 61 | [Need 2](https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Need 2](https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0) | 2:05 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 170 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 171 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `MCw4ZWY2YTIyNDc3NTAxNjI4ODU4MzZjY2QzNGQ0NWEzODg4NTYyYTRm`
+Snapshot ID: `MCwwMjg1NjA4NGUyYTYxN2I4ZDI2YTE2YTcwNDhmNzFiNDEyNGJiM2Vi`

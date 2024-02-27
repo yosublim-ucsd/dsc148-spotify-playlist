@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nadhira Suri
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,151 likes - 78 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,215 likes - 78 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 2 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
 | 3 | [Senin](https://open.spotify.com/track/2wzGTjK8OAEuFpSh55XZrM) | [Made Aurellia](https://open.spotify.com/artist/5X5Jcfm3nfIAlpVvQlFbS4) | [Senin](https://open.spotify.com/album/4lAO61MUICjslzQ0kaaMGZ) | 3:30 |
 | 4 | [Two Shades of Blue](https://open.spotify.com/track/1VFut4Vn4njFA03Ce5Ioxs) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue](https://open.spotify.com/album/62K9AMWMpIjUFizRabV117) | 4:28 |
-| 5 | [Glue](https://open.spotify.com/track/5SYd6IN1yVsVXeJLBhDyJw) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Glue](https://open.spotify.com/album/05ladeAY3Vo6yH0eTPUBhR) | 2:52 |
+| 5 | [GLUE](https://open.spotify.com/track/5SYd6IN1yVsVXeJLBhDyJw) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [GLUE](https://open.spotify.com/album/05ladeAY3Vo6yH0eTPUBhR) | 2:52 |
 | 6 | [IZ DA LUV \(SUNSHINE\)](https://open.spotify.com/track/0lfnz0Dtl92msrIP3HbpvQ) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [IZ DA LUV \(SUNSHINE\)](https://open.spotify.com/album/0fenSbyDZmqBb1JFRCGvdD) | 3:42 |
 | 7 | [Lepaskan Beban \(feat\. Riri Chantika\)](https://open.spotify.com/track/50dqXxtHeE4sC2b4CHUEPH) | [SIMALODRA](https://open.spotify.com/artist/2lP3leAVjgokeD8quqctzM), [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Lepaskan Beban](https://open.spotify.com/album/0j71vewoNwJHS5yzFoHoVv) | 2:50 |
 | 8 | [Not Ready Yet](https://open.spotify.com/track/0UDndYXY6lA0l5I619eKYU) | [TRIOUT](https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA) | [Not Ready Yet](https://open.spotify.com/album/7gNUz5fE1W7eWlVR2g0CaM) | 4:04 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 32 | [Ingatan Masa Lalu](https://open.spotify.com/track/4ak4u1CT4k8KlzSWCcxMm0) | [Arabella](https://open.spotify.com/artist/108rTlvjvvuzWKRL47Rtzb) | [Ingatan Masa Lalu](https://open.spotify.com/album/5o22Bsf28Zc8AUbj8LJK3C) | 3:44 |
 | 33 | [TAPAKAN](https://open.spotify.com/track/4N1STigvIKdbmIBCnpVsoL) | [Res Q](https://open.spotify.com/artist/6uQVKGeu003eYRWrCqFHqu) | [TAPAKAN](https://open.spotify.com/album/6I78EYUjBj4yb0eySWJPr5) | 3:28 |
 | 34 | [Kutemani Kau Ada Disana](https://open.spotify.com/track/3GY1r3Gk9NDfotiSwVT4gT) | [Tanah Samudera](https://open.spotify.com/artist/716N8kuRqE1kQZpa3KRE5P) | [Kutemani Kau Ada Disana](https://open.spotify.com/album/0FdtENWiOxpyq21OrLjcvR) | 4:07 |
-| 35 | [Waktu](https://open.spotify.com/track/3l56vp662K3q6glphUa8CN) | [Reyzha](https://open.spotify.com/artist/2Q6yXg5u4pFDF5OCqLMxKw) | [Reyzha](https://open.spotify.com/album/52CFKPFJX8kRtDktzf6Ofb) | 3:55 |
+| 35 | [Waktu](https://open.spotify.com/track/3l56vp662K3q6glphUa8CN) | [Reyzha](https://open.spotify.com/artist/2Q6yXg5u4pFDF5OCqLMxKw) | [Waktu](https://open.spotify.com/album/52CFKPFJX8kRtDktzf6Ofb) | 3:55 |
 | 36 | [Asik sik sik](https://open.spotify.com/track/2oeh8IA1qaxYx8A4UsNLoM) | [PORIS](https://open.spotify.com/artist/6oW4eaSyUiBItGKBghBSTe), [Wicigo Shawty](https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx), [Sexy Goath](https://open.spotify.com/artist/3W5jBEPEo6sAcvVOyL9RnY) | [Asik sik sik](https://open.spotify.com/album/6XOKVRvgZNkG9jjDzmQBEF) | 2:22 |
 | 37 | [Kala](https://open.spotify.com/track/5qZaUXReflJ1xBAVoCkCNH) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [432](https://open.spotify.com/album/3Y8arCliQxNDeECDJWFM8M) | 3:42 |
 | 38 | [Jalur Sederhana](https://open.spotify.com/track/51E3gEbBKHzXNKNePh2OxL) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jalur Sederhana](https://open.spotify.com/album/6nDD5YC6D13gJ1SSalUiJC) | 3:34 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Ice & Fire](https://open.spotify.com/track/672Y7jhCxTAk3vKe54jXBi) | [Maliq Adam](https://open.spotify.com/artist/2zvxf23vbqa8NaJlqY2st9) | [Ice & Fire](https://open.spotify.com/album/1ojxBG6nygWoFH51xxDQfv) | 3:11 |
 | 78 | [Tertipu Lagi](https://open.spotify.com/track/7MGdfibu9nL01I0VyOuBLG) | [Kasir](https://open.spotify.com/artist/0cAxFJLU6ONNLDgJyD6j1N) | [Tertipu Lagi](https://open.spotify.com/album/75hmfVZINdjKj8yVLvFx9o) | 4:23 |
 
-Snapshot ID: `MCw1MmQwMWYyYzlkZGQ1MTcyYjczMjBkYjA5OTU4Nzk4MGZjNTgzZjk1`
+Snapshot ID: `MCxmOGQ0ZDFmNTJiMzJmOThlMTRiMDMxNjY4MzM0Yjc0YzQ5Y2Q4ZDcw`

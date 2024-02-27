@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-132 songs - 6 hr 37 min
+133 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Cztery Pory Roku](https://open.spotify.com/track/1Ie1oqzSIc7YVOG0Pa6qAI) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [CHOC](https://open.spotify.com/album/3Zaf7f6IaqIBUKufLFuwRb) | 3:05 | 2022-09-23 | 2023-03-14 |
 | [Diament](https://open.spotify.com/track/4snpPHFGYvqvAywbtGTk61) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Diament](https://open.spotify.com/album/0hcPWow9eAkb1iUxhj65aQ) | 3:08 | 2023-09-01 |  |
 | [Dinozaury](https://open.spotify.com/track/5XAFPMqtAlO4uKKAwgdw7z) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:44 | 2022-08-26 |  |
-| [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 |  |
+| [Diss Na Miłość](https://open.spotify.com/track/0m8NvsR8kHzXSrHPyxaXc2) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/4QtxlIxlyH5czaqJyayPwM) | 1:52 | 2024-02-02 |  |
+| [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 | 2024-02-27 |
 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 |  |
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 | 2023-11-10 |  |

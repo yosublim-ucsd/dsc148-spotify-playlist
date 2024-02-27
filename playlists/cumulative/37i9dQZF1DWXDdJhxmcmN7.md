@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-138 songs - 5 hr 31 min
+139 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amorcito corazón lofi](https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Amorcito corazón lofi](https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y) | 1:49 | 2023-09-04 |  |
 | [Areca](https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR) | 1:59 | 2023-05-05 | 2024-01-12 |
 | [Areca](https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks) | 1:59 | 2023-12-22 |  |
-| [At The Park](https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [At The Park](https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G) | 2:02 | 2023-11-24 |  |
+| [At The Park](https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [At The Park](https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G) | 2:02 | 2023-11-24 | 2024-02-27 |
 | [Ay Cabrón](https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Ay Cabrón](https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9) | 1:37 | 2023-10-09 |  |
 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 | 2023-05-05 |  |
 | [being honest](https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [being honest](https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n) | 2:43 | 2023-12-22 |  |
@@ -128,6 +128,7 @@
 | [Sayulita Vibes](https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Sayulita Vibes](https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz) | 1:58 | 2023-05-05 |  |
 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 | 2023-05-05 |  |
 | [simbiosis](https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK) | 3:36 | 2023-05-05 | 2024-02-23 |
+| [sol](https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms) | 1:59 | 2024-02-02 |  |
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-05-05 | 2024-02-23 |
 | [Stellar Explorer](https://open.spotify.com/track/0DokpRqlN4t9zbLiYDWKei) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [Cosmic Solitude](https://open.spotify.com/album/1Kk2IqjOcR77jrGr2J1ThX) | 2:01 | 2024-02-02 |  |
 | [Summer Purr](https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK) | [Kissa Kat](https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL) | [Summer Purr](https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd) | 2:36 | 2024-02-02 |  |

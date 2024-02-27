@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Muerejoven en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,624 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,653 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TODOMAL](https://open.spotify.com/track/0oMe5gc2xivlK9w6Ndth1l) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [TODOMAL](https://open.spotify.com/album/5rw89PPLx8jwrynGPo6SuO) | 2:20 |
-| 2 | [Un Hijo Mio](https://open.spotify.com/track/0qzCeecDTX38EOr0gM6pMt) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Un Hijo Mio](https://open.spotify.com/album/4KQWT1IApkEOG0eFXHONNX) | 3:42 |
-| 3 | [PING PONG](https://open.spotify.com/track/7z6D5C73DRMOp76BnNfKaa) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [LA RECETA DEL FLOW](https://open.spotify.com/album/5JuAmZktmDauKMWAUpYR88) | 2:29 |
-| 4 | [mi último peso](https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [mi último peso](https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT) | 2:20 |
+| 2 | [mi último peso](https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [mi último peso](https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT) | 2:20 |
+| 3 | [Un Hijo Mio](https://open.spotify.com/track/0qzCeecDTX38EOr0gM6pMt) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Un Hijo Mio](https://open.spotify.com/album/4KQWT1IApkEOG0eFXHONNX) | 3:42 |
+| 4 | [PING PONG](https://open.spotify.com/track/7z6D5C73DRMOp76BnNfKaa) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [LA RECETA DEL FLOW](https://open.spotify.com/album/5JuAmZktmDauKMWAUpYR88) | 2:29 |
 | 5 | [El Amanecer](https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:17 |
 | 6 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 |
 | 7 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [Si lo ve Mamá](https://open.spotify.com/track/6ysA09ikVJH2DmnYy3IGSt) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [Si lo ve Mamá](https://open.spotify.com/album/5r1OzQUcHzgjkHeDFr4pwb) | 2:13 |
 | 100 | [Pro Player](https://open.spotify.com/track/3WJnf9Xe51wEmCPzrYFihE) | [R Climent](https://open.spotify.com/artist/7qNTiLJpuCUFJ8G7Jf5fzP), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Pro Player](https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL) | 3:09 |
 
-Snapshot ID: `MCxhOTcwOTAzNWQxODYwYTU3OGIwOTU3MmU2NzY4YzFiZDFiZTM4Yzc5`
+Snapshot ID: `MCwxYzlmYzZhODIwMDkzMmY5YWRhOWY5ZTNkNDYyNDhkM2JkYWY0MTM3`

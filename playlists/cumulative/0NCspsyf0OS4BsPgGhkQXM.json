@@ -4019,6 +4019,28 @@
     },
     {
       "album": {
+        "name": "cry",
+        "url": "https://open.spotify.com/album/1ZlMjs8vlEf19g3APSF892"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131520,
+      "name": "cry",
+      "url": "https://open.spotify.com/track/5pQYJXn5R1vFH7dWQjCYQl"
+    },
+    {
+      "album": {
         "name": "D E A T H METAL RAGE",
         "url": "https://open.spotify.com/album/1DI6dxxuE5EaKX1hqG5HVv"
       },

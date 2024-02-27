@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,127 likes - 142 songs - 7 hr 56 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,125 likes - 142 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 27 | [Off My Mind](https://open.spotify.com/track/3ZMyoWRZaOvkQumW2IItrB) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Off My Mind](https://open.spotify.com/album/5wMDyxxSgNAUt4y9USwRmx) | 3:15 |
 | 28 | [MR FREEMAN](https://open.spotify.com/track/6pPFLUbmEIPofWF5ATgCgP) | [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [MR FREEMAN](https://open.spotify.com/album/1FcfTg7r7HCmo705TDjqBa) | 3:25 |
 | 29 | [5am](https://open.spotify.com/track/30YPuv3OTF7XzAeLt07WS9) | [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [5am](https://open.spotify.com/album/1pHtHpjyNOmVogfzX35T0D) | 1:52 |
-| 30 | [NOBODY BUT U](https://open.spotify.com/track/5eh4Bu5fySNqNdyfNbilo9) | [TRYPBOX](https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj) | [NOBODY BUT U](https://open.spotify.com/album/1s7K1XMUlTQeiSjJvo2yGm) | 2:38 |
+| 30 | [NOBODY BUT U](https://open.spotify.com/track/5eh4Bu5fySNqNdyfNbilo9) | [TRYPBOX](https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [NOBODY BUT U](https://open.spotify.com/album/1s7K1XMUlTQeiSjJvo2yGm) | 2:38 |
 | 31 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 |
 | 32 | [Get To Me](https://open.spotify.com/track/5VvldWzela6drTGzTKIXK8) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Get To Me](https://open.spotify.com/album/5BiAjFDptuMrNIfLCTfCWO) | 4:05 |
 | 33 | [Deep Water \(feat\. EVAN GIIA\)](https://open.spotify.com/track/5wHQcpGwuVdpHFwESBeW2w) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Deep Water \(feat\. EVAN GIIA\)](https://open.spotify.com/album/0cPAAQbvY34RUjf5J0uFec) | 3:03 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 129 | [Jump](https://open.spotify.com/track/0sAnywC5mr6QIkFwXCjXUn) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Seth David](https://open.spotify.com/artist/1wfOprPxy1C22S9zV8tK3b) | [Jump](https://open.spotify.com/album/0wWQewvembG8AjKo4dNJIF) | 3:18 |
 | 130 | [Here With Me](https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Here With Me](https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC) | 3:13 |
 | 131 | [Panic Attack](https://open.spotify.com/track/6JbOql3mVJ8SXA7Ecsj0Eo) | [VNDETTA](https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5) | [Panic Attack](https://open.spotify.com/album/1N5crxyPsGpusYfywloPT6) | 2:26 |
-| 132 | [Your Eyes](https://open.spotify.com/track/1Rr7e4iNxc8akfF0GU9j2o) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Amethyst](https://open.spotify.com/artist/6tSXtbu2OLjz4nNjJzELsS) | [Your Eyes / Solace](https://open.spotify.com/album/1XzHzqKDP2TNkpQcQlQOvZ) | 3:00 |
+| 132 | [Your Eyes](https://open.spotify.com/track/1Rr7e4iNxc8akfF0GU9j2o) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Amethyst](https://open.spotify.com/artist/3t3cVtcvwZIcBvIKGH2nP2) | [Your Eyes / Solace](https://open.spotify.com/album/1XzHzqKDP2TNkpQcQlQOvZ) | 3:00 |
 | 133 | [Far Horizons](https://open.spotify.com/track/4F9nM1DNgZlqmGvULVV79N) | [MLOTIK](https://open.spotify.com/artist/0r0FwbCK1EmONx8t3YoT2B) | [Far Horizons](https://open.spotify.com/album/4b4x4Jvkpfg0gyb3TL9TND) | 3:24 |
 | 134 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
 | 135 | [Suneater](https://open.spotify.com/track/5OKgyFJL7AJPQ63WumJaqa) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Suneater](https://open.spotify.com/album/1NtTt4MaMKOPA1Xofr3o9Q) | 3:14 |

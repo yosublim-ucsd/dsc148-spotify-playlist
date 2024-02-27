@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,736 likes - 94 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,868 likes - 94 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 8 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 |
 | 9 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 10 | [should've wore a bonnet](https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:06 |
-| 11 | [Mister Misfit but Aint Missed a Fit in Months](https://open.spotify.com/track/3LpIKVn5vVhuZZpPCx8Poi) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Mister Misfit but Aint Missed a Fit in Months](https://open.spotify.com/album/2vV4XBHoshk4djb6z7ZNc1) | 2:34 |
+| 11 | [mister misfit but aint missed a fit in months](https://open.spotify.com/track/3LpIKVn5vVhuZZpPCx8Poi) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [mister misfit but aint missed a fit in months](https://open.spotify.com/album/2vV4XBHoshk4djb6z7ZNc1) | 2:34 |
 | 12 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 | 13 | [Something Ether](https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 2:11 |
 | 14 | [Himothy](https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Himothy](https://open.spotify.com/album/0cumUqYme4Am4PnlsHbBUl) | 2:39 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 93 | [﻿Blood Splatter](https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [﻿Blood Splatter](https://open.spotify.com/album/2Eshb0J0Fqojqu8msgOE6x) | 2:31 |
 | 94 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 |
 
-Snapshot ID: `MCxhZmQyMmE0M2Q4ZjMxOWYyMzU1NjRmNjc1NWZjMDYxODBkMTM5ZDZl`
+Snapshot ID: `MCw3YmZkMjM3MDU5MjQ1OWFkODY3MWFmY2E3ZDhjMjQyNTEzNDRjNGUx`

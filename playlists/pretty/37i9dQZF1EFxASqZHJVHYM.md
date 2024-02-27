@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,205 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 95 | [18K \(feat\. Juicy J\)](https://open.spotify.com/track/6AccToiKhDvl8AH0gRJSlt) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Jesus Said Run It Back](https://open.spotify.com/album/5re3HEZOWB9F7QaHnKOgvA) | 3:01 |
 | 96 | [NO RAP KAP \(feat\. Trippie Redd\)](https://open.spotify.com/track/2sIottAN4ZxxxlaZAh0oxR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [NO RAP KAP \(feat\. Trippie Redd\)](https://open.spotify.com/album/1FCEeTgrrUizTXaNhpHNuC) | 3:35 |
 | 97 | [preach](https://open.spotify.com/track/3Ii0BOEdzFjnmSkEmoAY9g) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 2:36 |
-| 98 | [Whippin' It Up \(feat\. Lil Dicky\)](https://open.spotify.com/track/6p24ODEmUhxCPblHgoZZ25) | [Brain](https://open.spotify.com/artist/6g0Xatzg8vlchoEe21LoeH), [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [I'm Brain](https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS) | 3:16 |
-| 99 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
+| 98 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
+| 99 | [Whippin' It Up \(feat\. Lil Dicky\)](https://open.spotify.com/track/6p24ODEmUhxCPblHgoZZ25) | [Brain](https://open.spotify.com/artist/6g0Xatzg8vlchoEe21LoeH), [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [I'm Brain](https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS) | 3:16 |
 | 100 | [Wrist Motion \(feat\. 458 Keyz & Cris Dinero\)](https://open.spotify.com/track/7rFdmkJd5RAEO8g3fMzykb) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [458 Keyz](https://open.spotify.com/artist/0xfAmskhB3i5wX3pRpHbkD), [Cris Dinero](https://open.spotify.com/artist/43DjZHwU6QHD1TVxA9JWfN) | [Boy Who Cried Wolf](https://open.spotify.com/album/6jJ98MlrNGUt0FFkPHS0EA) | 2:52 |
 | 101 | [Tough Love](https://open.spotify.com/track/4TGLRG5aA6iP2ndWN627S6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:22 |
 | 102 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 109 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 110 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `Mjg0ODE4OTAsMDAwMDAwMDA1NzI1NGQyNDM2ZDVlMDc1NGRjNzUyNjYzMGJlMjM1Ng==`
+Snapshot ID: `Mjg0ODMzMzAsMDAwMDAwMDA0YzhlMDAxZmQ3NTVjMGVkNjliZDY3YTY2YjE5ZDQyOA==`

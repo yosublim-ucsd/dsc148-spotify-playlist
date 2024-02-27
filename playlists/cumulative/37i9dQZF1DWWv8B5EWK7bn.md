@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-371 songs - 1 day 2 hr 30 min
+372 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Underwater](https://open.spotify.com/track/0bHFwdJ7C8tYDVxh6t3GBn) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 6:45 | 2022-05-24 | 2022-07-29 |
 | [Underwater](https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 6:45 | 2022-05-24 | 2023-06-29 |
 | [Underwater](https://open.spotify.com/track/76FqNXv4mY8xhkEyylm1gL) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/4jeSJc6vev3IZbIaVAvR0w) | 6:45 | 2022-05-24 | 2022-08-11 |
-| [Une Autre Attente](https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/3txRsK90V4IwObiif90nJx) | 2:42 | 2023-11-13 |  |
+| [Une Autre Attente](https://open.spotify.com/track/10vruMfK3SbOCmsN2D2Xaw) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Rooting for Love](https://open.spotify.com/album/6SKoKeVgYWSsPAmmcDhx7J) | 2:42 | 2023-11-13 |  |
+| [Une Autre Attente](https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx) | [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Une Autre Attente](https://open.spotify.com/album/3txRsK90V4IwObiif90nJx) | 2:42 | 2023-11-13 | 2024-02-27 |
 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 | 2022-08-31 | 2023-05-27 |
 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 | 2022-04-25 | 2022-06-23 |
 | [Unpeopled Space](https://open.spotify.com/track/13WPG61eqdPbhpHnVlH3lF) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Unpeopled Space](https://open.spotify.com/album/3FiB7G1JTyvqS4XHp7dCtc) | 6:09 | 2022-02-25 | 2023-01-21 |

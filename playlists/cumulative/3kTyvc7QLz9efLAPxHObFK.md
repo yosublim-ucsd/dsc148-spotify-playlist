@@ -4,7 +4,7 @@
 
 > 
 
-1,150 songs - 2 day 16 hr 25 min
+1,151 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/track/2CsxWxjpqmZNWR92w2eS0a) | [Mr\. Glass](https://open.spotify.com/artist/0nPct0D3UUbek6rrrcFrva) | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip) | 2:51 | 2024-01-25 |  |
 | [Just For You \- Inverse & Evolution Remix](https://open.spotify.com/track/0UnpuVk5vN4Os2pv90skRN) | [Himbo](https://open.spotify.com/artist/48O7KkVmhtdYm0sc6ID2MQ), [MC Enemy](https://open.spotify.com/artist/6EitfYQtoUGXKGCxdKyuZw) | [Hardcore Addiction 2](https://open.spotify.com/album/2fUl1dd4EuuxBVCeRxzPeF) | 2:28 | 2022-12-19 |  |
 | [Kalika](https://open.spotify.com/track/1hYAZUnTmKyAqzZaivjlB8) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Aksys](https://open.spotify.com/artist/2WkAW4OVlB8a8Lg7Ih0vlq) | [Various Artists 02](https://open.spotify.com/album/4m7nL9bkk7drsHbBbnoGsb) | 4:51 | 2023-04-21 |  |
+| [KCKPRN](https://open.spotify.com/track/7FrV6yX49s94lvvM0Biysg) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [KCKPRN](https://open.spotify.com/album/5R2UErVCGjqlKTcMKHzUu0) | 2:13 | 2024-02-26 |  |
 | [KEEP GOING](https://open.spotify.com/track/58sLQwZecL4PQDN930s39x) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn), [Drokz](https://open.spotify.com/artist/2RoJa2qF4fdyhBkVcl5pNi) | [KEEP GOING](https://open.spotify.com/album/55vhkQc4kTC0VsKEqmrMOl) | 3:34 | 2023-06-30 |  |
 | [Keep It Real](https://open.spotify.com/track/1IzVZvcklnLT97BXN3BeMY) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85), [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Keep It Real](https://open.spotify.com/album/6L1ccznoTR8EMmLfpCRBm6) | 2:49 | 2023-03-02 |  |
 | [Keep Moving](https://open.spotify.com/track/6GL5oBECURN2CJaifO6TQG) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [Keep Moving](https://open.spotify.com/album/4qLYcEQOaLEli4gNlHTkUe) | 3:06 | 2022-08-01 |  |

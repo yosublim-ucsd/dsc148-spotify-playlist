@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 20127,
+  "num_followers": 20125,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -570,6 +570,10 @@
         {
           "name": "TRYPBOX",
           "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
+        },
+        {
+          "name": "Paige Eliza",
+          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
         }
       ],
       "duration_ms": 158500,
@@ -2489,7 +2493,7 @@
         },
         {
           "name": "Amethyst",
-          "url": "https://open.spotify.com/artist/6tSXtbu2OLjz4nNjJzELsS"
+          "url": "https://open.spotify.com/artist/3t3cVtcvwZIcBvIKGH2nP2"
         }
       ],
       "duration_ms": 180697,

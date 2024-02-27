@@ -2259,25 +2259,7 @@
     },
     {
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "date_added": "2022-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
-    },
-    {
-      "album": {
-        "name": "moon\uff08feat. Sara Wakui\uff09",
+        "name": "moon",
         "url": "https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf"
       },
       "artists": [
@@ -2294,8 +2276,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 382224,
-      "name": "moon\uff08feat. Sara Wakui\uff09",
+      "name": "moon",
       "url": "https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "album": {

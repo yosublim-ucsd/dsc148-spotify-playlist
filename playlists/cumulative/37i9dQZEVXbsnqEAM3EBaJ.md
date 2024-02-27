@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,197 songs - 3 day 11 hr 41 min
+1,198 songs - 3 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,7 +832,7 @@
 | [Road to Joy \- Dark\-Side Mix](https://open.spotify.com/track/5shufS22VMBx9aLWZcZevM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Road to Joy \(Dark\-Side Mix\)](https://open.spotify.com/album/6Tjo4vkV0iZPsWYSex8WIK) | 5:24 | 2023-06-23 | 2023-07-08 |
 | [Rock Bottom \- Live](https://open.spotify.com/track/4fLGVRfXjCmJ6Yoiy4NUrL) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Werewolves of London \(Live\)](https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g) | 11:36 | 2023-03-03 | 2023-03-10 |
 | [Rock Bottom \- Live 1993](https://open.spotify.com/track/50V5bDewypUvgDSPfRz5JG) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Lights Out In Babenhausen \- Live 1993](https://open.spotify.com/album/3g7OdGValzoYKgVTbXH0bF) | 9:35 | 2023-10-13 | 2023-10-21 |
-| [Rock Bottom \- Live in Cincinnati, 1995](https://open.spotify.com/track/6i6rKOIFyjICxufDfEYYMn) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Rock Bottom In Cincinnati 1995 \(Live In Cincinnati, 1995\)](https://open.spotify.com/album/43qbDgAEajocqwWRqXXN5S) | 10:26 | 2024-02-23 |  |
+| [Rock Bottom \- Live in Cincinnati, 1995](https://open.spotify.com/track/6i6rKOIFyjICxufDfEYYMn) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Rock Bottom In Cincinnati 1995 \(Live In Cincinnati, 1995\)](https://open.spotify.com/album/43qbDgAEajocqwWRqXXN5S) | 10:26 | 2024-02-23 | 2024-02-27 |
 | [Roman Candles \- Acoustic](https://open.spotify.com/track/4RL12QBrlL78QCPdNvL5SR) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows \(Acoustic\)](https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK) | 2:13 | 2023-03-24 | 2023-04-01 |
 | [Romeo end Juliet, Fantasy Overture: X](https://open.spotify.com/track/0zDmGu4KZJy21f8NJp67TK) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Nuremberg Symphony Orchestra](https://open.spotify.com/artist/0PQnsTU4RL8NHZmtDJ6lFg), [Christian Lindberg](https://open.spotify.com/artist/2gQKtXD5BZqKT8Tl9JfFcy) | [Tchaikovsky: Romeo and Juliet](https://open.spotify.com/album/4Y5nLBzrgqH7U4bMQIt7XC) | 1:01 | 2023-08-11 | 2023-08-19 |
 | [Rosa Jaguar](https://open.spotify.com/track/2Di3e6XoC6LOZ1bP0vcJlT) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Rosa Jaguar](https://open.spotify.com/album/4AVYqLbOTTkUFEesXGcxJ8) | 3:03 | 2023-08-25 | 2023-09-17 |
@@ -1069,6 +1069,7 @@
 | [Too Far Gone? \- Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023](https://open.spotify.com/track/50T5tj2DdZ0yajhBrSESve) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Too Far Gone? \(Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023\)](https://open.spotify.com/album/7vr0BCGwcB5BNuEWwISAO1) | 4:48 | 2023-09-15 | 2023-09-30 |
 | [Too Hot To Handle \- Live](https://open.spotify.com/track/6oWLyJUheP4wzEmsRXzqeK) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [One Night \- Lights Out 77](https://open.spotify.com/album/6dIZJgSYYQhf2G6CrqAF27) | 3:52 | 2023-10-13 | 2023-10-18 |
 | [Too Hot To Handle \- Live](https://open.spotify.com/track/2rlffrDQJR9K2zPsAWGQ47) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Lights Out Chicago 1980 \(Live\)](https://open.spotify.com/album/3vjRpY5cqVx27EpetHfr53) | 4:49 | 2023-10-27 | 2023-11-04 |
+| [Too Hot To Handle \- Live in Cincinnati, 1995](https://open.spotify.com/track/54f7pPX7KIFp33iVLuQdHs) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Rock Bottom In Cincinnati 1995 \(Live In Cincinnati, 1995\)](https://open.spotify.com/album/43qbDgAEajocqwWRqXXN5S) | 3:45 | 2024-02-23 |  |
 | [Too Hot To Handle \- Live Tokyo 1994](https://open.spotify.com/track/0ZXx8SksZJyA0YGR6IFmvZ) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Too Hot in Tokyo 1994 \(Live\)](https://open.spotify.com/album/2X1oRqhUQ8a907oi3iY6mN) | 4:29 | 2023-11-03 | 2023-11-27 |
 | [Too Late \- Live 1986](https://open.spotify.com/track/3Zb1ij7HDCTj2oZ2kwzrNv) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Outland \(Live 1986\)](https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR) | 4:47 | 2023-05-26 | 2023-06-02 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-24 | 2023-03-26 |

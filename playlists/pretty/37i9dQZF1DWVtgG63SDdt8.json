@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music.  Cover: <a href=\"spotify:artist:4c6lhwoOrmgNWvl0GxHlW1\">Tedashii</a> ",
-  "num_followers": 324839,
+  "num_followers": 324850,
   "original_name": "New Music Friday Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2ZlNzMyNzZlYTE4NWQxMjNhMGJmZWIwM2EzNWI4MmQzZGFmMjg0",
+  "snapshot_id": "MCw4ZDgxOGVhNWZjOGM2ZDA1MzNjZmFjYzM0OWQxOWJlZThkYTZmODNk",
   "tracks": [
     {
       "added_at": "2024-02-23 11:15:05",
@@ -494,6 +494,10 @@
         {
           "name": "The Porter's Gate",
           "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Emoni Wilkins",
+          "url": "https://open.spotify.com/artist/5SGi9yykBsq5MH6l3S31rT"
         }
       ],
       "duration_ms": 150000,
@@ -771,7 +775,7 @@
     {
       "added_at": "2024-02-23 11:15:05",
       "album": {
-        "name": "Always On The Way (Studio)",
+        "name": "Always On The Way",
         "url": "https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW"
       },
       "artists": [
@@ -781,7 +785,7 @@
         }
       ],
       "duration_ms": 268200,
-      "name": "Always On The Way - Studio",
+      "name": "Always On The Way",
       "url": "https://open.spotify.com/track/2GkGPEOHRHO92c88Ttg7XB"
     },
     {

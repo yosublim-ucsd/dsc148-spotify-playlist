@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Aidan Bissett
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,922 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,943 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Youniverse](https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Youniverse](https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz) | 2:40 |
 | 100 | [Losing You](https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Losing You](https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ) | 2:42 |
 
-Snapshot ID: `MCxjMTM0NmE4MGViODg1M2EwNzgzODE0ZDY1ZGNkMzExM2QxNzZiZmNm`
+Snapshot ID: `MCw0YWFlMDczNDgzNTRlMjMxOTc0ZWFiODVlODAyMmU2MzE1NzY2MTNl`

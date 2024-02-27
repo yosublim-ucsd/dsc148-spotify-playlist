@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,425 likes - 111 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,437 likes - 111 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 63 | [The curse of the Spider](https://open.spotify.com/track/2j8m29w5AzF9P6b0sYI6H4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:10 |
 | 64 | [Silent Night](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:18 |
 | 65 | [Polaris](https://open.spotify.com/track/0jvspYsOFlIqHzdN6ZYjcJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:53 |
-| 66 | [Piri \~ Fue wo Fuke \~ \- Japanese Ver.](https://open.spotify.com/track/4EmKUn4A6Bnq0QWepjCknK) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:28 |
-| 67 | [Good Night \- Japanese Ver.](https://open.spotify.com/track/2RbvTZo49bidUJhRmG8ZtQ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 2:58 |
-| 68 | [Wonderland \- Japanese Ver.](https://open.spotify.com/track/3kxBe92NOw3FnVfvLcHnRh) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:13 |
+| 66 | [Piri ～ Fue wo Fuke ～ \- Japanese Ver.](https://open.spotify.com/track/4EmKUn4A6Bnq0QWepjCknK) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri ～ Fue wo Fuke ～ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:28 |
+| 67 | [Good Night \- Japanese Ver.](https://open.spotify.com/track/2RbvTZo49bidUJhRmG8ZtQ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri ～ Fue wo Fuke ～ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 2:58 |
+| 68 | [Wonderland \- Japanese Ver.](https://open.spotify.com/track/3kxBe92NOw3FnVfvLcHnRh) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri ～ Fue wo Fuke ～ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:13 |
 | 69 | [Intro](https://open.spotify.com/track/2U2fd8W8mApZsWtCFIYR3Z) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 1:06 |
 | 70 | [PIRI](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:26 |
 | 71 | [Diamond](https://open.spotify.com/track/1QvO3e8hAARNbCQUZ3prPL) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:21 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 110 | [Chase Me](https://open.spotify.com/track/0DctgOJ5qpE3bMCTfwwi2d) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:09 |
 | 111 | [Emotion](https://open.spotify.com/track/2CIvNK8ErkogYbGrOi2FhE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:43 |
 
-Snapshot ID: `MCw5YWRhNjg0YzdjMDRkMTg1ZGQ2ZGQ3ZTg5ZTQ2YTZmZjM3NTFhMDYz`
+Snapshot ID: `MCxiMzcyMzA0MDhlN2JiMTFmNTYxNjM0OWYwNzY2Njg5YWIxYzUzNzJk`

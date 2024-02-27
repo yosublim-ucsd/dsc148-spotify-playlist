@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: SZA
 
-3,095 songs - 6 day 22 hr 54 min
+3,096 songs - 6 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3078,7 +3078,8 @@
 | [You Make Me Sick](https://open.spotify.com/track/1AqJW1a6qeMD12GcuFUqms) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [You Make Me Sick](https://open.spotify.com/album/4Ex7cKdSDT9wqgraTaWysN) | 3:07 | 2023-10-19 | 2023-10-27 |
 | [You Need Jesus](https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [You Need Jesus](https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG) | 2:14 | 2023-06-29 | 2023-07-07 |
 | [You Nice](https://open.spotify.com/track/1m72s5AsmYdgofTN3cHtYC) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [You Nice](https://open.spotify.com/album/2RQYc38nSd1GeGc4xRrPNB) | 3:39 | 2023-11-23 | 2023-12-01 |
-| [You Should Run](https://open.spotify.com/track/77IqChB6QtRts2AYuAZwjE) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [You Should Run](https://open.spotify.com/album/2BrcCrV3RBCVFu5k00jVvH) | 4:02 | 2024-02-22 |  |
+| [You Should Run](https://open.spotify.com/track/77IqChB6QtRts2AYuAZwjE) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [You Should Run](https://open.spotify.com/album/2BrcCrV3RBCVFu5k00jVvH) | 4:02 | 2024-02-22 | 2024-02-27 |
+| [You Should Run](https://open.spotify.com/track/1ag5ta4sPfcGiweZ2TlEt9) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [You Should Run](https://open.spotify.com/album/2YgO7cUK0Oa4cgKagnyKDw) | 4:02 | 2024-02-22 |  |
 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 | 2023-08-31 | 2023-09-08 |
 | [You'll Never Know Me Sober](https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [You'll Never Know Me Sober](https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U) | 3:13 | 2023-07-27 | 2023-08-04 |
 | [You're Gonna Be A Daddy](https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [You At The Top Of The Driveway/You're Gonna Be A Daddy](https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr) | 3:39 | 2023-08-17 | 2023-08-25 |

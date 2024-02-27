@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,398 likes - 133 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,561 likes - 133 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 9 | [Bloood](https://open.spotify.com/track/5HlE7Smxfh3hUZwbAfWNpc) | [nothanks](https://open.spotify.com/artist/5pyw44qmgQLHns7uf9WuzM) | [Bloood](https://open.spotify.com/album/4PAJVFyXCZkDBaj53NCVlw) | 2:36 |
 | 10 | [Afterhours](https://open.spotify.com/track/53FDaPNsBeM3G7U2wsML7V) | [Distoboy](https://open.spotify.com/artist/5zSSGSjrk520cIm34tIVl9) | [Afterhours](https://open.spotify.com/album/5nADnmAxQlymDe79TktjB0) | 2:10 |
 | 11 | [Slide Into Position](https://open.spotify.com/track/6oyYsLP4VAcppKWZFYxK6S) | [Flx Jayson](https://open.spotify.com/artist/0pMictTR50Jxx9el1IKuWL) | [Slide Into Position](https://open.spotify.com/album/0D6nTnrF5q6diptnY7ladk) | 2:37 |
-| 12 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 |
-| 13 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 |
-| 14 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
-| 15 | [Good Intentions](https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Good Intentions](https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM) | 1:37 |
-| 16 | [C'mon Weekend](https://open.spotify.com/track/7cf6li4brJt4xLVcIqsxz7) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [C'mon Weekend](https://open.spotify.com/album/7diBvC1aQ1GYLfXOOsehHQ) | 2:46 |
-| 17 | [Summertide](https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Summertide](https://open.spotify.com/album/7vwqJPB3GrViym4oP1EEUm) | 2:30 |
-| 18 | [Terrace](https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5) | [Peyote](https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr) | [Terrace](https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok) | 1:57 |
-| 19 | [Rehine](https://open.spotify.com/track/7BlplQLNLNmMKQzCggEsl9) | [Enjoy Banker](https://open.spotify.com/artist/5Vr0qKd6KNRHtQCyZn4NR9) | [Rehine](https://open.spotify.com/album/0f8zi8ZZc17zxNzWDFtRKE) | 2:22 |
-| 20 | [Sunset Blvd](https://open.spotify.com/track/21g3eJhX32ovGJNbYUhN8K) | [Amber Tones](https://open.spotify.com/artist/4YoPOnNyqEMmqU518n8G81) | [Sunset Blvd](https://open.spotify.com/album/3xhBGjHlYPcvtTLpHyMtg5) | 1:58 |
+| 12 | [Iconic](https://open.spotify.com/track/6mxI6aOzik55H23TKnBbzv) | [Monic](https://open.spotify.com/artist/2dGAYuA2ivFR4BDhbQSIXv) | [Iconic](https://open.spotify.com/album/6LqVXBp6RwTJC9drUmnJZp) | 2:04 |
+| 13 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 |
+| 14 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 |
+| 15 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 |
+| 16 | [FlipFlops](https://open.spotify.com/track/4wWmPTZQR4ubOgHqLrNaFE) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [FlipFlops](https://open.spotify.com/album/73r7qmEurZt1wVjjtByfAe) | 2:22 |
+| 17 | [C'mon Weekend](https://open.spotify.com/track/7cf6li4brJt4xLVcIqsxz7) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [C'mon Weekend](https://open.spotify.com/album/7diBvC1aQ1GYLfXOOsehHQ) | 2:46 |
+| 18 | [Summertide](https://open.spotify.com/track/0PvtqPA5hhMktJGxZzCWJD) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Summertide](https://open.spotify.com/album/7vwqJPB3GrViym4oP1EEUm) | 2:30 |
+| 19 | [Mountain High](https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Mountain High](https://open.spotify.com/album/6CQfHfGvHqlPjugeC5yVgE) | 2:39 |
+| 20 | [Rehine](https://open.spotify.com/track/7BlplQLNLNmMKQzCggEsl9) | [Enjoy Banker](https://open.spotify.com/artist/5Vr0qKd6KNRHtQCyZn4NR9) | [Rehine](https://open.spotify.com/album/0f8zi8ZZc17zxNzWDFtRKE) | 2:22 |
 | 21 | [Echoes of Eden](https://open.spotify.com/track/2ZFntU1PuOyVKvggLHR4zJ) | [Lucifer Boko](https://open.spotify.com/artist/4FoVsjrP1lkTLlRw8uSGF2) | [Echoes of Eden](https://open.spotify.com/album/0VNrq14IGM6EBW4bDh67C9) | 2:28 |
 | 22 | [Sense of space](https://open.spotify.com/track/63Hmij2UQ8aYdrqfIFUE36) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Sense of space](https://open.spotify.com/album/6FSlJy1FFldk7uapUgi99q) | 3:32 |
 | 23 | [Across The Field](https://open.spotify.com/track/5Ipc2VodpNZt8jjzsAaMV0) | [Naomi Boko](https://open.spotify.com/artist/521F98uOmVHc1AxKCKr9zo) | [Across The Field](https://open.spotify.com/album/3hVJnFWeQ6GiMc3W210KJu) | 2:51 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 132 | [Aurora](https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Aurora](https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM) | 4:34 |
 | 133 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
 
-Snapshot ID: `MCxmNTA2NzEyMjhhMDkwZDFlNDc4OGQyMzJlMzk0YjgxNDBkNjFiOTJj`
+Snapshot ID: `MCxjMWQ1Mzk3Y2YxNDAwNzZmM2E4NzQ3YWI3MjYzZDgyMWJhZTdkNTQx`

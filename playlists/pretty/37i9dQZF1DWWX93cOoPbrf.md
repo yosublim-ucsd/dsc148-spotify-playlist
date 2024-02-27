@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Los Gemelos de Sinaloa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,076 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,243 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 30 | [Yo soy Gallo](https://open.spotify.com/track/4pZwvYTjHKvDGRr8giavD8) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Corridos Makabroz](https://open.spotify.com/album/5brpkBl857UcX7DX8L9oZQ) | 3:07 |
 | 31 | [DTM](https://open.spotify.com/track/7lt8y6rohiP6IVWrEa6P2V) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [DTM](https://open.spotify.com/album/6NzCMkBfXlOpHF1yXn1Xng) | 2:21 |
 | 32 | [El Mero Mero](https://open.spotify.com/track/7pt3E97ekAwqWRp5vGBkvY) | [El Guero MP](https://open.spotify.com/artist/5YwRUBJj4qUHBc1mPNT3FC), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [El Mero Mero](https://open.spotify.com/album/5t7yjTXTUbpYzBilMPmfdf) | 2:43 |
-| 33 | [Ando Detras Del Billete](https://open.spotify.com/track/6jYXCRbqZmjlkU8tMRnPoq) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR) | [Ando Detras del Billete](https://open.spotify.com/album/6q28eYpdCpTI6uVCwcM5w6) | 3:05 |
+| 33 | [Ando Detras del Billete](https://open.spotify.com/track/6jYXCRbqZmjlkU8tMRnPoq) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR) | [Ando Detras del Billete](https://open.spotify.com/album/6q28eYpdCpTI6uVCwcM5w6) | 3:05 |
 | 34 | [La Cachucha Negra](https://open.spotify.com/track/1maPA4wxM27PiBXsrw51ow) | [Diego DeLa Rosca](https://open.spotify.com/artist/5sEu1N2B7Y1VCPU8R4zmx6) | [La Cachucha Negra](https://open.spotify.com/album/5uer2UgYxHC2HEEUCU9oo8) | 2:52 |
 | 35 | [Pero Yo](https://open.spotify.com/track/4eEU3xjm1fXxXyRnXdlFay) | [Emanuel Garcia](https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl) | [Pero Yo](https://open.spotify.com/album/7sWUYxEt6GpjERvPEZsyO9) | 3:15 |
 | 36 | [De Chicali Soy](https://open.spotify.com/track/23dlVYtxw2EafL2M3a2II5) | [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [De Chicali Soy](https://open.spotify.com/album/5KOJYM5LVkYDc29u6PVVJh) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Por Los Míos](https://open.spotify.com/track/5NkNurvhiesKAZGdjag90d) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [Por Los Míos](https://open.spotify.com/album/3msi2DuRz2v3xxNb8IuygJ) | 2:37 |
 | 75 | [El Rápido](https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Aquí Nomás](https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV) | 3:02 |
 
-Snapshot ID: `MCxkNGEyNWRhNjkxODMyNmMyZmUxNDAxYWZhYjY5ZTE2ODg5MjcyYTM0`
+Snapshot ID: `MCwwYzdiZGQ0NzI1YWY0NTJmZDA2NTA1ZmU3OTBhODQyNTE5MWZjYzk1`

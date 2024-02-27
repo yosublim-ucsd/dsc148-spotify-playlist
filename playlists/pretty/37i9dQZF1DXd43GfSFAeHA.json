@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Stormy",
-  "num_followers": 128632,
+  "num_followers": 128653,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQ2MGY2MzgxNGU4NTU2YWViYzYxOWI5OTY2YTlhYjFjMWYwYzZh",
+  "snapshot_id": "MCw2MGE4NzI0MzVjYzFmMzRjOGE1YjNmNjY2NDkzOGM1NTZjMTJmODM5",
   "tracks": [
     {
       "added_at": "2024-02-13 11:06:27",
@@ -89,7 +89,7 @@
       "artists": [
         {
           "name": "Naj",
-          "url": "https://open.spotify.com/artist/1LZqLpJC8lN6EyF78UeXTU"
+          "url": "https://open.spotify.com/artist/0kEUm2PfkVPtCdUpFEXyfH"
         },
         {
           "name": "Tageel",
@@ -144,7 +144,7 @@
       },
       "artists": [
         {
-          "name": "Turk",
+          "name": "TURK",
           "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
         },
         {
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
     },
     {
-      "added_at": "2024-02-13 11:06:27",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "POPO",
-      "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
-    },
-    {
       "added_at": "2024-01-31 04:57:19",
       "album": {
         "name": "SWITCH",
@@ -417,6 +401,22 @@
       "url": "https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y"
     },
     {
+      "added_at": "2024-02-13 11:06:27",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "POPO",
+      "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
+    },
+    {
       "added_at": "2024-01-31 04:57:19",
       "album": {
         "name": "3awdet Eldab3",
@@ -447,22 +447,6 @@
       "duration_ms": 217500,
       "name": "RO7 3ALATOL",
       "url": "https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy"
-    },
-    {
-      "added_at": "2024-01-31 04:57:19",
-      "album": {
-        "name": "Fawda",
-        "url": "https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fawda",
-      "url": "https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -567,26 +551,6 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "Docteur (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Kartman",
-          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
-        }
-      ],
-      "duration_ms": 196206,
-      "name": "Docteur - Spotify Singles",
-      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
-    },
-    {
-      "added_at": "2024-01-31 04:57:19",
-      "album": {
         "name": "POUFA",
         "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
       },
@@ -599,6 +563,22 @@
       "duration_ms": 151575,
       "name": "POUFA",
       "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
+    },
+    {
+      "added_at": "2024-01-31 04:57:19",
+      "album": {
+        "name": "Fawda",
+        "url": "https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fawda",
+      "url": "https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -715,6 +695,26 @@
       "duration_ms": 146431,
       "name": "Lang",
       "url": "https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF"
+    },
+    {
+      "added_at": "2024-01-31 04:57:19",
+      "album": {
+        "name": "Docteur (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Kartman",
+          "url": "https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg"
+        }
+      ],
+      "duration_ms": 196206,
+      "name": "Docteur - Spotify Singles",
+      "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
       "added_at": "2024-01-31 04:57:19",

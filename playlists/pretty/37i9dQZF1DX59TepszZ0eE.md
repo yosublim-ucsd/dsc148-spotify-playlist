@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=DGNulj14TvmcL1mE7I6rdg">Spirit Of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,637 likes - 89 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,807 likes - 89 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 88 | [Indodana](https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 2](https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b) | 4:54 |
 | 89 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
 
-Snapshot ID: `MCwxMTVhMTFiNTE4M2VlMTk4MmNjNzAzNDRhZDJiNDViNjVhMWNlYzA0`
+Snapshot ID: `MCwzMTA5NTE5MTJjOThjOGZkNjMwZjdiYzE0MTMzOTdjZTNkNzcxN2Fj`

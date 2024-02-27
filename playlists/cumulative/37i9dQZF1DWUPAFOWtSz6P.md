@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-85 songs - 5 hr 38 min
+86 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [Lucky for You](https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 2:16 | 2020-05-12 |  |
 | [Michigan](https://open.spotify.com/track/0WkJWnMCumm1fnFscdY7Rw) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/12M64Waii6uYeGrpkUwo3K) | 5:30 | 2020-05-12 | 2022-07-29 |
 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 | 2020-05-12 |  |
-| [Moments Passed](https://open.spotify.com/track/2iE8Ymbdcm9AEniaxSFcbL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:31 | 2020-05-12 |  |
+| [Moments Passed](https://open.spotify.com/track/2iE8Ymbdcm9AEniaxSFcbL) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 4:31 | 2020-05-12 | 2024-02-27 |
 | [Moments Passed](https://open.spotify.com/track/3H4SQPQVJ4birjwbMMuYlY) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Moments Passed](https://open.spotify.com/album/4Pcj6texpZmV0vWu9CCu0X) | 4:31 | 2020-05-12 | 2022-07-29 |
+| [Moments Passed](https://open.spotify.com/track/5oTwLyzkH621u4OHzSHtB7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:31 | 2022-12-29 |  |
 | [Never Break](https://open.spotify.com/track/3usBViVaNvJsFkFxUpOxCP) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Never Break EP](https://open.spotify.com/album/1tdRdrWNCNpLtjpel7rjZG) | 2:35 | 2020-05-12 |  |
 | [Northern Winds \- Live at the Elmwood Hall](https://open.spotify.com/track/6GRPP8gcoTqfbWIGhPLJ0t) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Live at the Elmwood Hall](https://open.spotify.com/album/7cbC5xWYR3RyiBwy6VORlZ) | 5:09 | 2020-05-12 |  |
 | [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 | 2020-05-12 | 2022-07-29 |

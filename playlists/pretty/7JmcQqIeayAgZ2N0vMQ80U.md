@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 
 > Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 4,697 likes - 81 songs - 4 hr 14 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 4,698 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 | 79 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 80 | [face to face](https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [face to face](https://open.spotify.com/album/60URYT9rYS0qh5HrZREBf2) | 2:50 |
 | 81 | [Vegas](https://open.spotify.com/track/3a7hrn5cgp6D53uPUTc3Ai) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride](https://open.spotify.com/album/6PCZCY9gIEGzpjS775RFAc) | 2:51 |
+| 82 | [Call Me Yours](https://open.spotify.com/track/5xnVemtVlcFpLu8PtZbMD6) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh) | 2:31 |
 
-Snapshot ID: `NDY5OSw4OTMyZjhjZDMzYjFiNWJiYTlmMzM4ODg4MDIzN2EzYjJiNjRmODMw`
+Snapshot ID: `NDcwMCwwZDU3Yzk1NWViZWRmZDk5NTNhNTRlMjRhY2U4ZDIyMzQ5OGJmOWUz`

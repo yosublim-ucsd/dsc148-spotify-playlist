@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: CYBER RUI, Ash\-B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,288 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,654 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Humble](https://open.spotify.com/track/77Q9ibvJ6ejNWQkIrJgK6J) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Humble](https://open.spotify.com/album/0lDyXt2w6hKkjQKbQkJ4Yt) | 2:01 |
 | 100 | [PSYCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
 
-Snapshot ID: `MCxmMTM5ZDk4MTkwMzBkYzhiODIwODQ5ODQ2Mzk2MDY5OTgxYjBkNWE2`
+Snapshot ID: `MCwzY2QzMjdkYWI2NjY1NzU4Njk0NjkzMmFmNGJjMmFkNjVhYjcxZjk4`

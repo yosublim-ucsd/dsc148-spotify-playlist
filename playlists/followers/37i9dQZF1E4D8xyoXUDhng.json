@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 204,
+  "2024-02-27": 204,
   "date_first_scraped": "2023-03-18",
   "description": "With Callie Day, Terrell Grice, Duranice Pace and more",
   "name": "Callie Day Radio",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/7D0M9iVc5ayttzlJ4CODDj"
@@ -3268,6 +3268,24 @@
     },
     {
       "album": {
+        "name": "Storefront Church Experience",
+        "url": "https://open.spotify.com/album/1iDqgvXUv6bd9l6JqwcRzd"
+      },
+      "artists": [
+        {
+          "name": "Korey Mickie",
+          "url": "https://open.spotify.com/artist/2z8Yz3rJIgQXWCmivqQuWy"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646452,
+      "name": "Deposit a Praise (Praise Break)",
+      "url": "https://open.spotify.com/track/4ijYpZc63nrLeJE8yxSCJh"
+    },
+    {
+      "album": {
         "name": "It's Still Personal",
         "url": "https://open.spotify.com/album/3aOlgH0z2stw6vAMuzkB6P"
       },
@@ -3467,7 +3485,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 273426,
       "name": "Early",
       "url": "https://open.spotify.com/track/23zb3xPx7tgqFKdBBD0zRK"
@@ -4005,7 +4023,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 298613,
       "name": "Falling In Love With Jesus - Falling In Love With Jesus Album Version",
       "url": "https://open.spotify.com/track/2fNOP2r6yPyVsz1AyHmQKQ"
@@ -5855,7 +5873,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 241093,
       "name": "Grace Of God",
       "url": "https://open.spotify.com/track/1HUqceGhRTXNuvuyMT7teG"
@@ -6643,7 +6661,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 312076,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/5FsssFEGbSTDHRT1RC6A1R"
@@ -8817,7 +8835,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 225360,
       "name": "I Want To Go Back",
       "url": "https://open.spotify.com/track/1qmcbom1kTMFHkcpazAz9k"
@@ -9215,7 +9233,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 356573,
       "name": "I'll Praise",
       "url": "https://open.spotify.com/track/7wkJJPm4cJnevULnXYJhJm"
@@ -11491,7 +11509,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 280706,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/11BAOsVRXPbaPXj0lDaKRr"
@@ -12221,7 +12239,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 336586,
       "name": "Lord Prepare Me To Be A Sanctuary",
       "url": "https://open.spotify.com/track/3LDSvaUzc679GPLE1Uwz5c"
@@ -16189,7 +16207,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 179040,
       "name": "Rain On Us",
       "url": "https://open.spotify.com/track/7rYpcEvM80lrQWbtPZ5ksA"
@@ -20223,7 +20241,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 292137,
       "name": "Trade it All",
       "url": "https://open.spotify.com/track/2b0pTG6VvqNwbRO6PkBF8g"
@@ -20407,7 +20425,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 264733,
       "name": "Uncommon Me",
       "url": "https://open.spotify.com/track/2USx4BT0oWI8AALsR2rQyl"
@@ -20837,7 +20855,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 233866,
       "name": "We Need a Word from the Lord",
       "url": "https://open.spotify.com/track/2i7UCoVQohXplZ18Rb2Zds"
@@ -21275,7 +21293,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 176193,
       "name": "When The Saints Go To Worship - Live",
       "url": "https://open.spotify.com/track/7Co7aixEBSghbiZj7Zkthw"
@@ -21531,7 +21549,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 179693,
       "name": "Won't Be Moved",
       "url": "https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj"
@@ -21705,7 +21723,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 372106,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/3D9HO7fpNApzWqM8JHJnqs"
@@ -22167,7 +22185,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 204960,
       "name": "You Gave Me Hope",
       "url": "https://open.spotify.com/track/4EqNAhbSJoanTrdX2GJE2C"

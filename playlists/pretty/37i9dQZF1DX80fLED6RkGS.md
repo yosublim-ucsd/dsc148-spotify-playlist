@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX?si=0PWS\_rFFRi6HtNejpfPnrw"> Trio Mio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,376 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,386 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 63 | [Confirmed](https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Toxic](https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx) | 2:50 |
 | 64 | [Makofi](https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Omollo](https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Makofi](https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC) | 3:29 |
 | 65 | [Naipenda](https://open.spotify.com/track/4zcZKjDkzrAqG1o8S1MG7U) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Naipenda](https://open.spotify.com/album/6kJHFGeQpJIjz2G9Ufy4kG) | 2:16 |
-| 66 | [Shamra Shamra \- Remix](https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Gabu](https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6), [Kristoff](https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Frasha](https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Three Wise Goats](https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR) | 4:48 |
+| 66 | [Shamra Shamra \(Remix\)](https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Gabu](https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6), [Kristoff](https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Frasha](https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0), [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Three Wise Goats](https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR) | 4:48 |
 | 67 | [WANJAPI 2](https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [WANJAPI 2](https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40) | 3:30 |
 | 68 | [Mapema Ndio Best](https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7), [THEONLYDELO](https://open.spotify.com/artist/20oN1j6cWOJ2GgnBsN0lye), [K4kanali](https://open.spotify.com/artist/6dgXAgAu8iBRCAEk6Ie2TF) | [Mapema Ndio Best](https://open.spotify.com/album/5qz0x0K2k5b4N8DFjjQPoY) | 3:25 |
 | 69 | [Kamkora](https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm) | [Cartoon comedian](https://open.spotify.com/artist/24ZvE7ot2sZ04DUplTKLGl) | [Kamkora](https://open.spotify.com/album/2upMZcAVnGiPWhm346S1a0) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 79 | [Bidii Na Ujanja](https://open.spotify.com/track/171r8LQDLAvmGvykZNOa2f) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Bidii Na Ujanja](https://open.spotify.com/album/63aVh132tMv0Gjxj6QNpPK) | 3:28 |
 | 80 | [CHEZA KI WEWE](https://open.spotify.com/track/417ilOjQWFM6pGqLlGnFwN) | [Jua Cali](https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz), [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [UTU UZIMA](https://open.spotify.com/album/7zAVowRwWqZPUSFpdbmN6P) | 3:08 |
 
-Snapshot ID: `MCxjMzNmYjgxZmZkM2Q4MTc1MGEwM2RhMWIzNWY1MWU4NjczMTUyMGY2`
+Snapshot ID: `MCxiZDc1YWRiZmY5ZWQ5NmY1NTNlODk4ZDg3YzIzM2FiMTJjYzA2YzY5`

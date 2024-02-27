@@ -1968,7 +1968,7 @@
     {
       "album": {
         "name": "In My Head",
-        "url": "https://open.spotify.com/album/17w4meUmQFLEwss5M6aVqp"
+        "url": "https://open.spotify.com/album/4BNWQHeEVxxrTJHEALtsnP"
       },
       "artists": [
         {
@@ -1979,6 +1979,24 @@
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227192,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2r1drwmNX4l65SsbIipWa8"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/17w4meUmQFLEwss5M6aVqp"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-27",
       "duration_ms": 227192,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5QX3cYcTMvWQGTydgR0NqZ"

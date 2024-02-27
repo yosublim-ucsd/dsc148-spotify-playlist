@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=9ip45wyNQf2aPFk4O3V05Q">Selena Gomez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,349 likes - 79 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,392 likes - 79 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 33 | [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
 | 34 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 35 | [SLUT ME OUT](https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 2:03 |
-| 36 | [Ukhona](https://open.spotify.com/track/5JkKNV2t1EvknHoJlNlxAp) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Ukhona](https://open.spotify.com/album/7BDUadhFFqWLJLfOyzpDO3) | 3:21 |
+| 36 | [Ukhona](https://open.spotify.com/track/5JkKNV2t1EvknHoJlNlxAp) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Ukhona](https://open.spotify.com/album/7BDUadhFFqWLJLfOyzpDO3) | 3:54 |
 | 37 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 |
 | 38 | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 |
 | 39 | [Kudala](https://open.spotify.com/track/1k93TPwiYmsfClJV1oW08q) | [Nkatha](https://open.spotify.com/artist/53sqqasYKVG5nC9h2XO7MC), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb), [Frank Mabeat](https://open.spotify.com/artist/6UMibn1aMdn9ZYFwgycomA), [Arcader](https://open.spotify.com/artist/2fDBCyZafANVBtUywfKetN) | [Kudala](https://open.spotify.com/album/7Ervlrik4rDRQMpUBqlcRp) | 6:23 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 78 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
 | 79 | [Come On Over](https://open.spotify.com/track/0bKDR8g4ZYmIMiJ1lz3ks2) | [Ruben Gerritz](https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0) | [Come On Over](https://open.spotify.com/album/2dRFhoxJH8CFNlsWhjhioc) | 3:26 |
 
-Snapshot ID: `MCw1NDlhYzM0NDZlM2FmYTIyM2E5MjJmM2UzNzE2NzJkNjJiYWI2YTYx`
+Snapshot ID: `MCw5YjI3YjIzZGM4NWU4ODliNzI4NGM0OTUxNTcxMzg0ZTM2MGE5ZmQ1`

@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 146797,
+  "2024-02-27": 146831,
   "date_first_scraped": "2023-08-09",
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
   "name": "Indie Mexicano: Cl\u00e1sicos",
@@ -991,7 +991,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 254889,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
@@ -1781,6 +1781,24 @@
       "duration_ms": 229225,
       "name": "Si No Vas a Ser T\u00fa",
       "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
+    },
+    {
+      "album": {
+        "name": "Los Super Elegantes Ep",
+        "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
+      },
+      "artists": [
+        {
+          "name": "Los Super Elegantes",
+          "url": "https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: John Glacier
 
-2,398 songs - 5 day 14 hr 44 min
+2,399 songs - 5 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1937,6 +1937,7 @@
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 | 2021-05-29 |
 | [Something \(Byron The Aquarius Remix\)](https://open.spotify.com/track/6fufMi1AWJEFVKlGGTZqxY) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Something \(Byron The Aquarius Remix\)](https://open.spotify.com/album/0SDUfvrP8ak0rxHlsw50Nc) | 4:27 | 2022-07-22 | 2022-09-24 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-11 | 2022-05-28 |
+| [Something Ether](https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 2:11 | 2024-02-26 |  |
 | [Something to Rap About \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 4:42 | 2020-05-29 | 2020-10-22 |
 | [Somewhere](https://open.spotify.com/track/0HhleUCwCfFYS413WmpMxJ) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Somewhere](https://open.spotify.com/album/7wVBrqrsaPH53FS3DTcl9i) | 3:35 | 2020-01-10 | 2020-05-07 |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2019-07-30\* | 2019-09-05 |

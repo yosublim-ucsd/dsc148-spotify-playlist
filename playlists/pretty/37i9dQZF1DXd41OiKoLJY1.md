@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Patricia Heart Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,127 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,134 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 98 | [Kitchen](https://open.spotify.com/track/0RBQTcxf0rtU6yesJYujqU) | [Julio Banzon](https://open.spotify.com/artist/2a6Svn21HVcVwM1cm9oyOo) | [Kitchen](https://open.spotify.com/album/5fNqYEHFEdWsyw65bE7zkD) | 3:51 |
 | 99 | [i made you a playlist](https://open.spotify.com/track/2pdM3dG48Q1cWZPi2VmRVc) | [ORIGIN](https://open.spotify.com/artist/0b02sb1yDfitXVVkMJ73gt) | [i made you a playlist](https://open.spotify.com/album/5VyWYwBGBM3qWV3vXwqVqJ) | 2:15 |
 
-Snapshot ID: `MCwyNzBkMTg0YTg1Y2RkYjJjMjUzZTU1Yjk5ZjUzNjkzMWZhNzkyYmFl`
+Snapshot ID: `MCxiYTliNGYzMmZhYmNkYmI5ZTEyOGM4MDllOThlOTdlZWQzMjc2YzVk`

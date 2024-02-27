@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 22329,
+  "2024-02-27": 22338,
   "date_first_scraped": "2022-11-23",
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 234856,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 186017,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"

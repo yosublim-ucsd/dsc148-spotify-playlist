@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SUPER BEAVER \*👉 <a href="https://spice.eplus.jp/articles/326494?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,710 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,736 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 67 | [Goodbye to You \- feat\. MY$AK](https://open.spotify.com/track/7fiyr1IvUTp81ZeFgdl6EY) | [Nolatte](https://open.spotify.com/artist/3zrg42RdWOhBtn1sU2QnXC), [MY$AK](https://open.spotify.com/artist/2NTALYcHgfWnbcJpl40wzB) | [Goodbye to You \(feat\. MY$AK\)](https://open.spotify.com/album/1Ohsg27kvNvV4O0fSL9czB) | 2:04 |
 | 68 | [Circularity](https://open.spotify.com/track/5MXnwkHAitmmXBR0pBKtoP) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Circularity](https://open.spotify.com/album/73jgPZgJBUlZV91SADu1Nk) | 4:03 |
 | 69 | [Homesick](https://open.spotify.com/track/3yYasYWlOnStEV7pqEmq8y) | [Ryo’LEFTY’Miyata](https://open.spotify.com/artist/0Mz6b5s6RvIkzCPraAl6pL), [Engiu](https://open.spotify.com/artist/1pG7WKF1hZ78s9MqEEs3nl) | [Homesick](https://open.spotify.com/album/7lZ2y38H6PCx5wYDp1QnD5) | 3:17 |
-| 70 | [moon（feat\. Sara Wakui）](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon（feat\. Sara Wakui）](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
+| 70 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
 | 71 | [ATTENTION](https://open.spotify.com/track/1ocrIc0ammblLTOuHfXG3d) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0) | 3:06 |
 | 72 | [MVP](https://open.spotify.com/track/6czqkAzWPJDynXFiJSSlw8) | [Takanori Iwata](https://open.spotify.com/artist/2cD2ndst4zaoaoNldSXhMH) | [MVP](https://open.spotify.com/album/63Ode5ZKMSYId6hWzHfY5k) | 3:19 |
 | 73 | [Use Your Body](https://open.spotify.com/track/5jJanCOrDYbqfWO85B6XzJ) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Use Your Body / E\-NERGY BOYS](https://open.spotify.com/album/7pVVu6AwIlArQyTUq8jpqu) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [月の熱](https://open.spotify.com/track/66uxCTJ3WCI1NvL1pzPuS2) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [月の熱](https://open.spotify.com/album/08iVUbPFYM5baMIOV24RS6) | 4:04 |
 | 80 | [Re\-魔法](https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Re\-魔法](https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo) | 4:38 |
 
-Snapshot ID: `MCxlMzc4ODQwNTViNDk0YTFjYTE2ZGVkZjFmN2JmYjFmNjE2ZWY0MWIz`
+Snapshot ID: `MCw4Y2FkMjA1ZWI1ODM5NDQxOWVkODMzNjJjYWQ2YTNhZTRjNTRjYTAy`

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-346 songs - 21 hr 50 min
+347 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Gloria \- Live](https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Deluxe\)](https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al) | 3:37 | 2022-12-11 | 2023-04-05 |
 | [Glory \(Let There Be Peace\)](https://open.spotify.com/track/6lJHZvzfzUEwnaaAySLD77) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:35 | 2021-12-24 | 2022-07-22 |
 | [Glory Born](https://open.spotify.com/track/6cRyGFZQz9omLVKIlzZdUc) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring The Bells](https://open.spotify.com/album/7g3xFxJHim7tERwKYR2wU7) | 3:18 | 2021-12-24 | 2022-07-26 |
-| [Glory Born \(feat\. Heath Balltzglier\)](https://open.spotify.com/track/6sEgva7VCrI4hucdhuALUh) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring the Bells](https://open.spotify.com/album/6UMlSTjZvbdfhsAhSFRoDP) | 3:18 | 2023-12-15 |  |
+| [Glory Born \(feat\. Heath Balltzglier\)](https://open.spotify.com/track/6sEgva7VCrI4hucdhuALUh) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Ring the Bells](https://open.spotify.com/album/6UMlSTjZvbdfhsAhSFRoDP) | 3:18 | 2023-12-15 | 2024-02-27 |
 | [Glory In The Highest](https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:51 | 2021-12-24 | 2022-07-28 |
 | [Glory To You In The Highest \(O Come Let Us Adore\)](https://open.spotify.com/track/2XPZo7qF5lQY7wnbqtmkG8) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [These Christmas Lights](https://open.spotify.com/album/2Z4WYBmQ21S7rvsyzQWdCu) | 5:16 | 2021-12-24 | 2022-07-24 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-24 | 2023-02-19 |
@@ -244,6 +244,7 @@
 | [O Come O Come Emmanuel/King Of Heaven](https://open.spotify.com/track/09oZklh4A5wakCLL4Vstd1) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [O Come O Come Emmanuel/King Of Heaven](https://open.spotify.com/album/3A4a34MY4Z2YAjOeFbbvP8) | 4:36 | 2021-12-24 | 2022-07-29 |
 | [O Come, All Ye Faithful](https://open.spotify.com/track/2UJXlQri2qYzcReNqFHWZD) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Sing Noël](https://open.spotify.com/album/1EWvqGsVRPpJ7pX5dmv9zY) | 3:35 | 2021-12-24 | 2022-07-26 |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/4FcOhKK1tPr1QlT181Yzbi) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 4:06 | 2021-12-24 |  |
+| [O Come, O Come Emmanuel](https://open.spotify.com/track/1tp4J37tLFygZRCD6LKaFG) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Come Behold the Wondrous Mystery](https://open.spotify.com/album/25AJ4n2vNiYmR34lLwessO) | 2:43 | 2023-12-15 |  |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2kdiLHWZvTSx4rc0z5BVaS) | 2:43 | 2022-11-26 | 2024-01-30 |
 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 | 2022-11-26 |  |
 | [O Come, O Come Emmanuel \- Live](https://open.spotify.com/track/7LsbDRyc93aBzxLXCHzLpr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 3:49 | 2021-12-24 |  |

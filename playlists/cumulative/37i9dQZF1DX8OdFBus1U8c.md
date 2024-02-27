@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
 
-142 songs - 7 hr 36 min
+143 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Boss Kid](https://open.spotify.com/track/2mquWSV8POF4pfkQ1eQFOm) | [Rap Kid India](https://open.spotify.com/artist/40KXGueq8yPOb6dtZD6QmA), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Boss Kid](https://open.spotify.com/album/2S2nHAPutWZIhHsQgiCqRf) | 2:44 | 2023-07-23 | 2023-08-10 |
 | [Boys in the house](https://open.spotify.com/track/71bnrJcJTmnagiUXwT2ufb) | [YAAGAA](https://open.spotify.com/artist/6KgBYhkCXJeXGNvjftgWli), [Chemical](https://open.spotify.com/artist/1ngYHrtbQo3JoFB41CoBEw), [Mrcury](https://open.spotify.com/artist/4gH70hduZlrIulKZrPlTFJ), [Rival Mob](https://open.spotify.com/artist/5D7JVa2CPpdbKz8Rq2BBXJ), [SOLAR SYSTEM](https://open.spotify.com/artist/4F3rOcOsFEINrkekhLfIwc) | [Boys in the house](https://open.spotify.com/album/5tIy1PWU6UwB1hMLTM1U7S) | 3:27 | 2024-01-15 | 2024-01-20 |
 | [BREAKFAST](https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 3:56 | 2023-07-23 | 2024-02-13 |
-| [CALICITY](https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF) | [Shihab Huzzain](https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [CALICITY](https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED) | 1:54 | 2023-11-06 |  |
+| [CALICITY](https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF) | [Shihab Huzzain](https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [CALICITY](https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED) | 1:54 | 2023-11-06 | 2024-02-27 |
 | [Ceasefire Now](https://open.spotify.com/track/1vLVrRcfDIKhRlsrQ6gIuK) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Ceasefire Now](https://open.spotify.com/album/4i7U8lSSrQeS18qqeVRgqE) | 3:06 | 2023-11-28 |  |
 | [Chathi](https://open.spotify.com/track/0HJVTFwv2ht5u4y9RCzfho) | [Sweezy Trip](https://open.spotify.com/artist/5v61kr8mEQuzSocL9c0DTl), [VKDKV](https://open.spotify.com/artist/2is3kAPzIxjgRHXd9qZB3n), [AMANI KL10](https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr) | [Chathi](https://open.spotify.com/album/0CyndZDyLdIqYlcG1JiwzL) | 3:54 | 2023-11-28 | 2024-02-13 |
 | [CHECK CHECK](https://open.spotify.com/track/7KieJoUWl3NAxZGmV24vJk) | [San Jaimt](https://open.spotify.com/artist/2BrfO48KSTebyOrNEyeMOm) | [CHECK CHECK](https://open.spotify.com/album/5mcYXrsMZ6X0xogQHGKnnL) | 2:32 | 2024-02-05 | 2024-02-13 |
@@ -148,6 +148,7 @@
 | [Vyadhi](https://open.spotify.com/track/4rTg32mR6ETu2Aw30LPibh) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vyadhi](https://open.spotify.com/album/1baVHC4hgzvbHqvCc7Hbpn) | 2:04 | 2022-06-23 | 2024-02-13 |
 | [Waste Bins](https://open.spotify.com/track/6veJB3wjtm5dAdQfhTIWUi) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [GOTHAM S](https://open.spotify.com/artist/3gE61BTocjV5OB9ESJwwwI) | [Waste Bins](https://open.spotify.com/album/6jo8MjrOC9NjkYFwjA2FHb) | 3:40 | 2024-02-16 |  |
 | [Wish](https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 3:03 | 2022-06-23 |  |
+| [WORK HARD](https://open.spotify.com/track/2XQDNORKPlrZfUHeDqispe) | [S Dee](https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt), [Hiphop JB](https://open.spotify.com/artist/58MN2gwmEvgqAECH1yKX5I) | [WORK HARD](https://open.spotify.com/album/1y2ISs4pGjZnCkjzPda8ss) | 3:21 | 2024-02-26 |  |
 | [Workil Aanu Karyam](https://open.spotify.com/track/7y4XcoRcRDFnVltwFp2XAm) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm) | [Workil Aanu Karyam](https://open.spotify.com/album/4xkntbV9pfipF2v9hrfLRG) | 4:57 | 2022-06-23 | 2023-09-12 |
 | [Zone](https://open.spotify.com/track/66WHMvBjGEOu72hMQ8rXA8) | [SWAT](https://open.spotify.com/artist/69OLk01c5cxpeLmuAiMRL1), [sleepy](https://open.spotify.com/artist/4lcdVsKp56wTjk4DCl1Iev) | [Zone](https://open.spotify.com/album/6SDpQiS8uKzTHbw97Z4kx1) | 1:31 | 2023-11-10 | 2024-02-13 |
 

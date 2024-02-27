@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Mesto x WILHELM
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,567 likes - 91 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,580 likes - 91 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 29 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |
 | 30 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 |
 | 31 | [Lover](https://open.spotify.com/track/5RjRlnM5doKCqBv0ureyJe) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Lover](https://open.spotify.com/album/5NJGsSkcBtzm8qRG4DB7nP) | 3:00 |
-| 32 | [Brave New World](https://open.spotify.com/track/40kDqFtIbdnl5gkJTax0EY) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv), [TERR](https://open.spotify.com/artist/47U1iTSxHwaUl9cD83XWia) | [Brave New World](https://open.spotify.com/album/2N19UxdwPRnPYm4Hl5zrSJ) | 3:46 |
+| 32 | [Brave New World](https://open.spotify.com/track/40kDqFtIbdnl5gkJTax0EY) | [Shubostar](https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv), [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Brave New World](https://open.spotify.com/album/2N19UxdwPRnPYm4Hl5zrSJ) | 3:46 |
 | 33 | [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 |
 | 34 | [Lost & Found](https://open.spotify.com/track/48F7XgEZbhiA6F6iPJBxnk) | [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv) | [Lost & Found](https://open.spotify.com/album/2chHQzUB1ufHM5YoK0fhOC) | 2:54 |
 | 35 | [Better World](https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Chris Moody](https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui) | [Better World](https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh) | 3:06 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 90 | [How Will I Know](https://open.spotify.com/track/5zRJAOEqm5XWg3QLKhCdE5) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW) | [How Will I Know](https://open.spotify.com/album/50yYH2HfFr3fITB46Fqh8m) | 2:24 |
 | 91 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 |
 
-Snapshot ID: `MCw4ZWMzZTIwOWFjZTE5ZGE3NTliY2IwMTIwZGQ1M2NkY2ZlMzUyMzRj`
+Snapshot ID: `MCwxZWJmMzcwMTA3NzRlNmQwMzc2MDE3ZmM5NjkzNDUzMjE1MGZhZjRm`

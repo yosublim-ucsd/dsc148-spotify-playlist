@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:7jyr9Co4MKL1iWML1G7vch">Zauntee</a>
 
-969 songs - 1 day 23 hr 49 min
+970 songs - 1 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Bought By The Blood](https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY) | [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Bought By The Blood](https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz) | 2:23 | 2024-01-19 |  |
 | [Bounce Back](https://open.spotify.com/track/5wjKuyljKfdfR6kicEvLnW) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [Bounce Back](https://open.spotify.com/album/0zsk6tXiEZW7xRVWPzeFy2) | 3:04 | 2021-12-11 | 2022-03-08 |
 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 | 2022-06-25 | 2023-12-16 |
+| [BPM](https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [BPM](https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM) | 2:00 | 2024-02-23 |  |
 | [Brand New Man \(feat\. Scootie Wop\)](https://open.spotify.com/track/4T0MPixsCIy9a9pEV6fuWZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Brand New Man \(feat\. Scootie Wop\)](https://open.spotify.com/album/4WDiLeasKyJikzR5r6wO4k) | 3:10 | 2021-12-11 | 2022-02-02 |
 | [Breakthrough](https://open.spotify.com/track/3krQNq70JOehjfLUcNYrIb) | [Dia Viola](https://open.spotify.com/artist/21tjJAnF9xKj2ddhpgJOqQ), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Breakthrough](https://open.spotify.com/album/53RpQQPEgDoo6Z1yL61eAS) | 3:33 | 2021-12-11 | 2022-02-05 |
 | [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 | 2023-12-15 |  |
@@ -258,7 +259,7 @@
 | [EVERYTHING CHANGED](https://open.spotify.com/track/096lnFIbTd22SkRiOKyUDK) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [EVERYTHING CHANGED](https://open.spotify.com/album/3iEYomjh7GIlEK01GKGEWl) | 3:49 | 2021-12-11 | 2022-02-02 |
 | [Extra](https://open.spotify.com/track/6BDDuQ22E1mZ4AW3lDeQGO) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Extra](https://open.spotify.com/album/3fFRSxihlYY626RgMOrAMp) | 2:14 | 2023-08-25 | 2024-02-10 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-25 | 2024-01-20 |
-| [F.O.F.](https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [F.O.F.](https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh) | 2:28 | 2024-02-09 |  |
+| [F.O.F.](https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS) | [E.i\. the King](https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [F.O.F.](https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh) | 2:28 | 2024-02-09 | 2024-02-27 |
 | [Fair](https://open.spotify.com/track/6Q1UA2q17PA2I2wZCE2rMc) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Fair](https://open.spotify.com/album/25Nw3dLnevwTMfYUvetRQ1) | 2:37 | 2021-12-11 | 2022-02-02 |
 | [Faithful](https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Faithful](https://open.spotify.com/album/3IdrmlvkofXLqsk9RmArEu) | 2:41 | 2021-12-11 | 2022-04-29 |
 | [Father Abraham](https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 1:59 | 2022-10-07 | 2023-08-26 |

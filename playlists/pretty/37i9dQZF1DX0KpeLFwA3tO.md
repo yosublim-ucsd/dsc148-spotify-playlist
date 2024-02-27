@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Gen & The Degenerates
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,722 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,783 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [T\-shirt préféré](https://open.spotify.com/track/71VlU7vDDunkKXrMbti2k1) | [Capable!](https://open.spotify.com/artist/2SWB0i4YnAb5OhcacTBOLs) | [T\-shirt préféré](https://open.spotify.com/album/4MuEaIQNWF6Zj9qNM4hKYr) | 3:10 |
 | 100 | [Rearview](https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/1yAho8rcGoW4O1QXbObxyu) | 3:11 |
 
-Snapshot ID: `MCwzNzk2YzIwZjMyZjlhM2I1ODU0NTJmNGZlZTNlYWE2ZWExZTBlNTY0`
+Snapshot ID: `MCw3ZDYwYTAxYzM1YmI1YTU1ZjUxMmVhMjM4OTlmOTY4ZjNiZjVmZTdh`

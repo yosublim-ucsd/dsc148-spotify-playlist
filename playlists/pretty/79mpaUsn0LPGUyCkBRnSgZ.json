@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTM4OSxiNWI1NGJlMGE0ZTU3MGMyMDJjZTg1NjI1ZmYzOTM4NTliMzc5YzZh",
+  "snapshot_id": "MTM5MSwxZTI2NjMxYWMzYTc5ZTU5Mzk5M2UyYTdiYWY0MDBmNTJiYTI5ZWVk",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -7579,6 +7579,38 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M"
+    },
+    {
+      "added_at": "2024-02-26 23:00:18",
+      "album": {
+        "name": "Play (2014 Remastered Version)",
+        "url": "https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "Porcelain - 2014 Remastered Version",
+      "url": "https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN"
+    },
+    {
+      "added_at": "2024-02-26 23:03:33",
+      "album": {
+        "name": "Royal Astronomy",
+        "url": "https://open.spotify.com/album/6wderqhoGndjyEC1rODumX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Scaling",
+      "url": "https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS"
     }
   ],
   "unique_name": "Zacklog",

@@ -1,5 +1,5 @@
 {
-  "2024-02-26": 22220,
+  "2024-02-27": 22243,
   "date_first_scraped": "2022-11-22",
   "description": "Funk-inspired beats by latinos.",
   "name": "feels like latin funk",
@@ -155,6 +155,24 @@
       "duration_ms": 195000,
       "name": "Big Night",
       "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
+    },
+    {
+      "album": {
+        "name": "Blockbuster (90's R&B)",
+        "url": "https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207204,
+      "name": "Blockbuster (90's R&B)",
+      "url": "https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu"
     },
     {
       "album": {
@@ -393,7 +411,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-26",
       "duration_ms": 149657,
       "name": "Debut",
       "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"

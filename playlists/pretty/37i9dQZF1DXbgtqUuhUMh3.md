@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,563 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,571 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 38 | [Akhuya \- اخويا](https://open.spotify.com/track/5Xei35cn3yZQG0YwnlVDt5) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Akhuya \- اخويا](https://open.spotify.com/album/3QQXegHz4Yeo6jG09jOYPc) | 2:46 |
 | 39 | [Bala ma nehess](https://open.spotify.com/track/7gMTanziirD9trMsg6ya1x) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Bala ma nehess](https://open.spotify.com/album/47NHl1um8LKz4Aczk6kkhf) | 2:04 |
 | 40 | [MASLA7TY](https://open.spotify.com/track/31gjvCuk5y3ZCWxdlUbPPd) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz) | [Al3AB NARYA](https://open.spotify.com/album/72F0Iodcb5AQaaBlQf9ltT) | 1:59 |
-| 41 | [Batwanes Beek](https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe) | 2:09 |
+| 41 | [Batwanes Beek](https://open.spotify.com/track/1YsyeSTv6thppccjlrF7nt) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/14EHIFpulqmcBYw2L6eR84) | 2:09 |
 | 42 | [wa2t shrouk](https://open.spotify.com/track/3ih2Px5PuEiT89HDDR2vUk) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [wa2t shrouk](https://open.spotify.com/album/1SbBV84U2JSsNbuPc5cHml) | 2:28 |
 | 43 | [Hooked](https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Hooked](https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8) | 2:26 |
 | 44 | [100 Geneh](https://open.spotify.com/track/2WjcgbgnA3eDfaxEgERwfe) | [Aya Akil](https://open.spotify.com/artist/2VSWDLytEe3joqPsUtk1EA) | [100 Geneh](https://open.spotify.com/album/0429KMwToLr84oS2wzoqUn) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 49 | [Manho Habibak](https://open.spotify.com/track/67WtP6ZDz6jnUMlS4cR5ih) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan Part 2](https://open.spotify.com/album/6Jyh9oJ155zJ6qSaLfvmRi) | 5:21 |
 | 50 | [FOKAK MENI](https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [FOKAK MENI](https://open.spotify.com/album/73HNyxz2RUUZrqCyOZHW32) | 1:53 |
 
-Snapshot ID: `MCxmMDkwNTBkMjQwNTRkMGExNzE3ZDY2NGUxNGIzYzAyNTcyMGIyNGEy`
+Snapshot ID: `MCxiMWQ1YzdmZmYzNjE4YTM0YzEyZjVmZmQ3NTYyYmFjOTEwNmI4MDdj`

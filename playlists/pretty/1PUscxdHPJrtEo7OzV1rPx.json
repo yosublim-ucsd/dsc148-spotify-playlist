@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "OSwzNmQ4ZGEyNWI4ZDRhZTgxNjBhOTE1MDcwMDY3Yzc4ZGI2ODYyMzZi",
+  "snapshot_id": "MTAsZDExZDFkODNiN2FmNGI0YmQyZWZmZjY4OGI1Y2JhNzdmN2FlMzYzOQ==",
   "tracks": [
     {
       "added_at": "2023-08-16 06:42:06",
@@ -87,6 +87,22 @@
       "duration_ms": 132973,
       "name": "Until Olympius Returns",
       "url": "https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU"
+    },
+    {
+      "added_at": "2024-02-26 07:31:53",
+      "album": {
+        "name": "Jenny from Thebes",
+        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Jenny III",
+      "url": "https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb"
     }
   ],
   "unique_name": "(Dying Wrestler)core",

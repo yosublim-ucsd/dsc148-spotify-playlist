@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: NSND Bạch Tuyết, Nal
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,134 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,137 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 46 | [Chim sáo ngày xưa](https://open.spotify.com/track/5bWqMXjLukN5Y6Cb3yIrVC) | [Quang Linh](https://open.spotify.com/artist/3JwyehW3Ls8vt8GSons5eA) | [Yêu nhau ghét nhau 1](https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN) | 5:56 |
 | 47 | [Về Miền Tây](https://open.spotify.com/track/5aGK4NYBqRQET6S0ZlGBKj) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Về Miền Tây](https://open.spotify.com/album/0zprVApNTxzbO8qipA7eZB) | 4:54 |
 | 48 | [Chuyến Đò Quê Hương](https://open.spotify.com/track/4IuzULUl147TjKo9mvGoVw) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0) | [Chim Trắng Mồ Côi](https://open.spotify.com/album/3BsmysQHlGhbePd6jk08hA) | 4:51 |
-| 49 | [Tát Nước Đầu Đình](https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV) | 5:02 |
+| 49 | [Tát Nước Đầu Đình](https://open.spotify.com/track/121yxFWXB5N4tKlvH82ujT) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Tình Là Gì](https://open.spotify.com/album/4L8IWrNxt0QeXoQlZrMAdJ) | 5:02 |
 | 50 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/0Y4zReHkU1uCxHuWr28X99) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/5XlqK2sXfMN501ULIprcY9) | 5:42 |
 | 51 | [Ba Khía Giao Duyên](https://open.spotify.com/track/2qWTWy3lECQbh2YtOn8RQj) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Ba Khía Giao Duyên](https://open.spotify.com/album/34t52YJOVInSRYRLmDLfCb) | 3:10 |
 | 52 | [Con Gái Miền Tây](https://open.spotify.com/track/3OQoJNtaqOephkNCrogBbd) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Dân Ca Quê Hương](https://open.spotify.com/album/0pHd2saAqJPkkNB2ojUpmA) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Cô Thắm Không Về](https://open.spotify.com/track/7f9DYV0Vs6EWCEkhyLq7Av) | [Phát Hồ](https://open.spotify.com/artist/1Y6nNqZKrsUSLnG5jwXVJv), [JokeS Bii](https://open.spotify.com/artist/1FTyDLNQFIES677l00FdzD), [Sinike](https://open.spotify.com/artist/3mAay4lwZOLZMoTEYHcPCY) | [Cô Thắm Không Về](https://open.spotify.com/album/69XDEOQH8BkHfHAZ5bZNn8) | 4:14 |
 | 75 | [Tình Quê \(feat\. Huỳnh Nguyễn Công Bằng\)](https://open.spotify.com/track/2q1CALWcpLvH5JAv50RclK) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:12 |
 
-Snapshot ID: `MCxhZWQyMDQ0MTQ4MzZiZDMxZWNjMDMyNGJkMDJkYzkwMzU2Yjc0ZTE4`
+Snapshot ID: `MCxkZjMwZTNlNTA4MjM1ZmJhNGQ2ZjIyMzA4ODE4MWQ1YWFjNzFiNDE1`

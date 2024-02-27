@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,465 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,474 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 58 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 |
 | 59 | [Mini Hen](https://open.spotify.com/track/3gmRgbpu7qH6oCv60JlzYe) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [Mini Hen](https://open.spotify.com/album/1CaIzrqlja8PsRsokXh8w4) | 2:12 |
 | 60 | [BEEJAY](https://open.spotify.com/track/78QALgt3X7gXCmQTPRch1K) | [Awasetsu Mona](https://open.spotify.com/artist/7D1mUNJjWB9W9ANilpOwz3) | [GOTH](https://open.spotify.com/album/49ypOQ7cjk5OlBwEfxwKVs) | 2:28 |
-| 61 | [世界の終わり](https://open.spotify.com/track/2bYn5OJ5dxADM9bV9ZHN3t) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [世界の終わり](https://open.spotify.com/album/51VlSb0eonAG86sk2GcC4H) | 2:04 |
+| 61 | [Worlds End](https://open.spotify.com/track/2qwa4X0hkyvGl4r7dPih60) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Worlds End](https://open.spotify.com/album/4Jln0RSP9m7oSo5Xi9MTM5) | 2:04 |
 | 62 | [Ordinary days SNAFU](https://open.spotify.com/track/1hSF6SdLTPOhN25HwFvLkP) | [Madobe Rika](https://open.spotify.com/artist/3IxfhOTC1jqK3CSLWPwbb3) | [Ordinary days SNAFU](https://open.spotify.com/album/11RQWC3ofz5nUD5SKD4KoL) | 6:47 |
 | 63 | [Light\(n\)ing](https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/2d9QtkSDbgZLy8p4EThXFL) | 3:33 |
 | 64 | [Stayaway](https://open.spotify.com/track/2pwIqT1szJknFgSe4v9Mlv) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Stayaway](https://open.spotify.com/album/6WXDVCpbkIQ69jixsZESy8) | 3:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [OH! CHA!](https://open.spotify.com/track/0Jl87W7AqW60DtX8xPZ3fL) | [ONI](https://open.spotify.com/artist/63N0WXr9phz5b8nwzD5n8j), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [IKIMONO](https://open.spotify.com/album/3sVFy2v0oezJ2PTuBK08Ve) | 6:40 |
 | 70 | [Itokuri Bushi](https://open.spotify.com/track/0GL8KBzsBlyjanaVpRrkDx) | [Suzumeno Tears](https://open.spotify.com/artist/1VzswD0GeWdVVwss4GPizQ), [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [Itokuri Bushi](https://open.spotify.com/album/22cFxmJSS8VR0wHu6xVorW) | 4:53 |
 
-Snapshot ID: `MCw0MmZlYmFkNjYzZDYyNDFkYjQwODg1NWRjNjM1ZTU0ZDVhOGNhN2Nk`
+Snapshot ID: `MCxjMDQ0ZDBhYWMxNGYxN2UwYTQ4MWQ1YzdjZTczMDVhNDg1NDM5Y2I3`

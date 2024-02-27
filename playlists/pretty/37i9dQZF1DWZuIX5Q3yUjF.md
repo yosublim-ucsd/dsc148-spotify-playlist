@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Coca Puma
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,262 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,274 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 9 | [Ricky Martin](https://open.spotify.com/track/7CUzfKtPUXf0goSjHnOi5c) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Totem Crush](https://open.spotify.com/album/7oWcASQbb6MxkvcNPBzCaN) | 3:24 |
 | 10 | [le risposte che mi dai](https://open.spotify.com/track/5BBl0bzp73sCTHOEN4yYRl) | [Micol Criss](https://open.spotify.com/artist/0njvhsjBGa2ZnFzE5ydlYB), [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [le risposte che mi dai](https://open.spotify.com/album/6nhRu60ugRbVXffZnCTdzN) | 2:46 |
 | 11 | [Liar](https://open.spotify.com/track/1HCJgMSEiB94WKUIw9B5YW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw) | [Liar](https://open.spotify.com/album/2dV8ZXGws3TLABKp4qvh7e) | 1:56 |
-| 12 | [Svegliarsi a Roma](https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Icaro](https://open.spotify.com/artist/207Kr2A9hJzVUSY2QDCXyg) | [Payback](https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG) | 4:40 |
+| 12 | [Svegliarsi a Roma](https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Payback](https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG) | 4:40 |
 | 13 | [Difenderti](https://open.spotify.com/track/3kwQ577i2mY0JlUeazrLha) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR) | [Aurora Boreale](https://open.spotify.com/album/0PD2JnNa4bsQEG9QWvlOuR) | 2:05 |
 | 14 | [Non c'è vino](https://open.spotify.com/track/6jppOX6H6bwKOKDwPhX3Lt) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Non c'è vino](https://open.spotify.com/album/6jeY2nHztiXwdq1of0IyKa) | 4:00 |
 | 15 | [M’AMA](https://open.spotify.com/track/4M9QcyOAf0dxDOzUr71DSS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [M’AMA](https://open.spotify.com/album/0dxzTx9DQbOdYHKRfH7umG) | 3:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 54 | [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 |
 | 55 | [Finestra](https://open.spotify.com/track/0mO9Lg7RI1f9Yv5OLRF6nt) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Finestra](https://open.spotify.com/album/5kJ53sioZcR0ATW3KEU76t) | 3:11 |
 
-Snapshot ID: `MCwyMmRkZmE5NDQ5NTFhNjc1NzQ3M2E3ZDgzMzEwY2MxZGZkMTU5YmM3`
+Snapshot ID: `MCw3YTQyYWQzMDI3YjNlNGRlZmZhYTg2NDAyNDg5MDc0MDc3NzEwZWJl`

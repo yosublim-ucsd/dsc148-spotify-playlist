@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,045 songs - 2 day 6 hr 52 min
+1,047 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
-| [Bränns](https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb) | [Jonathan Breiner](https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI) | [Bränns](https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF) | 2:40 | 2024-02-22 |  |
+| [Bränns](https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb) | [Jonathan Breiner](https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI) | [Bränns](https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF) | 2:40 | 2024-02-22 | 2024-02-27 |
 | [Brännvin](https://open.spotify.com/track/42MiqIBN5TvEvcT6UeS6fB) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 3:34 | 2024-01-18 |  |
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 | 2023-04-07 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
@@ -227,6 +227,7 @@
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 | 2023-10-06 |
 | [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 | 2024-01-10 |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
+| [Du och jag](https://open.spotify.com/track/4R9CJGuvKVUUfzGonJ1kwn) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Du och jag](https://open.spotify.com/album/7uUHgi1apzLum8U3ZWdtt7) | 2:59 | 2024-02-24 |  |
 | [Du sa \(det kanske var fult\)](https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww) | [Vibefabriken](https://open.spotify.com/artist/4OoB00ctLYR2VL8FdseAVW) | [Du sa \(det kanske var fult\)](https://open.spotify.com/album/7cLCVo7ZkZ0TQc5XGaYmux) | 2:42 | 2022-02-26 | 2022-04-01 |
 | [Du är allt jag vill ha](https://open.spotify.com/track/6jMDUl6rExqyjRzYavMFuy) | [Oscar Enestad](https://open.spotify.com/artist/1rfH6kxUn8tYlzejKr3894) | [Du är allt jag vill ha](https://open.spotify.com/album/6SwhrL9xj9ujMVNrKmFU6m) | 3:00 | 2022-04-28 | 2022-07-29 |
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2021-12-16 | 2022-03-11 |
@@ -606,6 +607,7 @@
 | [Misstag i Moskva](https://open.spotify.com/track/0cbBsBCCLSgUYJfqxeW2qJ) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Misstag i Moskva](https://open.spotify.com/album/36IuR33vblBXxjSHw6rcYK) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 |  |
+| [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 |  |
 | [Mood Swings](https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mood Swings](https://open.spotify.com/album/3JELtHOEOf6dDIJQCmar1O) | 2:15 | 2021-12-16 | 2022-01-11 |
 | [Moon Eyes](https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Moon Eyes](https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex) | 3:34 | 2023-10-06 | 2024-01-26 |
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
@@ -768,7 +770,7 @@
 | [Shouldn't I Just Let You Know?](https://open.spotify.com/track/2GZLf3DXx22bnYA5nwSgCW) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Shouldn't I Just Let You Know?](https://open.spotify.com/album/0o4Kq3xuG6KGkMyAyqiTxa) | 3:42 | 2022-05-26 | 2022-07-27 |
 | [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 | 2022-10-27 | 2023-01-06 |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-05 | 2022-07-29 |
-| [Silhouettes](https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8) | [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Silhouettes](https://open.spotify.com/album/2mpr7yVbCCHDX3lGEeAYb1) | 3:20 | 2024-01-25 |  |
+| [Silhouettes](https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8) | [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Silhouettes](https://open.spotify.com/album/2mpr7yVbCCHDX3lGEeAYb1) | 3:20 | 2024-01-25 | 2024-02-27 |
 | [Single At 40](https://open.spotify.com/track/1Hkfx9v6M0A2E7gbgYneQo) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Single At 40](https://open.spotify.com/album/0UBTtf7QW0FMLAZLavnFWY) | 2:40 | 2021-12-16 | 2021-12-22 |
 | [Siri](https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Siri](https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8) | 4:03 | 2023-11-16 | 2024-02-09 |
 | [Sista gången](https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Sista gången](https://open.spotify.com/album/7oGmIcZOWuH4BYfyh8F7Wz) | 3:00 | 2021-12-16 | 2022-03-11 |
@@ -936,7 +938,7 @@
 | [TRENCH](https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TRENCH](https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK) | 3:13 | 2023-11-23 | 2024-02-04 |
 | [TRENCH](https://open.spotify.com/track/5btPCzSpdxxnxuGuHhcD35) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 3:13 | 2024-02-02 | 2024-02-23 |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
-| [Tristressens patrioter](https://open.spotify.com/track/6gi3R2qmkbE75wtAMNzlyO) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Tristessens patrioter](https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go) | 3:03 | 2024-02-24 |  |
+| [Tristessens patrioter](https://open.spotify.com/track/6gi3R2qmkbE75wtAMNzlyO) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Tristessens patrioter](https://open.spotify.com/album/2bLqr293858FS8EXzAI6Go) | 3:03 | 2024-02-24 |  |
 | [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 | 2024-01-26 |
 | [trött på det](https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [trött på det](https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz) | 2:24 | 2024-01-25 |  |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-11-10 |

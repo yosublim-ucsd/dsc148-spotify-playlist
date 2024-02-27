@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,405 songs - 2 day 17 hr 9 min
+1,406 songs - 2 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [ice ice ice](https://open.spotify.com/track/6Y5Bgoz421cN2AioH45NZv) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [NLE Choppa](https://open.spotify.com/artist/7F2p2hCim4bS28GkIpUDxn), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:07 | 2023-10-28 | 2023-11-02 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-11-05 |
 | [If I Could Teach the World](https://open.spotify.com/track/1tGPI2ezxGY8pWqtrMlA8a) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:28 | 2022-11-19 | 2022-11-25 |
+| [if u think i'm pretty](https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:08 | 2024-02-26 |  |
 | [ILUV](https://open.spotify.com/track/30ln1OwxEZdXDfEploBcsU) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:03 | 2024-02-20 | 2024-02-22 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-07-20 | 2022-07-31 |
 | [In The Shadows Of Ukraine \(feat\. The Rasmus\)](https://open.spotify.com/track/5dSOtyf70O6fG1xm4xFeTD) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf), [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [In The Shadows Of Ukraine \(feat\. The Rasmus\)](https://open.spotify.com/album/0kotfHFF8v0fWBfgoyX1ov) | 3:01 | 2022-10-22 | 2022-12-24 |
@@ -1110,7 +1111,7 @@
 | [Нету интереса](https://open.spotify.com/track/1nINIHobpPWexRP8ABH8bT) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Нету интереса](https://open.spotify.com/album/5Vj4LseRdzdMhrXOUTSrCH) | 3:04 | 2021-03-27\* | 2021-09-04 |
 | [Нефертити](https://open.spotify.com/track/727kExjEJLlSfeQUnWealQ) | [LIL GNEEFF](https://open.spotify.com/artist/6eUqOwSR5XC5MeKPdxsY1o) | [Нефертити](https://open.spotify.com/album/3AQsIPONxcS2v4MJv82mS9) | 2:09 | 2024-02-10 |  |
 | [Нефертити](https://open.spotify.com/track/7ezwdx3OVyn6aImfCopgEB) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Нефертити](https://open.spotify.com/album/4AmalzmUVMIRzgj1d3rENq) | 2:09 | 2024-01-15 | 2024-01-27 |
-| [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 | 2024-02-11 |  |
+| [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 | 2024-02-11 | 2024-02-27 |
 | [Новая волна](https://open.spotify.com/track/7rRzijIIKQ8GntJ8IUwUyY) | [DJ SMASH](https://open.spotify.com/artist/1fLIzbK5e8MGrLKj1dEMsg), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Новая волна](https://open.spotify.com/album/4hwnkuhRmnW9rFN1P0m6D4) | 2:38 | 2021-04-04 | 2021-05-28 |
 | [Новогодняя](https://open.spotify.com/track/2CZPJLTtQ8fNps1iOw4xfb) | [Diskoteka Avariya](https://open.spotify.com/artist/2NL5u7aIFrmuOHbYBYWjun) | [Новогодняя](https://open.spotify.com/album/75uIlTRvw7JjbRYl3tn1Qi) | 5:11 | 2022-01-01 | 2024-01-03 |
 | [Новогодняя](https://open.spotify.com/track/3e4ksSBSoDqTDOCGDwyMQ8) | [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [Чита Дрита](https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv) | 2:23 | 2022-01-01 | 2024-01-03 |

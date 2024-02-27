@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 96688,
+  "num_followers": 96750,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDAyYzIyOWViOGIxZjM3OTY5ZGMxNWM2OGQwNmU1MDQ5Y2Q5YjAz",
+  "snapshot_id": "MCw4YThmNDZhNzA4MjU3N2RjYTZlMTFmZDkzYWU1MmExNDVjOGMyNGI2",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -555,22 +555,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+        "name": "Substitution (feat. Julian Perretta)",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+      "duration_ms": 181477,
+      "name": "Substitution (feat. Julian Perretta)",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -599,22 +603,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
         }
       ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -635,26 +639,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Substitution (feat. Julian Perretta)",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
       "artists": [
         {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
           "name": "Purple Disco Machine",
           "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
         }
       ],
-      "duration_ms": 181477,
-      "name": "Substitution (feat. Julian Perretta)",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Techno Disco Tool (Radio Edit)",
-        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
-      },
-      "artists": [
-        {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
-        }
-      ],
-      "duration_ms": 194307,
-      "name": "Techno Disco Tool - Radio Edit",
-      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Techno Disco Tool (Radio Edit)",
+        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
+      },
+      "artists": [
+        {
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+        }
+      ],
+      "duration_ms": 194307,
+      "name": "Techno Disco Tool - Radio Edit",
+      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Don't Go (Gerd Janson Re-Work - Shorter Edit)",
-        "url": "https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0"
-      },
-      "artists": [
-        {
-          "name": "Julie McDermott",
-          "url": "https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 146190,
-      "name": "Don't Go - Gerd Janson Re-Work - Shorter Edit",
-      "url": "https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 189003,
       "name": "Summer Lovin' - Edit",
       "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Don't Go (Gerd Janson Re-Work - Shorter Edit)",
+        "url": "https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0"
+      },
+      "artists": [
+        {
+          "name": "Julie McDermott",
+          "url": "https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 146190,
+      "name": "Don't Go - Gerd Janson Re-Work - Shorter Edit",
+      "url": "https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Untold Business",
         "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 213387,
       "name": "Everything\u2019s Gonna Be Alright",
       "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Giodisco",
-        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Giodisco",
-      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Solid Gold (feat. bshp)",
-        "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        },
-        {
-          "name": "bshp",
-          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
-        }
-      ],
-      "duration_ms": 198039,
-      "name": "Solid Gold (feat. bshp)",
-      "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Stimulate",
         "url": "https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/4H9BRNgZ8Zt4O12FGwdnoV"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Solid Gold (feat. bshp)",
+        "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        },
+        {
+          "name": "bshp",
+          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Solid Gold (feat. bshp)",
+      "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
     },
     {
       "added_at": "2024-02-23 05:00:00",

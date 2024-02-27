@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 10652,
+  "num_followers": 10653,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTY2MDM3YzlhZWRmYjYwNDYxYzI5ZWYzM2M1NDI0MWI4NDRhNTdk",
+  "snapshot_id": "MCxhZDc0YTMxYjViNjM0MzRlN2NiOTI2ZDIyMjVjNDY5NjVjYjkwYjVm",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -163,54 +163,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Baby Scratch My Back - Single Version",
-      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Down And Out Blues",
-        "url": "https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Don't Start Me To Talkin'",
-      "url": "https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -231,6 +183,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Down And Out Blues",
+        "url": "https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Don't Start Me To Talkin'",
+      "url": "https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Shake My Hand",
         "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
       },
@@ -247,18 +215,34 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Back Where I Belong",
-        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
       "artists": [
         {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 219560,
-      "name": "I Wish You Would",
-      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
+      "duration_ms": 173600,
+      "name": "Baby Scratch My Back - Single Version",
+      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -275,6 +259,22 @@
       "duration_ms": 228533,
       "name": "Have A Good Time",
       "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Back Where I Belong",
+        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "I Wish You Would",
+      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -407,6 +407,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Hail To The Kings!",
         "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
@@ -463,38 +479,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Groovin' In Greaseland",
-        "url": "https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh"
-      },
-      "artists": [
-        {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
-        }
-      ],
-      "duration_ms": 321080,
-      "name": "Looking For A Woman",
-      "url": "https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Heartaches And Pain",
         "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 211426,
       "name": "Carey Bell Rocks",
       "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Groovin' In Greaseland",
+        "url": "https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 321080,
+      "name": "Looking For A Woman",
+      "url": "https://open.spotify.com/track/6JuJtd8K0jpEejEBJBitlA"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilson",
-          "url": "https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3"
-        }
-      ],
-      "duration_ms": 256906,
-      "name": "Don't Bite the Hand That Feeds You",
-      "url": "https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "One Wrong Turn",
-        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
       },
       "artists": [
         {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+          "name": "Kim Wilson",
+          "url": "https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3"
         }
       ],
-      "duration_ms": 313680,
-      "name": "Callin' All Fools",
-      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
+      "duration_ms": 256906,
+      "name": "Don't Bite the Hand That Feeds You",
+      "url": "https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -647,6 +631,42 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Dirty Memory",
+        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
+      },
+      "artists": [
+        {
+          "name": "JJ Appleton",
+          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
+        },
+        {
+          "name": "Jason Ricci",
+          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "Can't Believe It's This Good",
+      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "One Wrong Turn",
+        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 313680,
+      "name": "Callin' All Fools",
+      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Flash Forward",
         "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
       },
@@ -659,6 +679,22 @@
       "duration_ms": 219560,
       "name": "Going Back To Alabama",
       "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Code Blue",
+        "url": "https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD"
+      },
+      "artists": [
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
+        }
+      ],
+      "duration_ms": 548440,
+      "name": "Bad Boys Heaven",
+      "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -687,22 +723,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Code Blue",
-        "url": "https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD"
-      },
-      "artists": [
-        {
-          "name": "Sugar Blue",
-          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
-        }
-      ],
-      "duration_ms": 548440,
-      "name": "Bad Boys Heaven",
-      "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Best of Blues Vol. 8: Forrest City Joe (Collection Gerard Herzhaft - Remastered)",
         "url": "https://open.spotify.com/album/75TS3pJaEN702DolImKo8K"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 319693,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/5P3AlDI4rXsBxU4YC3rkL2"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Dirty Memory",
-        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
-      },
-      "artists": [
-        {
-          "name": "JJ Appleton",
-          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
-        },
-        {
-          "name": "Jason Ricci",
-          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "Can't Believe It's This Good",
-      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",

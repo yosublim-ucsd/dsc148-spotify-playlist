@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Sarah Suhairi, Alfie Zumi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,327 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,178 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 18 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 19 | [Malam Tak Berjudul](https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Malam Tak Berjudul](https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS) | 3:09 |
 | 20 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
-| 21 | [Kidung](https://open.spotify.com/track/0Uyh7UINyHXHjZGFZst8Bc) | [Bram](https://open.spotify.com/artist/5sX5q95TohGxh4wn0o4Yfz), [Dianne](https://open.spotify.com/artist/5labb7Qs3izpENolhdPs1U), [Chris Manusama](https://open.spotify.com/artist/0DmIbSc52Ue1WNm9jHrtl7) | [Kidung \(Remastered\)](https://open.spotify.com/album/3IO8vHB489ECfBpVbExBon) | 4:13 |
+| 21 | [Kidung \- Remastered](https://open.spotify.com/track/0Uyh7UINyHXHjZGFZst8Bc) | [Bram](https://open.spotify.com/artist/5sX5q95TohGxh4wn0o4Yfz), [Dianne](https://open.spotify.com/artist/5labb7Qs3izpENolhdPs1U), [Chris Manusama](https://open.spotify.com/artist/0DmIbSc52Ue1WNm9jHrtl7) | [Kidung \(Remastered\)](https://open.spotify.com/album/3IO8vHB489ECfBpVbExBon) | 4:13 |
 | 22 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 |
 | 23 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
 | 24 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 |
 | 75 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 
-Snapshot ID: `MCw5MDk3MWZlOTM0ZGNlYzMxYWVkYmZkOTFmNTgwMmVmODM1MjZkYmQ4`
+Snapshot ID: `MCwzMzI5MjQxMGQ1NjQ2ZTMxYmExMjg5NzhmMzZkYzI5ZmIyNTMyOTNl`

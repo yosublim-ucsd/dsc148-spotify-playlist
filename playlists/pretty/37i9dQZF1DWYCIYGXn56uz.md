@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,322 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,331 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [DIAMANTI](https://open.spotify.com/track/4L55Pn45FpcUCrBH7EN24p) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [DIAMANTI](https://open.spotify.com/album/21ZS1meqFOHjtm9uL85pK9) | 2:36 |
 | 50 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
 
-Snapshot ID: `MCwwOWY1NzY0MTdlZjYxOWRmNWFhOTBkMDZkNDE1Zjg5ZTQwNmQ2ZTQz`
+Snapshot ID: `MCw4NjlmMmM0Y2RhYzE4MTI0ZjJiNWIyMjZhYTk4ZGY0NDhiMTc2OGJh`

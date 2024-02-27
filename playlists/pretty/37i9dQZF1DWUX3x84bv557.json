@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Sterre Koning",
-  "num_followers": 161423,
+  "num_followers": 161440,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmZlNTU0ZTkxYTBlOWY4YTg3MDM0NTY1ZTllOTg0Mjk3NjM3YjIz",
+  "snapshot_id": "MCxmNmMyMDEyMzEzYTZlNGQzNDA0ZmYyYjZmM2E2OWVmMTQ1MjBiMTAy",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -206,6 +206,10 @@
         {
           "name": "Femme",
           "url": "https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z"
+        },
+        {
+          "name": "JAPS",
+          "url": "https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc"
         }
       ],
       "duration_ms": 154285,

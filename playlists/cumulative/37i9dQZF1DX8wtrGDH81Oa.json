@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "FlipFlops",
+        "url": "https://open.spotify.com/album/73r7qmEurZt1wVjjtByfAe"
+      },
+      "artists": [
+        {
+          "name": "Kayyyy",
+          "url": "https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142209,
+      "name": "FlipFlops",
+      "url": "https://open.spotify.com/track/4wWmPTZQR4ubOgHqLrNaFE"
+    },
+    {
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/0b0YFwzQsWlYN609iTYpOf"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 97143,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm"
@@ -1986,6 +2004,24 @@
       "duration_ms": 162000,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8"
+    },
+    {
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/6LqVXBp6RwTJC9drUmnJZp"
+      },
+      "artists": [
+        {
+          "name": "Monic",
+          "url": "https://open.spotify.com/artist/2dGAYuA2ivFR4BDhbQSIXv"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124909,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/6mxI6aOzik55H23TKnBbzv"
     },
     {
       "album": {
@@ -2544,6 +2580,24 @@
       "duration_ms": 195987,
       "name": "Morning Tram",
       "url": "https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1"
+    },
+    {
+      "album": {
+        "name": "Mountain High",
+        "url": "https://open.spotify.com/album/6CQfHfGvHqlPjugeC5yVgE"
+      },
+      "artists": [
+        {
+          "name": "liily day",
+          "url": "https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "Mountain High",
+      "url": "https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds"
     },
     {
       "album": {
@@ -3818,7 +3872,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 118899,
       "name": "Sunset Blvd",
       "url": "https://open.spotify.com/track/21g3eJhX32ovGJNbYUhN8K"
@@ -3962,7 +4016,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 117735,
       "name": "Terrace",
       "url": "https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5"

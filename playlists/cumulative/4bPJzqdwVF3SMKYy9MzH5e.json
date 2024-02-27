@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140858,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/7CxFWAnQ8eqiRL4W12Xzb6"
+    },
+    {
+      "album": {
         "name": "Crazy Frog presents Crazy Hits",
         "url": "https://open.spotify.com/album/6dhqlbbOqTKD5xbN3iRqlY"
       },

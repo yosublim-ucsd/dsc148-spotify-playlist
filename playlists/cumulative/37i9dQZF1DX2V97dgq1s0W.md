@@ -4,7 +4,7 @@
 
 > Beautifully chilled vocals from around the world\. Cover: Hiatus Kaiyote
 
-245 songs - 12 hr 48 min
+246 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2023-05-14 | 2023-10-28 |
 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 | 2023-07-21 |  |
 | [If Only You Knew](https://open.spotify.com/track/5stXc4GQVkeLIsP2MVr5ml) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [If Only You Knew](https://open.spotify.com/album/0fTq2g9l88dQHVtr97c0XK) | 3:16 | 2023-08-18 | 2023-11-17 |
-| [In My Head](https://open.spotify.com/track/5QX3cYcTMvWQGTydgR0NqZ) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [In My Head](https://open.spotify.com/album/17w4meUmQFLEwss5M6aVqp) | 3:47 | 2024-01-26 |  |
+| [In My Head](https://open.spotify.com/track/2r1drwmNX4l65SsbIipWa8) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [In My Head](https://open.spotify.com/album/4BNWQHeEVxxrTJHEALtsnP) | 3:47 | 2024-01-26 |  |
+| [In My Head](https://open.spotify.com/track/5QX3cYcTMvWQGTydgR0NqZ) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [In My Head](https://open.spotify.com/album/17w4meUmQFLEwss5M6aVqp) | 3:47 | 2024-01-26 | 2024-02-27 |
 | [In My Head \(feat\. Joyce Wrice\)](https://open.spotify.com/track/0OipsFRkF4t1GKiMeGb5k0) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:30 | 2023-07-21 |  |
 | [In The Moment](https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 3:13 | 2023-02-23 | 2023-09-23 |
 | [Indonesian Fantasies](https://open.spotify.com/track/3NktF1rRdORH8FH3p8wKp3) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:59 | 2023-02-23 | 2023-05-15 |

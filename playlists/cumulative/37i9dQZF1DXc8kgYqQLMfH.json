@@ -6997,6 +6997,24 @@
     },
     {
       "album": {
+        "name": "free bloom",
+        "url": "https://open.spotify.com/album/4CyuTfpanYaZSMp5HmsLfe"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166585,
+      "name": "free bloom",
+      "url": "https://open.spotify.com/track/55rlnrbVIFVijNiVqVl3XP"
+    },
+    {
+      "album": {
         "name": "free ride",
         "url": "https://open.spotify.com/album/0ymYpgZXa2a2m8fCzl7YQT"
       },
@@ -8910,7 +8928,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 139700,
       "name": "In Time",
       "url": "https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK"
@@ -11942,7 +11960,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 114000,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/5nWGzYwSHWntp8LnGmOf1z"
@@ -19018,7 +19036,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 113142,
       "name": "The Story",
       "url": "https://open.spotify.com/track/64sbKboQ2UAvVXhQ3lrdq7"

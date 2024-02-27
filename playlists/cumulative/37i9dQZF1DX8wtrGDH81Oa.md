@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-245 songs - 12 hr 23 min
+248 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 | 2023-05-06 |
 | [Femme](https://open.spotify.com/track/1ox6W1kkA1C6okKgpQK5e9) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:53 | 2022-07-08 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 | 2022-09-02 |
+| [FlipFlops](https://open.spotify.com/track/4wWmPTZQR4ubOgHqLrNaFE) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [FlipFlops](https://open.spotify.com/album/73r7qmEurZt1wVjjtByfAe) | 2:22 | 2024-02-26 |  |
 | [Float](https://open.spotify.com/track/4PlgKsJWBUiQRtqaYkqFZB) | [Brisaque](https://open.spotify.com/artist/1vlSEAUaqja6NwcQ94ASih) | [Float](https://open.spotify.com/album/0b0YFwzQsWlYN609iTYpOf) | 2:52 | 2022-10-14 |  |
 | [Floating](https://open.spotify.com/track/2z1Dv4pDF2J8s6aoV5OHzl) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Floating](https://open.spotify.com/album/75am8qk7ml4rMFqzHpELez) | 3:04 | 2022-05-10 |  |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2022-04-15 | 2022-09-09 |
@@ -103,7 +104,7 @@
 | [Get Some](https://open.spotify.com/track/6XCmzgE6hueMNCeq7EEAgh) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Get Some](https://open.spotify.com/album/51oJ57HrL19pMlpZahQlSU) | 3:08 | 2022-10-07 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-15 | 2022-08-19 |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2022-04-15 | 2022-05-11 |
-| [Good Intentions](https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Good Intentions](https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM) | 1:37 | 2023-12-01 |  |
+| [Good Intentions](https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Good Intentions](https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM) | 1:37 | 2023-12-01 | 2024-02-27 |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2022-04-15 | 2023-05-27 |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2022-04-15 |  |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2022-04-15 | 2022-10-08 |
@@ -118,6 +119,7 @@
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2022-04-15 | 2023-06-24 |
 | [I Can Be Irresistible](https://open.spotify.com/track/60mst0uGpdKZUHQhrPin5N) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [I Can Be Irresistible](https://open.spotify.com/album/1OezSXMoxjcWxAALAtOwqz) | 3:12 | 2022-04-15 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-04-15 |  |
+| [Iconic](https://open.spotify.com/track/6mxI6aOzik55H23TKnBbzv) | [Monic](https://open.spotify.com/artist/2dGAYuA2ivFR4BDhbQSIXv) | [Iconic](https://open.spotify.com/album/6LqVXBp6RwTJC9drUmnJZp) | 2:04 | 2024-02-26 |  |
 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 | 2023-02-17 |  |
 | [In Brevi](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [In brevi](https://open.spotify.com/album/5BgW2Tfu7CgefHz7gEDMAj) | 3:20 | 2022-04-15 |  |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-04-15 |  |
@@ -149,6 +151,7 @@
 | [Moody](https://open.spotify.com/track/6pq5fUEcDaFPjH2AqEg8Ni) | [Paula Nash](https://open.spotify.com/artist/4eZgEhCvPZfOp4zEpBRuwD) | [Moody](https://open.spotify.com/album/5vzJGL5HLsVfiuDAWarVx5) | 2:16 | 2024-02-13 |  |
 | [Morning Light](https://open.spotify.com/track/5Bq2xMiThkvSyLAZBUwjHo) | [HillBlindz](https://open.spotify.com/artist/5Z6er4pHWvy5RhUzwrbHDb) | [Morning Light](https://open.spotify.com/album/1fRHjnagf0S01cjKmvnp8K) | 2:55 | 2023-05-26 |  |
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-06-20 |
+| [Mountain High](https://open.spotify.com/track/6KlwKBHBnWTm825JMgR6Ds) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Mountain High](https://open.spotify.com/album/6CQfHfGvHqlPjugeC5yVgE) | 2:39 | 2024-02-26 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 |  |
 | [nightlife](https://open.spotify.com/track/7atU7r3R9tYis2RZEHgXpx) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [nightlife](https://open.spotify.com/album/6Ydjw4eDdTCFMHiK41q8tm) | 3:39 | 2022-11-25 |  |
 | [No Trip](https://open.spotify.com/track/2EeloLo4CTPRnhLDzSVuyc) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 4:03 | 2022-04-15 |  |
@@ -219,7 +222,7 @@
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2022-04-15 | 2022-07-08 |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2022-04-15 | 2023-07-14 |
 | [Sunset](https://open.spotify.com/track/6u5k1IhbxJDnBNzr9BRL9a) | [Rōsu](https://open.spotify.com/artist/5akiZKJzdQh33yqqEDnMRF) | [Sunset](https://open.spotify.com/album/7i8nd3IJ7Ud39ghQ69J2yn) | 2:00 | 2024-02-13 |  |
-| [Sunset Blvd](https://open.spotify.com/track/21g3eJhX32ovGJNbYUhN8K) | [Amber Tones](https://open.spotify.com/artist/4YoPOnNyqEMmqU518n8G81) | [Sunset Blvd](https://open.spotify.com/album/3xhBGjHlYPcvtTLpHyMtg5) | 1:58 | 2024-01-23 |  |
+| [Sunset Blvd](https://open.spotify.com/track/21g3eJhX32ovGJNbYUhN8K) | [Amber Tones](https://open.spotify.com/artist/4YoPOnNyqEMmqU518n8G81) | [Sunset Blvd](https://open.spotify.com/album/3xhBGjHlYPcvtTLpHyMtg5) | 1:58 | 2024-01-23 | 2024-02-27 |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-15 |  |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2022-04-15 | 2022-05-11 |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2022-04-15 | 2022-05-11 |
@@ -227,7 +230,7 @@
 | [Tea Time](https://open.spotify.com/track/0RwQfHjZztHwmuSVeXs3H2) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Tea Time](https://open.spotify.com/album/0XOeePwCgFrwZ2SwrIC08h) | 2:40 | 2023-06-19 |  |
 | [Teenage](https://open.spotify.com/track/78bAFyYsTHT4idrO3lZESA) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Teenage](https://open.spotify.com/album/36awS9gqn1o5Z3qxpK7ADc) | 2:49 | 2022-11-25 |  |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2022-04-15 | 2023-04-22 |
-| [Terrace](https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5) | [Peyote](https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr) | [Terrace](https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok) | 1:57 | 2023-12-01 |  |
+| [Terrace](https://open.spotify.com/track/2fAfvKAkeBMNlO72CM4LN5) | [Peyote](https://open.spotify.com/artist/3GcLm6nLpo2oAbrfzYfRfr) | [Terrace](https://open.spotify.com/album/4ru0bf5aCnY7zXqbqRgAok) | 1:57 | 2023-12-01 | 2024-02-27 |
 | [Thought Prince](https://open.spotify.com/track/4UPBPbvVQrJvoH1zYrbEYk) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Leggings](https://open.spotify.com/album/2AMSgiLX3gc0upUkn8H93T) | 3:08 | 2022-11-25 | 2023-06-20 |
 | [time to cry](https://open.spotify.com/track/6LqDDloFVL2RkcV1ImAyW2) | [robi](https://open.spotify.com/artist/2yRQV9I2707gOoMNQWyEva) | [dreamin' II](https://open.spotify.com/album/1wAVW1mM6A3VDa0KKdT9xb) | 3:14 | 2022-04-15 | 2023-06-20 |
 | [tiny tune](https://open.spotify.com/track/51N4rxKZOIaGLFmHXGpgXB) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [tiny tune](https://open.spotify.com/album/0wmBaFuptEoGuc4o8hNNsE) | 1:51 | 2022-11-25 | 2023-05-27 |

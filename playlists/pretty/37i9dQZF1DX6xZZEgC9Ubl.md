@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,432 likes - 150 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,689 likes - 150 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [F150](https://open.spotify.com/track/7xuklbiJnyZ5pqmoUWj5Eb) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [F150](https://open.spotify.com/album/2Om9xZUlHWEjHk5JzEuTd5) | 2:10 |
 | 150 | [wtf im crying](https://open.spotify.com/track/3ZXBdyYdFR0bDi6PbiHr6c) | [fwsatoru](https://open.spotify.com/artist/2WE0ecRE2lFCe7fYlg5INP) | [wtf im crying](https://open.spotify.com/album/2tRdy4s544KL6e74kN0cYy) | 2:34 |
 
-Snapshot ID: `MCw2ODdiMTg2OGU5N2QyZjA4MzdkMTc5NjZkZDgzZjVmOWRmODBkZDFm`
+Snapshot ID: `MCxjZDNmODRiYjA3YmEwYWQwMTI2MmYzNzE2ZDg0MzNiZjc5MmM1ZDc0`

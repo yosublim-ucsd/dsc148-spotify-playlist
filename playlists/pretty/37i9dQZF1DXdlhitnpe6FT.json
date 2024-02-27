@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 217837,
+  "num_followers": 217938,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjc5MzNjZjU1MDg2ZDc4ZGJjNWUwMWY2NjQzY2U1MDIwZjI3MzQ2",
+  "snapshot_id": "MCxhNmE0YjQyZjk5MTdjYzVlZTFlZmMzM2U3ZmU3ZTlmNDg3NzRjYWJl",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -155,6 +155,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
         "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 162386,
       "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
       "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD"
-      },
-      "artists": [
-        {
-          "name": "Chuck Mangione",
-          "url": "https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6"
-        }
-      ],
-      "duration_ms": 582733,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -203,18 +203,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD"
       },
       "artists": [
         {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Chuck Mangione",
+          "url": "https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+      "duration_ms": 582733,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -375,22 +375,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "!!Going Places!!",
         "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 291996,
       "name": "La vita \u00e8 bella",
       "url": "https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -591,6 +591,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Before the Rain",
         "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La m\u00e9lodie du lac d'amour",
         "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Leroy Anderson Collection",
-        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Anderson",
-          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Blue Tango",
-      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Look For A Star",
         "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 132600,
       "name": "Look For A Star",
       "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Leroy Anderson Collection",
+        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Blue Tango",
+      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Franck Pourcel : Originals, vol. 8",
         "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Afrikaan Beat And Other Favorites (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eTlcCnO2PwdmehwWSGMnm"
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 145506,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/6qCCiF2yLCkKZ1YcY3TzpG"
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -887,22 +903,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Orange Blossom Special And Wheels",
+        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 128785,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Orange Blossom Special And Wheels",
-        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 205773,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 142986,
-      "name": "Les Parapluies de Cherbourg",
-      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1143,6 +1127,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 142986,
+      "name": "Les Parapluies de Cherbourg",
+      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
       },
@@ -1483,22 +1467,6 @@
       "duration_ms": 168053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "A Regar La Polilla",
-        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "A Swingin' Safari",
         "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA"
+        "name": "Wonderland By Night",
+        "url": "https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB"
       },
       "artists": [
         {
-          "name": "Satellite Orchestra",
-          "url": "https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw"
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 168626,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp"
+      "duration_ms": 160866,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1599,34 +1599,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Wonderland By Night",
-        "url": "https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Satellite Orchestra",
+          "url": "https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw"
         }
       ],
-      "duration_ms": 160866,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 157013,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
+      "duration_ms": 168626,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1695,6 +1679,22 @@
       "duration_ms": 173616,
       "name": "Moon Over Montevideo",
       "url": "https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presenting Andr\u00e9 Popp",
-        "url": "https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Popp",
-          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Beer Barrel Polka",
-      "url": "https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 135360,
       "name": "Boum",
       "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presenting Andr\u00e9 Popp",
+        "url": "https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Popp",
+          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Beer Barrel Polka",
+      "url": "https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3"
     },
     {
       "added_at": "2020-12-08 19:02:01",

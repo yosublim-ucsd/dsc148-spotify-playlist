@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Stormy
+> Les hits du moment sont ici\. Cover : Morad, GIMS
 
 252 songs - 13 hr 41 min
 

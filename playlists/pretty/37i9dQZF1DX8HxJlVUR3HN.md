@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : MDNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,174 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,173 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Talking About Yourself](https://open.spotify.com/track/6EtBVM2yar5xDFf2BaGl0b) | [Opinion](https://open.spotify.com/artist/3K0sSzYbcJdN3FXAtjTXpm) | [Talking About Yourself](https://open.spotify.com/album/65xjHrH8fJLIuB5xsdJ1Ra) | 7:28 |
 | 50 | [A THOUSAND DREAMS AWAY](https://open.spotify.com/track/03VkCrbicuL4AMuOaO3e9p) | [Greyborn](https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis) | [A THOUSAND DREAMS AWAY](https://open.spotify.com/album/79NfBx8hqAlC2ml2m5Rzg3) | 5:35 |
 
-Snapshot ID: `MCxlMGY3YzM4YjdkODNlNzU3NDFhYWQ2MWE2NThjZGQ1ZDMxMWRiOTk1`
+Snapshot ID: `MCwwNjJmZTA1ZDdkOTNmZGMxNmYwNGY1ZTMxNThkN2VhNTI4MzVkYjcy`

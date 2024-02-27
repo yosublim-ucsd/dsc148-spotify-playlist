@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Japa, Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,898 likes - 76 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,897 likes - 76 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 9 | [TROPA DO ZAZA](https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [TROPA DO ZAZA](https://open.spotify.com/album/1O6NWNnND9zAMilImnzl6G) | 2:45 |
 | 10 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 11 | [Nota 10](https://open.spotify.com/track/6PtLdLY2eL2IXM8hXAQOjL) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Nomad](https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Nota 10](https://open.spotify.com/album/4XMBBEhuafctO2f08XfH87) | 4:51 |
-| 12 | [Sheik](https://open.spotify.com/track/70bkR2CMwu5wzZ2jOR2v9c) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Vict44](https://open.spotify.com/artist/6yfGQa1eKsWCAgKwHLEzKy), [Jeall](https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt), [GG](https://open.spotify.com/artist/4XX1N3ZVgiaubtX30g0YCE) | [Sheik](https://open.spotify.com/album/627S5FPSXJIpSVMBFQFpXy) | 2:43 |
+| 12 | [Sheik](https://open.spotify.com/track/70bkR2CMwu5wzZ2jOR2v9c) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Vict44](https://open.spotify.com/artist/6yfGQa1eKsWCAgKwHLEzKy), [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn), [Jeall](https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt), [GG](https://open.spotify.com/artist/4XX1N3ZVgiaubtX30g0YCE) | [Sheik](https://open.spotify.com/album/627S5FPSXJIpSVMBFQFpXy) | 2:43 |
 | 13 | [Foragido](https://open.spotify.com/track/5lzozMoomZNhvKRoqNVg3t) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Foragido](https://open.spotify.com/album/3UoWqSV4Ut6qIz4Hq6xBG3) | 2:18 |
 | 14 | [Plantão](https://open.spotify.com/track/5Syzq2Y6fG9SXEWCcqDhiO) | [Corleone](https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb), [LEGO](https://open.spotify.com/artist/5zVTZX70Tsu7hDbxdRmmbR), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB) | [Plantão](https://open.spotify.com/album/7d673G8jt2JjO4ltR2aCSF) | 2:04 |
 | 15 | [Guerreiro de Fé](https://open.spotify.com/track/5bjUthJEzE7mCwHHDBsqFn) | [MC Du Red](https://open.spotify.com/artist/7KSmBoFVVDxBl5ZqwI4zjo) | [Subterfúgio](https://open.spotify.com/album/63eWuDJVVOOk76F2eRKJYs) | 3:37 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Foco no Progresso](https://open.spotify.com/track/3glmPb4pOJm0M3hxOr4er1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [JKZ](https://open.spotify.com/artist/1Gn8eEXtOWHA7XU8wEWXOb) | [Foco no Progresso](https://open.spotify.com/album/1AyVu6lZh1dQTEnt9C4PmK) | 3:34 |
 | 76 | [Pique Faroeste](https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw), [Ventu075](https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf) | [Pique Faroeste](https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN) | 2:26 |
 
-Snapshot ID: `MCxjYzQ3MzcxZTNiNWNhZGJjZTA4MTlkMmU0NDQzZDk1MjYwZGQ4MjEy`
+Snapshot ID: `MCwxZGM4OTg2ZDE3MzZiNTlkZTM0MGMyOTI3MzVkYTg2YjE2YWY3MDAx`

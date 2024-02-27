@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Catfish and the Bottlemen, Central Cee, SZA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,756 likes - 124 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,846 likes - 124 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 14 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 |
 | 15 | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M) | 2:58 |
 | 16 | [Fashion Icon](https://open.spotify.com/track/69bzIFqUFyIjeFIe45jFni) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Fashion Icon](https://open.spotify.com/album/3q4wWa29EzzrMBcvxd6cos) | 2:09 |
-| 17 | [Midas Touch](https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 3:19 |
+| 17 | [Midas Touch](https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 3:19 |
 | 18 | [Blindfold \(feat\. Liz Lawrence\)](https://open.spotify.com/track/3qlNhvJd7arndpEp2CFsaJ) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:42 |
 | 19 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 |
 | 20 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [Across The Kuiper Belt](https://open.spotify.com/track/17TPAWKdutVufAbMptIwCH) | [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [Across The Kuiper Belt](https://open.spotify.com/album/0GXsAFarZHFDNeqFwXaQHu) | 4:29 |
 | 124 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 |
 
-Snapshot ID: `MCw0ZGQ1MjBkYTVjZGQ3MzA5Zjc2MTU5ZDQ4ZmY3ZmQ4MDNjYzdmNzk5`
+Snapshot ID: `MCwzZDhmZjg1NDUyODVjZjQ2ZDhiNGExZDRmOTEyOGM3MGE2OTZkYWNl`

@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=GZaYZwMBRbasLH7vauDTtw">Die Piesangskille</a>
 
-797 songs - 1 day 21 hr 0 min
+798 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Ons Gaan Laag](https://open.spotify.com/track/1ZIGOZIrqJdnVkJcMDApw2) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [SKAPIE](https://open.spotify.com/album/2BVe4234t1zBmk4OL2frnu) | 3:24 | 2023-10-19 | 2023-10-27 |
 | [Ons Is Die Vuur](https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Ons Is Die Vuur](https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili) | 2:58 | 2023-08-10 | 2023-09-01 |
 | [Ons Sal Dans](https://open.spotify.com/track/1tXBAXCekOEaM4FF5LtpBC) | [Giselle](https://open.spotify.com/artist/3q6m6kxjSndfgNlbd315ur) | [Ons Sal Dans](https://open.spotify.com/album/0gWmxUrDaLiH7DMXEifWmT) | 3:31 | 2024-02-01 | 2024-02-23 |
-| [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 | 2023-11-16 |  |
+| [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 | 2023-11-16 | 2024-02-27 |
 | [Ons Sal Jonk Bly](https://open.spotify.com/track/5kmedYH2KGOpqYcjhkut2f) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/6kgghUTYltx1TaKHamBWOe) | 4:25 | 2023-08-24 | 2023-11-24 |
 | [Ons Skild](https://open.spotify.com/track/3PLc8Si5Nsrnzd5zuVjVi2) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Die Son Kom Op En Die Son Sak Oor Ons Almal](https://open.spotify.com/album/09Z3lKVOFTSS74CtaW7KC8) | 2:44 | 2023-12-21 | 2023-12-30 |
 | [Ons Trein het vertrek](https://open.spotify.com/track/6zenfV5qEtnsGys6HaCkO8) | [Inspirasie Veelvoud](https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo) | [Ons Trein het vertrek](https://open.spotify.com/album/77d9GpJr99fj5RNnu5mCyf) | 3:21 | 2023-06-08 | 2023-06-23 |
@@ -693,6 +693,7 @@
 | [Tien Teen Een](https://open.spotify.com/track/7xnjQzQAFbibzKhmISKcWL) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq) | [Tien Teen Een](https://open.spotify.com/album/1OlbKMuA03JSk1vkQZK6Sd) | 3:04 | 2023-08-31 | 2023-09-15 |
 | [Tienerkwaad](https://open.spotify.com/track/4LMYAOI6n1kf4dR7B3ditY) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Zonneblom](https://open.spotify.com/album/1IeU3vpv2NYysM1fHw4ZfL) | 4:12 | 2022-12-27 | 2023-01-02 |
 | [Tipsy Verby](https://open.spotify.com/track/6gRWV52M8j2bliM66L405p) | [Hugh Lynn](https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w) | [Tipsy Verby](https://open.spotify.com/album/26VrqgaiWCY7lRtdrZ0meF) | 2:59 | 2023-02-02 | 2023-04-28 |
+| [Toe Die Engel Aan Die Water Raak](https://open.spotify.com/track/4xPpFrmBwVfpKpXOXdAiOL) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf), [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Toe Die Engel Aan Die Water Raak](https://open.spotify.com/album/1LkcnNbrxQvrVQYzVLN9Db) | 3:50 | 2024-02-26 |  |
 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 | 2022-11-10 | 2023-03-10 |
 | [Toe, Nou en Altyd](https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Toe, Nou en Altyd](https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy) | 3:41 | 2023-07-27 | 2023-10-20 |
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-12-29 | 2024-01-06 |

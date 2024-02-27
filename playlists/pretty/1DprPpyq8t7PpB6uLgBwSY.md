@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 18 songs - 1 hr 3 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,6 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 | 16 | [I'm Gonna Win](https://open.spotify.com/track/6bWP2PGRjyRjbHTdnMRDk9) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Not a Trampoline](https://open.spotify.com/album/1Y5i7JllvK9heVzVfcEyIE) | 2:38 |
 | 17 | [Juke Box Hero](https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:19 |
 | 18 | [Planetary \(GO!\)](https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 |
+| 19 | [The Calling](https://open.spotify.com/track/1vwEgKpkdY63nX0jrrYj9X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:01 |
 
-Snapshot ID: `MjAsZWU4M2ZkM2VkNDRiZDkxODE2YzM5NjEzM2QyYmIwNjExMWM1Y2Y1Nw==`
+Snapshot ID: `MjEsZGEyOWYyNjMxOGY1ZTYxZWMxN2VmZTUwOTk0MjA4NDMxZmQwMjQyNA==`

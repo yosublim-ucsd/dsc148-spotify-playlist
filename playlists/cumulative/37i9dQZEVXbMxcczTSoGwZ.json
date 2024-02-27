@@ -6809,6 +6809,24 @@
     },
     {
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
         "name": "End Of Love (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
         "url": "https://open.spotify.com/album/77Zezxen00WTxmyOtvZywD"
       },
@@ -10598,7 +10616,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 216253,
       "name": "Hulda",
       "url": "https://open.spotify.com/track/0Rsf8OVSJlan9BgT7cecax"
@@ -11802,7 +11820,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 230693,
       "name": "Ihmisten edess\u00e4 - ROOS+BERG Remix",
       "url": "https://open.spotify.com/track/4EDA2cutRTC1lNJ2eyVHlr"
@@ -16126,7 +16144,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 154776,
       "name": "Kysyinksm\u00e4? (feat. Turisti)",
       "url": "https://open.spotify.com/track/4Ml7ORJpmgcpRD8kuh5czt"

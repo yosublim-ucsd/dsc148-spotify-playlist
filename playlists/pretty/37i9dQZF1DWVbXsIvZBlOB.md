@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [מלכה](https://open.spotify.com/track/6ESWvTKqRhUbp7bSf0tEIb) | [נופיה ידידיה](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q) | [מלכה](https://open.spotify.com/album/4Q5rc8fW7W6UlI7ioj8hJF) | 3:28 |
 | 50 | [חזקים ביחד](https://open.spotify.com/track/5schuklDfYDejmSztdqN6m) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [חזקים ביחד \(לייב מקיסריה\)](https://open.spotify.com/album/1zboW4ZaEIparF8IjLyguE) | 4:25 |
 
-Snapshot ID: `MCw3ZGJjNThjNjdiNDhlMmE5MWUzMTcxYmQ4MDhiZTA2NDJiNTFkZGM5`
+Snapshot ID: `MCw2YTc4MTMwN2QyMjA2NWU2MjdhYmU5ZDU4NWY4ZGQzNzUzN2JlMzA0`

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Jenny from Thebes",
+        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146240,
+      "name": "Jenny III",
+      "url": "https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb"
+    },
+    {
+      "album": {
         "name": "The Sunset Tree",
         "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
       },

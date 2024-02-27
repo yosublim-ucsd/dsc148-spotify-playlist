@@ -1,12 +1,12 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
-  "num_followers": 82373,
+  "num_followers": 82403,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2Y3NGI4NDA3OTI1NzA1Y2VhYzUxZDE0MmEzOTRjNTk2YjlhNTA0",
+  "snapshot_id": "MCwwZGIzYzI0NjJjMTlmNDllMjZjYTg0YzRiNTc5MTAyY2ZmZWE2NTgx",
   "tracks": [
     {
       "added_at": "2024-02-22 16:22:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
-        "name": "DAISAN WAVE",
-        "url": "https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i"
-      },
-      "artists": [
-        {
-          "name": "Mikito P",
-          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "\u30ed\u30ad",
-      "url": "https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd"
-    },
-    {
-      "added_at": "2024-02-22 16:22:36",
-      "album": {
         "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 159000,
       "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
+    },
+    {
+      "added_at": "2024-02-22 16:22:36",
+      "album": {
+        "name": "DAISAN WAVE",
+        "url": "https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i"
+      },
+      "artists": [
+        {
+          "name": "Mikito P",
+          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "\u30ed\u30ad",
+      "url": "https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd"
     },
     {
       "added_at": "2024-02-22 16:22:36",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
+        "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "\u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1"
+        }
+      ],
+      "duration_ms": 235096,
+      "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
+    },
+    {
+      "added_at": "2024-02-22 16:22:36",
+      "album": {
         "name": "\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc",
         "url": "https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 236068,
       "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
       "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
-    },
-    {
-      "added_at": "2024-02-22 16:22:36",
-      "album": {
-        "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
-      },
-      "artists": [
-        {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
-        },
-        {
-          "name": "\u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-          "url": "https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1"
-        }
-      ],
-      "duration_ms": 235096,
-      "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-      "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
     },
     {
       "added_at": "2024-02-22 16:22:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
-        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
-        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
-      },
-      "artists": [
-        {
-          "name": "n-buna",
-          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
-        }
-      ],
-      "duration_ms": 308967,
-      "name": "\u591c\u660e\u3051\u3068\u86cd",
-      "url": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng"
-    },
-    {
-      "added_at": "2024-02-22 16:22:36",
-      "album": {
         "name": "Nayutan Sei Kara No Buttai Y",
         "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
+        "name": "META",
+        "url": "https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "duration_ms": 205092,
+      "name": "God-ish",
+      "url": "https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo"
+    },
+    {
+      "added_at": "2024-02-22 16:22:36",
+      "album": {
         "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
         "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
-        "name": "META",
-        "url": "https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a"
+        "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
+        "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
       },
       "artists": [
         {
-          "name": "PinocchioP",
-          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+          "name": "n-buna",
+          "url": "https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP"
         }
       ],
-      "duration_ms": 205092,
-      "name": "God-ish",
-      "url": "https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo"
+      "duration_ms": 308967,
+      "name": "\u591c\u660e\u3051\u3068\u86cd",
+      "url": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng"
     },
     {
       "added_at": "2024-02-22 16:22:36",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
+        "name": "MANNEQUIN",
+        "url": "https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 178235,
+      "name": "The Vampire",
+      "url": "https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2"
+    },
+    {
+      "added_at": "2024-02-22 16:22:36",
+      "album": {
         "name": "MEKAKUCITYDAYS",
         "url": "https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05"
       },
@@ -811,6 +827,22 @@
     {
       "added_at": "2024-02-22 16:22:36",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE"
+      },
+      "artists": [
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+        }
+      ],
+      "duration_ms": 208991,
+      "name": "Non-breath oblige",
+      "url": "https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H"
+    },
+    {
+      "added_at": "2024-02-22 16:22:36",
+      "album": {
         "name": "\u82b1\u306b\u98a8",
         "url": "https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA"
       },
@@ -823,42 +855,6 @@
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"
-    },
-    {
-      "added_at": "2024-02-22 16:22:36",
-      "album": {
-        "name": "plotoplan",
-        "url": "https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3086\u308a",
-          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
-        }
-      ],
-      "duration_ms": 247111,
-      "name": "\u30d5\u30a3\u30af\u30b5\u30fc",
-      "url": "https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv"
-    },
-    {
-      "added_at": "2024-02-22 16:22:36",
-      "album": {
-        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2023\u300dOFFICIAL ALBUM",
-        "url": "https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 204166,
-      "name": "HERO (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W"
     }
   ],
   "unique_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",

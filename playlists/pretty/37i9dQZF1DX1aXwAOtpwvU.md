@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,547 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,548 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 5 | [MY I ONI](https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ZGRZYT](https://open.spotify.com/album/02wQzXoSwOPKZHik90xH3Q) | 2:42 |
 | 6 | [GRAWITACJA](https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 3:05 |
 | 7 | [Za dobrze by zapomnieć](https://open.spotify.com/track/3XUZJ2FrvymQtTd6t6qJP6) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:32 |
-| 8 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
+| 8 | [Diss Na Miłość](https://open.spotify.com/track/0m8NvsR8kHzXSrHPyxaXc2) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/4QtxlIxlyH5czaqJyayPwM) | 1:52 |
 | 9 | [Niepewność](https://open.spotify.com/track/7rMtFn0tDxMB0WqN2DHKTd) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Niepewność](https://open.spotify.com/album/7g9YalkkMEqvtfXweACsRd) | 2:54 |
 | 10 | [Zgiełk](https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Zgiełk](https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ) | 3:25 |
 | 11 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw4ZTVmODFhZmEyODVlNWI1ZDkzZjk4ODllYWU3NTA3NGVhNmQxMmQ0`
+Snapshot ID: `MCwwMGU0MTNlNjZhNTk1ODA0NzljMjBkN2YwOTQ0NmRhYjdmM2QzYTky`
