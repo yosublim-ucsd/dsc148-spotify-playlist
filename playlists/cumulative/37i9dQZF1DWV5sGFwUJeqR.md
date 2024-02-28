@@ -4,12 +4,13 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-108 songs - 7 hr 59 min
+109 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acid](https://open.spotify.com/track/3jrpg4tTthujPE0QLYFOhb) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Shine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KhfFSo37dVp5irti8EO2J) | 5:07 | 2022-03-31 | 2022-11-13 |
-| [Acid](https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:07 | 2022-03-31 |  |
+| [Acid](https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:07 | 2022-03-31 | 2024-02-28 |
+| [Acid](https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Head Sounds](https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l) | 5:07 | 2022-03-31 |  |
 | [Acid](https://open.spotify.com/track/2hspCATOKb9llyIeMik89G) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/1Kpl86iB5MWDc5shzyyW4L) | 5:07 | 2020-04-30 | 2022-07-29 |
 | [Alborada Guajira](https://open.spotify.com/track/6CM95nGal4N6ZVOcNnbRUN) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Perlas Cubanas: Yo Soy el Punto Cubano](https://open.spotify.com/album/1s1ejhmndRkAGJMBbiVuG8) | 2:45 | 2020-04-30 | 2022-07-29 |
 | [Alborada Guajira](https://open.spotify.com/track/1bYSzNVXK2iZoSbw64xIyh) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [A Santa Bárbara..\. ¡Que Viva Chango!](https://open.spotify.com/album/09JAUsbiYp4oHukB0P7dYE) | 2:45 | 2022-03-31 |  |

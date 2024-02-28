@@ -4,7 +4,7 @@
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-87 songs - 4 hr 58 min
+89 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-10-03 | 2023-12-27 |
 | [Burn the System](https://open.spotify.com/track/1iyCbqo9UgeLCVYo867Nol) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Untopia](https://open.spotify.com/album/11xqOdJhWSMrVgds4m5gLY) | 4:49 | 2023-09-07 | 2023-10-04 |
 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 | 2023-09-07 |  |
-| [Curse](https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Curse](https://open.spotify.com/album/4IO7PP3b6sRhsJVrj8u4IK) | 3:14 | 2023-09-07 |  |
+| [Curse](https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Curse](https://open.spotify.com/album/4IO7PP3b6sRhsJVrj8u4IK) | 3:14 | 2023-09-07 | 2024-02-28 |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-09-07 |  |
 | [DENGEKI](https://open.spotify.com/track/0Y6MovlfBfQwYaV6kPJBrd) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [AFJB](https://open.spotify.com/album/0G6Ecl2kJCspqH4sHqLL5b) | 3:36 | 2023-09-07 |  |
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-29 | 2024-01-10 |
@@ -47,6 +47,7 @@
 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 | 2023-10-03 | 2023-10-05 |
 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 | 2023-09-07 |  |
 | [King & Ashley](https://open.spotify.com/track/3TeMXdcKef8xeWrjepm2IP) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [King & Ashley](https://open.spotify.com/album/31usMFo80loZLgeHF7yljO) | 3:23 | 2023-09-07 |  |
+| [kodoku gokko](https://open.spotify.com/track/5N73VJc4Q3fJhEV8E7pvDC) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [kodoku gokko](https://open.spotify.com/album/3KlWkxlUSwUzrunfRuTrLi) | 1:45 | 2024-02-27 |  |
 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-09-07 |  |
 | [LIGHTS](https://open.spotify.com/track/0V0Dd9h94tRw37B8BdhZ4y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HAPPY TALK](https://open.spotify.com/album/6AmYx6hJ0hNrCcg8u25FXk) | 4:44 | 2023-09-07 |  |
 | [Locust](https://open.spotify.com/track/6PfrqjudrParHtDBQ3bw9m) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [KAITOPALEDUSK](https://open.spotify.com/artist/1SS5s1IOYIkoHfsuQNIK0L) | [Locust / Let The Rain Wash Over](https://open.spotify.com/album/4phEIX43og9GKlEjUcZmCm) | 2:24 | 2023-09-07 | 2023-10-04 |
@@ -62,7 +63,7 @@
 | [Odyssey](https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K) | 4:04 | 2024-01-11 |  |
 | [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-22 |  |
 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/4NS4QnTh3nRK7qhAXTfsmm) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:43 | 2023-09-07 |  |
-| [Rave\-up Tonight](https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/3VDxaorPQIokHEviqIH8OW) | 3:22 | 2023-12-05 | 2024-02-20 |
+| [Rave\-up Tonight](https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/3VDxaorPQIokHEviqIH8OW) | 3:22 | 2023-12-05 |  |
 | [Rave\-up Tonight](https://open.spotify.com/track/4a6UFsB5YKrGYwC50RK5im) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/5NvvNBuNHN9iDy1MdNYDrK) | 3:22 | 2023-09-07 | 2023-12-08 |
 | [Rebirth](https://open.spotify.com/track/0JjaBtJv5jHQG5pQlEAhPa) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Denial // Rebirth](https://open.spotify.com/album/3g3XJA0QdfwjiCBYhDPOTF) | 3:49 | 2024-01-11 | 2024-01-30 |
 | [ROCK'N'ROLL PHOENIX](https://open.spotify.com/track/4Xx5GuQZ3YTC7fErN1Lcy0) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4), [Birds Fear Death](https://open.spotify.com/artist/65uuUPZ3mkqQ6gi0zfefHb) | [呪詛告白初恋そして世界](https://open.spotify.com/album/6cwRhM0fLNBpubbnh4o8hX) | 2:33 | 2023-11-30 |  |
@@ -72,7 +73,7 @@
 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 | 2023-09-07 | 2023-12-19 |
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-09-07 | 2023-10-20 |
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 |  |
-| [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 | 2024-01-09 |  |
+| [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 | 2024-01-09 | 2024-02-28 |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-09-07 |  |
 | [STFU!](https://open.spotify.com/track/2S3KvNGyadSvbSr2C1JpDB) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:23 | 2023-09-07 |  |
 | [Survive!](https://open.spotify.com/track/0IRT1uu2f4spuVnw8Bh27f) | [Discavil](https://open.spotify.com/artist/0H6SzT0325flzVvef2vquM), [金富烈](https://open.spotify.com/artist/4oh6YxbjbSjod1g0iomHqf) | [Across End of the Century](https://open.spotify.com/album/7ir50CIZIV44ZKBiZVRwP0) | 6:46 | 2023-11-09 | 2023-11-29 |
@@ -87,7 +88,8 @@
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-09-07 |  |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-09-07 |  |
 | [さらば世界](https://open.spotify.com/track/4O2R1FWAdrF7HBrUBCiPsL) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/34HCqTjxeot4jQme5gTsJu) | 8:15 | 2023-09-07 | 2023-10-04 |
-| [ゆきこさん](https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 3:08 | 2023-09-07 |  |
+| [ゆきこさん](https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 3:08 | 2023-09-07 | 2024-02-28 |
+| [サルバドルサーガ](https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc) | [サルバドルサーガ](https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY) | 3:15 | 2024-02-27 |  |
 | [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 | 2023-09-30 |
 | [不可逆リプレイス](https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 3:51 | 2023-09-07 |  |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2023-09-07 |  |

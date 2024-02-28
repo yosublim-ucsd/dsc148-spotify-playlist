@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 59190,
+  "num_followers": 59195,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWMxYjFhYjQ4MDlkMmJhZjE0ZDRmY2Y1NDA5OGVlNTI4MjQ0NWVh",
+  "snapshot_id": "MCw1ODlkMDIwZTA0MWRhYTI2NDU2MTdkNzFlNWUwMjc1OWNhOTI5NTkz",
   "tracks": [
     {
       "added_at": "2024-02-19 05:01:54",
@@ -155,18 +155,22 @@
     {
       "added_at": "2024-02-19 05:01:54",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+      "duration_ms": 258106,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
     },
     {
       "added_at": "2024-02-19 05:01:54",
@@ -187,22 +191,18 @@
     {
       "added_at": "2024-02-19 05:01:54",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
         }
       ],
-      "duration_ms": 258106,
-      "name": "The Masquerade Is Over",
-      "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+      "duration_ms": 216573,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
     },
     {
       "added_at": "2024-02-19 05:01:54",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-19 05:01:54",
       "album": {
-        "name": "Maria Rita",
-        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Cara valente",
-      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
-    },
-    {
-      "added_at": "2024-02-19 05:01:54",
-      "album": {
         "name": "Nara Dez Anos Depois",
         "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 152933,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
+    },
+    {
+      "added_at": "2024-02-19 05:01:54",
+      "album": {
+        "name": "Maria Rita",
+        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Cara valente",
+      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
     },
     {
       "added_at": "2024-02-19 05:01:54",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-19 05:01:54",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
-    },
-    {
-      "added_at": "2024-02-19 05:01:54",
-      "album": {
         "name": "Bossa Lounge en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 235866,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
+    },
+    {
+      "added_at": "2024-02-19 05:01:54",
+      "album": {
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
     },
     {
       "added_at": "2024-02-19 05:01:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-19 05:01:54",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
-      },
-      "artists": [
-        {
-          "name": "Erin Boheme",
-          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
-        }
-      ],
-      "duration_ms": 279853,
-      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
-      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
-    },
-    {
-      "added_at": "2024-02-19 05:01:54",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 121385,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
+    },
+    {
+      "added_at": "2024-02-19 05:01:54",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
+      },
+      "artists": [
+        {
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+        }
+      ],
+      "duration_ms": 279853,
+      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
     },
     {
       "added_at": "2024-02-19 05:01:54",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-02-19 05:01:54",
       "album": {
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "added_at": "2024-02-19 05:01:54",
+      "album": {
         "name": "A Wonderful World",
         "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 203893,
       "name": "A Kiss to Build a Dream On",
       "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
-    },
-    {
-      "added_at": "2024-02-19 05:01:54",
-      "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2024-02-19 05:01:54",

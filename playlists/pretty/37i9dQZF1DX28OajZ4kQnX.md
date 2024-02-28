@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,453 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,456 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 43 | [Twist the Tongue](https://open.spotify.com/track/4NCdEAjaEq1g44y9jJg7KB) | [Da Agent](https://open.spotify.com/artist/7CC1ueFQOyHQNAuM7nKKrQ) | [Twist the Tongue](https://open.spotify.com/album/2FTNEPfG7iNxL05dUPxoCD) | 3:07 |
 | 44 | [The Force cypher](https://open.spotify.com/track/61tNZ0wYPXtsDgfOuJGcGE) | [Barna](https://open.spotify.com/artist/6NjE8DoZce6PZWb8Hlqbqg), [Mal\-X](https://open.spotify.com/artist/5WFfgWssxuxBPahx7tnM75), [Pyrate](https://open.spotify.com/artist/7BIp16JztBSnvYceUedF0o), [Ernest Rush](https://open.spotify.com/artist/1NMJsLfnGY5XfZz0djAukz), [Cadilux](https://open.spotify.com/artist/4HECkDYTAYAeuzou27qOzV), [Wake](https://open.spotify.com/artist/1sUnESr9CmjLxaxM1vbD47), [Dagg Mizzo](https://open.spotify.com/artist/0GMFz3B6MYqCGZDxTEhkwo) | [The Force cypher](https://open.spotify.com/album/4vz11zgcRyWuQwplz3Re2l) | 7:09 |
 | 45 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 |
-| 46 | [Lost Yourself](https://open.spotify.com/track/32MeF1lagNJC0FxENNKATr) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Lost Yourself](https://open.spotify.com/album/1IQoFSV5fxC4xlSVhHfRFn) | 4:16 |
+| 46 | [Lost Yourself](https://open.spotify.com/track/0hEtbZaCuTwOHOLBFghDPW) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [ONE OF US](https://open.spotify.com/album/4RqyJk6JEauC78BwlFfSFm) | 4:16 |
 | 47 | [Kaazi](https://open.spotify.com/track/0lDoCgY33JV4rEllLJ8ubM) | [Paapa T](https://open.spotify.com/artist/7Ii9A3fiHC0LWGzgjekkba), [Rie](https://open.spotify.com/artist/67qQPzQB13ihMnIwS27kbr) | [Kaazi](https://open.spotify.com/album/57Ad8YNHXuOYMzpVVbvC9L) | 4:09 |
 | 48 | [Been Bout My Thang](https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K) | [Lyrical G](https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ), [GNL Zamba](https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK) | [Geezy](https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd) | 3:04 |
 | 49 | [Tv](https://open.spotify.com/track/4DcnGM5mD1Y2QOsywxBMsG) | [Aspika Spoila](https://open.spotify.com/artist/0Rf53WT6ObQ2ysOQyFOkUF) | [GOOD VIBES ONLY](https://open.spotify.com/album/27V62S1APV16vw1MCX8BPl) | 2:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/79Z6HX577GPeUdKD4CUWgW) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCxmZThiYWVjYmEwYTA1NGNiNDM2MmIwZmZlZTcxMjU1MmNmMGI4NmJi`
+Snapshot ID: `MCwxYWM4ODhiNTcxZTVkYzQ3YjY0ZGU0NGIxMWI5NzFjYTk3MTQ3NGM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Santa Fe Klan, Peso Pluma, y Duki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,736 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,746 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 |
 | 50 | [El Castillo De La Pureza](https://open.spotify.com/track/7vOGeCyclXHCgAxC7IyTyi) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Castillo De La Pureza](https://open.spotify.com/album/0wn1xgrHkSxTG8dsH7qvnd) | 4:41 |
 
-Snapshot ID: `MCw3ZTcxZWRmOTk2ZmQ5YWY4MWQ2OTc2OWVmNzJjYjYwN2QxYmE0NGRh`
+Snapshot ID: `MCwwZWYxNjliOTJjNGE0YmY4NzQ0YjFhODk1MjE4MDE4NTE4MzRmM2E0`

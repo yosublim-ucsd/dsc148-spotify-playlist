@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 453874,
+  "2024-02-28": 453929,
   "date_first_scraped": "2021-12-21",
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Belmont",
   "name": "The Scene",
@@ -6001,7 +6001,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 218290,
       "name": "Everything Else Can Wait",
       "url": "https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r"
@@ -10043,6 +10043,24 @@
       "duration_ms": 185930,
       "name": "Jesus Can't Save You",
       "url": "https://open.spotify.com/track/3I0LB9kaFoeGl6pb2RHzDJ"
+    },
+    {
+      "album": {
+        "name": "Joan of Hill",
+        "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Joan of Hill",
+      "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
     },
     {
       "album": {

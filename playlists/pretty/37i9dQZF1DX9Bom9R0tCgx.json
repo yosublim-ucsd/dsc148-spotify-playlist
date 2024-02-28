@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 365372,
+  "num_followers": 365511,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTgyM2Y4MzFhZTNjMTZjMDlhYTU0ZWVlN2Y3YmQzZTkyNDcwZmIw",
+  "snapshot_id": "MCwyYWU3ZWQxOWVlNzA1ZGU2NGNhODJjMjU1ZWEzMjYyMThlNmQ2ZTk5",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Fire To The Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
-      },
-      "artists": [
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Fire To The Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -971,22 +951,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+        "name": "Fire To The Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
       },
       "artists": [
         {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
         },
         {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+      "duration_ms": 144935,
+      "name": "Fire To The Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1007,6 +987,26 @@
       "duration_ms": 179738,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 176914,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0l4G9jBMrdIXWPdRGzWMji"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 216152,
       "name": "Legends",
       "url": "https://open.spotify.com/track/54cwQJs1IBsp7uFAJB0aGK"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/5nEUqBceCXlkmbFYD75APW"
-      },
-      "artists": [
-        {
-          "name": "Robbe",
-          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
-        },
-        {
-          "name": "Payback",
-          "url": "https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE"
-        }
-      ],
-      "duration_ms": 164475,
-      "name": "Pjanoo",
-      "url": "https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
       },
@@ -1383,6 +1363,26 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/5nEUqBceCXlkmbFYD75APW"
+      },
+      "artists": [
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "Payback",
+          "url": "https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE"
+        }
+      ],
+      "duration_ms": 164475,
+      "name": "Pjanoo",
+      "url": "https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -1395,6 +1395,30 @@
       "duration_ms": 192390,
       "name": "GASOLINA & COCAINA",
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "The Woodchuck Song (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/7GsO3W8CwgwTr2YztKPPM4"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 157593,
+      "name": "The Woodchuck Song - Sonny Wern Remix",
+      "url": "https://open.spotify.com/track/5bEtsgIeyAETUJTSraod2Y"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1427,30 +1451,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "The Woodchuck Song (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/7GsO3W8CwgwTr2YztKPPM4"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 157593,
-      "name": "The Woodchuck Song - Sonny Wern Remix",
-      "url": "https://open.spotify.com/track/5bEtsgIeyAETUJTSraod2Y"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Better Than Gold",
         "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 320000,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "Hyper Hyper",
         "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 178153,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Drop It Down",
-        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Drop It Down",
-      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Insomnia (Rework)",
         "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 180000,
       "name": "Insomnia - Rework",
       "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Drop It Down",
+        "url": "https://open.spotify.com/album/7u26VusojvClzoCafHyzcV"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Drop It Down",
+      "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "I Like The Way",
         "url": "https://open.spotify.com/album/6Pp506fICZB5kD6futGFpp"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 160312,
       "name": "I Like The Way",
       "url": "https://open.spotify.com/track/2WS439Dg6I4yJ9b6nnHS6l"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2024-02-22 23:00:00",

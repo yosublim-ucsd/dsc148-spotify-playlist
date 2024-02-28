@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-330 songs - 17 hr 39 min
+331 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-14 | 2023-04-15 |
 | [Echale Un Cinco Al Piano](https://open.spotify.com/track/7aAjumaSb2MGoMAAfTn3C9) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño De Tierra](https://open.spotify.com/album/4AKgVZYbOk9jHEeWpN1r34) | 2:32 | 2022-06-08 | 2022-07-29 |
 | [El Adiós](https://open.spotify.com/track/1zFBV55lGYTrdXSUu9Qigg) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [El Adiós](https://open.spotify.com/album/5ymjo4k8dLgS8d2cbqivxN) | 3:14 | 2022-06-08 | 2022-07-27 |
-| [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 | 2022-06-08 |  |
+| [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 | 2022-06-08 | 2024-02-28 |
 | [El Ayudante](https://open.spotify.com/track/6u6CbilXxjSq7259WTa9jU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [35 Anniversary Re\-Mastered Series, Vol\. 8](https://open.spotify.com/album/0uIDXufoextFXD6IuYWByl) | 2:48 | 2022-06-08 | 2022-07-29 |
 | [El Desmadre](https://open.spotify.com/track/1UW2EbzKVV5Vubsmp5NA0j) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Desmadre](https://open.spotify.com/album/7EA4LPbqYNO4h7K0xhfA8c) | 2:51 | 2022-06-08 | 2022-07-29 |
 | [El Desquite](https://open.spotify.com/track/1uOFwV3nwm4CXB84W09jPk) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 2:41 | 2022-06-08 | 2022-07-28 |
@@ -322,6 +322,7 @@
 | [Usted No Me Olvida \- Remix](https://open.spotify.com/track/68K1Cq7jgceq0yV0Q2Kog6) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Usted No Me Olvida \(Remix\)](https://open.spotify.com/album/0HqOs4dPfChJGiUSxxGiex) | 3:13 | 2022-06-08 | 2023-01-06 |
 | [Usted No Me Olvida \- Remix](https://open.spotify.com/track/7HD4v4EnxsJh4frQP03PBE) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Usted No Me Olvida \(Remix\)](https://open.spotify.com/album/2wsFxekJK2wsBHIcsNnVLa) | 3:13 | 2022-06-08 | 2022-07-29 |
 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 | 2022-06-08 | 2024-01-08 |
+| [Veinte Años](https://open.spotify.com/track/1t67fCJnJsszjnCSpY8gfs) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Mi Consentida](https://open.spotify.com/album/3wFU7VA0XGVwuY0sZm95qH) | 3:01 | 2023-04-14 |  |
 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 | 2023-02-14 | 2023-04-15 |
 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 | 2022-06-08 | 2022-12-13 |
 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 | 2022-06-08 |  |

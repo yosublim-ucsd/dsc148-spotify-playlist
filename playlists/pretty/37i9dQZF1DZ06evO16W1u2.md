@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 5 | [La Universidad \(cosa de Locos\)](https://open.spotify.com/track/2uWpNusYG5sEpvGNmOr03P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:36 |
 | 6 | [La Empiezo a Odiar](https://open.spotify.com/track/1wQSySo4aInJ4f3UQkQme9) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 4:33 |
 | 7 | [Al Norte de América](https://open.spotify.com/track/2KC0gekyXoj4Rn5S7WApIL) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 4:38 |
-| 8 | [Me Estoy Quemando](https://open.spotify.com/track/3WsfozLckE6PpvImGxcelw) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:02 |
+| 8 | [Algo de Ti](https://open.spotify.com/track/0m9qdx9xK1SankfVYz6eZe) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 4:28 |
 | 9 | [Televidente](https://open.spotify.com/track/0nzVEX7ycl6THLtaOsQBxM) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:04 |
 | 10 | [Todo Estaba Bien](https://open.spotify.com/track/3vUkyvc3QTvsFrFfypwsBE) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 4:50 |
-| 11 | [Algo de Ti](https://open.spotify.com/track/0m9qdx9xK1SankfVYz6eZe) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 4:28 |
+| 11 | [Me Estoy Quemando](https://open.spotify.com/track/3WsfozLckE6PpvImGxcelw) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:02 |
 | 12 | [No Me Cabe Duda](https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 3:34 |
 | 13 | [A la Droga Dile No](https://open.spotify.com/track/4jwJ4q8YpryDeoGaOhkwXo) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:31 |
 | 14 | [No Quiero Verte Más](https://open.spotify.com/track/7siVuRZAlqTw0qG1cyN2tG) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [No Hay Ley](https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:23 |
 | 50 | [Hechizo de Amor](https://open.spotify.com/track/18Pc3bfmEYe4y9krL6F4uG) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V) | 4:31 |
 
-Snapshot ID: `Mjg0ODI0ODEsMDAwMDAwMDAyOGQ0NTA5ZDlmNjU4ZWZjMTk5ZWYwNzg5MWExNGZkMQ==`
+Snapshot ID: `Mjg0ODM5MjIsMDAwMDAwMDBjZDFhZWJkNDBiZDk3NmJjMDg4YzRlZjhhMTJmMjdjOA==`

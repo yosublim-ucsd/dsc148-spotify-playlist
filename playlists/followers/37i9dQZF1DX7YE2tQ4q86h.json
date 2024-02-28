@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 141215,
+  "2024-02-28": 141466,
   "date_first_scraped": "2022-04-19",
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Annalisa",
   "name": "OBSESSED",
@@ -2116,7 +2116,7 @@
         },
         {
           "name": "DJ LUVHUNTAH",
-          "url": "https://open.spotify.com/artist/0Qhg5ChZBQuCVGFZt2T1zd"
+          "url": "https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB"
         },
         {
           "name": "DJ_Ge5Und#Eit",
@@ -12976,6 +12976,24 @@
     },
     {
       "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/0LnxiZOAney6adkGRTWFPj"
+      },
+      "artists": [
+        {
+          "name": "LEONI",
+          "url": "https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139906,
+      "name": "SUPERNOVA",
+      "url": "https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ"
+    },
+    {
+      "album": {
         "name": "POP MUSIC",
         "url": "https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK"
       },
@@ -14469,7 +14487,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"

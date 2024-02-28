@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> I NORRLAND ÄR DET FEST!!
+> DUNK\-DUNK\-DUNKA 30 K\-M\-H!!
 
 986 songs - 1 day 17 hr 55 min
 

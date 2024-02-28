@@ -1,12 +1,12 @@
 {
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
-  "num_followers": 48729,
+  "num_followers": 48805,
   "original_name": "Sunny dnb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk3YTU4MDg2YmVjMjQ1YWQyOTU2MzRlNDUxMzU0ZmEzMjM2MWQy",
+  "snapshot_id": "MCxkOWFhMTEyMjJiMmE0YTI4ZTIyOGMyMmJkZjIzM2NiMzQxYzA1ODcy",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Bad Gyalz",
-        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Bad Gyalz",
-      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 224946,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "What Came Before",
+        "url": "https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Ethan Holt",
+          "url": "https://open.spotify.com/artist/6oXVsRBjoHgCew4S8GZDkl"
+        }
+      ],
+      "duration_ms": 204426,
+      "name": "Hold Your Ground (feat. Ethan Holt)",
+      "url": "https://open.spotify.com/track/1hUTI1FVsGJ10SptsuxXkt"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "In Rotation",
         "url": "https://open.spotify.com/album/409Mx0Ize6hZ7m5E7exzm3"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 228965,
       "name": "Fingerprints",
       "url": "https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "What Came Before",
-        "url": "https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Ethan Holt",
-          "url": "https://open.spotify.com/artist/6oXVsRBjoHgCew4S8GZDkl"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Hold Your Ground (feat. Ethan Holt)",
-      "url": "https://open.spotify.com/track/1hUTI1FVsGJ10SptsuxXkt"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
-        }
-      ],
-      "duration_ms": 145862,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/7FSfVdPaYgi3mQfjpfmMBP"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 270802,
       "name": "My Love - Sigma Remix",
       "url": "https://open.spotify.com/track/0vSkBIWphrAM777tZr0eBi"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "duration_ms": 145862,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1"
     },
     {
       "added_at": "2023-11-17 00:01:00",

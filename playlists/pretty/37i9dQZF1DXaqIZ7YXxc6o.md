@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Effy, Mall Grab
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,688 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,695 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [In Another Life](https://open.spotify.com/track/66hwliyazffboYVlZHX0Cl) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [In Another Life](https://open.spotify.com/album/3kA0474i8lXVPAHi2w9awS) | 5:21 |
 | 100 | [SHELLSHOCK](https://open.spotify.com/track/1hGA3eZuKXc3EaXYRCX7Ux) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [HOOLIGAN EP](https://open.spotify.com/album/6IaOEambxijbpW3M1SxU2H) | 2:43 |
 
-Snapshot ID: `MCw2NTAwMmYyNDU5NDE4M2JkMmZlYjRjOWE0NTg2M2QzNjcwNGJhMzJm`
+Snapshot ID: `MCw2NTRiNzMyNmM0YmUwNDBjZTVjOWZiZWY3MjFmOThhZDc5ZGNmNzNk`

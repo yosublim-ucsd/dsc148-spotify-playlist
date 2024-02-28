@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-388 songs - 17 hr 14 min
+390 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-12-04 | 2023-06-17 |
 | [Blue Atlanta](https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Blue Atlanta](https://open.spotify.com/album/3sNsCFbYYDe2te2R8xRrAE) | 3:20 | 2023-01-27 | 2023-09-19 |
 | [Blurt](https://open.spotify.com/track/2XTmhaY18G7VLHW7FMJqRf) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Bullfighting in Brooklyn](https://open.spotify.com/album/0RczVvSu1mtAmEyeQAiyLC) | 2:13 | 2024-01-19 |  |
-| [Blurt](https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Blurt](https://open.spotify.com/album/4iM2ECj6UkJ3sUwcnofnOF) | 2:13 | 2023-09-29 |  |
+| [Blurt](https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Blurt](https://open.spotify.com/album/4iM2ECj6UkJ3sUwcnofnOF) | 2:13 | 2023-09-29 | 2024-02-28 |
 | [bones](https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx), [pwon](https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM) | [bones](https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s) | 2:22 | 2023-06-09 | 2023-11-18 |
 | [Borderline Personality](https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Sick Sad Obsession](https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb) | 2:03 | 2023-06-23 |  |
 | [BOUND 2 U](https://open.spotify.com/track/09EH1eKKDdNK2cVeIqKWaW) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [BOUND 2 U](https://open.spotify.com/album/7Cw9sXEeO8gQf6xGkQkfiS) | 2:05 | 2023-12-15 |  |
@@ -108,6 +108,7 @@
 | [disavow](https://open.spotify.com/track/0xXw3fZmE7EJ5tBlkYwL6a) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [disavow](https://open.spotify.com/album/2PpZamHCU2LmUHo2Sv1JPb) | 2:16 | 2023-12-01 |  |
 | [discarded](https://open.spotify.com/track/1g7guvTTxW9tHwc5Qu74rJ) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic) | [digilogue](https://open.spotify.com/album/6W0ve31JhA8wFuLoKbYZTe) | 3:51 | 2023-12-08 |  |
 | [Disconnected](https://open.spotify.com/track/7KbzSmMnizGMv73yXiqZyz) | [Zayuh](https://open.spotify.com/artist/1AOUCMkVCOAcW0tbUXwDQB) | [Disconnected](https://open.spotify.com/album/7qJKkYuJJ5xcLxq9rqNDlJ) | 1:24 | 2023-12-01 |  |
+| [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 |  |
 | [distant](https://open.spotify.com/track/0KJVPtDDxAJxXKvHE3MC9v) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6), [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn) | [EVEN IF](https://open.spotify.com/album/1rFxsnEzfqRYzm9LNcgouz) | 1:45 | 2023-09-20 |  |
 | [Do U Wanna Stay?](https://open.spotify.com/track/1uyNFMBOQXx6laYMtiZG61) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Do U Wanna Stay?](https://open.spotify.com/album/1p1l2zqAcZXdW4sKyktF2N) | 2:30 | 2022-12-04 | 2023-02-18 |
 | [don't bother me!!!](https://open.spotify.com/track/5aToRhEcNYAZbUt99vSDCL) | [Atlas in Motion](https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [don't bother me!!!](https://open.spotify.com/album/1UK4uh5DuMuXvnnuXuTVUN) | 3:08 | 2023-03-17 | 2023-09-22 |
@@ -294,7 +295,7 @@
 | [sheep](https://open.spotify.com/track/47LQYTkU1i3Xr5NYEVlTRd) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy), [oc](https://open.spotify.com/artist/6e0A38lng3gwUehNIeSm3G), [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [sheep](https://open.spotify.com/album/16yEDTVbS0kNMxqhmjSL6S) | 3:34 | 2023-12-01 |  |
 | [ShoulderBlades](https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [ShoulderBlades](https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW) | 2:29 | 2023-01-20 | 2023-09-19 |
 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 | 2022-12-04 | 2023-02-18 |
-| [Sierra Echo X\-Ray](https://open.spotify.com/track/1hTjFQkvcfUfPN2vPDDn5J) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 2:12 | 2023-11-17 |  |
+| [Sierra Echo X\-Ray](https://open.spotify.com/track/1hTjFQkvcfUfPN2vPDDn5J) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 2:12 | 2023-11-17 | 2024-02-28 |
 | [Sierra Echo X\-Ray](https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Sierra Echo X\-Ray](https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ) | 2:12 | 2023-01-13 | 2023-12-09 |
 | [sins \(let me in\)](https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [sins \(let me in\)](https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg) | 2:08 | 2023-09-15 |  |
 | [skin](https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [skin](https://open.spotify.com/album/29iYKOWHrTz5kAMWT8ick9) | 3:20 | 2023-09-21 |  |
@@ -334,7 +335,8 @@
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |
 | [the end.](https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck\. run\. sink\. die\. the end.](https://open.spotify.com/album/77Vn3DDWatnu93qk2c0CoE) | 2:33 | 2023-08-25 |  |
 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 | 2023-01-06 | 2023-09-19 |
-| [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 |  |
+| [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 | 2024-02-13 |  |
+| [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2024-02-28 |
 | [the muse](https://open.spotify.com/track/5rBD71RobWRssvUnK2rbc9) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [the muse](https://open.spotify.com/album/7mKUfDf8TjnrBuYtsBO960) | 3:39 | 2024-02-13 |  |
 | [The Poison's The Weather](https://open.spotify.com/track/3gV6pc8ERKK7e174TRxuBU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [The Poison's The Weather](https://open.spotify.com/album/6sAC8GdyWcFqtzrbxejyso) | 2:40 | 2023-03-24 | 2023-09-22 |
 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 | 2023-09-15 |  |

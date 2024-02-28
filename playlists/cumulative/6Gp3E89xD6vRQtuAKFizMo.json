@@ -1179,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Deeper (feat. Britt Lari)",
+        "url": "https://open.spotify.com/album/4MHyWFTymT76DoaChcI8Kj"
+      },
+      "artists": [
+        {
+          "name": "K3SS",
+          "url": "https://open.spotify.com/artist/56HIHMnIOj1xfjzBtAVxA4"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Deeper (feat. Britt Lari)",
+      "url": "https://open.spotify.com/track/0ZkliuhJeGUEu674X81vYd"
+    },
+    {
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/09ZrrEnySnNaz6GPOzQLqi"
       },

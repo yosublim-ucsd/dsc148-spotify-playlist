@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 103103,
+  "num_followers": 103102,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2ExMTg2YjQ5YWE0NjU5YTZkOWI4NDJkZGViNmQ2MzVhMWVjMGE2",
+  "snapshot_id": "MCw4MzI4Y2IwM2JmMTQ3NDM1OWQ1ZGZhYTI0NjUyZjgxNTc3MzlkNmM3",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Box of Memories",
         "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 162160,
       "name": "Box of Memories",
       "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Maiestas",
-        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
-      },
-      "artists": [
-        {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
-        }
-      ],
-      "duration_ms": 171452,
-      "name": "Maiestas",
-      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Szymanowski: Piano Works, Vol. 2",
         "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Fallboard",
-        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+        "name": "Maiestas",
+        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
       },
       "artists": [
         {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 160009,
-      "name": "Fallboard",
-      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+      "duration_ms": 171452,
+      "name": "Maiestas",
+      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -691,6 +675,22 @@
       "duration_ms": 143011,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Fallboard",
+        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+      },
+      "artists": [
+        {
+          "name": "Esther Dutch",
+          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+        }
+      ],
+      "duration_ms": 160009,
+      "name": "Fallboard",
+      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB"
-      },
-      "artists": [
-        {
-          "name": "Eamonn Watt",
-          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
-        }
-      ],
-      "duration_ms": 164719,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB"
+      },
+      "artists": [
+        {
+          "name": "Eamonn Watt",
+          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
+        }
+      ],
+      "duration_ms": 164719,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -803,22 +803,6 @@
       "duration_ms": 126517,
       "name": "White Garden",
       "url": "https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz"
-      },
-      "artists": [
-        {
-          "name": "Omri Grummet",
-          "url": "https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr"
-        }
-      ],
-      "duration_ms": 147670,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz"
+      },
+      "artists": [
+        {
+          "name": "Omri Grummet",
+          "url": "https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr"
+        }
+      ],
+      "duration_ms": 147670,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Om \u00e4n bara f\u00f6r en stund",
         "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Tient qu'a\u0300 un fil",
-        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Tient qu'a\u0300 un fil",
-      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Pour Vous",
         "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211000,
       "name": "Exhibitions",
       "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Tient qu'a\u0300 un fil",
+        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "Tient qu'a\u0300 un fil",
+      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Dark Taupe",
-        "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
-      },
-      "artists": [
-        {
-          "name": "Arden Forest",
-          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
-        }
-      ],
-      "duration_ms": 182435,
-      "name": "African Violet",
-      "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Feels like home",
         "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 153902,
       "name": "Feels like home",
       "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Unyielding Faith",
+        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Unyielding Faith",
+      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unyielding Faith",
-        "url": "https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp"
+        "name": "Dark Taupe",
+        "url": "https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Arden Forest",
+          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Unyielding Faith",
-      "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
+      "duration_ms": 182435,
+      "name": "African Violet",
+      "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
-      },
-      "artists": [
-        {
-          "name": "Carl Stark Willgold",
-          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Center of Gravity",
         "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 198739,
       "name": "Mantra for Piano",
       "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
+      },
+      "artists": [
+        {
+          "name": "Carl Stark Willgold",
+          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Airbourne",
-        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
-      },
-      "artists": [
-        {
-          "name": "Eric Badanti",
-          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Airbourne",
-      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Silentium",
         "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Ready Set Love",
-        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+        "name": "Airbourne",
+        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
       "artists": [
         {
-          "name": "Piotr Miteska",
-          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+          "name": "Eric Badanti",
+          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
         }
       ],
-      "duration_ms": 89918,
-      "name": "Ready Set Love",
-      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
+      "duration_ms": 238588,
+      "name": "Airbourne",
+      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1351,6 +1335,22 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Ready Set Love",
+        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+      },
+      "artists": [
+        {
+          "name": "Piotr Miteska",
+          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+        }
+      ],
+      "duration_ms": 89918,
+      "name": "Ready Set Love",
+      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Selected Works",
-        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "La Luce Nel Cuore",
-      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "So Flows The Current",
         "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 289280,
       "name": "Beyond This Moment",
       "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Selected Works",
+        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bavota",
+          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "La Luce Nel Cuore",
+      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb"
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
       },
       "artists": [
         {
-          "name": "Josef Passagio",
-          "url": "https://open.spotify.com/artist/0TQaVw4oiRmOcP5MIIZ9wF"
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
         }
       ],
-      "duration_ms": 126229,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
+      "duration_ms": 168833,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
     }
   ],
   "unique_name": "Piano Study",

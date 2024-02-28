@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 145266,
+  "2024-02-28": 145268,
   "date_first_scraped": "2024-01-21",
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
   "name": "\u4eba\u6c14K\u6b4c\u699c",
@@ -79,6 +79,24 @@
       "duration_ms": 239652,
       "name": "Till The End",
       "url": "https://open.spotify.com/track/4x22u0rFlDAlliV3VqRQHe"
+    },
+    {
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297200,
+      "name": "\u4e03\u91cc\u9999",
+      "url": "https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1"
     },
     {
       "album": {
@@ -313,7 +331,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 298293,
       "name": "\u53ef\u60dc\u6c92\u5982\u679c",
       "url": "https://open.spotify.com/track/6WoQzK5Exbfcmow1AoNRkl"

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-389 songs - 1 day 4 hr 2 min
+390 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [AI](https://open.spotify.com/track/6bQ4fk3jjE6F8SLf1QYRTQ) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [AI](https://open.spotify.com/album/1QXqnUwBUiY5KFMjwJC5LT) | 4:40 | 2024-02-19 |  |
 | [As Far As I Can Go By Missing You \- Ending theme song of "Endless Love"](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [As Far As I Can Go By Missing You \(Ending theme song of "Endless Love"\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 | 2022-06-06 | 2022-07-16 |
 | [Beautiful For Whom \- "The Little Nyonya" Opening Theme Song](https://open.spotify.com/track/6c0EmxRJ58IcR4LQZSLLhP) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Beautiful For Whom \("The Little Nyonya" Opening Theme Song\)](https://open.spotify.com/album/4VL0iAv3ur1NZXD7XlIGjt) | 4:38 | 2022-06-20 | 2022-07-20 |
+| [Beautiful Love \(原創版\)](https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [Beautiful Love \(原創版\)](https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ) | 4:45 | 2024-02-27 |  |
 | [BREAKDOWN](https://open.spotify.com/track/5W6r62U28WQKeAH83sM2y5) | [耿斯漢](https://open.spotify.com/artist/5jkvZWwbf42TNt1kFnGSce) | [BREAKDOWN](https://open.spotify.com/album/4avodBPK5QwdNztAzxko0S) | 3:50 | 2023-09-04 | 2023-09-12 |
 | [diminished](https://open.spotify.com/track/1rs16sDxwrpRetsZd1PCwe) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [diminished](https://open.spotify.com/album/3hDI8XUZf45xWzAMM38d4r) | 3:54 | 2023-07-10 | 2023-07-18 |
 | [Don’t Blow Away](https://open.spotify.com/track/5ZG1HDy7TYzQFUGQ9wQvs2) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Don’t Blow Away](https://open.spotify.com/album/2HLOi336hZEySin334MKne) | 4:19 | 2022-06-06 | 2022-07-17 |
@@ -33,7 +34,7 @@
 | [Nonessential](https://open.spotify.com/track/2yVK1z120agYPamULKbiCL) | [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [BJ4](https://open.spotify.com/album/45NCcOdArmL9FnHTeiFHyV) | 4:13 | 2022-06-06 | 2022-06-12 |
 | [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [隊長](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 | 2022-09-05 |  |
 | [On My Way \- 影視劇《親愛壞蛋》片尾曲](https://open.spotify.com/track/58FimlHk9xz5UGMOxdSWbf) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [On My Way](https://open.spotify.com/album/26b0d7sqq6kHiYbsV4bBPq) | 3:13 | 2023-04-24 | 2023-05-02 |
-| [P.S.我爱你](https://open.spotify.com/track/6ZQ9qpCZicyLZciOKXb4be) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [P.S.我爱你](https://open.spotify.com/album/0FZ2dIwuo2dgaTS8TlLFIr) | 4:12 | 2024-02-19 |  |
+| [P.S.我爱你](https://open.spotify.com/track/6ZQ9qpCZicyLZciOKXb4be) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [P.S.我爱你](https://open.spotify.com/album/0FZ2dIwuo2dgaTS8TlLFIr) | 4:12 | 2024-02-19 | 2024-02-28 |
 | [Passing Through](https://open.spotify.com/track/0byLWD6kVSZmXw9IFtLyW0) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [Drifter](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:13 | 2022-06-13 | 2022-07-20 |
 | [So Far Away](https://open.spotify.com/track/0TdHOyWGsuZIStaVJIBuTI) | [劉芯妤](https://open.spotify.com/artist/0HMLasq8hfthRFt6DGRA47) | [So Far Away](https://open.spotify.com/album/6vchSuJqaags07dhfrdpSP) | 4:02 | 2024-01-15 | 2024-01-23 |
 | [Somebody Else](https://open.spotify.com/track/1AzOQmikzj7kAuPobEbpQd) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Somebody Else](https://open.spotify.com/album/5LaEOiUvmv5sTX4lEPIxD6) | 2:58 | 2023-08-28 | 2023-10-16 |

@@ -1126,10 +1126,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 227613,
       "name": "Cosmic Changes",
       "url": "https://open.spotify.com/track/6dD48wXYlHT5sX11wHr4eO"
+    },
+    {
+      "album": {
+        "name": "Instrumentals JID019",
+        "url": "https://open.spotify.com/album/4C3R9BzlR6WCrp3tmf4CYn"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227621,
+      "name": "Cosmic Changes - Instrumental",
+      "url": "https://open.spotify.com/track/5lwTXbRfejZvKIHH5rBHdt"
     },
     {
       "album": {
@@ -3398,10 +3420,40 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 210473,
       "name": "Open Eye",
       "url": "https://open.spotify.com/track/0vYJOQzSOVD53UmRAP08aH"
+    },
+    {
+      "album": {
+        "name": "Phil Ranelin and Wendell Harrison JID016",
+        "url": "https://open.spotify.com/album/3HJHDhPks17PS9Xygh3c4T"
+      },
+      "artists": [
+        {
+          "name": "Phil Ranelin",
+          "url": "https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1"
+        },
+        {
+          "name": "Wendell Harrison",
+          "url": "https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210473,
+      "name": "Open Eye",
+      "url": "https://open.spotify.com/track/2nJCIwaKBolJwPV0Yry9E6"
     },
     {
       "album": {

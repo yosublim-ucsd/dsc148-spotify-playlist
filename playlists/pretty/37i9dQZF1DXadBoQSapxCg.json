@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 308820,
+  "num_followers": 308845,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTYyNDZhYjFiYjljYThkNzUzOWExYzBmMTFjZWQ0NTdlOGNiNmRm",
+  "snapshot_id": "MCxlZDIzYWVmZGUwNTliYzUzNGRiMTdjMzUwYmQyNDJhY2FjYzAyNWIw",
   "tracks": [
     {
       "added_at": "2024-02-23 03:01:00",
@@ -347,30 +347,6 @@
     {
       "added_at": "2024-02-23 03:01:00",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
-    },
-    {
-      "added_at": "2024-02-23 03:01:00",
-      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
       },
@@ -391,6 +367,30 @@
       "duration_ms": 209654,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
+    },
+    {
+      "added_at": "2024-02-23 03:01:00",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2024-02-23 03:01:00",

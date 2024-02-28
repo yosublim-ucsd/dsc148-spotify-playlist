@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 2059,
+  "num_followers": 2057,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTQ4M2VkNGU4OGFkNmNiNTRiMzQwYTc3NTcyOTFiNDJmOTc5NGFh",
+  "snapshot_id": "MCwxZGRjNjI0NjhmZGE2MGI5NTAxZDQ4YzFkN2MzMjRkMmI1NzU3MDY3",
   "tracks": [
     {
       "added_at": "2023-12-15 19:49:30",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Una Vida Buena",
         "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 130000,
       "name": "Una Vida Buena",
       "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "La Fiesta de Pilito",
-      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Mariachi Total",
         "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Billos Caracas Boys Fin de A\u00f1o",
-        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Cheo Garcia",
-          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 171990,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
+      "duration_ms": 237253,
+      "name": "La Fiesta de Pilito",
+      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -979,6 +959,26 @@
       "duration_ms": 157826,
       "name": "El Merecumbe",
       "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Billos Caracas Boys Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        },
+        {
+          "name": "Cheo Garcia",
+          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "La Orquesta de Siempre: Volume 1",
-        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Amores Perros (Soundtrack)",
         "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 276040,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/22YrEL6IbDx4axzr8Wpw9M"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "La Maquina del Sabor '88",
+        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
+      },
+      "artists": [
+        {
+          "name": "Gran Coquivacoa",
+          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Gaita Onomatop\u00e9yica",
+      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "La Orquesta de Siempre: Volume 1",
+        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Super \u00c9xitos Maracaibo 15",
         "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 196240,
       "name": "Viejo A\u00f1o",
       "url": "https://open.spotify.com/track/7qThJQYcDMwvEFTcQQHEHV"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "La Maquina del Sabor '88",
-        "url": "https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL"
-      },
-      "artists": [
-        {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Gaita Onomatop\u00e9yica",
-      "url": "https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1203,22 +1203,6 @@
       "duration_ms": 269520,
       "name": "Canto A Bor\u00ednquen",
       "url": "https://open.spotify.com/track/1uohFd173KrmJiDjiOooLw"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Billo 74",
-        "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Aguinaldo Con Billo",
-      "url": "https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1303,6 +1287,22 @@
       "duration_ms": 194533,
       "name": "Venga un Abrazo",
       "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Billo 74",
+        "url": "https://open.spotify.com/album/0GQb89N563CubetrKf5w7F"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Aguinaldo Con Billo",
+      "url": "https://open.spotify.com/track/6lY38LRQnrma0j02GhP0me"
     }
   ],
   "unique_name": "Fiesta Decembrina",

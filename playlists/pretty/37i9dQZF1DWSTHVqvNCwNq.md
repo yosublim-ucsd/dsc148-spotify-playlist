@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,214 likes - 46 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,237 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 33 | [Goin' Away Mama Blues](https://open.spotify.com/track/2uMARFwLTasuuQ6cEChVBn) | [Hayes McMullan](https://open.spotify.com/artist/4ZuuzdsGaE5XzUajuwWk32) | [Everyday Seem Like Murder Here](https://open.spotify.com/album/5ZyZXEQwst3IGoXpT78TjF) | 2:25 |
 | 34 | [All Around Man](https://open.spotify.com/track/5qdSXoKf36HAtCgAsftaM4) | [Bo Carter](https://open.spotify.com/artist/2naDLHeKqXSHT3DMII2eqb) | [Presenting Bo Carter](https://open.spotify.com/album/0ofexA0pCbkL2ZVrUWimpU) | 3:00 |
 | 35 | [Cypress Grove Blues](https://open.spotify.com/track/3JPS9XaJtmBQXyJLKR2twp) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ), [Jack Owens](https://open.spotify.com/artist/57mD2xpKgNANtlCSwNDQn5) | [50 YEARS Mississippi Blues in Bentonia](https://open.spotify.com/album/4yYLSeTmtInZXtSuy1rGav) | 3:09 |
-| 36 | [Mr Freddie's Kokomo Blues](https://open.spotify.com/track/0NNsX9iY7shbtzCJg3DYRK) | [Freddie Spruell](https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX) | [Best of Blues Vol\. 9: Sweet Home Chicago \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/270BuNeZqDgIbHyVN6ydBY) | 3:06 |
+| 36 | [Mr Freddie's Kokomo Blues](https://open.spotify.com/track/2DnIeTrMDBjK14ROjnVDRh) | [Freddie Spruell](https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX) | [Mr Freddie](https://open.spotify.com/album/3W7ndbi3PqHCwBOdnEvwXl) | 3:06 |
 | 37 | [Baby Please Don't Go](https://open.spotify.com/track/1vjHFgIdNuLXojpkzysoV8) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Going Back to Crawford](https://open.spotify.com/album/2C4LCaMK6gc8zzMuHrEPvg) | 2:44 |
 | 38 | [You Can't Play Me Cheap](https://open.spotify.com/track/2BLNnKGGohCrCZJCYQkHhR) | [Papa Charlie's Boys](https://open.spotify.com/artist/3rASx4W8o44uXVrbv2DTD0) | [The McCoy Brothers \(Charlie & Joe McCoy\) Vol\. 2 \(1936\-1944\)](https://open.spotify.com/album/1Xrq4zowgBy55Lebz45rRc) | 2:52 |
 | 39 | [Dark Road Blues](https://open.spotify.com/track/4GfeF91zYNEDeCpHgpM190) | [Willie Lofton](https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9) | [Jackson Blues \(1928\-1938\)](https://open.spotify.com/album/31yxpUSQbO6Oa586lMo9a9) | 3:03 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
 | 46 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 |
 
-Snapshot ID: `MCxhN2RjNmE5YjBjNmY5OWI5NjczYTAzNDA1MDQ3YjJlZTllMTFjNDQ4`
+Snapshot ID: `MCwwOTA0MDJkNGRhN2EzZTcxZWNlZDIwNDUzM2U5ZGE3ZGQ4ZWY3YWU2`

@@ -7494,7 +7494,7 @@
     {
       "album": {
         "name": "The Cheek",
-        "url": "https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW"
+        "url": "https://open.spotify.com/album/3WgAlplNdRsTqpPh2E7oqn"
       },
       "artists": [
         {
@@ -7505,6 +7505,24 @@
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223018,
+      "name": "The Cheek",
+      "url": "https://open.spotify.com/track/5ixC1NfXGoGSs2J9ZdXOeZ"
+    },
+    {
+      "album": {
+        "name": "The Cheek",
+        "url": "https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-28",
       "duration_ms": 223018,
       "name": "The Cheek",
       "url": "https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X"

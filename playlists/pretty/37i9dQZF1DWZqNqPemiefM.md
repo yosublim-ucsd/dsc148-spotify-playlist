@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,275 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,303 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 3 | [Sun Tickles](https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [In Parallel](https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr) | 4:31 |
 | 4 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 |
 | 5 | [Nuska](https://open.spotify.com/track/6O7OnCq0HzT08Msx088gxn) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/6306c8CVmaIrZRGHG8UP5O) | 4:44 |
-| 6 | [Valve](https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Valve / Valve \(Revisited\)](https://open.spotify.com/album/2uMuTzWgDW1sdOs29usuUi) | 3:23 |
+| 6 | [yorumayoi](https://open.spotify.com/track/4a4q1cEaV4AqfXtdHKk2jH) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [0\-1](https://open.spotify.com/album/7hLDJKG0Ry6TAFwIdGVuIj) | 4:51 |
 | 7 | [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 |
 | 8 | [Belleville](https://open.spotify.com/track/2nGO2l8qt0OxuMLuV2uHeq) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 2:25 |
 | 9 | [Corridors of Time](https://open.spotify.com/track/1kl6jzl9h38pjzALrPYvq3) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [CHRONO TRIGGER Original Soundtrack【DS Edition】](https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 69 | [Sanctuary](https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 1:05 |
 | 70 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |
 
-Snapshot ID: `MCw5MWYzNzg2M2MzOWM2OWIxN2RhYjg3M2Q5YzM2YjdmZWZlYWE1YzEy`
+Snapshot ID: `MCxiZWIwMGM4MTQ2YTY2N2U5ZmU2MTlmMTQyYWQwYzE5YzBjNjI2ZDVh`

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 371043,
+  "num_followers": 371137,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjM3ZmUzNjM0OGY4MmRmOThlZDA4MDZkNjk2ZTNiMzljMjliZDc2",
+  "snapshot_id": "MCw2ZjBmNjkxZWUwYTA4M2E5ZWYyNjk1NGY1OGFiNGY4N2FiYzc5YWNk",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:51",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 112493,
-      "name": "All Outta Angst",
-      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Goldfinger",
         "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 190800,
       "name": "Here In Your Bedroom",
       "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Let's Do Rock Steady",
         "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 174490,
       "name": "Let's Do Rock Steady",
       "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Random I Am",
-      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Random I Am",
+      "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "Get Warmer",
         "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 282093,
       "name": "I Don't Love You Anymore",
       "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2024-02-23 18:26:51",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-23 18:26:51",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie",
-        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "Round We Go",
-      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
-    },
-    {
-      "added_at": "2024-02-23 18:26:51",
-      "album": {
         "name": "A Live Injection: Anthology 1968-1979",
         "url": "https://open.spotify.com/album/2So48zf14on4O5uQRsa0QR"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 159400,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/4jcvkqhSGBvqVgPmvZsLiQ"
+    },
+    {
+      "added_at": "2024-02-23 18:26:51",
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Round We Go",
+      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
     },
     {
       "added_at": "2024-02-23 18:26:51",

@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-236 songs - 13 hr 3 min
+237 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 | 2022-01-28 |  |
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-02-23 |  |
 | [Before You Go \- Guitar Acoustic](https://open.spotify.com/track/27829SWtwhWUANViVTEpol) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:38 | 2022-01-28 | 2023-07-01 |
+| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-27 |  |
 | [Better Break My Heart \- Acoustic version](https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Better Break My Heart](https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32) | 2:55 | 2022-01-28 | 2022-12-10 |
 | [Better Days \- Stripped](https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days \(Stripped\)](https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK) | 3:30 | 2022-01-28 | 2022-07-29 |
 | [Better Days \- Stripped](https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:30 | 2022-07-15 | 2023-07-01 |
@@ -238,7 +239,7 @@
 | [Without Me \- Stripped](https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:02 | 2022-01-28 |  |
 | [Wonder \- Acoustic](https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/1xKftSvUbbwou80OuiQZFt) | 2:53 | 2022-01-28 | 2022-05-14 |
 | [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/track/1qMbwBNvXzhHg0nK2ciMUt) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\) \(Acoustic\)](https://open.spotify.com/album/2WspulXhqZ7U6XQAInH2UU) | 2:32 | 2023-06-30 | 2023-10-28 |
-| [Yard Sale \- Folk Version](https://open.spotify.com/track/542DdjMash8Ci6aWpFwT90) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Yard Sale \(Folk Version\)](https://open.spotify.com/album/1GQeJDY5tnkVO3deoOLWXj) | 2:56 | 2023-12-15 |  |
+| [Yard Sale \- Folk Version](https://open.spotify.com/track/542DdjMash8Ci6aWpFwT90) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Yard Sale \(Folk Version\)](https://open.spotify.com/album/1GQeJDY5tnkVO3deoOLWXj) | 2:56 | 2023-12-15 | 2024-02-28 |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-01-28 |  |
 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 | 2023-06-09 | 2023-10-28 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 |  |

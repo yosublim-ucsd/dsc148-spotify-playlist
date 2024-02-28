@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-213 songs - 10 hr 53 min
+217 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [bite](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [bite](https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb) | 3:08 | 2023-05-05 |  |
 | [Blinking Floor](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Blinking Floor](https://open.spotify.com/album/0MoM280Dkta6Et0q8SxNiZ) | 3:31 | 2023-05-26 |  |
 | [Bloom](https://open.spotify.com/track/4t487YqFwbxrqFziKX396O) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Bloom](https://open.spotify.com/album/0mA04kcJvcmKdF2vmFBidO) | 3:05 | 2023-05-05 |  |
+| [BLUE LIGHTS](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l) | [XO STHLM](https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK) | [BLUE LIGHTS](https://open.spotify.com/album/5VmppbYGqYcCdy0Oz0MAMc) | 2:21 | 2024-02-27 |  |
 | [Blurry Haze](https://open.spotify.com/track/6TZnMkjj9GID1vjkvDk9XY) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Blurry Haze](https://open.spotify.com/album/3HHXh8kMMx26kJyp4aWtMg) | 2:28 | 2023-05-05 |  |
 | [Boarding](https://open.spotify.com/track/0fSEMD71VwMtIZi6IUXJjQ) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Boarding](https://open.spotify.com/album/58jr54BxPnYRK7MUFBqfSE) | 4:58 | 2023-05-05 |  |
 | [bol nou](https://open.spotify.com/track/2fNKZAs6y2KWU3RcofwDmd) | [Milk Malone](https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049) | [bol nou](https://open.spotify.com/album/5jzsGmlsw1huLuDv0mdT2k) | 2:45 | 2023-05-05 |  |
@@ -34,6 +35,7 @@
 | [C'est la vie](https://open.spotify.com/track/6pa0AGTLAWRTclXoforij1) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [C'est la vie](https://open.spotify.com/album/6lcv0jcRTZQfcHBCrzJnpf) | 2:02 | 2023-05-05 |  |
 | [Cala Pada](https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Cala Pada](https://open.spotify.com/album/6vkTL2R6ws7QMOxyfN6yc2) | 2:40 | 2023-05-05 |  |
 | [Cap](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H) | [Floral Gloam](https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM) | [Cap](https://open.spotify.com/album/49RS1FSRlFrsmA6PpzjZSN) | 2:40 | 2024-01-19 |  |
+| [Cap Martin](https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG) | [Alta Piana](https://open.spotify.com/artist/3M2f6pxSmhtK2u6Qh7U6Z4) | [Cap Martin](https://open.spotify.com/album/4wnWbqu7ENe0H3b2w7FJSK) | 2:18 | 2024-02-27 |  |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2023-05-05 |  |
 | [Catch Me If I Fall](https://open.spotify.com/track/3bYLZXk4Vu07bOjIhOlWvF) | [Leon Cox](https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz) | [Dumb Love](https://open.spotify.com/album/5R0zpwam34VSlLyjvn0Amr) | 2:21 | 2023-06-23 |  |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2023-05-05 |  |
@@ -127,6 +129,7 @@
 | [Missing U](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5) | [Baijings](https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk) | [Missing U](https://open.spotify.com/album/1QkwzQ8GWWwhDwWc7XQZEP) | 2:18 | 2023-05-05 |  |
 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 | 2023-05-05 |  |
 | [Moments](https://open.spotify.com/track/79FNpQWkuGVlwhp6lv9VyF) | [Zach Baker](https://open.spotify.com/artist/4SadLoynVcpRHr8gXb3mg1) | [Moments](https://open.spotify.com/album/4SyF0ZSP8m4u5qBpD6RXxe) | 2:59 | 2024-02-13 |  |
+| [Mont Boron](https://open.spotify.com/track/13HLMMi5C7M6B7HX3kZSmg) | [Nina Walton](https://open.spotify.com/artist/5w84I7vnbQeeVtEdR451j5) | [Mont Boron](https://open.spotify.com/album/4merpizOlILvHqO0ArbQtC) | 2:06 | 2024-02-27 |  |
 | [Mr\. Panucci](https://open.spotify.com/track/7hfOaefFJ0qzZw2NcEqA4z) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Mr\. Panucci](https://open.spotify.com/album/0IhLZK0AiG2k9S0arqumQO) | 2:33 | 2023-06-23 |  |
 | [my only](https://open.spotify.com/track/0PuEySwuDjWltm1hJfDLf9) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [my only](https://open.spotify.com/album/2nyllF9zZIJQYDFBAubiqk) | 2:41 | 2023-05-05 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2023-05-05 |  |
@@ -156,6 +159,7 @@
 | [Port Ella](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Pomaque](https://open.spotify.com/album/7ya9jIowdJzZlk01WLo2IX) | 3:46 | 2023-07-14 |  |
 | [Porto Cervo](https://open.spotify.com/track/5ttNhRQkOoNHJCdxIzdIlr) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Porto Cervo](https://open.spotify.com/album/7wmUcfuOooVUBok4lfNIbb) | 3:27 | 2023-05-05 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2023-05-05 | 2023-09-16 |
+| [Rainfall](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2) | [Purple Smog](https://open.spotify.com/artist/32T4i79ZuvzxjSochD6bgP) | [Rainfall](https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ) | 2:21 | 2024-02-27 |  |
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2023-05-05 |  |
 | [Revolución, Pt\. I](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Origins](https://open.spotify.com/album/5G6oBLVinroyJnO760V6Gu) | 5:53 | 2024-02-13 |  |
 | [Riviera Blue](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Riviera Blue](https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ) | 2:40 | 2023-11-24 |  |

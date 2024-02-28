@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 353538,
+  "2024-02-28": 353521,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -5165,7 +5165,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 239076,
       "name": "Beat da Felicidade",
       "url": "https://open.spotify.com/track/08MequW9gS7E0zs3DankNO"
@@ -31564,6 +31564,28 @@
     },
     {
       "album": {
+        "name": "The Beat Of Summer (Copy)",
+        "url": "https://open.spotify.com/album/2Yw4zSlnRxo7DZXUxmQDAn"
+      },
+      "artists": [
+        {
+          "name": "Thauan no Beat",
+          "url": "https://open.spotify.com/artist/3kRwIjI0nSDloPK7RoD92c"
+        },
+        {
+          "name": "Pedrinha Moraes",
+          "url": "https://open.spotify.com/artist/3asivM2DaHPt3PP2ZohGR3"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179231,
+      "name": "Pi Po Po Po Ro Po",
+      "url": "https://open.spotify.com/track/1Av3KDXLuWVtbtWNtzx9ma"
+    },
+    {
+      "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
       },
@@ -36061,7 +36083,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 165537,
       "name": "Sensa\u00e7ao",
       "url": "https://open.spotify.com/track/6iyCUSkOIxIcxYYu3ERAJk"
@@ -37438,6 +37460,24 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
         "name": "Soca Fofo",
         "url": "https://open.spotify.com/album/5zQocLAf5L3TjSXaEHwztg"
       },
@@ -38359,7 +38399,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
@@ -44233,7 +44273,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

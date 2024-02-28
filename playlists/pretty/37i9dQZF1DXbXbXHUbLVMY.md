@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,503 likes - 80 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,505 likes - 80 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 45 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 |
 | 46 | [Plz](https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Plz](https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb) | 2:22 |
 | 47 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 |
-| 48 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
-| 49 | [WONDERLAND](https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [WONDERLAND](https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy) | 2:21 |
-| 50 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 |
-| 51 | [Känslokall](https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:03 |
+| 48 | [WONDERLAND](https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [WONDERLAND](https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy) | 2:21 |
+| 49 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
+| 50 | [Känslokall](https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:03 |
+| 51 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 |
 | 52 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
 | 53 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 |
 | 54 | [Gangster Värld](https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Gangster Värld](https://open.spotify.com/album/3LIrW41gcm8QK5NQgEMk3e) | 2:32 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 56 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 |
 | 57 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 |
 | 58 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 |
-| 59 | [Zinah](https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Zinah](https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An) | 1:56 |
-| 60 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 |
+| 59 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 |
+| 60 | [Zinah](https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Zinah](https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An) | 1:56 |
 | 61 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 |
 | 62 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 |
 | 63 | [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 65 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 |
 | 66 | [Løsningsorienterte](https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Løsningsorienterte](https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf) | 2:53 |
 | 67 | [Mariachi](https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Mariachi](https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL) | 2:42 |
-| 68 | [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 |
-| 69 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 |
+| 68 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 |
+| 69 | [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 |
 | 70 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 |
 | 71 | [Distrikt 4](https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Distrikt 4](https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ) | 2:06 |
 | 72 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 76 | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 |
 | 77 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 |
 | 78 | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [\(Åh\) Tåmy, Tåmy \- Rifla x Sheriff](https://open.spotify.com/album/7cI6WjL8tRjS8mpFf07Wox) | 3:10 |
-| 79 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 |
-| 80 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
+| 79 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
+| 80 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 |
 
-Snapshot ID: `MCw1MDY4OTEwNmQzM2QyZWY4N2E0NWY2Nzk0ZTViZjk1MDIyY2NlNDNi`
+Snapshot ID: `MCw3NGQ5NDlhMGJmMWU4NTAwYzllNDY5NGY3Zjc3OWRjZjM0YTYxMjIz`

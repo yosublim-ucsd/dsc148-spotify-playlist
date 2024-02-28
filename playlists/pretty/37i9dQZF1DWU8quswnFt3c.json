@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 903744,
+  "num_followers": 903688,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj",
+  "snapshot_id": "MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "jesus christ in a mini skirt",
-        "url": "https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 180992,
-      "name": "jesus christ in a mini skirt",
-      "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "Pentru ca",
         "url": "https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 192000,
       "name": "Pentru ca",
       "url": "https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "jesus christ in a mini skirt",
+        "url": "https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 180992,
+      "name": "jesus christ in a mini skirt",
+      "url": "https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "P\u0142on\u0119",
-        "url": "https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS"
-      },
-      "artists": [
-        {
-          "name": "PAULA ROMA",
-          "url": "https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "P\u0142on\u0119",
-      "url": "https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "somebody's daughter",
         "url": "https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 174000,
       "name": "somebody's daughter",
       "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "P\u0142on\u0119",
+        "url": "https://open.spotify.com/album/1Lh4Zdn7pkwS0wJhvN1WaS"
+      },
+      "artists": [
+        {
+          "name": "PAULA ROMA",
+          "url": "https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "P\u0142on\u0119",
+      "url": "https://open.spotify.com/track/0xEjng5qh5HdVhRo6LKRb8"
     },
     {
       "added_at": "2024-02-07 13:26:59",

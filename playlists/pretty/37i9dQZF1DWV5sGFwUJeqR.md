@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 
 > El género cubano cantable y bailable por excelencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,195 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,238 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 21 | [El Carretero](https://open.spotify.com/track/5UxSH2QqmPlfeoqspQVZEA) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Son Cubano Para Cantar](https://open.spotify.com/album/4QIpeZWyufZKw0C9AEJES2) | 4:18 |
 | 22 | [Camina y Prende el Fogon](https://open.spotify.com/track/1ww1luAO5YeMipK9KeWzGA) | [Buena Vista Cuban Players](https://open.spotify.com/artist/5WnDeByGnh4ktFdFCjDFM7), [Grupo Raison](https://open.spotify.com/artist/5xobK7arGuQBCn0uaMB4qn) | [Authentic Cuba, Vol\. 1 \(Cuban Music Performed by Contemporary Artists\)](https://open.spotify.com/album/3f3N3tLeWhiaVFkof4CknN) | 3:28 |
 | 23 | [Son de la Loma](https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh) | [Trio Matamoros](https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW) | [Aquellos Tiempos del Trio Matamoros](https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij) | 3:37 |
-| 24 | [Acid](https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:07 |
+| 24 | [Acid](https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Head Sounds](https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l) | 5:07 |
 | 25 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
 | 26 | [El Yerberito Moderno](https://open.spotify.com/track/7Lln3fbuYhNpTQ9IdNXzEW) | [Sonora Matancera \(En Vivo\)](https://open.spotify.com/artist/7f8rM4valMkxlW81wAR6Qc) | [82 Aniversario](https://open.spotify.com/album/4yayv7q1stqwqd6RkNyb6s) | 4:04 |
 | 27 | [El Paso De Encarnación](https://open.spotify.com/track/2N1K9fjMTgKd2qSmG7PJ8B) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [La Charanga Eterna](https://open.spotify.com/album/7wOFA3A9v0qNESJJls2Kix) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 49 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 50 | [Temba, Tumba Y Timba](https://open.spotify.com/track/0xzSgIVOg8ZjPCVvir36aO) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Cuban All Stars Vol\. 2](https://open.spotify.com/album/0miSetdUZccRUKHH6M7OTf) | 6:53 |
 
-Snapshot ID: `MCw0MzExYmM0MWI3MjM2MzljN2NlNjI1NDRhYTVlMzhkZjBhODBjY2Jh`
+Snapshot ID: `MCxiMzk0Zjg4ODQzZWVjZTM5YTFhM2M2ZmMyZmFmYWJhYmIyYmJjNTgx`

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 710213,
+  "2024-02-28": 710292,
   "date_first_scraped": "2021-12-21",
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
   "name": "Feel Good Dinner",
@@ -3015,7 +3015,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 209533,
       "name": "Gold Past Life",
       "url": "https://open.spotify.com/track/0IN0ST4OUeSCWASMGa8DyP"
@@ -9547,7 +9547,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 209561,
       "name": "Walk the Streets of Love",
       "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"

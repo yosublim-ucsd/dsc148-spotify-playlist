@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jasiel Nu\u00f1ez en portada.",
-  "num_followers": 56078,
+  "num_followers": 56090,
   "original_name": "madEDM\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWJlMTkxYWY3ZTRhMzlkOWNjZGRmZjg2NWFmNmE3OTZjYjA2Njhj",
+  "snapshot_id": "MCxiOTgyZDBiYTA1NGMyMjUwNzhhZjBmZjlhM2IzM2MxMDUyMjZhMjU0",
   "tracks": [
     {
       "added_at": "2024-02-23 19:23:44",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "NO ESTABA MAL",
         "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 165245,
       "name": "NO ESTABA MAL",
       "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -759,30 +759,6 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 161378,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -867,6 +843,30 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/60V9UD3ADGAYxafKbeHiZc"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 161378,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/3WxbeGN19v2MGGbHBvHxFF"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj"
       },
@@ -907,6 +907,30 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A"
+      },
+      "artists": [
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "House Music Bro",
+          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
+        }
+      ],
+      "duration_ms": 265153,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/6aaC97briYYZqVPMSjvJOm"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -939,30 +963,6 @@
       "duration_ms": 259306,
       "name": "CLI CLI Clan Clan",
       "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A"
-      },
-      "artists": [
-        {
-          "name": "Minow",
-          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
-        },
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        },
-        {
-          "name": "House Music Bro",
-          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
-        }
-      ],
-      "duration_ms": 265153,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/6aaC97briYYZqVPMSjvJOm"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1051,22 +1051,26 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Trago a Trago",
-        "url": "https://open.spotify.com/album/4nk2O7Zm0bqMTNYBScPHJ0"
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Seith",
+          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
         },
         {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "B Kush",
+          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
         }
       ],
-      "duration_ms": 137740,
-      "name": "Trago a Trago",
-      "url": "https://open.spotify.com/track/48r5CHCLJ23EKEGZnUBqXZ"
+      "duration_ms": 147000,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1095,30 +1099,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Ayanami",
-        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
-      },
-      "artists": [
-        {
-          "name": "Seith",
-          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
-        },
-        {
-          "name": "katsu energy",
-          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
-        },
-        {
-          "name": "B Kush",
-          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Ayanami",
-      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Quem\u00e1",
         "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Trago a Trago",
+        "url": "https://open.spotify.com/album/4nk2O7Zm0bqMTNYBScPHJ0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 137740,
+      "name": "Trago a Trago",
+      "url": "https://open.spotify.com/track/48r5CHCLJ23EKEGZnUBqXZ"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Sexy Velocity",
-        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Sexy Velocity",
-      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 332560,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Sexy Velocity",
+        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Sexy Velocity",
+      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
-      },
-      "artists": [
-        {
-          "name": "Andre VII",
-          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
-        }
-      ],
-      "duration_ms": 369828,
-      "name": "Highway - Original Mix",
-      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 243762,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
+      },
+      "artists": [
+        {
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
+        }
+      ],
+      "duration_ms": 369828,
+      "name": "Highway - Original Mix",
+      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
-      },
-      "artists": [
-        {
-          "name": "Theus Mago",
-          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
-        }
-      ],
-      "duration_ms": 373066,
-      "name": "X-Control",
-      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
-    },
-    {
-      "added_at": "2024-02-23 19:23:44",
-      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1675,26 +1659,18 @@
     {
       "added_at": "2024-02-23 19:23:44",
       "album": {
-        "name": "In You Arms",
-        "url": "https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "ML3NNON",
-          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
-        },
-        {
-          "name": "GeeKan",
-          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
         }
       ],
-      "duration_ms": 154687,
-      "name": "In You Arms",
-      "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
+      "duration_ms": 373066,
+      "name": "X-Control",
+      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
     },
     {
       "added_at": "2024-02-23 19:23:44",
@@ -1715,6 +1691,30 @@
       "duration_ms": 213031,
       "name": "M13D0!!!",
       "url": "https://open.spotify.com/track/3Z9FCYR83E8qPTOp8CPmaO"
+    },
+    {
+      "added_at": "2024-02-23 19:23:44",
+      "album": {
+        "name": "In You Arms",
+        "url": "https://open.spotify.com/album/59tmknYiQZ0bjuDppjPFHr"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "ML3NNON",
+          "url": "https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "In You Arms",
+      "url": "https://open.spotify.com/track/3nek7B2KNvSZRq4N1zAgMv"
     },
     {
       "added_at": "2024-02-23 19:23:44",

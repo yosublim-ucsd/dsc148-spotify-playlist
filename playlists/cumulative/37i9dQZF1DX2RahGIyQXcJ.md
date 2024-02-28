@@ -2,7 +2,7 @@
 
 ### [Desi Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX2RahGIyQXcJ)
 
-> Best of hip\-hop tracks from South Asia\. Cover:  Karan Aujla, DIVINE
+> Best of hip\-hop tracks from South Asia\. Cover:  Faris Shafi
 
 251 songs - 14 hr 28 min
 

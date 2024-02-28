@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0646\u0648\u0627\u0644 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0634\u0645\u0627 \u062d\u0645\u062f\u0627\u0646",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -438,6 +438,24 @@
       "duration_ms": 208741,
       "name": "Al Sulae",
       "url": "https://open.spotify.com/track/0YGB5IEVEh4UmXIaGed2PE"
+    },
+    {
+      "album": {
+        "name": "Ala Ghaflah",
+        "url": "https://open.spotify.com/album/4fdtOaqPxzO2zHVZBBPRpI"
+      },
+      "artists": [
+        {
+          "name": "Ismail Mubarak",
+          "url": "https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Ala Ghaflah",
+      "url": "https://open.spotify.com/track/6MQkV8WjlZJMjfh3GUDB3V"
     },
     {
       "album": {
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 321369,
       "name": "El Gheyab",
       "url": "https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi"
@@ -2893,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Methl Alwaraq",
+        "url": "https://open.spotify.com/album/6iO98fd8Diozs5jDySZRuv"
+      },
+      "artists": [
+        {
+          "name": "Shamma Hamdan",
+          "url": "https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182219,
+      "name": "Methl Alwaraq",
+      "url": "https://open.spotify.com/track/3z1TMHr7B2TfvGTbsSlUsB"
+    },
+    {
+      "album": {
         "name": "Mezlaaj",
         "url": "https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6"
       },
@@ -3370,7 +3406,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 256045,
       "name": "Roho Beldamea",
       "url": "https://open.spotify.com/track/6vUjGTGvHvNUuTNGMkWZl7"
@@ -4842,7 +4878,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 287216,
       "name": "\u062c\u0646\u0646\u062a \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S"

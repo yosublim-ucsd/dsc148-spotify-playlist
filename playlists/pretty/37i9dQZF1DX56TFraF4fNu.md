@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Kei Linch
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,506 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,520 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 |
 | 60 | [Tarea](https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 2:31 |
 
-Snapshot ID: `MCxkODZjNWExYzNhMTcwMTkzZDM1MzQwNWM5MGZmNGYyY2JlNWRkMzBh`
+Snapshot ID: `MCwzYTUyZGQ5NjZkNzJkN2M4NjkwNWExYzhhMDFjMjkwYThmNjg5NDU4`

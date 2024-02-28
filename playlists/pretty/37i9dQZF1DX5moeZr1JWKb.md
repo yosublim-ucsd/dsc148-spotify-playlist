@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Mc Kno & Nanpa Básico
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,852 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,860 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 38 | [Cypher Lado A](https://open.spotify.com/track/7ClKLjU2W5GrEgucy5YENf) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [El Redcode](https://open.spotify.com/artist/5uxovH9HP4ly0XfcTSiThR), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [La Fabrik Subterranea](https://open.spotify.com/artist/40fW47kXLjI2tVIFV5gZbb), [Spektra De La Rima](https://open.spotify.com/artist/4pC8UxbReyec7rEzpTsn6P), [Solitario Soldado](https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG), [Reincidentes Bta](https://open.spotify.com/artist/1NkBW057ZvY5VhrsscvcAo), [ZKIRLA](https://open.spotify.com/artist/69NByCKqUwygynX9ybfxma), [Todo Copas](https://open.spotify.com/artist/2wyqtz49HtkuKDQIIFJCpM), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [La Realeza Music](https://open.spotify.com/artist/6XeaIrPO9YyGWq3uRgkZ7h), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [Cypher Lado A](https://open.spotify.com/album/68xA7j7fPsALFS0ySq35P0) | 5:00 |
 | 39 | [Fría la Casa](https://open.spotify.com/track/1NE2xioYBSOEZ5jhu1NJDC) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Fría la Casa](https://open.spotify.com/album/1HPZPN2hFFNvgF9h1GvCxy) | 2:31 |
 | 40 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 |
-| 41 | [Zidane](https://open.spotify.com/track/08LuJTtXnSdxPXCWYMxyw7) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Zidane](https://open.spotify.com/album/494RIxej15bIVBqS2NVMXc) | 3:01 |
+| 41 | [Zidane](https://open.spotify.com/track/08LuJTtXnSdxPXCWYMxyw7) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0) | [Zidane](https://open.spotify.com/album/494RIxej15bIVBqS2NVMXc) | 3:01 |
 | 42 | [Vibrando en Alto](https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Vibrando en Alto](https://open.spotify.com/album/2Sa6rmZ4tPSRse0aOlRKjI) | 3:00 |
 | 43 | [Un Poco Mas de Lo de Siempre](https://open.spotify.com/track/2ZBLg7rI7XDuDSbWmPTVDs) | [El Redcode](https://open.spotify.com/artist/5uxovH9HP4ly0XfcTSiThR) | [Un Poco Mas de Lo de Siempre](https://open.spotify.com/album/5uNtraDBmNnNHDGkqhYNAd) | 3:36 |
 | 44 | [Un Beso](https://open.spotify.com/track/007UTWXFgD65IDRcoVvQx9) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Un Beso](https://open.spotify.com/album/4wT4HRcRMowd3m2smj8NfI) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `MCxmZDZmOWJlMzA0YmVmYzMzNTdiNjA1YTc4NTI5YWM1YmRlMDY0MmUy`
+Snapshot ID: `MCw5YTE0M2NmYmQ5OWE5NjdkMjU3YzMyOTI4ZjA0MWViOTJhNTFlMWE4`

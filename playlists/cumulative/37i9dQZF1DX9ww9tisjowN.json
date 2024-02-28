@@ -4087,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Value",
+        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Value",
+      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+    },
+    {
+      "album": {
         "name": "The Lover",
         "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 183881,
       "name": "\u30b7\u30e7\u30b3\u30e9\u30ab\u30bf\u30d6\u30e9",
       "url": "https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF"
@@ -5828,6 +5846,24 @@
       "duration_ms": 303243,
       "name": "\u50d5\u306f\u9811\u5f35\u308b\u3088\u3063 feat. ano",
       "url": "https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj"
+    },
+    {
+      "album": {
+        "name": "\u5149",
+        "url": "https://open.spotify.com/album/3aPJyKnY7geM2oM1RSxPYx"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133026,
+      "name": "\u5149",
+      "url": "https://open.spotify.com/track/1F7A10m9NPJLuJXAvcpFer"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 22308,
+  "num_followers": 22337,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTRiMWZlYThlYjA0YjAxNDJhOTRjM2Y4NTQ0NTc5MzQxMzg5YjJh",
+  "snapshot_id": "MCw2NDk3NzI5N2RlMmYzOWE0NjRmZDRkZDU0MWY4MzVlYzcyOGEyNzcx",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "We Cut Keys 2",
-        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Compare",
-      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "We Cut Keys 2",
+        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Compare",
+      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1195,8 +1195,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Make E No Cause Fight 3",
-        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
       "artists": [
         {
@@ -1206,11 +1206,15 @@
         {
           "name": "Ajebutter22",
           "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         }
       ],
-      "duration_ms": 171272,
-      "name": "42",
-      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1303,8 +1307,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+        "name": "Make E No Cause Fight 3",
+        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
       },
       "artists": [
         {
@@ -1314,15 +1318,11 @@
         {
           "name": "Ajebutter22",
           "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         }
       ],
-      "duration_ms": 186401,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+      "duration_ms": 171272,
+      "name": "42",
+      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1539,22 +1539,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Cincinnati Pumpin!!",
-        "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
+        "name": "SNAPCHAT",
+        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
       },
       "artists": [
         {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
         },
         {
-          "name": "Len",
-          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 158064,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr"
+      "duration_ms": 185033,
+      "name": "SNAPCHAT",
+      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
     }
   ],
   "unique_name": "Afro Chill",

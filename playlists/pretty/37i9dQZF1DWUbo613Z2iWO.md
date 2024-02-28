@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Jaz Karis and Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,768 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,785 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 84 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 85 | [Psycho Bitch](https://open.spotify.com/track/3DRBBbiVNkHlRrfalETplk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/7mmBqDdCZwqn4g30GAuteH) | 3:07 |
 
-Snapshot ID: `MCw4MTFkOGQ4MWY4NmU5MDU2Njk2MTMwODk1MDBjOTAwMWM1YzBjZjg4`
+Snapshot ID: `MCw4MDc2OTk2OWNmZGYyZWZjMTAxNzEzYzkzMmZlNmJlNGViOTFlNDY2`

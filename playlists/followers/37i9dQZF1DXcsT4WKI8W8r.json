@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 300032,
+  "2024-02-28": 300183,
   "date_first_scraped": "2021-12-21",
   "description": "A playlist to get you through your whole workday.",
   "name": "Music for a Workday",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
@@ -7017,7 +7017,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"

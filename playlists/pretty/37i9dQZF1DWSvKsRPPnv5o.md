@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,930 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,007 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 3 | [Ain't No Fun](https://open.spotify.com/track/3JxlN7uRL8thZ5kKBCJe12) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Ain't No Fun](https://open.spotify.com/album/5k3zHgPT6MOqm8KhHYYtR5) | 3:11 |
 | 4 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 | 5 | [like bow](https://open.spotify.com/track/49jpdovhmgQGrBUjQqLwLy) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:56 |
-| 6 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
+| 6 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 | 7 | [High Value \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Bitch Tape](https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix) | 2:38 |
 | 8 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 9 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:09 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 78 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 | 79 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 |
 
-Snapshot ID: `MCxhZTg5ODdjMGJjZGI5ZWY1ZTljOTE1OTAzNjlkZmY2MTNmZDM3N2Fm`
+Snapshot ID: `MCw4MTVmZmIwMGU1NmQyOTIzYjA0ZjkxOTEzNWY3Zjk3ODNhMjdiZWRi`

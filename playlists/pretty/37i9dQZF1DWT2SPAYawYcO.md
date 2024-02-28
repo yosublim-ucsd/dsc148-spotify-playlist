@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,810 likes - 84 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,842 likes - 84 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 27 | [Tokyo](https://open.spotify.com/track/1MEnBRNqcVp38fmYnW9qE6) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Skate Pop](https://open.spotify.com/album/7y5727WTbpYwhumx9QyfUP) | 2:15 |
 | 28 | [anecdote](https://open.spotify.com/track/5MCsp3D3WSoZX81VIUDdNa) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [anecdote](https://open.spotify.com/album/6pNck0w5RaNBVZrIOdVVJj) | 2:49 |
 | 29 | [Maori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Maori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
-| 30 | [Base Camp](https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW) | 3:25 |
+| 30 | [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 |
 | 31 | [PTSD](https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PTSD](https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS) | 2:09 |
 | 32 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 33 | [OSMOSIS](https://open.spotify.com/track/2zaSwAEQRZ6eqTpU8sbxsx) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [ROBOPHOBIA](https://open.spotify.com/album/4csEeSJGZdYkNEBXBeqMr7) | 3:54 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 83 | [sway](https://open.spotify.com/track/503gLddG5seJR59iM2BLi7) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [sway](https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2) | 1:48 |
 | 84 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 |
 
-Snapshot ID: `MCwxNWEzNmY4ZDRkNWFjMDVlMzEyYjkwMGQ0M2Q0MDdjMDE1ZmNhNGVl`
+Snapshot ID: `MCw3M2EwZTI1NWM0ZDQzMTkzZGUxN2VhZjczOTRiMTg4NzQxN2I4ZjM2`

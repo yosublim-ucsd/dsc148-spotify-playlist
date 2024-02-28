@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 208398,
+  "num_followers": 208571,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTQ1NjQ0YzhhZDlkYmM3YTZjNmM4ZDZlYjhmNzlhNGE5NzQ0NjU0",
+  "snapshot_id": "MCxiYzRhNGFiMWQxNDExY2FjM2Y5Zjk0OWQyNTc5YWM3OGEyY2E5ODJi",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "The Last Exit",
@@ -867,6 +851,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Worst Case Kid",
@@ -1033,20 +1017,20 @@
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -1063,6 +1047,22 @@
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
     },
     {
+      "added_at": "2023-07-28 13:45:12",
+      "album": {
+        "name": "The Secret To Life",
+        "url": "https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "duration_ms": 235887,
+      "name": "Close One",
+      "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
+    },
+    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "Halloween Costume",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
-      "added_at": "2023-07-28 13:45:12",
-      "album": {
-        "name": "The Secret To Life",
-        "url": "https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy"
-      },
-      "artists": [
-        {
-          "name": "FIZZ",
-          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
-        }
-      ],
-      "duration_ms": 235887,
-      "name": "Close One",
-      "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Del Water Gap",
@@ -1321,6 +1321,22 @@
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Once Around the Block",
+        "url": "https://open.spotify.com/album/7cpwgE4OyxbMoHIqQv5EDQ"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Once Around the Block",
+      "url": "https://open.spotify.com/track/2TnNFFgZhaBzEEobxDy5uV"
+    },
+    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Wisecrack",
@@ -1335,22 +1351,6 @@
       "duration_ms": 296129,
       "name": "Coolest fucking bitch in town",
       "url": "https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "The Boy With The Arab Strap",
-        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "The Boy with the Arab Strap",
-      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

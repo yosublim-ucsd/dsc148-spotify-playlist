@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 85245,
+  "num_followers": 85282,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGVkMzlhMzY4NmQ2NmIyNTc2NjgzNTE0MDEyNjhmYzYzOWE5MTMw",
+  "snapshot_id": "MCwwZTEyNGU3ZWU2OTEwNThkMDk5MDI5NTU4ZmFmMjE0NDRmYzZhNWY1",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -547,26 +547,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
       "artists": [
         {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
         },
         {
-          "name": "Alan Cave",
-          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
         }
       ],
-      "duration_ms": 280383,
-      "name": "Se Pa Pou Dat",
-      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -591,22 +587,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
       },
       "artists": [
         {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
         },
         {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+          "name": "Alan Cave",
+          "url": "https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
         }
       ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+      "duration_ms": 280383,
+      "name": "Se Pa Pou Dat",
+      "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Map Rap Ak Ke Kontan",
+        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Veye Priye",
+      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Map Rap Ak Ke Kontan",
-        "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
-      },
-      "artists": [
-        {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Veye Priye",
-      "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Bizou",
-        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
-      },
-      "artists": [
-        {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Bizou",
-      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Loyita (feat. Thattoo Love)",
         "url": "https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 228480,
       "name": "Loyita (feat. Thattoo Love)",
       "url": "https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Bizou",
+      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Imitate",
-        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 200568,
-      "name": "Imitate",
-      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Ogou (Pran Ka Mwen)",
         "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 296666,
       "name": "Ogou (Pran Ka Mwen)",
       "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1515,6 +1515,46 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Show Me Love (feat. Meer Colon)",
+        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "Meer Colon",
+          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Show Me Love (feat. Meer Colon)",
+      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1543,46 +1583,6 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Show Me Love (feat. Meer Colon)",
-        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
-      },
-      "artists": [
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "Meer Colon",
-          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Show Me Love (feat. Meer Colon)",
-      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
-      },
-      "artists": [
-        {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
-        }
-      ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "LAKAY",
+        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Pierre",
+          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
+        },
+        {
+          "name": "AlCol",
+          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "LAKAY",
+      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1687,42 +1707,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "LAKAY",
-        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
-      },
-      "artists": [
-        {
-          "name": "Jeff Pierre",
-          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
-        },
-        {
-          "name": "AlCol",
-          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "LAKAY",
-      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 226542,
       "name": "Plenyen Player Yo",
       "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
     },
     {
       "added_at": "2024-02-23 05:00:00",

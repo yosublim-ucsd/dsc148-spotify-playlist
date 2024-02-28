@@ -5673,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Help You Understand",
+        "url": "https://open.spotify.com/album/4IHpFZkZro9QOBaaTxBEyv"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208976,
+      "name": "Help You Understand",
+      "url": "https://open.spotify.com/track/5kaOT9THuBmY70BZaS88n6"
+    },
+    {
+      "album": {
         "name": "Here It Is",
         "url": "https://open.spotify.com/album/4v0eJPx0AOAzFXMv1S9x0g"
       },
@@ -14179,6 +14197,24 @@
     },
     {
       "album": {
+        "name": "Swingin' Skylines",
+        "url": "https://open.spotify.com/album/5IiL0oL5yKQx50gWnUYczD"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235455,
+      "name": "Swingin' Skylines",
+      "url": "https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH"
+    },
+    {
+      "album": {
         "name": "Take me to Liverpool",
         "url": "https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe"
       },
@@ -14706,7 +14742,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 203743,
       "name": "The heat she gives",
       "url": "https://open.spotify.com/track/3b6UkXsKzEAkJfZI1P6AsM"
@@ -16932,7 +16968,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 281040,
       "name": "While My Lady Sleeps - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw"

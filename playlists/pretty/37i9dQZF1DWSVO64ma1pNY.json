@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296578,
+  "num_followers": 296577,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjFjYmVmYTFmMDM4MGE1NGYzZjRlMjFiODViMzMzYWE3YzNkMWM4",
+  "snapshot_id": "MCw3NmViYTBhZDJjMWViMTc4NjJhNWM0MzQ0NWYwOTU3MmVhMGFkMWJh",
   "tracks": [
     {
       "added_at": "2024-01-23 13:23:45",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Hats Off to the Bull",
-        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Face to the Floor",
-      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Adelitas Way",
         "url": "https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 190133,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Hats Off to the Bull",
+        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Face to the Floor",
+      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 150924,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
     },
     {
       "added_at": "2024-01-23 13:23:45",

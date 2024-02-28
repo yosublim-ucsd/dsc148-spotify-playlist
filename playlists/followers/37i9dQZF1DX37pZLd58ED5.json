@@ -1,9 +1,27 @@
 {
-  "2024-02-27": 295622,
+  "2024-02-28": 295826,
   "date_first_scraped": "2022-05-12",
   "description": "Solo beat e rime avvolgenti. Cover: Massimo Pericolo",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
+    {
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+    },
     {
       "album": {
         "name": "X2VR",
@@ -805,7 +823,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 162000,
       "name": "Chilometri",
       "url": "https://open.spotify.com/track/2fMzIzFExDeabwWsWWNpkY"

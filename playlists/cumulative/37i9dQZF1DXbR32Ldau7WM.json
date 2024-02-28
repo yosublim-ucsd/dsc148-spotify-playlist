@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195479,
+      "name": "A Little Bit Of Your Love",
+      "url": "https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/4HQwiXVf1Zl7h7T1rm6DpF"
       },
@@ -1325,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Broken Lovers",
+        "url": "https://open.spotify.com/album/11XIM09huBMtaV7dYWXCLf"
+      },
+      "artists": [
+        {
+          "name": "Analogfish",
+          "url": "https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292005,
+      "name": "Broken Lovers",
+      "url": "https://open.spotify.com/track/21e5VSkDCzL5FdL52TLk2X"
+    },
+    {
+      "album": {
         "name": "NUMBER GIRL \u7121\u5e38\u306e\u65e5 (LIVE)",
         "url": "https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu"
       },
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "DANBIRA",
       "url": "https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"
@@ -1798,6 +1834,24 @@
       "duration_ms": 228080,
       "name": "Dear Future",
       "url": "https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR"
+    },
+    {
+      "album": {
+        "name": "DEAR YOU",
+        "url": "https://open.spotify.com/album/3KjvjCzz2VjIXDAx638odq"
+      },
+      "artists": [
+        {
+          "name": "PERSONZ",
+          "url": "https://open.spotify.com/artist/6n9RT2nh15EFHJk1grNlBO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251318,
+      "name": "DEAR YOU",
+      "url": "https://open.spotify.com/track/14CIoI3XDNnxlcDlSlqCyQ"
     },
     {
       "album": {
@@ -2455,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
+    },
+    {
+      "album": {
         "name": "saigoni nokorumono",
         "url": "https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ"
       },
@@ -2520,7 +2592,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Fantasista",
       "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
@@ -3658,7 +3730,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 272709,
       "name": "I MISS YOU",
       "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
@@ -3684,7 +3756,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 342951,
       "name": "I miss your fire",
       "url": "https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8"
@@ -4210,7 +4282,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 222666,
       "name": "kaleido proud fiesta",
       "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
@@ -4254,6 +4326,24 @@
       "duration_ms": 297692,
       "name": "KANASHIBARI",
       "url": "https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO"
+    },
+    {
+      "album": {
+        "name": "PORTRAIT",
+        "url": "https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339760,
+      "name": "KARAKURI",
+      "url": "https://open.spotify.com/track/1tY3kNrhNO6kVkfNDGJ3Qz"
     },
     {
       "album": {
@@ -5634,7 +5724,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 194511,
       "name": "Mizuwariwo Usukutsukutte Itsumademo",
       "url": "https://open.spotify.com/track/0TJppXf9pBhMQNgcIAt6A1"
@@ -6774,7 +6864,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 226132,
       "name": "Particle Dreams",
       "url": "https://open.spotify.com/track/7lFa5iule0QXNxlue91AD4"
@@ -10347,6 +10437,24 @@
     },
     {
       "album": {
+        "name": "Wanna Wanna Do",
+        "url": "https://open.spotify.com/album/3qJYXbayDKvI4ZN5SC3Rtz"
+      },
+      "artists": [
+        {
+          "name": "the telephones",
+          "url": "https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170809,
+      "name": "Wanna Wanna Do",
+      "url": "https://open.spotify.com/track/15j2NH07boLC7GerPS3Lwq"
+    },
+    {
+      "album": {
         "name": "LOVE&PEACE!MASTERPEACE!",
         "url": "https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt"
       },
@@ -12604,7 +12712,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 276640,
       "name": "\u30b2\u30c3\u30c8\u30fb\u30a2\u30c3\u30d7\u30fb\u30eb\u30fc\u30b7\u30fc",
       "url": "https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S"
@@ -12720,7 +12828,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 228766,
       "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u304b\u308f\u308a\u306b",
       "url": "https://open.spotify.com/track/47ANLBqVT2p1X2mvylKg0o"
@@ -12817,6 +12925,24 @@
     },
     {
       "album": {
+        "name": "PORTRAIT",
+        "url": "https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "\u30b7\u30e7\u30a6\u30fb\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/6xjKW4HTxRNKSMJuKYm79w"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e7\u30c3\u30af!",
         "url": "https://open.spotify.com/album/3kiNiNn5QbcFp5OOS5A6Q2"
       },
@@ -12850,6 +12976,24 @@
       "duration_ms": 236000,
       "name": "\u30b7\u30f3\u30b7\u30e3",
       "url": "https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV"
+    },
+    {
+      "album": {
+        "name": "COLD DISC",
+        "url": "https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"
     },
     {
       "album": {
@@ -13790,7 +13934,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 273514,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a2",
       "url": "https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo"
@@ -14017,6 +14161,24 @@
     },
     {
       "album": {
+        "name": "\u30df\u30e9\u30af\u30eb\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 No.9",
+        "url": "https://open.spotify.com/album/16FTen9QPrvyXBnFPFfAYY"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279746,
+      "name": "\u30df\u30e9\u30af\u30eb\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 No.9",
+      "url": "https://open.spotify.com/track/48OqORWzCuZgL7QYYYaWWS"
+    },
+    {
+      "album": {
         "name": "MASTER PIECE -maverick-Best of 30 Years",
         "url": "https://open.spotify.com/album/6wBwrdupGzvzTN7ApWytkS"
       },
@@ -14108,6 +14270,24 @@
       "duration_ms": 346920,
       "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2xTqNGLtZYetzvx6VAs7Pd"
+    },
+    {
+      "album": {
+        "name": "\u5929\u4f7f\u3060\u3063\u305f\u3058\u3083\u306a\u3044\u304b",
+        "url": "https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "\u30e9\u30f3\u30c9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp"
     },
     {
       "album": {
@@ -16041,6 +16221,24 @@
     },
     {
       "album": {
+        "name": "PORTRAIT",
+        "url": "https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234586,
+      "name": "\u6708\u898b\u8349",
+      "url": "https://open.spotify.com/track/2r9pdXhX8ii5tN18RceY2E"
+    },
+    {
+      "album": {
         "name": "\u671d\u713c\u3051",
         "url": "https://open.spotify.com/album/7zfZ3p822fHKy43zCNqnaP"
       },
@@ -16852,6 +17050,28 @@
       "duration_ms": 214245,
       "name": "\u7729\u5149",
       "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
+    },
+    {
+      "album": {
+        "name": "\u77b3\u306e\u30e9\u30f3\u30c7\u30f4\u30fc",
+        "url": "https://open.spotify.com/album/4zfVYnpWM2lUfHEXvE3I4w"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        },
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257237,
+      "name": "\u77b3\u306e\u30e9\u30f3\u30c7\u30f4\u30fc",
+      "url": "https://open.spotify.com/track/615moHge9ZH2r6NGj3ZANR"
     },
     {
       "album": {
@@ -17684,6 +17904,42 @@
       "duration_ms": 256665,
       "name": "\u9762\u5f71",
       "url": "https://open.spotify.com/track/5m7ZuRemZ0JDzVHpld0aXt"
+    },
+    {
+      "album": {
+        "name": "\u541b\u3092\u898b\u3064\u3051\u3066\u3057\u307e\u3063\u305f\u304b\u3089/\u97f3\u306e\u5ead",
+        "url": "https://open.spotify.com/album/3mEp5VOerpFnzzKtpcVz2j"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "\u97f3\u306e\u5ead",
+      "url": "https://open.spotify.com/track/7mfFonIKBMs7ZddHCnCizn"
+    },
+    {
+      "album": {
+        "name": "PORTRAIT",
+        "url": "https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263360,
+      "name": "\u97f3\u697d",
+      "url": "https://open.spotify.com/track/5U4WMmfIQC74ioqM5q4lYe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-264 songs - 18 hr 9 min
+266 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Love Takes Time](https://open.spotify.com/track/3nuaHDwjie8HVIhdUIqCzl) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Love Takes Time \(Official HD Video\)](https://open.spotify.com/album/1WIAwzaK9iTN9qfgI1r1uL) | 3:49 | 2024-01-29 | 2024-02-02 |
 | [Loverboy](https://open.spotify.com/track/75b9JVzc4QFvPBO7jDRIVe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:49 | 2024-01-29 |  |
 | [Loverboy \(Remix\)](https://open.spotify.com/track/4igqjAFcH35y4XybHzJ3aD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:30 | 2024-01-29 |  |
+| [Loverboy \- Firecracker \- Original Version, 2001](https://open.spotify.com/track/0g7ri4rS3G1Bu76aBvWMtE) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:14 | 2024-02-27 |  |
 | [Lullaby](https://open.spotify.com/track/2MUV7GGJ5aqNKIsxWLBvqM) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:55 | 2024-01-29 |  |
 | [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:07 | 2024-01-29 |  |
 | [Make It Happen \- Dub Version](https://open.spotify.com/track/3sZZtxhmOk9ofIHAvw6RcP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Make It Happen EP](https://open.spotify.com/album/4eEYKyd209YmQGjOlfhGMA) | 7:27 | 2024-01-29 |  |
@@ -265,6 +266,7 @@
 | [With You](https://open.spotify.com/track/3tpOgbBnx1NTui7LSuf68K) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [With You](https://open.spotify.com/album/6npiZFL3shh7GfqqhWimid) | 3:50 | 2024-01-29 | 2024-02-01 |
 | [Workin' Hard](https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 3:29 | 2024-01-29 |  |
 | [X\-Girlfriend](https://open.spotify.com/track/5bswESpm0TJQpR8vLdCh6x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 3:57 | 2024-01-29 |  |
+| [yes, and? \(with Mariah Carey\)](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 | 2024-02-27 |  |
 | [You Don't Know What To Do](https://open.spotify.com/track/4DeLQFtXdy1C6iHuDqY7gR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:47 | 2024-01-29 |  |
 | [You Got Me](https://open.spotify.com/track/2FDPFqROcPjuUnHcsuTCWf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:22 | 2024-01-29 |  |
 | [You Had Your Chance](https://open.spotify.com/track/0WChkFaGvwabGtZc8WhIeC) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:22 | 2024-01-29 |  |

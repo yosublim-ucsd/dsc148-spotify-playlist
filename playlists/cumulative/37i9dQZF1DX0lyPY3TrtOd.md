@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-157 songs - 8 hr 46 min
+157 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Something Like This](https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K) | 3:18 | 2023-11-01 |  |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-12 |  |
 | [Start Again](https://open.spotify.com/track/2dPOMJfe0ingxUn9g6S52d) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 4:03 | 2023-09-24 |  |
-| [Stray](https://open.spotify.com/track/0c7Ug09TZk8DunwW92ovBf) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [Stray](https://open.spotify.com/album/2Gm5E7Ls5YfWrXvqJX2qqt) | 3:16 | 2024-01-11 |  |
+| [stray](https://open.spotify.com/track/0c7Ug09TZk8DunwW92ovBf) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [stray](https://open.spotify.com/album/2Gm5E7Ls5YfWrXvqJX2qqt) | 3:32 | 2024-01-11 |  |
 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 | 2023-02-23 | 2023-04-05 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-01 |  |
 | [Sunshine](https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Sunshine](https://open.spotify.com/album/4tAYC8O702Uag2ILdlPkqj) | 2:47 | 2023-07-13 |  |

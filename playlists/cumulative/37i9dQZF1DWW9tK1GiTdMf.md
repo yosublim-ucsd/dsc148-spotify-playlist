@@ -4,7 +4,7 @@
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bnkr44 in cover
 
-809 songs - 1 day 13 hr 15 min
+810 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [CHIAMAMI](https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [CHIAMAMI](https://open.spotify.com/album/5dkHtUJw9XOSGjrFhnJo3A) | 2:35 | 2023-07-27 | 2023-09-22 |
 | [Chiara](https://open.spotify.com/track/7tEEqmmsZvUEGupDfsh54X) | [TVB](https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5) | [Chiara](https://open.spotify.com/album/7mqjgz9vcp6atDJZaKWIKf) | 2:19 | 2023-06-08 | 2023-10-06 |
 | [chiaroscuro](https://open.spotify.com/track/0RfrHDSuwVNXeTz2Epoq8J) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [chiaroscuro](https://open.spotify.com/album/6IF0K41GIEmHd6zx3DYuH7) | 3:38 | 2023-10-26 | 2023-12-01 |
+| [Chicco \(feat\. Tripolare\)](https://open.spotify.com/track/5tZdJhXY8z7AthEIsn5KUs) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Chicco \(feat\. Tripolare\)](https://open.spotify.com/album/2Ls2f0KJmFdKv0fRNzS2lT) | 1:55 | 2024-02-27 |  |
 | [CI BERREMO SOPRA](https://open.spotify.com/track/14MPHzoxuguLWUfRvuirNo) | [treDiCuori](https://open.spotify.com/artist/5urMNWGVpr57ON72Xo6rpR), [Polly](https://open.spotify.com/artist/0x3VDd0WGoNLhMTd4hgxIA) | [FALSO NUEVE](https://open.spotify.com/album/2WSTRYVg6eFuer1IIRr7Tr) | 2:26 | 2022-05-06 | 2022-06-17 |
 | [Cicatrici](https://open.spotify.com/track/1i96SWXRNE5pTkyfkCeR0w) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Cicatrici](https://open.spotify.com/album/1Ql5u8c69pjlsX3HdOvIDH) | 3:00 | 2023-03-02 | 2023-04-28 |
 | [CIELO DRIVE](https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [CIELO DRIVE](https://open.spotify.com/album/56Luh3qipxzWTZhCQhOGJc) | 2:23 | 2022-05-06 | 2022-05-20 |

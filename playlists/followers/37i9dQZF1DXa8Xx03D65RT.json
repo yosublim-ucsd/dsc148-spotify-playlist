@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 441165,
+  "2024-02-28": 441155,
   "date_first_scraped": "2022-07-19",
   "description": "La sutileza del piano para enriquecer tu espacio.",
   "name": "Piano de Fondo",
@@ -313,6 +313,24 @@
       "duration_ms": 174000,
       "name": "A Thought Evoked",
       "url": "https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp"
+    },
+    {
+      "album": {
+        "name": "A Way Home",
+        "url": "https://open.spotify.com/album/0jStWbRbpRbNHX03YoQzOP"
+      },
+      "artists": [
+        {
+          "name": "Javier Escudero",
+          "url": "https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "A Way Home",
+      "url": "https://open.spotify.com/track/4X0WmlJ9fl8O33QvEdPSoK"
     },
     {
       "album": {
@@ -9712,6 +9730,24 @@
     },
     {
       "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "album": {
         "name": "Retrouvailles",
         "url": "https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7"
       },
@@ -10533,7 +10569,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 159473,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT"
@@ -13151,7 +13187,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 130000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/32CiGN5SRTJWBRNhG8xvp9"

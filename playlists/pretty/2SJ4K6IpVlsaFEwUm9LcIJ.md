@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2024 \(previous playlists archived on my profile\) \(image credit: @afffirmations on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,146 likes - 56 songs - 2 hr 57 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,155 likes - 64 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [Dream Alone](https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n) | [Artie Garr](https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv) | [Dream Alone / Beat Love](https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b) | 2:22 |
 | 55 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 |
 | 56 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 |
+| 57 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 |
+| 58 | [Angel Style](https://open.spotify.com/track/1Wtl3WGuBQNghBQGajv87L) | [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [Mirage](https://open.spotify.com/album/7uk0LH3pI5mDgFBiwbyLvO) | 1:58 |
+| 59 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 |
+| 60 | [Cold War](https://open.spotify.com/track/6sgWlYPMTsQbPxcK8PE3Qs) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:31 |
+| 61 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 |
+| 62 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 |
+| 63 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
+| 64 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 |
 
-Snapshot ID: `MjU2NSwyNmRiZDM3OThiY2Y5Y2Q5NmIwNDcxMjUzMGZmZWU4MzMzODc0ODgx`
+Snapshot ID: `MjU3Myw2MGU4ZjdjY2FhNGVmNzEzZDQzMGI1M2Q1M2E0NjE0MjE0NGQzNWQ4`

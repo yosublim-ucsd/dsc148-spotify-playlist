@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Muerejoven en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,653 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,710 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 6 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 |
 | 7 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 |
 | 8 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 |
-| 9 | [Phono](https://open.spotify.com/track/0wxvfLAslCS2yrVHDXg4kk) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Lo Complicado de Ser Simple](https://open.spotify.com/album/66Pl7WcCNMCFlOIeykeESY) | 2:48 |
+| 9 | [Phono](https://open.spotify.com/track/0wxvfLAslCS2yrVHDXg4kk) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Lo Complicado de Ser Simple](https://open.spotify.com/album/66Pl7WcCNMCFlOIeykeESY) | 2:48 |
 | 10 | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \- Remix](https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7), [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \[Remix\]](https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8) | 7:36 |
 | 11 | [Diamante en Bruto](https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Diamante en Bruto](https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib) | 2:55 |
 | 12 | [CALL ME MAYBE](https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CALL ME MAYBE](https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [Si lo ve Mamá](https://open.spotify.com/track/6ysA09ikVJH2DmnYy3IGSt) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [Si lo ve Mamá](https://open.spotify.com/album/5r1OzQUcHzgjkHeDFr4pwb) | 2:13 |
 | 100 | [Pro Player](https://open.spotify.com/track/3WJnf9Xe51wEmCPzrYFihE) | [R Climent](https://open.spotify.com/artist/7qNTiLJpuCUFJ8G7Jf5fzP), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Pro Player](https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL) | 3:09 |
 
-Snapshot ID: `MCwxYzlmYzZhODIwMDkzMmY5YWRhOWY5ZTNkNDYyNDhkM2JkYWY0MTM3`
+Snapshot ID: `MCwxNmQ0Yjg0ZWY1NjQwN2E4ZDMwOTA3ZTQ4NzBiOWU1MDkwZTVhNzRh`

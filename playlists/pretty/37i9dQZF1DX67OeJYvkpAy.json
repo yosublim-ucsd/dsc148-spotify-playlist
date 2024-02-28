@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90338,
+  "num_followers": 90335,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjZhZDExYTdiMzBhOGYyNDVlNzVjNDQ3YmJmODQzM2ZlZjdlNTMy",
+  "snapshot_id": "MCxjOTZiNDRjNzg1NjI4YjkxNzQzMjI2ZmFlMGI3YzI2YzY3MmMwMjk1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
         }
       ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "J\u00f6etry",
         "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 244000,
       "name": "mate in five",
       "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2023-08-01 17:14:44",

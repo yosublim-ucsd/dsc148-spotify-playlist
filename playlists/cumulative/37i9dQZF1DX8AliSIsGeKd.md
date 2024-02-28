@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Booka Shade
 
-3,128 songs - 11 day 12 hr 53 min
+3,129 songs - 11 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1406,7 +1406,8 @@
 | [Inside Out](https://open.spotify.com/track/5IYqlkbtNCzymw3tAQsiVj) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Long Way Home](https://open.spotify.com/album/1KKVWZHhfIJ86BYFsro40P) | 4:04 | 2022-11-18 | 2022-12-02 |
 | [Inside Your Mind](https://open.spotify.com/track/1hXAN5JOqHDJyUFMnNxg7j) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7), [Aaron Suiss](https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA), [SevenEver](https://open.spotify.com/artist/4Y6akvUaVTWw81IWcBNyDl) | [Inside Your Mind](https://open.spotify.com/album/1ZGxejNSukiqLB2ivcASzs) | 6:42 | 2023-04-20 | 2023-05-12 |
 | [Instinct Power](https://open.spotify.com/track/6nenbUepWA5W7bQYoqIsia) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Instinct Power EP](https://open.spotify.com/album/6oH4ojb23hkCA2rQx3zwkV) | 6:42 | 2023-09-28 | 2023-10-20 |
-| [Intelecto](https://open.spotify.com/track/7fZABMgM1XLAznYdMJ3mH2) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy) | [Intelecto](https://open.spotify.com/album/2biw6rMSkwG6WBXrlG5zwt) | 6:18 | 2024-02-15 |  |
+| [Intelecto](https://open.spotify.com/track/4M7VxcT5g6yMuQ3MBZD9Xe) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy) | [Corto Amanecer EP](https://open.spotify.com/album/4inZakBL156tFOjVdjz8ys) | 6:18 | 2024-02-22 |  |
+| [Intelecto](https://open.spotify.com/track/7fZABMgM1XLAznYdMJ3mH2) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy) | [Intelecto](https://open.spotify.com/album/2biw6rMSkwG6WBXrlG5zwt) | 6:18 | 2024-02-15 | 2024-02-28 |
 | [Intelli](https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Unknown Memories](https://open.spotify.com/album/7nFASYumUoZr10jLO1jald) | 5:57 | 2023-06-09 | 2023-06-23 |
 | [Intentionally](https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:16 | 2023-03-09 | 2023-03-25 |
 | [Interconnection](https://open.spotify.com/track/58Y1a9i3bJJt1BATwbWmi9) | [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Interconnection](https://open.spotify.com/album/3DYdQh33T8cV1ksxuzvKeU) | 5:54 | 2023-04-06 | 2023-04-21 |

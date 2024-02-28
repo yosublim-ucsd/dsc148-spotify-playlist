@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 1328257,
+  "2024-02-28": 1328238,
   "date_first_scraped": "2019-07-30",
   "description": "Genre-less. Quality first always. Cover: John Glacier",
   "name": "POLLEN",
@@ -38229,6 +38229,24 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "album": {
+        "name": "Something Ether",
+        "url": "https://open.spotify.com/album/47SrODHFtmaQitdsmonVie"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131947,
+      "name": "Something Ether",
+      "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
     },
     {
       "album": {

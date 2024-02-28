@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from SILK",
-  "num_followers": 467221,
+  "num_followers": 467336,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjhlZDk5ZTk5NWExMDdjMGI1YTI2ZTdhZWM2MDRlMDAzZTUxMzQ5",
+  "snapshot_id": "MCwxY2Y4MjU3YjBjMmJiMDI5ZjM4ZDY5NTMxYjkzNjgxMWFlY2VkNDE3",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/5xAe8ptb9WxHypheHc3cwO"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 235833,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2wSA5eZnTCjZer0f4dxZch"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Kiss Me Better",
         "url": "https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy"
       },
@@ -915,22 +899,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Purple Hearts",
-        "url": "https://open.spotify.com/album/4AX5HKheqWpaH5uVTzBmMd"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5xAe8ptb9WxHypheHc3cwO"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Real Lies",
-          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 193933,
-      "name": "Purple Hearts",
-      "url": "https://open.spotify.com/track/05DxWVVBce5KlpItHkmrM5"
+      "duration_ms": 235833,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2wSA5eZnTCjZer0f4dxZch"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -955,18 +935,42 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "all or nothing",
-        "url": "https://open.spotify.com/album/5CBc0J5OXcjIlE1TF1RwR9"
+        "name": "Purple Hearts",
+        "url": "https://open.spotify.com/album/4AX5HKheqWpaH5uVTzBmMd"
       },
       "artists": [
         {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
         }
       ],
-      "duration_ms": 223197,
-      "name": "all or nothing",
-      "url": "https://open.spotify.com/track/0BCdlov5Bel3MfPgCXQFih"
+      "duration_ms": 193933,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/05DxWVVBce5KlpItHkmrM5"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -995,22 +999,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+        "name": "all or nothing",
+        "url": "https://open.spotify.com/album/5CBc0J5OXcjIlE1TF1RwR9"
       },
       "artists": [
         {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
         }
       ],
-      "duration_ms": 142322,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+      "duration_ms": 223197,
+      "name": "all or nothing",
+      "url": "https://open.spotify.com/track/0BCdlov5Bel3MfPgCXQFih"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Triation, Vol. VIII",
+        "url": "https://open.spotify.com/album/1YQk48Nlcwy1P3SuyHdEVo"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Eclips",
+      "url": "https://open.spotify.com/track/2ltZFK5dudMtP0TFpc4SOa"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Triation, Vol. VIII",
-        "url": "https://open.spotify.com/album/1YQk48Nlcwy1P3SuyHdEVo"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Eclips",
-      "url": "https://open.spotify.com/track/2ltZFK5dudMtP0TFpc4SOa"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Do Dat Baby",
         "url": "https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Touch Me (Like That)",
+        "url": "https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3"
+      },
+      "artists": [
+        {
+          "name": "CRASKIN",
+          "url": "https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz"
+        }
+      ],
+      "duration_ms": 117187,
+      "name": "Touch Me (Like That)",
+      "url": "https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Pointillism / Everything We Tried",
         "url": "https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Touch Me (Like That)",
-        "url": "https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7v3loEP7HIVyAAsFjgZHBM"
       },
       "artists": [
         {
-          "name": "CRASKIN",
-          "url": "https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz"
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
         }
       ],
-      "duration_ms": 117187,
-      "name": "Touch Me (Like That)",
-      "url": "https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV"
+      "duration_ms": 169302,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3tjTIM2vBk6zm0L5249ugM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 211093,
       "name": "NEVER CHANGE // LET IT GO",
       "url": "https://open.spotify.com/track/7at4vjSkojonReNjqHepVb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7v3loEP7HIVyAAsFjgZHBM"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3tjTIM2vBk6zm0L5249ugM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "she (Benny Benassi Remix)",
+        "url": "https://open.spotify.com/album/6BgSka2cD931sGxZVNEezL"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "she - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/0g2tZkXV4eKOD2e2MDZmLP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Noir Fever Pr\u00e9sente Moonshine & La F\u00e9d\u00e9ration Internationale du Bruit",
         "url": "https://open.spotify.com/album/2lOknHa2VdKFSZR4JVSh4U"
       },
@@ -1347,42 +1367,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "she (Benny Benassi Remix)",
-        "url": "https://open.spotify.com/album/6BgSka2cD931sGxZVNEezL"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "she - Benny Benassi Remix",
-      "url": "https://open.spotify.com/track/0g2tZkXV4eKOD2e2MDZmLP"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/7218sq4IjCey3jaEvEq7ot"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        }
-      ],
-      "duration_ms": 243452,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/2qTZLwkM28xYCCPpLVsoba"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "I Could Be",
         "url": "https://open.spotify.com/album/7k5IlcbMDi2Txa1LvsabET"
       },
@@ -1399,22 +1383,6 @@
       "duration_ms": 198000,
       "name": "I Could Be",
       "url": "https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3jDSxYOaXPfnlvWeYBwMfK"
-      },
-      "artists": [
-        {
-          "name": "Fatima Yamaha",
-          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
-        }
-      ],
-      "duration_ms": 195301,
-      "name": "Sign Of Love",
-      "url": "https://open.spotify.com/track/6FDAqXOn4Ff2279ZyO1geW"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1443,6 +1411,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/7218sq4IjCey3jaEvEq7ot"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "duration_ms": 243452,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/2qTZLwkM28xYCCPpLVsoba"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3jDSxYOaXPfnlvWeYBwMfK"
+      },
+      "artists": [
+        {
+          "name": "Fatima Yamaha",
+          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
+        }
+      ],
+      "duration_ms": 195301,
+      "name": "Sign Of Love",
+      "url": "https://open.spotify.com/track/6FDAqXOn4Ff2279ZyO1geW"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "This Little Love",
         "url": "https://open.spotify.com/album/0TGCXWxkdguNjVFfmjN2ZZ"
       },
@@ -1455,38 +1455,6 @@
       "duration_ms": 213023,
       "name": "This Little Love",
       "url": "https://open.spotify.com/track/7otEUWdo5ljrOBYcCMqFys"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "The Pursuit",
-        "url": "https://open.spotify.com/album/4NaSw7JfuFnO4Z2xV5GAQP"
-      },
-      "artists": [
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        }
-      ],
-      "duration_ms": 323312,
-      "name": "The Pursuit",
-      "url": "https://open.spotify.com/track/3XOy8x5UwqOtBv9utYnru0"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "ELATION",
-        "url": "https://open.spotify.com/album/5NDjD6jLeABD9OBq4gQzHB"
-      },
-      "artists": [
-        {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
-        }
-      ],
-      "duration_ms": 364204,
-      "name": "ELATION",
-      "url": "https://open.spotify.com/track/5Ih7aLweVYIGJhZfOJ49m1"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1527,6 +1495,38 @@
       "duration_ms": 151384,
       "name": "Erase Me (feat. Bella Renee)",
       "url": "https://open.spotify.com/track/0ptLBdLmejS79Sza6NQeAb"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "ELATION",
+        "url": "https://open.spotify.com/album/5NDjD6jLeABD9OBq4gQzHB"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 364204,
+      "name": "ELATION",
+      "url": "https://open.spotify.com/track/5Ih7aLweVYIGJhZfOJ49m1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Pursuit",
+        "url": "https://open.spotify.com/album/4NaSw7JfuFnO4Z2xV5GAQP"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        }
+      ],
+      "duration_ms": 323312,
+      "name": "The Pursuit",
+      "url": "https://open.spotify.com/track/3XOy8x5UwqOtBv9utYnru0"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Moth Boss / Galaxy",
-        "url": "https://open.spotify.com/album/4tt859LdBxWjtPejErkNHx"
-      },
-      "artists": [
-        {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
-        }
-      ],
-      "duration_ms": 279095,
-      "name": "Moth Boss",
-      "url": "https://open.spotify.com/track/2dt4m3woQyL3AkwsqrVR9T"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Amused EP",
         "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "maybe so",
-        "url": "https://open.spotify.com/album/1NehxiZin9Gecmj6puGQWC"
+        "name": "Moth Boss / Galaxy",
+        "url": "https://open.spotify.com/album/4tt859LdBxWjtPejErkNHx"
       },
       "artists": [
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
         }
       ],
-      "duration_ms": 241440,
-      "name": "maybe so",
-      "url": "https://open.spotify.com/track/7CaMXv5RApsEGYZ6QIjrT6"
+      "duration_ms": 279095,
+      "name": "Moth Boss",
+      "url": "https://open.spotify.com/track/2dt4m3woQyL3AkwsqrVR9T"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1651,6 +1635,38 @@
       "duration_ms": 419635,
       "name": "Patterns - Donato Dozzy Rework",
       "url": "https://open.spotify.com/track/2DtyVQ3rZtkMHFdjKMRHTN"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Love Parade",
+        "url": "https://open.spotify.com/album/4qwpmeInTAtcC3syLTSQye"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 375171,
+      "name": "Love Parade",
+      "url": "https://open.spotify.com/track/6mM0KNiOYrBbaCSFA0hHn1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "maybe so",
+        "url": "https://open.spotify.com/album/1NehxiZin9Gecmj6puGQWC"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "maybe so",
+      "url": "https://open.spotify.com/track/7CaMXv5RApsEGYZ6QIjrT6"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Love Parade",
-        "url": "https://open.spotify.com/album/4qwpmeInTAtcC3syLTSQye"
+        "name": "Her",
+        "url": "https://open.spotify.com/album/2XibTFDr73jMIeM7CWTDeR"
       },
       "artists": [
         {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+          "name": "AMPRS&ND",
+          "url": "https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK"
         }
       ],
-      "duration_ms": 375171,
-      "name": "Love Parade",
-      "url": "https://open.spotify.com/track/6mM0KNiOYrBbaCSFA0hHn1"
+      "duration_ms": 185987,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1711,18 +1727,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/2XibTFDr73jMIeM7CWTDeR"
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls"
       },
       "artists": [
         {
-          "name": "AMPRS&ND",
-          "url": "https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK"
+          "name": "AK SPORTS",
+          "url": "https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju"
         }
       ],
-      "duration_ms": 185987,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
+      "duration_ms": 194950,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1743,42 +1759,6 @@
       "duration_ms": 316128,
       "name": "Your Body - Original Mix",
       "url": "https://open.spotify.com/track/5DfD9huG6xMyYy2pxCFjft"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls"
-      },
-      "artists": [
-        {
-          "name": "AK SPORTS",
-          "url": "https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju"
-        }
-      ],
-      "duration_ms": 194950,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Say Yea",
-        "url": "https://open.spotify.com/album/66BnK7Pn6J1YyYruF0J34a"
-      },
-      "artists": [
-        {
-          "name": "Cor.Ece",
-          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
-        },
-        {
-          "name": "Bad Colours",
-          "url": "https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX"
-        }
-      ],
-      "duration_ms": 236355,
-      "name": "Say Yea",
-      "url": "https://open.spotify.com/track/23xbAWourNWVHmSZBWa990"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1807,6 +1787,46 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Say Yea",
+        "url": "https://open.spotify.com/album/66BnK7Pn6J1YyYruF0J34a"
+      },
+      "artists": [
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        {
+          "name": "Bad Colours",
+          "url": "https://open.spotify.com/artist/0x3KkCJuve7n51ThZGNAIX"
+        }
+      ],
+      "duration_ms": 236355,
+      "name": "Say Yea",
+      "url": "https://open.spotify.com/track/23xbAWourNWVHmSZBWa990"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Music Remains",
+        "url": "https://open.spotify.com/album/0qStgVpB3Hx35x3OJx7UX0"
+      },
+      "artists": [
+        {
+          "name": "Chopstar",
+          "url": "https://open.spotify.com/artist/3bPJ3xJgrC92YtEAQJ3Eyc"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "duration_ms": 379671,
+      "name": "Dream Keys",
+      "url": "https://open.spotify.com/track/1ZbBTeNZvsQZEJe5vCpAQO"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Direct Cuts Redux",
         "url": "https://open.spotify.com/album/7sEk8o6XzJRlUEUSkyq05x"
       },
@@ -1823,6 +1843,22 @@
       "duration_ms": 407056,
       "name": "Direct Cut - Gerd Janson Edit",
       "url": "https://open.spotify.com/track/0EDFuxVhIuonj9JSFVbQGC"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Garden of Dreams",
+        "url": "https://open.spotify.com/album/4ES3jiwf261X3qRhA2QMu3"
+      },
+      "artists": [
+        {
+          "name": "La Giang",
+          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
+        }
+      ],
+      "duration_ms": 423536,
+      "name": "Garden of Dreams",
+      "url": "https://open.spotify.com/track/7EuH7uSVFCDhiK9evR3oHL"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1847,42 +1883,6 @@
       "duration_ms": 210418,
       "name": "ZIMELE",
       "url": "https://open.spotify.com/track/5JrS7wOhrfdI6wFxgTl7G2"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Garden of Dreams",
-        "url": "https://open.spotify.com/album/4ES3jiwf261X3qRhA2QMu3"
-      },
-      "artists": [
-        {
-          "name": "La Giang",
-          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
-        }
-      ],
-      "duration_ms": 423536,
-      "name": "Garden of Dreams",
-      "url": "https://open.spotify.com/track/7EuH7uSVFCDhiK9evR3oHL"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "The Music Remains",
-        "url": "https://open.spotify.com/album/0qStgVpB3Hx35x3OJx7UX0"
-      },
-      "artists": [
-        {
-          "name": "Chopstar",
-          "url": "https://open.spotify.com/artist/3bPJ3xJgrC92YtEAQJ3Eyc"
-        },
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
-        }
-      ],
-      "duration_ms": 379671,
-      "name": "Dream Keys",
-      "url": "https://open.spotify.com/track/1ZbBTeNZvsQZEJe5vCpAQO"
     },
     {
       "added_at": "2024-02-23 05:00:00",

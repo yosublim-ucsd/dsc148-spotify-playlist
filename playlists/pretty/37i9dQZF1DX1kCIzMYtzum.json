@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97",
-  "num_followers": 224949,
+  "num_followers": 225209,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWJkMzhjZGM3YWZhNTVjNDYwY2ZjNWM3M2VkMGI1ZDVhMTlkODli",
+  "snapshot_id": "MCxhZDMzMjllYmRmN2UyOWUxZDI4M2YxMzg0YzRhYTEwM2Y3ZmRkNTUy",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "VACANCY",
-        "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        }
-      ],
-      "duration_ms": 191805,
-      "name": "VACANCY",
-      "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "90s Bitch",
         "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 196258,
       "name": "90s Bitch",
       "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "VACANCY",
+        "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        }
+      ],
+      "duration_ms": 191805,
+      "name": "VACANCY",
+      "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Alive (feat. The Moth & The Flame)",
         "url": "https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR"
       },
@@ -2035,22 +2011,50 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/1eAisZxU97LtahouIQsB48"
+        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
+        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
       "artists": [
         {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         },
         {
-          "name": "Jeannette",
-          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Space Ducks",
+          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
         }
       ],
-      "duration_ms": 153004,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/6eL5tSbdFKOJk259M9btFe"
+      "duration_ms": 202204,
+      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
+      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2079,46 +2083,42 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
-        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
+        "name": "Just A Kid",
+        "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
       },
       "artists": [
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Space Ducks",
-          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
         }
       ],
-      "duration_ms": 202204,
-      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
-      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
+      "duration_ms": 176000,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
     },
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Shotgun (It Ain't Over)",
-        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1eAisZxU97LtahouIQsB48"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
         },
         {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+          "name": "Jeannette",
+          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
         }
       ],
-      "duration_ms": 155909,
-      "name": "Shotgun (It Ain't Over)",
-      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
+      "duration_ms": 153004,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6eL5tSbdFKOJk259M9btFe"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2143,26 +2143,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "On My Love (New Year Hypaton Remix)",
-        "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
         }
       ],
-      "duration_ms": 191250,
-      "name": "On My Love - New Year Hypaton Remix",
-      "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
+      "duration_ms": 150962,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
     }
   ],
   "unique_name": "EDM 2024",

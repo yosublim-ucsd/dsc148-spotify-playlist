@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc?si=sCJpLXugRKKZssTKQEG4ig"> Josef Lamercier </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,849 likes - 134 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,915 likes - 134 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 91 | [18](https://open.spotify.com/track/1lOy61QLyt7sqmzkRM2RVl) | [Cosmo Lautaro](https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M) | [18](https://open.spotify.com/album/7KpCf4KjYhmlecZeyjfi7h) | 3:03 |
 | 92 | [BROWN EYES](https://open.spotify.com/track/1KsRakU0EuURuHfX0YFHVz) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [BROWN EYES](https://open.spotify.com/album/7ls141NC5MOge3XARKF891) | 3:19 |
 | 93 | [Where Have You Been?](https://open.spotify.com/track/1ZBPS9gBqPnaUuYQXohXVl) | [Mar](https://open.spotify.com/artist/6e2Hf0OeWo1XAK5Sg70oBQ) | [Where Have You Been?](https://open.spotify.com/album/7KPdWcP02PA41258tmREw3) | 3:33 |
-| 94 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj) | 2:41 |
+| 94 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/3OWUyVb4qnKhczFwvuYwpR) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/7DujmrgQdN0seUyOfd3Efe) | 2:41 |
 | 95 | [4 U](https://open.spotify.com/track/3dgYiTnp4V5MXYSXUkO9uE) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [4 U](https://open.spotify.com/album/6KkakMphv8W356KiT3pVAf) | 2:15 |
 | 96 | [Send Your Loving](https://open.spotify.com/track/78hvRuG5aqaFd6YDNNYLuN) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Send Your Loving](https://open.spotify.com/album/6mosxW2MvsBVCa8dpxDhyB) | 3:34 |
 | 97 | [STRIVE](https://open.spotify.com/track/6STCSZjLJ40NlPHsWdnrMj) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [STRIVE](https://open.spotify.com/album/2GS1ztX5xncvO0RahjrKxf) | 1:35 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 133 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 134 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 |
 
-Snapshot ID: `MCw1NzViMmVjYmQwMzVkOGNkZjhkN2VjMGRmNTFhNzVjMTI2ZjE4NzZl`
+Snapshot ID: `MCwxMjIyN2Q4MWVlMWQwZjk0Mjk0NzM1ZDdhNjQxZWQwMzFlYjllOGUy`

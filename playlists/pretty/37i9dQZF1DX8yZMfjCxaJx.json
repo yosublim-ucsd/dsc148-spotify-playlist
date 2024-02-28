@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. La Ventaja en portada.",
-  "num_followers": 211443,
+  "num_followers": 211563,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjU2NDIzNzQ0YmUyNjVjODQzZTUxYTE5MDUyYjA2ZmM3ZGE4ZDgy",
+  "snapshot_id": "MCwxYTQ4ZmY5YjcyNDRjZDBhNTc4NjY2NTE5NzliMTU0MTQ3Zjg4ZmZk",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Los Brothers",
+        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "duration_ms": 213442,
+      "name": "Los Brothers",
+      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "El R\u00e1pido",
         "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 208405,
       "name": "El R\u00e1pido",
       "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Los Brothers",
-        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        },
-        {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Los Brothers",
-      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "El Vocho",
         "url": "https://open.spotify.com/album/6STegWJxkTwumApW32e8hl"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 190725,
       "name": "El Vocho",
       "url": "https://open.spotify.com/track/31Q8g39em3t71EvBvwN3GE"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -891,22 +891,6 @@
       "duration_ms": 163359,
       "name": "Fuga Del Jefe",
       "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "En la Meza una Flor",
-        "url": "https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 224277,
-      "name": "En la Meza una Flor",
-      "url": "https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "En la Meza una Flor",
+        "url": "https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 224277,
+      "name": "En la Meza una Flor",
+      "url": "https://open.spotify.com/track/6HNWy3KVc067j2aLqt3wp3"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
       "artists": [
         {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 182229,
-      "name": "Jerry",
-      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
         }
       ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+      "duration_ms": 182229,
+      "name": "Jerry",
+      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "El Jessy",
-        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
+        "name": "A Punta De Balazos (En Vivo)",
+        "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
       },
       "artists": [
         {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
         }
       ],
-      "duration_ms": 199041,
-      "name": "El Jessy",
-      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
+      "duration_ms": 237700,
+      "name": "A Punta De Balazos (En Vivo)",
+      "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "El Jessy",
+        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 199041,
+      "name": "El Jessy",
+      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "La Cruda Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "A Punta De Balazos (En Vivo)",
-        "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 237700,
-      "name": "A Punta De Balazos (En Vivo)",
-      "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
     }
   ],
   "unique_name": "Corridos Chakalosos",

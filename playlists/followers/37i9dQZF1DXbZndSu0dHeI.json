@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 208398,
+  "2024-02-28": 208571,
   "date_first_scraped": "2021-12-30",
   "description": "Sometimes it's nice to be nice, you know.",
   "name": "The Lovely Little Playlist",
@@ -3983,7 +3983,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 192000,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
@@ -6247,7 +6247,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 314173,
       "name": "The Boy with the Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"

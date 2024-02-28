@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Chaar Diwari
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,505 likes - 97 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,619 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jhaag](https://open.spotify.com/track/7zwqxNGf7cJLPXgOkEkHHA) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Jhaag](https://open.spotify.com/album/7jmDLNVORMzMHfyF0we05g) | 2:29 |
-| 2 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 |
+| 2 | [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 |
 | 3 | [Aaja Mahi](https://open.spotify.com/track/2VSU1fDunvm2JhVf2Z7TwZ) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Aaja Mahi](https://open.spotify.com/album/4UJyZ8rysFX44mlKl2SVFR) | 3:40 |
 | 4 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 |
 | 5 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 96 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 |
 | 97 | [Mazaak](https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/2Uewap1o2Ic2XmN4wb9isV) | 3:32 |
 
-Snapshot ID: `MCw5OWI2YjU1ZThkYmRkYTljNjBmMWEwNGI2MDUxNzc4ODQzZDI1Yzcz`
+Snapshot ID: `MCxiYWNjNzQ2NmVlNjIxYjkwMzlkZmQwYWYzMjJiMTQ1MzI3MGFiMjMy`

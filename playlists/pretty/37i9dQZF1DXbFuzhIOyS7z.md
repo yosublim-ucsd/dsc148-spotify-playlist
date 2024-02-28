@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,616 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [終わり](https://open.spotify.com/track/3teNbnY49AyczCnQ4Z7hdf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ひとつの恋が終わってしまったあなたへ](https://open.spotify.com/album/66LyXB2JRybUvDtGo8MMrb) | 4:12 |
 | 30 | [Emma](https://open.spotify.com/track/3mSb7vfdY2Tieoa1v3pLJa) | [Layla](https://open.spotify.com/artist/4Q5OpekUpql188omiYrEdv) | [Emma](https://open.spotify.com/album/7CLnfsYxASJRV66gK3QhTB) | 3:04 |
 
-Snapshot ID: `MCxjM2JjYTczNjcwNGRlMDFkMGFjYzcwMzMzMDg4M2QyMTc4NTRmMzY3`
+Snapshot ID: `MCwwYzEzYjk3ZGE1NzIyZTE0YWVjYjY0NWM3MzhkZmRlNTc0Y2M4ZTgx`

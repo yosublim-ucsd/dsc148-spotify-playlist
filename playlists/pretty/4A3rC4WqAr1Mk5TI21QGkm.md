@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4A3rC4WqAr1Mk5TI21QGkm.md) - [plain]
 
 > 
 
-[Kerembulutt](https://open.spotify.com/user/argonit670) - 1 like - 234 songs - 13 hr 27 min
+[Kerembulutt](https://open.spotify.com/user/argonit670) - 1 like - 235 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,6 @@ pretty - [cumulative](/playlists/cumulative/4A3rC4WqAr1Mk5TI21QGkm.md) - [plain]
 | 232 | [Cocaine Sunday](https://open.spotify.com/track/5HzrX4aKVfb1NQCsaqf6R0) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sensitive G](https://open.spotify.com/album/2nzPJxgiC7qfdYBBfJiHfj) | 2:48 |
 | 233 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 |
 | 234 | [I Must Apologise](https://open.spotify.com/track/2rrq3SGYxk90xLx5fMmPhZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:48 |
+| 235 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
 
-Snapshot ID: `NjQwLDVjNDVjYmFhZThkODlmNzFmM2YyZjY2ZGNjMTllNmVmMzE4ODljYzc=`
+Snapshot ID: `NjQxLDcwYzQ0MjYyYTA3MzgzNDJmMGM3MjU5Yzk3M2E2YjFmNjhiMWY2NWE=`

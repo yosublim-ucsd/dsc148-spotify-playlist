@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 663113,
+  "num_followers": 663165,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWE2ODBiYzRmOWIxYWQzYzZmNWJjYjVjOTkwNmExNzBmY2VjMGQx",
+  "snapshot_id": "MCw5ODQ5YmQ3NDUzMTAwNDg1MmZlZGI1NDM2MDBlOWE1NjRlMmJmNGM0",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ac\u00e9rcate",
-        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
-      },
-      "artists": [
-        {
-          "name": "Beruti",
-          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "Ac\u00e9rcate",
-      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "malapami",
-        "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
       },
       "artists": [
         {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Leonardo La Croix",
+          "url": "https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm"
         }
       ],
-      "duration_ms": 178673,
-      "name": "malapami",
-      "url": "https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO"
+      "duration_ms": 166310,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -943,22 +947,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
+        "name": "malapami",
+        "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Leonardo La Croix",
-          "url": "https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm"
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
         }
       ],
-      "duration_ms": 166310,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
+      "duration_ms": 178673,
+      "name": "malapami",
+      "url": "https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "1vezmas",
-        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
+        "name": "Toma Mi Mano",
+        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
       "artists": [
         {
-          "name": "Svarez",
-          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
         },
         {
-          "name": "Choclock",
-          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
         }
       ],
-      "duration_ms": 150717,
-      "name": "1vezmas",
-      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
+      "duration_ms": 182000,
+      "name": "Toma Mi Mano",
+      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Toma Mi Mano",
-        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
+        "name": "1vezmas",
+        "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
       },
       "artists": [
         {
-          "name": "Matias Juarez",
-          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
         },
         {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+          "name": "Choclock",
+          "url": "https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Toma Mi Mano",
-      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
+      "duration_ms": 150717,
+      "name": "1vezmas",
+      "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+        "name": "The Process 2",
+        "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Fer",
+          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
         }
       ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+      "duration_ms": 170666,
+      "name": "The Process 2",
+      "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 108586,
       "name": "No Eres T\u00fa, Soy Yo",
       "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "The Process 2",
-        "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
-      },
-      "artists": [
-        {
-          "name": "Fer",
-          "url": "https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "The Process 2",
-      "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Otra Ciudad",
+        "url": "https://open.spotify.com/album/3Uoq5gccs4oCr4CMQ78ZUe"
+      },
+      "artists": [
+        {
+          "name": "Rsel",
+          "url": "https://open.spotify.com/artist/2bzev2RaU9OmS0wCG6Ge3A"
+        }
+      ],
+      "duration_ms": 138368,
+      "name": "Otra Ciudad",
+      "url": "https://open.spotify.com/track/657ceMv7ArWXk1DOCGJ0wV"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Desp\u00eddeme De Todxs",
         "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 237272,
       "name": "Electricidad (2:21am)",
       "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Otra Ciudad",
-        "url": "https://open.spotify.com/album/3Uoq5gccs4oCr4CMQ78ZUe"
-      },
-      "artists": [
-        {
-          "name": "Rsel",
-          "url": "https://open.spotify.com/artist/2bzev2RaU9OmS0wCG6Ge3A"
-        }
-      ],
-      "duration_ms": 138368,
-      "name": "Otra Ciudad",
-      "url": "https://open.spotify.com/track/657ceMv7ArWXk1DOCGJ0wV"
     }
   ],
   "unique_name": "chill latino",

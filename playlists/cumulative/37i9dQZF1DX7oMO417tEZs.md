@@ -4,7 +4,7 @@
 
 > new gems by artists carving their own lane\. cover: Erika de Casier
 
-1,097 songs - 2 day 12 hr 12 min
+1,099 songs - 2 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Stay With Me](https://open.spotify.com/track/0d4u84lrM6TxT7jv3Z8PEk) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Stay With Me](https://open.spotify.com/album/5IPdAqVvH4FPji2tEw9gu0) | 2:31 | 2022-10-28 | 2022-12-03 |
 | [Staying here](https://open.spotify.com/track/0P2ag2qoPv05wKjJrncp2v) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Staying here](https://open.spotify.com/album/4DDUVn5H8hF2uf070myTWS) | 2:27 | 2024-01-19 | 2024-02-01 |
 | [Staying here](https://open.spotify.com/track/4gdM3XzcjeJQZPpMvuf9VF) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [Great Doubt](https://open.spotify.com/album/0X5xnCnMafZT1sRIHnzAwP) | 2:27 | 2024-01-26 |  |
+| [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-23 |  |
 | [STEPMOM](https://open.spotify.com/track/7DTuaFl2xYmGUgBKLXiOg5) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [STEPMOM](https://open.spotify.com/album/1qanV3YgwzGcpQxAfAaTrZ) | 3:04 | 2022-07-29 | 2022-11-19 |
 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 | 2023-03-17 | 2023-05-27 |
 | [Still Not a Playa](https://open.spotify.com/track/0kTwzUwyXHngN2VIahINF8) | [Luu Breeze](https://open.spotify.com/artist/5B3Lma67FBdWs1R8m3BKUP) | [Still Not a Playa](https://open.spotify.com/album/7jsd5RS2LEKjhX4Ur7qAum) | 3:04 | 2022-05-27 | 2022-06-25 |
@@ -957,7 +958,8 @@
 | [The Hammer](https://open.spotify.com/track/0u1ihYKX1FxCeYTaHdhgPO) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [RED](https://open.spotify.com/artist/02CPoPvI4x9TuxCTFNwOv4) | [Nigh](https://open.spotify.com/album/2sHPkujZbHvkrxS5o37EwL) | 7:03 | 2022-07-29 | 2022-11-19 |
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 | 2024-01-20 |
 | [The Heat](https://open.spotify.com/track/0Ujxl8yPiaZ5VaKPNMC5F8) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [The Rise & Fall Of Jaymie Silk & Rave Culture](https://open.spotify.com/album/1NEXyiV89bhqIObxJs9vzn) | 3:09 | 2022-05-06 | 2022-06-04 |
-| [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 |  |
+| [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 | 2024-02-23 |  |
+| [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2024-02-28 |
 | [The Local](https://open.spotify.com/track/3sWAonad48wm55cmQRjIZj) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [The Local](https://open.spotify.com/album/6hSxj7BtaD76EmD5CLPfEW) | 4:11 | 2022-08-26 | 2022-12-17 |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-04-02 |
 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 | 2023-06-02 | 2023-11-11 |

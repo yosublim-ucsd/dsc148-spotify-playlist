@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: CYBER RUI, Ash\-B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,654 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,892 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 25 | [SLUT ME OUT](https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 2:03 |
 | 26 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 | 27 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 |
-| 28 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
+| 28 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 | 29 | [Sunday Service](https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sunday Service](https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n) | 2:46 |
 | 30 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
 | 31 | [BLACK OPS \(with Denzel Curry\)](https://open.spotify.com/track/1Cb2etQ6t2ATWoKuOpDWuF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BLACK OPS](https://open.spotify.com/album/14oDRWe0eLnUBKmekIAZkb) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Humble](https://open.spotify.com/track/77Q9ibvJ6ejNWQkIrJgK6J) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Humble](https://open.spotify.com/album/0lDyXt2w6hKkjQKbQkJ4Yt) | 2:01 |
 | 100 | [PSYCHWARD SYMPHONY](https://open.spotify.com/track/6ZLcGY5R0kOQcI0aG7Srhq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [PSYCHWARD SYMPHONY](https://open.spotify.com/album/036yhBEXnBb6DFQ7hFlhFA) | 2:15 |
 
-Snapshot ID: `MCwzY2QzMjdkYWI2NjY1NzU4Njk0NjkzMmFmNGJjMmFkNjVhYjcxZjk4`
+Snapshot ID: `MCxmMTM5ZDk4MTkwMzBkYzhiODIwODQ5ODQ2Mzk2MDY5OTgxYjBkNWE2`

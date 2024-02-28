@@ -4,7 +4,7 @@
 
 > Bad Omens & Poppy on top of today's best Metal playlist.
 
-606 songs - 1 day 16 hr 35 min
+607 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d) | 4:28 | 2023-04-07 | 2023-11-04 |
 | [Bleed Together](https://open.spotify.com/track/42AuCKjh0QFS4dZQv8WURV) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Bleed Together](https://open.spotify.com/album/5xQY16nG5c9tM3xXGgpg4p) | 4:30 | 2022-05-27 | 2022-06-10 |
 | [Blessings Upon The Throne Of Tyranny \- Remixed & Remastered](https://open.spotify.com/track/7dXyNjEojMH8lAkSEx1sLT) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Blessings Upon The Throne Of Tyranny \(Remixed & Remastered\)](https://open.spotify.com/album/4MkgzARek4yNMbFfZuLVIb) | 5:22 | 2022-07-29 | 2022-09-03 |
+| [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-02-27 |  |
 | [Blood Sweat Tears](https://open.spotify.com/track/6JjrxVuJwItGuQ8TCMpv2K) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Blood Sweat Tears](https://open.spotify.com/album/6fVJHWIF7IHFLoldp4Rbri) | 7:16 | 2022-11-04 | 2023-02-04 |
 | [Blow](https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow](https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr) | 2:44 | 2022-06-10 | 2022-11-26 |
 | [Blusher](https://open.spotify.com/track/29yo56Jmb3m4yUzJfEgFp6) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 2:44 | 2023-09-08 | 2023-10-07 |
@@ -137,7 +138,7 @@
 | [Ded to Me](https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Ded to Me](https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL) | 3:44 | 2022-10-14 | 2022-10-22 |
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-16 | 2022-10-31 |
 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 | 2022-10-28 | 2022-11-05 |
-| [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-16 |  |
+| [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-16 | 2024-02-28 |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-29 | 2022-10-01 |
 | [Delusions Of Mortality](https://open.spotify.com/track/2mH4PnhKYZ6YOyxBzZ1y6J) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Hymns From The Apocrypha](https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ) | 3:49 | 2023-12-01 | 2023-12-23 |
 | [Descent](https://open.spotify.com/track/46IwawpHVB7462bMZ10Wzf) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Descent](https://open.spotify.com/album/6x8g593E1WZiNeYyAFKXvg) | 4:20 | 2023-10-20 | 2023-12-23 |

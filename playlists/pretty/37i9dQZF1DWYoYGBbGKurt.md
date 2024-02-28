@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,786 likes - 370 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,348 likes - 370 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 369 | [Blue](https://open.spotify.com/track/4uiRSjpQc52RNyRdQFzJuO) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Blue](https://open.spotify.com/album/5Uk80jsZYcqs42Di1sOuyR) | 2:24 |
 | 370 | [Elephant Soul](https://open.spotify.com/track/2pP6NmXnV9JeOXuJKkp0EQ) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:19 |
 
-Snapshot ID: `MCwzN2I5YzIxYTZiZWNjMDA1YTlhODVjY2I1NTg2ZThmOGEzZDhhMDIx`
+Snapshot ID: `MCwzMWZmZDNiODAyNjJmNjg3NjI0MmEyMTZkMmI4ODcwNjhjZTMxOTIy`

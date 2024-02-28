@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Mica Sotera & Los Otros D\u00edas.",
-  "num_followers": 751771,
+  "num_followers": 751772,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTZhNDkwZjZmMDI4NzRhNGYyYzEzNGE4OTk3YzFkNWI1ZTNkMzk0",
+  "snapshot_id": "MCwwMTdmM2FmMTNlZjM4Yjk5NzZmNjk0MjVmY2Y5ODQ3NGNkOWU4ZGQx",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 197799,
-      "name": "911",
-      "url": "https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "lady madrizZz (Remix)",
         "url": "https://open.spotify.com/album/7CmFEPmYsEzBg4H95OigTO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 201581,
       "name": "lady madrizZz (Remix)",
       "url": "https://open.spotify.com/track/6JWk1sLMa1cYZYBjr1tWVE"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 197799,
+      "name": "911",
+      "url": "https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -675,22 +659,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Caballo De Troya",
-        "url": "https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL"
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
       "artists": [
         {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        },
-        {
-          "name": "Chente Ydrach",
-          "url": "https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN"
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Caballo De Troya",
-      "url": "https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs"
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -715,6 +695,26 @@
       "duration_ms": 211475,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4qivrywz0cptut4imbWJJf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Caballo De Troya",
+        "url": "https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Chente Ydrach",
+          "url": "https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Caballo De Troya",
+      "url": "https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -763,6 +763,22 @@
       "duration_ms": 296250,
       "name": "Ganadora",
       "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Patadas De Ahogado",
+        "url": "https://open.spotify.com/album/7y2Tb1mkNXSmtrQID2gC56"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Patadas De Ahogado",
+      "url": "https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -899,18 +915,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Patadas De Ahogado",
-        "url": "https://open.spotify.com/album/7y2Tb1mkNXSmtrQID2gC56"
+        "name": "Aiwo",
+        "url": "https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz"
       },
       "artists": [
         {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Patadas De Ahogado",
-      "url": "https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO"
+      "duration_ms": 140540,
+      "name": "Aiwo",
+      "url": "https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -927,6 +959,22 @@
       "duration_ms": 223481,
       "name": "Lindo Lindo",
       "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Mam\u00e1 Flor",
+        "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Rayo de Sol",
+      "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -951,22 +999,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Mam\u00e1 Flor",
-        "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Rayo de Sol",
-      "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "low key",
         "url": "https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF"
       },
@@ -979,22 +1011,6 @@
       "duration_ms": 254369,
       "name": "low key",
       "url": "https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 174085,
       "name": "VUELTIANDO",
       "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Aiwo",
-        "url": "https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz"
-      },
-      "artists": [
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "Aiwo",
-      "url": "https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "lo q necesitabas",
+        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 103058,
+      "name": "lo q necesitabas",
+      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "aqu\u00ed andamos",
         "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 223500,
       "name": "Estrellas en la Oscuridad",
       "url": "https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "lo q necesitabas",
-        "url": "https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 103058,
-      "name": "lo q necesitabas",
-      "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "SALUT",
-        "url": "https://open.spotify.com/album/0NVNsjuuK7xb4fhKUwSQYO"
-      },
-      "artists": [
-        {
-          "name": "Adriana Proenza",
-          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
-        }
-      ],
-      "duration_ms": 173065,
-      "name": "SALUT",
-      "url": "https://open.spotify.com/track/5HHZ47AUq0hKL3w8hGEQAu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Y Qu\u00e9",
         "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "SALUT",
+        "url": "https://open.spotify.com/album/0NVNsjuuK7xb4fhKUwSQYO"
+      },
+      "artists": [
+        {
+          "name": "Adriana Proenza",
+          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
+        }
+      ],
+      "duration_ms": 173065,
+      "name": "SALUT",
+      "url": "https://open.spotify.com/track/5HHZ47AUq0hKL3w8hGEQAu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "GRANDE",
-        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 148790,
-      "name": "DEMONIO",
-      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "NEFERTITI",
         "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
       },
@@ -1323,18 +1307,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS"
+        "name": "GRANDE",
+        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
         }
       ],
-      "duration_ms": 203396,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc"
+      "duration_ms": 148790,
+      "name": "DEMONIO",
+      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Observation I: Metamorphosis",
+        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 188584,
+      "name": "Metamorphosis (with Ambar Lucid)",
+      "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
     }
   ],
   "unique_name": "Mixto",

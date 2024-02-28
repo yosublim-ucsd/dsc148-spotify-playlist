@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-275 songs - 17 hr 52 min
+276 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [If You Don't Like Hank Williams \- Live](https://open.spotify.com/track/2iU9mnsU9G74ebqwbzbhZh) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Life & Songs Of Kris Kristofferson \(Live\)](https://open.spotify.com/album/3KWlDqwe4K89vJgLVslZV7) | 3:08 | 2021-07-23 |  |
 | [If You Love Me \(Let Me Know\) \[Live\]](https://open.spotify.com/track/659kkKUPzX3KyWiRkL8OS1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Summer Nights \- Live in Las Vegas](https://open.spotify.com/album/3osQoiquhwTfnpi7U5z1DF) | 1:41 | 2021-07-23 | 2022-07-29 |
 | [If You're Gonna Play In Texas \(You Gotta Have A Fiddle In The Band\) \- Live](https://open.spotify.com/track/4zXJDOvzLzeX23K5CbWl7C) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama And Friends Live At The Ryman](https://open.spotify.com/album/4cy1OFlYm6e1ak5X3y78sE) | 4:55 | 2021-07-23 | 2022-07-27 |
+| [If Your Heart Ain't Busy \(Live\)](https://open.spotify.com/track/7untMCrScu2gqZjhqK5qjs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker \(Live\)](https://open.spotify.com/album/7rTySU4fukk9B5JjH397Rl) | 3:00 | 2023-07-24 |  |
 | [If Your Heart Ain't Busy \- Live](https://open.spotify.com/track/50Y2DDtQgOKLgtI3ApcLZw) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker \(Live\)](https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa) | 3:00 | 2021-07-23 | 2023-11-05 |
 | [In America](https://open.spotify.com/track/5YtmvZNX73DocJvF4kQ3md) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Live at Billy Bob's Texas](https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni) | 3:46 | 2021-07-23 | 2022-07-08 |
 | [Is Anybody Goin' to San Antone \- Live](https://open.spotify.com/track/5WE2W6nJmMgqqRhzMavLKs) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Live](https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3) | 2:42 | 2021-07-23 |  |
@@ -172,7 +173,7 @@
 | [Me and Bobby McGee \- Live](https://open.spotify.com/track/3d1xCdNqFzJkY6b02ZaUWo) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live From Austin, TX](https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF) | 4:16 | 2021-07-23 |  |
 | [Me and Bobby McGee \- Live at Budokan, Tokyo, Japan \- Feb\. 23, 1984](https://open.spotify.com/track/7zOjmyBi9MWfiFYiQg0ALL) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Live At Budokan](https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk) | 3:11 | 2022-11-18 | 2023-03-31 |
 | [Me And Bobby McGee \- Live At Gilley's](https://open.spotify.com/track/0qeYl29Gfv1WssuPPaLEOu) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Me And Bobby McGee](https://open.spotify.com/album/5dWFEbV9eAfznugNLRvufR) | 4:09 | 2022-06-24 | 2023-05-04 |
-| [Mi Vida Loca \(My Crazy Life\) \[Live\]](https://open.spotify.com/track/1fhIiIGbLx3tWjxqXuyatt) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [90's Country Legends \- American Classics](https://open.spotify.com/album/4Dix9Eb5BLSQWYmMHzBT0S) | 3:30 | 2021-07-23 |  |
+| [Mi Vida Loca \(My Crazy Life\) \[Live\]](https://open.spotify.com/track/1fhIiIGbLx3tWjxqXuyatt) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [90's Country Legends \- American Classics](https://open.spotify.com/album/4Dix9Eb5BLSQWYmMHzBT0S) | 3:30 | 2021-07-23 | 2024-02-28 |
 | [Miles and Miles of Texas \- Live](https://open.spotify.com/track/0z7O4Q7COQ4eoyZ9InDELz) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Live From Austin, TX](https://open.spotify.com/album/54uCapU9InxHywvMVsNo0A) | 3:38 | 2021-07-23 | 2024-01-29 |
 | [Milk Cow Blues \- Live](https://open.spotify.com/track/1esO4dDFTGmz5xHM7U0Z03) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Live At Texas Stadium](https://open.spotify.com/album/1MhN4KKinx1vNTGmjlobfK) | 5:20 | 2021-07-23 | 2022-07-24 |
 | [Mountain Music \- Live](https://open.spotify.com/track/5bRS7pXosW2iiXo6HfqzUp) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama And Friends Live At The Ryman](https://open.spotify.com/album/6dXWnVNs7a5BmmOg0yQOuT) | 5:45 | 2021-07-23 | 2022-07-27 |

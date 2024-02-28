@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 3091,
+  "2024-02-28": 3094,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -4541,7 +4541,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 280600,
       "name": "It's All Yours (feat. Gina Thompson)",
       "url": "https://open.spotify.com/track/74S8BajRxF14NYUGj1I04o"
@@ -7965,6 +7965,24 @@
       "duration_ms": 374333,
       "name": "Take It From Here",
       "url": "https://open.spotify.com/track/0qpCwx9VYn7yR3d3YdT5Wd"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "Take It Off (Dim The Lights)",
+      "url": "https://open.spotify.com/track/3xyknHSrdlYkvJNpQx2Vsr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 375308,
+  "num_followers": 375338,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTE1Mzg1NjVmMWFlMWIxYTg4YTYyODI5MmNhYTc4MjVkYzczZGQ0",
+  "snapshot_id": "MCxhNDFhN2VjZGQ4ZTIxZDNlM2I2ODA1YzRmODdkMmEyNzVkNGI3M2Jl",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Streets of Baltimore",
         "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 157640,
       "name": "The Streets of Baltimore",
       "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+        "name": "21 #1 Hits: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
       },
       "artists": [
         {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
+      "duration_ms": 133866,
+      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "21 #1 Hits: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
         }
       ],
-      "duration_ms": 133866,
-      "name": "I've Got A Tiger By The Tail - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM"
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Buck Owens Country Legends",
+        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Country Style",
-        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Don't Let Me Cross Over",
         "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 177106,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Country Style",
+        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Buck Owens Country Legends",
-        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Right Or Wrong",
         "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Columbia Country Classics Volume 3: Americana",
-        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
-      },
-      "artists": [
-        {
-          "name": "Claude King",
-          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "Wolverton Mountain",
-      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 162506,
       "name": "500 Miles Away from Home",
       "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Columbia Country Classics Volume 3: Americana",
+        "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
+      },
+      "artists": [
+        {
+          "name": "Claude King",
+          "url": "https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Wolverton Mountain",
+      "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
-      },
-      "artists": [
-        {
-          "name": "Floyd Cramer",
-          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "Last Date - Instrumental",
-      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Great Picks & New Traditions",
         "url": "https://open.spotify.com/album/5YReC2frzihcP8epJuWWqs"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 201173,
       "name": "Yesterday When I Was Young",
       "url": "https://open.spotify.com/track/6xr3k8GwHlYr8ckHPf8cJE"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
+      },
+      "artists": [
+        {
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Last Date - Instrumental",
+      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
     },
     {
       "added_at": "2023-11-21 21:06:39",

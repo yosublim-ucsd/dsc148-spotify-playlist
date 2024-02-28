@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 737408,
+  "2024-02-28": 738024,
   "date_first_scraped": "2023-10-07",
   "description": "ou vc dan\u00e7a ou o grave t balan\u00e7a",
   "name": "funk challenge",
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "ROCK PESADO",
+        "url": "https://open.spotify.com/album/5PzizwiDjpYMYP2COEeViu"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143596,
+      "name": "AQUELA MINA DE VERMELHO - TACA ROLA - \u00c9 HOJE QUE EU BAGUN\u00c7O",
+      "url": "https://open.spotify.com/track/77RNsMdzYmJSdJ8XmquDBZ"
+    },
+    {
+      "album": {
         "name": "Automotivo Bate Bate",
         "url": "https://open.spotify.com/album/570osdi7zEZYOnHSCl9yP6"
       },
@@ -460,6 +478,28 @@
     },
     {
       "album": {
+        "name": "Automotivo Satisfaction",
+        "url": "https://open.spotify.com/album/29jcfslBFnhOx0w1KDD6cz"
+      },
+      "artists": [
+        {
+          "name": "DJ Dudah",
+          "url": "https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr"
+        },
+        {
+          "name": "Mc Gimenes",
+          "url": "https://open.spotify.com/artist/2EOtEHNNR9N1dP5J2I1cHo"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143499,
+      "name": "Automotivo Satisfaction",
+      "url": "https://open.spotify.com/track/6qmkw69I3PMQ4qIqVJzFDb"
+    },
+    {
+      "album": {
         "name": "Automotivo Solitude",
         "url": "https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k"
       },
@@ -475,7 +515,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 121860,
       "name": "Automotivo Solitude",
       "url": "https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb"
@@ -535,7 +575,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 221538,
       "name": "Baile do Bruxo",
       "url": "https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j"
@@ -1019,7 +1059,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
@@ -1141,7 +1181,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 73111,
       "name": "EU VOU TOMAR UM TACAC\u00c1 X JOELMO DO RODO",
       "url": "https://open.spotify.com/track/2N2mexzqyE2KGmgRflQuNk"
@@ -1643,6 +1683,28 @@
       "duration_ms": 145960,
       "name": "Mega do Akon",
       "url": "https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7"
+    },
+    {
+      "album": {
+        "name": "Mega do Trava 04",
+        "url": "https://open.spotify.com/album/0W6hZWWRuBXZIdX17Ttsmu"
+      },
+      "artists": [
+        {
+          "name": "DJ Wesley Gonzaga",
+          "url": "https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt"
+        },
+        {
+          "name": "MC Nandinho",
+          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112153,
+      "name": "Mega do Trava 04",
+      "url": "https://open.spotify.com/track/3Ll8HJuVPX6DZscdGcSkGb"
     },
     {
       "album": {
@@ -2493,10 +2555,36 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 164826,
       "name": "Na Contram\u00e3o",
       "url": "https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6"
+    },
+    {
+      "album": {
+        "name": "Na Sua Vida Eu Sou o Problema",
+        "url": "https://open.spotify.com/album/0PklqhhK1BKoj1lVDEj3Jl"
+      },
+      "artists": [
+        {
+          "name": "Dj Alexandre Borges",
+          "url": "https://open.spotify.com/artist/0ocK4YeIBhnVN0TwlB0qNj"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161015,
+      "name": "Na Sua Vida Eu Sou o Problema",
+      "url": "https://open.spotify.com/track/1d4ToRTvxBoR5EQRIlB0js"
     },
     {
       "album": {
@@ -2575,6 +2663,28 @@
       "duration_ms": 120014,
       "name": "Novidade na \u00c1rea",
       "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Foi na Hidromassagem",
+        "url": "https://open.spotify.com/album/1G3YLAX8PSKGc71kY0mVhP"
+      },
+      "artists": [
+        {
+          "name": "Mc Kn bh",
+          "url": "https://open.spotify.com/artist/3AQ1JsAyzlFsoolfLh7IYi"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "N\u00e3o Foi na Hidromassagem",
+      "url": "https://open.spotify.com/track/4qqhNR8D0UWJIb7iW2hlj6"
     },
     {
       "album": {
@@ -2679,7 +2789,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 155928,
       "name": "Onlyfans",
       "url": "https://open.spotify.com/track/5lhoo6QYhXLYbUj3QkjWN7"
@@ -2813,6 +2923,28 @@
       "duration_ms": 155999,
       "name": "Pede pra Botar Que Eu Boto",
       "url": "https://open.spotify.com/track/6xMSBoWNC8hqDe47fSdg8Z"
+    },
+    {
+      "album": {
+        "name": "PEGA MEU BONECO 2",
+        "url": "https://open.spotify.com/album/32N7HqEPSPZjbBVBG8eGi8"
+      },
+      "artists": [
+        {
+          "name": "DJ JN PROD",
+          "url": "https://open.spotify.com/artist/4EUj9LINHYskuTsLjZCArq"
+        },
+        {
+          "name": "DJ ITIN",
+          "url": "https://open.spotify.com/artist/7C3mp2BNLYQ04iGHoPFrsL"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126461,
+      "name": "PEGA MEU BONECO 2",
+      "url": "https://open.spotify.com/track/1oqkrkdGyznvLH1cIyI3Hp"
     },
     {
       "album": {
@@ -3013,7 +3145,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 131722,
       "name": "Quer Ser Minha Atriz (feat. DJ Lc do Martins)",
       "url": "https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb"
@@ -3499,7 +3631,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 105461,
       "name": "Tchau",
       "url": "https://open.spotify.com/track/043UqjcBUxcuoKfaxujfLA"
@@ -3851,7 +3983,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 148615,
       "name": "Vem Quebrando",
       "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"

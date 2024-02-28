@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-264 songs - 18 hr 9 min
+265 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Kenni and the Jets](https://open.spotify.com/track/0uSbzFgJG9ve03a9Qfx7JE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds ...](https://open.spotify.com/album/2i6hdvwt1k6jewsrGmkj56) | 4:09 | 2020-11-13 | 2022-07-29 |
 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 | 2020-11-13 |  |
 | [Kerria Lacca](https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tucker Antell](https://open.spotify.com/artist/1rBvgsax33Ry0dbohgsFit) | [Kerria Lacca](https://open.spotify.com/album/5OPFNyGr1RVrrlvcD0YWOi) | 4:59 | 2020-11-13 | 2023-08-05 |
-| [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-06-25 |  |
+| [Kong](https://open.spotify.com/track/1AOy9cNv4cEIvVwjEQmEtG) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2IoG9R4tMHazagfGb695K2) | 4:47 | 2023-08-04 |  |
+| [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-06-25 | 2024-02-28 |
 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 | 2020-11-13 |  |
 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 | 2020-11-13 |  |
 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 | 2020-11-13 |  |

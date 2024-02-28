@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 4698,
+  "2024-02-28": 4697,
   "date_first_scraped": "2023-12-14",
   "description": "Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift",
   "name": "Clean Pop Hits",
@@ -399,6 +399,24 @@
       "duration_ms": 188562,
       "name": "By The End Of The Night",
       "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
+    },
+    {
+      "album": {
+        "name": "Call Me Yours",
+        "url": "https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Call Me Yours",
+      "url": "https://open.spotify.com/track/5xnVemtVlcFpLu8PtZbMD6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 456777,
+  "num_followers": 456823,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTBmZTM5NTVlNjA0NWJmN2M1OTFhYTAzODdiOGY3ZWZhOGM2OTYz",
+  "snapshot_id": "MCxjODY4MDVkYzAxMzI3MGE2YWI4NzhkYjFkZDAyMWMyNDM1MjU1NzU1",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -135,22 +135,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/0DZzKcLYWbYU6RFdeH65gU"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Vem Meu Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Sambabook Dona Ivone Lara, Vol. 2",
         "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/0DZzKcLYWbYU6RFdeH65gU"
       },
       "artists": [
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+      "duration_ms": 210093,
+      "name": "Vem Meu Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Essa \u00c9 Pra Voc\u00eas",
-        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Casas",
         "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 337308,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Essa \u00c9 Pra Voc\u00eas",
+        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
+      },
+      "artists": [
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 155666,
       "name": "Take It Easy My Brother Charles",
       "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "O Canto da Cidade",
-        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "O Canto da Cidade",
-      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "The Essential",
         "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 162360,
       "name": "Tiro Ao \u00c1lvaro",
       "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
-        }
-      ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Chega",
         "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 185544,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+        }
+      ],
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bloco do Silva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
         }
       ],
-      "duration_ms": 215493,
-      "name": "Beleza Rara - Ao Vivo",
-      "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
     }
   ],
   "unique_name": "Festa Brasileira",

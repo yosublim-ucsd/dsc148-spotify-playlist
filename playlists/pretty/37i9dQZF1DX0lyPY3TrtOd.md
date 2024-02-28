@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,705 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,706 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 32 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
 | 33 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
 | 34 | [She is Out](https://open.spotify.com/track/4BaquSwI7RbLtPhIU5fi9N) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/7e1AWSMpCR9n2R8pC1gQ1i) | 2:06 |
-| 35 | [Stray](https://open.spotify.com/track/0c7Ug09TZk8DunwW92ovBf) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [Stray](https://open.spotify.com/album/2Gm5E7Ls5YfWrXvqJX2qqt) | 3:16 |
+| 35 | [stray](https://open.spotify.com/track/0c7Ug09TZk8DunwW92ovBf) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [stray](https://open.spotify.com/album/2Gm5E7Ls5YfWrXvqJX2qqt) | 3:32 |
 | 36 | [High Tones](https://open.spotify.com/track/3t24v3y8GxyNExl2Y4wSIP) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [High Tones](https://open.spotify.com/album/1ksEjv3uBAWXLr6WuvxCCD) | 2:42 |
 | 37 | [Fire Thoughts](https://open.spotify.com/track/7s735OIUvkNxQu2wSocuhX) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/4xfz16XcHIR0HMRTci57Zs) | 3:39 |
 | 38 | [Sunshine](https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Sunshine](https://open.spotify.com/album/4tAYC8O702Uag2ILdlPkqj) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [It Must Have Been The Devil](https://open.spotify.com/track/5zYXy39HoFAA3D3yM6sLVq) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Must Have Been The Devil](https://open.spotify.com/album/6rA2DOWBPWxTzSg4R9K9zt) | 3:52 |
 | 60 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 
-Snapshot ID: `MCw4ZmJlODllZGFhNWVjZTNlNTY2MWZlZTQ1NjRiZmUzM2E0YTc1NDc1`
+Snapshot ID: `MCw4Mzk3YmNlYjI3NmE2YzJhYzk4NzljNDlhNDdkZmZkNWE3OTNhZjZk`

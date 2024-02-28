@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-294 songs - 16 hr 37 min
+296 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 | 2023-01-28 |
 | [Bland Minnen](https://open.spotify.com/track/1GPtXZ0BuMsaURDQQxQIR1) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Bland Minnen](https://open.spotify.com/album/3QKjt5vYNd6cGTbdCgRbQQ) | 2:38 | 2023-03-09 |  |
 | [Blue Mountains](https://open.spotify.com/track/4M2CGqXKaGNVd3KmjnHMrO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Angelic](https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd) | 3:15 | 2022-06-29 | 2023-11-21 |
+| [Blue Peak](https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24) | [Tibetan Audio](https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8) | [Blue Peak](https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm) | 3:24 | 2024-02-22 |  |
 | [Bluebirds](https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP) | [The Highest Clouds](https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH) | [Bluebirds](https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw) | 2:07 | 2022-06-29 |  |
 | [Brain Imaging](https://open.spotify.com/track/0y970SMstSYeB4fErHwjGY) | [Neural Oscillations](https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb) | [Alpha Activity](https://open.spotify.com/album/1S7gmkPo26PWlGiotf5RWy) | 2:43 | 2022-06-29 | 2022-07-29 |
 | [Brain Imaging](https://open.spotify.com/track/2FsZMy3VbsGY2w0FYVPnnK) | [Neural Oscillations](https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb) | [Alpha Activity](https://open.spotify.com/album/1rk53Ct8Sqp6mpUIm0vDvI) | 2:43 | 2022-07-19 |  |
@@ -94,6 +95,7 @@
 | [Epilogue](https://open.spotify.com/track/3YEoriryySI6V3qvGaWMhi) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/35tY6f0RQolHGEoipgL7Sl) | 3:07 | 2022-06-29 | 2022-07-29 |
 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-01-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-06-29 |  |
+| [Fauna](https://open.spotify.com/track/78xXqulK9gc4Cfl6zeDoHk) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Fauna](https://open.spotify.com/album/2YLBTB3TYosT2SuZHAHInm) | 2:49 | 2024-02-22 |  |
 | [Fiction](https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61) | 3:31 | 2022-07-19 |  |
 | [Fiction](https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/1MLutcc8zOKfnxA00EoVwC) | 3:31 | 2022-06-29 | 2022-07-29 |
 | [Field of Reeds](https://open.spotify.com/track/3D4i3XfBClkZH27nZQSQIu) | [Leo Svirsky](https://open.spotify.com/artist/3xmOLUuEuv7h2FoEUyshHP) | [River Without Banks](https://open.spotify.com/album/0i1XEyBtfS6LdSW572R8H8) | 7:53 | 2022-07-19 | 2022-07-29 |
@@ -132,7 +134,7 @@
 | [Human Endeavors](https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG) | [Sleepy Night Music](https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP) | [Cosmic Bliss](https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP) | 2:23 | 2023-10-05 |  |
 | [Hush](https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C) | 2:41 | 2022-07-19 |  |
 | [Hush](https://open.spotify.com/track/4YRRQ2lY39cU4XCCcqZEyo) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Hush](https://open.spotify.com/album/3pZihjucLETpZCJnIMEtYm) | 2:41 | 2022-06-29 | 2022-07-29 |
-| [II Cosmos](https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q) | [PRjDicE](https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3) | [II Cosmos](https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G) | 3:23 | 2022-06-29 |  |
+| [II Cosmos](https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q) | [PRjDicE](https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3) | [II Cosmos](https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G) | 3:23 | 2022-06-29 | 2024-02-28 |
 | [Immovable As The Mountain](https://open.spotify.com/track/3LDeOk1TQwmqk0To4Ihg6y) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [A True Master](https://open.spotify.com/album/7eO4waOvU1gQgRzXsThmIe) | 2:08 | 2022-06-29 | 2022-07-28 |
 | [Immovable As The Mountain](https://open.spotify.com/track/54vCcg45Q7sXHnZ2V07Ad6) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [A True Master](https://open.spotify.com/album/3rkcHBayORKTNjpUyIY0Rw) | 2:08 | 2022-07-19 |  |
 | [In the Landscapes of Baertling](https://open.spotify.com/track/3tbWT2vjQzFRN5j2rOyFae) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [In the Landscapes of Baertling](https://open.spotify.com/album/2e9d8lHyuHjB5tGRn6qjDj) | 3:18 | 2022-07-19 | 2022-07-29 |
@@ -164,7 +166,7 @@
 | [Loch and Key](https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 4:33 | 2022-07-19 | 2023-07-07 |
 | [Lost Wisdom](https://open.spotify.com/track/0ZLOoYYVJG7Jpgv83tPMny) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Lost Wisdom](https://open.spotify.com/album/41AkvkwYMM3lBbuApETwML) | 3:05 | 2022-07-19 | 2023-04-19 |
 | [Lost Wisdom](https://open.spotify.com/track/5D2hgQq8eMHHqR6xeEY36u) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Lost Wisdom](https://open.spotify.com/album/44ATL8wQSpdqeJLvdv1N4P) | 3:05 | 2022-06-29 | 2022-07-29 |
-| [Love Is All](https://open.spotify.com/track/5fElZorySnJf7AL27hovH6) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Love Is All](https://open.spotify.com/album/10OxP3accmLrouUPnbctPS) | 2:39 | 2022-07-19 |  |
+| [Love Is All](https://open.spotify.com/track/5fElZorySnJf7AL27hovH6) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Love Is All](https://open.spotify.com/album/10OxP3accmLrouUPnbctPS) | 2:39 | 2022-07-19 | 2024-02-28 |
 | [Love Is All](https://open.spotify.com/track/62BhWiFJIhRFYKKEkhK8LZ) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Love Is All](https://open.spotify.com/album/4KawX0ipBHgXNFFUyZcnVf) | 2:39 | 2022-06-29 | 2022-07-29 |
 | [Loveliness](https://open.spotify.com/track/5pJvcUYWJoA12oNJsgU8CS) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Loveliness](https://open.spotify.com/album/77Q17UO85JPsTkUebuLUnm) | 2:50 | 2022-07-19 |  |
 | [Loveliness](https://open.spotify.com/track/7IcQmXwd5r6eF3DIHL0xim) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Loveliness](https://open.spotify.com/album/6VhjHAIHIMJVNhSd6YSmNj) | 2:50 | 2022-06-29 | 2022-07-29 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 1871252,
+  "2024-02-28": 1871338,
   "date_first_scraped": "2020-04-03",
   "description": "Soft house music for your laidback moments.",
   "name": "Lounge - Soft House",
@@ -699,6 +699,24 @@
       "duration_ms": 145680,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/7etvw1iMT1W7wApghIDSiG"
+    },
+    {
+      "album": {
+        "name": "Arcade Lounge",
+        "url": "https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Arcade Lounge",
+      "url": "https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy"
     },
     {
       "album": {
@@ -9694,6 +9712,24 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/7y38qm3CFyQNWJdo8xb2zm"
+      },
+      "artists": [
+        {
+          "name": "Mandy Mars",
+          "url": "https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/1X3ZacDFsFxqwWJud95Iah"
+    },
+    {
+      "album": {
         "name": "Fascination",
         "url": "https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb"
       },
@@ -13021,6 +13057,24 @@
       "duration_ms": 161744,
       "name": "Uhuru",
       "url": "https://open.spotify.com/track/6yUgU40FMxeTBtzx1WaksW"
+    },
+    {
+      "album": {
+        "name": "Ultra Vox",
+        "url": "https://open.spotify.com/album/7LGHiA1kv2ZkIL4iwBJdDQ"
+      },
+      "artists": [
+        {
+          "name": "Hamasi",
+          "url": "https://open.spotify.com/artist/6RQzicg4zJqgbzvIx3qqgm"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125840,
+      "name": "Ultra Vox",
+      "url": "https://open.spotify.com/track/5XkvJe4K43yHEIsJpDoj4s"
     },
     {
       "album": {

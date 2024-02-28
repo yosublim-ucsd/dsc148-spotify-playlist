@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 278236,
+  "2024-02-28": 278270,
   "date_first_scraped": "2021-12-21",
   "description": "The country way of testifying.",
   "name": "Country by the Grace of God",
@@ -3353,10 +3353,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 236986,
       "name": "Tell Somebody 'Bout You",
       "url": "https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T"
+    },
+    {
+      "album": {
+        "name": "Tell Somebody 'bout You",
+        "url": "https://open.spotify.com/album/3NPimD4mtfgvqJ0x1PLVqa"
+      },
+      "artists": [
+        {
+          "name": "Adam Sanders",
+          "url": "https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Tell Somebody 'bout You",
+      "url": "https://open.spotify.com/track/7Cf1zlZsFA2JzlbcDkEacw"
     },
     {
       "album": {

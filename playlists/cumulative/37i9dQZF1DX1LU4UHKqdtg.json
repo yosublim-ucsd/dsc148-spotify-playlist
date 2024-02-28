@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ENHYPEN",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: TWICE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 179275,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
@@ -3826,6 +3826,24 @@
       "duration_ms": 221533,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ"
+    },
+    {
+      "album": {
+        "name": "NOT OKAY",
+        "url": "https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259346,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH"
     },
     {
       "album": {
@@ -13288,7 +13306,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 200906,
       "name": "Stars",
       "url": "https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6"
@@ -13714,7 +13732,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 182360,
       "name": "Suit Up",
       "url": "https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA"
@@ -15972,7 +15990,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 227683,
       "name": "When we meet again",
       "url": "https://open.spotify.com/track/5VszBqrAVGryNnF2djV1Ob"

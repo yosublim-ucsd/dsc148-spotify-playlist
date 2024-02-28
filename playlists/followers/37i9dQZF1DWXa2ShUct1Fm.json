@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 832550,
+  "2024-02-28": 832816,
   "date_first_scraped": "2022-05-30",
   "description": "Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.",
   "name": "This Is SEVENTEEN",
@@ -827,6 +827,24 @@
       "duration_ms": 169560,
       "name": "Crush",
       "url": "https://open.spotify.com/track/68kHuoBxtNcWZWxBu1V007"
+    },
+    {
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274400,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
     },
     {
       "album": {

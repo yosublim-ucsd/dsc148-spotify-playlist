@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,811 likes - 123 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,809 likes - 123 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 105 | [Two melodies](https://open.spotify.com/track/1oTdXaj3rG7ZM4gbdvjqb3) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Red Light](https://open.spotify.com/album/0kNBVdH0reEe7q623EYijH) | 3:31 |
 | 106 | [Love Story \(Feat\. CRUSH\)](https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Love Story](https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G) | 3:40 |
 | 107 | [Hands Up \(Feat\. Crush\)](https://open.spotify.com/track/6YplTnmozh3OtY3MVaxXOh) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [LOCOMOTIVE](https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3) | 2:40 |
-| 108 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:30 |
+| 108 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
 | 109 | [Castaway](https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:14 |
 | 110 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 |
 | 111 | [Believe](https://open.spotify.com/track/5qhkoCQh3lAEc83xsAuUWZ) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [MINE](https://open.spotify.com/album/5pc6YYy9r4HvLGSUVJsDGX) | 3:07 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 122 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 123 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/0sURxd4sQ6QQh15hwUnF6g) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/5ijvjY480KJkSRnqFgFs6O) | 4:25 |
 
-Snapshot ID: `MCxlMTYxYWUxNzQxMzVhMDYzMmQzY2UyYTZlYjI1MTJjNTkwNGYwNmIy`
+Snapshot ID: `MCwwZDMwYmY1NWRhYTkwNTQ2YTY3YjM3ODNiMzkwMmU4YzE4Njk0OGRj`

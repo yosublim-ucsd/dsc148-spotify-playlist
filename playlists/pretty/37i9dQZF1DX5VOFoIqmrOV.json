@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Hi Nanna",
-  "num_followers": 325704,
+  "num_followers": 325883,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjM3ZjlkZDI0N2FkM2YxOGUwY2VhN2NjZWY2OTVjZjBlODE1Mjdm",
+  "snapshot_id": "MCw4OTIxZDBkNjM4N2QwNzIwYmI3NzU0MmFmNTg1YjAwMGVhNjZhNDZh",
   "tracks": [
     {
       "added_at": "2023-12-12 05:49:47",
@@ -861,30 +861,6 @@
       "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Temper",
-        "url": "https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS"
-      },
-      "artists": [
-        {
-          "name": "Adnan Sami",
-          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
-        },
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "Veena Ghantasala",
-          "url": "https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp"
-        }
-      ],
-      "duration_ms": 250971,
-      "name": "Choolenge Aasma",
-      "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Psycho Saiyaan (From \"Saaho\")",
@@ -907,6 +883,30 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan (From \"Saaho\")",
       "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "Veena Ghantasala",
+          "url": "https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp"
+        }
+      ],
+      "duration_ms": 250971,
+      "name": "Choolenge Aasma",
+      "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Arjun Reddy",
+        "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
+      },
+      "artists": [
+        {
+          "name": "Alphonse",
+          "url": "https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Emitemitemo",
+      "url": "https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Bheemla Nayak",
@@ -1227,22 +1243,6 @@
       "duration_ms": 310000,
       "name": "Bheemla Nayak Title Song",
       "url": "https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Arjun Reddy",
-        "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
-      },
-      "artists": [
-        {
-          "name": "Alphonse",
-          "url": "https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Emitemitemo",
-      "url": "https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Srimanthudu",
-        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Suchitra",
-          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Jatha Kalise",
-      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Gentleman",
         "url": "https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 237474,
       "name": "Gusa Gusa Lade",
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Srimanthudu",
+        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Jatha Kalise",
+      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
     },
     {
       "added_at": "2023-05-04 06:50:45",

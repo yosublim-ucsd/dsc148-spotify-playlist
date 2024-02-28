@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 
 > Challenging norms, breaking boundaries with Advisry's Keith Herron\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,271 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 | 24 | [Horse](https://open.spotify.com/track/2bLHcJ6UsFRTnF64jK7c8T) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Quadron](https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ) | 4:01 |
 | 25 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 |
 | 26 | [The Creator Has a Master Plan Part II](https://open.spotify.com/track/3V2gSIoWvVVNVCyISrisnk) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Hotel San Claudio](https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu) | 6:29 |
-| 27 | [Black Rainbows](https://open.spotify.com/track/7egGg2PirQOI8RdbQe54JN) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Jean Carne JID012](https://open.spotify.com/album/1IY22zx4gS8CSgKMq1sLao) | 4:27 |
+| 27 | [Black Rainbows](https://open.spotify.com/track/7egGg2PirQOI8RdbQe54JN) | [Jean Carne](https://open.spotify.com/artist/3ejLRcSbNwwvFbVWnStKvB), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Jean Carne JID012](https://open.spotify.com/album/1IY22zx4gS8CSgKMq1sLao) | 4:27 |
 | 28 | [fashion](https://open.spotify.com/track/3nqLGe8Zmh3hfm2WoDVJKn) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:13 |
 | 29 | [Lavish \(feat\. Pharrell Williams\)](https://open.spotify.com/track/6csDVHvJZ5QqHKU0m42q5e) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Day After](https://open.spotify.com/album/6LKbX6fsiMtw6xP4TgsY9Q) | 3:42 |
 | 30 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 | 41 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 42 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 
-Snapshot ID: `MCw4ZDY2NjY1MGUxMzg5YjcwZjYzYWVjZGM2NjQwNmVjMDdiYjAzNWNk`
+Snapshot ID: `MCw1NjljOTVkMTRkNWM3ZmQzZTFkZGVkMWZiNzZiMmI0NGFkODA4ZDRl`

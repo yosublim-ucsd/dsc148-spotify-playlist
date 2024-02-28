@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de winter van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,366 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,351 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
 | 2 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 |
 | 3 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
-| 4 | [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
+| 4 | [Écoutez\-moi \- NL](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
 | 5 | [Angel Face](https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Angel Face](https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI) | 3:32 |
 | 6 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
 | 7 | [Nothing To Lose](https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose](https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
 | 100 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 
-Snapshot ID: `MCxhNjcxOGQ0OWUxODM5YjIwYTFmMzQ2OTAxYzlkOWRiN2IzMmI1OTQ5`
+Snapshot ID: `MCxlNjBlM2MxZGE5MjM2MzA1MTgxYjg3Y2ExNGZkMmZkYjA2MzEwYjZi`

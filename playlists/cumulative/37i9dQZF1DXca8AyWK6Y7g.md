@@ -4,7 +4,7 @@
 
 > i don't normally like country but now my whole life is line dancing to Dasha 🤠👢🌵🏜🐴
 
-1,957 songs - 4 day 2 hr 49 min
+1,959 songs - 4 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [avoiding](https://open.spotify.com/track/33n7ILhPNDsTjksq15o4qJ) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [avoiding](https://open.spotify.com/album/2O8CTOf7Urxw9curxCraoY) | 4:07 | 2019-07-27 | 2020-04-15 |
 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 | 2021-10-25 | 2022-12-10 |
 | [Awash](https://open.spotify.com/track/70W9r4QKO03SeGxdxuo4I4) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Awash](https://open.spotify.com/album/2jkD1DxLkUGfJ8pp5iaE0T) | 3:09 | 2021-05-17 | 2021-10-16 |
+| [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-02-27 |  |
 | [baby](https://open.spotify.com/track/0Jb9GMSMYC9SxFCe6uiDRG) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [baby](https://open.spotify.com/album/52JJV0EJpC8Ibu3X8EutWW) | 2:33 | 2021-08-19 | 2021-08-20 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-06-06 |
 | [Baby Don't Go](https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Baby Don't Go](https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9) | 2:32 | 2022-07-04 | 2022-12-10 |
@@ -438,6 +439,7 @@
 | [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 | 2023-09-01 |
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-06-24 | 2022-09-17 |
 | [Disco Man](https://open.spotify.com/track/7GDjBYc8Q3li08dXaZcMB9) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Disco Man](https://open.spotify.com/album/5IkAmFP38hsfWKA5Jv2XQ1) | 3:12 | 2020-08-04 | 2021-11-10 |
+| [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 |  |
 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-03-06 | 2021-11-20 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-23 | 2023-01-28 |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-03-31 |  |

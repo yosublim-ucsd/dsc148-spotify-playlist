@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1952400,
+  "num_followers": 1952465,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTRmMTFhNDRjMzhlNjdmYzdiNzk2ZDY0MjJhYWI1Y2JkN2IzYTU0",
+  "snapshot_id": "MCw4ZmU4Njk4NjdkZGYxMDdmMzkxNDg5NjMzZGJmYTA3NWUyMTQ0ZGFj",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -863,22 +863,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Nunca Deja De Llover",
-        "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
+        "name": "el afortunado",
+        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
         }
       ],
-      "duration_ms": 170389,
-      "name": "Nunca Deja de Llover",
-      "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -899,18 +895,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "el afortunado",
-        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+        "name": "Nunca Deja De Llover",
+        "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
       },
       "artists": [
         {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+      "duration_ms": 170389,
+      "name": "Nunca Deja de Llover",
+      "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
     },
     {
       "added_at": "2024-02-23 05:00:00",

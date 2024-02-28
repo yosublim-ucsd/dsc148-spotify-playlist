@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-76 songs - 3 hr 33 min
+77 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Trap Phone \(feat\. Caza\)](https://open.spotify.com/track/3lZOPG6RD2hgFJimX0YK5z) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 3:02 | 2024-01-29 |  |
 | [Twerk](https://open.spotify.com/track/0adPF4B9G5KhKY2m4zc5m7) | [Fabiola](https://open.spotify.com/artist/6CA2eS7cImKROD1MxahLgU) | [Stripper Body](https://open.spotify.com/album/7r1U399vMcdRfuJeikDLcB) | 1:57 | 2024-01-29 |  |
 | [Undress](https://open.spotify.com/track/10UALmShvACDGdJyeYIVKf) | [Dyna](https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Chase](https://open.spotify.com/artist/1hFYYkuhPdOjsSG8rs2u4u) | [Undress](https://open.spotify.com/album/5b4uCmM1uSQiZpgn99PN63) | 2:54 | 2024-01-29 |  |
+| [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 | 2024-02-27 |  |
 | [Volmaakt](https://open.spotify.com/track/6sHGyWWfe4nSUKAvlwIya6) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Lach](https://open.spotify.com/album/5fFbetGfiyklQC2dUyHwRA) | 3:23 | 2024-01-29 |  |
 | [Wani Go](https://open.spotify.com/track/0InPwFLuX6alqv6FCLxsD0) | [Tranga Rugie](https://open.spotify.com/artist/1LgZQptrB9J0K7g6YcjyC8) | [Wani Go](https://open.spotify.com/album/6lqNC8mB9rI868iAOyuqw9) | 3:19 | 2024-01-29 |  |
 | [Wat Dacht Je Dan \(feat\. Caza, Mavy & Justice Toch\)](https://open.spotify.com/track/6oLzdDCSpoMx2FKNUv5b8S) | [Joyba](https://open.spotify.com/artist/6UeUHpQSkLnBJYtKF2EbKb), [DJ SUPERIOR](https://open.spotify.com/artist/0fzCTgXVkBEyC4o1NbZ2Za), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Mavy](https://open.spotify.com/artist/4ojW02xqgfGF86tfD0geu7), [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa) | [Wat Dacht Je Dan \(feat\. Caza, Mavy & Justice Toch\)](https://open.spotify.com/album/4dV64SB8tEQ9N91KkMMdc3) | 3:32 | 2024-01-29 |  |

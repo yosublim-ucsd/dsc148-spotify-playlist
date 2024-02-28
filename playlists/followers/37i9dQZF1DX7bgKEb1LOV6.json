@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 651933,
+  "2024-02-28": 651982,
   "date_first_scraped": "2022-05-30",
   "description": "To the world, Here is NCT! Hi we are NCT!",
   "name": "This Is NCT",
@@ -3081,6 +3081,24 @@
       "duration_ms": 233720,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/1FU3x0eu9cUl3AltO6t2KH"
+    },
+    {
+      "album": {
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157906,
+      "name": "TAP",
+      "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
     },
     {
       "album": {

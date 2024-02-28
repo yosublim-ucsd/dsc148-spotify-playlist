@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Michael Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,956 likes - 201 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,994 likes - 201 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 16 | [BAYOU BOY](https://open.spotify.com/track/22dYZ6E7cqKzNI1mEIfUwI) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BAYOU BOY](https://open.spotify.com/album/3t0TTiyNfDjBtTFoCWJlPt) | 3:34 |
 | 17 | [Blood](https://open.spotify.com/track/613kRFZRUuzk1oNFJhLVyh) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/3dn9G5nWuDYTshRFwPIsV7) | 2:44 |
 | 18 | [Bad For Me](https://open.spotify.com/track/5XAnb8uMIFDLNy8R4hr6m4) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Bad For Me](https://open.spotify.com/album/5DrOd0ia3DEeRYN8qBQwrz) | 3:05 |
-| 19 | [Hey Arizona](https://open.spotify.com/track/3HtsiHZAOyk9X2x6ARQ99S) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Hey Arizona](https://open.spotify.com/album/7g0EiKkCXhUnEsIt2ON2nI) | 3:49 |
+| 19 | [Hey Arizona](https://open.spotify.com/track/3HtsiHZAOyk9X2x6ARQ99S) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Hey Arizona](https://open.spotify.com/album/7g0EiKkCXhUnEsIt2ON2nI) | 3:45 |
 | 20 | [What I Couldn’t Forget](https://open.spotify.com/track/4dEWNRlqu2qBJo5j0EERlR) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Jukebox Songs](https://open.spotify.com/album/6PCcB1BFkyWNrIuTez3tWm) | 2:50 |
 | 21 | [Two Down](https://open.spotify.com/track/7x6oGiuk2b7oyaCk2pL8MR) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Two Down](https://open.spotify.com/album/3oCf3cZ064ClBCeU1wdD6u) | 3:10 |
 | 22 | [Girl Next Door](https://open.spotify.com/track/3WVDA3Gqfz4l7lvBCKWdfe) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Girl Next Door](https://open.spotify.com/album/25PzQJK3Q2aNmf5eswlNPr) | 2:40 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 200 | [She Makes The Sad Songs](https://open.spotify.com/track/3fenVIOHiV6LYZZNRWWQQO) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [She Makes The Sad Songs](https://open.spotify.com/album/1xR6P7g8NKAdB0z5lPW453) | 3:44 |
 | 201 | [Counterfeit](https://open.spotify.com/track/2TooRcNf7awyRJrO7XPric) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Crying In My Car](https://open.spotify.com/album/7bxTHB08eaMZvvkWywQbdF) | 2:45 |
 
-Snapshot ID: `MCwyOTk2OGEwMGY3ZThkZTI3NTJlMmQ1MGUzZmMxZmE0MTk0MjgxYTcy`
+Snapshot ID: `MCxkOGRhMmRkOWM4N2EzZWNiYjU2MjVhN2UwMDA4ZTVlZDEzYzYzYjg5`

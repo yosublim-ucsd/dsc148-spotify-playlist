@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-347 songs - 15 hr 58 min
+348 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aldri tilbake](https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Aldri tilbake](https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O) | 3:21 | 2021-12-16 |  |
 | [All øllen eg drikke](https://open.spotify.com/track/2kMUeVstP7rQIgJmJ5Aho8) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [All øllen eg drikke](https://open.spotify.com/album/1J1GkO6nEllNVn0Rc4YfCW) | 2:28 | 2023-08-17 | 2023-08-25 |
 | [Alt det der](https://open.spotify.com/track/7qQmbSx16gAj5j8eR1Pn6d) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der](https://open.spotify.com/album/645DPvuuUPRDfKiyEyq5uo) | 2:57 | 2021-12-16 | 2022-07-29 |
+| [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/track/255CixwgWFfqHB1liw1LPE) | [Landeveiens Helter](https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY), [Lars Erik Blokkhus](https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr), [Dag Ingebrigtsen](https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux) | [Alt det der \(feat\. Lars\-Erik Blokkhus & Dag Ingebrigtsen\)](https://open.spotify.com/album/3juWqAxnKuVVCNQHxOVAAl) | 2:57 | 2024-02-15 |  |
 | [Alt du vil ha](https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Alt du vil ha](https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR) | 3:00 | 2021-12-16 | 2022-11-16 |
 | [Alt Er Bedre \(Tequila\)](https://open.spotify.com/track/4Alebf4eKgEPfw57mmHrul) | [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Alt Er Bedre \(Tequila\)](https://open.spotify.com/album/2St3li8WTdpkqQ8BO0gygn) | 2:21 | 2022-06-23 | 2022-07-17 |
 | [Ba Chill](https://open.spotify.com/track/0CjLBFXEzaBRL6Uos9OPPs) | [Robin Stones](https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Papito MIERDA](https://open.spotify.com/artist/4id8s2TqKu7A8Tbfeh7XGf) | [Ba Chill](https://open.spotify.com/album/1u0IQI0Dz0W9HSs2R1HgTw) | 2:12 | 2022-10-15 | 2022-11-16 |
@@ -31,7 +32,7 @@
 | [Bakis](https://open.spotify.com/track/62RJOw42SeLh4wdPyIJQPw) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Bakis](https://open.spotify.com/album/3gH0m1q8ULRoBMNU8DS45H) | 3:25 | 2022-03-10 | 2022-05-30 |
 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 | 2023-01-26 |
 | [Balladen om Morgan Kane](https://open.spotify.com/track/6mdY8t48E0adwWPOEt1tSS) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Fri som fuglen](https://open.spotify.com/album/2tC4KKNpTxONyjF3LYJ6F5) | 3:51 | 2022-03-31 | 2022-04-20 |
-| [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 | 2021-12-16 |  |
+| [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 | 2021-12-16 | 2024-02-28 |
 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 | 2021-12-16 | 2022-07-29 |
 | [Bare så du vett det](https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Stavangerkameratene](https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk) | 3:30 | 2022-07-28 | 2024-02-09 |
 | [Bare så du vett det](https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Bare så du vett det](https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw) | 3:31 | 2021-12-16 | 2022-07-29 |

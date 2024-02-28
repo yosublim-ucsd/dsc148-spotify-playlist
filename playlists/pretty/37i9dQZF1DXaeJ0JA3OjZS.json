@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 96929,
+  "num_followers": 97145,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjdiY2ZlMjM1MjljM2U3YjQ3OTkyMzNjYTg0MTgwZDMwOWU2ZjAz",
+  "snapshot_id": "MCwyZDM5ODg3NDQ2ZDhhYzY1Y2NkMDRlMzU3Zjg5NDQ3NzI3ZGIzOTIy",
   "tracks": [
     {
       "added_at": "2024-02-23 17:17:16",
@@ -391,6 +391,38 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 183297,
+      "name": "Cuando Muri\u00f3 Mi Caballo",
+      "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 184854,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B"
       },
@@ -419,38 +451,6 @@
       "duration_ms": 178272,
       "name": "El Cantador",
       "url": "https://open.spotify.com/track/5cOUrEO1AZEPbKJRRACkWq"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
-        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 184854,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 183297,
-      "name": "Cuando Muri\u00f3 Mi Caballo",
-      "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 166112,
-      "name": "La Feria de San Marcos",
-      "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
+      "duration_ms": 131291,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1028,9 +1028,25 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 131291,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+      "duration_ms": 166112,
+      "name": "La Feria de San Marcos",
+      "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
+    },
+    {
+      "added_at": "2024-02-23 17:17:16",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1051,22 +1067,6 @@
       "duration_ms": 212813,
       "name": "El Pulm\u00f2n",
       "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
-    },
-    {
-      "added_at": "2024-02-23 17:17:16",
-      "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
     },
     {
       "added_at": "2024-02-23 17:17:16",
@@ -1171,18 +1171,26 @@
     {
       "added_at": "2024-02-23 17:17:16",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+        "name": "El Caballo Robado",
+        "url": "https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Vicente Fern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH"
+        },
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
         }
       ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+      "duration_ms": 212214,
+      "name": "El Caballo Robado",
+      "url": "https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I"
     }
   ],
   "unique_name": "Corridos de Caballos",

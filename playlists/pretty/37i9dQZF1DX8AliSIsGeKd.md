@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,170 likes - 90 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,295 likes - 90 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 71 | [Nocturne](https://open.spotify.com/track/5EoG6qFYmxOrxRKjX5h0Ao) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Terremoto Valley Express EP](https://open.spotify.com/album/4p92eB2VCNvrMZIITnofAW) | 5:27 |
 | 72 | [Blitz \- Radio Edit](https://open.spotify.com/track/6vwQjARO3vrz5h2hlfKI1v) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz) | [Blitz \(Radio Edit\)](https://open.spotify.com/album/362TotF8yfJuEjjyUXyGqL) | 3:14 |
 | 73 | [Smooth Operator](https://open.spotify.com/track/2L4LZenupEoc2muK6hi4Ly) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 10](https://open.spotify.com/album/4J9nUeWCuLtcElO6h4ynwx) | 6:47 |
-| 74 | [Intelecto](https://open.spotify.com/track/7fZABMgM1XLAznYdMJ3mH2) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy) | [Intelecto](https://open.spotify.com/album/2biw6rMSkwG6WBXrlG5zwt) | 6:18 |
+| 74 | [Intelecto](https://open.spotify.com/track/4M7VxcT5g6yMuQ3MBZD9Xe) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy) | [Corto Amanecer EP](https://open.spotify.com/album/4inZakBL156tFOjVdjz8ys) | 6:18 |
 | 75 | [Sexual Tension](https://open.spotify.com/track/6w8jXP4qCWxBayZWxdopcp) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [Sexual Tension](https://open.spotify.com/album/7sinO0EEo3OSfsrVmClCBO) | 6:05 |
 | 76 | [ONE](https://open.spotify.com/track/7zQHZEp8CElsZiXZZpJacN) | [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [ONE](https://open.spotify.com/album/7MYCG9rVJsnYZFGaIAHM5g) | 4:31 |
 | 77 | [Take You \- Joachim Pastor Remix Edit](https://open.spotify.com/track/0Vq8a5hbHdkL9rzyBrofrL) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Take You \(Joachim Pastor Remix Edit\)](https://open.spotify.com/album/6ZvojFPbMdMeMmXpvdFJSE) | 4:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Take Me Back](https://open.spotify.com/track/3vAlTZ5tbE0cP2ppijVkbf) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Take Me Back](https://open.spotify.com/album/55Zy9a9hZKTBnM2tj8YlaL) | 5:34 |
 | 90 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 
-Snapshot ID: `MCxiMWE1NGUwM2U4NTFiYjBjYmFlMWU0Mjc1ZDczOTZmNGRiMWUyZDYy`
+Snapshot ID: `MCwzMTI4OWYyMjdmZmE3YzdlOWU0MGE2ODRlNjBiMGZkY2Y0ZmEyMTI4`

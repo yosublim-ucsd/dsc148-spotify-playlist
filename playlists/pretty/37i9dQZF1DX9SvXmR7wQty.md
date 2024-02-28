@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,717 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,722 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 23 | [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 |
 | 24 | [Aller sans retour](https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Aller sans retour](https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN) | 2:56 |
 | 25 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 |
-| 26 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 |
-| 27 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 |
+| 26 | [Position](https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 2:21 |
+| 27 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 |
 | 28 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
 | 29 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 |
 | 30 | [Ferrero \(feat\. Gambi\)](https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:21 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 36 | [Souvenir](https://open.spotify.com/track/6a20iVTnMEjuLKtOFSUms1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Souvenir](https://open.spotify.com/album/6PaR3f33lA3iXdy59U7g2m) | 2:46 |
 | 37 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 |
 | 38 | [Rashel](https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Rashel](https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2) | 2:56 |
-| 39 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
-| 40 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 |
-| 41 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 |
+| 39 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 |
+| 40 | [CITÉS DE FRANCE](https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [CITÉS DE FRANCE](https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX) | 3:35 |
+| 41 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 |
 | 42 | [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 |
 | 43 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 |
 | 44 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 | 45 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 |
-| 46 | [MODE HARDCORE](https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [HOOD VOLUME.1](https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu) | 3:25 |
-| 47 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 |
+| 46 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 |
+| 47 | [MODE HARDCORE](https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [HOOD VOLUME.1](https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu) | 3:25 |
 | 48 | [Bravo](https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Bravo](https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu) | 3:11 |
 | 49 | [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 |
-| 50 | [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 |
+| 50 | [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 |
 
-Snapshot ID: `MCxjOTZjYTI3YWFkZTQ0ZGJjMDgwMWQwZDRjMTdhMWM2ZGU2MTlkMGI4`
+Snapshot ID: `MCxiNTQ4ZmU2NTcwZmEwOGNjOTU0MjdmNDQzOGMxMzEwNjRlYmQ2MjAx`

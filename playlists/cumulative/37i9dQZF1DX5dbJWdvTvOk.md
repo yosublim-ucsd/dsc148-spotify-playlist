@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-659 songs - 1 day 3 hr 56 min
+660 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Fantasie](https://open.spotify.com/track/4HGQtaThav55ugWtulzE5z) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Fantasie](https://open.spotify.com/album/2h8pgJJhpUebg8tG3G1ij7) | 1:55 | 2023-06-02 | 2023-08-26 |
 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 | 2023-01-20 | 2023-04-22 |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2023-04-21 | 2024-01-17 |
+| [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2023-04-21 |  |
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-26 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-07-15 | 2023-04-22 |
@@ -366,7 +367,7 @@
 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 | 2023-09-29 |  |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-19 | 2023-04-22 |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 | 2023-04-22 |
-| [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2023-04-21 |  |
+| [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2023-04-21 | 2024-02-28 |
 | [Maple Street](https://open.spotify.com/track/5GsNfOialI5ZsqmsuZ57CH) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Maple Street](https://open.spotify.com/album/2slEEFLv6zCH9BxsZWXNGc) | 2:33 | 2023-08-10 |  |
 | [Mare](https://open.spotify.com/track/3GVWH7adVHhwep2kAtDdc4) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 2:28 | 2022-07-15 | 2023-04-22 |
 | [Matira](https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Matira](https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN) | 2:20 | 2023-08-10 |  |

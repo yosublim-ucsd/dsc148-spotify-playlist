@@ -4,7 +4,7 @@
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-71 songs - 3 hr 41 min
+72 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Sweetest Feeling](https://open.spotify.com/track/2dbGXeFHidQziBx9igsXNd) | [Almost Everything](https://open.spotify.com/artist/6c3Kkki7z31zj6TjebwpsU) | [Almost Everything](https://open.spotify.com/album/3Z3IAS33tg4qdRUVtpg19g) | 3:14 | 2023-02-27 |  |
 | [Switched Up](https://open.spotify.com/track/6i3eLzjEcN3Xbc23vFxGRp) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:26 | 2023-02-27 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2023-02-27 |  |
-| [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 | 2023-02-27 |  |
+| [The Cheek](https://open.spotify.com/track/5ixC1NfXGoGSs2J9ZdXOeZ) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/3WgAlplNdRsTqpPh2E7oqn) | 3:43 | 2023-02-27 |  |
+| [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 | 2023-02-27 | 2024-02-28 |
 | [The Christmas Crawl](https://open.spotify.com/track/1o6cnS16Ps8Rp7U8kgdlrc) | [Ural Thomas and the Pain](https://open.spotify.com/artist/3CVDnjIPKEN8xYJ2kIpq4t) | [The Christmas Crawl](https://open.spotify.com/album/6Au7Y3Mb66v9a1K2vFkvFq) | 3:07 | 2023-02-27 |  |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2023-02-27 |  |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2023-02-27 |  |

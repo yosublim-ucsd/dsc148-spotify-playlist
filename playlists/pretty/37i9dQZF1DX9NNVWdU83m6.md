@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,456 likes - 121 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,477 likes - 121 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 81 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
 | 82 | [Colliding Chimps](https://open.spotify.com/track/7M3oG4mQrOn81hNgSRqUqP) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas), [Tj\. Helmerich](https://open.spotify.com/artist/4iLrFjLcUnQUEUOxUiEDl6), [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ), [Scott Kinsey](https://open.spotify.com/artist/1503sX3VD2I5aLcBA9wjjK), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Uncle Moe's Space Ranch](https://open.spotify.com/album/5V89sbJdj6RDqqUHW7bCnX) | 6:16 |
 | 83 | [Hazard Profile, Pt\. 1 \- 2022 Remaster](https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles \(Remastered And Expanded Edition\)](https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN) | 9:17 |
-| 84 | [Hits!](https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5) | [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Dennis Hamm](https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g) | [Hits!](https://open.spotify.com/album/4ZkhTuOJtL59EKqOAayBIb) | 5:30 |
+| 84 | [Hits!](https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5) | [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR), [Logan Kane](https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ), [Outside World](https://open.spotify.com/artist/5xWSapntbvFDBkJ2y37CKf), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Hits!](https://open.spotify.com/album/4ZkhTuOJtL59EKqOAayBIb) | 5:30 |
 | 85 | [Making The Circle](https://open.spotify.com/track/2IZSJBp2pkdDIdArKUD4uD) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Bring Us The Bright](https://open.spotify.com/album/3TsyAhKh3iEruzauyaKkmg) | 6:47 |
 | 86 | [The Kipper and the Pork Pie](https://open.spotify.com/track/6pkkUNpoDPhI0dGV72caDx) | [WorldService Project](https://open.spotify.com/artist/1yYpduIG9QUEIh3w2ibm9D) | [Hiding in Plain Sight](https://open.spotify.com/album/2NHruqgKmRD6Jwewz7eU0Y) | 3:42 |
 | 87 | [Captain Señor Mouse](https://open.spotify.com/track/1HSHOe07A4gtxBwSFhK5Pb) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Hymn Of The Seventh Galaxy](https://open.spotify.com/album/0ddNu3IWO5iEHoBe9qOr5L) | 9:01 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 120 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 121 | [Earthrise](https://open.spotify.com/track/4EXGzIcRzuJK0j0aH9IMUm) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/2DZEwt8Lhz6PuqxsJWF7Ap) | 6:40 |
 
-Snapshot ID: `MCxlNjdiZTM2ODE3ZWZmYjE4YzFjZjNjN2JlNDdhZDc5NGQ5MGVkYzQx`
+Snapshot ID: `MCwzOTIzNDUwZGU5ZTA2ZmUyMDkxZjc5M2VjYmI4NzNjNGY1NGNjZTI5`

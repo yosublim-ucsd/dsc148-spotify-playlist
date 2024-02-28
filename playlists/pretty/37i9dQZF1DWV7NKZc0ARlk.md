@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,273 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,597 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 43 | [La Fuerza Del Corazón \- En Directo En El Estadio Vicente Calderón / 2017](https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [+ Es + \(El Concierto / En Directo En El Estadio Vicente Calderón / 2017\)](https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt) | 5:16 |
 | 44 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 |
 | 45 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
-| 46 | [Serás el Aire \- Primera Fila](https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl) | [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [Primera Fila Sasha Benny Erik](https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv) | 4:19 |
-| 47 | [Yo Te Pido Amor \(Primera Fila\) \(feat\. Pandora\) \- En Vivo](https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH) | 4:42 |
+| 46 | [Yo Te Pido Amor \(Primera Fila\) \(feat\. Pandora\) \- En Vivo](https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH) | 4:42 |
+| 47 | [Serás el Aire \- Primera Fila](https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl) | [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [Primera Fila Sasha Benny Erik](https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv) | 4:19 |
 | 48 | [Día De Suerte](https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Alejandra Guzmán 20 Años De Éxitos En Vivo Con Moderatto](https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn) | 3:32 |
 | 49 | [Ay Amor \- Primera Fila Flans \[En Vivo\]](https://open.spotify.com/track/46KUdszLcvk1IvQaoo9EFq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 3:14 |
 | 50 | [¿Qué Pasaría? \- Primera Fila Acústico "Una Última Vez \- Encore"](https://open.spotify.com/track/3duyhGrZErVNU2tUFPRsBw) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Primera Fila Acústico "Una Última Vez \- Encore"](https://open.spotify.com/album/2lph48S8IEQerZID7GqNUi) | 3:53 |
 
-Snapshot ID: `MCxhMmNhMGZjMmJjZDNhNWZlMmY1Mjg3Y2RmNGU1MjE3ZDU5ZTNkMTY2`
+Snapshot ID: `MCw4ZTgwY2ZmYWQ1N2UzZTQ5ODNmZjU0YzkwMzhkMzY5ZjJjNGM0OWQx`

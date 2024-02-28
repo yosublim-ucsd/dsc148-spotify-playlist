@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 121590,
+  "num_followers": 121634,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWU5NWZiMzIxM2ZjOTRhNzkzM2M0Y2VmZDZkY2ZjNzA2MzdlZmEy",
+  "snapshot_id": "MCxkZjZmNTY2NGE5Yjk2MjE1NTk4OGE4ZTEwMTM2ZTRlZWQ5ZTM5ZDgx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Fragmentos Do C\u00e9u",
-        "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        }
-      ],
-      "duration_ms": 242432,
-      "name": "Eternamente Amor",
-      "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 257230,
       "name": "El Mismo De Ayer",
       "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Fragmentos Do C\u00e9u",
+        "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "duration_ms": 242432,
+      "name": "Eternamente Amor",
+      "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
     },
     {
       "added_at": "2020-09-18 05:02:00",

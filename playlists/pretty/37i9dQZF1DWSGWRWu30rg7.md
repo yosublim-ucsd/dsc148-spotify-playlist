@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nadhira Suri
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,215 likes - 78 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,279 likes - 78 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 66 | [Pura\-Pura Cinta](https://open.spotify.com/track/1QxghHsRgj0nE0ysxfkscB) | [Electhree Colors](https://open.spotify.com/artist/4fzrPYboTX74OKeNAwW836) | [Pura\-Pura Cinta](https://open.spotify.com/album/4BUG8XjZBaHrrVW9LUbGST) | 3:43 |
 | 67 | [77791](https://open.spotify.com/track/6w9XZxZiSVSWt32HSpYQSO) | [The Sun Room](https://open.spotify.com/artist/1GQM96bBus0iHaLRkPa9fV) | [77791](https://open.spotify.com/album/6HQ4iU3SkRwCGb4CC20CNC) | 2:55 |
 | 68 | [Perayaan](https://open.spotify.com/track/1sBqKnTkoKOeeWcxYtt5DI) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz), [Ari Hamzah](https://open.spotify.com/artist/6LDDiAcm1i1Kr0cnMEvXKW) | [Perayaan](https://open.spotify.com/album/4OVKfXhXGNipyoArl3PUyT) | 4:02 |
-| 69 | [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 |
+| 69 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 |
 | 70 | [Why Can't I](https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [Why Can't I](https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK) | 3:20 |
 | 71 | [ENIGMA](https://open.spotify.com/track/7oXcm7u69v7SMGjjPStqtw) | [Kevin Ruenda](https://open.spotify.com/artist/70tuEoTxKMakDVQ7m2ka0L) | [ENIGMA](https://open.spotify.com/album/1zFhPeweC6G0zAB1zEntnA) | 2:38 |
 | 72 | [At The Midnight](https://open.spotify.com/track/7v8STPCaEHrVsLhxgS97OF) | [Initial Ways](https://open.spotify.com/artist/2Zlck8izcZD7kN9zydpmxz) | [At The Midnight](https://open.spotify.com/album/344DSVtKpiWzJ04uB5L5ll) | 3:53 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Ice & Fire](https://open.spotify.com/track/672Y7jhCxTAk3vKe54jXBi) | [Maliq Adam](https://open.spotify.com/artist/2zvxf23vbqa8NaJlqY2st9) | [Ice & Fire](https://open.spotify.com/album/1ojxBG6nygWoFH51xxDQfv) | 3:11 |
 | 78 | [Tertipu Lagi](https://open.spotify.com/track/7MGdfibu9nL01I0VyOuBLG) | [Kasir](https://open.spotify.com/artist/0cAxFJLU6ONNLDgJyD6j1N) | [Tertipu Lagi](https://open.spotify.com/album/75hmfVZINdjKj8yVLvFx9o) | 4:23 |
 
-Snapshot ID: `MCxmOGQ0ZDFmNTJiMzJmOThlMTRiMDMxNjY4MzM0Yjc0YzQ5Y2Q4ZDcw`
+Snapshot ID: `MCw1MmQwMWYyYzlkZGQ1MTcyYjczMjBkYjA5OTU4Nzk4MGZjNTgzZjk1`

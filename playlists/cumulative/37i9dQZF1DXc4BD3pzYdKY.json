@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
+      },
+      "artists": [
+        {
+          "name": "Bryson Gray",
+          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
+    },
+    {
+      "album": {
         "name": "Allegiance",
         "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
       },
@@ -18788,7 +18810,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 195500,
       "name": "VINE",
       "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"

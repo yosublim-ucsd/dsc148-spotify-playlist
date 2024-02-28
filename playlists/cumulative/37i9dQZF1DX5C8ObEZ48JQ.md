@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=ZvAG35wQTLmEU7CKuLMOJw">Loatinover Pounds</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ?si=Rx4GocATQRi3wFfTxZGd9A">F3line</a>\. Artwork: Isu Kim.
 
 673 songs - 1 day 10 hr 13 min
 

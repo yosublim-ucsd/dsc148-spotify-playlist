@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Sterre Koning
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,440 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,447 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 14 | [Backstage](https://open.spotify.com/track/6TOPN39UPam4SJBCntOKb6) | [Janneman](https://open.spotify.com/artist/7KbCF5fYC33a22gM39YswN) | [Backstage](https://open.spotify.com/album/79GyjK7amWo1kbpAICZDom) | 2:24 |
 | 15 | [Blindelings](https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Blindelings](https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK) | 2:40 |
 | 16 | [Kompas](https://open.spotify.com/track/00B3jzuH5ezYsmBKwcps1Z) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Kompas](https://open.spotify.com/album/7hICsdZV6OfJa32dQdcBDS) | 3:08 |
-| 17 | [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
+| 17 | [Écoutez\-moi \- NL](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
 | 18 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
 | 19 | [Friemelen](https://open.spotify.com/track/2dkw6pe4LbTcJCxlxfsXvW) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Friemelen](https://open.spotify.com/album/2lFmg47ABA7R8D8Q2iXkMo) | 1:48 |
 | 20 | [Stille Pijn \(Stip it!\)](https://open.spotify.com/track/3giaPcqlpiX6SG6lwRRj55) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Stille Pijn \(Stip it!\)](https://open.spotify.com/album/39Cg6qp3pv6FW7SKpF2bFm) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 |
 | 70 | [Thuis Thuis](https://open.spotify.com/track/6WHIHaHkbYUCuik1j9KnFP) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Thuis Thuis](https://open.spotify.com/album/33rVHZAjT2mWHpJBdVBwyb) | 3:08 |
 
-Snapshot ID: `MCxmNmMyMDEyMzEzYTZlNGQzNDA0ZmYyYjZmM2E2OWVmMTQ1MjBiMTAy`
+Snapshot ID: `MCw0YmZlNTU0ZTkxYTBlOWY4YTg3MDM0NTY1ZTllOTg0Mjk3NjM3YjIz`

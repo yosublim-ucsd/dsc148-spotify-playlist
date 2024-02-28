@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 
 > Un derroche de sensualidad\. Prince Royce, Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,740 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,793 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 54 | [Llorar Lloviendo](https://open.spotify.com/track/3QeU2rcc5buv0B9VA0gRKH) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:45 |
 | 55 | [Como Los 90's \- Bachata Version](https://open.spotify.com/track/4Wdq5xDkAdbhW6A5RMYngC) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT), [Dj York](https://open.spotify.com/artist/51WdQb7CSTEXmb3EeFcNyp), [DJ Manuel Citro](https://open.spotify.com/artist/3CChhOWvwwUSCntaZJ3cs8) | [Como Los 90's \(Bachata Version\)](https://open.spotify.com/album/5NIXewJmHJDec6dnAylsfY) | 3:07 |
 | 56 | [Amor de Verdad](https://open.spotify.com/track/7qozat5jqKmwgs7kLo2NWh) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT) | [Amor de Verdad](https://open.spotify.com/album/24MCC33x034nPk15G6K8MU) | 3:51 |
-| 57 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 |
-| 58 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
+| 57 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
+| 58 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 |
 | 59 | [Cuentale](https://open.spotify.com/track/5OaulxiRo2EBSM7taAfPbr) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Lost in the Music](https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf) | 3:40 |
 | 60 | [Elige](https://open.spotify.com/track/0mL1glycqAWzyMiImp4xSb) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT), [Jay Ramirez](https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB) | [Elige](https://open.spotify.com/album/4W4rR2hS483NStGyeEhpvY) | 3:46 |
 | 61 | [La Boda](https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Boda](https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9D77wgj6I2.md) - [plain]
 | 74 | [Un Ladrón](https://open.spotify.com/track/0VFzi9ceRRjk42u9567UTW) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Un Ladrón](https://open.spotify.com/album/7zaxOqSnkHcnxY1MC7uAuQ) | 4:14 |
 | 75 | [Todo de Mi](https://open.spotify.com/track/1JHIAmLrqKwURVE5lHVuj4) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Todo de Mi](https://open.spotify.com/album/58Enl9mlqHa9QexbtUZc4G) | 3:41 |
 
-Snapshot ID: `MCw4ZDg0ZTYxZWMyZDBkNzMwMjVjY2ZhMTY5MzA0ODgxNzQwZmZhOGIz`
+Snapshot ID: `MCxkYzM4ZDgxMTg4NWVhN2FlOTBlNTkyOWFhN2FlZTM1ZDA5NTMyNGU4`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,548 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,556 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MILLIE WALKY](https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:14 |
 | 2 | [Miłość w czasach](https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:38 |
-| 3 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
+| 3 | [kartki](https://open.spotify.com/track/2eNEAWwAf32hte1Njp9xiF) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/1KPV9ruEJUJziXAj9I8VKI) | 2:30 |
 | 4 | [Central Park](https://open.spotify.com/track/1GjLHBLJNn7RxAtVt7k8NP) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 2:47 |
 | 5 | [MY I ONI](https://open.spotify.com/track/0SUsodImdu1cqFd12GwVcc) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [ZGRZYT](https://open.spotify.com/album/02wQzXoSwOPKZHik90xH3Q) | 2:42 |
 | 6 | [GRAWITACJA](https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 3:05 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 10 | [Zgiełk](https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Zgiełk](https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ) | 3:25 |
 | 11 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 |
 | 12 | [Złudzenia](https://open.spotify.com/track/0xechEr9xpwHY6eP2wrQud) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 3:31 |
-| 13 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
+| 13 | [Poker](https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7FWuvpwtVgLsMlg85KPG9A) | 1:46 |
 | 14 | [Bez](https://open.spotify.com/track/6w3REoiYbuW9QxpRBJqnTt) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Bez](https://open.spotify.com/album/37ThOEHqHwrI6oNLaZujtH) | 3:23 |
 | 15 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 |
 | 16 | [GDZIE JEST TEN DOM?](https://open.spotify.com/track/3sFGKLwDkIx1FsmUGkminy) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GDZIE JEST TEN DOM?](https://open.spotify.com/album/5HvfodCnUMi6b4ldgkxkVL) | 1:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCwwMGU0MTNlNjZhNTk1ODA0NzljMjBkN2YwOTQ0NmRhYjdmM2QzYTky`
+Snapshot ID: `MCw4ZTVmODFhZmEyODVlNWI1ZDkzZjk4ODllYWU3NTA3NGVhNmQxMmQ0`

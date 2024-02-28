@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 772 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 19 | [Rapture](https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Rapture](https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5) | 2:46 |
 | 20 | [Creep](https://open.spotify.com/track/44wMXyr2IbVa1e2t1XeSvI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/2JDxkewW94MQj5GUi5Efvo) | 2:41 |
 | 21 | [Sweet Munchies](https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Sweet Munchies](https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h) | 2:09 |
-| 22 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
-| 23 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
+| 22 | [Wake Up With You](https://open.spotify.com/track/543VnS905CHArJ2oFm17p5) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Wake Up With You](https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E) | 3:03 |
+| 23 | [Discoteka](https://open.spotify.com/track/5tCUZYk547DFd01YKdZ36x) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Discoteka](https://open.spotify.com/album/0xBL5r92lV5SZDU8FvrZ1u) | 2:49 |
 | 24 | [Las Chicas](https://open.spotify.com/track/7pgPk50uMallAw6rGYlqgp) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Las Chicas](https://open.spotify.com/album/6H7aIWUr3asorKwbRpih3m) | 2:03 |
 | 25 | [Dance and Chant](https://open.spotify.com/track/26LrcfQvosoKyUiLV0057Q) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/6zdC2SBKX4WLLSztigHAJ0) | 3:09 |
 | 26 | [Dawn](https://open.spotify.com/track/4hpDoKsVsjCTC5pbTgyUyG) | [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Dawn](https://open.spotify.com/album/6al3sqwfmUAOSSucHsyy1U) | 3:32 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 44 | [Hold My Hand](https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Hold My Hand](https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C) | 2:51 |
 | 45 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |
 | 46 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
-| 47 | [Fooling Me](https://open.spotify.com/track/1WoH0L7MJQphYNo0gyi4WD) | [Gaminow](https://open.spotify.com/artist/0JboxlhX1MrKdJAQyYZILH), [Gama](https://open.spotify.com/artist/4z5hE5cqCfTsCZ60IVAgRC), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen) | [Fooling Me](https://open.spotify.com/album/5CTsLfUjU2O5RnKwbK1dsw) | 3:11 |
-| 48 | [Where Do We Go?](https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Leo The Lion](https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL) | [Where Do We Go?](https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE) | 3:14 |
+| 47 | [Where Do We Go?](https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Leo The Lion](https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL) | [Where Do We Go?](https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE) | 3:14 |
+| 48 | [Fooling Me](https://open.spotify.com/track/1WoH0L7MJQphYNo0gyi4WD) | [Gaminow](https://open.spotify.com/artist/0JboxlhX1MrKdJAQyYZILH), [Gama](https://open.spotify.com/artist/4z5hE5cqCfTsCZ60IVAgRC), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen) | [Fooling Me](https://open.spotify.com/album/5CTsLfUjU2O5RnKwbK1dsw) | 3:11 |
 | 49 | [Change](https://open.spotify.com/track/7uHh8SlhRmPwxmm2jwu4Ph) | [Lemarroy](https://open.spotify.com/artist/0MbIn3hLqEhgj784ocMT1W), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Change](https://open.spotify.com/album/4qEQg7gOeQlsp61IjSTQ69) | 2:56 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MCxlMTczNjZiMjgyMDc1ZGZjYWM0NmU5OTA4MTZiZTRmY2FjOGQyNTcw`
+Snapshot ID: `MCw3MTBhNTcwZDRmZDA3NjVjMDBjYTMxOTU0MDBlNmZlZDBmZmJlZGFi`

@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-192 songs - 11 hr 5 min
+193 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 | 2022-07-11 |  |
 | [Plastic Hamburgers](https://open.spotify.com/track/6Cj9HRikVFdgx2YJADIvcG) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead \(Deluxe\)](https://open.spotify.com/album/0LDBQBO1sx3MmOfLzB82SN) | 3:37 | 2021-11-19 | 2022-07-29 |
 | [Power Over Me](https://open.spotify.com/track/1puJrWFGmUpPNsq1VvBzZI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/4VyUvPueWuM8Jnkk62gcos) | 3:26 | 2022-07-11 | 2022-11-14 |
-| [Power Over Me](https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:26 | 2022-07-11 |  |
+| [Power Over Me](https://open.spotify.com/track/3CNLrZJST54nE4PUkS83Sl) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 3:26 | 2023-03-10 |  |
+| [Power Over Me](https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:26 | 2022-07-11 | 2024-02-28 |
 | [Power Over Me](https://open.spotify.com/track/7iM7Zkf3uFQWE4IbjwYoN0) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Power Over Me](https://open.spotify.com/album/0S86qd13hgdtWkhJpDTu5Z) | 3:26 | 2021-11-19 | 2022-07-29 |
 | [Rage and Romance](https://open.spotify.com/track/0ytikc2Iq4n8DMKhPC0wta) | [Bressie](https://open.spotify.com/artist/3D41HynDjvBpU1qZKLiLJG) | [Rage and Romance](https://open.spotify.com/album/3DcfOciG6ZUijn1H0CER9D) | 3:59 | 2021-11-19 |  |
 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 | 2021-11-19 | 2022-07-29 |

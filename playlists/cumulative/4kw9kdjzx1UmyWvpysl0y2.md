@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-667 songs - 1 day 14 hr 34 min
+668 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hit My Line](https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Hit My Line](https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS) | 2:35 | 2023-01-31 | 2023-04-18 |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
-| [Holding On Is Human](https://open.spotify.com/track/6ws7SG03iSjzEJmG1JroFB) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Familiar Faces](https://open.spotify.com/album/1mEJclhYTF4tn0UdC5VSey) | 4:15 | 2023-11-14 |  |
+| [Holding On Is Human](https://open.spotify.com/track/6ws7SG03iSjzEJmG1JroFB) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Familiar Faces](https://open.spotify.com/album/1mEJclhYTF4tn0UdC5VSey) | 4:15 | 2023-11-14 | 2024-02-28 |
 | [Hope](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Hope](https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT) | 3:20 | 2022-08-10 | 2022-10-21 |
 | [Hopeful](https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Hopeful](https://open.spotify.com/album/4Y4QTmcND8jyE7zCKuRL7b) | 3:51 | 2022-10-07 | 2022-12-08 |
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
@@ -312,6 +312,7 @@
 | [k\-means clustering](https://open.spotify.com/track/6FhTODcUxevTUTnbKelCvB) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [k\-means clustering](https://open.spotify.com/album/1neFologMhWAEkYg5BA5M4) | 3:37 | 2023-06-05 | 2023-09-01 |
 | [k\-means clustering \- Tor Remix](https://open.spotify.com/track/5nTiUbO1yTk5AbJ9McXD0M) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [k\-means clustering \(Tor Remix\)](https://open.spotify.com/album/4Zoy8jTVWTrEiZiGEf3HRX) | 3:33 | 2024-02-06 |  |
 | [Karibu](https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Karibu](https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk) | 3:56 | 2022-10-05 | 2022-12-06 |
+| [Karma](https://open.spotify.com/track/5Rh4cLNvantvz3mbCw1Zq6) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Karma](https://open.spotify.com/album/1wzkVk09pVNnceUoNIHwgG) | 3:29 | 2024-02-27 |  |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |
 | [Kia Ora \- AK Remix](https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Kia Ora \(AK Remix\)](https://open.spotify.com/album/3rVMOyQFmAh39v3S8mPhL8) | 3:15 | 2023-12-05 |  |
 | [Kibo](https://open.spotify.com/track/0yUs4kfYFLWI72EOhhtNyI) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Kibo](https://open.spotify.com/album/6hCpTjqGmd9qrBo5mNp3S3) | 2:25 | 2023-08-08 | 2023-12-14 |
@@ -560,7 +561,7 @@
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-10 | 2023-12-14 |
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-03 | 2024-01-18 |
-| [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 |  |
+| [Take 2](https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [Take 2](https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU) | 3:48 | 2023-11-15 | 2024-02-28 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 | 2022-07-16 |
 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 |  |
 | [Take Me](https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:16 | 2022-11-25 | 2022-11-29 |

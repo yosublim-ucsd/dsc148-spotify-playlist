@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 97899,
+  "num_followers": 97980,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmQ1MjQwMzMzM2M1MmM2MWFkNzhhODdlM2M1ZTliN2QwNDg2NDJk",
+  "snapshot_id": "MCw3ZmMxNjc3ZDUzZjg5ZmE3NTFkNjVhMDVhMzFmZThmMzlhZTQyNzVi",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Let There Be Rock",
-        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 366346,
-      "name": "Let There Be Rock",
-      "url": "https://open.spotify.com/track/753KutoAy00apPsplMRetG"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Pyromania (Deluxe)",
         "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 247828,
       "name": "Rock Of Ages",
       "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 366346,
+      "name": "Let There Be Rock",
+      "url": "https://open.spotify.com/track/753KutoAy00apPsplMRetG"
     },
     {
       "added_at": "2021-04-20 17:47:58",

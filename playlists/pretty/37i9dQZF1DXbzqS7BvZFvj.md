@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,287 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,298 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 78 | [Theme of +81 Connect Mix](https://open.spotify.com/track/3fgywJ88l0n6O4ExCP12pk) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 7:31 |
 | 79 | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU) | 3:20 |
 
-Snapshot ID: `MCw0YTE1OWU1OTgzMTBjZWNlMjJjNWMzNThhZGVmNGQ3YTg0MjJmMjhh`
+Snapshot ID: `MCxmMjRmMmQ0MzdkNGEwZDZmNDkwOWViMTQ0OGMxM2JmZWVlNmQyMDRj`

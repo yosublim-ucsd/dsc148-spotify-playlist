@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Lambrini Girls",
-  "num_followers": 451481,
+  "num_followers": 451422,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGMwNzRmY2YyN2Q4ZDA4YzBmNGNmY2RmMTFhOWNiZWE2NTUzZjky",
+  "snapshot_id": "MCxlMWE1ZGZlY2E5YmY2YmY2YzgzNWUwNTkyYTc4ZWYzYjJjNGFmYzc5",
   "tracks": [
     {
       "added_at": "2024-02-16 00:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Punk's Dead",
         "url": "https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "New York Transit Queen",
-        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 109387,
-      "name": "New York Transit Queen",
-      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Dream Big",
         "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 133307,
       "name": "feel something (feat. Izzy Spears)",
       "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "New York Transit Queen",
+        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 109387,
+      "name": "New York Transit Queen",
+      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 216618,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Invite me, kindly",
         "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 216618,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Claw",
         "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Lads Lads Lads",
-        "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 191755,
-      "name": "Lads Lads Lads",
-      "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "I Gotta Feeling",
         "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 197648,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Lads Lads Lads",
+        "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 191755,
+      "name": "Lads Lads Lads",
+      "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Bloodsucker",
-        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 136682,
-      "name": "Bloodsucker",
-      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Phone Machine",
         "url": "https://open.spotify.com/album/7gP0mw9vv2bouxi3a5pgI5"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 157666,
       "name": "Phone Machine",
       "url": "https://open.spotify.com/track/5zTi9uSGOjdjN5N9bB56tI"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/7nmujYHg4M7v5sZwfUfBll"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 136682,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/6IrvC59atKPmrQIbSimIwy"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 166405,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Down There!",
         "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 208218,
       "name": "Pressure Pad",
       "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "The Heart",
-        "url": "https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi"
-      },
-      "artists": [
-        {
-          "name": "Lip Critic",
-          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
-        }
-      ],
-      "duration_ms": 155415,
-      "name": "The Heart",
-      "url": "https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Gonna Get Better",
         "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
       },
@@ -991,22 +975,6 @@
       "duration_ms": 195694,
       "name": "Gonna Get Better",
       "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "Des Goblin",
-        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 256543,
-      "name": "Des Goblin",
-      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1027,18 +995,50 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Boys In Blue / H.A.N.G",
-        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
+        "name": "The Heart",
+        "url": "https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi"
       },
       "artists": [
         {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
         }
       ],
-      "duration_ms": 148466,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
+      "duration_ms": 155415,
+      "name": "The Heart",
+      "url": "https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Des Goblin",
+        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 256543,
+      "name": "Des Goblin",
+      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1059,18 +1059,34 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+        "name": "Boys In Blue / H.A.N.G",
+        "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
       },
       "artists": [
         {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+      "duration_ms": 148466,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
+        "name": "Intermittent Fast Living",
+        "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
+      },
+      "artists": [
+        {
+          "name": "PET NEEDS",
+          "url": "https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Fingernails",
+      "url": "https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Intermittent Fast Living",
-        "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
-      },
-      "artists": [
-        {
-          "name": "PET NEEDS",
-          "url": "https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Fingernails",
-      "url": "https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
+        "name": "Daydrinker",
+        "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 165758,
+      "name": "Daydrinker",
+      "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
+    },
+    {
+      "added_at": "2024-02-16 00:00:00",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Daydrinker",
-        "url": "https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY"
+        "name": "EP ii",
+        "url": "https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s"
       },
       "artists": [
         {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+          "name": "PENGSHUi",
+          "url": "https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR"
         }
       ],
-      "duration_ms": 165758,
-      "name": "Daydrinker",
-      "url": "https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn"
+      "duration_ms": 232679,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 192080,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
-    },
-    {
-      "added_at": "2024-02-16 00:00:00",
-      "album": {
-        "name": "EP ii",
-        "url": "https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s"
-      },
-      "artists": [
-        {
-          "name": "PENGSHUi",
-          "url": "https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR"
-        }
-      ],
-      "duration_ms": 232679,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-02-16 00:00:00",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
         }
       ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     }
   ],
   "unique_name": "The Punk List",

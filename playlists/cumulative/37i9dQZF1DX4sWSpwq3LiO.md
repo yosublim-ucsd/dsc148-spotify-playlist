@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,681 songs - 3 day 2 hr 40 min
+1,684 songs - 3 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Des ponts plutôt que des murs](https://open.spotify.com/track/2raTq4pOKZfeg2h61gnI0L) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Des ponts plutôt que des murs](https://open.spotify.com/album/7v3sEjmd6HV2rC4gbTYiv0) | 2:28 | 2020-05-19 | 2021-10-20 |
 | [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 | 2022-09-23 | 2023-04-18 |
 | [Desenlace](https://open.spotify.com/track/5WXS9Xn5ITi5aVRh10lJV3) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Desenlace](https://open.spotify.com/album/5K8pyuslOoIaZf6JZdaNpv) | 2:50 | 2022-08-08 | 2022-09-24 |
+| [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 | 2024-02-27 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2021-08-05 | 2022-08-09 |
 | [Different Beginning](https://open.spotify.com/track/7hH4ev8MOmh3ElZYbS5rei) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Different Beginning](https://open.spotify.com/album/3teb3yGsHX34vNlQGHDxaA) | 1:15 | 2019-07-11 | 2019-11-14 |
@@ -646,6 +647,7 @@
 | [Indigo](https://open.spotify.com/track/0VFt2URvZYKAqFVMhZADBG) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Indigo](https://open.spotify.com/album/3RkkgVsy8d3RyV3xHEkt13) | 2:26 | 2019-11-12 | 2020-05-12 |
 | [Inertia](https://open.spotify.com/track/5uUwKnLsfHUqZim6rivEpr) | [8th Floor Wide](https://open.spotify.com/artist/3SIHBhzxgzWiGL8ZzZMhwr) | [Valentine](https://open.spotify.com/album/5JZE7FuuZT7fa8PkTb852M) | 3:13 | 2019-07-11 | 2020-04-28 |
 | [Infatuation](https://open.spotify.com/track/3EOylKjaenyKmwO4R9IDBz) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Infatuation](https://open.spotify.com/album/3JpxCOI4NZtKKIiGjJcPCC) | 2:35 | 2020-08-04 | 2022-05-21 |
+| [Inmaterial color](https://open.spotify.com/track/5GZC3EzAtuVtmELebaB5DC) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Inmaterial color](https://open.spotify.com/album/5DbXD2SAeJO9CvLQon50dU) | 2:45 | 2024-02-27 |  |
 | [Inngangur](https://open.spotify.com/track/4ndRB3B9iP6fx3YiCFr5es) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Hugar](https://open.spotify.com/album/5M7stdl4NE3ZrNYhR0febw) | 1:27 | 2019-05-26\* | 2019-11-14 |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-10-13 | 2022-02-17 |
 | [Inside Out](https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Inside Out](https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7) | 2:32 | 2020-06-24 | 2020-09-22 |
@@ -1559,6 +1561,7 @@
 | [Vals De Rodrigues](https://open.spotify.com/track/3I3WY0C7AQMe6Z6hMUQqd5) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Vals De Rodrigues](https://open.spotify.com/album/3q10Tg3kwZZmQYCLaCZos7) | 2:41 | 2019-09-12 | 2021-03-31 |
 | [Valse](https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Valse](https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK) | 2:11 | 2022-10-13 |  |
 | [Valse](https://open.spotify.com/track/6Byh2m5om63yZL35VrP0CF) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Valse](https://open.spotify.com/album/1XlVm3hPaCrOtjUIxSU8j7) | 2:22 | 2022-10-03 | 2023-09-23 |
+| [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 | 2024-02-27 |  |
 | [Valse Glacée](https://open.spotify.com/track/6nFq454HmDgKLSit00vniw) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Valse Glacée](https://open.spotify.com/album/6efs2LoTvfJFf3nMTM3l9W) | 3:00 | 2019-07-11 | 2020-06-09 |
 | [Valse Mistral](https://open.spotify.com/track/6fnYjOnJIiCctDggEhTMti) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Valse Mistral](https://open.spotify.com/album/1Uq5YepxqDsJck7PQDbZid) | 2:52 | 2021-09-24 | 2022-02-03 |
 | [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 | 2023-05-09 |  |

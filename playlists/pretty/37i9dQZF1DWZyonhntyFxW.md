@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > كلو على الانتاج و بزنس و كدة\. غلاف: كريم اسامة
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,582 likes - 39 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,681 likes - 39 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 38 | [7abba Fo2](https://open.spotify.com/track/7H4mKyHWHkZF5pDpAtzLES) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 3:20 |
 | 39 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
 
-Snapshot ID: `MCxmNGEyM2FlNzc3MGRiYmY5YzQxYjEzOTJhMTkyOGZiZDEyMDkxZmM5`
+Snapshot ID: `MCwyZTdhNmNmMTdhOTY1OGVhNGViODVhMzg1NWM3MDZjMTM5MmM5YmQw`

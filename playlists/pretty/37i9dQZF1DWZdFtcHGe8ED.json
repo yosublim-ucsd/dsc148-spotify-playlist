@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 538627,
+  "num_followers": 538778,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2RlZTY5NTZlOGViZmRjY2MyOGJlMWNiMGIyMGM5YzY3YmM4MWUz",
+  "snapshot_id": "MCwzODE0YmU0Y2M0Yzg4MWVlZGNmZjZhMGQ3NWVmZTg2YjhhMDE1YjM5",
   "tracks": [
     {
       "added_at": "2024-01-12 15:30:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
-        "url": "https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Trip at the Brain",
-      "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Five Serpent's Teeth",
         "url": "https://open.spotify.com/album/3VL9IPd5pYeOXJJcRSUXpK"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Pleasure to Kill",
-        "url": "https://open.spotify.com/album/2eAK1pBzED09E9ooIAznXP"
+        "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
+        "url": "https://open.spotify.com/album/0GRJggdZjtFQLzhznZvxFL"
       },
       "artists": [
         {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
         }
       ],
-      "duration_ms": 249333,
-      "name": "Pleasure to Kill",
-      "url": "https://open.spotify.com/track/3LFeYtxcstS7tezHLWuUY5"
+      "duration_ms": 271373,
+      "name": "Trip at the Brain",
+      "url": "https://open.spotify.com/track/4nbkJukvqC7ae4kIICjEPi"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+        "name": "Pleasure to Kill",
+        "url": "https://open.spotify.com/album/2eAK1pBzED09E9ooIAznXP"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Slaves of Pain",
-      "url": "https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz"
+      "duration_ms": 249333,
+      "name": "Pleasure to Kill",
+      "url": "https://open.spotify.com/track/3LFeYtxcstS7tezHLWuUY5"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1083,6 +1067,22 @@
       "duration_ms": 176346,
       "name": "666Teen",
       "url": "https://open.spotify.com/track/3FzPWVOfYBi646pFcei6f3"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Slaves of Pain",
+      "url": "https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Humanicide",
-        "url": "https://open.spotify.com/album/46AMs0qxmBYUagBy5Dw1Tm"
+        "name": "The Ultra-Violence",
+        "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
         }
       ],
-      "duration_ms": 342280,
-      "name": "Humanicide",
-      "url": "https://open.spotify.com/track/7KmMhTk07elK9dxu49Owi2"
+      "duration_ms": 633600,
+      "name": "The Ultra-Violence",
+      "url": "https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "If The Sky Came Down",
-        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Totem",
         "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 194101,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2BXNFsE0wupk3RqkdPLg4K"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1455,8 +1455,8 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "The Ultra-Violence",
-        "url": "https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA"
+        "name": "Humanicide",
+        "url": "https://open.spotify.com/album/46AMs0qxmBYUagBy5Dw1Tm"
       },
       "artists": [
         {
@@ -1464,9 +1464,9 @@
           "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
         }
       ],
-      "duration_ms": 633600,
-      "name": "The Ultra-Violence",
-      "url": "https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl"
+      "duration_ms": 342280,
+      "name": "Humanicide",
+      "url": "https://open.spotify.com/track/7KmMhTk07elK9dxu49Owi2"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
+        "name": "Vicious Cycle",
+        "url": "https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n"
+      },
+      "artists": [
+        {
+          "name": "Slackjaw",
+          "url": "https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Vicious Cycle",
+      "url": "https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
         "name": "Outer Isolation",
         "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 368840,
       "name": "Desecrator",
       "url": "https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
-        "name": "Vicious Cycle",
-        "url": "https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n"
-      },
-      "artists": [
-        {
-          "name": "Slackjaw",
-          "url": "https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Vicious Cycle",
-      "url": "https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "Annihilation Principle",
-        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
-      },
-      "artists": [
-        {
-          "name": "Laaz Rockit",
-          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Fire in the Hole",
-      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
-    },
-    {
-      "added_at": "2024-01-12 15:30:29",
-      "album": {
         "name": "Do-Over",
         "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 189280,
       "name": "Black Metal Sucks",
       "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
+    },
+    {
+      "added_at": "2024-01-12 15:30:29",
+      "album": {
+        "name": "Annihilation Principle",
+        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
+      },
+      "artists": [
+        {
+          "name": "Laaz Rockit",
+          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Fire in the Hole",
+      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
     },
     {
       "added_at": "2024-01-12 15:30:29",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-01-12 15:30:29",
       "album": {
-        "name": "State of Insurgency",
-        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
+        "name": "Speed Between the Lines",
+        "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
       "artists": [
         {
-          "name": "HeXeN",
-          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
+          "name": "Gama Bomb",
+          "url": "https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Knee Deep in the Dead",
-      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
+      "duration_ms": 230560,
+      "name": "Give Me Leather",
+      "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
     }
   ],
   "unique_name": "Thrashers",

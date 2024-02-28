@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-1,288 songs - 3 day 0 hr 57 min
+1,289 songs - 3 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Badness Issa Habit](https://open.spotify.com/track/4sBkozNiL0UXVinXOE030C) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Badness Issa Habit](https://open.spotify.com/album/0P8Cek01u4nUNUgkv9k3HV) | 3:07 | 2023-10-26 | 2024-01-26 |
 | [Bags \- Recorded At Electric Lady Studios](https://open.spotify.com/track/3ISKxnCGKc5B9zr9CTUB3v) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 4:39 | 2023-05-11 | 2023-06-16 |
 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 | 2022-05-09 | 2022-09-06 |
-| [Base Camp](https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW) | 3:25 | 2024-02-22 |  |
+| [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 | 2024-02-22 |  |
+| [Base Camp](https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW) | 3:25 | 2024-02-22 | 2024-02-28 |
 | [Be](https://open.spotify.com/track/0puGl6gLKNvG7Ze4X7Hliq) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Be](https://open.spotify.com/album/7HUojHE25L3aSp0TaqqBXS) | 1:51 | 2023-12-14 | 2024-01-26 |
 | [Be Careful With Yourself](https://open.spotify.com/track/12j3RsAjTt9oGnZno4lq8k) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Be Careful With Yourself](https://open.spotify.com/album/5QBwF6Ep55I0QqklKvedFz) | 3:47 | 2022-08-25 | 2022-11-04 |
 | [be okay](https://open.spotify.com/track/7KIyjTDMad8HvLj5IKBffs) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [be okay](https://open.spotify.com/album/00JQobZQO6vsc2vI2uknGK) | 3:56 | 2023-10-12 | 2024-01-26 |

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 67232,
+  "num_followers": 67375,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWEwZTk0MmQ3YTgzZmNkNjFjZDdlMjZiM2M0NWMyZjA4Nzg5NDEx",
+  "snapshot_id": "MCwwYTI2ZjUwZTdlYmJkNTQwODFiYjc5YmU4YmU4YThjYmYwYTgzMDcw",
   "tracks": [
     {
       "added_at": "2024-02-09 04:00:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 125437,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "some kind of peace \u2014 piano reworks",
         "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 227674,
       "name": "Woven Song \u2014 piano reworks",
       "url": "https://open.spotify.com/track/2xQBYQi4xvqo3HcjOQg5Oj"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 229606,
-      "name": "Solitude I",
-      "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 229606,
+      "name": "Solitude I",
+      "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Cloud Memory",
         "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
       },
@@ -219,26 +219,6 @@
       "duration_ms": 117585,
       "name": "Cloud Memory",
       "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Whispering House",
-      "url": "https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -279,6 +259,26 @@
       "duration_ms": 176120,
       "name": "A Lifetime Rolls By - annasara Rework",
       "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Whispering House",
+      "url": "https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Triptych III for Piano",
-        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Triptych III for Piano",
-      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "The Invisible EP",
         "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 163861,
       "name": "Respite",
       "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Triptych III for Piano",
+        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Triptych III for Piano",
+      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "A Collective Destiny",
-        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "A Collective Destiny",
-      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
       },
@@ -967,30 +951,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Spiritus Naturae Aeternus",
-        "url": "https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa"
+        "name": "A Collective Destiny",
+        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
       },
       "artists": [
         {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        },
-        {
-          "name": "Bryan Senti",
-          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
-        },
-        {
-          "name": "Reykjavik Silfur Choir",
-          "url": "https://open.spotify.com/artist/3CmuFh3rtjiKUGQOJNYXgu"
-        },
-        {
-          "name": "Budapest Art Orchestra",
-          "url": "https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N"
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
         }
       ],
-      "duration_ms": 352213,
-      "name": "Spiritus Naturae Aeternus - Single Edit",
-      "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
+      "duration_ms": 262000,
+      "name": "A Collective Destiny",
+      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1031,6 +1003,34 @@
       "duration_ms": 350974,
       "name": "Current",
       "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Spiritus Naturae Aeternus",
+        "url": "https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        },
+        {
+          "name": "Reykjavik Silfur Choir",
+          "url": "https://open.spotify.com/artist/3CmuFh3rtjiKUGQOJNYXgu"
+        },
+        {
+          "name": "Budapest Art Orchestra",
+          "url": "https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N"
+        }
+      ],
+      "duration_ms": 352213,
+      "name": "Spiritus Naturae Aeternus - Single Edit",
+      "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "A Tiny Ripple That Becomes A Giant Wave",
+        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "A Tiny Ripple That Becomes A Giant Wave",
+      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "A Tiny Ripple That Becomes A Giant Wave",
-        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "A Tiny Ripple That Becomes A Giant Wave",
-      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Parkbench",
-        "url": "https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT"
-      },
-      "artists": [
-        {
-          "name": "Dear Gravity",
-          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
-        }
-      ],
-      "duration_ms": 221024,
-      "name": "Parkbench",
-      "url": "https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "For Mark",
         "url": "https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 309600,
       "name": "For Mark",
       "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Parkbench",
+        "url": "https://open.spotify.com/album/4iXhxwvBhInvPgDXkXRAJT"
+      },
+      "artists": [
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        }
+      ],
+      "duration_ms": 221024,
+      "name": "Parkbench",
+      "url": "https://open.spotify.com/track/44FSX8VuF0zaiYtVcySxq2"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "A Winged Victory for the Sullen",
+        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Steep Hills of Vicodin Tears",
+      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 248506,
       "name": "All I Hear Is Birds - Focus Rework",
       "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "A Winged Victory for the Sullen",
-        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
-      },
-      "artists": [
-        {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Steep Hills of Vicodin Tears",
-      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Floreana",
         "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
       },
@@ -1567,18 +1551,34 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Notes of Longing",
-        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
       "artists": [
         {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
         }
       ],
-      "duration_ms": 195019,
-      "name": "The Young Weaver",
-      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Echoes In The Valley",
+        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 180339,
+      "name": "Promise Of Sun",
+      "url": "https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Echoes In The Valley",
-        "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
+        "name": "Notes of Longing",
+        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
       },
       "artists": [
         {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
         }
       ],
-      "duration_ms": 180339,
-      "name": "Promise Of Sun",
-      "url": "https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n"
+      "duration_ms": 195019,
+      "name": "The Young Weaver",
+      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
       },
       "artists": [
         {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 184389,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2024-02-09 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 60623,
+  "num_followers": 60695,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzUxODZjNmQ4ZGQwNjkyZmMyZTMyZDY3MGUwZDQ0MmMzYmIxMzUy",
+  "snapshot_id": "MCw0YjhkYjhhNGZjNDg3OWU5MGVlODY4YjM4MzFiZWI4NDdmNDkzNjI5",
   "tracks": [
     {
       "added_at": "2023-11-11 14:44:03",
@@ -383,26 +383,18 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Jdeed, Vol. 3",
-        "url": "https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C"
+        "name": "The Pen & The Sword",
+        "url": "https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW"
       },
       "artists": [
         {
-          "name": "Al Nather",
-          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
-        },
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        },
-        {
-          "name": "The Synaptik",
-          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
         }
       ],
-      "duration_ms": 312032,
-      "name": "Hada el 7aki 3eh",
-      "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
+      "duration_ms": 175181,
+      "name": "The Pen & The Sword",
+      "url": "https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -439,18 +431,26 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "The Pen & The Sword",
-        "url": "https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW"
+        "name": "Jdeed, Vol. 3",
+        "url": "https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C"
       },
       "artists": [
         {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
+        },
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        },
+        {
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
         }
       ],
-      "duration_ms": 175181,
-      "name": "The Pen & The Sword",
-      "url": "https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9"
+      "duration_ms": 312032,
+      "name": "Hada el 7aki 3eh",
+      "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "The Come Up",
-        "url": "https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr"
-      },
-      "artists": [
-        {
-          "name": "Waheeb Nasan",
-          "url": "https://open.spotify.com/artist/3GVRwasZpvEfVLvmFK4N8g"
-        },
-        {
-          "name": "Jae Deen",
-          "url": "https://open.spotify.com/artist/5v4XF6KX5pdMJmiBVqK8z9"
-        }
-      ],
-      "duration_ms": 181968,
-      "name": "Touchdown Palestine",
-      "url": "https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 285040,
       "name": "The Trees We Wear",
       "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "The Come Up",
+        "url": "https://open.spotify.com/album/4h5ZJZkVZX5u8D2aNwj4Kr"
+      },
+      "artists": [
+        {
+          "name": "Waheeb Nasan",
+          "url": "https://open.spotify.com/artist/3GVRwasZpvEfVLvmFK4N8g"
+        },
+        {
+          "name": "Jae Deen",
+          "url": "https://open.spotify.com/artist/5v4XF6KX5pdMJmiBVqK8z9"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Touchdown Palestine",
+      "url": "https://open.spotify.com/track/1r9z2zRrmqjPMuPGRTINlN"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Revelation of Ecstasy and Rebellion",
-        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
-      },
-      "artists": [
-        {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Supply Me with an Excess of Love",
-      "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Killing The Game",
         "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 141055,
       "name": "Killing The Game",
       "url": "https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Revelation of Ecstasy and Rebellion",
+        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
+      },
+      "artists": [
+        {
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Supply Me with an Excess of Love",
+      "url": "https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Mali Huriye (I Don't Have Freedom)",
-      "url": "https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Bala Reash",
         "url": "https://open.spotify.com/album/4A7wmvJgmesQ09AXQMfB0W"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 226690,
       "name": "Bala Reash",
       "url": "https://open.spotify.com/track/58CDHApdREBXJYqrSoXmJy"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Mali Huriye (I Don't Have Freedom)",
+      "url": "https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "Nai 1",
-        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 328773,
-      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
-      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Fattah Al Ward",
         "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 226866,
       "name": "Che Guevara",
       "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "Nai 1",
+        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 328773,
+      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
+      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
     },
     {
       "added_at": "2023-11-11 14:44:03",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-11 14:44:03",
       "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
-    },
-    {
-      "added_at": "2023-11-11 14:44:03",
-      "album": {
         "name": "Checkpoint Rock: Canciones Desde Palestina",
         "url": "https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 292413,
       "name": "Yalah Yalah Ramallah",
       "url": "https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4"
+    },
+    {
+      "added_at": "2023-11-11 14:44:03",
+      "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
     },
     {
       "added_at": "2023-11-11 14:44:03",

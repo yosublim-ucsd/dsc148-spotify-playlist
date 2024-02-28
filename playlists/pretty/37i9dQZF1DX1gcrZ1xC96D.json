@@ -1,12 +1,12 @@
 {
   "description": "Gym harder, better, faster and longer. Yes, you CAN do it.",
-  "num_followers": 1032681,
+  "num_followers": 1032799,
   "original_name": "You Can Do It",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWM3YjhlNmVjOTlmY2YxNTIxMWE1MmE5NDk2MDdjOGFiOTQ5OGRl",
+  "snapshot_id": "MCxjNTQ3YWZlYmYyYWJmNmZlYTlkOWIyZmFmZjE1YjcyNDdiYzU0NDdl",
   "tracks": [
     {
       "added_at": "2024-01-04 14:31:12",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-04 14:31:12",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2024-01-04 14:31:12",
+      "album": {
         "name": "Temptation (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
-    },
-    {
-      "added_at": "2024-01-04 14:31:12",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2024-01-04 14:31:12",

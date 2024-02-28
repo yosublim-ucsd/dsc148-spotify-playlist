@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,289 likes - 47 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,503 likes - 47 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 46 | [Midsummer Madness 20 \(feat\. Joji, Rich Brian, Higher Brothers & AUGUST 08\)](https://open.spotify.com/track/0VmMIGnMGIwOEiqueyS9vw) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Midsummer Madness 20 \(feat\. Joji, Rich Brian, Higher Brothers & AUGUST 08\)](https://open.spotify.com/album/6poPSXNGSa5b9KOpB4YPyZ) | 4:06 |
 | 47 | [No te enamores de él \- Sped Up](https://open.spotify.com/track/7bcrsv0kTYmoROhuwrJRv5) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [LoFi HITS](https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7) | [No te enamores de él \(Sped Up\)](https://open.spotify.com/album/4HPsDxtV204dA9An3pQ7HN) | 2:40 |
 
-Snapshot ID: `Mjg0ODI0ODEsMDAwMDAwMDAxZDZhMTdlNmEwNTZmNjQ4YjcwNjdkMjEyYmU5NzVjMg==`
+Snapshot ID: `Mjg0ODM5MjIsMDAwMDAwMDBkNzJiMWIwYTc2Yjc0ZjY0NTE1ZGJlNDg5MmQxMWUwMA==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 236491,
+  "2024-02-28": 236523,
   "date_first_scraped": "2022-09-18",
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
   "name": "This Is ZZ Top",
@@ -665,7 +665,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 261453,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/5I4TQ0g8A3H4fubtRr8uiy"
@@ -1537,6 +1537,24 @@
     {
       "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "Move Me on Down the Line (2005 Remaster)",
+      "url": "https://open.spotify.com/track/3wgQ2CHoisj6UWUK1EWBEn"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
@@ -2235,10 +2253,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 286546,
       "name": "Viva Las Vegas",
       "url": "https://open.spotify.com/track/5JFywJVhSvuJI6KB9ikgjA"
+    },
+    {
+      "album": {
+        "name": "Chrome Smoke & BBQ: The ZZ Top Box",
+        "url": "https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283533,
+      "name": "Viva Las Vegas (2003 Remaster)",
+      "url": "https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL"
     },
     {
       "album": {

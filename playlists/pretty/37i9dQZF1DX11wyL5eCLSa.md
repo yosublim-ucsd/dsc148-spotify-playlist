@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,440 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,521 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 64 | [El Futuro Luce Brillante](https://open.spotify.com/track/7LVNF9GtJOoCJhfOl9mfKr) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino \(Deluxe\)](https://open.spotify.com/album/2rIbyvyTtqIpGc6POmzmrm) | 4:01 |
 | 65 | [Velur](https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Velur](https://open.spotify.com/album/1DpzoHSXLnTEXiUEeM5K0E) | 4:09 |
 | 66 | [MEDIA NOCHE](https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [HÍPER](https://open.spotify.com/album/3qEvUejyOisLMmhsR7JwxL) | 3:28 |
-| 67 | [Hojas de té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
+| 67 | [Hojas de Té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de Té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
 | 68 | [Naranjita sí carnal](https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Naranjita sí carnal](https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1) | 3:14 |
 | 69 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 70 | [Ardiendo Lento](https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Ardiendo Lento](https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [SKR](https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 5:11 |
 | 100 | [Vida En El Espejo](https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Imperfecto Extraño](https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK) | 4:25 |
 
-Snapshot ID: `MCw5ZjBmODVkNzZmOTZkMjMwZWNmNWVkMGI0NjczMGJlOTc2YzJkODMw`
+Snapshot ID: `MCw2OTQ5NzE3ZWQxOTNiZTA0OTk2ZTE3NDI5YjI2YTk1M2ZkOWJmOTdl`

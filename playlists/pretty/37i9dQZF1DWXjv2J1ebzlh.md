@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,315 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,333 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,7 +236,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 226 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:34 |
 | 227 | [Kamar Dawa](https://open.spotify.com/track/4gdNZhXAA4T2vaeYKOnOw3) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 5:17 |
 | 228 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
-| 229 | [Acid](https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:07 |
+| 229 | [Acid](https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Head Sounds](https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l) | 5:07 |
 | 230 | [Anina](https://open.spotify.com/track/5YfefnbzjQLvX7RYrs8TPX) | [Gestu De Dakar](https://open.spotify.com/artist/6a9kyFqiltFaSfJju9tl4h) | [Diabar](https://open.spotify.com/album/2hzBB3EziMHVUpb8II3Kgb) | 4:23 |
 | 231 | [Watermelon Man](https://open.spotify.com/track/08blkN1VH11P3tEjAqTOiO) | [The Baba Brooks Orchestra](https://open.spotify.com/artist/1fB0xTVV3oAtjiEwBy2J7q) | [Memorial Album](https://open.spotify.com/album/4FsOCWZJexquwQ1ZRsZt2L) | 2:49 |
 | 232 | [El Cuarto de Tula](https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 7:25 |
@@ -299,7 +299,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 289 | [Together](https://open.spotify.com/track/02k4ORhygVxhNeNmcTaw4W) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Together](https://open.spotify.com/album/2c1SSf6RTyPmBNxPeanI8D) | 2:40 |
 | 290 | [Water No Get Enemy](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 11:00 |
 | 291 | [I Know What You Want](https://open.spotify.com/track/7x0o8kaUElaXuWnP9kwe5p) | [André Marie Tala](https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS) | [Arabica](https://open.spotify.com/album/4Asgh45uEqx2UYyHxl51er) | 5:19 |
-| 292 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 |
+| 292 | [A Deeper Shade Of Soul](https://open.spotify.com/track/0zjyyidPgJ3RtnDjXUy93w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [The Latin Soul Man](https://open.spotify.com/album/7anG9F0iTiBzcdEJ99msY3) | 2:48 |
 | 293 | [Keep Going](https://open.spotify.com/track/18NSA1HkoJQyyyt7pyKys9) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 1:26 |
 | 294 | [Aisi Chaal Mein Chalon](https://open.spotify.com/track/0p9NvfotJjKV4MZwhyoWkP) | [Nisar Bazmi](https://open.spotify.com/artist/4JRIUIuyjvhkGS0BkFTrYs) | [A Touch Of Class \- Nisar Bazmi Instrumental](https://open.spotify.com/album/1e6UWDIZFAlsyWTRVDFo9l) | 3:35 |
 | 295 | [Star Child \- Long Version](https://open.spotify.com/track/41n3nwMWI8FOrUzjempxsK) | [Kallaloo](https://open.spotify.com/artist/3G6kCR4yARUUCNercfefVa) | [Star Child](https://open.spotify.com/album/0ou1xl74qnlu5rI4vBaYVx) | 8:33 |
@@ -371,7 +371,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 361 | [Cayetano](https://open.spotify.com/track/1BFaDSpomuQfAGhhIn6Oaj) | [Antonio Morel Y Su Orquesta](https://open.spotify.com/artist/7FEKIGHt8kdHx8WjSBJkWj), [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Baila Merengue!](https://open.spotify.com/album/4YQhygJml4jAPJr46Nb3I5) | 2:48 |
 | 362 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB) | 2:42 |
 | 363 | [La Burrita](https://open.spotify.com/track/4MvwPfxA5udOyOLZ6R5DRP) | [Los Diplomaticos](https://open.spotify.com/artist/0iDj3W3Ke2GRU7ojWh4Zkf) | [Narcos, Vol\. 1 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/68iQWV1oNjvkSqFjab73gZ) | 3:17 |
-| 364 | [Sueño Hippie](https://open.spotify.com/track/1mo44xz8L6dAjKlGul3kCc) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Chichas Inolvidables, Vol\. 1](https://open.spotify.com/album/5UmGYBk5rrWfdnTQMSRAwW) | 3:19 |
+| 364 | [Sueño hippie](https://open.spotify.com/track/3NIUyp6HqIHBu5JT7h8GZ9) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbia Beat, Vol\. 3](https://open.spotify.com/album/42Ckcpz0DqcVaWs8nMntTF) | 3:19 |
 | 365 | [El Lobo](https://open.spotify.com/track/0CElgyNyOIQZ7b7tZa2m8e) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:02 |
 | 366 | [Viento](https://open.spotify.com/track/7zL4CNqsvUfRaQhf7umIpR) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso!](https://open.spotify.com/album/4G1IedTXpiFxfgc8YcIRyC) | 3:49 |
 | 367 | [Moja Bhari Moja](https://open.spotify.com/track/1cqupEafj7Gkh7m0o0Gcij) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 8:16 |
@@ -924,7 +924,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 914 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
 | 915 | [Aiulado](https://open.spotify.com/track/1JkKKmP75NOoyLQ0d48lom) | [Baba Sissoko](https://open.spotify.com/artist/4sox56HkYoppCSBF6Trcwl) | [Three Gees](https://open.spotify.com/album/7b0bXiyS0Vvdg75o40cXL4) | 6:33 |
 | 916 | [Calçada](https://open.spotify.com/track/1zvpgSygK37GOotGOgT45f) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:26 |
-| 917 | [Un Silbido Amoroso](https://open.spotify.com/track/0QOWZ2Iqb36FFecUmLdUTy) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Un Silbido Amoroso](https://open.spotify.com/album/3tqk1zxZedRxvOzhGgKVOK) | 2:36 |
+| 917 | [Un Silbido Amoroso](https://open.spotify.com/track/5mMQ7vvIf7kvZ8Ajl9GkWj) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat, Vol\. 1](https://open.spotify.com/album/6TkVAtfRkK37zR7IyE0pen) | 2:35 |
 | 918 | [El sabrosito](https://open.spotify.com/track/7Jj7kSb5GZlVHPdVEUKFZc) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Colombia 45s](https://open.spotify.com/album/0FtvKqe3ypGZTq2OUHjRwD) | 2:32 |
 | 919 | [Yabaal](https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 1, Volume 2 & Previously Unreleased Tracks \(Analog Africa No\. 27\)](https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE) | 5:57 |
 | 920 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
@@ -1115,7 +1115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1105 | [Dansakoni](https://open.spotify.com/track/5OtZ6fidRTpFZu0IzI0RVw) | [Peter Power](https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh) | [Afro Damba](https://open.spotify.com/album/3nwO2bf9tdn6fWqxNr3Age) | 6:28 |
 | 1106 | [Blackman's Word \(aka Black Man's Pride\)](https://open.spotify.com/track/4yiICPDc9s9ONtJZouvKc1) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:49 |
 | 1107 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
-| 1108 | [El Nuevo Barretto](https://open.spotify.com/track/51hspnskOaqA8i6lr8brg8) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 5:52 |
+| 1108 | [El Nuevo Barretto \- Remastered 2024](https://open.spotify.com/track/0LvXLNnE9ccYFJk8oXGQYo) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid \(Remastered 2024\)](https://open.spotify.com/album/3kQsESiGYJUbu44Ulmm8VL) | 5:53 |
 | 1109 | [Viola Fora De Moda](https://open.spotify.com/track/2gOwA32FKNEPrV4Gf2AULE) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Missa Breve](https://open.spotify.com/album/25P9ANRNnjvVAwCJVOPT4A) | 2:50 |
 | 1110 | [Tetero](https://open.spotify.com/track/4xh8q9DCUTEjjgw5gdRxty) | [Cumbia Moderna De Soledad](https://open.spotify.com/artist/1Nj0wAt4djA9oQbEB7pISM) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:09 |
 | 1111 | [Marginália II](https://open.spotify.com/track/7q5PZjcIIKaOZcGbGDCiQx) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilberto Gil \(1968\)](https://open.spotify.com/album/0Hre57CORsiZN5rwHunPQu) | 2:39 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

@@ -2499,6 +2499,28 @@
     },
     {
       "album": {
+        "name": "Chicco (feat. Tripolare)",
+        "url": "https://open.spotify.com/album/2Ls2f0KJmFdKv0fRNzS2lT"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        },
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115647,
+      "name": "Chicco (feat. Tripolare)",
+      "url": "https://open.spotify.com/track/5tZdJhXY8z7AthEIsn5KUs"
+    },
+    {
+      "album": {
         "name": "Church Superdelay",
         "url": "https://open.spotify.com/album/6c0eppNsqdEk7pKEuoatuQ"
       },

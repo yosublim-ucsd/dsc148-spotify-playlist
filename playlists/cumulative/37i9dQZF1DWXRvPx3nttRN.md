@@ -417,6 +417,6 @@
 | [Younger \- Acoustic Version](https://open.spotify.com/track/4isMnKxgoeutkfKX9RoF8H) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Acoustic 2021](https://open.spotify.com/album/6bUwGb8xAKbpE8EUZqEGO9) | 4:12 | 2022-04-22 | 2022-11-13 |
 | [Younger \- Bonus Track / Acoustic Version](https://open.spotify.com/track/1Y4wX0FH1JIPrxHNSWJsMR) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 4:12 | 2022-04-22 |  |
 | [Younger \- Bonus Track / Acoustic Version](https://open.spotify.com/track/3KqZvceVtN7fukwbE3INSi) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/4tvxP0caxdRMXVMca0t9uH) | 4:12 | 2021-03-12 | 2022-07-29 |
-| [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/0mvjBc6RdiCT1ME14CbECz) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 | 2021-03-12 |  |
+| [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 | 2021-03-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

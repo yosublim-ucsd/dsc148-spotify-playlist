@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-199 songs - 11 hr 47 min
+200 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Run It Up](https://open.spotify.com/track/1IeRpa7ife9vpYf9jJOWnf) | [King Flexx](https://open.spotify.com/artist/0XTVPgQnZDSpj8bdgv6jqN) | [All Out](https://open.spotify.com/album/0u60UoFqjeUSOHNfuyEsUA) | 2:56 | 2023-06-08 | 2024-01-20 |
 | [Run It up Pt\. II](https://open.spotify.com/track/16oNPQ2sVbzZyAscp4SFHD) | [Spilt Milk](https://open.spotify.com/artist/5a4YbQRezrArmu3VxdMGao), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Run It up Pt\. II](https://open.spotify.com/album/723LwYSgRF5wC9niD819eF) | 2:34 | 2023-06-08 |  |
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-06-08 |  |
-| [Running \(Alternate\)](https://open.spotify.com/track/6UnoQ80757O28E2lQjE5Mi) | [girl named GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Running B\-Sides](https://open.spotify.com/album/3IiG2Vq8iBS2u2FwiFoHbj) | 3:35 | 2023-06-08 |  |
+| [Running \(Alternate Version\)](https://open.spotify.com/track/6eUlW8FTjPzZt5ROKEOnMN) | [girl named GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Running B\-Sides](https://open.spotify.com/album/0Jut99uZiRTIHTCeA9tDF0) | 3:35 | 2023-06-08 |  |
+| [Running \(Alternate\)](https://open.spotify.com/track/6UnoQ80757O28E2lQjE5Mi) | [girl named GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Running B\-Sides](https://open.spotify.com/album/3IiG2Vq8iBS2u2FwiFoHbj) | 3:35 | 2023-06-08 | 2024-02-28 |
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2023-06-08 |  |
 | [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 | 2023-06-08 | 2023-11-19 |
 | [Say Something](https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:33 | 2023-06-08 |  |

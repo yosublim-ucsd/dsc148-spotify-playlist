@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,736 likes - 200 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,825 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,14 +174,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 164 | [On The Hook](https://open.spotify.com/track/7LaDliDRfKkzKFNVOoBJTv) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [On The Hook](https://open.spotify.com/album/1LXYzCWmyLYBEOQciJXhH3) | 3:57 |
 | 165 | [Tema de Benja](https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/5KTKZNtFdtY8jf5bN8uO45) | 4:55 |
 | 166 | [Fleet Streak](https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Fleet Streak](https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj) | 3:57 |
-| 167 | [No Beginning](https://open.spotify.com/track/4Eigj06JGTcmMYZmHvNfQR) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No Beginning](https://open.spotify.com/album/5R3NTB4pTpUUw24ufA4I28) | 2:42 |
+| 167 | [No Beginning](https://open.spotify.com/track/7wteLwghOqFteeee2dgEmr) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Tony Allen JID018](https://open.spotify.com/album/2W5P3w7kGhTqP0cwrV7aW4) | 2:42 |
 | 168 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 | 169 | [Green Frog](https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q) | [The Natural Yogurt Band](https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr) | [Green Frog](https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV) | 3:37 |
 | 170 | [Mountain Caravan](https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Linger Lane](https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1) | 5:20 |
 | 171 | [Stay](https://open.spotify.com/track/3lK8UA4FR2FiQpvtarLLol) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Stay / Hot Footing It](https://open.spotify.com/album/6ffd7GPBP6q3Q3XhfyvIkA) | 6:12 |
 | 172 | [Night Flight](https://open.spotify.com/track/5GvASApLi1c1JUz1E4tIZO) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Night Flight](https://open.spotify.com/album/2OXib0FYgDjkFz9RkAt3j5) | 2:56 |
 | 173 | [Strolling](https://open.spotify.com/track/3NHxMMrLCY67QSFpcAHcuc) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Strolling](https://open.spotify.com/album/3DVR7jHKPpH5G5d36SI2gP) | 5:02 |
-| 174 | [The Summertime](https://open.spotify.com/track/3kL0QOWK3Xxnz7S7jryEtM) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Jean Carne JID012](https://open.spotify.com/album/1IY22zx4gS8CSgKMq1sLao) | 2:55 |
+| 174 | [The Summertime](https://open.spotify.com/track/0KMA23mJmjfEp1pUHfqhqp) | [Jean Carne](https://open.spotify.com/artist/3ejLRcSbNwwvFbVWnStKvB), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Jean Carne JID012](https://open.spotify.com/album/7nn7ZWRaWYuzqi0LLbIlhk) | 2:55 |
 | 175 | [Turnip's Big Move](https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [A Town Called Earth](https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny) | 4:23 |
 | 176 | [Broasted or Fried](https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Dig My Feeling](https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne) | 3:55 |
 | 177 | [Saturday Night Special](https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T) | [Saturday Night Special](https://open.spotify.com/album/4bOytFLAaL2AH2nZ0lQvST) | 6:12 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCwwNDMzODNmY2VkYmU3NWRlZjAwOTNmZjBkOTMwMWFiM2U1N2U5ZmMx`
+Snapshot ID: `MCw3NzlhNzQxMjkyODUwYzJmMDFmZmRkNzMzYzlhNDA5MjdkY2Q4ZmM0`

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 629109,
+  "2024-02-28": 629458,
   "date_first_scraped": "2022-01-21",
   "description": "The greatest indie love songs of all time. ",
   "name": "Indie Love Songs",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 133200,
       "name": "girlfriend",
       "url": "https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA"

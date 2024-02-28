@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Marshmello
 
-552 songs - 1 day 7 hr 11 min
+553 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [776](https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [776](https://open.spotify.com/album/5vEzgYeS6UyCHKlXKNWho9) | 2:38 | 2022-01-21 | 2022-10-30 |
 | [A Brief Tutorial On Dubstep Production \- Kayzo Remix](https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy) | [Dubba Jonny](https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [A Brief Tutorial On Dubstep Production \(Kayzo Remix\)](https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0) | 2:13 | 2023-02-10 | 2024-02-24 |
 | [ABRACADABRA](https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [ABRACADABRA](https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY) | 2:49 | 2023-10-27 | 2024-02-03 |
-| [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-10-28 |  |
+| [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-10-28 | 2024-02-28 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 | 2023-06-13 |
 | [Addicted 2 U](https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Addicted 2 U](https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6) | 4:56 | 2022-03-11 | 2023-04-01 |
 | [Affliction](https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Affliction](https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs) | 3:19 | 2022-06-17 | 2023-03-11 |
@@ -108,6 +108,7 @@
 | [Cold Case \- VIP](https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [Cold Case \(VIP\)](https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13) | 2:08 | 2022-08-26 | 2023-10-14 |
 | [Collision](https://open.spotify.com/track/132Zyzrar2CSQERABIcyJj) | [SPADES](https://open.spotify.com/artist/2Z827Z6NgSoCjrVCKKyjan) | [Collision](https://open.spotify.com/album/5fHFBEoYZ86TVcKbs6lufZ) | 3:18 | 2023-12-22 | 2024-01-27 |
 | [collusion](https://open.spotify.com/track/1fuD0mWleShbrcRQmFYifG) | [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y), [benjamin francis](https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB) | [collusion](https://open.spotify.com/album/2G3OTX6tRPNNOjl7d5oeOY) | 2:56 | 2022-04-01 | 2022-07-27 |
+| [Colosseum](https://open.spotify.com/track/76ghxqufaBXZlxAP47yS5G) | [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky) | [Colosseum EP](https://open.spotify.com/album/7IPDd0ILGYDr79eyQOyG5E) | 2:24 | 2024-02-09 |  |
 | [Conquer](https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Conquer](https://open.spotify.com/album/5Xm75RRp45CHs7F7kvrPoa) | 3:01 | 2024-02-23 |  |
 | [Control](https://open.spotify.com/track/3cWVaWR049bfJpxqIn0RrJ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Control](https://open.spotify.com/album/7jkL9mLVusMyCHby3Rnj1N) | 3:24 | 2023-06-23 | 2023-07-24 |
 | [Control \(feat\. Add1ction\)](https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Add1ction](https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6) | [Control \(feat\. Add1ction\)](https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw) | 3:15 | 2021-12-17 | 2022-03-12 |

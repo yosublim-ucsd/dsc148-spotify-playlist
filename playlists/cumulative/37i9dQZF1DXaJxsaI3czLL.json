@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 317626,
       "name": "3\u6708\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4VDq2t1ThSoR1UsBbKuhrC"
@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "bless",
+        "url": "https://open.spotify.com/album/3R2OcOFPS54VirGmQaTB3D"
+      },
+      "artists": [
+        {
+          "name": "Tainaka Sachi",
+          "url": "https://open.spotify.com/artist/5rY2Eeg72edCtV9S35mAhY"
+        },
+        {
+          "name": "YUKA",
+          "url": "https://open.spotify.com/artist/6lzdZtpppU6ERZwqfhq1NJ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311880,
+      "name": "bless",
+      "url": "https://open.spotify.com/track/5jHrTGJQ7Nw7XDOfd5N4CF"
+    },
+    {
+      "album": {
         "name": "Blowing Wind",
         "url": "https://open.spotify.com/album/53qmbgFkO4QwHE6qIgWWBC"
       },
@@ -620,6 +642,28 @@
       "duration_ms": 207040,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5VQzdW80ZpK4Hb4Pqp8BLh"
+    },
+    {
+      "album": {
+        "name": "Brilliant Blue Nemuru Diary",
+        "url": "https://open.spotify.com/album/2Pd9XVDRZ71ngTjzqxlVQh"
+      },
+      "artists": [
+        {
+          "name": "ayaradio727",
+          "url": "https://open.spotify.com/artist/6oDaogGBeKTfFX1sYjYI7y"
+        },
+        {
+          "name": "Like This Parade",
+          "url": "https://open.spotify.com/artist/7d0aA6wBoiGPvDbso2Jb6o"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164925,
+      "name": "Brilliant Blue Nemuru Song",
+      "url": "https://open.spotify.com/track/1juCMseyk7vT9AZ8XsoaA0"
     },
     {
       "album": {
@@ -1288,7 +1332,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -1904,7 +1948,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 256607,
       "name": "ITAI",
       "url": "https://open.spotify.com/track/5Yz2Y881nKY5RXCwVflW67"
@@ -4046,7 +4090,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 160496,
       "name": "the pyre",
       "url": "https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ"
@@ -4330,7 +4374,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj"
@@ -5048,7 +5092,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 122500,
       "name": "\u305d\u308c\u3067\u3082\u5bb6\u65cf",
       "url": "https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E"
@@ -5491,6 +5535,28 @@
     },
     {
       "album": {
+        "name": "Trio & Charm",
+        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        },
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226585,
+      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -5910,6 +5976,24 @@
       "duration_ms": 275130,
       "name": "\u4e16\u754c\u306f\u3053\u3053\u3067\u56de\u308b\u3088",
       "url": "https://open.spotify.com/track/7vThpShILWq0xIenNi53Va"
+    },
+    {
+      "album": {
+        "name": "\u4e18",
+        "url": "https://open.spotify.com/album/2qWjqMRDMNfS570rMUrhbJ"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u4e18",
+      "url": "https://open.spotify.com/track/5YTiEQOoG3PqoKj7IeyDfS"
     },
     {
       "album": {
@@ -7707,6 +7791,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
+        "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221799,
+      "name": "\u80ce\u76e4 -Waterbird Habitat-",
+      "url": "https://open.spotify.com/track/0hYBCjw2jA7KpDKABLzqJN"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO"
       },
@@ -7798,7 +7900,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 337898,
       "name": "\u8679\u3068\u30ab\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Costi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,271 likes - 62 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,281 likes - 62 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 61 | [Kuori mua](https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22) | [Sini Sabotage](https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc) | [Kuori mua](https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e) | 2:55 |
 | 62 | [Nyt alko bileet](https://open.spotify.com/track/0qBLHx7CaaaUMrCKp1AFkP) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Pehmee Goo](https://open.spotify.com/artist/2MTW458Op0hSNePNW9XhEz) | [Nyt alko bileet / Gameshow](https://open.spotify.com/album/79rCfqRofPMJlGq0Hss4eD) | 2:54 |
 
-Snapshot ID: `MCxhYTZlYTM4NzJhNTQ0NmVmMzQwYzA2YmUzNjIzM2U0ZWM1ZjEyODI3`
+Snapshot ID: `MCxjYWVjNDkyNmZlMDU2YjUwNTdiMTc0ZTJiOWVjMjI2ZWJiMDM0NmZk`

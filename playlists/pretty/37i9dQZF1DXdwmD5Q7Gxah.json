@@ -1,12 +1,12 @@
 {
   "description": "dora jar x ashnikko remix and sooo much moooore",
-  "num_followers": 1136950,
+  "num_followers": 1137030,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDg0YzBjYTljYWIyNTIxZjBmZjgzYmYyOWE1YjdkOTcwODUxYWQ1",
+  "snapshot_id": "MCxhNjMzOWJjODkzODA4ZTM0NDdiMjAwZDlmMjk3OGE1ZDQ1ZjRjYzIz",
   "tracks": [
     {
       "added_at": "2024-02-16 05:41:10",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
+      "added_at": "2024-02-27 19:07:18",
+      "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 177254,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
+    },
+    {
       "added_at": "2024-02-16 05:41:10",
       "album": {
         "name": "ask nicely",
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
+      "added_at": "2024-02-27 19:07:18",
+      "album": {
+        "name": "little vice",
+        "url": "https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
+    },
+    {
       "added_at": "2024-02-14 16:29:34",
       "album": {
         "name": "Care",
@@ -91,6 +123,58 @@
       "duration_ms": 277815,
       "name": "Care",
       "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "added_at": "2024-02-27 16:13:53",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2024-02-27 19:07:18",
+      "album": {
+        "name": "New Friends (feat. Eem Triplin)",
+        "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "New Friends (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
+    },
+    {
+      "added_at": "2024-02-14 18:41:08",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -145,20 +229,20 @@
       "url": "https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl"
     },
     {
-      "added_at": "2024-02-14 16:02:37",
+      "added_at": "2024-02-27 19:07:18",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+        "name": "Eyes on my baby",
+        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
+      "duration_ms": 132737,
+      "name": "Eyes on my baby",
+      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
     },
     {
       "added_at": "2024-01-12 03:47:20",
@@ -177,20 +261,20 @@
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
-      "added_at": "2024-02-14 18:41:08",
+      "added_at": "2024-02-14 16:02:37",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -241,6 +325,26 @@
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "SOLAR SONATAS VOL. 1",
+        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        },
+        {
+          "name": "The Celestials!",
+          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
+        }
+      ],
+      "duration_ms": 273604,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
+    },
+    {
       "added_at": "2024-01-12 03:47:20",
       "album": {
         "name": "take yr time",
@@ -271,6 +375,22 @@
       "duration_ms": 224385,
       "name": "Truth\u2606Truth",
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
+    },
+    {
+      "added_at": "2024-02-27 19:07:18",
+      "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 191261,
+      "name": "Aleister In Wonderland",
+      "url": "https://open.spotify.com/track/1blcgDitPplXoGZZxXWpj1"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -319,26 +439,6 @@
       "duration_ms": 160041,
       "name": "Second Chances",
       "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "SOLAR SONATAS VOL. 1",
-        "url": "https://open.spotify.com/album/6nDRwKGZzAd3uWI491uIWQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        },
-        {
-          "name": "The Celestials!",
-          "url": "https://open.spotify.com/artist/6vswLoimdBvn5uUap6Bmb9"
-        }
-      ],
-      "duration_ms": 273604,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
     },
     {
       "added_at": "2024-02-08 17:37:34",
@@ -831,22 +931,6 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Pleasure delayer",
-        "url": "https://open.spotify.com/album/0QRfOnmGwaspN4mOLShbG6"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 144077,
-      "name": "Pleasure delayer",
-      "url": "https://open.spotify.com/track/5BKL1Q0k2rJLywgjpjTFhv"
     },
     {
       "added_at": "2023-12-01 05:00:00",

@@ -9452,24 +9452,6 @@
     {
       "album": {
         "name": "\u00c9coutez-moi",
-        "url": "https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "date_added": "2024-01-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159000,
-      "name": "\u00c9coutez-moi",
-      "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"
-    },
-    {
-      "album": {
-        "name": "\u00c9coutez-moi",
         "url": "https://open.spotify.com/album/7a4fD18DJgxkP3uSCVj0pb"
       },
       "artists": [
@@ -9484,6 +9466,24 @@
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi",
       "url": "https://open.spotify.com/track/55U5MtDnqyZ5jpdlOjPxON"
+    },
+    {
+      "album": {
+        "name": "\u00c9coutez-moi",
+        "url": "https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u00c9coutez-moi - NL",
+      "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557"

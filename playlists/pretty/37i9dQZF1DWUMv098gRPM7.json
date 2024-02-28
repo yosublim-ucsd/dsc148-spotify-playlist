@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Aqyila",
-  "num_followers": 9357,
+  "num_followers": 9376,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDdjODVkNDRjMzI3NWQ4NGU0OTdmOGU0OGQ4YTk2NTAzNTk3Zjg4",
+  "snapshot_id": "MCw5Y2E4MzdiMmIyMjU0MDc2YTZmZGY3MTJjMmE0YWEzNjRmZjY5YmJl",
   "tracks": [
     {
       "added_at": "2024-02-22 19:58:17",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-02-22 19:58:17",
       "album": {
+        "name": "Live Inside",
+        "url": "https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Live Inside",
+      "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
+    },
+    {
+      "added_at": "2024-02-22 19:58:17",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6"
-    },
-    {
-      "added_at": "2024-02-22 19:58:17",
-      "album": {
-        "name": "Live Inside",
-        "url": "https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Live Inside",
-      "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
     },
     {
       "added_at": "2024-02-22 19:58:17",

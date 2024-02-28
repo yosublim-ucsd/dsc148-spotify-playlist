@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Dream",
+        "url": "https://open.spotify.com/album/5RdhTADIAfZo6PKEgABIHj"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159671,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/3x05giEuCt5Pfmd3Be5ILF"
+    },
+    {
+      "album": {
         "name": "A Fair Wind",
         "url": "https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4"
       },
@@ -16244,6 +16262,28 @@
       "duration_ms": 168000,
       "name": "Stuck In A Dream",
       "url": "https://open.spotify.com/track/26S0ebDSZX2BBmDXQhpsrq"
+    },
+    {
+      "album": {
+        "name": "Suavizar El Dolor",
+        "url": "https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127723,
+      "name": "Suavizar El Dolor",
+      "url": "https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot"
     },
     {
       "album": {

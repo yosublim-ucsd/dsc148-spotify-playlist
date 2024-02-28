@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-89 songs - 4 hr 56 min
+90 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [NOT ME](https://open.spotify.com/track/2e9nlfv5WRzHpcMNSqK2Ym) | [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [LAMSI INSTRUMENTALS, VOL\. 1](https://open.spotify.com/album/2gr9RvaXKeQdyIDInTYNKW) | 1:53 | 2022-04-14 |  |
 | [Oti Bere](https://open.spotify.com/track/6yjEhMBfIzvYlA8Ay7ViwY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [2 in 1](https://open.spotify.com/album/6m3JcqnSzHmJhCMobWya2d) | 3:00 | 2023-09-07 |  |
 | [Otis](https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:16 | 2022-04-14 |  |
-| [Peaceful Dub](https://open.spotify.com/track/5HwFKgAFGw4O3DNM8morCA) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Peace & Harmony](https://open.spotify.com/album/4w0mVprAna8GLFxXq5nJ1r) | 6:08 | 2022-04-14 |  |
+| [Peaceful Dub](https://open.spotify.com/track/0iZ7I95KZ6cG49sTh5FBgS) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Peace & Harmony](https://open.spotify.com/album/7aqkKTJb6zjJman0lZeYUD) | 6:08 | 2023-09-07 |  |
+| [Peaceful Dub](https://open.spotify.com/track/5HwFKgAFGw4O3DNM8morCA) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Peace & Harmony](https://open.spotify.com/album/4w0mVprAna8GLFxXq5nJ1r) | 6:08 | 2022-04-14 | 2024-02-28 |
 | [POUNDS & EUROS](https://open.spotify.com/track/1yug7wAcY3fEve8aRb4XIS) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p), [Elt Cheekz](https://open.spotify.com/artist/1T2a1UNdYn0AboUTcvyJzX) | [IF I COULDN'T RAP, I WOULDN'T RAP](https://open.spotify.com/album/4kZIeZ2D82hawricknw72D) | 2:02 | 2023-09-07 |  |
 | [Punk](https://open.spotify.com/track/4bCi0lunxzHwpNKjEyaJk6) | [Nammy Wams](https://open.spotify.com/artist/70qwGfn9vuuD517TnlPsgv) | [Paradise South‎‎‎‎‎‎‎‎‎‏‏‎](https://open.spotify.com/album/5SV6QxOuJZFbBVkWsDhL4d) | 4:34 | 2022-04-14 |  |
 | [Real One](https://open.spotify.com/track/3IYcHE80wi0fSiArJIglku) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Queen of the South](https://open.spotify.com/album/1nwgHyQOABtfjwCJUIB0GQ) | 2:26 | 2023-09-07 |  |

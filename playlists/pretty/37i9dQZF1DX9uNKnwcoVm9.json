@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 258524,
+  "num_followers": 258629,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzAxZDQzNTQyODhmNTI5ZGQ2MTMxN2RjZTFmMDU1ZjIzMDcxMzI0",
+  "snapshot_id": "MCxiYzMyZmMzNGUxZjdkMmNmMWQwYjEzN2I1Mjg3N2Y4ZDgyNTE5NWJm",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Padre Nuestro",
-        "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
+        "name": "Se Abren Los Cielos ( Pistas)",
+        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
       },
       "artists": [
         {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
         }
       ],
-      "duration_ms": 371013,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
+      "duration_ms": 276706,
+      "name": "Haz Llover",
+      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Se Abren Los Cielos ( Pistas)",
-        "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
+        "name": "Padre Nuestro",
+        "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
       },
       "artists": [
         {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp"
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
         }
       ],
-      "duration_ms": 276706,
-      "name": "Haz Llover",
-      "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
+      "duration_ms": 371013,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
     },
     {
       "added_at": "2020-11-24 13:23:38",

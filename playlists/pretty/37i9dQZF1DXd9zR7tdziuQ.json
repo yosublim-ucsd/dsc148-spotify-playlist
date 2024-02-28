@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 918915,
+  "num_followers": 919039,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjc1ODk5NGUwZjU4NGRiYzMwZDFlNTVmYjNiMjdkMGRlZjA0OWZj",
+  "snapshot_id": "MCxmZmRjNDY3NjE2NWI1MTY5MWU0Mjc2NWU0NDBjNzI2M2ZlYzNhOTZj",
   "tracks": [
     {
       "added_at": "2023-11-30 18:27:42",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 157868,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "La Vie En Rose",
         "url": "https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 212152,
       "name": "September Song - Guitar Acoustic",
       "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "You Are My Sunshine",
-        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 157868,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Firestone (Live Acoustic Version)",
-        "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Firestone - Live Acoustic Version",
-      "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "#Acoustic #2",
         "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
       },
@@ -787,6 +767,26 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Firestone (Live Acoustic Version)",
+        "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Firestone - Live Acoustic Version",
+      "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 253482,
       "name": "Dancing On My Own - Acoustic",
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
+      },
+      "artists": [
+        {
+          "name": "The Wind and The Wave",
+          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -819,22 +835,6 @@
       "duration_ms": 235466,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
-      },
-      "artists": [
-        {
-          "name": "The Wind and The Wave",
-          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "AOL Sessions",
-        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Kiss Me - AOL Sessions Acoustic Version",
-      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "The Bluebird of Happiness",
         "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 269920,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "AOL Sessions",
+        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Kiss Me - AOL Sessions Acoustic Version",
+      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "All The Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 298800,
       "name": "Hey Ya - solo version",
       "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Acoustic Favourites",
-        "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 126827,
-      "name": "I Feel It Coming - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Too Much To Ask (Acoustic)",
         "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 221598,
       "name": "Too Much To Ask - Acoustic",
       "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Acoustic Favourites",
+        "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 126827,
+      "name": "I Feel It Coming - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "2U (Acoustic Version)",
         "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 208102,
       "name": "2U - Acoustic Version",
       "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 245780,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3XE3fDJVA9vMjycWghQQ3W"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Perfect Strangers (Acoustic)",
         "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3XE3fDJVA9vMjycWghQQ3W"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Make Me (Cry) [Acoustic]",
+        "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
+      },
+      "artists": [
+        {
+          "name": "Boreal",
+          "url": "https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI"
+        }
+      ],
+      "duration_ms": 181821,
+      "name": "Make Me (Cry) - Acoustic",
+      "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Make Me (Cry) [Acoustic]",
-        "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
-      },
-      "artists": [
-        {
-          "name": "Boreal",
-          "url": "https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI"
-        }
-      ],
-      "duration_ms": 181821,
-      "name": "Make Me (Cry) - Acoustic",
-      "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
     },
     {
       "added_at": "2023-11-30 18:27:42",

@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 609030,
+  "num_followers": 609238,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTA4ODI1Y2I2NTM1MzUxZjk0NzA5M2ZmNmI5YWI3ODZjNDQ5ZmZl",
+  "snapshot_id": "MCw5NjJhNDI5NjhjZWFiNzZkOTgxMDE4OWE4MDEyZmY2MzQyNWQyMjlm",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "There's No Gettin' Over Me",
         "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 199680,
       "name": "(There's) No Gettin' Over Me",
       "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 179333,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Seven Year Ache",
+        "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 178840,
       "name": "All My Rowdy Friends Are Coming Over Tonight",
       "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Seven Year Ache",
-        "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1747,6 +1747,22 @@
       "duration_ms": 215106,
       "name": "Stand By Me - Single Version",
       "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "King's Record Shop",
+        "url": "https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 189007,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "35 Biggest Hits",
-        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "King's Record Shop",
-        "url": "https://open.spotify.com/album/2UKzyeTTIPTmhgMawl3iag"
+        "name": "35 Biggest Hits",
+        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 189007,
-      "name": "Tennessee Flat Top Box",
-      "url": "https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS"
+      "duration_ms": 164653,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
-      },
-      "artists": [
-        {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 247040,
       "name": "Old Hippie",
       "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
+      },
+      "artists": [
+        {
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2023-08-21 19:29:52",

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 111231,
+  "num_followers": 111313,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDMyZDhmYTNkMzc2Zjg3MTBhZWJhZGU5OGUxMWEzMzBmOTczNzc1",
+  "snapshot_id": "MCxhN2QzNGEyZTY0ZmZiY2ZmNDg5M2I0NWVjMTU2NTNlYjZkMjBhM2Vh",
   "tracks": [
     {
       "added_at": "2024-02-20 00:24:40",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Estetograma",
-        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Estetograma",
-      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "EN EL GHETTO #3 (Par de cosas)",
         "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
+        "name": "Estetograma",
+        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Estetograma",
+      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "la calle",
-        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
         }
       ],
-      "duration_ms": 243999,
-      "name": "la calle",
-      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -967,6 +951,22 @@
       "duration_ms": 195373,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
+        "name": "la calle",
+        "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 243999,
+      "name": "la calle",
+      "url": "https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3f2W9VB9lSD7ssng5aHSY3"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/6NO62oYyAyVOAlYbvQCTjN"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3f2W9VB9lSD7ssng5aHSY3"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/6NO62oYyAyVOAlYbvQCTjN"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 158819,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Satus",
-        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 158819,
-      "name": "Aqu\u00ed Sigo",
-      "url": "https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90"
+      "duration_ms": 169365,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 169365,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "Kafka",
         "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
-        "name": "Fin De Semana / Demasiado R\u00e1pido",
-        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1319,6 +1303,22 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
+        "name": "Fin De Semana / Demasiado R\u00e1pido",
+        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Gotas",
-        "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Gotas",
-      "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/61e4jD3cr8rPCz1TYDaUFb"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 180565,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/1QvmQqljAlV0vdc2N18fI8"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
+        "name": "Gotas",
+        "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Gotas",
+      "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
         "name": "Reflejos",
         "url": "https://open.spotify.com/album/1WgfXjXFPY3cweBPJrU5es"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 140000,
       "name": "Reflejos",
       "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+      },
+      "artists": [
+        {
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+        }
+      ],
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
         "name": "Numb The Pain",
         "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
       },
@@ -1644,7 +1660,7 @@
           "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
         }
       ],
-      "duration_ms": 206116,
+      "duration_ms": 206106,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
     },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
-      },
-      "artists": [
-        {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -1695,30 +1695,6 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
-        "name": "Un Cuento Sin Sirenas",
-        "url": "https://open.spotify.com/album/42ejHMVCk6scQjCQFO6Suf"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
-        },
-        {
-          "name": "STEGA",
-          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
-        }
-      ],
-      "duration_ms": 173583,
-      "name": "Un Cuento Sin Sirenas",
-      "url": "https://open.spotify.com/track/6ehtxk6vheXDMyefxqX7DO"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1759,26 +1735,26 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "Tus Ojos Me Hablaron",
-        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
+        "name": "Un Cuento Sin Sirenas",
+        "url": "https://open.spotify.com/album/42ejHMVCk6scQjCQFO6Suf"
       },
       "artists": [
         {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
         },
         {
-          "name": "Slim Ans",
-          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
         },
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+          "name": "STEGA",
+          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
         }
       ],
-      "duration_ms": 201290,
-      "name": "Tus Ojos Me Hablaron",
-      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+      "duration_ms": 173583,
+      "name": "Un Cuento Sin Sirenas",
+      "url": "https://open.spotify.com/track/6ehtxk6vheXDMyefxqX7DO"
     },
     {
       "added_at": "2024-02-20 00:24:40",
@@ -1803,6 +1779,30 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
+        "name": "Tus Ojos Me Hablaron",
+        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Tus Ojos Me Hablaron",
+      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
         "name": "Gallo Pinto",
         "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-02-20 00:24:40",
       "album": {
-        "name": "M\u00e1s Na",
-        "url": "https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD"
-      },
-      "artists": [
-        {
-          "name": "La Pardo",
-          "url": "https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "M\u00e1s Na",
-      "url": "https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL"
-    },
-    {
-      "added_at": "2024-02-20 00:24:40",
-      "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
+    },
+    {
+      "added_at": "2024-02-20 00:24:40",
+      "album": {
+        "name": "M\u00e1s Na",
+        "url": "https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD"
+      },
+      "artists": [
+        {
+          "name": "La Pardo",
+          "url": "https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "M\u00e1s Na",
+      "url": "https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL"
     }
   ],
   "unique_name": "R&B Latino",

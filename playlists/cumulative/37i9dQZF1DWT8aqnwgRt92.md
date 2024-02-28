@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,216 songs - 3 day 4 hr 32 min
+1,217 songs - 3 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0rE5MtnYOHxWWWp23i6w1p) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [Everlasting Guilty Crown \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/7fC91TTDBD5rMtJHfsHNoT) | 5:24 | 2022-05-28 | 2022-06-01 |
 | [EVERYTHING IS CHANGING](https://open.spotify.com/track/3aSsyMvqldzre2hOSgJAVg) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON ”Everything is Changing”](https://open.spotify.com/album/48PV0k4eMCzWk3TSyweLpw) | 4:37 | 2023-11-16 | 2023-11-29 |
 | [Evolution](https://open.spotify.com/track/37Lrq9EI7AYyCp8z8i7wSo) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Evolution](https://open.spotify.com/album/1gy6kxmk82kfFlscoStQsa) | 3:51 | 2023-01-17 | 2023-02-15 |
+| [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 | 2024-02-27 |  |
 | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/track/2mpkh5uQygtv1nY0q3Qlps) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op) | 1:29 | 2024-01-06 | 2024-01-26 |
 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 | 2022-10-05 |
 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-03 | 2023-04-09 |

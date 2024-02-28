@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-546 songs - 1 day 5 hr 48 min
+547 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,8 @@
 | [We Have Arrived](https://open.spotify.com/track/5JHHIGIMM4E6CPk3ibbi6d) | [Portals](https://open.spotify.com/artist/5ltFuPAnYxYSXFBa8sIn2V) | [It Begins](https://open.spotify.com/album/6CpQ3ILNkB2a4kqkfdtZJ5) | 3:35 | 2023-09-13 |  |
 | [Welcome To The War](https://open.spotify.com/track/796kVXVlfWwMyleQEAul6g) | [7kingZ](https://open.spotify.com/artist/2lYNHrkuZrcJVgagIlyaTA) | [REIGN](https://open.spotify.com/album/6hPCPq0eRRmeUYAJrCxdwv) | 2:59 | 2023-08-05 |  |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-07-29 | 2023-07-19 |
-| [What Is Love \- Radio Edit](https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Reloaded\)](https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M) | 2:56 | 2023-07-22 |  |
+| [What Is Love \- Radio Edit](https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Reloaded\)](https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M) | 2:56 | 2023-07-22 | 2024-02-28 |
+| [What Is Love \- Reloaded \(Radio Edit\)](https://open.spotify.com/track/5GvueiOy3uZz3dMeWVOAbM) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(>Reloaded<\)](https://open.spotify.com/album/1GarpNkRapfuTx8nGtJJeS) | 2:56 | 2023-09-13 |  |
 | [Whatta Man](https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 5:08 | 2022-08-19 | 2023-07-19 |
 | [When It Ends](https://open.spotify.com/track/02ZhaPjgCzidCbPHBuzHzN) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [When It Ends](https://open.spotify.com/album/6k0XOP9hsiwudcKYeqPP4A) | 3:49 | 2022-08-26 | 2023-07-19 |
 | [When It Ends](https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [When It Ends](https://open.spotify.com/album/1omEOMchSWNS0JW7jcLWAU) | 3:49 | 2022-08-26 | 2022-10-13 |

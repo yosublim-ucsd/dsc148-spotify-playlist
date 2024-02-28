@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,107 likes - 46 songs - 2 hr 31 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,128 likes - 46 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 41 | [How it is \- Subshift Remix](https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 4:51 |
 | 42 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 43 | [Promise Me](https://open.spotify.com/track/08cOJ6sPtX4mmRrSvms58C) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Promise Me](https://open.spotify.com/album/0e51EzVrN8ghyFFYlwDD5M) | 3:38 |
-| 44 | [GUNZ.OUT \- Extended Mix](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
+| 44 | [GUNZ.OUT](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
 | 45 | [The Afterhours](https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Afterhours](https://open.spotify.com/album/4LG0u43Eqo0FgZpq5SikRE) | 3:11 |
 | 46 | [Dunns](https://open.spotify.com/track/4H2PWJz2GDMpOMRUpkzAXl) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [Dunns EP](https://open.spotify.com/album/1zOFzIsU07Qqr4AvIpZhw7) | 5:55 |
 

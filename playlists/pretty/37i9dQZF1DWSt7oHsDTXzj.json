@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 182465,
+  "num_followers": 182431,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGIyMzU1MjhlZTU0NDI5YTMzYzI2OTU1MWRhMzVmODk5M2ZkMzUz",
+  "snapshot_id": "MCw0YjI4NWY2ZWU2ZDE1MzRjMDZhYjVjMmY3NmY0MTZmNDFhYzQzNjM2",
   "tracks": [
     {
       "added_at": "2023-10-16 19:34:42",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Mellow Christmas Acoustic",
         "url": "https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x"
+        "name": "We're The Lucky Ones",
+        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 256648,
-      "name": "Another Year",
-      "url": "https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P"
+      "duration_ms": 215933,
+      "name": "We're the Lucky Ones",
+      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -719,22 +735,6 @@
       "duration_ms": 227173,
       "name": "Christmas Must Be Tonight",
       "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "We're The Lucky Ones",
-        "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "We're the Lucky Ones",
-      "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 296673,
       "name": "Mama It's Christmas",
       "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
         "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
-        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Christmas Is Going To The Dogs",
-      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -895,6 +879,22 @@
       "duration_ms": 181094,
       "name": "Darling I Do",
       "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Useless Trinkets-B Sides, Soundtracks, Rarieties and Unreleased 1996-2006",
+        "url": "https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Christmas Is Going To The Dogs",
+      "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
+      },
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+        }
+      ],
+      "duration_ms": 167837,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Alone on Christmas Day",
         "url": "https://open.spotify.com/album/2DNeWE54G8WriLMcvIFl4B"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 174973,
       "name": "Alone on Christmas Day",
       "url": "https://open.spotify.com/track/4ZkkqhQl0KQzvvNfuhznAm"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
-      },
-      "artists": [
-        {
-          "name": "Pomplamoose",
-          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
-        }
-      ],
-      "duration_ms": 167837,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
     },
     {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Christmas, Hopefully",
-        "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 241177,
-      "name": "Christmas, Hopefully",
-      "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
-    },
-    {
       "added_at": "2023-11-17 14:56:29",
       "album": {
         "name": "White Winter Hymnal",
@@ -1143,6 +1127,22 @@
       "duration_ms": 134320,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Christmas, Hopefully",
+        "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 241177,
+      "name": "Christmas, Hopefully",
+      "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "When I Get Home for Christmas",
-        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "When I Get Home for Christmas",
-      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 187750,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "When I Get Home for Christmas",
+        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "When I Get Home for Christmas",
+      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
     },
     {
       "added_at": "2023-10-16 19:34:42",

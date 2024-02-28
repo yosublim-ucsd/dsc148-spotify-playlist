@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,002 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,164 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 27 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 |
 | 28 | [Arizona](https://open.spotify.com/track/1QQ3b5ff5hp6HvFqNpkpCE) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Arizona](https://open.spotify.com/album/1LqbxcZbUZ55tKRS97fWSp) | 3:04 |
 | 29 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
-| 30 | [Base Camp](https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW) | 3:25 |
+| 30 | [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 |
 | 31 | [Run Me Over](https://open.spotify.com/track/0TnnkIENtFY55LcSlBDjIW) | [HARBOUR](https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO) | [Run Me Over](https://open.spotify.com/album/1PKlzlPG0fNiA4RvhfmaVg) | 3:03 |
 | 32 | [ALL OF U](https://open.spotify.com/track/4ealCIKR5aAYaKYuxVWJ0J) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALL OF U](https://open.spotify.com/album/0qzN96GJVCxQJ1YNGkXlN3) | 3:32 |
 | 33 | [MONKI](https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MONKI](https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 59 | [lay your head next to mine](https://open.spotify.com/track/2VgcJ9TFXeYakz9j19YLSP) | [guessing](https://open.spotify.com/artist/6EiUsyrZU50GTbJzhH8CJQ) | [lay your head next to mine](https://open.spotify.com/album/11cRSI3bYS0wScnVYnahDw) | 4:01 |
 | 60 | [Monasteroide](https://open.spotify.com/track/141iD7fqfSvkKuvphMKItz) | [Real Timpani](https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA) | [RX2XT](https://open.spotify.com/album/1JefQbyKVXPUvdwh1LBiJp) | 3:03 |
 
-Snapshot ID: `MCxkNjIzY2YwMjk4ZTc2NTIzZWUzYjFhN2QxNzk1M2UzNGUyYjU3NDk1`
+Snapshot ID: `MCw3ZmVkYzg1N2JlZWI4MDdiMDg0NjcwYmM0YjZmNzlkZTBmN2JmODJm`

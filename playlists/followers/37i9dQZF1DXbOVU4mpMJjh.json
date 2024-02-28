@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 809622,
+  "2024-02-28": 809674,
   "date_first_scraped": "2022-04-20",
   "description": "Relax to gentle vocal and instrumental Jazz.",
   "name": "Jazz Relax",
@@ -2721,7 +2721,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 233514,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
@@ -10295,7 +10295,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 140939,
       "name": "Love In Technicolor",
       "url": "https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A"
@@ -12473,6 +12473,24 @@
       "duration_ms": 267688,
       "name": "Nocturnal Whispers",
       "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
+    },
+    {
+      "album": {
+        "name": "Norah\u00b4s Place",
+        "url": "https://open.spotify.com/album/7r9Vj7UebCVochEf1AOwta"
+      },
+      "artists": [
+        {
+          "name": "Jonas Olofsson",
+          "url": "https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Norah\u00b4s Place",
+      "url": "https://open.spotify.com/track/03mZppMXzhmCBr2hgSQlxh"
     },
     {
       "album": {
@@ -16225,6 +16243,24 @@
       "duration_ms": 204041,
       "name": "Swift",
       "url": "https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6"
+    },
+    {
+      "album": {
+        "name": "Swingin' Skylines",
+        "url": "https://open.spotify.com/album/5IiL0oL5yKQx50gWnUYczD"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235455,
+      "name": "Swingin' Skylines",
+      "url": "https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH"
     },
     {
       "album": {

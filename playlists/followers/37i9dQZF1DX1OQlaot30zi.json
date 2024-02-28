@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 41338,
+  "2024-02-28": 41413,
   "date_first_scraped": "2022-05-12",
   "description": "Sempre aggiornata. Con nuovi brani di Beba, Fabri Fibra, Mace, Niky Savage e tanti altri. ",
   "name": "Novit\u00e0 Rap Italiano",
@@ -453,6 +453,24 @@
       "duration_ms": 96000,
       "name": "10 Palazzi",
       "url": "https://open.spotify.com/track/0l2ZViNpvnoVr80QcfDS2u"
+    },
+    {
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
       "album": {
@@ -23091,7 +23109,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 131465,
       "name": "FUJIN E RAIJIN",
       "url": "https://open.spotify.com/track/6HbnP7T6iCCsIZct67nRJR"
@@ -30589,6 +30607,24 @@
       "duration_ms": 246000,
       "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
       "url": "https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK"
+    },
+    {
+      "album": {
+        "name": "L'Anticristo",
+        "url": "https://open.spotify.com/album/3h1uckIvnnPXejtxgWHQbW"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "L'Anticristo",
+      "url": "https://open.spotify.com/track/3EqoXoBVHpIrw7ZFWqF6P6"
     },
     {
       "album": {
@@ -59325,8 +59361,8 @@
           "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
         },
         {
-          "name": "Icaro",
-          "url": "https://open.spotify.com/artist/207Kr2A9hJzVUSY2QDCXyg"
+          "name": "icaro",
+          "url": "https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC"
         }
       ],
       "date_added": "2024-02-22",
@@ -62745,7 +62781,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 181000,
       "name": "Tutto Deve Cambiare",
       "url": "https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew"

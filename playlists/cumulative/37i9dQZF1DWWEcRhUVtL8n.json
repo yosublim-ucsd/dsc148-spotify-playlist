@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "little vice",
+        "url": "https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/62CmFD4qQ21lUSiNIjz9By"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 214598,
       "name": "Besties Only",
       "url": "https://open.spotify.com/track/6ZIYgVQeQthFwBi3IcBdLE"
@@ -5779,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Collateral Damage",
+        "url": "https://open.spotify.com/album/2HF8zmOrCOTGqQCbR4dJ8D"
+      },
+      "artists": [
+        {
+          "name": "Kristiane",
+          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170899,
+      "name": "Collateral Damage",
+      "url": "https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh"
+    },
+    {
+      "album": {
         "name": "Colorize",
         "url": "https://open.spotify.com/album/04dIFI5ygCrpYZWLq3tTHd"
       },
@@ -7587,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113385,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "album": {
         "name": "Diving (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
       },
@@ -8664,7 +8718,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 137441,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
@@ -10998,6 +11052,24 @@
       "duration_ms": 170053,
       "name": "ghosts!",
       "url": "https://open.spotify.com/track/5FUO2oWL2z2e5eKsY7awhr"
+    },
+    {
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf"
     },
     {
       "album": {
@@ -17137,6 +17209,28 @@
     },
     {
       "album": {
+        "name": "Lil Tune",
+        "url": "https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238936,
+      "name": "Lil Tune",
+      "url": "https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/0HjvMm9C2AE2rwb9frroWL"
       },
@@ -18725,6 +18819,24 @@
     },
     {
       "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
+    },
+    {
+      "album": {
         "name": "Me Without You",
         "url": "https://open.spotify.com/album/4evy8XIXFcXOqGc8twyhyg"
       },
@@ -19338,7 +19450,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
@@ -24226,6 +24338,24 @@
     {
       "album": {
         "name": "Running",
+        "url": "https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189150,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3"
+    },
+    {
+      "album": {
+        "name": "Running",
         "url": "https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b"
       },
       "artists": [
@@ -24972,7 +25102,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 182886,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ"
@@ -26230,7 +26360,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 193559,
       "name": "Someday Best",
       "url": "https://open.spotify.com/track/7pehLR5YjBaDUucUgW8nMR"
@@ -26878,6 +27008,28 @@
       "duration_ms": 177560,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN"
+    },
+    {
+      "album": {
+        "name": "Starving (feat. Teezo Touchdown)",
+        "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216841,
+      "name": "Starving (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
       "album": {
@@ -31056,7 +31208,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 160258,
       "name": "we don't move",
       "url": "https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx"
@@ -32020,7 +32172,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 197649,
       "name": "Wong Kar-wai",
       "url": "https://open.spotify.com/track/5aHEeRwDUnNzeXirovWa2l"

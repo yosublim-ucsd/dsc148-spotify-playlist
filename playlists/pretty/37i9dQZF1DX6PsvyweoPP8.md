@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,466 likes - 84 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,472 likes - 84 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 83 | [King Size](https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs) | [Olhares](https://open.spotify.com/artist/4sZgfmE3StdCfvUDOZakzc), [Tangi](https://open.spotify.com/artist/5oFbBc3ADqWvbU3jzihIXM) | [King Size](https://open.spotify.com/album/0nsTJkAhy8AXuK95Z1jhGm) | 2:32 |
 | 84 | [Imprevisível](https://open.spotify.com/track/2vn12WOrknKDFf62S53Ivc) | [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Imprevisível](https://open.spotify.com/album/5EEDSyWXqRE9TAEM9hD404) | 2:46 |
 
-Snapshot ID: `MCxhMzgxZjUwNGZhYmUwN2QzZDJlMjk0YjAyMmZmZmM3NWUxOWFmYmI2`
+Snapshot ID: `MCw0NGExZGRkNjAyMGMxNDljZGFiY2ZhMmIyOTMyMGMzMGI2ZWQyNjg3`

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "album": {
         "name": "No Witch",
         "url": "https://open.spotify.com/album/0mIkXhPYg8uMiXWOhUDQFa"
       },
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 195706,
       "name": "Own Alone",
       "url": "https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD"

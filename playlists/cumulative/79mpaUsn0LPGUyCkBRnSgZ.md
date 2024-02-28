@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-587 songs - 1 day 14 hr 10 min
+588 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [Where Do The Children Play?](https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:51 | 2024-01-08 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 | 2024-01-08 |  |
 | [where u at?](https://open.spotify.com/track/0UULVQXjgFPOttIW5qF7Ak) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 0:44 | 2022-02-17 |  |
+| [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 | 2024-02-27 |  |
 | [White Room](https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Gongjoong Doduk](https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR) | 4:24 | 2024-02-07 |  |
 | [Who I Am](https://open.spotify.com/track/2ak64lN0RARj28Vpj074Zm) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [The Dreaming Room \(Special Edition\)](https://open.spotify.com/album/3zbxHIsyjD7NmglV6cYb4D) | 1:18 | 2024-01-18 |  |
 | [Whole Lotta Love \- Remaster](https://open.spotify.com/track/3OuMIIFP5TxM8tLXMWYPGV) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 5:34 | 2023-09-06 |  |

@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Catfish and the Bottlemen
 
-1,664 songs - 3 day 17 hr 19 min
+1,665 songs - 3 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 | 2023-03-24 | 2023-04-15 |
 | [Giants](https://open.spotify.com/track/1hRjSRDp3yJUnOOPHSphps) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [HEIGHTS](https://open.spotify.com/album/3ZDqOKvg2yuGzzImRjIrhK) | 3:41 | 2022-06-03 | 2022-09-03 |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-19 | 2024-02-17 |
+| [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-02-27 |  |
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 | 2023-03-18 |
 | [Girl On The Internet](https://open.spotify.com/track/4sYUUsGf0z6S99Yk7rXWdv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Girl On The Internet](https://open.spotify.com/album/6NnlOV3v51Tmlnf6sEsVOX) | 2:35 | 2023-11-17 | 2024-01-27 |
 | [Girl Shaped Crater](https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Girl Shaped Crater](https://open.spotify.com/album/3UfD0zbowB8b2iEn6wS1Tk) | 3:02 | 2024-01-26 |  |

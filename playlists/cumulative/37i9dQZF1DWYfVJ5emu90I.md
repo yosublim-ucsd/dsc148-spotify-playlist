@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-110 songs - 5 hr 16 min
+111 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3rsReqvpwIyP9P8p8vHwPz) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit vol.2](https://open.spotify.com/album/59UZbS9Ux4SiENv7foGH5w) | 3:33 | 2023-08-21 |  |
 | [Marika Drift](https://open.spotify.com/track/5D1saLccH0XtSxnMuCAUdQ) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO) | [O.B.S vol.8](https://open.spotify.com/album/10rURjpwESeXN9Ztp7e3aC) | 2:00 | 2022-12-22 | 2023-05-24 |
 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 |  |
-| [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 | 2022-11-19 |  |
+| [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 | 2022-11-19 | 2024-02-28 |
 | [Move Up](https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO) | 3:07 | 2024-02-06 |  |
 | [MUJI TEE](https://open.spotify.com/track/0ektvubmcjCJVjHZ4kEwLJ) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU), [DSXTX](https://open.spotify.com/artist/73TwGzLgB0TwVcEBbKd4Hw) | [MUJI TEE](https://open.spotify.com/album/0wcf67hoX2dWUYz1Xbp4ZG) | 3:02 | 2022-12-22 | 2023-05-24 |
 | [Nakamura \- Remix](https://open.spotify.com/track/3js6AKGtNyfmR2eMG5lKdZ) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [ghostpops](https://open.spotify.com/artist/6zFpstOqy3dPfdqsOmaZcI), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Kraftykid](https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord) | [Nakamura \(Remix\)](https://open.spotify.com/album/3HssFlV7CUvmzjPa4yv93k) | 3:27 | 2022-11-19 | 2022-12-07 |
@@ -87,6 +87,7 @@
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-08-21 |  |
 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-06-21 | 2023-10-28 |
 | [Reach](https://open.spotify.com/track/5F5W0KSTnU7KtqSXo2ietC) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [FLESHNESS SZN](https://open.spotify.com/album/0zDHeNjmu86yjx2KvSji61) | 2:41 | 2022-11-19 | 2023-05-24 |
+| [Rental Gold Tesla](https://open.spotify.com/track/57c39ZELVgjZ3BavaMMTgS) | [SHO](https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d) | [Rental Gold Tesla](https://open.spotify.com/album/0pfyM76zqYelvBcfKQQ6Zz) | 2:44 | 2024-02-27 |  |
 | [ROCK SHIT](https://open.spotify.com/track/0XAteuqb6RYFAM1gzpSqss) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [T\-Pablow](https://open.spotify.com/artist/0wygiZev26irRopIBGuoTR) | [MUSA](https://open.spotify.com/album/0zy1Zin37EdvVRWeqCUNSb) | 2:58 | 2022-11-19 | 2023-05-24 |
 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 | 2022-11-19 | 2024-02-14 |
 | [ROMANÉE \-CONTI](https://open.spotify.com/track/4J8OZi1ItHMcLjU1TIOgvI) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd) | [THE MESSAGE III](https://open.spotify.com/album/0yVWJKqJ9jOVneyR1tjIUW) | 3:29 | 2022-11-19 | 2023-05-24 |

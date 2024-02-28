@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 13856,
+  "2024-02-28": 13864,
   "date_first_scraped": "2021-12-29",
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
   "name": "This Is Angelique Kidjo",
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 328813,
       "name": "Crosseyed and Painless",
       "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
@@ -1755,6 +1755,14 @@
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Zeynab",
+          "url": "https://open.spotify.com/artist/2ScoYKTSZKfxruoIl8wgG8"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
         }
       ],
       "date_added": "2021-12-28",
@@ -1973,7 +1981,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Salala",
       "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"

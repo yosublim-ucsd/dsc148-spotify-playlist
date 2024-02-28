@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 4053671,
+  "2024-02-28": 4053983,
   "date_first_scraped": "2021-12-21",
   "description": "Having a bad day? We know how it feels!",
   "name": "Life Sucks",
@@ -533,6 +533,24 @@
       "duration_ms": 280000,
       "name": "Are You Alright?",
       "url": "https://open.spotify.com/track/5Gi9PNrnsQHCnI5EYelkIG"
+    },
+    {
+      "album": {
+        "name": "vert1go vol. 1",
+        "url": "https://open.spotify.com/album/2dazOe8Ya2l4o19ePLTk1R"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215082,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/47hpR1q2LXKDMm7YVDvRuP"
     },
     {
       "album": {
@@ -2009,6 +2027,24 @@
       "duration_ms": 132820,
       "name": "DITR",
       "url": "https://open.spotify.com/track/1iEH453kVmEcwgVKtbvylS"
+    },
+    {
+      "album": {
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Doctor, My Eyes",
+      "url": "https://open.spotify.com/track/4ZgXDDRSS4lVx1g3WkRon0"
     },
     {
       "album": {
@@ -4265,7 +4301,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 238866,
       "name": "It's A Wrap",
       "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
@@ -5761,7 +5797,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
@@ -6733,6 +6769,24 @@
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT"
+    },
+    {
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "album": {
@@ -8395,7 +8449,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 208986,
       "name": "Too Sad To Cry",
       "url": "https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft"

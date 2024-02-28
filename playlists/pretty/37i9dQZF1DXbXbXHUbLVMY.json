@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27503,
+  "num_followers": 27505,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDY4OTEwNmQzM2QyZWY4N2E0NWY2Nzk0ZTViZjk1MDIyY2NlNDNi",
+  "snapshot_id": "MCw3NGQ5NDlhMGJmMWU4NTAwYzllNDY5NGY3Zjc3OWRjZjM0YTYxMjIz",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "WONDERLAND",
+        "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 141471,
+      "name": "WONDERLAND",
+      "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "Gata",
         "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "WONDERLAND",
-        "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
       "artists": [
         {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 141471,
-      "name": "WONDERLAND",
-      "url": "https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt"
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 143520,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 123169,
-      "name": "K\u00e4nslokall",
-      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Zinah",
-        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 116500,
-      "name": "Zinah",
-      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 123149,
       "name": "MANDANA",
       "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 116420,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Du datt av",
         "url": "https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 147843,
       "name": "Du datt av",
       "url": "https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "BAD GIRL",
         "url": "https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 148000,
       "name": "BAD GIRL",
       "url": "https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     }
   ],
   "unique_name": "100 (2)",

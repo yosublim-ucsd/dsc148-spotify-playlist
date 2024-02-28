@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13823,
+  "num_followers": 13842,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2ZkMmJlOWYzM2M2MjJhZDM3YzQ4NzllOGI0OTNkM2NlYzU5YmZh",
+  "snapshot_id": "MCw5MTNjODZiNzA1YzRhNTNhMDc1MGM4N2YwM2IwMDJlMTUwMWIxZDc0",
   "tracks": [
     {
       "added_at": "2024-02-22 09:44:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "Cloudy (With a Chance of Rain)",
-        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Cloudy (With a Chance of Rain)",
-      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
         "name": "A Beautiful Friendship",
         "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 258239,
       "name": "A Beautiful Friendship",
       "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
+        "name": "Cloudy (With a Chance of Rain)",
+        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cloudy (With a Chance of Rain)",
+      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 384360,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
         "name": "The Complete Bill Evans On Verve",
         "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 237200,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 384360,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
         "name": "Grand Songs",
         "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 227960,
       "name": "Take a Giant Step",
       "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
-      },
-      "artists": [
-        {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Getting To Know You",
-      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 194173,
       "name": "April Come She Will",
       "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Getting To Know You",
+      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
     },
     {
       "added_at": "2024-02-22 09:44:27",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-02-22 09:44:27",
       "album": {
+        "name": "Happyfeet",
+        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 400980,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
+    },
+    {
+      "added_at": "2024-02-22 09:44:27",
+      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
-    },
-    {
-      "added_at": "2024-02-22 09:44:27",
-      "album": {
-        "name": "Happyfeet",
-        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 400980,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
     },
     {
       "added_at": "2024-02-22 09:44:27",

@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
+    },
+    {
+      "album": {
         "name": "In Spite of the Weather (Bill Ryder-Jones Re-Imagining)",
         "url": "https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy"
       },
@@ -884,6 +902,24 @@
       "duration_ms": 145866,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz"
+    },
+    {
+      "album": {
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y"
     },
     {
       "album": {

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EFHkietQPUHvT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFHkietQPUHvT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFHkietQPUHvT)
 
-### [Written By BILL MAYBURY](https://open.spotify.com/playlist/37i9dQZF1EFHkietQPUHvT)
+### [Written By Bill Maybury](https://open.spotify.com/playlist/37i9dQZF1EFHkietQPUHvT)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">BILL MAYBURY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 36 songs - 1 hr 46 min
 

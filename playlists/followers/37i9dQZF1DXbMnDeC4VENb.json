@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 167948,
+  "2024-02-28": 168010,
   "date_first_scraped": "2022-06-03",
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
   "name": "Rimas Pa'l Cora",
@@ -1366,6 +1366,28 @@
     },
     {
       "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/7zR6tG73BWnHml3UjZbFCn"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160449,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6oHceJfgSlVAGAD8n4cQcR"
+    },
+    {
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U"
       },
@@ -2495,7 +2517,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 140893,
       "name": "Que Mal Me Hac\u00edas",
       "url": "https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU"

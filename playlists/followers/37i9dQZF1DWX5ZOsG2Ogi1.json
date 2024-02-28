@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 1332268,
+  "2024-02-28": 1332342,
   "date_first_scraped": "2022-03-22",
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Lenny Tav\u00e1rez & Feid",
   "name": "Puro Perreo",
@@ -2873,6 +2873,28 @@
       "duration_ms": 178375,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
+    },
+    {
+      "album": {
+        "name": "Dejalos que hablen",
+        "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175407,
+      "name": "Dejalos que hablen",
+      "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
     },
     {
       "album": {
@@ -7723,7 +7745,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 246315,
       "name": "Mi Gata - Remix",
       "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"

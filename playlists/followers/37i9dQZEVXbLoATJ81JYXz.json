@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 614869,
+  "2024-02-28": 614887,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
@@ -501,6 +501,24 @@
       "duration_ms": 155637,
       "name": "3 Apor",
       "url": "https://open.spotify.com/track/7iuyUQEH88OGBTm6xeLLWO"
+    },
+    {
+      "album": {
+        "name": "30 KM/H",
+        "url": "https://open.spotify.com/album/3nFLg2pkAqrTrK9JbySHny"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168687,
+      "name": "30 KM/H",
+      "url": "https://open.spotify.com/track/5877bQq4QOaIYvwo9LtmVB"
     },
     {
       "album": {
@@ -5214,6 +5232,24 @@
     },
     {
       "album": {
+        "name": "Circus X",
+        "url": "https://open.spotify.com/album/6mk9b0Q51qdxQUVLP8MKfy"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184555,
+      "name": "Circus X",
+      "url": "https://open.spotify.com/track/0SGMCZngLMlB3w34r0cmaz"
+    },
+    {
+      "album": {
         "name": "Cissi (Cecilia Lind)",
         "url": "https://open.spotify.com/album/7MpW0ovjEMLRsuSucWNGsb"
       },
@@ -7054,6 +7090,24 @@
     },
     {
       "album": {
+        "name": "Done Getting Over You",
+        "url": "https://open.spotify.com/album/2kPIwfjIpPbBmKqo2PTcs8"
+      },
+      "artists": [
+        {
+          "name": "Albin Tingwall",
+          "url": "https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Done Getting Over You",
+      "url": "https://open.spotify.com/track/0ivSICeARK2xi8iRvHeVAd"
+    },
+    {
+      "album": {
         "name": "Donkey Kong",
         "url": "https://open.spotify.com/album/4GGHjBUGjEipaBY0l8meu3"
       },
@@ -7139,7 +7193,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 193384,
       "name": "DOPAMIN",
       "url": "https://open.spotify.com/track/23zOf0Zwi7rfIiBgZsi84w"
@@ -8389,6 +8443,24 @@
       "duration_ms": 207072,
       "name": "En s\u00e5n som han",
       "url": "https://open.spotify.com/track/5MY0sVEPnFGu7Y4xHRtmNe"
+    },
+    {
+      "album": {
+        "name": "En s\u00e5ng om sommaren",
+        "url": "https://open.spotify.com/album/06gJLUs5IceUdPt16r0jtX"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176070,
+      "name": "En s\u00e5ng om sommaren",
+      "url": "https://open.spotify.com/track/1X58GqS1Q4JvF1IGyEF2mh"
     },
     {
       "album": {
@@ -12133,7 +12205,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 142448,
       "name": "G\u00c5RDSB\u00d6G",
       "url": "https://open.spotify.com/track/15bpfAQPFdJqu13tPruMTI"
@@ -13703,7 +13775,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -15827,7 +15899,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 120944,
       "name": "John Snow",
       "url": "https://open.spotify.com/track/6fulMfMC4B5S52YaAhdnmF"
@@ -18521,7 +18593,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -19533,7 +19605,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 146823,
       "name": "MAYDAY (fj\u00e4llr\u00e4ddningspatrullen)",
       "url": "https://open.spotify.com/track/7xlZNVvREW1Fy0RBaJ5tc1"
@@ -25953,7 +26025,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -27597,7 +27669,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 160373,
       "name": "Somna",
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
@@ -28315,7 +28387,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 166216,
       "name": "Stj\u00e4rnorna",
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
@@ -30123,7 +30195,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 4 hr 27 min
+96 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Sugar Mommy](https://open.spotify.com/track/00bnJqF7gcNMGInQhCr1Ps) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [Sugar Mommy](https://open.spotify.com/album/1hSFusQy5BLr7CWMC1UrIo) | 2:50 | 2023-12-13 |  |
 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 | 2023-12-13 |  |
 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 | 2023-12-13 |  |
+| [Sunshine](https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ) | 2:52 | 2024-02-27 |  |
 | [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 | 2023-12-13 |  |
 | [The Rat Race](https://open.spotify.com/track/46bgDWUtBBceo13LMCZIXg) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:48 | 2023-12-13 |  |
 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 | 2023-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1668276,
+  "num_followers": 1668729,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGViYTBlYTBkZjA2ZGQwYmNmNjBjMTliOTQ2NmJjOGNjOGNiODY2",
+  "snapshot_id": "MCwyZTk5YjkwZWIwMDcyMmU4YzJhZmJjZDE4ZTYzMTA3NTM2M2VjYmI0",
   "tracks": [
     {
       "added_at": "2024-01-26 17:11:01",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Can't Be Saved",
-      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+      "duration_ms": 187546,
+      "name": "Can't Be Saved",
+      "url": "https://open.spotify.com/track/3PHhctErNOXWqevrZDUyNy"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -827,6 +811,22 @@
       "duration_ms": 193920,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Translating the Name",
-        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Seven Years",
-      "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 207586,
       "name": "My Heroine",
       "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 209453,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "What It Is To Burn",
         "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 269026,
       "name": "What It Is To Burn - New Version",
       "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "On Letting Go",
         "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2024-01-26 17:11:01",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-26 17:11:01",
       "album": {
-        "name": "From Under The Cork Tree Limited Tour Edition",
-        "url": "https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6"
-    },
-    {
-      "added_at": "2024-01-26 17:11:01",
-      "album": {
         "name": "Home, Like Noplace Is There",
         "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
+    },
+    {
+      "added_at": "2024-01-26 17:11:01",
+      "album": {
+        "name": "From Under The Cork Tree Limited Tour Edition",
+        "url": "https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6"
     },
     {
       "added_at": "2024-01-26 17:11:01",

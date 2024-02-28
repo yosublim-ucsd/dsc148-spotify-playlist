@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-505 songs - 1 day 1 hr 56 min
+506 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
+| [apart](https://open.spotify.com/track/0513aRXknqqlp96VbKLkL7) | [sumu](https://open.spotify.com/artist/0SkJYSbgi7TLXTShixp1AF) | [apart](https://open.spotify.com/album/6KQ2yhVXzGlaajA8OctQq7) | 2:22 | 2024-02-27 |  |
 | [Are You With Me](https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH) | [Are You With Me](https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q) | 3:11 | 2023-12-13 |  |
 | [Ark](https://open.spotify.com/track/270aqOuRwQS2xfNc3cj5VA) | [Star Party](https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Ark](https://open.spotify.com/album/3Mh7QKLQKyXPKlCCWivjX3) | 3:00 | 2023-08-08 |  |
 | [Army](https://open.spotify.com/track/3j6s1vr84KzKlpF0QfHzDy) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Army](https://open.spotify.com/album/6DVaBrn0D40NiJCcL4faVZ) | 3:23 | 2023-08-08 |  |
@@ -477,7 +478,7 @@
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-06-30 | 2023-08-10 |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 | 2023-08-10 |
 | [War Zone](https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [War Zone](https://open.spotify.com/album/7rlRz6xYkbFHIGGxMOvuB2) | 3:03 | 2023-08-08 | 2023-12-14 |
-| [Waves](https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Waves](https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g) | 4:27 | 2023-12-13 |  |
+| [Waves](https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Waves](https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g) | 4:27 | 2023-12-13 | 2024-02-28 |
 | [We Are](https://open.spotify.com/track/5sMEi6i03q7JUh2xRTL02D) | [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:56 | 2023-08-08 | 2023-12-14 |
 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 | 2024-01-03 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,187 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,216 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 5 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 |
 | 6 | [Naina Kamaal](https://open.spotify.com/track/37oPANH2478NM6U2K5U2MU) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 3:52 |
 | 7 | [Kagaz](https://open.spotify.com/track/7kF41c0FB7LJMs6ilrWqt2) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Kagaz](https://open.spotify.com/album/1kfXcMO0yTbkpHx8XO6VZZ) | 3:33 |
-| 8 | [Jiyara](https://open.spotify.com/track/2HGUQdjPceANaA1w3PQWoC) | [Sourav Dey](https://open.spotify.com/artist/5lH2vFIQx4St00QvSMe0BX), [Satwik Tripathy](https://open.spotify.com/artist/2hQaGOCSGqVPBdSraSOIPy) | [Jiyara](https://open.spotify.com/album/7caa0Y23MzMrbkrjCxXVcX) | 5:29 |
+| 8 | [Jiyara](https://open.spotify.com/track/2HGUQdjPceANaA1w3PQWoC) | [Sourav Dey](https://open.spotify.com/artist/5lH2vFIQx4St00QvSMe0BX), [Satwik Tripathy](https://open.spotify.com/artist/1Gu2zcXYOHgptCoXdVgbJ7) | [Jiyara](https://open.spotify.com/album/7caa0Y23MzMrbkrjCxXVcX) | 5:29 |
 | 9 | [Piya Milan](https://open.spotify.com/track/4RI9bjPkRj9svJtgUZXzMv) | [Aashish Pant](https://open.spotify.com/artist/6dwmAco5FCS6U541lZeyYg), [Rishabh Joshi](https://open.spotify.com/artist/6NElYmoFMxngXZPeEXlmwN), [Pratiksha bamrara](https://open.spotify.com/artist/4KYI6S6jfrvA1LAG35CbAX) | [Piya Milan](https://open.spotify.com/album/1enqMYkvCqDBmtgkChG2d3) | 4:43 |
 | 10 | [Sukoon Hai](https://open.spotify.com/track/5UpAUygh7LJnphDbfK4pDq) | [Theophany Gajpal](https://open.spotify.com/artist/1V7t4dlyIL5OTTogpcn1DX) | [Sukoon Hai](https://open.spotify.com/album/1lfNE3ORVYqAw6VPiqk6QS) | 3:52 |
 | 11 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/19lu7zlaFr7EmrlS1OaKPB) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Article 370 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCwzODQwNTc3NDBhN2RiYWQ0ZDdkNjc5ZWQ1ZGZjODg3ZjM2Mzk4ZWVm`
+Snapshot ID: `MCxhMmNmYjFmZTc2MjcwYmI3ZTNmYWRiNzNiNzFkYzEwNDM3MjA3YzRl`

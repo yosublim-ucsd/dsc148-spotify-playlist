@@ -4,11 +4,12 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Ghali
 
-459 songs - 22 hr 41 min
+460 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 MESSAGGIO](https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [1 MESSAGGIO](https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS) | 2:34 | 2023-09-28 | 2023-12-15 |
+| [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-27 |  |
 | [100 OPPS](https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [100 OPPS](https://open.spotify.com/album/4wYRRwVSMgQY5YBwqo67w6) | 2:47 | 2023-04-27 | 2023-06-09 |
 | [1312 \(feat\. Disme & Vaz Tè\) \- prod\. Beak On The Night](https://open.spotify.com/track/7flQoPZiOGHINPBS0FUjtR) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 2:58 | 2023-03-17 | 2023-03-25 |
 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 | 2023-11-20 |  |
@@ -380,7 +381,7 @@
 | [Restiamo Soli \(feat\. Fabri Fibra\)](https://open.spotify.com/track/4AwTEoiu3pfu1TZWtabJAV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 3:16 | 2023-12-14 | 2024-01-12 |
 | [Ricordi Sbiaditi \(feat\. Capo Plaza\)](https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 3:04 | 2023-12-14 |  |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-21 | 2023-12-13 |
-| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-06-22 |  |
+| [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-06-22 | 2024-02-28 |
 | [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-07-15 | 2022-10-28 |
 | [RUNNING \(feat\. Rondodasosa, Keta, Sacky, Nko\)](https://open.spotify.com/track/0ckLdEC7jpctzReOBNq700) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:50 | 2022-05-26 | 2022-06-24 |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-07-14 | 2023-02-09 |

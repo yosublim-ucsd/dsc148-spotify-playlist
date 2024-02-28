@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-295 songs - 15 hr 9 min
+296 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Dancing](https://open.spotify.com/track/44x1qfLCPkSgEvzzqXSrnr) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Vicman Romero & Mike Sildavia](https://open.spotify.com/artist/1wAZ4sU7fRc00JC3zs6XXg), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Dancing](https://open.spotify.com/album/1lu4GB49fN2Mn29qgcqwbx) | 2:54 | 2022-08-23 | 2023-11-11 |
 | [Dancing With Tears In My Eyes](https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Dancing With Tears In My Eyes](https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr) | 3:08 | 2022-07-29 | 2023-09-09 |
 | [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 | 2023-02-07 |  |
+| [Dangerous](https://open.spotify.com/track/32ggG1I3rQX3eWwsyVretE) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Dangerous](https://open.spotify.com/album/6hkY6ZjDoHaoS9p1kLfqDQ) | 2:13 | 2024-02-27 |  |
 | [Deja Vu](https://open.spotify.com/track/36tPYCqVrns8yBEv1IMbPs) | [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Deja Vu](https://open.spotify.com/album/2xmcOsh0Zv699SfTkri9Xj) | 2:47 | 2022-09-22 | 2023-11-11 |
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2023-07-28 |  |
 | [Diamonds & Gold](https://open.spotify.com/track/2CdwtTUeDPj2yXFB2hkM60) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Div Eadie](https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Diamonds & Gold](https://open.spotify.com/album/4DTto2HAiqGx5XP6BXMzzb) | 3:05 | 2022-09-16 | 2023-10-03 |

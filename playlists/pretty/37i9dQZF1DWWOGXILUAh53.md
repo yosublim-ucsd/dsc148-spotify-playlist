@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Rita Ora & Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,603 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,667 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 69 | [The Love](https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [The Love](https://open.spotify.com/album/4kG9LIFl6dYNUSLjABjTbV) | 2:21 |
 | 70 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 |
 
-Snapshot ID: `MCw2ZGM5NzMzYmJmZjY5YTI0MWFhODQ4MWE2MTYyMWU0MDE5ZmE0NWM1`
+Snapshot ID: `MCxkMzYxNWRkNjcxYjdjZDcyNmU1MTQzMTZhMTI5ZDUxNWE5MDU0ZTk1`

@@ -4,7 +4,7 @@
 
 > 
 
-234 songs - 13 hr 27 min
+235 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [She Likes Another Boy](https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [She Likes Another Boy + Talk 2 U](https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA) | 3:27 | 2022-10-05 |  |
 | [She Needs Him](https://open.spotify.com/track/1NjzNt18LlNTuJYErYGvbQ) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 5:14 | 2022-05-29 |  |
 | [Silhouette](https://open.spotify.com/track/403EjoWwYSX37paKSySxs1) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/1wU3MS8trhxKeTvrQXIXzI) | 3:59 | 2022-02-24 |  |
+| [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 | 2024-02-27 |  |
 | [Softcore](https://open.spotify.com/track/50j8qSEdH018eLnG2l2erK) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Sad Bops](https://open.spotify.com/album/0RXRbY1KsgAjK7UFigLT7W) | 3:26 | 2022-02-24 |  |
 | [Solitude Velocity](https://open.spotify.com/track/5z3YfgIZnUasFdF6pfc4YI) | [Rahino](https://open.spotify.com/artist/4TSFyQnTbXvAHRhYSmWaME) | [Solitude Velocity](https://open.spotify.com/album/7JxkdnzINwcIa8ajt0rdD5) | 1:54 | 2023-11-09 |  |
 | [Solo](https://open.spotify.com/track/7hz7mnxmHI1sOeeXYVwRut) | [RiveR](https://open.spotify.com/artist/2oWuUngQz4gkZuVislP7GB) | [Solo](https://open.spotify.com/album/6SoUgTSfc0GznDRoEj5rjc) | 3:47 | 2021-04-22 |  |

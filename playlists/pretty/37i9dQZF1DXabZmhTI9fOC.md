@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,799 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,812 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 25 | [Let It Loose](https://open.spotify.com/track/2HZ0S41I5LYmgkMRpZcdiP) | [Moyr](https://open.spotify.com/artist/1zTGzMUzAEGmGZkmPqX0s1), [Juneau Marie](https://open.spotify.com/artist/6Y36VDxkSTewsgrtSaWhNV) | [Feed The Fever](https://open.spotify.com/album/5aGDn1PfQ0b3cPup6cpe3d) | 3:40 |
 | 26 | [All We Need](https://open.spotify.com/track/6JylfydXyLzKfIqnqO7K6Y) | [Jai Nova](https://open.spotify.com/artist/7m0d5KbIfUlF3aY9KnTw5U) | [All We Need](https://open.spotify.com/album/3QKXK37j8kGebBThgykHoK) | 2:40 |
 | 27 | [Bad Things](https://open.spotify.com/track/6p87eM03XdjSN916afHG0P) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/0adiQILnwLMvX09Z6xHaqf) | 3:57 |
-| 28 | [What Is Love \- Radio Edit](https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Reloaded\)](https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M) | 2:56 |
+| 28 | [What Is Love \- Reloaded \(Radio Edit\)](https://open.spotify.com/track/5GvueiOy3uZz3dMeWVOAbM) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(>Reloaded<\)](https://open.spotify.com/album/1GarpNkRapfuTx8nGtJJeS) | 2:56 |
 | 29 | [Foreign Things](https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:00 |
 | 30 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 |
 | 31 | [Wake Up](https://open.spotify.com/track/7ybwAM91ZmuoIeLXOC6mIq) | [Fake Shark](https://open.spotify.com/artist/08towIgJNrFi0yAuyVXFBF), [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Walking Through A Fantasy](https://open.spotify.com/album/74NTQZ8H33Xs2WmcFrCz6v) | 2:51 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series, Vol\. 8](https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCwzMDY5MDAyMTBhNzBkYmEwY2MyMzdiYzE4ODg3YTgyZDVhMWM4ODIy`
+Snapshot ID: `MCxlYjFjMWUwYTRlYjg4ZTUyYjA4YWQ0M2QxZWRkYTNkMzMyMTlkM2Vk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: EFÉ\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,290 likes - 109 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,359 likes - 109 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 108 | [Codependent](https://open.spotify.com/track/255AgStE40ZiRWqGSUfELM) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71) | [Codependent](https://open.spotify.com/album/5D5gwVL3WVs7mUAJj8xzaq) | 3:03 |
 | 109 | [Ryman](https://open.spotify.com/track/6h1vlJFFNJ6hodC5kWq3Ki) | [Jack Hartman](https://open.spotify.com/artist/1ExL1FiD1BQjtaMK0LFA1l) | [Ryman](https://open.spotify.com/album/0M7bi0aVRlpQN8BmhWbYSm) | 4:24 |
 
-Snapshot ID: `MCxiZmU1M2M5NmU0ZDFkYzJhMzMwMWM5ZTQzNjNjYWI0ZDAwYTFjYjhk`
+Snapshot ID: `MCxjNGY1OWFjMGU5NDkwODYxNzdkNDMxMTlkYjhlOWI3YTIzZTI1MTVk`

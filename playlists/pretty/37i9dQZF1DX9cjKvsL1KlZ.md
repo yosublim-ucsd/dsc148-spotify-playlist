@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,692 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,702 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 19 | [Wetty](https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 3:55 |
 | 20 | [LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:40 |
 | 21 | [Hate It Or Luv It](https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:32 |
-| 22 | [Let It Go \(feat\. Capella Grey\)](https://open.spotify.com/track/2qBK9DOAR0bibcmjrt30Lu) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Let It Go \(feat\. Capella Grey\)](https://open.spotify.com/album/0rKWedeYHXhufKpEBG8Jru) | 2:31 |
+| 22 | [Let It Go \(feat\. Capella Grey\)](https://open.spotify.com/track/2qBK9DOAR0bibcmjrt30Lu) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Let It Go \(feat\. Capella Grey\)](https://open.spotify.com/album/0rKWedeYHXhufKpEBG8Jru) | 2:29 |
 | 23 | [Phoenix](https://open.spotify.com/track/77v9kYcrCZV615E0P9WMrD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:53 |
 | 24 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 |
 | 25 | [SEQUEL](https://open.spotify.com/track/6JYG6jng0B1kBVHxqNb6oM) | [Thoto](https://open.spotify.com/artist/0BAllLAmEMkTRZdFZoE8bW) | [BEFORE THE STXRM](https://open.spotify.com/album/5Fuq0r19agtOD7s5RfDRia) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 |
 | 50 | [Flows](https://open.spotify.com/track/7k4fn2FDvkXyEpZeXHYYWV) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 2:33 |
 
-Snapshot ID: `MCxjMmQwNjZjYjBjMDliMWY3ODQxOGVlMGIwY2U3ZmFkMGZmNDljNTEw`
+Snapshot ID: `MCwxZjQzZTE5MTQ3YTA5YWY0YjMwMjA3YWQzYzkzZmFiMDBmOGEwYzk3`

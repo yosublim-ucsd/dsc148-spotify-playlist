@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 158869,
+  "num_followers": 158947,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk",
+  "snapshot_id": "MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
-      },
-      "artists": [
-        {
-          "name": "Michael Coltham",
-          "url": "https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd"
-        }
-      ],
-      "duration_ms": 228257,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Motifs in F# Major (Reimagined)",
         "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 331287,
       "name": "Motifs in F# Major - Reimagined",
       "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu"
+      },
+      "artists": [
+        {
+          "name": "Michael Coltham",
+          "url": "https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd"
+        }
+      ],
+      "duration_ms": 228257,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Creation",
-        "url": "https://open.spotify.com/album/6lwaCnwFQCN4hEbhvwHwQy"
-      },
-      "artists": [
-        {
-          "name": "Aija Alsina",
-          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "To the Moon and Back",
-      "url": "https://open.spotify.com/track/7ARA87vwUu66EfF5rfFsHZ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Heavy Moon",
         "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 277138,
       "name": "In a Field of Silence",
       "url": "https://open.spotify.com/track/0LNvUKT6sskN56036poQCY"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Creation",
+        "url": "https://open.spotify.com/album/6lwaCnwFQCN4hEbhvwHwQy"
+      },
+      "artists": [
+        {
+          "name": "Aija Alsina",
+          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "To the Moon and Back",
+      "url": "https://open.spotify.com/track/7ARA87vwUu66EfF5rfFsHZ"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Altair",
-        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 132755,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -611,8 +611,8 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -683,38 +683,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "The Last Gate",
         "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
@@ -735,6 +703,38 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
       },
@@ -751,8 +751,8 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
-      },
-      "artists": [
-        {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211999,
       "name": "Fade Far Away",
       "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
+      },
+      "artists": [
+        {
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh"
-      },
-      "artists": [
-        {
-          "name": "JustJosh",
-          "url": "https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Gravegarden",
-      "url": "https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "The Sky Cracked",
         "url": "https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "George Wilson",
+          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+        }
+      ],
+      "duration_ms": 174894,
+      "name": "Biding Time",
+      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "First Time Of Heaven (Piano and Strings)",
         "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
       "artists": [
         {
-          "name": "George Wilson",
-          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
         }
       ],
-      "duration_ms": 174894,
-      "name": "Biding Time",
-      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
+      "duration_ms": 163124,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -1011,22 +1011,6 @@
       "duration_ms": 100875,
       "name": "Things of the World - Piano and Strings",
       "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
-      },
-      "artists": [
-        {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -1083,6 +1067,22 @@
       "duration_ms": 284506,
       "name": "Musica Desolata",
       "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0XkkbHrfzKH5CwrGoK7cEa"
+      },
+      "artists": [
+        {
+          "name": "JustJosh",
+          "url": "https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Gravegarden",
+      "url": "https://open.spotify.com/track/1tvcVyI7ltFhP3LEK2ThKa"
     }
   ],
   "unique_name": "Instrumental Reading",

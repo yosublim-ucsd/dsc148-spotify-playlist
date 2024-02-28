@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Devochka
 
-183 songs - 10 hr 23 min
+184 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 | 2023-10-14 |
 | [Still Alone \- Radio Mix](https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Still Alone](https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86) | 3:16 | 2023-09-01 | 2024-02-24 |
 | [Stop To Go](https://open.spotify.com/track/7b2011arGKExd2BfuvqH4Y) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Stop To Go](https://open.spotify.com/album/0QE6YuZYJJuBRestVr35Bn) | 2:42 | 2024-01-19 |  |
-| [Summer Of Love \- Rework](https://open.spotify.com/track/2uSKAaJBX45hqJCZFCmqXd) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love \(Rework\)](https://open.spotify.com/album/6FNS0SPLrODLqFWJM2avIs) | 3:12 | 2024-02-16 |  |
+| [Summer Of Love \- Rework](https://open.spotify.com/track/2uSKAaJBX45hqJCZFCmqXd) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love \(Rework\)](https://open.spotify.com/album/6FNS0SPLrODLqFWJM2avIs) | 3:12 | 2024-02-16 | 2024-02-28 |
+| [Summer Of Love \- Rework](https://open.spotify.com/track/4g0rY8RkJ2T7lXZ4eDqDhk) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee), [Victor Ventura \(BR\)](https://open.spotify.com/artist/70rSwlvhz2ySxocJfG61BU) | [Summer Of Love](https://open.spotify.com/album/5xW3uXf60HhnVho8sdJube) | 3:12 | 2024-02-23 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 | 2023-09-16 |
 | [SUPRA](https://open.spotify.com/track/0scxHDtdgt3k0mQkQW86lE) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Supra](https://open.spotify.com/album/28ERZnx6OhIDz3YZT2dGHF) | 2:43 | 2023-10-20 |  |
 | [Só Vem](https://open.spotify.com/track/64YGPLcahYphHK9rvjFRUq) | [R3ckzet](https://open.spotify.com/artist/4Y5Bxlvf5SQO3xtfbt5vrS), [Grace Grey](https://open.spotify.com/artist/4dKpgzFHqM2zSCW6COFAx2) | [Só Vem](https://open.spotify.com/album/4iH0TS0TCDOqsf3RL6BzlB) | 3:02 | 2023-11-10 | 2023-12-05 |

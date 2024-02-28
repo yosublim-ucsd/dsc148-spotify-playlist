@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,012 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,058 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 71 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 |
 | 72 | [When The Party's Over](https://open.spotify.com/track/5q5dBBOHMnVnWaaRBdqBJE) | [Layla and Jonah](https://open.spotify.com/artist/0JECA8NZVFC9ELpMS17ogu) | [When The Party's Over](https://open.spotify.com/album/6HaZAiujA3nQFel38yZfQV) | 3:19 |
 | 73 | [With or Without You](https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [With or Without You](https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0) | 2:46 |
-| 74 | [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/0mvjBc6RdiCT1ME14CbECz) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 |
+| 74 | [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 |
 | 75 | [I'll Be Here In The Morning](https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [I'll Be Here In The Morning](https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11) | 3:07 |
 | 76 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Castle on the Hill](https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE) | 4:03 |
 | 77 | [Set Fire To The Rain](https://open.spotify.com/track/352UHNRKcQBaGKReDvtyM4) | [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Set Fire To The Rain](https://open.spotify.com/album/3sDhleu0YVFM5svz2JuwJi) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 99 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 |
 | 100 | [Royals](https://open.spotify.com/track/1KsRM8VMvRmuCG4WJwmrHj) | [Chloe Kay](https://open.spotify.com/artist/51GieYvdLrSrV9hNNtjRv7) | [Royals](https://open.spotify.com/album/77A1W1oCFKNlAugpDQHhEY) | 3:22 |
 
-Snapshot ID: `MCxhM2E4NTg5NTkyY2RkNGNiZDkwMTk0M2FkNjZjOWJiZTExYWJiYjFk`
+Snapshot ID: `MCxkYWFhMjY3NjlkZTg4MWM5MWRkZTliMjEzNTcwZDlmZDc5MTc1OGQ1`

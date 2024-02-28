@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Mohamed Ramadan, Future & Massari
+> Global crossovers by/with Arab artists\. Cover: MC Abdul & Saint Levant
 
-324 songs - 18 hr 1 min
+325 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 | 2022-11-20 |
 | [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 | 2022-09-23 |
 | [deeper me](https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/5FyVNEJKiwCNiw9xuFIQWC) | 3:15 | 2021-12-16 | 2022-07-29 |
+| [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-02-27 |  |
 | [Dirt Bag](https://open.spotify.com/track/1dy0gIKOgX4iOsW30qodhq) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [Dirt Bag](https://open.spotify.com/album/563WPjzM0AeyozwhFvSo6l) | 2:12 | 2023-03-14 | 2023-04-09 |
 | [DISCO COWBOY](https://open.spotify.com/track/4ShbZVBX250TtUHH4PN88P) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [DISCO COWBOY](https://open.spotify.com/album/45P82N0aw6NUaDH8OyCPUm) | 2:39 | 2023-07-31 |  |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-02 | 2023-08-01 |
@@ -207,7 +208,7 @@
 | [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 | 2022-07-18 | 2022-12-08 |
 | [Nouar](https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG) | [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nouar](https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR) | 6:19 | 2022-06-06 | 2022-06-24 |
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 | 2022-04-08 |
-| [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 | 2023-01-20 |  |
+| [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 | 2023-01-20 | 2024-02-28 |
 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 | 2023-03-14 |  |
 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 | 2023-05-07 |  |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-07-08 | 2022-12-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kasi, antonius
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,861 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,977 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 | 75 | [Wie ich es sag](https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu) | [Jante](https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX), [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Wie ich es sag](https://open.spotify.com/album/0kroYRJo2kAGSrilmVkTJ9) | 3:03 |
 
-Snapshot ID: `MCwzMTZmNjZmNDhjOGExMTkyZDZlY2RjNTE1YzhjNTJlMGM4YmJiMmM2`
+Snapshot ID: `MCw1NDVkZmFkY2Q0Y2YxNjAzN2QxOTUxZWIxNGZmNGFiMTBkZDQ0MGRk`

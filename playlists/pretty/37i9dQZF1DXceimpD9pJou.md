@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a> y <a href="spotify:artist:0oaW8w858ZIyAnhDIskEqw">Barajas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,460 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,515 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 13 | [Bendeciré, Salmos 34 \- Live](https://open.spotify.com/track/5seE5MYuZEZq8qwStoclvW) | [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP), [Isabelle Valdez](https://open.spotify.com/artist/1AXLZuiv50MewRdMDHmqdB) | [Bendeciré, Salmos 34 \(Live\)](https://open.spotify.com/album/4GSKvSnpdoMSuUubigHnBv) | 6:24 |
 | 14 | [Tu Presencia me Llamó \- Me Atraiu \- Versão Espanhol](https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu Presencia me Llamó \(Me Atraiu \- Versão Espanhol\)](https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX) | 8:20 |
 | 15 | [Vuelvo](https://open.spotify.com/track/4P3NFHrXvzu4salSAFVLRH) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Vuelvo](https://open.spotify.com/album/4AGtEf0IwFBUy7smKrcrFV) | 4:04 |
-| 16 | [Fiel \- acústico](https://open.spotify.com/track/7u7Q386Vqlm9njO8juFuZv) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Fiel \(acústico\)](https://open.spotify.com/album/7J6iYlRrhQeG4NawBxc1U8) | 5:10 |
+| 16 | [Fiel \- Acústico](https://open.spotify.com/track/7u7Q386Vqlm9njO8juFuZv) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Fiel \(Acústico\)](https://open.spotify.com/album/7J6iYlRrhQeG4NawBxc1U8) | 5:10 |
 | 17 | [Socorro](https://open.spotify.com/track/5p19gvobI9ycOAGpTOvvfe) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Louie Abrego](https://open.spotify.com/artist/7JziUvazVZhoqI0PmAcyHj), [ruli](https://open.spotify.com/artist/58zw29VNKRuVKHRPmy5c2o) | [Socorro](https://open.spotify.com/album/6xzEw84DunQlcv1hlSyUbE) | 4:12 |
 | 18 | [Menos De Mi, Más de Ti \- Live](https://open.spotify.com/track/7B8GozXNXaF2b0M76n4UOt) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Altar \(Live\)](https://open.spotify.com/album/2AnjZ9QfGSYmjhD6caFKMk) | 15:12 |
 | 19 | [Gratitud \(Gratitude\)](https://open.spotify.com/track/76ezjBwHQnwiqYdN4YQB8H) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Gratitud \(Gratitude\)](https://open.spotify.com/album/1TGukNWY23vTxOY9XJfDR8) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Fiel](https://open.spotify.com/track/4fEg8Xc1eDR0p4wRjZs6r4) | [Juan Carlos Rosa](https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO), [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Fiel](https://open.spotify.com/album/0lZLINWF9DbplVpvkW23Gj) | 5:46 |
 | 100 | [Permanecer](https://open.spotify.com/track/3HojFX8N0oTUjOCCrXBGnx) | [FC Music](https://open.spotify.com/artist/60bQ6WSUb51AY6uCIBdG7m) | [Permanecer](https://open.spotify.com/album/39WxL5m5yumx21H4f3Hd2r) | 5:19 |
 
-Snapshot ID: `MCxjMTJhMTRiZDM0NTJkM2RjNGI2NTlkMzc5ZTAyNzJlOGNhNmYwODYz`
+Snapshot ID: `MCwxZDRjYzljMzg5ODQ0ODA5OTUzYTUxZDA0NzFlM2I4NDE2NWU4MGFh`

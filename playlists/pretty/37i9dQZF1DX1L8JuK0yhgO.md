@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,474 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,478 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 42 | [Karma](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Karma](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 |
 | 43 | [KISSES MAKE SURE \(feat\. Young Thug & James Blake\)](https://open.spotify.com/track/564dSXBoUcjTSpYAcoXdlc) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [KISSES MAKE SURE \(feat\. Young Thug & James Blake\)](https://open.spotify.com/album/2FFGg4JKNXlgddsqNIg08V) | 3:27 |
 | 44 | [Trap Talk](https://open.spotify.com/track/4D6ouoAWdowHMBWkRF1yZR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [3=1](https://open.spotify.com/album/0nF6rbMx9dusiQQT6zDqQ8) | 2:33 |
-| 45 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
+| 45 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 | 46 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 |
 | 47 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
 | 48 | [Nigga Dreams](https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Nigga Dreams](https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [OH! CHA!](https://open.spotify.com/track/0Jl87W7AqW60DtX8xPZ3fL) | [ONI](https://open.spotify.com/artist/63N0WXr9phz5b8nwzD5n8j), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [IKIMONO](https://open.spotify.com/album/3sVFy2v0oezJ2PTuBK08Ve) | 6:40 |
 | 70 | [Itokuri Bushi](https://open.spotify.com/track/0GL8KBzsBlyjanaVpRrkDx) | [Suzumeno Tears](https://open.spotify.com/artist/1VzswD0GeWdVVwss4GPizQ), [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [Itokuri Bushi](https://open.spotify.com/album/22cFxmJSS8VR0wHu6xVorW) | 4:53 |
 
-Snapshot ID: `MCxjMDQ0ZDBhYWMxNGYxN2UwYTQ4MWQ1YzdjZTczMDVhNDg1NDM5Y2I3`
+Snapshot ID: `MCw0MmZlYmFkNjYzZDYyNDFkYjQwODg1NWRjNjM1ZTU0ZDVhOGNhN2Nk`

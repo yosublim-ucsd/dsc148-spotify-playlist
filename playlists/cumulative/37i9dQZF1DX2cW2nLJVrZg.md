@@ -4,7 +4,7 @@
 
 > Nominees — and past winners — from the 96th annual event celebrating Hollywood's brightest stars.
 
-116 songs - 6 hr 39 min
+117 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 | 2023-01-27 |  |
 | [Man Or Muppet](https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB) | [Jason Segel](https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6), [Walter](https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 2:57 | 2023-01-27 |  |
 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 | 2023-02-01 |  |
-| [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 | 2023-02-01 |  |
+| [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 | 2023-02-01 | 2024-02-28 |
+| [Moon River \- Remastered](https://open.spotify.com/track/0gljCof9FFOHKvxznqNR23) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Breakfast at Tiffany's](https://open.spotify.com/album/4nuBqxUv9Ln9ySkHEUBca5) | 2:41 | 2024-01-23 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2023-01-27 |  |
 | [My Octopus Teacher End Credits](https://open.spotify.com/track/7o7CCSoey85v5TOEqaHq6O) | [Kevin Smuts](https://open.spotify.com/artist/28o69UYRCUkfpTQ9osvV09), [Matthew Dennis](https://open.spotify.com/artist/4N313ATuzhiUWq8iJdVNQf) | [My Octopus Teacher \(Music from the Netflix Documentary\)](https://open.spotify.com/album/4VgpunftblRtRqyaRZKFRu) | 1:47 | 2021-03-25 | 2022-03-30 |
 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 | 2024-01-23 |  |

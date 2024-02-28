@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 165634,
+  "num_followers": 165729,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNlMDViMmM3YzRhZjYzMTMzNjIyMTYyM2ZmZWE5MjcxNmMzYmQ5",
+  "snapshot_id": "MCw2MDMwM2IxNWIwYTVjMjVkYTIxOGFiNzQ0ZjdjNThmODNlMDQwOGE4",
   "tracks": [
     {
       "added_at": "2023-11-24 12:22:37",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "NO BONNIE N CLYDE",
+        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "duration_ms": 133400,
+      "name": "NO BONNIE N CLYDE",
+      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Right Hand",
         "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 165067,
       "name": "Right Hand",
       "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "NO BONNIE N CLYDE",
-        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
-      },
-      "artists": [
-        {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
-        }
-      ],
-      "duration_ms": 133400,
-      "name": "NO BONNIE N CLYDE",
-      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -1063,26 +1063,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Celine",
-        "url": "https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc"
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
       },
       "artists": [
         {
-          "name": "Youngn Lipz",
-          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
         },
         {
-          "name": "Ay Huncho",
-          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
-        },
-        {
-          "name": "wewantwraiths",
-          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG"
+      "duration_ms": 188440,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq"
     }
   ],
   "unique_name": "Free Form",

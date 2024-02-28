@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-510 songs - 21 hr 47 min
+510 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Faded](https://open.spotify.com/track/7mk77mMKhCbwv2NxIV8Q6y) | [rainAIR](https://open.spotify.com/artist/2AYZpdaAvwEl97yr05nKKZ), [Funky Fers](https://open.spotify.com/artist/2sjG1w0qgpJW1sr0IP5nuw) | [Faded](https://open.spotify.com/album/6ZOMzTUJ1zQslTQQA3Q3Xw) | 2:08 | 2024-01-18 |  |
 | [Fake Friends](https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Fake Friends](https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G) | 2:12 | 2024-01-12 |  |
 | [Fake Massacre](https://open.spotify.com/track/10zegmtztIFo8AWDH4IrST) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti) | [Fake Massacre](https://open.spotify.com/album/2snJdMjBDXzJWYunQ54L3F) | 2:15 | 2024-01-13 | 2024-02-15 |
-| [FALL DREAM](https://open.spotify.com/track/4koI6waW7ZxX7A736yvTtO) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [FALL DREAM](https://open.spotify.com/album/2LkzUVYOzGrcTh5g6llQvT) | 3:14 | 2024-02-02 |  |
+| [FALL DREAM](https://open.spotify.com/track/4koI6waW7ZxX7A736yvTtO) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [FALL DREAM](https://open.spotify.com/album/2LkzUVYOzGrcTh5g6llQvT) | 2:34 | 2024-02-02 |  |
 | [FAMOUS](https://open.spotify.com/track/5yiVXtN9hvGKKxswqWChrU) | [FOURPL4Y](https://open.spotify.com/artist/6a13Zn6lBZKeY3plcfwY0t), [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [FAMOUS](https://open.spotify.com/album/1EXsH5cPQj9hx4PbzlcxJC) | 3:24 | 2023-08-05 | 2023-09-01 |
 | [Far Down](https://open.spotify.com/track/1V3pE4gh4dA3h0KmijMXBD) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W) | [Popstar Degenerate](https://open.spotify.com/album/6WajZMT4XGmHhZ3nfDUFnG) | 2:42 | 2023-08-09 | 2023-09-26 |
 | [fast life](https://open.spotify.com/track/1Nvwf85oHWAtYztjqy573y) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [fast life](https://open.spotify.com/album/0G8riNvPKOtCMzjMyLZDvr) | 2:27 | 2023-06-12 | 2023-06-19 |

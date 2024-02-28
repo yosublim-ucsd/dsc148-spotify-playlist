@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SZA
 
-5,040 songs - 11 day 0 hr 34 min
+5,041 songs - 11 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3831,7 +3831,8 @@
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-06-30 | 2023-07-07 |
 | [Siren Song](https://open.spotify.com/track/3n28nQBrGVv3GJhNaI4H0c) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B), [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV) | [Siren Song](https://open.spotify.com/album/76RDEhhVqyKCewrfTgGunN) | 3:32 | 2023-06-29 | 2023-07-07 |
 | [Sirens](https://open.spotify.com/track/7q8SkgoaiLteTuzjblIvrQ) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Sirens](https://open.spotify.com/album/3AJLYY6SareaAq6U3APB5r) | 2:54 | 2023-08-31 | 2023-09-08 |
-| [Sit And Talk](https://open.spotify.com/track/4MiXy6WTjFnMuatZjLhSm0) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [Sit And Talk](https://open.spotify.com/album/0EccNYn46Ldk9db1S9jaSF) | 3:12 | 2024-02-22 |  |
+| [Sit And Talk](https://open.spotify.com/track/3FWrSdIIIQzOoZcTQw0FYD) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [Sit And Talk](https://open.spotify.com/album/2yEa5nX0Zk1gR06CMFo9gW) | 3:12 | 2024-02-22 |  |
+| [Sit And Talk](https://open.spotify.com/track/4MiXy6WTjFnMuatZjLhSm0) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [Sit And Talk](https://open.spotify.com/album/0EccNYn46Ldk9db1S9jaSF) | 3:12 | 2024-02-22 | 2024-02-28 |
 | [Sit Down](https://open.spotify.com/track/3ctYEPEXxRaloC9MXbPHxK) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Sit Down](https://open.spotify.com/album/1uF4k4V0tcqaYkbj4qQZdm) | 4:24 | 2023-09-07 | 2023-09-15 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-06-09 |
 | [Situatie](https://open.spotify.com/track/4RPDjZRczGVuBqdabZSQQT) | [FARAO](https://open.spotify.com/artist/5Ckvy2QqS5gUPOiPzCaXSm) | [Situatie](https://open.spotify.com/album/2S7A8fdg8qBHYt6RfNpcdE) | 2:08 | 2023-07-06 | 2023-07-14 |

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-81 songs - 5 hr 22 min
+82 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Hanggang Sa Buwan](https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Hanggang Sa Buwan](https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48) | 3:54 | 2023-11-10 | 2023-11-21 |
 | [HBD](https://open.spotify.com/track/5sH9HLm2WfjOHLIMFRZWGm) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [HBD](https://open.spotify.com/album/3XVq8uwst8BgCMnhP8T4bX) | 4:17 | 2024-01-10 | 2024-02-08 |
 | [Honest](https://open.spotify.com/track/1xvS3JpqLqXHBo6tiT97sD) | [Lucas Miguel](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA) | [Honest](https://open.spotify.com/album/3mvmNHu0M4BSljfZu4WALd) | 3:10 | 2023-10-25 | 2023-11-11 |
+| [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-02-27 |  |
 | [Hoy!](https://open.spotify.com/track/7kTlnlBIKQvt2dQD1f58kE) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 4:21 | 2024-01-10 | 2024-02-08 |
-| [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-02-20 |  |
+| [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-02-20 | 2024-02-28 |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-10 | 2024-02-08 |
 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 | 2023-10-18 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2023-10-18 |  |

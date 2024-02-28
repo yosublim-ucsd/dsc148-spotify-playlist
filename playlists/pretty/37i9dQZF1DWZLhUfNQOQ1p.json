@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246819,
+  "num_followers": 246821,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODNhOGQyOTU5NTJhNmYxOTVjZWRjMjY5MGE5ZTM4MTNmYTE2MWQx",
+  "snapshot_id": "MCxmNzc5YzllZjNkNzZkY2M2ODliNTYyMmUwNjUyNDJjNzM2NDE0MjY3",
   "tracks": [
     {
       "added_at": "2024-01-31 11:02:45",
@@ -743,22 +743,18 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 345310,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -779,18 +775,22 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 344546,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Since I Left You (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 262840,
       "name": "Since I Left You",
       "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "Horchata",
-        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
-      },
-      "artists": [
-        {
-          "name": "Olivier Verhaeghe",
-          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
-        }
-      ],
-      "duration_ms": 322014,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Supply The Love",
         "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 155821,
       "name": "Supply The Love",
       "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "Horchata",
+        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
+      },
+      "artists": [
+        {
+          "name": "Olivier Verhaeghe",
+          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
+        }
+      ],
+      "duration_ms": 322014,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
     },
     {
       "added_at": "2024-01-31 11:02:45",

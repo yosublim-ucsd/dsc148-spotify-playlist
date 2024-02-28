@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 139927,
+  "num_followers": 139937,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzhlODNkMzljMTg2OTNiZDc5ODk2Nzg4NDVmMzI1NzFkNWFkMjBj",
+  "snapshot_id": "MCw3NjMxNWU4MmUzMmVjNDg3MDQ2ZWZhMDViOGVmZGNjZjA1OTlmYTNj",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 307062,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Fugue State",
-        "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 199639,
-      "name": "1612",
-      "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 309018,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Fugue State",
+        "url": "https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 199639,
+      "name": "1612",
+      "url": "https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 250866,
       "name": "Baby, This Love I Have",
       "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "George McCrae - Disco Pioneer",
-        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Bettye Swann",
         "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 226240,
       "name": "Then You Can Tell Me Goodbye",
       "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Soul Messin'",
         "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 224000,
       "name": "This Girl",
       "url": "https://open.spotify.com/track/5TJD3o52h1wMDoU0cYGwTv"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Take Me To The Alley",
         "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
       },
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
         "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
       },
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Is It Because I'm Black",
-        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Concrete Reservation",
-      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Hey, Love",
         "url": "https://open.spotify.com/album/3XW1kRGE11W8COttJYbCk9"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 344560,
       "name": "I Am The Black Gold Of The Sun - Remastered",
       "url": "https://open.spotify.com/track/520qcJGrYM0HORZ5LsYg2K"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Is It Because I'm Black",
+        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Concrete Reservation",
+      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 138426,
       "name": "100 Yard Dash",
       "url": "https://open.spotify.com/track/2OPANrnimcwWcVQuDk8ibD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "I'm Back! Family & Friends",
-        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
-      },
-      "artists": [
-        {
-          "name": "Sly Stone",
-          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 148240,
       "name": "Let's Take a Walk",
       "url": "https://open.spotify.com/track/7izNjJmJNskhSEFGMUacfl"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "I'm Back! Family & Friends",
+        "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
+      },
+      "artists": [
+        {
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2983,22 +2983,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Part Time Love",
-        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev"
       },
@@ -3011,6 +2995,22 @@
       "duration_ms": 251013,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Part Time Love",
+        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3139,6 +3139,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270325,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Best Of Michael Franks: A Backward Glance",
         "url": "https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg"
       },
@@ -3171,18 +3187,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/1aLiavRsS14I7FDHVTvE40"
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
         }
       ],
-      "duration_ms": 270325,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
+      "duration_ms": 168229,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3215,22 +3231,6 @@
       "duration_ms": 278855,
       "name": "Come To My Door - Acoustic Version",
       "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168229,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3307,18 +3307,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
       "artists": [
         {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     }
   ],
   "unique_name": "Soulful Dinner",

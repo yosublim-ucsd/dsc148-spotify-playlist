@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Kota The Friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,366 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,459 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Know It's Real](https://open.spotify.com/track/5pdicIOZXnQfHJBb62dCR2) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Know It's Real](https://open.spotify.com/album/0t7HLKbhaqd7VwhmWGLaEV) | 3:24 |
 | 100 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
 
-Snapshot ID: `MCw5ZjZjYTg3ZWE1MzQzOWE0Y2M1ZGIyZTVhNDc4YmFkMDUxNzg0NGQw`
+Snapshot ID: `MCw0ODFhMGVkODQyMzI4ZWNlYjdhNjg4YTRjNzg3NzI4NjBhYTU3NDgx`

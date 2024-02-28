@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 84082,
+  "num_followers": 84100,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzI4NDI4MDYyYzNmZTJhYzM1ZTc1MmZhZGEwYTk2OTkyOGYyODVj",
+  "snapshot_id": "MCxlMGViMDg3OGJmNmI3NTYzZTgyYjY4MzBkNjY2YjA0YzdkYjlkYzMz",
   "tracks": [
     {
       "added_at": "2024-01-25 20:25:36",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 188890,
-      "name": "Supersticiones",
-      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Los A\u00f1os Futuros",
         "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 187824,
       "name": "Extranjero",
       "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 188890,
+      "name": "Supersticiones",
+      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Lo que fuera",
-        "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 177019,
-      "name": "Lo que fuera",
-      "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Lo que fuera",
+        "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 177019,
+      "name": "Lo que fuera",
+      "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 165675,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Si T\u00fa Me Quisieras",
         "url": "https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 165675,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/7KKd6mLczxaz1Jjnu6ZLBh"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 208430,
+      "name": "Cuando Quieras Llegar",
+      "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "Algo Tiene Que Cambiar",
         "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 206738,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 208430,
-      "name": "Cuando Quieras Llegar",
-      "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "La isla del sol",
+        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "La isla del sol",
+      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 212229,
       "name": "KIL\u00d3METROS",
       "url": "https://open.spotify.com/track/7bxKcnzYjeuuMxw3LWnQoM"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "La isla del sol",
-        "url": "https://open.spotify.com/album/4uYpWUBe8DcmOsDhdwPIfr"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "La isla del sol",
-      "url": "https://open.spotify.com/track/0HBn23L8dzvkSnyeLhlsCD"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 186625,
       "name": "yen3",
       "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 153139,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "Todo el Universo",
         "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 183296,
       "name": "Todo el Universo",
       "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "El Mundo Siempre Estuvo Dividido en Dos",
         "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-01-25 20:25:36",

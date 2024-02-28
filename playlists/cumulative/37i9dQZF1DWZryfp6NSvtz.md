@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Jazmin Bean
 
-5,473 songs - 12 day 22 hr 34 min
+5,474 songs - 12 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,8 @@
 | [BARFIGHT!](https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Colours \(Deluxe\)](https://open.spotify.com/album/598Wjk55GXjRkPcGYyMDJR) | 3:06 | 2022-11-25 | 2022-12-03 |
 | [Barmy](https://open.spotify.com/track/6wEyjBNV1ciarcY04KUZb2) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Barmy](https://open.spotify.com/album/0aPnbWMlmVbgKG1uWK234P) | 3:27 | 2022-12-09 | 2022-12-17 |
 | [BARRIERS](https://open.spotify.com/track/1zfXuR7k7Hb21KHjQaa4Rt) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [BARRIERS](https://open.spotify.com/album/7HWhC48CMwYtvPn7RjC3ns) | 3:24 | 2022-03-03 | 2022-03-11 |
-| [Base Camp](https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW) | 3:25 | 2024-02-23 |  |
+| [Base Camp](https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf) | 3:25 | 2024-02-23 |  |
+| [Base Camp](https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Base Camp](https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW) | 3:25 | 2024-02-23 | 2024-02-28 |
 | [Basement](https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Basement](https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz) | 3:24 | 2023-11-17 | 2023-11-25 |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-04-08 |
 | [Bash Out](https://open.spotify.com/track/1eEi76zQSIuNYTw2Zc62ZO) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Bash Out](https://open.spotify.com/album/1PpJI2AhT8IXSOmI98YF4d) | 3:00 | 2022-04-22 | 2022-04-29 |

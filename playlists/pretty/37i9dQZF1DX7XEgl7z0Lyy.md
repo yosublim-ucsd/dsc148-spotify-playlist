@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,362 likes - 93 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,772 likes - 93 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 19 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 20 | [Hands up!](https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Sassy Scene](https://open.spotify.com/album/5kFLrTEOfgL2rMYMTxRrNC) | 2:15 |
 | 21 | [HYPNOTIC DATA 2.0](https://open.spotify.com/track/2s6buObPT1xq2YezWxGupD) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [HYPNOTIC DATA 2.0](https://open.spotify.com/album/0FcmlZCpJVAYjPvngD36mN) | 3:09 |
-| 22 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/55n5kEar6hN5QOv1xbb8f7) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:10 |
+| 22 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/2otVGlTIMyGhIAyCcwb79v) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [XOXO \(Kisses Hugs\)](https://open.spotify.com/album/4KdsYbYINBVOGBfXOfUUJr) | 2:10 |
 | 23 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 |
 | 24 | [Love Game](https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Love Game](https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO) | 2:05 |
 | 25 | [POSSESSIVE LOVE DISORDER](https://open.spotify.com/track/0D2xaGV4gxw3gKYnjbxrjz) | [ZØMB](https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2), [durpo1x](https://open.spotify.com/artist/7hlFRSHZn33TvcCftHWtw0) | [POSSESSIVE LOVE DISORDER](https://open.spotify.com/album/5yq3vYECtmWY0TMpFVtZle) | 1:55 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 92 | [corpse](https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/6vpoUI1PgvmE4zDIiUfg8L) | 1:52 |
 | 93 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 
-Snapshot ID: `MCw4MjcwNDg1NzM2NGIwMjlmYjVkNTkyNjI1MzhkMzk2MmZiNzFhZjQz`
+Snapshot ID: `MCwwYWRiMmY4ZTNjNWM0MGY1NzRiZDc3MGYyMjY1OGM2YTczMGFjNjk4`

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 124296,
+  "2024-02-28": 124361,
   "date_first_scraped": "2023-08-09",
   "description": "Nuestra alma mater es la calle. El Makabelico en portada",
   "name": "Los Malportados ",
@@ -207,7 +207,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 242823,
       "name": "Boombap",
       "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 186000,
       "name": "Da Capo",
       "url": "https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN"
@@ -1306,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Listos para Accionar",
+        "url": "https://open.spotify.com/album/4IXfyFhK7YAdjkMLT5dvdL"
+      },
+      "artists": [
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199556,
+      "name": "Listos para Accionar",
+      "url": "https://open.spotify.com/track/3IdRC8FCnQeUNrvPTxRL5x"
+    },
+    {
+      "album": {
         "name": "Los Pizzas",
         "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
       },
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 207414,
       "name": "Malandros",
       "url": "https://open.spotify.com/track/2zt2gQGJOCHBijGuvl7HxM"
@@ -1619,6 +1637,32 @@
       "duration_ms": 192222,
       "name": "No la Cuajan",
       "url": "https://open.spotify.com/track/6el7zTw2nFZn7TxW0IRZGQ"
+    },
+    {
+      "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "album": {
@@ -2235,6 +2279,28 @@
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/4v7SilGZjmhCKiBWXMsIax"
+      },
+      "artists": [
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206883,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/3MECaWf2a2va4nG2wRsPkR"
     },
     {
       "album": {

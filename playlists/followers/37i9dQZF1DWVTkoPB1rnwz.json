@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 204422,
+  "2024-02-28": 204439,
   "date_first_scraped": "2022-05-30",
   "description": "Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.",
   "name": "Quiet Hours",
@@ -2065,7 +2065,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 139500,
       "name": "Flyaway",
       "url": "https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm"
@@ -3625,7 +3625,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 158906,
       "name": "Morning Air",
       "url": "https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3"
@@ -3683,6 +3683,24 @@
       "duration_ms": 135269,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
+    },
+    {
+      "album": {
+        "name": "Mudita",
+        "url": "https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K"
+      },
+      "artists": [
+        {
+          "name": "Marko Ivic",
+          "url": "https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377560,
+      "name": "Mudita",
+      "url": "https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI"
     },
     {
       "album": {
@@ -5333,7 +5351,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 215367,
       "name": "Switched-On",
       "url": "https://open.spotify.com/track/4cREs51dQyaV23CO8pCguj"

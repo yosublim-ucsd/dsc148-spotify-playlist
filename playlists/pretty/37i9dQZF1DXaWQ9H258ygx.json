@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 94660,
+  "num_followers": 94737,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTI5MWZhMWFjMTQ1ZTU2ZmQ0NmQ5MjMzYzQ5ZGZkN2I4MWQ3MGFl",
+  "snapshot_id": "MCw5N2U2ZWNlYmU2YzRlMGRkNGJiMTA0NzA0ZWFmYmJhOWJjYTc5ZDBm",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 283816,
+      "name": "Club Paradise",
+      "url": "https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 176682,
       "name": "Wat U Sed (feat. Doechii & Kal Banx)",
       "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 283816,
-      "name": "Club Paradise",
-      "url": "https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w"
     },
     {
       "added_at": "2022-10-03 04:00:00",

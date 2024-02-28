@@ -9514,7 +9514,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 203657,
       "name": "Valve",
       "url": "https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW"
@@ -9868,6 +9868,24 @@
       "duration_ms": 331000,
       "name": "wonder particle",
       "url": "https://open.spotify.com/track/4jRjH2pxVAzOefjjZ57HmF"
+    },
+    {
+      "album": {
+        "name": "0-1",
+        "url": "https://open.spotify.com/album/7hLDJKG0Ry6TAFwIdGVuIj"
+      },
+      "artists": [
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291120,
+      "name": "yorumayoi",
+      "url": "https://open.spotify.com/track/4a4q1cEaV4AqfXtdHKk2jH"
     },
     {
       "album": {

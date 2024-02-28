@@ -1,12 +1,12 @@
 {
-  "description": "Today's Hip-Hop with Kodak Black, French Montana and Quavo.",
-  "num_followers": 819611,
+  "description": "Today's Hip-Hop with Kodak Black, Schoolboy Q and Quavo.",
+  "num_followers": 819693,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmMxODI1ZjU5ZjA1MDQxMDVhODBiYWY3MTZjNjdlMmZlMWJmNmMy",
+  "snapshot_id": "MCwwOTExMmM2N2FjMjVmMDdkOWM5YTBlY2Q1YTBiMmU0OTk3ZDFlODYx",
   "tracks": [
     {
       "added_at": "2024-02-23 17:51:48",
@@ -27,30 +27,6 @@
     {
       "added_at": "2024-02-23 17:51:48",
       "album": {
-        "name": "Mac & Cheese 5",
-        "url": "https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 173861,
-      "name": "Where They At",
-      "url": "https://open.spotify.com/track/6imvV0Qnsvi94rx1AatykZ"
-    },
-    {
-      "added_at": "2024-02-23 17:51:48",
-      "album": {
         "name": "Yeern 101",
         "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
       },
@@ -60,7 +36,7 @@
           "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 146086,
+      "duration_ms": 140005,
       "name": "Yeern 101",
       "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
     },

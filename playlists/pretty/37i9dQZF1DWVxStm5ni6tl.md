@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CUBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,761 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,802 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 69 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 |
 | 70 | [¿QUE NOS PASO?](https://open.spotify.com/track/2dEnC7PXfDYTwvggeDu0Uv) | [Kaii Dreams](https://open.spotify.com/artist/2PyT97wbUZvF6clgcl91cU) | [¿QUE NOS PASO?](https://open.spotify.com/album/1tcn9mNRP41sFkYcnkfgaz) | 3:46 |
 
-Snapshot ID: `MCw4NjhjODQ5YWQwMmQ2NWEyNzMwZGZhYWJlZTA0Mjk0ZTVkMzFjOTg5`
+Snapshot ID: `MCwxZWM3NjA0NWY4MjMyYjkwMWY1NDNmZjUzOTEwMDBjNTllNDgwMzgx`

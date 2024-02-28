@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 19 min
+115 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/6IE0899wRbZrrGX5NUE4Qj) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 2:56 | 2023-01-07 | 2023-04-10 |
 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5) | 2:56 | 2022-09-16 | 2023-05-11 |
 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/5ZJ8eWvSz2cArcKBlxiGrR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:56 | 2023-05-10 | 2023-05-14 |
+| [Indie Sux, Hardline Sux, Emo Sux](https://open.spotify.com/track/0yw1HWykI9UR4aVmtSgtUA) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Their System Doesn't Work for You](https://open.spotify.com/album/05VbAAOp6yZ98uYz8t5QOE) | 2:05 | 2024-02-27 |  |
 | [It Went Off Like A Bomb](https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:23 | 2023-05-18 |  |
 | [It Went Off Like A Bomb](https://open.spotify.com/track/6DQpiHiVdg4oKu9HdvaGEQ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:23 | 2022-09-16 | 2023-05-19 |
 | [Kill the Rich](https://open.spotify.com/track/5JC5yGA0tcayDEWMMUbcYR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:04 | 2022-09-24 | 2022-10-13 |
@@ -68,7 +69,7 @@
 | [Racists](https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 3:20 | 2023-05-17 |  |
 | [Rank\-n\-File](https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:46 | 2022-09-18 | 2023-09-16 |
 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 | 2023-09-15 | 2024-01-22 |
-| [Resist](https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:02 | 2024-02-24 |  |
+| [Resist](https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:02 | 2024-02-24 | 2024-02-28 |
 | [SHALLOW GRAVES \(feat\. Tré Burt\)](https://open.spotify.com/track/3l1jIZoo78aare2oxn8OjI) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:30 | 2023-04-10 | 2023-05-17 |
 | [SHALLOW GRAVES \(feat\. Tré Burt\)](https://open.spotify.com/track/73cjHHahioDVocCvdDcre2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 2:30 | 2023-01-07 | 2023-04-10 |
 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 | 2022-09-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 86378,
+  "num_followers": 86384,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDY4YjZlY2UwZjQyZTcyNWRlNzlmZTIxODMyNDUyNWQ3N2YxYzZk",
+  "snapshot_id": "MCxiODA5YTJiNjA0ODQ5ZmU4ZjIxMWQ2YjBlYmVjZjY3ZDVkMjIyNTJk",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Sallan",
-        "url": "https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh"
-      },
-      "artists": [
-        {
-          "name": "Xir",
-          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
-        }
-      ],
-      "duration_ms": 195439,
-      "name": "Sallan",
-      "url": "https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/0ufgmq1tXqQ5W3wG6oioNl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 200869,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5jf9Zj1ebsD5gerVZzZ0X4"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "Sallan",
+        "url": "https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh"
+      },
+      "artists": [
+        {
+          "name": "Xir",
+          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
+        }
+      ],
+      "duration_ms": 195439,
+      "name": "Sallan",
+      "url": "https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Ta\u015ftan",
-        "url": "https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc"
+        "name": "hat\u0131rla",
+        "url": "https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP"
       },
       "artists": [
         {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        },
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+          "name": "Revart",
+          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
         }
       ],
-      "duration_ms": 176927,
-      "name": "Ta\u015ftan",
-      "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
+      "duration_ms": 156750,
+      "name": "hat\u0131rla",
+      "url": "https://open.spotify.com/track/6Ei4PCSOYNEa0QbDV0eeVr"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "hat\u0131rla",
-        "url": "https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP"
+        "name": "Ta\u015ftan",
+        "url": "https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc"
       },
       "artists": [
         {
-          "name": "Revart",
-          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
         }
       ],
-      "duration_ms": 156750,
-      "name": "hat\u0131rla",
-      "url": "https://open.spotify.com/track/6Ei4PCSOYNEa0QbDV0eeVr"
+      "duration_ms": 176927,
+      "name": "Ta\u015ftan",
+      "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "madem",
+        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
+      },
+      "artists": [
+        {
+          "name": "Revart",
+          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "madem",
+      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "Yast\u0131k \u0130zi",
         "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
       },
@@ -847,26 +863,6 @@
       "duration_ms": 139978,
       "name": "bu gece da\u011f\u0131t\u0131cam..",
       "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "F\u0130LM \u015eER\u0130D\u0130",
-        "url": "https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8"
-      },
-      "artists": [
-        {
-          "name": "Baneva",
-          "url": "https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e"
-        },
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "F\u0130LM \u015eER\u0130D\u0130",
-      "url": "https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch"
     },
     {
       "added_at": "2023-08-31 21:00:00",

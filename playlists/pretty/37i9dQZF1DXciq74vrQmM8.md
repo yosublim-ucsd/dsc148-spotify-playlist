@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,611 likes - 79 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,601 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 33 | [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 |
 | 34 | [the red pill](https://open.spotify.com/track/6vuYeoUv1Rij1Q60OxDcmS) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [the red pill](https://open.spotify.com/album/1joShgUCo9aWZa4pCn3WtM) | 2:43 |
 | 35 | [THEY ALL DIE IN THE END](https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6) | [safesp8ce](https://open.spotify.com/artist/4ag9JIDeFbLg9vwAz6QqxO) | [THEY ALL DIE IN THE END](https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro) | 2:45 |
-| 36 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
+| 36 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
 | 37 | [Go Tobann](https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Go Tobann](https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN) | 2:24 |
 | 38 | [Be With Me](https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Be With Me](https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa) | 2:03 |
 | 39 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 78 | [UNLOVED](https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [UNLOVED](https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ) | 3:16 |
 | 79 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
 
-Snapshot ID: `MCwxNmQ5ODhmNGM2ODE3ZjI3ZDAyN2FiYjg5ODYyMTFkNTY5MDVkZDkz`
+Snapshot ID: `MCwxMzU3M2Q5NjBjOTkwNzlmZWUwZmUwMmNhY2E4NzRiODE1NjE0NTgx`

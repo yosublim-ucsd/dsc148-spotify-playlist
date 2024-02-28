@@ -1,7 +1,7 @@
 {
-  "2024-02-27": 10285,
+  "2024-02-28": 10329,
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=3MaOX4PVTF-3eb731XGmUg\">Sut\u00e9 Iwar</a>",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG?si=_PJ3P15GQ1q4Ta1g-S8tLA\">KCee</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -1117,6 +1117,32 @@
       "duration_ms": 390796,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH"
+    },
+    {
+      "album": {
+        "name": "Ebelebe",
+        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Ebelebe",
+      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
     },
     {
       "album": {

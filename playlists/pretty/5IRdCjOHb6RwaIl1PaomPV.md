@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Merry Lamb Lamb, plus the latest cuts from SURF GANG, Eartheater and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,906 likes - 75 songs - 4 hr 0 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,905 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 16 | [Mona Lisa Moan](https://open.spotify.com/track/5ns5Tb1ze3But3lgceEWzO) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 3:27 |
 | 17 | [1way](https://open.spotify.com/track/3zcG7AVCDFaRZKCGmkbcbx) | [Lerado Khalil](https://open.spotify.com/artist/6jqt9DD53I9n1RAj8SusCJ) | [Dog Days](https://open.spotify.com/album/1eB6a3hIAK3q2SxjG9DHnY) | 2:33 |
 | 18 | [All The Things She Said](https://open.spotify.com/track/564l4sUlNEYBO8vgnJlkqe) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [All The Things She Said](https://open.spotify.com/album/1VCpnblAAQXh0r61cEPLzi) | 3:35 |
-| 19 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
+| 19 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
 | 20 | [MINDMAP](https://open.spotify.com/track/4crzVIHusWSxAi668v9xlI) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [JGSG](https://open.spotify.com/album/7b5kpZxuwy0KxQM7AsvZhd) | 1:12 |
 | 21 | [Tranquility](https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Tranquility](https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL) | 3:29 |
 | 22 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 70993,
+  "2024-02-28": 71073,
   "date_first_scraped": "2022-02-18",
   "description": "Swinging jazz for relaxing and unwinding.",
   "name": "Chill Out Jazz",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 209896,
       "name": "A Gentle Reminder",
       "url": "https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6"
@@ -2389,6 +2389,24 @@
       "duration_ms": 223431,
       "name": "Fortune Favor",
       "url": "https://open.spotify.com/track/4updZ1LUcfCllOSjLTfNGg"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS"
+      },
+      "artists": [
+        {
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE"
     },
     {
       "album": {

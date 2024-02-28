@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Aleksiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,602 likes - 69 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,609 likes - 69 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 68 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
 | 69 | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/track/6xm5pE5LehFMPUaSDdxpDp) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Shape of Me \(feat\. Keith Urban\)](https://open.spotify.com/album/297EN4H5vStS80LqMdG9pV) | 2:48 |
 
-Snapshot ID: `MCwxZGZjOTgwYzFjZmIzYzcyNDlhMTBhMDIxMDQwNzE1YjIxYzMxNzcz`
+Snapshot ID: `MCwyZDgzNTZjMjVhZjdhYjM0OTAyYjQyOGE0NmJkMTFkMTY2YzcyNWM3`

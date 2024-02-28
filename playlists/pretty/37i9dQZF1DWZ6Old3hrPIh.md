@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,962 likes - 58 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,976 likes - 58 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 57 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 58 | [Pardesiya](https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Pardesiya](https://open.spotify.com/album/699uRjiyL8W2TssLjLzT4s) | 8:42 |
 
-Snapshot ID: `MCxhMWRmMWJhMWU1Mjg2YWQ3ZTdlN2I1MTBiOGY5YzUyZDllYWY3OWVi`
+Snapshot ID: `MCwxN2U2NjA3Y2Q5YjQ4YjJiNDI3NTc0MzZhZTNkNmExYzgzY2MwNTc1`

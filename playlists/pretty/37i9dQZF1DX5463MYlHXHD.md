@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,300 likes - 120 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,351 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 102 | [El Mamado del Auto](https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk) | [Los Dragones](https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt) | [Salvaje](https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP) | 3:31 |
 | 103 | [Vicera, las Zapas](https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP) | [Vicera, las Zapas](https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi) | 2:16 |
 | 104 | [Si Me Vez Fumando una Seca por Vos](https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Volverás](https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV) | 2:56 |
-| 105 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
-| 106 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 |
+| 105 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 |
+| 106 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 107 | [Los Dos Fallamos](https://open.spotify.com/track/54cM6oKMmHbhrzTV6Qj0KQ) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Los Dos Fallamos](https://open.spotify.com/album/0oMFwEMTOKAE1RdDh3bKqz) | 2:40 |
 | 108 | [Vos de Bebe](https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Alta Gira](https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy) | 4:07 |
 | 109 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 119 | [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 |
 | 120 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 |
 
-Snapshot ID: `MCxlMGRkNThkY2EwZmZjNzczNDRlYmRiMjlhNDNmMjEyYTNkNDNkNGNk`
+Snapshot ID: `MCw2NTRlYTI0NzRjYWI4NjFiNzM1M2UyNWZmZDIzZmIxOTc3MDU4ZjRm`

@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18576,
+  "num_followers": 18575,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc1ODViMTk3YWE1NGQ2NDdjNDIwYzc4MTA3YjM3NjgzNjZmMTll",
+  "snapshot_id": "MCw5Y2EyZTQ1YmExYThjZDNjNzgyNTZhOTc3NTZmZjQ5MjhkZWEyMTM2",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "New Chapter",
-        "url": "https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU"
-      },
-      "artists": [
-        {
-          "name": "A. Blomqvist",
-          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
-        }
-      ],
-      "duration_ms": 149197,
-      "name": "New Chapter",
-      "url": "https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "In Itself",
         "url": "https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 142706,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "duration_ms": 149197,
+      "name": "New Chapter",
+      "url": "https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Ariosa",
         "url": "https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 177000,
       "name": "Fiorire",
       "url": "https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk"
-      },
-      "artists": [
-        {
-          "name": "Gioia Moreschi",
-          "url": "https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH"
-        }
-      ],
-      "duration_ms": 163804,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Aira",
-        "url": "https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB"
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk"
       },
       "artists": [
         {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+          "name": "Gioia Moreschi",
+          "url": "https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH"
         }
       ],
-      "duration_ms": 186352,
-      "name": "Mar De Ardora",
-      "url": "https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0"
+      "duration_ms": 163804,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Sail",
-        "url": "https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS"
+        "name": "Aira",
+        "url": "https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB"
       },
       "artists": [
         {
-          "name": "Roman Jensen",
-          "url": "https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG"
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
         }
       ],
-      "duration_ms": 128922,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly"
+      "duration_ms": 186352,
+      "name": "Mar De Ardora",
+      "url": "https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Glacier",
-        "url": "https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK"
+        "name": "Sail",
+        "url": "https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS"
       },
       "artists": [
         {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+          "name": "Roman Jensen",
+          "url": "https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG"
         }
       ],
-      "duration_ms": 143500,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
+      "duration_ms": 128922,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -583,6 +567,22 @@
       "duration_ms": 213737,
       "name": "Badzura: Muse d'eau",
       "url": "https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Glacier",
+        "url": "https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Sera\u0301n",
-        "url": "https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 206545,
-      "name": "Sonora",
-      "url": "https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Divisio",
         "url": "https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 136000,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Sera\u0301n",
+        "url": "https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Sonora",
+      "url": "https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Castor / Pollux",
-        "url": "https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t"
-      },
-      "artists": [
-        {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
-        }
-      ],
-      "duration_ms": 142379,
-      "name": "Pollux",
-      "url": "https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Divisio",
         "url": "https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Castor / Pollux",
+        "url": "https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t"
+      },
+      "artists": [
+        {
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+        }
+      ],
+      "duration_ms": 142379,
+      "name": "Pollux",
+      "url": "https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Mind Wide Open",
         "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
-      },
-      "artists": [
-        {
-          "name": "Karen Kasper",
-          "url": "https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Memories In Red",
         "url": "https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 135000,
       "name": "Memories In Red",
       "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t"
+      },
+      "artists": [
+        {
+          "name": "Karen Kasper",
+          "url": "https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Synchronicities",
-        "url": "https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "Synchronicities",
-      "url": "https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "MFWT Vol.1",
         "url": "https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 124655,
       "name": "Time",
       "url": "https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Synchronicities",
+        "url": "https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "Synchronicities",
+      "url": "https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Days Gone By",
-        "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
-      },
-      "artists": [
-        {
-          "name": "Tiny Rhino",
-          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Evergreen Valley",
-      "url": "https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Sentinel",
         "url": "https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Days Gone By",
+        "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rhino",
+          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Evergreen Valley",
+      "url": "https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "All My Words",
         "url": "https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 161750,
       "name": "All My Words",
       "url": "https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Stelle Scure",
-        "url": "https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT"
-      },
-      "artists": [
-        {
-          "name": "Enrico Parente",
-          "url": "https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f"
-        }
-      ],
-      "duration_ms": 137047,
-      "name": "Stelle Scure",
-      "url": "https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Stelle Scure",
+        "url": "https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT"
+      },
+      "artists": [
+        {
+          "name": "Enrico Parente",
+          "url": "https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f"
+        }
+      ],
+      "duration_ms": 137047,
+      "name": "Stelle Scure",
+      "url": "https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Memoir",
         "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Potomac",
-        "url": "https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE"
-      },
-      "artists": [
-        {
-          "name": "Fiona Astier",
-          "url": "https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4"
-        }
-      ],
-      "duration_ms": 130951,
-      "name": "Potomac",
-      "url": "https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 146300,
       "name": "Here",
       "url": "https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Potomac",
+        "url": "https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE"
+      },
+      "artists": [
+        {
+          "name": "Fiona Astier",
+          "url": "https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4"
+        }
+      ],
+      "duration_ms": 130951,
+      "name": "Potomac",
+      "url": "https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "L'habit ne fait pas le moine",
-        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
-      },
-      "artists": [
-        {
-          "name": "Pascal Duval",
-          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
-        }
-      ],
-      "duration_ms": 180124,
-      "name": "L'habit ne fait pas le moine",
-      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "\u00c1rtabra",
         "url": "https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 202147,
       "name": "A\u0301rtabra",
       "url": "https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "L'habit ne fait pas le moine",
+        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
+      },
+      "artists": [
+        {
+          "name": "Pascal Duval",
+          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
+        }
+      ],
+      "duration_ms": 180124,
+      "name": "L'habit ne fait pas le moine",
+      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
-      },
-      "artists": [
-        {
-          "name": "Loris Murray",
-          "url": "https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk"
-        }
-      ],
-      "duration_ms": 135874,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Munich Session",
         "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 242000,
       "name": "Arkata (Munich Session)",
       "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
+      },
+      "artists": [
+        {
+          "name": "Loris Murray",
+          "url": "https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk"
+        }
+      ],
+      "duration_ms": 135874,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
     },
     {
       "added_at": "2023-09-11 13:52:39",

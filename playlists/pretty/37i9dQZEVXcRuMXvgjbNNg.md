@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
 | 30 | [Let It All Go](https://open.spotify.com/track/5MzXUNfn8AAcz4Z6j2KgTK) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Wishes \(Deluxe Version\)](https://open.spotify.com/album/3CV2SCBs7wAUoQbmnjQbwa) | 4:40 |
 
-Snapshot ID: `MCwwMDAwMDAwMGIxMWVjMTZlZGY1NzJlYjE5NzQxYTVjZTU1NzQ4ZDRl`
+Snapshot ID: `MCwwMDAwMDAwMDI4MGMzMWNkNDEzYjZhZWFjMTA4YTBlMzFkNjMzZWI2`

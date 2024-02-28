@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: $OHO BANI, Herbert Grönemeyer
 
-1,698 songs - 3 day 8 hr 22 min
+1,699 songs - 3 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [ESPRESSO MARTINI](https://open.spotify.com/track/7iwPryNs1kWPuXIUqW7qpn) | [Dennis Dies Das](https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [BASSLINESPOR VOL.1](https://open.spotify.com/album/0uz7kVf6EZDHgRCajwQHic) | 2:02 | 2023-12-08 | 2023-12-22 |
 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 | 2024-02-22 |  |
 | [Etepetete](https://open.spotify.com/track/1h40cvRTFPEYv6nf0b2Agu) | [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [Etepetete](https://open.spotify.com/album/6rmGyW03KriiR2mNfDEZWw) | 2:20 | 2022-09-01 | 2022-10-11 |
-| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-04 |  |
+| [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-12-04 | 2024-02-28 |
 | [EUPHORIA](https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [EUPHORIA](https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77) | 2:18 | 2023-07-13 | 2023-08-04 |
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-07-27 | 2023-08-30 |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2023-12-08 | 2024-01-26 |
@@ -936,6 +936,7 @@
 | [Meine 1](https://open.spotify.com/track/6QZ7IptsMdWodN4uFuXNkv) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Meine 1](https://open.spotify.com/album/0ERJNB85OpTaQO9S5Tu1tJ) | 3:04 | 2023-10-12 | 2024-01-19 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-08-07 | 2023-08-23 |
 | [Memories](https://open.spotify.com/track/5pwZVXgPUSSa2qGamy8T62) | [treason434](https://open.spotify.com/artist/0RriK0rVWI9tagJyIux3wF) | [Memories](https://open.spotify.com/album/7a65dOo2YEK7c6nRDQlH93) | 2:23 | 2022-08-05 | 2022-08-12 |
+| [Memories Of The Sun](https://open.spotify.com/track/4TkGZqpPuh4EULBkhtg887) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz), [Nur Jaber](https://open.spotify.com/artist/22J1dZodxVK6NzbDnpZCek), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [HEISSS VA001](https://open.spotify.com/album/2W7pUQLJmqETnUnBi7aAFZ) | 4:08 | 2024-02-27 |  |
 | [Mensch](https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also bin ich](https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd) | 2:50 | 2023-10-05 | 2023-10-20 |
 | [Mentally Cheating](https://open.spotify.com/track/23CMRsLRGVCDwCzDtYMq6p) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Mentally Cheating](https://open.spotify.com/album/1q5UUWraL06jPz0jbVBP1M) | 3:00 | 2022-07-25 | 2022-09-02 |
 | [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 | 2022-12-08 | 2022-12-16 |

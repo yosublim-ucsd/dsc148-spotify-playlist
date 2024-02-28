@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > Featuring Bryson Tiller, Rich Amiri, Don Tolliver, and more
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,363 likes - 657 songs - 1 day 13 hr 14 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,378 likes - 657 songs - 1 day 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

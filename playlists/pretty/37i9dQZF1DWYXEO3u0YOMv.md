@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,914 likes - 128 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,042 likes - 128 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 111 | [HERO](https://open.spotify.com/track/10rYKVajlQ1t2zFJ3HpR3D) | [Sonar Pocket](https://open.spotify.com/artist/4kuP7AbiovQdVXJkRHeq4w) | [HERO/Good bye 大切な人。](https://open.spotify.com/album/0t4BvgedMXBBELE75lLaaU) | 4:04 |
 | 112 | [混ぜるな危険](https://open.spotify.com/track/4icsCUGIuwTmzx3YcSLTcu) | [筋肉少女帯](https://open.spotify.com/artist/59ti9jHDeW9RDyV8IOvEMM) | [おまけのいちにち\(闘いの日々\)](https://open.spotify.com/album/49rdLq99CUtHRPco1DBbGb) | 4:17 |
 | 113 | [蜜蜜蜜](https://open.spotify.com/track/6cfgcfp2hzwSCwWIaelPYx) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [あゆみくりかまきがやって来る!クマァ!クマァ!クマァ!](https://open.spotify.com/album/2X4zGs64aVBu5oZz2s2KzO) | 3:43 |
-| 114 | [PUNCH LINE!](https://open.spotify.com/track/779aOT2cX0kTf1L5IQKXTX) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS), [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [PUNCH LINE!\(妄想パンチラボイスComplete Edition\)](https://open.spotify.com/album/4pAMRlH6p5PWVacUt6ukIq) | 4:02 |
+| 114 | [PUNCH LINE!](https://open.spotify.com/track/779aOT2cX0kTf1L5IQKXTX) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS), [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [PUNCH LINE!（妄想パンチラボイスComplete Edition）](https://open.spotify.com/album/4pAMRlH6p5PWVacUt6ukIq) | 4:02 |
 | 115 | [FOCUS](https://open.spotify.com/track/5r0aTftKf1MCAeWQ2tgdoX) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [FOCUS](https://open.spotify.com/album/2awJEw9oin6k4EkOnj3aYP) | 3:45 |
 | 116 | [B.B.](https://open.spotify.com/track/0qsR8AYGQ8HAfejVgaWI0z) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [B.B.](https://open.spotify.com/album/4w4xDSa5ztppzU0Cyyxrfk) | 3:48 |
 | 117 | [CHIASTOLITE](https://open.spotify.com/track/7DLUK91fqimI1vEg4CKGyb) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [CHIASTOLITE \(アーティスト盤\)](https://open.spotify.com/album/0sVkWv5RlIvshKAasVHBUN) | 4:13 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 127 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 |
 | 128 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 |
 
-Snapshot ID: `MCw4NzhhNTc5YjM5OTY4NTMzY2RlNzc5MmFjODNmYmFjNDkyZDhhOGQ0`
+Snapshot ID: `MCwyMjVhOGNhYzQ5MjIzNGZjNWQ0YjQwOWJiNGUwODViZjgxYzNjYjAx`

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 142654,
+  "2024-02-28": 143017,
   "date_first_scraped": "2022-06-02",
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
   "name": "Christian Road Trip",
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 226933,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 216973,
       "name": "Yes I Will (Studio Version)",
       "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"

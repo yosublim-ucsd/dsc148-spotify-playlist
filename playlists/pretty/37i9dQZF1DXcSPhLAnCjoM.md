@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > Joseph Kamel et Julien Doré au top des 50 hits de variété française du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,702 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,803 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [L'espoir](https://open.spotify.com/track/3IK8PYgz005T6Dr0GLM8Tk) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [L'espoir](https://open.spotify.com/album/2dOzojnn941b4TB06Epdjh) | 3:02 |
 | 50 | [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 |
 
-Snapshot ID: `MCw5ODJjNDM1OGJmYjU5NzkzYmUwZWJjNmI0OGQ5OTFlZjRjMGYyY2Rh`
+Snapshot ID: `MCw4MTMyMjJhYmViMGI2MmM0ZjhiMjU1ZWMyMjliZTc0NWMzZTIzMzEx`

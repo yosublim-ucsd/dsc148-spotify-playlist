@@ -1,12 +1,12 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Mesto x WILHELM",
-  "num_followers": 200580,
+  "num_followers": 200604,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWJmMzcwMTA3NzRlNmQwMzc2MDE3ZmM5NjkzNDUzMjE1MGZhZjRm",
+  "snapshot_id": "MCw4ZWMzZTIwOWFjZTE5ZGE3NTliY2IwMTIwZGQ1M2NkY2ZlMzUyMzRj",
   "tracks": [
     {
       "added_at": "2024-02-22 16:00:00",
@@ -79,6 +79,30 @@
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
+    },
+    {
+      "added_at": "2024-02-22 16:00:00",
+      "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
     },
     {
       "added_at": "2024-02-22 16:00:00",

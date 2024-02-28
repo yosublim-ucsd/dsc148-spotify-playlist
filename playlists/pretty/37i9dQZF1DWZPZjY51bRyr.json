@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 28762,
+  "num_followers": 28811,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjgwOTc5ZWMyNDNmMmRjOTg5ZDc0NGEyMzc4YWUzMWFkY2UwZDUz",
+  "snapshot_id": "MCw0MWQyZTc1M2Q2NTZjZWYyZDM4ZmU1ODQwZTk1MmVhNjQwZTFkYzZj",
   "tracks": [
     {
       "added_at": "2023-12-15 11:35:26",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1"
-      },
-      "artists": [
-        {
-          "name": "Zion Llama",
-          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
-        }
-      ],
-      "duration_ms": 169105,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 165818,
       "name": "Osceola",
       "url": "https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Mesmeric Quietude",
-        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
-      },
-      "artists": [
-        {
-          "name": "Wes Gold",
-          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
-        }
-      ],
-      "duration_ms": 149795,
-      "name": "Mesmeric Quietude",
-      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Pure And Calm",
         "url": "https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 165639,
       "name": "Pure And Calm",
       "url": "https://open.spotify.com/track/663LF9heB9sWluligQWpG8"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Mesmeric Quietude",
+        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
+      },
+      "artists": [
+        {
+          "name": "Wes Gold",
+          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
+        }
+      ],
+      "duration_ms": 149795,
+      "name": "Mesmeric Quietude",
+      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Paessagio Naturale",
-        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
-      },
-      "artists": [
-        {
-          "name": "Campane",
-          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Paessagio Naturale",
-      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190687,
       "name": "Soil",
       "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Paessagio Naturale",
+        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
+      },
+      "artists": [
+        {
+          "name": "Campane",
+          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Paessagio Naturale",
+      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma"
-      },
-      "artists": [
-        {
-          "name": "Ara Amar",
-          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
-        }
-      ],
-      "duration_ms": 180052,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Night Bells (432 Hz)",
         "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 175500,
       "name": "Night Bells (432 Hz)",
       "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "duration_ms": 180052,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Beyond Thought",
-        "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
-      },
-      "artists": [
-        {
-          "name": "Astral Shade",
-          "url": "https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Beyond Thought",
-      "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Harmonious Waves",
         "url": "https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 167343,
       "name": "Harmonious Waves",
       "url": "https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Beyond Thought",
+        "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
+      },
+      "artists": [
+        {
+          "name": "Astral Shade",
+          "url": "https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Beyond Thought",
+      "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Somniloquy",
+        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
+      },
+      "artists": [
+        {
+          "name": "Mentitoso",
+          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
+        }
+      ],
+      "duration_ms": 112999,
+      "name": "Polysomnography",
+      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Flute Meditation",
         "url": "https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 130354,
       "name": "Chakra",
       "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Somniloquy",
-        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
-      },
-      "artists": [
-        {
-          "name": "Mentitoso",
-          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
-        }
-      ],
-      "duration_ms": 112999,
-      "name": "Polysomnography",
-      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Travel Through Time",
         "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 200367,
       "name": "Travel Through Time",
       "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
+      },
+      "artists": [
+        {
+          "name": "Tonalie",
+          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
+        }
+      ],
+      "duration_ms": 143755,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Jenna\u2019s Lullaby",
         "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
       },
@@ -2155,38 +2171,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Big Sky",
-        "url": "https://open.spotify.com/album/2eVYfkj9FfLamFXSQB76fe"
-      },
-      "artists": [
-        {
-          "name": "Moderato Aredo",
-          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
-      },
-      "artists": [
-        {
-          "name": "Tonalie",
-          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
-        }
-      ],
-      "duration_ms": 143755,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
       },
@@ -2203,18 +2187,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Green Haven",
-        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+        "name": "Big Sky",
+        "url": "https://open.spotify.com/album/2eVYfkj9FfLamFXSQB76fe"
       },
       "artists": [
         {
-          "name": "Marolo Ocean",
-          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
         }
       ],
-      "duration_ms": 163436,
-      "name": "Clearing Your Mind",
-      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
+      "duration_ms": 194000,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2231,6 +2215,22 @@
       "duration_ms": 202409,
       "name": "Aeonian Hope",
       "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Green Haven",
+        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+      },
+      "artists": [
+        {
+          "name": "Marolo Ocean",
+          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+        }
+      ],
+      "duration_ms": 163436,
+      "name": "Clearing Your Mind",
+      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Healing Solfeggio 528 Hz",
-        "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
-      },
-      "artists": [
-        {
-          "name": "Zoe Sutherland",
-          "url": "https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Healing Solfeggio 528 Hz",
-      "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Essence of Mind",
         "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Healing Solfeggio 528 Hz",
+        "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
+      },
+      "artists": [
+        {
+          "name": "Zoe Sutherland",
+          "url": "https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Healing Solfeggio 528 Hz",
+      "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Temple of the Heart",
-        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
-      },
-      "artists": [
-        {
-          "name": "re:inhabit",
-          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
-        }
-      ],
-      "duration_ms": 216672,
-      "name": "Temple of the Heart",
-      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
         "name": "Astral Devotion",
         "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
       },
@@ -2459,34 +2443,18 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
-        "name": "Distant Call",
-        "url": "https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd"
+        "name": "Temple of the Heart",
+        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
       },
       "artists": [
         {
-          "name": "Joborja Perc",
-          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
         }
       ],
-      "duration_ms": 185827,
-      "name": "White Stone",
-      "url": "https://open.spotify.com/track/46iDOpQlHuhBlznZapris4"
-    },
-    {
-      "added_at": "2023-12-15 11:35:26",
-      "album": {
-        "name": "Captain Speaking",
-        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 377250,
-      "name": "Captain Speaking",
-      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
+      "duration_ms": 216672,
+      "name": "Temple of the Heart",
+      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
     },
     {
       "added_at": "2023-12-15 11:35:26",
@@ -2507,6 +2475,22 @@
     {
       "added_at": "2023-12-15 11:35:26",
       "album": {
+        "name": "Distant Call",
+        "url": "https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "duration_ms": 185827,
+      "name": "White Stone",
+      "url": "https://open.spotify.com/track/46iDOpQlHuhBlznZapris4"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
         "name": "Let It Heal",
         "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 220000,
       "name": "432hz Let It Heal - Studio Edit",
       "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
+    },
+    {
+      "added_at": "2023-12-15 11:35:26",
+      "album": {
+        "name": "Captain Speaking",
+        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 377250,
+      "name": "Captain Speaking",
+      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
     },
     {
       "added_at": "2023-12-15 11:35:26",

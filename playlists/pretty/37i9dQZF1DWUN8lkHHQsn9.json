@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:0e06gUDSCntc3X6v8mL6kk\">Kamil Kowalski</a>",
-  "num_followers": 8311,
+  "num_followers": 8331,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjRjODJmYzQ4M2RjZDM2ZGZkNzU4MmRlODAxYjNlYzMyMjU4NTk3",
+  "snapshot_id": "MCwwZTk3YzhjZTYxZWFjNDFlNTMzMDYzYjUwMTllNDg2NGRlMWM1NzE1",
   "tracks": [
     {
       "added_at": "2024-02-12 23:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 150001,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
         "name": "Girls, Gays, People",
         "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
         }
       ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+      "duration_ms": 179111,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3WKj4kBRl4OSuxuSTe9H9Y"
-      },
-      "artists": [
-        {
-          "name": "Filip Sterne",
-          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
-        }
-      ],
-      "duration_ms": 179111,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/5LthNLCUbAMNMAHhiBVyZE"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -1139,38 +1139,6 @@
       "duration_ms": 243062,
       "name": "Polska",
       "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
-        "name": "Piruet i salto",
-        "url": "https://open.spotify.com/album/0cmFgkbiLxbNS6ujkTRvXY"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "Piruet i salto",
-      "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 179986,
       "name": "BSoD (Bluescreen)",
       "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "Piruet i salto",
+        "url": "https://open.spotify.com/album/0cmFgkbiLxbNS6ujkTRvXY"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 203505,
+      "name": "Piruet i salto",
+      "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1223,6 +1223,26 @@
       "duration_ms": 156000,
       "name": "Pentimento",
       "url": "https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "Pokussa Na Parkiecie",
+        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "POKUSSA",
+      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1255,26 +1275,6 @@
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
-        "name": "Pokussa Na Parkiecie",
-        "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "POKUSSA",
-      "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "\u015awiat\u0142a Lamp",
-        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 164242,
-      "name": "\u015awiat\u0142a Lamp",
-      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
         "name": "Ulubione miejsce",
         "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
       },
@@ -1347,22 +1331,6 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Diego M.",
-        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 165991,
-      "name": "Diego M.",
-      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
@@ -1375,6 +1343,54 @@
       "duration_ms": 224706,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "\u015awiat\u0142a Lamp",
+        "url": "https://open.spotify.com/album/2ZcmKJQ5Ts00yz1IaKZkMo"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 164242,
+      "name": "\u015awiat\u0142a Lamp",
+      "url": "https://open.spotify.com/track/1X6LyZBmgjXBpaJyR11z6D"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "Diego M.",
+        "url": "https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 165991,
+      "name": "Diego M.",
+      "url": "https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1411,6 +1427,30 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1423,22 +1463,6 @@
       "duration_ms": 239354,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1463,6 +1487,22 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
         "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
         "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
       },
@@ -1479,18 +1519,18 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+        "name": "Organic Love",
+        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "MICU\u0141A",
+          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
         }
       ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
+      "duration_ms": 192000,
+      "name": "Organic Love",
+      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1543,22 +1583,6 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Organic Love",
-        "url": "https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX"
-      },
-      "artists": [
-        {
-          "name": "MICU\u0141A",
-          "url": "https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Organic Love",
-      "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
         "name": "Maski",
         "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
       },
@@ -1591,30 +1615,6 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
         "name": "Zabra\u0142a\u015b dziewczyn\u0119 ch\u0142opakom",
         "url": "https://open.spotify.com/album/48UZ39gywPgIMeJlSz2K6G"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 226951,
       "name": "Doce\u0144 mnie",
       "url": "https://open.spotify.com/track/6hefvt4zHSlasqnqWe59tY"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
-        "name": "Gus\u0142a (Human Rites)",
-        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
-      },
-      "artists": [
-        {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
-        }
-      ],
-      "duration_ms": 305869,
-      "name": "Nieludzie (Ignorance Ha)",
-      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
     },
     {
       "added_at": "2024-02-12 23:01:00",
@@ -1723,6 +1707,42 @@
     {
       "added_at": "2024-02-12 23:01:00",
       "album": {
+        "name": "Gus\u0142a (Human Rites)",
+        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 305869,
+      "name": "Nieludzie (Ignorance Ha)",
+      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+    },
+    {
+      "added_at": "2024-02-12 23:01:00",
+      "album": {
         "name": "Re\u017cyser",
         "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
       },
@@ -1751,22 +1771,6 @@
       "duration_ms": 359338,
       "name": "JOY",
       "url": "https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw"
-    },
-    {
-      "added_at": "2024-02-12 23:01:00",
-      "album": {
-        "name": "Remedium",
-        "url": "https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS"
-      },
-      "artists": [
-        {
-          "name": "Vipera",
-          "url": "https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48"
-        }
-      ],
-      "duration_ms": 200419,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"
     }
   ],
   "unique_name": "GLOW Polska",

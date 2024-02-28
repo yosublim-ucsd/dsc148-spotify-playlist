@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Filah Lah Lah
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,721 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,768 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 35 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
 | 36 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 37 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 |
-| 38 | [MASTA](https://open.spotify.com/track/1GP15Zotdl34Qhlujz4i1l) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Joe Sonar](https://open.spotify.com/artist/747Vzk5ksAja83g1u0mm7e) | [MASTA \(Joe Sonar Remix\)](https://open.spotify.com/album/0kFlSU8ACtw81GW0K7Zwca) | 2:36 |
+| 38 | [MASTA \- Joe Sonar Remix](https://open.spotify.com/track/1GP15Zotdl34Qhlujz4i1l) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Joe Sonar](https://open.spotify.com/artist/747Vzk5ksAja83g1u0mm7e) | [MASTA \(Joe Sonar Remix\)](https://open.spotify.com/album/0kFlSU8ACtw81GW0K7Zwca) | 2:36 |
 | 39 | [Margarita](https://open.spotify.com/track/5HN8VVC24FpSe5a3kVQKdD) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [ECHOLOCATION](https://open.spotify.com/album/1MJRIE0t9OfQP2PfAC71kD) | 2:37 |
 | 40 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
 | 41 | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/track/0ixcA2mSYrHIu5RNgJ2vBB) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Escapism \(feat\. Fave & Tay Iwar\)](https://open.spotify.com/album/1pXxUkUcfkvbCTeCRPRHVe) | 3:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 84 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 | 85 | [uwase's interlude](https://open.spotify.com/track/69p7jroFrRmMsRkNaxlC8F) | [Manzi Fleur](https://open.spotify.com/artist/6vqX7rIuwyZm3YfB627xJA) | [uwase's interlude](https://open.spotify.com/album/6V7tzuTf7PnHvfkCIMhZD5) | 2:54 |
 
-Snapshot ID: `MCxlMzc4ZjhjMWRhNTFkZGM1YzNmYzI5ODM0MDUxYmQzYzU4OWM4ZWYx`
+Snapshot ID: `MCxhOTdiYmFlNzFlNzM2NWJiM2MxNzRmNjRmNDljOTRkZTg2NTA2OGMz`

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 23739,
+  "2024-02-28": 23849,
   "date_first_scraped": "2023-12-19",
   "description": "Playlist oficial del podcast <a href=\"spotify:show:1MAoOdM2Xx9TayWrXQ2MCj\"> Momentos Chingones</a> donde tendr\u00e1s las noticias m\u00e1s frescas y los hits del momento de la M\u00fasica Mexicana.",
   "name": "Momentos Chingones con rolitas",
@@ -245,6 +245,24 @@
       "duration_ms": 156511,
       "name": "El Mentado",
       "url": "https://open.spotify.com/track/4qZfObHdk6sphLcReDazoq"
+    },
+    {
+      "album": {
+        "name": "la pura gozadera, vol. 2",
+        "url": "https://open.spotify.com/album/1P1OoqG5Yd2AQ3lqE9Bcc0"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "el taca taca ta",
+      "url": "https://open.spotify.com/track/5Y87pKlBg0wNFeFPTr2tqw"
     },
     {
       "album": {
@@ -821,6 +839,28 @@
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "album": {
+        "name": "Que Empiece El Juego",
+        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149697,
+      "name": "Que Empiece El Juego",
+      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
     },
     {
       "album": {

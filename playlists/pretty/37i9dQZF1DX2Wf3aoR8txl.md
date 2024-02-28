@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 
 > Music from "YU☆YU☆HAKUSHO" series\. 実写化も話題の人気アニメ「幽☆遊☆白書」主題歌、エンディングソングと人気キャラクターソングを一気にお届け！©Y.T.90\-94/P,S
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 45 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 45 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 22 | [Icy Blood](https://open.spotify.com/track/66z4HI02c0Yyr00e9n1Vne) | [戸愚呂\(弟\)\(CV:玄田哲章\)](https://open.spotify.com/artist/5c2K7k72UqEnb5t07nb0Me) | [幽☆遊☆白書 熱唱編～カラオケバトルロイヤル～](https://open.spotify.com/album/3hZPpWIeACagz6B4A9qONk) | 5:38 |
 | 23 | [Sayonara wa Mirai no Hajimari](https://open.spotify.com/track/1u4u1g8E5hFikDPVE7AL9Y) | [Kurama\(CV:Megumi Ogata\)](https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 5:45 |
 | 24 | [Ryusei no Solitude](https://open.spotify.com/track/3kS3mT3Ek4EJlffXC06wf3) | [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Yu Yu Hakusho Saikyo Best Selection](https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW) | 5:12 |
-| 25 | [Dachi](https://open.spotify.com/track/3GqDwEa0Svly6ACCJtIpVZ) | [Kazuma Kuwabara\(CV:Shigeru Chiba\)](https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43) | [Yu Yu Hakusho \- Collective Songs \-](https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4) | 5:18 |
+| 25 | [Dachi](https://open.spotify.com/track/0gcEceZ8t9iWXXXc5gD2p2) | [Kazuma Kuwabara\(CV:Shigeru Chiba\)](https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43) | [Yu Yu Hakusho Music Battle Edition 2](https://open.spotify.com/album/5XU1hy1Y2Zi9AqjE50YaGI) | 5:17 |
 | 26 | [Tough](https://open.spotify.com/track/235dgoChCn8fkrG6YikCe8) | [Yusuke Urameshi\(CV:Nozomu Sasaki\)](https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ) | [Yu Yu Hakusho Music Battle Edition 2](https://open.spotify.com/album/5XU1hy1Y2Zi9AqjE50YaGI) | 5:30 |
 | 27 | [Donna Toki Demo Anata to Mezametai](https://open.spotify.com/track/4eAEKs4QemjzpnZWl61GWf) | [Keiko Yukimura\(CV:Yuri Amano\)](https://open.spotify.com/artist/2lkcBJZwFaC7FBySllXk6I) | [Yu Yu Hakusho Music Battle Edition 2](https://open.spotify.com/album/5XU1hy1Y2Zi9AqjE50YaGI) | 5:14 |
 | 28 | [Omoide o Tsubasa ni Shite](https://open.spotify.com/track/48lBJhjO7ygOvnuzixhwYY) | [Yusuke Urameshi\(CV:Nozomu Sasaki\)](https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ), [Keiko Yukimura\(CV:Yuri Amano\)](https://open.spotify.com/artist/2lkcBJZwFaC7FBySllXk6I) | [Yu Yu Hakusho \- Collective Rare Trax \-](https://open.spotify.com/album/5TvP7BOFI6vxU2uKngvWHd) | 4:55 |
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 42 | [Hiei no Theme](https://open.spotify.com/track/55hbHOPvOUT2HEb0d9L6Uo) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 2:58 |
 | 43 | [Kurama no Theme](https://open.spotify.com/track/1coyv479zxWurUVr6K4nS3) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 3:15 |
 | 44 | [Kuwabara no Theme](https://open.spotify.com/track/3mcU012P39zfHImsKP88mT) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 2:59 |
-| 45 | [幽助パワーアップ!](https://open.spotify.com/track/5WH89dniVjsSZEACH6VrEt) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック Vol.2 ～魔界の扉編～](https://open.spotify.com/album/1ha1rWSxldGVVDH6JdKM2B) | 3:56 |
+| 45 | [Yusuke Power Up!](https://open.spotify.com/track/2VjUI6jSJXWohU4OgIqcMW) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack Vol.2 Makai no Tobira Hen](https://open.spotify.com/album/3YjyiPZG79gyQGaxnFQaai) | 3:56 |
 
-Snapshot ID: `MCxjOTgwMzdiMDFlMjM1ZGVjZjMxNmFhNDBmZTY4MmU1ZmJmZTc0NzA1`
+Snapshot ID: `MCwwZTQzOTY2NjRkNmQ3MGQ4YWFmNGEyNWI0ZDgxYjU5ZDUxZWVlOTcz`

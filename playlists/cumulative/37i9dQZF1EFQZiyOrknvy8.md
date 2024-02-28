@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 7 hr 15 min
+142 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 | 2024-01-29 |  |
 | [Drei Uhr Nachts](https://open.spotify.com/track/4lWV6MBFNz9B9ZgNuC4bPC) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Drei Uhr Nachts \(Official Video\)](https://open.spotify.com/album/1mPqRAFIZ5fj7NlZxaPADh) | 2:40 | 2024-01-30 | 2024-02-01 |
 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 | 2024-01-29 |  |
+| [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 | 2024-02-27 |  |
 | [Drunk On You](https://open.spotify.com/track/25HWrN7rPVMy7r7JlYZvsC) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Drunk On You](https://open.spotify.com/album/7oAvImtminoHsBgJFgKgCd) | 3:28 | 2024-01-29 |  |
 | [Dye My Hair](https://open.spotify.com/track/6iOeQNXb0fFP3TDCzVPts8) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:27 | 2024-01-29 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2024-01-29 |  |

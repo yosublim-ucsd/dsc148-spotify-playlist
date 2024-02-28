@@ -145,6 +145,6 @@
 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 | 2024-02-23 |  |
 | [You're Losing Me](https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy) | [Kody Ternes](https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc) | [You're Losing Me](https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i) | 3:20 | 2024-02-02 |  |
 | [You're Still the One](https://open.spotify.com/track/5wmH8ZJa8UD5rOqOA1kTzl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [You're Still the One](https://open.spotify.com/album/7rPmbqM4rV7TSsAiOOQkaE) | 3:16 | 2023-01-13 |  |
-| [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/0mvjBc6RdiCT1ME14CbECz) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 | 2023-01-13 |  |
+| [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2023-02-15. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ENHYPEN
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TWICE
 
-921 songs - 2 day 2 hr 9 min
+922 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Broken Melodies](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:46 | 2023-07-20 |  |
 | [Broken Melodies \- JVKE Remix](https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Broken Melodies \(JVKE Remix\)](https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn) | 3:46 | 2023-11-16 | 2023-12-27 |
 | [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-05-13 | 2022-07-20 |
-| [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-16 |  |
+| [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-16 | 2024-02-28 |
 | [Bubble \- Japanese Ver.](https://open.spotify.com/track/6lBifd8pkWukU3sIjtkwIR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Bubble \(Japanese Ver.\)](https://open.spotify.com/album/0LIFa5uJeyyNq58t9k4UfH) | 2:59 | 2023-12-05 | 2024-01-10 |
 | [Burn It \- Japanese ver.](https://open.spotify.com/track/1RIcPnDBsHSZiSG233YEM2) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/42JGkJ9gzzbbe2pxe9TOPQ) | 3:28 | 2022-06-14 | 2022-07-23 |
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-05 | 2023-11-04 |
@@ -208,6 +208,7 @@
 | [Day dream](https://open.spotify.com/track/1H3WNw5YS12hQlaWCDKEzD) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Day dream](https://open.spotify.com/album/2pEhjOBOJwWNRMsYWGyq6I) | 3:42 | 2024-02-06 | 2024-02-16 |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-05-25 |
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-25 | 2022-02-23 |
+| [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 |  |
 | [Dear My U](https://open.spotify.com/track/18qiqu7TNOyVRuMzA9Robi) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Dear My U](https://open.spotify.com/album/5SQHSHAafunp7aDguAmFdk) | 3:31 | 2023-12-14 | 2024-01-24 |
 | [Dear My U](https://open.spotify.com/track/3GFI9dc6mDo4ROdxmaSVyc) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Dear My U](https://open.spotify.com/album/6WmnLIcrMrGWN8y5bT2pe7) | 3:31 | 2023-12-14 | 2023-12-16 |
 | [Dear.](https://open.spotify.com/track/28n96eIVJvJ9pkreZYclYC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Dear.\]](https://open.spotify.com/album/4AaM6fXI6FAGOgaMQO22AD) | 3:24 | 2023-12-11 |  |
@@ -712,7 +713,7 @@
 | [Stand up!](https://open.spotify.com/track/2ClyPFwO5yo28GMXLR3Hlg) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Stand up!](https://open.spotify.com/album/77pHPrgDNRpwfpIz1H1tH4) | 3:30 | 2022-07-28 | 2022-08-20 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-03 | 2024-01-19 |
 | [Starlight 〜君に届くまで...〜](https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [Proxima](https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz) | 3:08 | 2023-12-26 | 2024-01-10 |
-| [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-30 |  |
+| [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-30 | 2024-02-28 |
 | [Stay](https://open.spotify.com/track/1osAGR6bvsjgHjRp3XacCW) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Stay](https://open.spotify.com/album/5HvtKqkHmrQITKvap0leZ4) | 3:11 | 2022-07-26 | 2022-09-21 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-05-18 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-28 | 2022-09-07 |
@@ -735,7 +736,7 @@
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/0pE16sFbRDVuTOEL0yxFoy) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb) | 3:12 | 2022-05-17 | 2022-07-09 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2Lbm5t65FUtpXjndFNVWZV) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [chrOme arts](https://open.spotify.com/album/2XqahvdUBZLfZbRUUnWoYW) | 3:12 | 2023-02-14 | 2023-03-29 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2aEaANMWZTYDzg8wdz2e0m) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/0xsdoBSLMROCUzZLit3W01) | 3:12 | 2022-05-10 | 2023-02-16 |
-| [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-25 |  |
+| [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-25 | 2024-02-28 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 | 2023-08-19 |
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 | 2023-01-25 |
 | [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-24 | 2023-06-27 |
@@ -856,7 +857,7 @@
 | [What kind of future](https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [What kind of future](https://open.spotify.com/album/1S46HO8uCleN4pov8D3bGL) | 3:51 | 2024-01-25 |  |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-29 | 2023-02-28 |
 | [WHEN I MOVE \- Japanese Version](https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [WHEN I MOVE \(Japanese Version\)](https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd) | 2:58 | 2022-12-06 | 2023-01-18 |
-| [When we meet again](https://open.spotify.com/track/5VszBqrAVGryNnF2djV1Ob) | [LEE JUNHO](https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg) | [When we meet again](https://open.spotify.com/album/1DOu9V8PDpOaWko8NSNmoA) | 3:47 | 2024-02-01 |  |
+| [When we meet again](https://open.spotify.com/track/5VszBqrAVGryNnF2djV1Ob) | [LEE JUNHO](https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg) | [When we meet again](https://open.spotify.com/album/1DOu9V8PDpOaWko8NSNmoA) | 3:47 | 2024-02-01 | 2024-02-28 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-28 |  |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 | 2022-11-25 |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |

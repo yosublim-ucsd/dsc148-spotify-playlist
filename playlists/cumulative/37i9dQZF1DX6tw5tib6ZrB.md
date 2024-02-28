@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from ScHoolboy Q, Latto, Ice Spice, Phyno, Skepta and more
 
-230 songs - 11 hr 55 min
+230 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 | 2023-10-06 | 2023-12-02 |
 | [WTF](https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [WTF](https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV) | 3:05 | 2022-08-19 | 2022-12-02 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-09 |  |
-| [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 | 2024-02-16 |  |
+| [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 |  |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 |  |
 | [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 | 2023-03-03 | 2023-04-14 |
 | [ZOZA](https://open.spotify.com/track/4zKMMryM7cPyMDvgCPPheB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [ZOZA](https://open.spotify.com/album/0oOxh5ffZn4Gq7Jvxeey3o) | 6:34 | 2022-06-16 | 2022-07-15 |

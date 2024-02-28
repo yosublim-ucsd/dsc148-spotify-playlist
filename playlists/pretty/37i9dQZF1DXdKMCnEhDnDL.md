@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Hannah Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,949 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,996 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 30 | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 |
 | 31 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 |
 | 32 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 |
-| 33 | [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
+| 33 | [Écoutez\-moi \- NL](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 |
 | 34 | [Blijf Zo](https://open.spotify.com/track/3bHhbGAnKXlD3SIoRZr8oj) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Twintig \(Deluxe\)](https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci) | 2:57 |
 | 35 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 |
 | 36 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
 | 100 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
 
-Snapshot ID: `MCw0MjgyOGNiMmE2ZDRkZmE3OTFlMGFjNzI1Yjk1MjBhNjcwYmQ0MjQ3`
+Snapshot ID: `MCwzZGZjMzY5OWI5OGQ3NmVkZmUxOGFlMTExNzNlNzQwNmE0ZDA0YzY4`

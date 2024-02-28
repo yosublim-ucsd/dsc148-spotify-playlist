@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474\">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of \"The Catalyst.\"",
-  "num_followers": 762800,
+  "num_followers": 762878,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGUzMzE4OGMxOGVmNWY2YWI3MTVlZGQ1MmE3MWQ1Y2JkYjhiMGRl",
+  "snapshot_id": "MCxkZWNiM2JiM2M3MDZlZmI5YzdmZTY0Y2IzYzM4MWJmZDY2YzVkOTBk",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "New Horizons",
-        "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        },
-        {
-          "name": "Fabienne Erni",
-          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Chapter III - Downfall",
         "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "1066",
-        "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
+        "name": "New Horizons",
+        "url": "https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK"
       },
       "artists": [
         {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        },
+        {
+          "name": "Fabienne Erni",
+          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
         }
       ],
-      "duration_ms": 272013,
-      "name": "1066",
-      "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
+      "duration_ms": 265106,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 299076,
       "name": "Beneath (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "1066",
+        "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 272013,
+      "name": "1066",
+      "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Animus",
         "url": "https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 242320,
       "name": "We'll Be Free",
       "url": "https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "The Gates of Time",
+      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "The Gates of Time",
-      "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 208859,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1171,6 +1187,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1191,18 +1223,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+        "name": "Invaders",
+        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
         }
       ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1223,18 +1255,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Invaders",
-        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
+        "name": "Vita Nova",
+        "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
       },
       "artists": [
         {
-          "name": "Civil War",
-          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
         }
       ],
-      "duration_ms": 338000,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
+      "duration_ms": 364029,
+      "name": "Vita Nova",
+      "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1271,42 +1307,6 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Vita Nova",
-        "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        },
-        {
-          "name": "Johanna Kurkela",
-          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
-        }
-      ],
-      "duration_ms": 364029,
-      "name": "Vita Nova",
-      "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
     },
     {
       "added_at": "2024-02-23 05:00:00",

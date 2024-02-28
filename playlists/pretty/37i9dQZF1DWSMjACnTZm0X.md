@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG?si=\_PJ3P15GQ1q4Ta1g\-S8tLA">KCee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,285 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,329 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 50 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [NELCNO](https://open.spotify.com/artist/6bFMQHgmlCF5T183y54XUE), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 |
 | 51 | [Kool Sana](https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Kool Sana](https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh) | 2:42 |
 
-Snapshot ID: `MCwzNDBhYmEzZWQwMWU0ODBhYTNjOTRhMDUwZjE3ZWU3MzQzNTdkNTcz`
+Snapshot ID: `MCxhMWJhZTdhMDhiMTdkMTEzZDA3Zjg2ZTczOWVhZDkzODU0Mzg1NzQ1`

@@ -4,7 +4,7 @@
 
 > 2021
 
-62 songs - 3 hr 47 min
+64 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 | 2023-10-17 |  |
 | [Hate](https://open.spotify.com/track/399olOwTieMU3hqelRsfpH) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 4:04 | 2023-05-31 |  |
 | [HGU](https://open.spotify.com/track/4q6iKWRy3auzEn9dRoLInk) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:21 | 2024-01-22 |  |
+| [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2024-02-27 |  |
 | [In Spite of the Weather \- Bill Ryder\-Jones Re\-Imagining](https://open.spotify.com/track/1LyI8GoZSzCR9BcBAHcAAX) | [Michael Price](https://open.spotify.com/artist/6Ie1HZJ0vFXxxogMhPnZcg), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4), [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [In Spite of the Weather \(Bill Ryder\-Jones Re\-Imagining\)](https://open.spotify.com/album/34tiEPjAQZ8BQwl3HMpIoy) | 5:56 | 2022-06-26 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-08-11 |  |
 | [Just Can’t Get Enough](https://open.spotify.com/track/1X9TyFXi9fiQgAIWJmSJrw) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning \(Deluxe\)](https://open.spotify.com/album/0BkpKcHw606at6Y2cp8kdE) | 3:39 | 2023-02-19 |  |
@@ -55,6 +56,7 @@
 | [Romantic Flight \- From How To Train Your Dragon Music From The Motion Picture](https://open.spotify.com/track/51v7yO07BdGgP6hv0OaDe2) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [How To Train Your Dragon \(Music From The Motion Picture\)](https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU) | 1:56 | 2023-04-02 |  |
 | [Running Up That Hill \- triple j Like A Version](https://open.spotify.com/track/61p3K3niYEzmiX96aC9U8R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Running Up That Hill \(triple j Like A Version\)](https://open.spotify.com/album/5PHg3laVWVohsOVpiehZQl) | 3:15 | 2022-12-13 |  |
 | [Sh\-Boom](https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:25 | 2023-03-30 |  |
+| [Something in the Water](https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:27 | 2024-02-27 |  |
 | [Sparks](https://open.spotify.com/track/3G7ZiXrSPvRRQMMIuLnFS9) | [The Family Crest](https://open.spotify.com/artist/44CB1c0W2h1XR2vB7AKpa7) | [Prelude to War](https://open.spotify.com/album/15l8KKdAMflVwdqZsNkZJR) | 3:58 | 2023-10-11 |  |
 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 | 2023-03-15 |  |
 | [Stars & Shards](https://open.spotify.com/track/6e6VlzrbLQtXpfcwS77sTn) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:07 | 2023-09-16 |  |

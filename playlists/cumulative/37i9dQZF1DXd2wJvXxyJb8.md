@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> me sentindo completamente macetado era isso q vc qria ivete????? parabens
+> vc ta com bafo
 
 376 songs - 17 hr 42 min
 

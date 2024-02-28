@@ -1,7 +1,7 @@
 {
-  "2024-02-27": 320296,
+  "2024-02-28": 320317,
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Broederliefde",
+  "description": "Motion & good vibes! Cover: KATNUF",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -3367,7 +3367,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 130800,
       "name": "Call You",
       "url": "https://open.spotify.com/track/6hzT12LQd1xNhiKg8IHR5X"
@@ -4117,10 +4117,6 @@
       },
       "artists": [
         {
-          "name": "WAVEY",
-          "url": "https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt"
-        },
-        {
           "name": "Kleine John",
           "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
         },
@@ -4131,6 +4127,10 @@
         {
           "name": "Dior",
           "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        },
+        {
+          "name": "WAVEY",
+          "url": "https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt"
         }
       ],
       "date_added": "2024-02-22",
@@ -17385,6 +17385,28 @@
       "duration_ms": 135849,
       "name": "Tril",
       "url": "https://open.spotify.com/track/6kSv8PoHReHzdB7sFBf2l7"
+    },
+    {
+      "album": {
+        "name": "Triq Salama",
+        "url": "https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "ICE",
+          "url": "https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142580,
+      "name": "Triq Salama",
+      "url": "https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO"
     },
     {
       "album": {

@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 29 | [Sega Ar Pwa](https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 4:47 |
 | 30 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
 | 31 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
-| 32 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
-| 33 | [Ma demand aou pardon](https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W) | [Morgan](https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d) | [Sort' dovan \(La compil\)](https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0) | 4:45 |
+| 32 | [Ma demand aou pardon](https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W) | [Morgan](https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d) | [Sort' dovan \(La compil\)](https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0) | 4:45 |
+| 33 | [Fiesta Ravanna](https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [Fiesta Ravanna](https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ) | 4:25 |
 | 34 | [Madame ohh](https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:41 |
 | 35 | [La Route Karanbol](https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [La Route Karanbol](https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6) | 4:47 |
 | 36 | [Séga Li Lao](https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo) | [Valo](https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o) | [Séga Li Lao](https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Pop Soul Sega](https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj) | [Ti L'Afrique](https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX) | [Moris Zekler: Fuzz & Soul Sega from 70's Mauritius](https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9) | 4:12 |
 | 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
 
-Snapshot ID: `MCw5YWE4YzU1YjNiMzI3ZTA0NDIwZTFmZjNhYTU3MDZhYTJkMjg0NTZi`
+Snapshot ID: `MCwyNjE4OTc0ZGM5ZGUyMzlkMTBlMDcwMDQwNTI1OGQyN2Q0YjRkNTA5`

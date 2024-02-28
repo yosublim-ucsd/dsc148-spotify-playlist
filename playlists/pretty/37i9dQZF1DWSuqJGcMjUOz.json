@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3834,
+  "num_followers": 3832,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzdlODQ3OWQ4MGE0YjE2MjEzNGE4ZjFkNjNjMTc4MWY5NjMzMGQ1",
+  "snapshot_id": "MCw5Y2Q2OTBmZGUwNzBmZTM3YWYxNzc2OTEyMDhmMTllYjQwODlkY2Uz",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Hagra, Vol.1",
-        "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
-      },
-      "artists": [
-        {
-          "name": "Izuku",
-          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
-        }
-      ],
-      "duration_ms": 145598,
-      "name": "Filature",
-      "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Cassandre",
         "url": "https://open.spotify.com/album/4BK5uN2Z1X1twCTVe6t92Q"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 184288,
       "name": "Mauvais r\u00f4le",
       "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Hagra, Vol.1",
+        "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "duration_ms": 145598,
+      "name": "Filature",
+      "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 202959,
+      "name": "Porcelaine",
+      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Parler",
         "url": "https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 210296,
       "name": "Pont Champlain",
       "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 202959,
-      "name": "Porcelaine",
-      "url": "https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Agnus Dei",
         "url": "https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 231093,
       "name": "V\u00e9nus",
       "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Mitshuap",
         "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 240010,
       "name": "Nimueshtaten nete",
       "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Moteur super sport",
-        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
-      },
-      "artists": [
-        {
-          "name": "Tom Chicoine",
-          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Moteur super sport",
-      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Moteur super sport",
+        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
+      },
+      "artists": [
+        {
+          "name": "Tom Chicoine",
+          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Moteur super sport",
+      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
     },
     {
       "added_at": "2023-05-25 23:46:15",

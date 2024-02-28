@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 55370,
+  "num_followers": 55389,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWM4NTQ2NDhmYzVmYzg2YTE1NmNlMTQ3MDk1YWIyZGVjYjhiMmRh",
+  "snapshot_id": "MCw4NDM4NmZkMmZiN2QyNTg3ZmEyZmE2MWQxZGQwYTQ0MGJkNWU0NjA5",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -863,22 +863,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back In The Day: The Best Of Bootsy",
-        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "Bootzilla",
-      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Sign \"O\" the Times",
         "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 282106,
       "name": "Housequake",
       "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Back In The Day: The Best Of Bootsy",
+        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "Bootzilla",
+      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Let's Work",
+      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
+    },
+    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Controversy",
-        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Let's Work",
-      "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Birth Day",
         "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
       },
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
     },
     {
-      "added_at": "2019-09-06 07:01:00",
-      "album": {
-        "name": "Drum Machine",
-        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
-      },
-      "artists": [
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Drum Machine",
-      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
-    },
-    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
         "name": "Confident (feat. The MB's)",
@@ -1111,6 +1095,54 @@
       "duration_ms": 199893,
       "name": "Confident (feat. The MB's)",
       "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk Ain't Ova",
+        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        },
+        {
+          "name": "Papa Dee",
+          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
+    },
+    {
+      "added_at": "2019-09-06 07:01:00",
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
+      },
+      "artists": [
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
     },
     {
       "added_at": "2019-09-20 18:17:51",
@@ -1147,38 +1179,6 @@
       "duration_ms": 217373,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Funk Ain't Ova",
-        "url": "https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        },
-        {
-          "name": "Papa Dee",
-          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
-        },
-        {
-          "name": "Desmond Foster",
-          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "Dance Or Die",
-      "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 271054,
       "name": "Liar",
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-08-22 14:26:16",

@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 182959,
+  "num_followers": 183037,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGQ3ZTBhZGE0ZjUyM2Q3OWFlMWYxNmZiNDYzYTViOWE4NmFjNDY2",
+  "snapshot_id": "MCxlYzQzMzEyODhiY2JjZTIxNGNkMWQ1ODY2NTkzNjExNjQyOGI2YTdj",
   "tracks": [
     {
       "added_at": "2023-12-01 18:00:25",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "End Of The Day (music from the film Anonymous Club)",
+        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 344235,
+      "name": "Get On With It",
+      "url": "https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Vast (ANNA Remix)",
         "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "End Of The Day (music from the film Anonymous Club)",
-        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
+        "name": "paradox",
+        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
         }
       ],
-      "duration_ms": 344235,
-      "name": "Get On With It",
-      "url": "https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS"
+      "duration_ms": 134493,
+      "name": "paradox",
+      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -523,22 +539,6 @@
       "duration_ms": 143483,
       "name": "Shards",
       "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "paradox",
-        "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
-      },
-      "artists": [
-        {
-          "name": "Headphone Activist",
-          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
-        }
-      ],
-      "duration_ms": 134493,
-      "name": "paradox",
-      "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Escape (Hania Rani Remix)",
-        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 267330,
-      "name": "Escape - Hania Rani Remix",
-      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Receiving (Jon Hopkins Piano Version)",
         "url": "https://open.spotify.com/album/2mKJJ94vYGsYgPNDietDiU"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 383118,
       "name": "Receiving (Jon Hopkins Piano Version)",
       "url": "https://open.spotify.com/track/1qVqPwp9kym1MJxhkC3E8a"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Escape (Hania Rani Remix)",
+        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 267330,
+      "name": "Escape - Hania Rani Remix",
+      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "In Light Of Blues",
         "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1055,22 +1071,6 @@
       "duration_ms": 305691,
       "name": "As I Was - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 118133,
       "name": "Morning Tides",
       "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
         "name": "Intention II",
         "url": "https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 317000,
       "name": "Loving Kindness",
       "url": "https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1471,18 +1471,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+        "name": "Movement VI",
+        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+      "duration_ms": 208000,
+      "name": "Movement VI",
+      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Movement VI",
-        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
       "artists": [
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Movement VI",
-      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1627,6 +1627,42 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
+        "name": "Dear (Haruhisa Tanaka Remix)",
+        "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
+      },
+      "artists": [
+        {
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
+        },
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 130280,
+      "name": "Dear - Haruhisa Tanaka Remix",
+      "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/2UVs5lDKzxXMj3S4VVHqZP"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
         "name": "Flur",
         "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
       },
@@ -1655,42 +1691,6 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/2UVs5lDKzxXMj3S4VVHqZP"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "Dear (Haruhisa Tanaka Remix)",
-        "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
-      },
-      "artists": [
-        {
-          "name": "I.P.U",
-          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
-        },
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 130280,
-      "name": "Dear - Haruhisa Tanaka Remix",
-      "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2023-12-01 18:00:25",
       "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+        "name": "Movement VII",
+        "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
       },
       "artists": [
         {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
         }
       ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
+      "duration_ms": 197777,
+      "name": "Movement VII",
+      "url": "https://open.spotify.com/track/1KnHu2HptVLiKUPn90842Z"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1763,6 +1767,22 @@
       "duration_ms": 295306,
       "name": "Music For Growing Flowers - Pt. 7",
       "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
+    },
+    {
+      "added_at": "2023-12-01 18:00:25",
+      "album": {
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     },
     {
       "added_at": "2023-12-01 18:00:25",
@@ -1795,22 +1815,6 @@
       "duration_ms": 127766,
       "name": "whateverness",
       "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
-    },
-    {
-      "added_at": "2023-12-01 18:00:25",
-      "album": {
-        "name": "VIM",
-        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 207756,
-      "name": "VIM",
-      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
     }
   ],
   "unique_name": "Ambient X",

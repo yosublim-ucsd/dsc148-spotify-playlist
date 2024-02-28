@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44291,
+  "num_followers": 44293,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ1OSw2NjA4ZmJmNGMzZmIwZjFlNGIzNGU5OWRkZmY5MDUzOWIzODkzNmIy",
+  "snapshot_id": "NjQ2MCw0MjQxMWE4YTU4NTEwY2FmNDUyNmRlZDMwNmFkZWFkNDVlZDFkOTQ1",
   "tracks": [
+    {
+      "added_at": "2024-02-27 14:54:15",
+      "album": {
+        "name": "Deeper (feat. Britt Lari)",
+        "url": "https://open.spotify.com/album/4MHyWFTymT76DoaChcI8Kj"
+      },
+      "artists": [
+        {
+          "name": "K3SS",
+          "url": "https://open.spotify.com/artist/56HIHMnIOj1xfjzBtAVxA4"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Deeper (feat. Britt Lari)",
+      "url": "https://open.spotify.com/track/0ZkliuhJeGUEu674X81vYd"
+    },
     {
       "added_at": "2024-02-23 19:44:50",
       "album": {

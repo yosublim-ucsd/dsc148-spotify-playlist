@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 58811,
+  "num_followers": 58853,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1",
+  "snapshot_id": "MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "I'm Tore Down",
-      "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
         "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 260426,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "I'm Tore Down",
+      "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 172059,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "I've Got Love If You Want It",
-      "url": "https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "This Is... Huey 'Piano' Smith",
         "url": "https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 154440,
       "name": "Don't You Just Know It",
       "url": "https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "I've Got Love If You Want It",
+      "url": "https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
         }
       ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+      "duration_ms": 232200,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
       "artists": [
         {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Bayou Blues (Demo Version)",
+        "url": "https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM"
+      },
+      "artists": [
+        {
+          "name": "Lily Belle",
+          "url": "https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Bayou Blues - Demo Version",
+      "url": "https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "The High Cost Of Low Living",
         "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Bayou Blues (Demo Version)",
-        "url": "https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
       },
       "artists": [
         {
-          "name": "Lily Belle",
-          "url": "https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd"
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
         }
       ],
-      "duration_ms": 217234,
-      "name": "Bayou Blues - Demo Version",
-      "url": "https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm"
+      "duration_ms": 230459,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1319,22 +1335,6 @@
       "duration_ms": 116538,
       "name": "Lazy Morning Blues",
       "url": "https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 230459,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "Messin' With The Kid",
-      "url": "https://open.spotify.com/track/0PIaEqgCwnWf3Qi8UI8zWP"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Upstate",
         "url": "https://open.spotify.com/album/6nySaFGbYGGVcR2CKGs64l"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 210260,
       "name": "Put It",
       "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "Messin' With The Kid",
+      "url": "https://open.spotify.com/track/0PIaEqgCwnWf3Qi8UI8zWP"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+        "name": "Oscar's Motel",
+        "url": "https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 170293,
-      "name": "The Wrong Number",
-      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
+      "duration_ms": 166946,
+      "name": "Oscar's Motel",
+      "url": "https://open.spotify.com/track/5yIBM92MXlHeCmAJabfx0s"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1779,8 +1779,8 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Oscar's Motel",
-        "url": "https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4"
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
       "artists": [
         {
@@ -1788,9 +1788,9 @@
           "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 166946,
-      "name": "Oscar's Motel",
-      "url": "https://open.spotify.com/track/5yIBM92MXlHeCmAJabfx0s"
+      "duration_ms": 170293,
+      "name": "The Wrong Number",
+      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "I Cry For You (Live)",
-        "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 132358,
-      "name": "I Cry For You - Live",
-      "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Juke Joint Chapel",
         "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 460640,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "I Cry For You (Live)",
+        "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 132358,
+      "name": "I Cry For You - Live",
+      "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "No Entry",
-        "url": "https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD"
-      },
-      "artists": [
-        {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
-        }
-      ],
-      "duration_ms": 250750,
-      "name": "Fools for Love",
-      "url": "https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Badlands",
         "url": "https://open.spotify.com/album/1zJAyAnj2LQRbdTfH8DUbN"
       },
@@ -2215,22 +2199,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Ain't No Good (But It's Good Enough For Me)",
-        "url": "https://open.spotify.com/album/1cXisOYjn31sHHxnEldlbY"
+        "name": "No Entry",
+        "url": "https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD"
       },
       "artists": [
         {
-          "name": "Sister Cookie",
-          "url": "https://open.spotify.com/artist/6XKmTFkgxCVctqRxptLMLM"
-        },
-        {
-          "name": "Spencer Evoy",
-          "url": "https://open.spotify.com/artist/3M9xbqadZwYIhhNtq0thxX"
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
         }
       ],
-      "duration_ms": 172653,
-      "name": "Ain't No Good (But It's Good Enough for Me)",
-      "url": "https://open.spotify.com/track/3VUAKOTROGVzwpPFalb70O"
+      "duration_ms": 250750,
+      "name": "Fools for Love",
+      "url": "https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2247,6 +2227,26 @@
       "duration_ms": 274693,
       "name": "Hate to See You Go",
       "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Ain't No Good (But It's Good Enough For Me)",
+        "url": "https://open.spotify.com/album/1cXisOYjn31sHHxnEldlbY"
+      },
+      "artists": [
+        {
+          "name": "Sister Cookie",
+          "url": "https://open.spotify.com/artist/6XKmTFkgxCVctqRxptLMLM"
+        },
+        {
+          "name": "Spencer Evoy",
+          "url": "https://open.spotify.com/artist/3M9xbqadZwYIhhNtq0thxX"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Ain't No Good (But It's Good Enough for Me)",
+      "url": "https://open.spotify.com/track/3VUAKOTROGVzwpPFalb70O"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Ridin' with the Blues",
-        "url": "https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT"
-      },
-      "artists": [
-        {
-          "name": "Betty Padgett",
-          "url": "https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He"
-        }
-      ],
-      "duration_ms": 268121,
-      "name": "Old School Blues",
-      "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 172440,
       "name": "I'm Slippin' In",
       "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Ridin' with the Blues",
+        "url": "https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT"
+      },
+      "artists": [
+        {
+          "name": "Betty Padgett",
+          "url": "https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He"
+        }
+      ],
+      "duration_ms": 268121,
+      "name": "Old School Blues",
+      "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "French Cricket",
-        "url": "https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF"
-      },
-      "artists": [
-        {
-          "name": "The Wave Pictures",
-          "url": "https://open.spotify.com/artist/4MOV18YgNAGUBCJi0MIrHw"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "From a Buick 6",
-      "url": "https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "I'm Just Getting Started!",
         "url": "https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 236693,
       "name": "Leavin Trunk",
       "url": "https://open.spotify.com/track/7vnF7vAWro4Cw8qizqsVxU"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "French Cricket",
+        "url": "https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF"
+      },
+      "artists": [
+        {
+          "name": "The Wave Pictures",
+          "url": "https://open.spotify.com/artist/4MOV18YgNAGUBCJi0MIrHw"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "From a Buick 6",
+      "url": "https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP"
     },
     {
       "added_at": "2023-11-24 19:21:59",

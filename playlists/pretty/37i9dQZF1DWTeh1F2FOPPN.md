@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,326 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,392 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 49 | [My Imagination](https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Naked & Warm](https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY) | 4:52 |
 | 50 | [Table For One](https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Honey For Wounds](https://open.spotify.com/album/6rAjOLYMgyddMcP8LLJLcl) | 6:34 |
 
-Snapshot ID: `MCxjZTNhZTUxYTU3NzBjMDRjZjk4NWZmZDYwODhiYjIxZGE1NDI2YWJl`
+Snapshot ID: `MCw5MDkyNWRjMjQyNTQ3ODgzODk4M2RiMDJiZTdlNzc0YjllOGIxZmU2`

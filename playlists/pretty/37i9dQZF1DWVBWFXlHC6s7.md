@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,247 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,310 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 49 | [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 |
 | 50 | [Olha Quem Tá Chegando](https://open.spotify.com/track/1VjA1oLevESicjs7Y3ueZe) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Sempre](https://open.spotify.com/album/2w5cyRvz7tVdrepQjcLPRV) | 6:35 |
 
-Snapshot ID: `MCxiOGQxNzliZjE0NmU3Y2MwNmZmZjQ1MmU3ZWIxZjgxNGM1NWE1YmZl`
+Snapshot ID: `MCw2NmQ5MzVhMWYwZGUzZjY4MTliODBjZTdkYzc2MDQxNDUxMTI1NjFm`

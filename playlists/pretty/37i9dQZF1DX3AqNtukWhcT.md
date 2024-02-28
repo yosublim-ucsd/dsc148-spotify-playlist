@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,118 likes - 136 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,153 likes - 136 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 135 | [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 2:53 |
 | 136 | [Swahili](https://open.spotify.com/track/03ZYpkbpDoUJproBs64vli) | [Hank Drum](https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI) | [Healing My Soul](https://open.spotify.com/album/0QgeFx2lRMC9OpgeOS7cmo) | 2:31 |
 
-Snapshot ID: `MCw4NWUzMzExNDliOWI5YjBmNDAxOTA0OGMxZjFkMDNiNjBhNDk2Y2U1`
+Snapshot ID: `MCwzMzVmNWE2NTJjMjdlZmJiMTAwYjEyMjYwZDc5ZTY3YzYwMDUxN2Zk`

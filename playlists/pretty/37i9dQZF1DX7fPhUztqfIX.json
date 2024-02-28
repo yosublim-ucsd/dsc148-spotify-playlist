@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 121446,
+  "num_followers": 121525,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
+  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -979,6 +979,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Even The Impossible (Live)",
+        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 290133,
+      "name": "Even The Impossible - Live",
+      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Gold (Live)",
         "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Even The Impossible (Live)",
-        "url": "https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN"
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Even The Impossible - Live",
-      "url": "https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8"
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1027,22 +1043,6 @@
       "duration_ms": 300826,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Another In The Fire (Studio)",
+        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Another In The Fire (Studio)",
-        "url": "https://open.spotify.com/album/4kbVuaRR0ZcyqGOJViSwCE"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Another In The Fire - Studio",
-      "url": "https://open.spotify.com/track/5zFwuCz6eVUrSq9MsuAqs9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "THIS MOMENT",
-        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "THIS MOMENT",
-      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "We Have The Name",
         "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 346591,
       "name": "How High",
       "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "THIS MOMENT",
+        "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 176624,
+      "name": "THIS MOMENT",
+      "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Turner",
+          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
+        }
+      ],
+      "duration_ms": 261886,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "My Worship (Live)",
         "url": "https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 459120,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Turner",
-          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
-        }
-      ],
-      "duration_ms": 261886,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Christ Our Hope in Life and Death",
         "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 271320,
       "name": "Christ Our Hope in Life and Death",
       "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "King Jesus",
+        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 414698,
+      "name": "King Jesus - Live",
+      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "King Jesus",
-        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 414698,
-      "name": "King Jesus - Live",
-      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "God of the Breakthrough",
-        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Music",
-          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "God of the Breakthrough",
-      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "God of the Breakthrough",
+        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Music",
+          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "God of the Breakthrough",
+      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "We Rise We Bow",
         "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 339642,
       "name": "White as Snow",
       "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2363,18 +2363,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Your Name (Live)",
-        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl"
       },
       "artists": [
         {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 385294,
-      "name": "Your Name - Live",
-      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
+      "duration_ms": 285690,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc"
     }
   ],
   "unique_name": "New & Bold",

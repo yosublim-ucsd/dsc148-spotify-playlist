@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 84859,
+  "2024-02-28": 84906,
   "date_first_scraped": "2022-09-17",
   "description": "2012 highlights from the home of indie music.",
   "name": "Best of Indie 2012",
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 239613,
       "name": "lofticries",
       "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
@@ -1729,6 +1729,28 @@
       "duration_ms": 231106,
       "name": "On Top (feat. T-Shirt)",
       "url": "https://open.spotify.com/track/1iLH4eIX2JISmOqLQb9hDQ"
+    },
+    {
+      "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "T-Shirt",
+          "url": "https://open.spotify.com/artist/09v1n02OCBEntKxrSTw1L1"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "On Top (feat. T-Shirt)",
+      "url": "https://open.spotify.com/track/6nX7vTBehiIIwcwzS5BrmE"
     },
     {
       "album": {

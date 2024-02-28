@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 2473321,
+  "2024-02-28": 2473303,
   "date_first_scraped": "2021-12-21",
   "description": "Just chill, and potentially disassociate, in 2023. ",
   "name": "Chill Vibes",
@@ -4986,24 +4986,6 @@
     },
     {
       "album": {
-        "name": "Call It Home: Vol. 2",
-        "url": "https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "date_added": "2023-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220186,
-      "name": "In My Baby's Arms",
-      "url": "https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4"
-    },
-    {
-      "album": {
         "name": "Call It Home: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE"
       },
@@ -5019,6 +5001,28 @@
       "duration_ms": 220186,
       "name": "In My Baby's Arms",
       "url": "https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz"
+    },
+    {
+      "album": {
+        "name": "Call It Home: Vol. 2",
+        "url": "https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        },
+        {
+          "name": "Amethyst Starr",
+          "url": "https://open.spotify.com/artist/7euhIbMlHCCZYE1Xegaobf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "In My Baby's Arms",
+      "url": "https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4"
     },
     {
       "album": {

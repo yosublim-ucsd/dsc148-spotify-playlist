@@ -4,7 +4,7 @@
 
 > make it pop! cover: Audrey Nuna
 
-894 songs - 1 day 20 hr 27 min
+895 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-18 | 2022-06-04 |
 | [BLEACH](https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [BLEACH](https://open.spotify.com/album/3uQYcHFnDBBo9K2BK5Ixj8) | 2:29 | 2023-12-08 | 2024-01-13 |
 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 | 2024-02-09 |  |
-| [Bloom](https://open.spotify.com/track/5pvZYywDL4vELF5bwunAEZ) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:33 | 2024-01-05 |  |
+| [Bloom](https://open.spotify.com/track/5pvZYywDL4vELF5bwunAEZ) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:33 | 2024-01-05 | 2024-02-28 |
 | [blue](https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [blue](https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi) | 2:06 | 2022-05-20 | 2022-07-30 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 | 2022-09-17 |
 | [body goes](https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [body goes](https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU) | 2:20 | 2022-02-11 | 2022-02-26 |
@@ -197,6 +197,7 @@
 | [DIGGIN U](https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DIGGIN U](https://open.spotify.com/album/5YjrtoRuM55a22wfsY7UVn) | 2:27 | 2023-04-07 | 2023-07-29 |
 | [dirty white chucks](https://open.spotify.com/track/1OPfgyxxTSpIBuIUORr6x9) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [dirty white chucks](https://open.spotify.com/album/6CUvOeg6Sn0Lnhh6yiYwHN) | 2:38 | 2022-10-14 | 2023-02-11 |
 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-25 | 2022-05-28 |
+| [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 |  |
 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-11-19 | 2022-05-14 |
 | [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 | 2023-01-27 | 2023-03-25 |
 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 | 2023-10-27 | 2024-01-05 |

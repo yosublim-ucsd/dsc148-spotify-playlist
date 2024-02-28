@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-181 songs - 6 hr 16 min
+182 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 | 2023-12-14 |  |
 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 | 2023-09-22 |  |
 | [XoWoah](https://open.spotify.com/track/43zAiS2UVIZ1V4tKoS7wA4) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [XoWoah](https://open.spotify.com/album/6CHQdCW2DoR2hYg8uaYlBd) | 1:37 | 2023-07-21 | 2023-07-29 |
-| [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/55n5kEar6hN5QOv1xbb8f7) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:10 | 2023-09-22 |  |
+| [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/2otVGlTIMyGhIAyCcwb79v) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [XOXO \(Kisses Hugs\)](https://open.spotify.com/album/4KdsYbYINBVOGBfXOfUUJr) | 2:10 | 2024-01-12 |  |
+| [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/55n5kEar6hN5QOv1xbb8f7) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:10 | 2023-09-22 | 2024-02-28 |
 | [XOXO \(Kisses Hugs\)](https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [horrormovies](https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [XOXO \(Kisses Hugs\)](https://open.spotify.com/album/7ypr8nw5re15S7r5XR8Q28) | 2:10 | 2023-08-11 | 2023-11-07 |
 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 | 2023-07-21 | 2024-02-14 |
 | [yellow](https://open.spotify.com/track/1E8bxq8SiUtNWHnWuE0pEJ) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [yellow](https://open.spotify.com/album/3SfKLEwoJnQfEFgkcFzoie) | 2:15 | 2023-07-28 | 2023-08-26 |

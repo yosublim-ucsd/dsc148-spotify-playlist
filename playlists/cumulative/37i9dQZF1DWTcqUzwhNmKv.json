@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "album": {
         "name": "Blood Sweat Tears",
         "url": "https://open.spotify.com/album/6fVJHWIF7IHFLoldp4Rbri"
       },
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 211573,
       "name": "Deep in the Willow",
       "url": "https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg"

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 62187,
+  "2024-02-28": 62216,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -1898,6 +1898,28 @@
     },
     {
       "album": {
+        "name": "Jiyara",
+        "url": "https://open.spotify.com/album/7caa0Y23MzMrbkrjCxXVcX"
+      },
+      "artists": [
+        {
+          "name": "Sourav Dey",
+          "url": "https://open.spotify.com/artist/5lH2vFIQx4St00QvSMe0BX"
+        },
+        {
+          "name": "Satwik Tripathy",
+          "url": "https://open.spotify.com/artist/2hQaGOCSGqVPBdSraSOIPy"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329053,
+      "name": "Jiyara",
+      "url": "https://open.spotify.com/track/2HGUQdjPceANaA1w3PQWoC"
+    },
+    {
+      "album": {
         "name": "Carmonies - Thumri",
         "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
       },
@@ -2870,6 +2892,28 @@
     },
     {
       "album": {
+        "name": "MITWA",
+        "url": "https://open.spotify.com/album/1gw8F1qxpfV0wkcxZDIukP"
+      },
+      "artists": [
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        },
+        {
+          "name": "Anuradha Juju",
+          "url": "https://open.spotify.com/artist/6BhqYI7FqiLWOCgkMtdxXY"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242467,
+      "name": "MITWA",
+      "url": "https://open.spotify.com/track/3JYUtN0G6gTxOO6P0dzBPG"
+    },
+    {
+      "album": {
         "name": "Mohanam",
         "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
@@ -3127,7 +3171,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 202838,
       "name": "Naina Morey - Redefined",
       "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
@@ -4727,7 +4771,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 202281,
       "name": "Savare Aai Jaiyo",
       "url": "https://open.spotify.com/track/3cOcnWHVHSsuWcnTI1TU1j"

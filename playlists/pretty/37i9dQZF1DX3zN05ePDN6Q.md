@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Kamau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,494 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,498 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Poli Sci \(Linhas De Peso\)](https://open.spotify.com/track/4LcDTrUNslaxrivCahTZ5i) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Poli Sci \(Linhas De Peso\)](https://open.spotify.com/album/0x7JxMACS8alYr9f9YvopS) | 2:51 |
 | 75 | [Número Desconhecido feat Cesar](https://open.spotify.com/track/2PrJEyJvfWxihR1RHVC9ou) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS) | [Ligações Estranhas](https://open.spotify.com/album/0M2JvghtMOUmJ9dV7IVALt) | 4:54 |
 
-Snapshot ID: `MCwxYzc4NjVjYTI2ZTVmY2U2MWE4NzY3NzZhNDA0OTczNTg0M2I2NTM4`
+Snapshot ID: `MCwyMjYzMmEyZTUzYTdhZTNhNGRmYTI5NjUxMDk5NGI2YzQ2ZWNiY2Ji`

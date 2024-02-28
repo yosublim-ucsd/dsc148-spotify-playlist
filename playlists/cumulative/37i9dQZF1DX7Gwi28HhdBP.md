@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-247 songs - 18 hr 17 min
+248 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [القلوب طرحت حجارة](https://open.spotify.com/track/6ZrC8g6j9V0e0dBGpUKD0E) | [Tarek El Sheikh](https://open.spotify.com/artist/1yi5rDKyrkV1zdDXOzOMkk) | [القلوب طرحت حجارة](https://open.spotify.com/album/5DigNXSH1AyfVXElOKsKy6) | 5:11 | 2021-12-16 | 2022-04-22 |
 | [اللي تقلان عليك](https://open.spotify.com/track/151ZFGZaaDCHf420EUWxQg) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اللي تقلان عليك](https://open.spotify.com/album/3eX927m0S5mkV7WtSeqC2P) | 3:08 | 2022-07-14 | 2023-05-12 |
 | [اللي تقلان عليك](https://open.spotify.com/track/5hQyXnuYgvcMZRhjBKrscl) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اللي تقلان عليك](https://open.spotify.com/album/7hqx427YVS0gwr25TSduvT) | 3:08 | 2021-12-16 | 2022-07-29 |
-| [اللي من دمك \- من فيلم مرعي البريمو](https://open.spotify.com/track/3mTlBBt5Dqn9SvUS8tD2Fk) | [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [اللي من دمك \(من فيلم مرعي البريمو\)](https://open.spotify.com/album/431ZeDB0dvsNp7ujfuaHaA) | 3:28 | 2023-08-08 |  |
+| [اللي من دمك](https://open.spotify.com/track/2QS371GfBB4gjQVe70OPJ7) | [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [اللي من دمك](https://open.spotify.com/album/1aurRPC5I4Qx24IX1l1J7C) | 3:28 | 2024-02-23 |  |
+| [اللي من دمك \- من فيلم مرعي البريمو](https://open.spotify.com/track/3mTlBBt5Dqn9SvUS8tD2Fk) | [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [اللي من دمك \(من فيلم مرعي البريمو\)](https://open.spotify.com/album/431ZeDB0dvsNp7ujfuaHaA) | 3:28 | 2023-08-08 | 2024-02-28 |
 | [المولد يرجع الفرحة ترجع](https://open.spotify.com/track/3CZOi1OCkOnnR4MtdWh3hz) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [المولد يرجع الفرحة ترجع](https://open.spotify.com/album/1YtoLoItsxMgeI88ynX9KA) | 1:36 | 2021-12-30 | 2023-12-22 |
 | [امانه](https://open.spotify.com/track/1Xqv1JLeOgkaADrmi0Ivpx) | [رمضان البرنس](https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn) | [امانه](https://open.spotify.com/album/4R0XHv67F9qsuNHKZP28iW) | 4:18 | 2022-07-14 | 2023-05-12 |
 | [امانه](https://open.spotify.com/track/4tFQtcaW9BHllKlhn4SAfk) | [رمضان البرنس](https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn) | [امانه](https://open.spotify.com/album/7wgJVoSAQAnYzexJzkIsr3) | 4:18 | 2021-12-16 | 2022-07-29 |

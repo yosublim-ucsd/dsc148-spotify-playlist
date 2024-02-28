@@ -2,9 +2,9 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The rap soundtrack to the internet\. Cover: Barretta
+> The rap soundtrack to the internet\. Cover: BossMan Dlow
 
-956 songs - 1 day 14 hr 59 min
+957 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [BRAND NEW BIH](https://open.spotify.com/track/2RMhLBsc1NT5QVe6r3R0s2) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [DEAD END](https://open.spotify.com/album/25T9DlaD1mFV9F818uZFLx) | 2:58 | 2022-05-27 | 2022-08-02 |
 | [BRB](https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BRB](https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6) | 1:47 | 2023-09-29 | 2023-11-11 |
 | [Bread Head](https://open.spotify.com/track/35bjGZeGBH31RzVvBpa8x1) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Bread Head](https://open.spotify.com/album/71plzbsKknTR8QPMKJtesU) | 3:25 | 2021-10-08 | 2022-02-23 |
+| [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-02-27 |  |
 | [BREATHE\. freestyle](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE\. freestyle](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 | 2023-11-10 |  |
 | [BUBBLE GREEN](https://open.spotify.com/track/3geCHoatBHgpCbLmittPye) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [GHOST \(DELUXE EDITION\)](https://open.spotify.com/album/5Yte8LPU5DI49QYBiMmI4E) | 1:49 | 2023-11-10 |  |
 | [Buggin' Freestyle](https://open.spotify.com/track/4qqvFEtoAQvRdYWTecpbk7) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R) | [Buggin' Freestyle](https://open.spotify.com/album/41cCjr0TBMm6GTXD36A6Tw) | 2:24 | 2022-01-14 | 2022-01-22 |
@@ -445,7 +446,7 @@
 | [Ice Cream Truck](https://open.spotify.com/track/4Y5ap8fb43UxhIZcS3hywg) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB) | [KING OF DRILL](https://open.spotify.com/album/30jC4ilidpca3ks1MijFxI) | 1:46 | 2022-10-18 | 2023-04-12 |
 | [Ice Cream Truck](https://open.spotify.com/track/2df3JPm3fulE2yYYUaOxFZ) | [SugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB), [MOVE LOOK](https://open.spotify.com/artist/7lFBIKbHTSCgAj2CLzDuQ1) | [KING OF DRILL](https://open.spotify.com/album/4Y9DAhfaqRw3aW55W0WrYM) | 1:46 | 2022-10-18 | 2022-12-11 |
 | [Ice Spice](https://open.spotify.com/track/49f5Oe4fSDacBfoaNa9lmL) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Ice Spice](https://open.spotify.com/album/6hymj4hfCoXsFQYO1VqlRi) | 2:41 | 2023-05-26 | 2023-06-17 |
-| [ICEY](https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ICEY](https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4) | 2:11 | 2023-10-06 |  |
+| [ICEY](https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ICEY](https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4) | 2:11 | 2023-10-06 | 2024-02-28 |
 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-10-20 |  |
 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 | 2021-10-22 | 2022-04-09 |
 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 | 2023-03-03 | 2023-09-09 |

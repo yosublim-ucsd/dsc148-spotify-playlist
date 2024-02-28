@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 72001,
+  "2024-02-28": 72054,
   "date_first_scraped": "2023-11-08",
   "description": "t\u00edrate un paso y saca los prohibidos",
   "name": "los pasos prohibidos",
@@ -860,6 +860,24 @@
     },
     {
       "album": {
+        "name": "Las Compuse Para Ti",
+        "url": "https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "La Mushasha Shula",
+      "url": "https://open.spotify.com/track/7lew5Jg3zonvV0sV3pJ3hD"
+    },
+    {
+      "album": {
         "name": "Sex Symbol",
         "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
       },
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 447529,
       "name": "Messirve Mix 3",
       "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"

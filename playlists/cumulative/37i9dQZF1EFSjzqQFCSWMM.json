@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "MP3+WAV",
+        "url": "https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172542,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY"
+    },
+    {
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n"
       },

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-891 songs - 1 day 10 hr 39 min
+892 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [New York Jazz](https://open.spotify.com/track/2YErTW0sU7EK5sRK4AVqfF) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Moontape 18](https://open.spotify.com/album/2pNcufn8ueL7v6KVfc9oqX) | 1:45 | 2023-01-13 | 2023-07-20 |
 | [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-15 | 2022-07-08 |
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
-| [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
+| [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 | 2024-02-28 |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
 | [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 |  |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 | 2023-09-29 |
@@ -523,7 +523,7 @@
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-04-15 | 2022-06-10 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2022-10-28 | 2023-10-06 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
-| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2024-02-26 |
+| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 |  |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |
@@ -732,7 +732,7 @@
 | [Summer Soul](https://open.spotify.com/track/2N4cy1qVpWs4FV625FcVJG) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Summer Soul](https://open.spotify.com/album/0xchkEyuHD2rvQmUO55l2a) | 2:16 | 2023-01-06 |  |
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-04-15 | 2022-04-22 |
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |
-| [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 |  |
+| [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 | 2024-02-28 |
 | [Sunday Stroll](https://open.spotify.com/track/59X5tZsRdrmuj12YKnXvjh) | [Chilles](https://open.spotify.com/artist/13uNHvieT91AQEZiuno4KU) | [Sunday Stroll](https://open.spotify.com/album/4zmXufzsEaiw6tUvElJR6j) | 1:57 | 2022-04-15 | 2022-06-10 |
 | [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-14 |  |
@@ -750,6 +750,7 @@
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
 | [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 |  |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
+| [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-15 | 2022-09-03 |
 | [Symbols](https://open.spotify.com/track/5ICH0pKxnPXbO2HxRIZu7B) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Symbols](https://open.spotify.com/album/27nTElJC0ZAZmaxhXVEXVB) | 2:04 | 2022-12-09 | 2023-10-08 |

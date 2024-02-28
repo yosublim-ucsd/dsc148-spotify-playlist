@@ -4,7 +4,7 @@
 
 > Certified R&B Hits\. Cover: Äyaana, Tamera & Bellah
 
-96 songs - 5 hr 3 min
+97 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2023-10-13 |  |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-24 | 2023-12-12 |
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-24 |  |
+| [Attached](https://open.spotify.com/track/7csdGDOTzwnSNw6jEzXgHL) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Attached](https://open.spotify.com/album/2CKJJ6Tzi3MnqKWRkblieJ) | 2:48 | 2024-02-28 |  |
 | [Be My Guest](https://open.spotify.com/track/1qWBrP1q6NXXpQYYlryCFg) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Be My Guest](https://open.spotify.com/album/4n5ryJWx1DfqljLZp6JH9m) | 2:56 | 2023-10-13 | 2024-01-23 |
 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 | 2023-11-17 |  |
 | [Big Collide](https://open.spotify.com/track/0OApGA4gD4HZP5blgkLha4) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 1](https://open.spotify.com/album/0sIY0aZtq6kG6QJW6rL4Sg) | 3:14 | 2024-01-22 | 2024-02-10 |
@@ -30,7 +31,7 @@
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2024-02-09 | 2024-02-23 |
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2023-11-24 | 2023-12-12 |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-17 | 2024-02-10 |
-| [Girlfriend \(London Girls Mix\)](https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Girlfriend \(London Girls Mix\)](https://open.spotify.com/album/0P8AtYjs6i7Dr1HgqVNfr0) | 2:49 | 2024-02-09 |  |
+| [Girlfriend \(London Girls Mix\)](https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Girlfriend \(London Girls Mix\)](https://open.spotify.com/album/0P8AtYjs6i7Dr1HgqVNfr0) | 2:49 | 2024-02-09 | 2024-02-28 |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2023-10-13 | 2023-11-11 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-13 | 2023-12-12 |
 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 | 2023-10-13 |  |

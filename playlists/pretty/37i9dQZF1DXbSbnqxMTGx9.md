@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,852,534 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,853,189 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 48 | [True To Myself](https://open.spotify.com/track/0sgx4UjoIrLB8rFURf3tIr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 |
 | 49 | [Everything I Own \(7'' Mix\)](https://open.spotify.com/track/4PfDS6wcDp7YvikkmbySak) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/1yQvIiS4aFxcPhzyN7Gw2W) | 3:44 |
 | 50 | [Morning Sun](https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU) | [Al Barry & Friends \(Deluxe Edition\)](https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd) | 2:56 |
-| 51 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
-| 52 | [I'm Still in Love](https://open.spotify.com/track/7d2h9rCEOYTWQN3zQz9LpX) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Legends: Alton Ellis](https://open.spotify.com/album/4J5PDz0V1msazHQwt7GHFV) | 3:45 |
+| 51 | [I'm Still in Love](https://open.spotify.com/track/7d2h9rCEOYTWQN3zQz9LpX) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Legends: Alton Ellis](https://open.spotify.com/album/4J5PDz0V1msazHQwt7GHFV) | 3:45 |
+| 52 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 53 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
 | 54 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 55 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 | 60 | [Your House](https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8) | 3:42 |
 | 61 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/2ACEZokhi5fKPcpGslKy4r) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 3:18 |
-| 62 | [The Sun Stop Shining](https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Very Best](https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov) | 3:11 |
-| 63 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
+| 62 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
+| 63 | [The Sun Stop Shining](https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Very Best](https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov) | 3:11 |
 | 64 | [Fu Man Chu](https://open.spotify.com/track/5sC836mBGkD9vni59G1YyV) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Action! \(Expanded Version\)](https://open.spotify.com/album/6Bz3k5kG4guAbv3lAHMK6u) | 3:17 |
-| 65 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
-| 66 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 |
-| 67 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 |
+| 65 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 |
+| 66 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 |
+| 67 | [Fighting Against Conviction](https://open.spotify.com/track/5MKYnizdhDDik45mEncVXu) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 5:10 |
 | 68 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 |
 | 69 | [Lips of Wine](https://open.spotify.com/track/6X4171NDmAvVgcUYvhGNsA) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Musical Heatwave, The Best of Dennis Brown 1972\-1975](https://open.spotify.com/album/2l5cxpBpaSklRx04YUr0O0) | 2:46 |
 | 70 | [Long Shot \(Kick De Bucket\)](https://open.spotify.com/track/1pIdjzeTD3qGjrPRPoeXAn) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Long Shot](https://open.spotify.com/album/5HSaNp44MKfcyO1FsHaVU5) | 2:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 78 | [Let Down](https://open.spotify.com/track/4aCsgwFhbZ8CmYAotK7W2B) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Radiodread](https://open.spotify.com/album/775nfRVFPVu7WSsIju6ipJ) | 4:44 |
 | 79 | [Love Has Found Its Way](https://open.spotify.com/track/67WC3ZMEQDCvIEVIC0u2Gv) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Love Has Found Its Way](https://open.spotify.com/album/0tnGHsEavusTKzuoiqbSFl) | 4:30 |
 | 80 | [Legalize It](https://open.spotify.com/track/605ZHoLZx7PtQ8fXgvN10K) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [The Essential Peter Tosh \(The Columbia Years\)](https://open.spotify.com/album/5Up8MjtHf71WW4vnVqyb1g) | 4:39 |
-| 81 | [Life](https://open.spotify.com/track/0rBuEt8oLwJNGkByZLzc75) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/54xHmnlaPkXP8NWSuVB1Ft) | 3:42 |
-| 82 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
+| 81 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
+| 82 | [Life](https://open.spotify.com/track/0rBuEt8oLwJNGkByZLzc75) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/54xHmnlaPkXP8NWSuVB1Ft) | 3:42 |
 | 83 | [Kingston Town](https://open.spotify.com/track/7fgWjudYcn1YXHETaz8Coh) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Kingston Town](https://open.spotify.com/album/7zGemYrW0Ef42DdKcHmAvp) | 3:12 |
 | 84 | [Having A Party](https://open.spotify.com/track/02xOwDTstvAHXGfmYO4GPO) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Steve Marshall](https://open.spotify.com/artist/4BuxsDM4ul17kgNNwSFoDE) | [Scratch Came Scratch Saw Scratch Conquered](https://open.spotify.com/album/0iL1xFWXGlkdquy2cchdIi) | 4:40 |
 | 85 | [Guns Of Brixton](https://open.spotify.com/track/2Rrkgr8Kd0XGNbilwip6r8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebirth](https://open.spotify.com/album/1WztlPbmhfAOqYtD81SaKR) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
 | 100 | [Artibella](https://open.spotify.com/track/0vnzp4WlA4giLm9anau8VS) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/0fSvh9zLAMyooFqcqXLdXB) | 2:20 |
 
-Snapshot ID: `MCwxZmFlODA1ZGU0MDFjZDA1NzI5Yjc3NzdkNTQ0OWJiZDdhMDhhNjI0`
+Snapshot ID: `MCw1ZjFiY2EwYTA2NzAzMmE3M2VmYjljMmUyZjJiNzZiY2M2NDlmNjMx`

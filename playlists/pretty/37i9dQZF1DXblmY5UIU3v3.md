@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,684 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,032 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 5 | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 |
 | 6 | [Cursed Midnight \- Radio Edit](https://open.spotify.com/track/0narfFv6R0EDNbwZecDtEQ) | [GLWKMOD](https://open.spotify.com/artist/49WTsslK1g6frRdr895unr) | [Cursed Midnight \(Radio Edit\)](https://open.spotify.com/album/1pLG8WdonN508rhKLfQyaa) | 1:28 |
 | 7 | [Pullin Up](https://open.spotify.com/track/48tI68zHn3r3uHmGxdkKDd) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z) | [Pullin Up](https://open.spotify.com/album/5uCLVj0095GwMv7tjt3IRX) | 1:55 |
-| 8 | [Destruído \- Sped Up](https://open.spotify.com/track/1wCilNbefRGcVKapYltizB) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Destruído \(Sped Up\)](https://open.spotify.com/album/5Whjt2FXHYtCR8kZOBNHcD) | 1:11 |
-| 9 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
+| 8 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
+| 9 | [Destruído \- Sped Up](https://open.spotify.com/track/1wCilNbefRGcVKapYltizB) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Destruído \(Sped Up\)](https://open.spotify.com/album/5Whjt2FXHYtCR8kZOBNHcD) | 1:11 |
 | 10 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 |
 | 11 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
 | 12 | [SNEAKY](https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SNEAKY](https://open.spotify.com/album/5LEr15ggG2zjjQm7KrASpj) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Rahala \(with Arem Ozguc & Arman Aydin\)](https://open.spotify.com/track/6TV56l9QQsHl3Ad3QSRp1i) | [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Rahala \(with Arem Ozguc & Arman Aydin\)](https://open.spotify.com/album/2koJ0Q2koZsHgqtjfo6T0s) | 2:34 |
 | 50 | [Candy Shop](https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z) | [BeeBars](https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Candy Shop](https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K) | 2:20 |
 
-Snapshot ID: `MCw4MjM0NTFhZmRiYmQ4YzNkOWEyNThjNDU4ODYyMWViMDFkNDMxMjVm`
+Snapshot ID: `MCw0YWQyZjhhODVjMDMwYmU3YzM4NDc5MTJjNzgzNjM1YmU3ZDg1YmEx`

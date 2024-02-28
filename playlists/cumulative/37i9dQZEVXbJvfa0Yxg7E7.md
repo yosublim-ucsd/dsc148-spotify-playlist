@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,541 songs - 3 day 8 hr 18 min
+1,542 songs - 3 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Hytta Mi](https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hytta Mi](https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc) | 2:18 | 2022-02-26 | 2022-03-23 |
 | [Hyttetur](https://open.spotify.com/track/61uGtEPHDTwYDVwI7kMMFY) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Hyttetur](https://open.spotify.com/album/4HDNQrYhtgJEWQwT6cvDZk) | 2:43 | 2021-10-31 | 2021-11-07 |
 | [Hæljetur](https://open.spotify.com/track/3TeeRufXk2BpyOxF5TmkY3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2lgD71SRyfJmX44XD7byQ9) | 2:25 | 2021-06-27 | 2021-08-25 |
-| [Hæljetur \(feat\. Hagle\)](https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR) | [DJ MøMø](https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [DJ MøMø presenterer: Bukkene Bruse på badeland](https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH) | 1:56 | 2023-12-16 |  |
+| [Hæljetur \(feat\. Hagle\)](https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR) | [DJ MøMø](https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [DJ MøMø presenterer: Bukkene Bruse på badeland](https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH) | 1:56 | 2023-12-16 | 2024-02-28 |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-21 | 2022-07-01 |
 | [Høyt over havet](https://open.spotify.com/track/6uD9bwAyCMeKmf5xr2WDRa) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Høyt over havet](https://open.spotify.com/album/4AsokQz7DYj1OZQYxdFTlg) | 2:55 | 2022-01-22 | 2022-02-27 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-15 | 2023-01-24 |
@@ -1389,6 +1389,7 @@
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-09 | 2022-10-23 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-11-07 | 2022-05-15 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-08-07 |  |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-27 |  |
 | [The Way Our Story Goes](https://open.spotify.com/track/7onSy9XJzdC4Xnkvu1MCA8) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [The Way Our Story Goes](https://open.spotify.com/album/35IbXG3nKSmTO1M1Vo1PdN) | 3:08 | 2021-07-11 | 2021-11-14 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-12 | 2022-11-20 |
 | [TheMostBeautifulShowInTheWorld\(RightNow\)\_v2\_020822.wav](https://open.spotify.com/track/5nG1GrKDzkOQ9pWw49uhgj) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [MIKE IT SPEKTRUM](https://open.spotify.com/album/6nfpKR7onKsfAS53VFk5vq) | 5:39 | 2022-08-06 | 2022-08-19 |

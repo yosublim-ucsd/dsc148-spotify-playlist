@@ -385,6 +385,6 @@
 | [You And I](https://open.spotify.com/track/6edokVCq9qFr1JGUXavc0E) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [You And I](https://open.spotify.com/album/6CJzpxg0k2r8SNFq7ieYGc) | 2:59 | 2023-02-23 | 2023-03-10 |
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2023-02-23 | 2023-02-28 |
 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 | 2023-02-23 | 2023-09-23 |
-| [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-22 |  |
+| [Écoutez\-moi \- NL](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-22 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

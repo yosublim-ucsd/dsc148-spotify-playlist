@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 21788,
+  "num_followers": 21840,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWYyN2RjODA3NzVhNDBmZTMwM2I2OWQwZmVmYzYyYzMyMzQzOGZk",
+  "snapshot_id": "MCwzYmFlODQyNzhkNWFiMDNlOTJmYjQ5MDBmZjA5MGUyMWM1MDhmMTNi",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+        "name": "Summers",
+        "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 197972,
-      "name": "Leg Over",
-      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+      "duration_ms": 209605,
+      "name": "4 Nothin'",
+      "url": "https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -239,22 +243,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Summers",
-        "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 209605,
-      "name": "4 Nothin'",
-      "url": "https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL"
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -295,42 +295,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -347,6 +311,42 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Gentility (feat. Wande Coal)",
+        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -395,22 +395,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Gentility (feat. Wande Coal)",
-        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -567,30 +567,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Routine Lover",
-        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
-      },
-      "artists": [
-        {
-          "name": "Good Nation",
-          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Routine Lover",
-      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Breaking The Yoke Of Love",
         "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Routine Lover",
+        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Routine Lover",
+      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "added_at": "2024-02-23 00:00:00",

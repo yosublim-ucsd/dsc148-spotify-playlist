@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 29738,
+  "2024-02-28": 29766,
   "date_first_scraped": "2023-05-19",
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Pina Colada Blues",
   "name": "Malayalam Indie",
@@ -2599,6 +2599,28 @@
       "duration_ms": 206071,
       "name": "Roses",
       "url": "https://open.spotify.com/track/12ungtim2fPt6ebI8RyFtd"
+    },
+    {
+      "album": {
+        "name": "Sana (From \"Think Specials\")",
+        "url": "https://open.spotify.com/album/77I3U74J8dFJ2T3H1eWCsH"
+      },
+      "artists": [
+        {
+          "name": "Sharan Rajamohanan",
+          "url": "https://open.spotify.com/artist/1T7PhOdpNZ3sOUM7r6Qqkt"
+        },
+        {
+          "name": "Anand Sankar",
+          "url": "https://open.spotify.com/artist/5a6vjcYewFeGYRnHLVF23k"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Sana - From \"Think Specials\"",
+      "url": "https://open.spotify.com/track/3sFi34K2RKSTqEFLQ7HVLl"
     },
     {
       "album": {

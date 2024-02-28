@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=DGNulj14TvmcL1mE7I6rdg">Spirit Of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,807 likes - 89 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,951 likes - 89 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 34 | [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 |
 | 35 | [Ntho ke ena \(Live\)](https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs) | [Tebs David](https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv) | [Ntho ke ena \(Live\)](https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3) | 6:00 |
 | 36 | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mish Mahendere](https://open.spotify.com/artist/3yKe6QM3lmU3oyFkONGp5b) | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/album/4h6o8q9jm2Ui1PIOuWNbEl) | 7:35 |
-| 37 | [Ke Jeso Jeso \(Live at Worship House Church Limpopo, 2023\) \(feat\. Marc Sathekge\)](https://open.spotify.com/track/0buwNSVYhWmF5OJB5yGoGG) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Marc Sathekge](https://open.spotify.com/artist/5oeONYxithKJWXZEuEsVMD) | [Ke Jeso Jeso \(Live at Worship House Church Limpopo, 2023\) \(feat\. Marc Sathekge\)](https://open.spotify.com/album/4B2zCui5CF6jIqw7sVX90j) | 5:31 |
+| 37 | [Jeso Ke Jeso \(Live at Worship House Church Limpopo, 2023\) \(feat\. Marc Sathekge\)](https://open.spotify.com/track/0buwNSVYhWmF5OJB5yGoGG) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Marc Sathekge](https://open.spotify.com/artist/5oeONYxithKJWXZEuEsVMD) | [Jeso Ke Jeso \(Live at Worship House Church Limpopo, 2023\) \(feat\. Marc Sathekge\)](https://open.spotify.com/album/4B2zCui5CF6jIqw7sVX90j) | 5:31 |
 | 38 | [Thato Ya Hao \(Live\)](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 |
 | 39 | [Nxa Ngimbona \- Live](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa Ngimbona \(Live\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |
 | 40 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 88 | [Indodana](https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 2](https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b) | 4:54 |
 | 89 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
 
-Snapshot ID: `MCwzMTA5NTE5MTJjOThjOGZkNjMwZjdiYzE0MTMzOTdjZTNkNzcxN2Fj`
+Snapshot ID: `MCwxMTVhMTFiNTE4M2VlMTk4MmNjNzAzNDRhZDJiNDViNjVhMWNlYzA0`

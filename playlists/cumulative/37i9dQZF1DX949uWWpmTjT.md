@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-964 songs - 2 day 14 hr 33 min
+966 songs - 2 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 |  |
 | [Hello From Above](https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Blues For Elsie](https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk) | 3:40 | 2023-08-10 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
+| [Help You Understand](https://open.spotify.com/track/5kaOT9THuBmY70BZaS88n6) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Help You Understand](https://open.spotify.com/album/4IHpFZkZro9QOBaaTxBEyv) | 3:28 | 2024-02-23 |  |
 | [Here It Is](https://open.spotify.com/track/5Y09UPBhAV1diMYpsTtVD9) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Here It Is](https://open.spotify.com/album/4v0eJPx0AOAzFXMv1S9x0g) | 3:08 | 2023-02-02 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/2qyXVaQWQMa8TvzB71EmWE) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Here's That Rainy Day](https://open.spotify.com/album/6pqnv43CbP2jV3A4AySGfG) | 3:47 | 2023-03-23 |  |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-05-19 |  |
@@ -773,6 +774,7 @@
 | [Sweet Smile](https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Sweet Smile](https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH) | 3:54 | 2024-02-02 |  |
 | [Sweetness](https://open.spotify.com/track/3xvd1bC0V1U3nQ24y2nBk8) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 4:48 | 2022-05-24 | 2024-02-12 |
 | [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 |  |
+| [Swingin' Skylines](https://open.spotify.com/track/11mlMYGexF7TeSK7AXtVmH) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Swingin' Skylines](https://open.spotify.com/album/5IiL0oL5yKQx50gWnUYczD) | 3:55 | 2024-02-23 |  |
 | [Take me to Liverpool](https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Take me to Liverpool](https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe) | 3:24 | 2023-09-29 |  |
 | [Take Your Time](https://open.spotify.com/track/0hCcbt1WPlwjS5giGx8UaK) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Take Your Time](https://open.spotify.com/album/5qve7y23g4aLXc7ePaJPAN) | 4:38 | 2023-12-08 |  |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2023-02-09 |  |
@@ -801,7 +803,7 @@
 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 | 2023-08-10 |  |
 | [The Foolish Heart](https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [The Foolish Heart](https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt) | 3:03 | 2023-12-08 |  |
 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-02-09 |  |
-| [The heat she gives](https://open.spotify.com/track/3b6UkXsKzEAkJfZI1P6AsM) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [The heat she gives](https://open.spotify.com/album/3WYVEv0vyp2eDYUgZr5bUz) | 3:23 | 2023-09-22 |  |
+| [The heat she gives](https://open.spotify.com/track/3b6UkXsKzEAkJfZI1P6AsM) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [The heat she gives](https://open.spotify.com/album/3WYVEv0vyp2eDYUgZr5bUz) | 3:23 | 2023-09-22 | 2024-02-28 |
 | [The Itsy Bitsy Spider](https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 2:53 | 2023-06-15 | 2024-02-04 |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 |  |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-10 |  |
@@ -922,7 +924,7 @@
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 |  |
 | [Whereabouts](https://open.spotify.com/track/3Rdu91Lo2IV8DGtRxDGLUW) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Whereabouts](https://open.spotify.com/album/741MymriPlO7PoJwbbjQ57) | 4:19 | 2023-05-04 |  |
-| [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2022-03-25 |  |
+| [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2022-03-25 | 2024-02-28 |
 | [Whiplashed](https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Whiplashed](https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw) | 3:17 | 2023-04-27 |  |
 | [Whispered Longing](https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Whispered Longing](https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF) | 3:12 | 2024-02-02 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-06-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 152478,
+  "num_followers": 152533,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
+  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "King Of The Blues",
-        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Come to Find",
         "url": "https://open.spotify.com/album/0EiOsxtSUCiyOCiHU8kUF0"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "King Of The Blues",
+        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/1k6zIr7FmCDWBlEGMjkwLb"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144040,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
-      },
-      "artists": [
-        {
-          "name": "Jantso Jokelin",
-          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
-        }
-      ],
-      "duration_ms": 219915,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Life Don\u2019t Miss Nobody",
         "url": "https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 335826,
       "name": "It Don\u2019t Make Sense (feat. Charlie Musselwhite)",
       "url": "https://open.spotify.com/track/0txqnDmfzvIjD2c7XjuEFx"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
+      },
+      "artists": [
+        {
+          "name": "Jantso Jokelin",
+          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
+        }
+      ],
+      "duration_ms": 219915,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 420181,
-      "name": "Weak Days",
-      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Aynsley Dunbar Retaliation",
         "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 229266,
       "name": "Double Lovin\u00b4",
       "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 420181,
+      "name": "Weak Days",
+      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
     },
     {
       "added_at": "2023-10-05 08:53:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 5 | [Be humble](https://open.spotify.com/track/1DeRLkQZCioGKOYXlzOgZV) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Be humble](https://open.spotify.com/album/653kI0gglML45glmvgeBhh) | 2:34 |
 | 6 | [Boy Fire](https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Boy Fire](https://open.spotify.com/album/3kWRIFkHfECb8Cs9rWvoTK) | 2:53 |
 | 7 | [Boom Party](https://open.spotify.com/track/147olVVx5fVRdmuFU3bzqS) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:26 |
-| 8 | [Tosobola](https://open.spotify.com/track/7wAH1MV2G19AMfWLvjabJq) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Tosobola](https://open.spotify.com/album/7gaDRnjC2iS7GoqTTqmX7p) | 2:41 |
-| 9 | [Nalonda Nemala](https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Nalonda Nemala](https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG) | 3:02 |
+| 8 | [Nalonda Nemala](https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Nalonda Nemala](https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG) | 3:02 |
+| 9 | [Tosobola](https://open.spotify.com/track/7wAH1MV2G19AMfWLvjabJq) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Tosobola](https://open.spotify.com/album/7gaDRnjC2iS7GoqTTqmX7p) | 2:41 |
 | 10 | [Teacher](https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Teacher](https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb) | 2:44 |
 | 11 | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji) | [Crysto Panda](https://open.spotify.com/artist/3z5uVPKm4ddcD43sK0dxAX), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD) | 3:00 |
 | 12 | [Best Friend](https://open.spotify.com/track/7xZBxRmN04ut0FeOt4IkrW) | [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa), [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [On My Way](https://open.spotify.com/album/3odxvb0YleysbfxNeBomkR) | 3:51 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 14 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
 | 15 | [Tumbiza Sound](https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu) | [Eezzy](https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg) | [Tumbiza Sound](https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx) | 3:10 |
 | 16 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
-| 17 | [Bounce](https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM) | [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu), [Kanyere](https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO) | [Bounce](https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X) | 2:50 |
-| 18 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
+| 17 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
+| 18 | [Bounce](https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM) | [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu), [Kanyere](https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO) | [Bounce](https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X) | 2:50 |
 | 19 | [Wakikuba](https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg) | 2:45 |
 | 20 | [Juicy Body](https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg) | [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3), [Ritah Danchall](https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl) | [JUICY BODY](https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns) | 2:30 |
 | 21 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 40 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 41 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
 | 42 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
-| 43 | [Lock Down](https://open.spotify.com/track/3FpDRPuh4aHOOVtvlYhpB3) | [Bright Sun UG](https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr) | [Lock Down](https://open.spotify.com/album/4a2WRG82z0bI5RWYK9AN1Q) | 1:48 |
-| 44 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
+| 43 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
+| 44 | [Lock Down](https://open.spotify.com/track/3FpDRPuh4aHOOVtvlYhpB3) | [Bright Sun UG](https://open.spotify.com/artist/1xrnUySELZ84OUp4gE6oLr) | [Lock Down](https://open.spotify.com/album/4a2WRG82z0bI5RWYK9AN1Q) | 1:48 |
 | 45 | [Kyekyo](https://open.spotify.com/track/6GRgSWl7y19yQHyUXjoYG7) | [Sylvia Wase](https://open.spotify.com/artist/7I4Q6C7wLEbm81464NoATE), [Zex Bilangilangi](https://open.spotify.com/artist/19k30kNL4RyLA6A182zubI) | [Kyekyo](https://open.spotify.com/album/2UtGfOn0PJSuRVVrren0bO) | 3:06 |
 | 46 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
 | 47 | [Sikyegomba](https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [DVJ Pofia](https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC) | [Sikyegomba](https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 50 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
 
-Snapshot ID: `MCw2NzRiZmJiNjFiYWFkOGRkYzg5NGExNjczMDY3MWZjZDcxODM0Zjc4`
+Snapshot ID: `MCw4ZjY3ZTFhZmQzYjg4ZGY1NWI5ZDE0MmQ1Y2U2MzI1NDYxNGE0YzUx`

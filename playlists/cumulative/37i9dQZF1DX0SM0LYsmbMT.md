@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,023 songs - 6 day 9 hr 48 min
+4,024 songs - 6 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,6 +1184,7 @@
 | [Flushing the Stairs](https://open.spotify.com/track/16lFjZrnMZmW9wU44yexlY) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Flushing the Stairs](https://open.spotify.com/album/4cBSnTytjdcnDt8QvpwSmt) | 2:52 | 2020-11-06 | 2021-01-04 |
 | [Flutes And Guitars](https://open.spotify.com/track/7DT6pXL5Z6XMNRtmiOw1SM) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Flutes And Guitars](https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq) | 1:36 | 2023-06-01 |  |
 | [fluttr](https://open.spotify.com/track/3tys93mrUZQSpGUM2H7U3Q) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [fluttr](https://open.spotify.com/album/0FEZp9tj02g0YUJA9qYiSA) | 1:54 | 2022-01-20 | 2022-02-18 |
+| [Fly Out](https://open.spotify.com/track/7x36vjH0FIl4W1cCKFcg91) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Fly Out](https://open.spotify.com/album/1u4IthfRjpdZ5TW3N6EWIc) | 1:55 | 2024-02-22 |  |
 | [Fly Shit 2](https://open.spotify.com/track/253gLNG4TlHxP5Tgal2vzR) | [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Fly Shit 2](https://open.spotify.com/album/7shx3fdkpfpOqmgtssqu5I) | 4:03 | 2021-06-02 | 2021-07-16 |
 | [Flying High and Far Away](https://open.spotify.com/track/7fcB3t6ujBawDAUYb3HasP) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Flying High and Far Away](https://open.spotify.com/album/59CM689tZtnKhsk2QV7Rvb) | 2:22 | 2023-11-16 | 2023-12-02 |
 | [Flying Lessons](https://open.spotify.com/track/66cDR3rvUeDDt38UOkeJBa) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Flying Lessons](https://open.spotify.com/album/21RplqQnRza3oaZhjStyc4) | 2:39 | 2021-02-08 | 2021-03-06 |
@@ -1426,7 +1427,7 @@
 | [Hawt](https://open.spotify.com/track/6wasJIB3ktEtaTjndRlI1c) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [Hawt](https://open.spotify.com/album/4BQgWRawMOFWJxbPlDGZGO) | 1:06 | 2019-05-26\* | 2019-06-15 |
 | [Hay](https://open.spotify.com/track/1YKP7j0LjnSu4pZpquGaJT) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Sacnid](https://open.spotify.com/artist/14iDPvEpIzsD4d0zLKWOtQ) | [fluid EP](https://open.spotify.com/album/2wIE2GqdEPGxmnFhromZ4W) | 3:27 | 2022-07-28 | 2022-10-25 |
 | [Hay](https://open.spotify.com/track/3tHfyC2FvY53el71ptmkkm) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Sacnid](https://open.spotify.com/artist/14iDPvEpIzsD4d0zLKWOtQ) | [Hay](https://open.spotify.com/album/6vg8x0v6Fubxn9iUps2xl1) | 3:27 | 2021-09-17 | 2022-07-29 |
-| [Hazey](https://open.spotify.com/track/2rDxQ4QksLeOwwelctmOLE) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Hazey](https://open.spotify.com/album/77yiJRvx13PUJm7TRhfakf) | 2:18 | 2024-02-08 |  |
+| [Hazey](https://open.spotify.com/track/2rDxQ4QksLeOwwelctmOLE) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Hazey](https://open.spotify.com/album/77yiJRvx13PUJm7TRhfakf) | 2:18 | 2024-02-08 | 2024-02-28 |
 | [Hazy](https://open.spotify.com/track/62k2SLCvhaoOS8DqhKOgn3) | [Says Phoebe](https://open.spotify.com/artist/2OIUuweyg8QxHPZWqUs2c7), [Rola](https://open.spotify.com/artist/6htMzIeVHLO2pKFENGWq5p) | [Hazy](https://open.spotify.com/album/2lfrFhV8R9H2kIpKDlZUKk) | 2:17 | 2021-05-21 | 2021-06-18 |
 | [hazy](https://open.spotify.com/track/2Xrqho8Rm3QcKAYXVQz3mo) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [hazy](https://open.spotify.com/album/2ROwISBb2bfXZ9qtPuISoJ) | 2:12 | 2021-08-13 | 2021-10-16 |
 | [Hazy Gecko](https://open.spotify.com/track/6V1GgtdF8APrdzxbAUiRZA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Hazy Gecko](https://open.spotify.com/album/0hqkdW7XU9SBfCqdnmGRHo) | 2:10 | 2022-05-12 | 2022-09-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW?si=vxymvPdCSwSPLOgqLXMARw\"> King Perryy</a>",
-  "num_followers": 43964,
+  "num_followers": 44025,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzIzOWVjODFkODM2NDcyYzhkZjYxODJiNTQxNWRkNTJiNDY2MDUw",
+  "snapshot_id": "MCxjNjZmOTBlYzQyZDUxMmZiZTgzMDZhYzMzMTk3ZTZkMjg2YzUzN2Fh",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -471,42 +471,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
@@ -527,6 +491,42 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -859,6 +859,30 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
+      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/12KTYt5AkiDP3GL7QSXd6W"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
-      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "BOYAHNAH",
         "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 124069,
       "name": "P.P.P (Puff Puff Pass)",
       "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "In Charge",
-      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Oppress",
         "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 222857,
       "name": "Oppress",
       "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1323,8 +1323,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Make E No Cause Fight 3",
-        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
       "artists": [
         {
@@ -1334,11 +1334,15 @@
         {
           "name": "Ajebutter22",
           "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         }
       ],
-      "duration_ms": 171272,
-      "name": "42",
-      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1363,26 +1367,6 @@
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Philo (Remix)",
-        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Philo - Remix",
-      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1423,6 +1407,30 @@
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Breakfast in Lagos",
+        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
+      },
+      "artists": [
+        {
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Fire Wood",
+      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS en portada.",
-  "num_followers": 1217796,
+  "num_followers": 1218025,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTIxMWE2NzA2NjhkMDAwMWFiOWY2NWZlYTZhNmUxZDM2ODhhOGEz",
+  "snapshot_id": "MCxiMDQxZDZlMDA4ZjNhOGE4NzI0MWFhYjM1Nzk5MmFjYzBjNmJhMDgy",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "10+10",
         "url": "https://open.spotify.com/album/6kNx2FYpxe6xeUWZpxrv8f"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 167786,
       "name": "Soy un Desmadre",
       "url": "https://open.spotify.com/track/2TD8LyMFCqStcDdGbEt0kP"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "De Mezclilla el Chalec\u00f3n",
-        "url": "https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG"
+        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 154920,
-      "name": "De Mezclilla el Chalec\u00f3n",
-      "url": "https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV"
+      "duration_ms": 165613,
+      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Quien Te Dio Permiso",
-        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Quien Te Dio Permiso",
-      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera (En vivo)",
       "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Quien Te Dio Permiso",
+        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Quien Te Dio Permiso",
+      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
+        "name": "De Mezclilla el Chalec\u00f3n",
+        "url": "https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG"
       },
       "artists": [
         {
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+      "duration_ms": 154920,
+      "name": "De Mezclilla el Chalec\u00f3n",
+      "url": "https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "El Rog\u00f3n",
-        "url": "https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 161346,
-      "name": "El Rog\u00f3n",
-      "url": "https://open.spotify.com/track/3RBeE3VtrTXxGILHzdlxSe"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "M\u00e1ndame Otra Vez A La Chingada",
         "url": "https://open.spotify.com/album/370vnYfsorNlT6jEV2ul1X"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 214775,
       "name": "M\u00e1ndame Otra Vez A La Chingada",
       "url": "https://open.spotify.com/track/5Xd5yjl9UdzLQxclBT6pMf"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "El Rog\u00f3n",
+        "url": "https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "El Rog\u00f3n",
+      "url": "https://open.spotify.com/track/3RBeE3VtrTXxGILHzdlxSe"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "De Memoria Me Las S\u00e9",
+        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "De Memoria Me Las S\u00e9",
+      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Le Dicen",
         "url": "https://open.spotify.com/album/4z1cTOtcm5Y3rCyiBENidv"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 203613,
       "name": "Le Dicen",
       "url": "https://open.spotify.com/track/66Fs6uL39wuJX2NmKM7mKH"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "De Memoria Me Las S\u00e9",
-        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "De Memoria Me Las S\u00e9",
-      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1979,6 +1979,26 @@
       "duration_ms": 188166,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
+        "url": "https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 222202,
+      "name": "Que Me Digan Loco",
+      "url": "https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -2039,26 +2059,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
-        "url": "https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 222202,
-      "name": "Que Me Digan Loco",
-      "url": "https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Es Demasiado Tarde (En Vivo)",
         "url": "https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b"
       },
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Me Vas A Comparar",
-        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Me Vas A Comparar",
-      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 188000,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Me Vas A Comparar",
+        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Me Vas A Comparar",
+      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
     },
     {
       "added_at": "2024-02-16 06:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 606301,
+  "2024-02-28": 606326,
   "date_first_scraped": "2021-12-21",
   "description": "Latin music bangers for your gaming session! Cover: Eladio Carrion",
   "name": "Latin Gaming",
@@ -513,7 +513,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
@@ -4184,6 +4184,24 @@
     },
     {
       "album": {
+        "name": "fa$hion killa",
+        "url": "https://open.spotify.com/album/5UfL0JnWie1XjTqmPhf8R8"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128332,
+      "name": "fa$hion killa",
+      "url": "https://open.spotify.com/track/64KyVkOxuptx0T5ecVZdfP"
+    },
+    {
+      "album": {
         "name": "Cuatro d\u00edas en Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/7vz5S4gQcJybhgWHC6vMou"
       },
@@ -5005,7 +5023,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 229946,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
@@ -7654,6 +7672,36 @@
     },
     {
       "album": {
+        "name": "mi \u00faltimo peso",
+        "url": "https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT"
+      },
+      "artists": [
+        {
+          "name": "Foking",
+          "url": "https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        },
+        {
+          "name": "DommoBeats",
+          "url": "https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140767,
+      "name": "mi \u00faltimo peso",
+      "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
+    },
+    {
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -8580,6 +8628,32 @@
     },
     {
       "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -9411,7 +9485,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 192122,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"

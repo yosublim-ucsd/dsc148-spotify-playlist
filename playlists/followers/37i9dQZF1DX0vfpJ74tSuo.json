@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 67561,
+  "2024-02-28": 67566,
   "date_first_scraped": "2022-05-26",
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
   "name": "Morning Blues",
@@ -2467,7 +2467,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 134333,
       "name": "Mashing Rain",
       "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
@@ -3203,7 +3203,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 232760,
       "name": "Same Train",
       "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 6137,
+  "2024-02-28": 6139,
   "date_first_scraped": "2022-05-30",
   "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam. \u1ea2nh b\u00eca: NSND B\u1ea1ch Tuy\u1ebft, Nal",
   "name": "V\u1ec1 Qu\u00ea",
@@ -1865,6 +1865,24 @@
     {
       "album": {
         "name": "T\u00ecnh L\u00e0 G\u00ec",
+        "url": "https://open.spotify.com/album/4L8IWrNxt0QeXoQlZrMAdJ"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302880,
+      "name": "T\u00e1t N\u01b0\u1edbc \u0110\u1ea7u \u0110\u00ecnh",
+      "url": "https://open.spotify.com/track/121yxFWXB5N4tKlvH82ujT"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh L\u00e0 G\u00ec",
         "url": "https://open.spotify.com/album/79pLdkBrst1icsDhBCBNqV"
       },
       "artists": [
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 302880,
       "name": "T\u00e1t N\u01b0\u1edbc \u0110\u1ea7u \u0110\u00ecnh",
       "url": "https://open.spotify.com/track/4lW0zwt8ldnR6Y6cDLNihS"

@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Jazzy
 
-375 songs - 19 hr 50 min
+376 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,8 @@
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-11 |  |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 | 2023-12-19 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-14 | 2024-01-15 |
-| [Oh No \(Pt\. 2\)](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 | 2023-12-14 |  |
+| [Oh No \(Pt\. 2\)](https://open.spotify.com/track/14vClNeFAr5f5cDwVm0Peg) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:08 | 2024-01-19 |  |
+| [Oh No \(Pt\. 2\)](https://open.spotify.com/track/1cHmANSBDzxAWAKruCpc6m) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/7seqV24vhfyk9pJRLqD7Wq) | 4:08 | 2023-12-14 | 2024-02-28 |
 | [Oh No \(Pt\. 2\)](https://open.spotify.com/track/7ppapk8LyD7fRS1KkOHyWw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Oh No \(Pt\. 2\)](https://open.spotify.com/album/5Hnuvo0FsD2vgVPp8FHHEN) | 4:08 | 2023-12-14 | 2023-12-16 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-09-14 | 2024-01-19 |
 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 | 2023-06-15 | 2023-08-04 |

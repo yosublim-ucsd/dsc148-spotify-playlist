@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 168862,
+  "num_followers": 169098,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjRmMDdjMWEwYmJlMzUxMTE3N2YyNjZmZDg0NTI0N2M5MTVkMzcx",
+  "snapshot_id": "MCw4YWY3NWI2OWQ0NmIzMjQyOGQzNjMwMjI0ZjBmZjdlZGM5ZjA4ODg2",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+        "name": "...Is Doomed",
+        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
       },
       "artists": [
         {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+          "name": "Black Wing",
+          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
         }
       ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+      "duration_ms": 505249,
+      "name": "If I Let Him In",
+      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -955,22 +971,6 @@
       "duration_ms": 452869,
       "name": "For Horror Eats The Light",
       "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "...Is Doomed",
-        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
-      },
-      "artists": [
-        {
-          "name": "Black Wing",
-          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
-        }
-      ],
-      "duration_ms": 505249,
-      "name": "If I Let Him In",
-      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Lie Beneath the Stars",
         "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
       },
@@ -1135,18 +1119,34 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 285312,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
     }
   ],
   "unique_name": "gloomcore",

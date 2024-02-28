@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Mad Caddies",
-  "num_followers": 46739,
+  "num_followers": 46773,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDdjNjNlOGU3YzE2YWVlYTkyNmYwOTQ4ODhiMGVhMDA0OGE0ZmQx",
+  "snapshot_id": "MCxkNDc3MGQ5YzIwYWFjNzI4ZWQxMjZiOTMzMDBhZmE3NjNkMmQ5ZjYy",
   "tracks": [
     {
       "added_at": "2024-02-23 18:26:31",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2024-02-23 18:26:31",
       "album": {
-        "name": "Si Oh !",
-        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
+        "name": "...and the usual suspects",
+        "url": "https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ"
       },
       "artists": [
         {
-          "name": "Los Tres Puntos",
-          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
+          "name": "Oxo86",
+          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
+        },
+        {
+          "name": "Ole - Brutal Bravo",
+          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+      "duration_ms": 239725,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF"
     }
   ],
   "unique_name": "Ska Around The Globe",

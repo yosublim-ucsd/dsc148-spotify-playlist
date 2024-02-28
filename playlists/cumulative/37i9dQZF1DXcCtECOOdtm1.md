@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-80 songs - 6 hr 33 min
+81 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0yiMxEV6t1oJsDZDQaf7vB) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [GOODDEST](https://open.spotify.com/album/2X3g1UYUiMk7xmhWcoj7pc) | 5:15 | 2021-04-15 |  |
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0QeQUNszvuv1lyIFgpd5XA) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/7GFX6rzvQeZQkrildFNh7V) | 5:16 | 2021-04-15 | 2022-07-29 |
 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/1sfrk3nOYwWCEjS9iMbTzC) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [I will Survive](https://open.spotify.com/album/3zHBk88iuV6Jl9WJrxqAVA) | 5:16 | 2021-04-15 | 2022-11-13 |
-| [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 | 2021-04-15 |  |
+| [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 | 2021-04-15 | 2024-02-28 |
 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2WOB3RH7MLpaNFjkIGVn1B) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [City Pop Essentials \- Drive \-](https://open.spotify.com/album/6Z4Ojg2KQEMblEKke3seBH) | 4:26 | 2021-04-15 |  |
 | [Happy\-Go\-Lucky](https://open.spotify.com/track/2nPddaj5ME4Vm11jvKEkSe) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [LUCY](https://open.spotify.com/album/0N1zL99Endak0l1KFoWT18) | 4:26 | 2021-04-15 | 2023-08-11 |
 | [HORIZON](https://open.spotify.com/track/782gyHAHXhoTQ1pcjEksD9) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Illuminate～the very best songs～](https://open.spotify.com/album/6IZB1TIO4uGrQfXNzOblGn) | 4:53 | 2021-04-15 |  |
@@ -38,6 +38,7 @@
 | [New Precious World](https://open.spotify.com/track/5nQLFflnMHmg5MeZJyZKp8) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Light Mellow Ami Ozaki 80's](https://open.spotify.com/album/6XFOYrGetXzAlghZJCBl6k) | 3:41 | 2021-04-15 | 2022-11-14 |
 | [New Precious World](https://open.spotify.com/track/1fBvg4jelTmLWN9bTPKudL) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/52maoIFHtoFwNFzqKLj33j) | 3:41 | 2021-04-15 |  |
 | [New Precious World](https://open.spotify.com/track/5EUDwzWHx2yvTn7Dz2dNom) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/6NjHw8VCh2sIqF4vqNkyNO) | 3:41 | 2021-04-15 | 2022-07-29 |
+| [no\. no\. no.](https://open.spotify.com/track/67lCHekdZ98xZNjscsUh7J) | [Naoko Gushima](https://open.spotify.com/artist/75Vr32zFTf1oJgGwqWJcfs) | [no.no.no.](https://open.spotify.com/album/1w1igXflUKbr3GigPhb1F2) | 5:39 | 2024-02-27 |  |
 | [Orange](https://open.spotify.com/track/1xfRbBRDU13OFbjQY917fm) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Blue Jam](https://open.spotify.com/album/0LILwQL53k7i9m9CxrUzXt) | 5:51 | 2021-04-15 |  |
 | [PERFECT RAINBOW](https://open.spotify.com/track/2lDjU7CavwuSkwiQUs9Jwl) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 4:22 | 2021-04-15 |  |
 | [SILENT SNOW STREAM](https://open.spotify.com/track/1bhJKv7Ou9rN9RYVD6YXUP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 6:32 | 2021-04-15 |  |

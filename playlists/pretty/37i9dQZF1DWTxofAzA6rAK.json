@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 61489,
+  "num_followers": 61542,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNmNDY1MzM3NzQ2NzAxNzk1YmNjOTMxNGMwNTU2ZWU3ZDI5YmIz",
+  "snapshot_id": "MCw0MWM2NzIxYjM1NzIyYTQzMTFmODY4OTVlNjRlOTU1NGMwMjI1OTZh",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Expensive",
-        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Expensive",
-      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/1sQEzAFCgF3CnNCTISsZSE"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Expensive",
+        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Dickmatized",
+        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 140336,
+      "name": "Dickmatized",
+      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Dickmatized",
-        "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 140336,
-      "name": "Dickmatized",
-      "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -599,22 +599,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "WiFi",
-        "url": "https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8"
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        },
-        {
-          "name": "Drumma Boy",
-          "url": "https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 213840,
-      "name": "WiFi",
-      "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
+      "duration_ms": 237458,
+      "name": "West Indies",
+      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -635,6 +631,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "WiFi",
+        "url": "https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        },
+        {
+          "name": "Drumma Boy",
+          "url": "https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh"
+        }
+      ],
+      "duration_ms": 213840,
+      "name": "WiFi",
+      "url": "https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 175187,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 237458,
-      "name": "West Indies",
-      "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 206393,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Likkle Miss",
         "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 134452,
       "name": "Likkle Miss",
       "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 206393,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
+        "name": "Brrrp",
+        "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         },
         {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+          "name": "John Coop",
+          "url": "https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Pieces (with Jahshii)",
-      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+      "duration_ms": 161182,
+      "name": "Brrrp",
+      "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
       "artists": [
         {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
         }
       ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
+      "duration_ms": 219574,
+      "name": "Pieces (with Jahshii)",
+      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -867,22 +871,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Brrrp",
-        "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
       },
       "artists": [
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        },
-        {
-          "name": "John Coop",
-          "url": "https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG"
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
         }
       ],
-      "duration_ms": 161182,
-      "name": "Brrrp",
-      "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Street Cred",
+        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Street Cred",
+      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "BOUNCE",
         "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 153652,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Street Cred",
-        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Street Cred",
-      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Born Fighter",
-        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
-      },
-      "artists": [
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 208928,
-      "name": "Born Fighter",
-      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Yahoo Boyz",
         "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Born Fighter",
+        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
+      },
+      "artists": [
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 208928,
+      "name": "Born Fighter",
+      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
       },
@@ -1099,38 +1099,6 @@
       "duration_ms": 149333,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/4A17sw812lXIlFlmavhK37"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 155611,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1151,6 +1119,38 @@
       "duration_ms": 177957,
       "name": "Know Weh Ya Do",
       "url": "https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/4A17sw812lXIlFlmavhK37"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 155611,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Another Dolla",
-        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "Another Dolla",
-      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Crook",
         "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 245995,
       "name": "Crook",
       "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Another Dolla",
+        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 163526,
+      "name": "Another Dolla",
+      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1463,6 +1463,22 @@
       "duration_ms": 273658,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/0n81yw2IFUG6imbKQbd1hT"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 149818,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1535,22 +1551,6 @@
       "duration_ms": 208351,
       "name": "Shootaz",
       "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 149818,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Three Little Birds",
-        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 208835,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "World News",
         "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 265337,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 208835,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
     },
     {
       "added_at": "2023-05-24 08:21:37",

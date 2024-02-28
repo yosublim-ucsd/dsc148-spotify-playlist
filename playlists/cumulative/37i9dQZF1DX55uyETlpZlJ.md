@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-288 songs - 15 hr 37 min
+289 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 | 2023-11-28 |  |
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
 | [Enagide Nanna Hrudaya](https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS), [Sharath KN](https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb), [Shwetha Guru](https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1) | [Enagide Nanna Hrudaya](https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK) | 5:54 | 2023-12-22 |  |
-| [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 |  |
+| [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 | 2024-02-28 |
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 | 2023-07-04 |
 | [Fastrack](https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd) | 3:09 | 2023-08-16 | 2024-01-06 |
 | [Fastrack](https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Fastrack](https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT) | 3:09 | 2023-08-16 | 2024-02-17 |
@@ -261,6 +261,7 @@
 | [Samaya](https://open.spotify.com/track/20BJuCXShibTVncYK69A65) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Samaya](https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1) | 3:43 | 2022-09-16 | 2023-07-04 |
 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/66225bquT98Ra0HHEt0oTb), [Mitakshar Ainkai](https://open.spotify.com/artist/5cKikIFEFOxUe1bxukqC8b) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 | 2024-01-17 |  |
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
+| [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 | 2024-02-27 |  |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |

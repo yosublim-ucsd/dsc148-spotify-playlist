@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,533 likes - 104 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,545 likes - 104 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 2 | [U.R.](https://open.spotify.com/track/59RXrifYHhI0ikAa3srRjV) | [Rutella](https://open.spotify.com/artist/1LKE1tOJHPl3jNjmLhTTMy), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [U.R.](https://open.spotify.com/album/5B1w6BGv6j1wLtfXWhgaeh) | 3:37 |
 | 3 | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/track/6ZLglbg4GE5MtjXdNBdnVf) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/album/4LDKPpJKiRvtoc4bcyvEcJ) | 4:15 |
 | 4 | [Breathe \- Live](https://open.spotify.com/track/65tspDwHw8StH9eARVUBMp) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 9:23 |
-| 5 | [Showers of Love](https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3) | [Zid Yarcia](https://open.spotify.com/artist/2jOoGnvtJSkXrK0Ffcfcu0) | [Showers of Love](https://open.spotify.com/album/49Ednnj5rYeNJZgucYCTne) | 4:13 |
+| 5 | [Showers of Love](https://open.spotify.com/track/4wfFQ0Z2XrKngqkeVadmcq) | [Zid Yarcia](https://open.spotify.com/artist/2jOoGnvtJSkXrK0Ffcfcu0) | [Showers of Love](https://open.spotify.com/album/2lQyXHEwJzJ3mZlIIeOUUG) | 4:13 |
 | 6 | [SAMO](https://open.spotify.com/track/1dIXJgoo9JsbkmEX6BSCET) | [Nicole & Carlo](https://open.spotify.com/artist/7Ehj6xOK6PahCxb8CyOS60) | [SAMO](https://open.spotify.com/album/7exJ5yEqzDtyCXwsFy7SA4) | 4:30 |
 | 7 | [Wonderstruck](https://open.spotify.com/track/66kjME9bCPZyk8mL6cgEys) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/0CpE0Qa69lByhqnOSYHsC0) | 4:38 |
 | 8 | [Ikaw Ang Pag\-ibig](https://open.spotify.com/track/1wUSsvDFhZwwbtpiUeYl2h) | [KDR Music House](https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0), [Reynen Nueva](https://open.spotify.com/artist/78I7nq1txl16GLWwhohOkN) | [Ikaw Ang Pag\-ibig](https://open.spotify.com/album/2JUq5w3bUz1EoVYsg5W0GI) | 4:25 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 28 | [WHY DO YOU LOVE ME?](https://open.spotify.com/track/4NEFSN1DzwyV3pIEIGCeU4) | [Janine Danielle](https://open.spotify.com/artist/08uLGVhzLS7zpGtrCZfing) | [WHY DO YOU LOVE ME?](https://open.spotify.com/album/0O14HOBmEPVEcDscQDfaEN) | 4:57 |
 | 29 | [BUNTONG HININGA](https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [BUNTONG HININGA](https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2) | 4:28 |
 | 30 | [Lord, I Need You](https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:25 |
-| 31 | [Kuwaa na, Kagurangnan \(The Sume et Suscipe of St Ignatius in Bikol\)](https://open.spotify.com/track/6AYoOKOpxa6j7OaGZoGWkZ) | [Floyd Tena](https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT) | [Kuwaa na, Kagurangnan \(The Sume et Suscipe of St Ignatius in Bikol\)](https://open.spotify.com/album/3ATRZ1qXdv6WPhWAvrDGVw) | 4:15 |
+| 31 | [Kuwaa na, Kagurangnan \(The Sume et Suscipe of St Ignatius in Bikol\)](https://open.spotify.com/track/62DGHbXNczniQqp0W8Qs0E) | [Floyd Tena](https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT) | [Kuwaa na, Kagurangnan \(The Sume et Suscipe of St Ignatius in Bikol\)](https://open.spotify.com/album/2sHBVvktlFbQbiggZ2kT39) | 4:15 |
 | 32 | [Everything You Are](https://open.spotify.com/track/6NAAoxdiUNwHSQUVj8dOns) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Everything You Are](https://open.spotify.com/album/2u37n6yGiFl0UoGkqYwRUq) | 3:30 |
 | 33 | [Reliably True](https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW) | [Elevate Exalt](https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU) | [Reliably True](https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml) | 6:30 |
 | 34 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 95 | [Victory to Our King](https://open.spotify.com/track/0jvPCNYpagyTjKc7PgEZgg) | [Ablaze Music](https://open.spotify.com/artist/3N1hmweYcwNTQX8Np4GVe6) | [Worship Companion, Vol\. 4](https://open.spotify.com/album/7nd1eTaYnygjSPJew00GNO) | 3:39 |
 | 96 | [This Year](https://open.spotify.com/track/3UwIhoYUUjs6kYJq9IVYso) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [This Year](https://open.spotify.com/album/0ueqRiZwnfRqcm2ZZqYeuL) | 3:00 |
 | 97 | [Wala Nang Pipigil](https://open.spotify.com/track/4oQiBasWqTHdwjLCf3Aisu) | [Musicians On Fire](https://open.spotify.com/artist/7Ggr2dsNBVyD18r151SA52) | [Wala Nang Pipigil](https://open.spotify.com/album/32d4XVfu9ajHIPJYrcWksw) | 5:26 |
-| 98 | [Far Greater Love](https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Toto Sorioso](https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe) | [Far Greater Love](https://open.spotify.com/album/5SV09W7HxgLw6ETLhNrF6q) | 4:10 |
+| 98 | [Far Greater Love](https://open.spotify.com/track/1kAT4F1NJDWbqtnfrc5T0O) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Toto Sorioso](https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe) | [Far Greater Love](https://open.spotify.com/album/3ueRjNm3iHHUEc4Gd48xLu) | 4:10 |
 | 99 | [You Love Me](https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6) | [KJ](https://open.spotify.com/artist/71D8L6gZO2xM7SrFWCrddr) | [You Love Me](https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE) | 4:11 |
 | 100 | [Fight for Tomorrow](https://open.spotify.com/track/4H3oOIKGvdpgJsDrF3pdr1) | [Are You Listening?](https://open.spotify.com/artist/2LFfeV95OHrftjthC9Nwz5), [Amber Davis](https://open.spotify.com/artist/3udH8JnPyK3qIYot37kBwW), [Marcus Davis Jr.](https://open.spotify.com/artist/4P6d2bv9BELY00yshUdMgc) | [Are You Listening?](https://open.spotify.com/album/4khy1mvYxpPCFeSmsnUT7A) | 3:22 |
 | 101 | [Trust in You \- Renewed](https://open.spotify.com/track/4cOAWfJIUmybRvbhX3LHBx) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Trust in You \(Renewed\)](https://open.spotify.com/album/05fAHM2ARLtd0DEDfXmNmF) | 4:38 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 103 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 104 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCw5N2JlZjJmN2JkMDYzNmE4ODIyMWViZTkxNGViNWFhMzM4OGQ4Y2Jk`
+Snapshot ID: `MCxhZGJmZjBiN2QzZjEzZGExN2UwMTg4YTdlZjcyOGQ0YzhlZGY2Nzhk`

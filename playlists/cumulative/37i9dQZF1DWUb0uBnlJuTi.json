@@ -4292,10 +4292,32 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 162198,
       "name": "No Beginning",
       "url": "https://open.spotify.com/track/4Eigj06JGTcmMYZmHvNfQR"
+    },
+    {
+      "album": {
+        "name": "Tony Allen JID018",
+        "url": "https://open.spotify.com/album/2W5P3w7kGhTqP0cwrV7aW4"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162198,
+      "name": "No Beginning",
+      "url": "https://open.spotify.com/track/7wteLwghOqFteeee2dgEmr"
     },
     {
       "album": {
@@ -7174,7 +7196,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 175200,
       "name": "The Summertime",
       "url": "https://open.spotify.com/track/3kL0QOWK3Xxnz7S7jryEtM"
@@ -7204,6 +7226,32 @@
       "duration_ms": 175200,
       "name": "The Summertime",
       "url": "https://open.spotify.com/track/7CvibeML5CjDjy0sZyiB2u"
+    },
+    {
+      "album": {
+        "name": "Jean Carne JID012",
+        "url": "https://open.spotify.com/album/7nn7ZWRaWYuzqi0LLbIlhk"
+      },
+      "artists": [
+        {
+          "name": "Jean Carne",
+          "url": "https://open.spotify.com/artist/3ejLRcSbNwwvFbVWnStKvB"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175211,
+      "name": "The Summertime",
+      "url": "https://open.spotify.com/track/0KMA23mJmjfEp1pUHfqhqp"
     },
     {
       "album": {

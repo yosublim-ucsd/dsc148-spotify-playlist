@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 35876,
+  "2024-02-28": 35904,
   "date_first_scraped": "2023-02-25",
   "description": "Ideale muziek voor de werkdag ",
   "name": "Werkdag FM",
@@ -1713,6 +1713,24 @@
       "duration_ms": 177980,
       "name": "get older",
       "url": "https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC"
+    },
+    {
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/671hZnMHapwrrMIjousq6l"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm"
     },
     {
       "album": {
@@ -4051,7 +4069,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 236981,
       "name": "Queen of Elba",
       "url": "https://open.spotify.com/track/1e402nE03yvaw6YFruqc25"
@@ -4467,7 +4485,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 192466,
       "name": "She Doesn't Know - Radio Edit",
       "url": "https://open.spotify.com/track/0iwXrzdFwTEcf8GR2rm2QB"
@@ -4763,6 +4781,28 @@
       "duration_ms": 206310,
       "name": "Space For Two",
       "url": "https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n"
+    },
+    {
+      "album": {
+        "name": "Space in My Heart",
+        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Space in My Heart",
+      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
     },
     {
       "album": {

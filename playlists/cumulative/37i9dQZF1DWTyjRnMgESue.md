@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Adrianne Lenker
 
-451 songs - 1 day 1 hr 52 min
+452 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-11-19 | 2022-06-09 |
 | [Obstruction](https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Obstruction](https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor) | 2:36 | 2024-01-12 | 2024-02-03 |
 | [Occasionally](https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:14 | 2021-11-19 | 2023-01-03 |
-| [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 | 2021-11-19 |  |
+| [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 | 2021-11-19 | 2024-02-28 |
 | [Olive Branch](https://open.spotify.com/track/4NdwzvXnYTIcxPXxaWY5eI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Olive Branch](https://open.spotify.com/album/1tZ836sL4IkDcXIhvXYs8r) | 3:19 | 2022-03-25 | 2022-07-26 |
 | [parasite](https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [alchemy](https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW) | 2:37 | 2022-04-22 | 2022-11-13 |
 | [Past Life](https://open.spotify.com/track/3YnqTS15HGxAXbwrNHxgRM) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Kumamoto](https://open.spotify.com/album/0A0b98wgcg0d9Dw6uG1IzO) | 2:40 | 2021-11-19 | 2022-07-29 |
@@ -436,6 +436,7 @@
 | [We Need to Talk](https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg) | 3:09 | 2021-11-19 | 2022-02-11 |
 | [Weddings and Funerals](https://open.spotify.com/track/5nLLiqvpX3Lgngure8GpeQ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Weddings and Funerals](https://open.spotify.com/album/12mtOTu2uBBNLF3ibzzNDD) | 3:10 | 2021-11-19 | 2022-07-29 |
 | [What Was Mine](https://open.spotify.com/track/1zHmxDTalWGHuQfhabEYhM) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [What Was Mine](https://open.spotify.com/album/1ResES2PhMkD79iA0yAhB0) | 3:14 | 2022-05-20 | 2022-07-01 |
+| [When I Was Younger](https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb) | [When I Was Younger](https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH) | 3:17 | 2024-02-23 |  |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-11-19 | 2022-07-16 |
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-02-21 | 2022-07-05 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2023-06-08 |

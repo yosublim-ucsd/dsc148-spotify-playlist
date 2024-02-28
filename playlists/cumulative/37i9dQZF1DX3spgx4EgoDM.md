@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-308 songs - 19 hr 11 min
+309 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2022-07-05 |  |
 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 | 2022-07-05 | 2024-02-18 |
 | [Inocente](https://open.spotify.com/track/7g6taDbEMUIhsvyFaexjDi) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6jAvIPPjADSp3gWGwtLvUX) | 5:10 | 2022-07-05 | 2022-07-29 |
+| [Inocente](https://open.spotify.com/track/7uosdMQ8IXjcs6t72NTTDq) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/5X988Kfh1BWfczNEfKHwwv) | 5:10 | 2024-01-18 |  |
 | [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 | 2022-07-05 | 2022-07-29 |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2022-07-05 |  |
 | [La Botella](https://open.spotify.com/track/0aI9IqxT214Tb5agHRFDrX) | [Mario Guerrero](https://open.spotify.com/artist/6olBVa8DSbt2M0FAR7AAkI) | [La Botella](https://open.spotify.com/album/6FuQWPA521wtMOgBI8uaWv) | 3:02 | 2023-05-19 | 2023-08-19 |
@@ -247,7 +248,7 @@
 | [Sakate Uno](https://open.spotify.com/track/7tg2sPCtKf5hLoD0w2Z7Zd) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Le Traigo Cumbia](https://open.spotify.com/album/2jKCTQjsp4MGepUw3E3UlH) | 3:54 | 2022-07-05 | 2022-07-28 |
 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 | 2022-07-05 |  |
 | [Serenata cruel](https://open.spotify.com/track/152U4ecGSiYeKm2gnFc4wA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/1xJWcP3LsQkDu0lh5jjhAM) | 4:32 | 2022-07-05 | 2022-07-29 |
-| [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 | 2022-07-05 |  |
+| [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 | 2022-07-05 | 2024-02-28 |
 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 | 2022-07-05 |  |
 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:40 | 2022-09-02 |  |
 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/7lk2SWsLObPlO98pOvz6V0) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En el Ojo del Huracán](https://open.spotify.com/album/3cVoxcpHC36i7ZYn9o8aSh) | 3:40 | 2022-07-05 | 2022-07-29 |

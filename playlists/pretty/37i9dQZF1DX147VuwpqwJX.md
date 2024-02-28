@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,541 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,557 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 99 | [Show Me What You Got!](https://open.spotify.com/track/1Xzys6dX0jsREnWEc2ib9z) | [Sugur Shane](https://open.spotify.com/artist/6W5grmdNl1vuIaB4B0yPND) | [Show Me What You Got!](https://open.spotify.com/album/03qAvr8nGizSRugl3xpGR8) | 3:00 |
 | 100 | [Fierce and Shady Tens \(Gurl\) \[feat\. Miss Jay\]](https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Miss Jay](https://open.spotify.com/artist/1IU4hPWrwgn5oJlSNDmL7Y) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 6:28 |
 
-Snapshot ID: `MCxiMjgyOWNiMWY4ZDI5M2QxMGNiZmEwNWYyN2Q2MjNhOWUxZDQ0MzE4`
+Snapshot ID: `MCw2YjE0OWQyOGMwMThhOGQyZjRhZTRkNTZhYzAzYTgzMjhlYTY1YTE0`

@@ -1,13 +1,37 @@
 {
   "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62777,
+  "num_followers": 62776,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "NTg0NyxiZTdlOTVlYjg2N2EyNDczOTU2NTdiODFiOWZkMTRhM2EyZTNmZThj",
+  "snapshot_id": "NTg0OCw2ZWViNjZhMjU2YmVjYmY5MjY5MjgzMGVmZjA1ZWYwMDg0Y2NlNzAx",
   "tracks": [
+    {
+      "added_at": "2024-02-27 18:58:48",
+      "album": {
+        "name": "Smoak & Sip",
+        "url": "https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb"
+      },
+      "artists": [
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        },
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Smoak & Sip",
+      "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
+    },
     {
       "added_at": "2024-02-16 18:39:54",
       "album": {

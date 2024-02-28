@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,568 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,751 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 100 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 |
 
-Snapshot ID: `MCxmNzQ2ZTA0YTNmMmU1ZGExMWVjY2IzMDQwZmJmZWU3NzBjMDgzNTll`
+Snapshot ID: `MCxkZDI1NGI2OTcxMDE5NDE4OWEwYjYwNDRhYjJkOTI4ZTNiZGUyNzhm`

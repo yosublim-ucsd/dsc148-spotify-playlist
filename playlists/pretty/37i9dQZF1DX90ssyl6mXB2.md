@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,169 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,128 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 47 | [Outside Freestyle](https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 2:50 |
 | 48 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 |
 | 49 | [None Of Your Concern \(feat\. Big Sean\)](https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 4:19 |
-| 50 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj) | 2:41 |
+| 50 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/3OWUyVb4qnKhczFwvuYwpR) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/7DujmrgQdN0seUyOfd3Efe) | 2:41 |
 | 51 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 |
 | 52 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 53 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 59 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 |
 | 60 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
 
-Snapshot ID: `MCw5MDc1MzY4MWRiNzI0ZWQ3MzQxODJlNTFlZmQ0NjYyYzdmOTQyNjg4`
+Snapshot ID: `MCw0NmM1OTc0MmUxMzM3MTRjYWE1OGRhZDhjNDUzZmE5ZDIyOTYzMmRm`

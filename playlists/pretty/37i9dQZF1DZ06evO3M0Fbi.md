@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,415 likes - 38 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,623 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 37 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 | 38 | [Verse Chorus Verse \- Outtake](https://open.spotify.com/track/27sz8XfkjnUqTRJwxjHrS1) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:16 |
 
-Snapshot ID: `Mjg0ODI0ODEsMDAwMDAwMDA3MmQ2YWY3ZjM0OWEwYWFjYzRhNzQ3OGFjMWZjZGM2MA==`
+Snapshot ID: `Mjg0ODM5MjIsMDAwMDAwMDA0MDJjMWJhMGY3YjVlZmQ1MzNmZDQwNjMzOGM3MjJlNQ==`

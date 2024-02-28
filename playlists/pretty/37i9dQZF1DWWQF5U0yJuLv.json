@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 11929,
+  "num_followers": 11941,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjNmOTVkMTYyY2Y2NGYxODMyNmQ5ZGQ4NzdmNjgzMmU3ZDMxOWY2",
+  "snapshot_id": "MCwxZDlmN2EzNmQzMDUxYmQyZGE0MTFlYzhhYmM4N2EyYWVlNmUwYTI3",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 224570,
+      "name": "City 66",
+      "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
         "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 224570,
-      "name": "City 66",
-      "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Continuous Portrait",
-        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
-      },
-      "artists": [
-        {
-          "name": "Inventions",
-          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
-        }
-      ],
-      "duration_ms": 210670,
-      "name": "Outlook for the Future",
-      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
         "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 144000,
       "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
       "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Continuous Portrait",
+        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+      },
+      "artists": [
+        {
+          "name": "Inventions",
+          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+        }
+      ],
+      "duration_ms": 210670,
+      "name": "Outlook for the Future",
+      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Manhattan Research, Inc.",
+        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
+      },
+      "artists": [
+        {
+          "name": "Raymond Scott",
+          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+        }
+      ],
+      "duration_ms": 105026,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Illusion Of Time",
@@ -1183,22 +1199,6 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Manhattan Research, Inc.",
-        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
-      },
-      "artists": [
-        {
-          "name": "Raymond Scott",
-          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
-        }
-      ],
-      "duration_ms": 105026,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1349,6 +1349,74 @@
       "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+      },
+      "artists": [
+        {
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+        }
+      ],
+      "duration_ms": 225822,
+      "name": "to all the plants i loved",
+      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Drunken Clouds",
+        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 253701,
+      "name": "Drunken Clouds",
+      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
+    },
+    {
+      "added_at": "2023-03-03 04:31:38",
+      "album": {
+        "name": "Jardines, Vol.1",
+        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        }
+      ],
+      "duration_ms": 153162,
+      "name": "jazmin",
+      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/3ivMwZxfEhwdgCnuruvoPg"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Haku (RUMTUM Remix)",
@@ -1383,74 +1451,6 @@
       "duration_ms": 237133,
       "name": "Plock",
       "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
-    },
-    {
-      "added_at": "2023-03-03 04:31:38",
-      "album": {
-        "name": "Jardines, Vol.1",
-        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
-        }
-      ],
-      "duration_ms": 153162,
-      "name": "jazmin",
-      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 225822,
-      "name": "to all the plants i loved",
-      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Drunken Clouds",
-        "url": "https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 253701,
-      "name": "Drunken Clouds",
-      "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/3ivMwZxfEhwdgCnuruvoPg"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Rounds (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 341160,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Zoom",
@@ -1679,6 +1663,22 @@
       "duration_ms": 196547,
       "name": "Echo Boomed",
       "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Rounds (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 341160,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1933,6 +1933,22 @@
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/5r5fXDkWHAZhdAzVLC2c1I"
+      },
+      "artists": [
+        {
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
@@ -2031,6 +2047,26 @@
       "duration_ms": 202866,
       "name": "Jump & Shuffle - Live at the Hardware Store",
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2193,26 +2229,6 @@
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Lucky Cat",
@@ -2227,22 +2243,6 @@
       "duration_ms": 312946,
       "name": "Cathart",
       "url": "https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Ikiru",
-        "url": "https://open.spotify.com/album/5r5fXDkWHAZhdAzVLC2c1I"
-      },
-      "artists": [
-        {
-          "name": "Thoma",
-          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
-        }
-      ],
-      "duration_ms": 223375,
-      "name": "Ikiru",
-      "url": "https://open.spotify.com/track/24Gn3xI5AkAQTriCekLrf1"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Rest Proof Clockwork",
-        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 326480,
-      "name": "Shackbu",
-      "url": "https://open.spotify.com/track/4i7EGfODXs44RMHPgdaGJk"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
         "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 388373,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Rest Proof Clockwork",
+        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 326480,
+      "name": "Shackbu",
+      "url": "https://open.spotify.com/track/4i7EGfODXs44RMHPgdaGJk"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Rest Proof Clockwork",
-        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Dang Spot",
-      "url": "https://open.spotify.com/track/7Dh7aGZq9NLryhqqKYr1fB"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/7MvAvnrcS8LfjuGWddaodU"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 267213,
       "name": "Basheeba",
       "url": "https://open.spotify.com/track/2v2oXIi7utdaPqH7Hz40lo"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Rest Proof Clockwork",
+        "url": "https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Dang Spot",
+      "url": "https://open.spotify.com/track/7Dh7aGZq9NLryhqqKYr1fB"
     },
     {
       "added_at": "2023-02-17 01:53:11",

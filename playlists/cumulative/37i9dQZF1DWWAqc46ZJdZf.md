@@ -4,7 +4,7 @@
 
 > New age songs of empowerment and pride.
 
-148 songs - 10 hr 16 min
+149 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Let Go](https://open.spotify.com/track/1O2wgYfOdpcoWnZbdbrpMh) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Let Go](https://open.spotify.com/album/335MHHwHmVBMmaluUJdysT) | 4:51 | 2024-01-31 |  |
 | [Let Love Lead](https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Let Love Lead](https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23) | 3:55 | 2021-04-29 | 2024-02-01 |
 | [Lift Ev'ry Voice and Sing \- Homecoming Live](https://open.spotify.com/track/0QRxJvOohS8yiGC1n98uFM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:09 | 2021-04-29 | 2024-02-01 |
-| [Light on the Horizon](https://open.spotify.com/track/2cxBZr3STgnWM6am5gfHrT) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/3IIjxbGPKgcNDdYQTPbOoN) | 3:06 | 2024-01-31 |  |
+| [Light on the Horizon](https://open.spotify.com/track/2cxBZr3STgnWM6am5gfHrT) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/3IIjxbGPKgcNDdYQTPbOoN) | 3:06 | 2024-01-31 | 2024-02-28 |
 | [Light on the Horizon](https://open.spotify.com/track/4vFmkr2xrxjYvZ3WYvSybm) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/1b3K1rvUIaDmRP2AsLahXw) | 3:06 | 2021-04-29 | 2022-07-29 |
+| [Light On The Horizon](https://open.spotify.com/track/2J0QbuwxuiZtFQ4YuaVgpc) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The American Negro](https://open.spotify.com/album/5OGFAkLobCmlwME9D42ynN) | 3:06 | 2024-02-06 |  |
 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 | 2021-04-29 | 2022-07-27 |
 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 | 2022-02-14 | 2024-02-01 |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-04-29 |  |

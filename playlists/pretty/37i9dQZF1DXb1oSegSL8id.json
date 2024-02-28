@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 825934,
+  "num_followers": 826000,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2UzMmQxZTRlYmQ5MmFhOGZlY2ZjNTJhM2Y1NTNjMjhiYmVlM2I1",
+  "snapshot_id": "MCw5YTAzNGZlMWRkMzQ1MjYwZWU1MDhkNzZmYzZkMjUzNGFiYWQ2NWQ4",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Piseiro Sofr\u00eancia",
-        "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
+        "name": "Evoluiu",
+        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
         }
       ],
-      "duration_ms": 173037,
-      "name": "N\u00e3o, N\u00e3o Vou",
-      "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
+      "duration_ms": 179644,
+      "name": "Evoluiu",
+      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Evoluiu",
-        "url": "https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W"
+        "name": "Piseiro Sofr\u00eancia",
+        "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 179644,
-      "name": "Evoluiu",
-      "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+      "duration_ms": 173037,
+      "name": "N\u00e3o, N\u00e3o Vou",
+      "url": "https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o Cachorro",
         "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 177826,
       "name": "A Culpa \u00e9 do Meu Grau (feat. Z\u00e9 Neto & Cristiano) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7gL7YRproDW26eSk16yMbc"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "S\u00f3 Tem Eu",
-        "url": "https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "S\u00f3 Tem Eu",
-      "url": "https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Some que ele vem atr\u00e1s",
         "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "S\u00f3 Tem Eu",
+        "url": "https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "S\u00f3 Tem Eu",
+      "url": "https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Pisadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Pisadinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -1579,22 +1599,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Pisadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
+        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 158661,
-      "name": "Pisadinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
+      "duration_ms": 119304,
+      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
+      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1615,22 +1631,6 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 119304,
-      "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
-      "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
     },
     {
       "added_at": "2023-11-17 03:01:00",

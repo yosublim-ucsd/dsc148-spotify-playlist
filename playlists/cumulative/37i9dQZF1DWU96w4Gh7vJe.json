@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Hoodie (feat. Alisson Shore)",
+        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170895,
+      "name": "Hoodie (feat. Alisson Shore)",
+      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
+    },
+    {
+      "album": {
         "name": "how could it be",
         "url": "https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY"
       },
@@ -874,7 +896,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 202764,
       "name": "Nagbabakasakali",
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"

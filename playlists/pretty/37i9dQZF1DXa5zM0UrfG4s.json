@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 107549,
+  "num_followers": 107564,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNiMWE3ZWJiOWE1MjM4YzU0ZTcyYTYxMTNhNmYzZmQ5OTEyY2Iy",
+  "snapshot_id": "MCxiN2I2NDJhMjA5OTZmMTA3MzdjOWNmMDFkNzEyYWFhZmQyMDM2Yzc2",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -627,18 +627,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Levva Livet!",
-        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
+        "name": "Livet Er Herlig",
+        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
       },
       "artists": [
         {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 274053,
-      "name": "Levva Livet",
-      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
+      "duration_ms": 143261,
+      "name": "Livet Er Herlig",
+      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Livet Er Herlig",
-        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
+        "name": "Levva Livet!",
+        "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
       "artists": [
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        },
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
         }
       ],
-      "duration_ms": 143261,
-      "name": "Livet Er Herlig",
-      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
+      "duration_ms": 274053,
+      "name": "Levva Livet",
+      "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "En f\u00e5r v\u00e6re som en er",
-        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
-      },
-      "artists": [
-        {
-          "name": "Ole Ivars",
-          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Kongen av campingplassen",
-      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "ALBUMTRAOZ",
         "url": "https://open.spotify.com/album/0PqZdf0CZbeJM4A8HpC2cC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 127058,
       "name": "Mcdonalds",
       "url": "https://open.spotify.com/track/4Uv5nzyKWBAnfiV1WbVFYz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "En f\u00e5r v\u00e6re som en er",
+        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
+      },
+      "artists": [
+        {
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Kongen av campingplassen",
+      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1023,6 +1023,38 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Alt det der (feat. Lars-Erik Blokkhus & Dag Ingebrigtsen)",
+        "url": "https://open.spotify.com/album/3juWqAxnKuVVCNQHxOVAAl"
+      },
+      "artists": [
+        {
+          "name": "Landeveiens Helter",
+          "url": "https://open.spotify.com/artist/4q4aWx2s5KS9s0FA8MTRn7"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+        },
+        {
+          "name": "Lars Erik Blokkhus",
+          "url": "https://open.spotify.com/artist/6wMcOYgBlkGB7Vj888cNGr"
+        },
+        {
+          "name": "Dag Ingebrigtsen",
+          "url": "https://open.spotify.com/artist/65Sh6fBb85Hm3uLuETK3Ux"
+        }
+      ],
+      "duration_ms": 177536,
+      "name": "Alt det der (feat. Lars-Erik Blokkhus & Dag Ingebrigtsen)",
+      "url": "https://open.spotify.com/track/255CixwgWFfqHB1liw1LPE"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Livet p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
       },
@@ -1039,22 +1071,6 @@
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "N\u00e5 er det helg",
-        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "N\u00e5 er det helg",
-      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1087,6 +1103,22 @@
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "N\u00e5 er det helg",
+        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "N\u00e5 er det helg",
+      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1131,6 +1163,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
       },
@@ -1147,22 +1195,6 @@
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Bygdas Rebell",
-        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        }
-      ],
-      "duration_ms": 221833,
-      "name": "Bygdas Rebell",
-      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Ja vi elsker (Typisk Norsk 2019)",
         "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+        "name": "Bygdas Rebell",
+        "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
         }
       ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+      "duration_ms": 221833,
+      "name": "Bygdas Rebell",
+      "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

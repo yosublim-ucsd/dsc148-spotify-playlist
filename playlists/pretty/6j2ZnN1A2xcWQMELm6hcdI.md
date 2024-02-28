@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Lola Brooke
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 338,470 likes - 238 songs - 11 hr 59 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 338,458 likes - 238 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

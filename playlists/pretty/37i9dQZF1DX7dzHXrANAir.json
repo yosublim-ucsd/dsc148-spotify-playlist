@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 106211,
+  "num_followers": 106258,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQyODZmYWY3N2QyM2ViZmY5M2Y4MzJkOWM5NjhmNmIwZDc4YmZj",
+  "snapshot_id": "MCw1MjUxNzllZjY0ZjMzM2ZlYmU4Njg3OGU4MThkMzczOGU3OTdiY2Yw",
   "tracks": [
     {
       "added_at": "2024-02-23 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Actual Life 3 Piano EP (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4S8ReXNJUYd3INog1JNlBJ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 256874,
       "name": "Winnie (rosslyn crescent)",
       "url": "https://open.spotify.com/track/2TN2PcgQMQPnPVYHHts3Hu"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Poly (and 74 musicians)",
-        "url": "https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 260321,
-      "name": "Poly (and 74 musicians)",
-      "url": "https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Human Reworked",
         "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 277653,
       "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Poly (and 74 musicians)",
+        "url": "https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 260321,
+      "name": "Poly (and 74 musicians)",
+      "url": "https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
         "name": "Reimagined. Volume 2, Chapter 3",
         "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
       },
@@ -751,42 +771,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
-        }
-      ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 365892,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "some kind of peace \u2014 piano reworks",
         "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216141,
       "name": "New Grass \u2014 piano reworks",
       "url": "https://open.spotify.com/track/2t56sYAHF16I3bRp0jRGqX"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
       },
@@ -943,18 +959,34 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
       "artists": [
         {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
         }
       ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+      "duration_ms": 190120,
+      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -995,54 +1027,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Les m\u00e9tamorphoses du vide - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/04vHdg0RjWpVt2OQKJ3VAK"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "P\u00e1th\u0113",
-        "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
-      },
-      "artists": [
-        {
-          "name": "Piotr Wiese",
-          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
-        }
-      ],
-      "duration_ms": 341013,
-      "name": "P\u00e1th\u0113",
-      "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Mia",
         "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208307,
       "name": "Mia",
       "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "P\u00e1th\u0113",
+        "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "duration_ms": 341013,
+      "name": "P\u00e1th\u0113",
+      "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -1211,58 +1211,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Glass (Solo Piano)",
-        "url": "https://open.spotify.com/album/2CnIxi6GN1s6Wwk6WhsOtK"
-      },
-      "artists": [
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
-        }
-      ],
-      "duration_ms": 375809,
-      "name": "Glass (Solo Piano)",
-      "url": "https://open.spotify.com/track/7rn4HCPwItrdZxp4bZDblx"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 307840,
-      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Elv",
         "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
@@ -1287,6 +1235,58 @@
       "duration_ms": 161933,
       "name": "Drang",
       "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Glass (Solo Piano)",
+        "url": "https://open.spotify.com/album/2CnIxi6GN1s6Wwk6WhsOtK"
+      },
+      "artists": [
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        }
+      ],
+      "duration_ms": 375809,
+      "name": "Glass (Solo Piano)",
+      "url": "https://open.spotify.com/track/7rn4HCPwItrdZxp4bZDblx"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 307840,
+      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Riva",
-        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 238602,
-      "name": "Riva",
-      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Sound Visions",
         "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 207315,
       "name": "Dancing leaves",
       "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Riva",
+        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Riva",
+      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -1484,25 +1484,9 @@
           "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
     }
   ],
   "unique_name": "Classical X",

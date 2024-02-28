@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Los Desvelados ",
-  "num_followers": 397033,
+  "num_followers": 397040,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWIwNGQ1NzAxOWEyY2Q4NmZlNmRhZjFjNTNkYjg5ZGQ3ZDNhZjBm",
+  "snapshot_id": "MCxlOTQ5N2YzNTM5OGY5MzE1ZTkyN2FlMjgyOGE5MmU0NTAzM2UyOGYz",
   "tracks": [
     {
       "added_at": "2023-12-08 18:17:28",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-12-08 18:17:28",
       "album": {
+        "name": "Donde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 249040,
+      "name": "Donde Est\u00e1s",
+      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
+    },
+    {
+      "added_at": "2023-12-08 18:17:28",
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 133694,
       "name": "Gently (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
-    },
-    {
-      "added_at": "2023-12-08 18:17:28",
-      "album": {
-        "name": "Donde Est\u00e1s",
-        "url": "https://open.spotify.com/album/3P1vHJYr9mrJYvIEWNm8yb"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Donde Est\u00e1s",
-      "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
     },
     {
       "added_at": "2023-12-08 18:17:28",

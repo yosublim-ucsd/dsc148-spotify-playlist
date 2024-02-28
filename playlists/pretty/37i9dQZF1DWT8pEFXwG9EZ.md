@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,533 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,593 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 |
 | 2 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
 | 3 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 2:29 |
-| 4 | [Friend Like Me](https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:35 |
-| 5 | [Another Day Of Sun](https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ) | [La La Land Cast](https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 3:48 |
+| 4 | [Another Day Of Sun](https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ) | [La La Land Cast](https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 3:48 |
+| 5 | [Friend Like Me](https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:35 |
 | 6 | [Le Festin](https://open.spotify.com/track/02JIdsrod3BYucThfUFDUX) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:50 |
 | 7 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
 | 8 | [Caravan](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0) | [John Wasson](https://open.spotify.com/artist/2ObUFCwd6NhS8iyCv8JdPL) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 9:15 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 47 | [Thank God for the Rain](https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 1:41 |
 | 48 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
 | 49 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |
-| 50 | [Walk To Work](https://open.spotify.com/track/1dYcAIkICjPy2iboLdVNWM) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:28 |
-| 51 | [My Funny Valentine \- Vocal](https://open.spotify.com/track/3cUGcOZAPn4JdEkK8p8txk) | [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/5rUvlKJqMKAUCeCFeZzRuU) | 2:33 |
+| 50 | [My Funny Valentine \- Vocal](https://open.spotify.com/track/3cUGcOZAPn4JdEkK8p8txk) | [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/5rUvlKJqMKAUCeCFeZzRuU) | 2:33 |
+| 51 | [Walk To Work](https://open.spotify.com/track/1dYcAIkICjPy2iboLdVNWM) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:28 |
 | 52 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
 | 53 | [Last Tango in Paris \- Ultimo Tango a Parigi \(Titles\)](https://open.spotify.com/track/2dRjEirtMproK2r4gzda1j) | [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Last Tango in Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0WzAqVNNP4LNU5540k6kCR) | 3:24 |
 | 54 | [Charade](https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA) | [Si Zentner](https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6) | [The Big Kahuna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [The Feeling of Love, Pt\. 1](https://open.spotify.com/track/41ODRLJntkgtZj4HfRyevz) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liaisons Dangereuses](https://open.spotify.com/album/5rzEgTKWMEBrVdkgFGfJMb) | 7:15 |
 | 100 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
 
-Snapshot ID: `MCxiM2ExZWQ1NTliZWViNGM2YTUwMzk1YTM0OTBmYmI3ZTg2NmJmOTcz`
+Snapshot ID: `MCw5NmMyODcwYTY2MmExODA3YTNlNDQ1MDg0NjBlY2RjZDkzMWY5MTM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Jahari Massamba Unit
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,267 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,393 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 81 | [Lay Lady Lay \- Radio Edit](https://open.spotify.com/track/5OG31noejjsYhav7aY4Uui) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [John Medeski](https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV), [Hudson](https://open.spotify.com/artist/5TLN8NgSEohypkfU1sKwaI) | [Hudson \(Deluxe Edition\)](https://open.spotify.com/album/4eG2q4jobDvU5Leo0oI3ut) | 3:46 |
 | 82 | [Bucket of F's](https://open.spotify.com/track/5yBdcdmA0RuzMC4uu2a8Xt) | [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp), [Ben Wendel](https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca) | [Bucket of F's](https://open.spotify.com/album/6AmXGSTkNnKoBBblTQyd0t) | 4:50 |
 | 83 | [Final Voyage](https://open.spotify.com/track/6pBaX9CnZJ4KBkojIQ325L) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Southern Suite](https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr) | 6:18 |
-| 84 | [Phoenix \- Theon Cross Remix](https://open.spotify.com/track/6c358FrD7dJCkAyDAQGOlj) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Phoenix \(Theon Cross Remix\)](https://open.spotify.com/album/3JUeHROdXb6FEGxs5KCPKN) | 4:05 |
+| 84 | [Phoenix \- Remix](https://open.spotify.com/track/52X6SiVyh3NTBT466n0gEC) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [The Midnight Hour](https://open.spotify.com/artist/1S5jf5XWhQTMjGZQxCH0AJ), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Remixes JID020](https://open.spotify.com/album/2DzjNGjqOxuni5xkEj9UTb) | 4:05 |
 | 85 | [Groundhog Day](https://open.spotify.com/track/0GC0DyCot6CjE0ZfgLPkd4) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 5:07 |
 | 86 | [Look To The Hills](https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Kings Highway](https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac) | 4:20 |
 | 87 | [Pressure on the Pulse](https://open.spotify.com/track/40MBOllKyanYQZ8vuexEXI) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Junglist \- Bonus Track](https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:18 |
 | 100 | [Winter](https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matthew Sheens](https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Crisis & Opportunity, Vol.4 \- Meditations](https://open.spotify.com/album/4xl86Mx1lHtBaH2y6HrLMb) | 7:48 |
 
-Snapshot ID: `MCxiN2VhNWE5MDk2OGNmYWJmN2ZjMDBkNTE5YmVlZmQxNjc5OTVlN2Y3`
+Snapshot ID: `MCw3Y2ViZTAwZGViNmEzNGVmYWNlZDYwY2NjNmVmYzIwMTM4YmU0N2Nj`

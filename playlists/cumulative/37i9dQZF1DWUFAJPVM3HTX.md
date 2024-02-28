@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc?si=sCJpLXugRKKZssTKQEG4ig"> Josef Lamercier </a>\. Updates every Wednesday.
 
-2,058 songs - 4 day 9 hr 48 min
+2,059 songs - 4 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1917,7 +1917,8 @@
 | [Visualize](https://open.spotify.com/track/73kOuVrN8PRINR9Lzvc5EM) | [Freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Visualize](https://open.spotify.com/album/6B3SmdyRtELbBoU2ktbFQh) | 2:41 | 2022-05-18 | 2022-08-11 |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 | 2023-08-04 |
 | [W\. McKinley](https://open.spotify.com/track/0s5ljqIKTmjdtSkqiPg3n5) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [W\. McKinley](https://open.spotify.com/album/5eT95u6zc499ICjjEEcpjb) | 2:42 | 2023-04-21 | 2023-08-04 |
-| [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj) | 2:41 | 2024-01-19 |  |
+| [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj) | 2:41 | 2024-01-19 | 2024-02-28 |
+| [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/3OWUyVb4qnKhczFwvuYwpR) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/7DujmrgQdN0seUyOfd3Efe) | 2:41 | 2024-01-19 |  |
 | [Wait for Me \(Promise\)](https://open.spotify.com/track/0ZryIn32OSd6f3wDF1GABY) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wait for Me \(Promise\)](https://open.spotify.com/album/3eIkE8sBAZFbCVVZGKzHyO) | 2:48 | 2022-09-28 | 2022-12-01 |
 | [Waiting](https://open.spotify.com/track/0nDt9jLpy1xAap3timDxPI) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Waiting](https://open.spotify.com/album/61CynKXOwVN7fE6X6bnP5J) | 2:42 | 2023-03-31 | 2023-08-04 |
 | [Waiting for Tomorrow](https://open.spotify.com/track/0qb3Z0LmGXLZdJxKaboenj) | [Blake Shimoda](https://open.spotify.com/artist/2KQQhDmuJpCckzPzGfVGwG) | [Waiting for Tomorrow](https://open.spotify.com/album/4KOv1THNe1ZQrHhKx7bTRL) | 3:47 | 2022-01-26 | 2022-03-03 |

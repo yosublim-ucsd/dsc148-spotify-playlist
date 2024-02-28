@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 1770652,
+  "2024-02-28": 1770691,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -4103,7 +4103,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
@@ -8422,6 +8422,24 @@
     },
     {
       "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62"
+    },
+    {
+      "album": {
         "name": "Chrissy, Wake Up",
         "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
       },
@@ -11311,6 +11329,24 @@
       "duration_ms": 183408,
       "name": "Dona Chica - Ao Vivo",
       "url": "https://open.spotify.com/track/0sD07uktXbICUL36lzfBxf"
+    },
+    {
+      "album": {
+        "name": "Dono da Porsche (Bom Dia Princesa)",
+        "url": "https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD"
+      },
+      "artists": [
+        {
+          "name": "MC Reino",
+          "url": "https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156731,
+      "name": "Dono da Porsche (Bom Dia Princesa)",
+      "url": "https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg"
     },
     {
       "album": {
@@ -17137,7 +17173,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
@@ -36489,6 +36525,24 @@
       "duration_ms": 265000,
       "name": "Sen Affetsen",
       "url": "https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky"
+    },
+    {
+      "album": {
+        "name": "A\u011fl\u0131yorsam Ya\u015f\u0131yorum - G\u00fclden Karab\u00f6cek Klasikleri, Vol. 2",
+        "url": "https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW"
+      },
+      "artists": [
+        {
+          "name": "G\u00fclden Karab\u00f6cek",
+          "url": "https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Sen Evlisin",
+      "url": "https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd"
     },
     {
       "album": {

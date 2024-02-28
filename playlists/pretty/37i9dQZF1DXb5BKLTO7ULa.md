@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 84 | [Be My Guest](https://open.spotify.com/track/7HvwU0z0my31zUwSDCrD1x) | [Erik Neimeijer](https://open.spotify.com/artist/4Y1VPXX1ycKSVMhri1VeCB) | [Be My Guest](https://open.spotify.com/album/4kaDJDpkLVM4SbzftQk1WH) | 3:19 |
 | 85 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 |
 | 86 | [2D](https://open.spotify.com/track/1HbTajbhhihioGg49ASGKi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [2D](https://open.spotify.com/album/3ShOm5WyhWyolqP3nDIzjd) | 3:30 |
-| 87 | [Sit And Talk](https://open.spotify.com/track/4MiXy6WTjFnMuatZjLhSm0) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [Sit And Talk](https://open.spotify.com/album/0EccNYn46Ldk9db1S9jaSF) | 3:12 |
+| 87 | [Sit And Talk](https://open.spotify.com/track/3FWrSdIIIQzOoZcTQw0FYD) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [Sit And Talk](https://open.spotify.com/album/2yEa5nX0Zk1gR06CMFo9gW) | 3:12 |
 | 88 | [WGMD](https://open.spotify.com/track/0iSIbkv4uAC64IWWyrVByc) | [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [WGMD](https://open.spotify.com/album/2A8J6DLjFbpv7XcsHXnxCm) | 2:18 |
 | 89 | [LEAN BACK](https://open.spotify.com/track/1QwTgE6jWUzilFTQ2H1YGa) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa) | [Lean back](https://open.spotify.com/album/1BwAFZZIyds3jDVBfLiMRq) | 2:19 |
 | 90 | [This is the Day](https://open.spotify.com/track/6IgUZEGBvNXGXJEiTZyHfX) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [This is the Day](https://open.spotify.com/album/1r4AlpInKSHs6QsT1OG35N) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cumbia De Pena](https://open.spotify.com/track/6ROf38sm9fS78z95vKRXjE) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl) | [Cumbia De Pena](https://open.spotify.com/album/2eHRkE1beUBKDaq1eS8SwD) | 3:05 |
 | 100 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
 
-Snapshot ID: `MCw3YmExY2Y1NTkzYzAyOTQ5MTQzZmNkZDlmYmRhZGFhMDAyM2VlY2Zl`
+Snapshot ID: `MCwwYTA2OTk3Zjk4NmY2ZTk0ZWM1MjFjOTUwYTVmYmQ4MTM1ZmRmM2Zl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,391 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,405 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [AKUMA NO JIGOKUNABE \- Full Spec Edition](https://open.spotify.com/track/038ibKsl5lpjWfP27cMfwv) | [春日 一番<中谷 一博>](https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:28 |
 | 50 | [Ichizu Samurai \- Full Spec Edition](https://open.spotify.com/track/4dK2KA0V95c5BYUwBYq9ZR) | [齋藤一\(黒田崇矢\)](https://open.spotify.com/artist/1b8YQnNKgfu5vQIHTkl6mJ) | [Like a Dragon: Ishin! Complete Karaoke Songs](https://open.spotify.com/album/3AkdomnfHiCVn6DDaFjaa2) | 4:09 |
 
-Snapshot ID: `MCw3N2FiNGNmZDAzNDkxYzg4MDVmZjEzNGQ1Y2E0MWE4NDg0NDkyNmMz`
+Snapshot ID: `MCxlOTY1Y2ZkMTk2YWNiYjUzYjAyYmM4OGYzMDkyNDdjOTAyYWUwZjE0`

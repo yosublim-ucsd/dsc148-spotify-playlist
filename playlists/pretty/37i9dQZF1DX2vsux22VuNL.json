@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
-  "num_followers": 290686,
+  "num_followers": 290666,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDVmNGYxOGVhMWQzMTY2NGY5NmU2ZWZhNjBhYmZiNTNkZmRhNDFh",
+  "snapshot_id": "MCxhMzVlZWQwNWVhMWExMjg0ZTRhYzEyMWQ3NzU0ODEwZTI5NmExZjQ0",
   "tracks": [
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Oxossi",
         "url": "https://open.spotify.com/album/73QzmgHwhXvBE3xKuBMT25"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 204131,
       "name": "Oxossi",
       "url": "https://open.spotify.com/track/4YqPRJQN7eutRyyEYNBftJ"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "No Azul do Teu Olhar",
-        "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
-        }
-      ],
-      "duration_ms": 201792,
-      "name": "No Azul do Teu Olhar",
-      "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "No Azul do Teu Olhar",
+        "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "No Azul do Teu Olhar",
+      "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
     },
     {
       "added_at": "2024-02-23 03:00:00",

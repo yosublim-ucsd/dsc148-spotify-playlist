@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-149 songs - 8 hr 33 min
+150 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Let it Slide](https://open.spotify.com/track/1aTklUbZo5dCBpXBk4oBa2) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Let it Slide](https://open.spotify.com/album/6MNXQqzROLdIy9mb1gwgA6) | 4:29 | 2022-10-14 | 2023-03-04 |
 | [Level Up](https://open.spotify.com/track/1LqsTeNIKKzZRYITxrSAfB) | [Flex D'paper](https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek) | [KAMPALA BOY](https://open.spotify.com/album/4RnSrtRunydg3GgFg4Xpvm) | 3:11 | 2023-09-01 | 2023-09-12 |
 | [Loose Driver](https://open.spotify.com/track/54obxQpPHAQhJk7rBsYaVU) | [Flex D'paper](https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek), [Lagum the Rapper](https://open.spotify.com/artist/71Gd99E0P8JqUZ4Stop52B) | [KAMPALA BOY](https://open.spotify.com/album/4RnSrtRunydg3GgFg4Xpvm) | 3:19 | 2023-09-01 | 2023-09-12 |
-| [Lost Yourself](https://open.spotify.com/track/32MeF1lagNJC0FxENNKATr) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Lost Yourself](https://open.spotify.com/album/1IQoFSV5fxC4xlSVhHfRFn) | 4:16 | 2023-01-20 |  |
+| [Lost Yourself](https://open.spotify.com/track/0hEtbZaCuTwOHOLBFghDPW) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [ONE OF US](https://open.spotify.com/album/4RqyJk6JEauC78BwlFfSFm) | 4:16 | 2024-01-12 |  |
+| [Lost Yourself](https://open.spotify.com/track/32MeF1lagNJC0FxENNKATr) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Lost Yourself](https://open.spotify.com/album/1IQoFSV5fxC4xlSVhHfRFn) | 4:16 | 2023-01-20 | 2024-02-28 |
 | [Love Say](https://open.spotify.com/track/1XooJUOhghelEYTYS6Wp4z) | [Joshtheson](https://open.spotify.com/artist/3TnAeKpnEEsiXZ5wBazNiz) | [Love Say](https://open.spotify.com/album/3KpId1zKLJuRG43mql2U3H) | 3:16 | 2022-09-08 |  |
 | [Luga Pandemic](https://open.spotify.com/track/0O2wVyNkepLJcEmcJbDTix) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Luga Pandemic](https://open.spotify.com/album/3J4Ej6runJXjT4iQxF8cSR) | 3:06 | 2023-01-20 |  |
 | [Mad](https://open.spotify.com/track/4alNJqmxg60rtnOz4qUviH) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:01 | 2023-09-01 | 2023-09-12 |

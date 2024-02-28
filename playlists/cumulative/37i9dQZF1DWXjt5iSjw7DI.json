@@ -2214,6 +2214,24 @@
     {
       "album": {
         "name": "Tanya Tucker (Live)",
+        "url": "https://open.spotify.com/album/7rTySU4fukk9B5JjH397Rl"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180973,
+      "name": "If Your Heart Ain't Busy (Live)",
+      "url": "https://open.spotify.com/track/7untMCrScu2gqZjhqK5qjs"
+    },
+    {
+      "album": {
+        "name": "Tanya Tucker (Live)",
         "url": "https://open.spotify.com/album/00RtdmPhqhOzXJJDLHWPpa"
       },
       "artists": [
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 210372,
       "name": "Mi Vida Loca (My Crazy Life) [Live]",
       "url": "https://open.spotify.com/track/1fhIiIGbLx3tWjxqXuyatt"

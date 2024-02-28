@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 0,
+  "2024-02-28": 0,
   "date_first_scraped": "2024-01-09",
   "description": "",
   "name": "Nostalgia (Problematic)",
@@ -209,6 +209,24 @@
       "duration_ms": 165644,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/7tNTW9aoi0qVC1z2qPJmQG"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "album": {

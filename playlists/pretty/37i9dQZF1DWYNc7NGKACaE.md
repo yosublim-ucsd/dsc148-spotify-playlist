@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,682 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,720 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 57 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 58 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
 | 59 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [Menoleozzin](https://open.spotify.com/artist/5T6UOkgOY9iCBHcOnOatUB) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
-| 60 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
-| 61 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
-| 62 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
+| 60 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
+| 61 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |
+| 62 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 | 63 | [Contatos \- Speed Plug](https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv) | [Rod 011](https://open.spotify.com/artist/0EQKO8vvXzLyITxRJHfC00), [yMontana](https://open.spotify.com/artist/7MO8VSUH29NuqPJHcCflnO), [wazy](https://open.spotify.com/artist/05CehQVgU6xs0LJOGoj3OO), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Gorilla Dream, Vol\. I](https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk) | 2:14 |
 | 64 | [Me Deixei Levar \- Speed](https://open.spotify.com/track/1R2tR76ixjc4upkRz5LDNh) | [7Seven](https://open.spotify.com/artist/2p5u1gM4gSvT7rM6zbjfV1) | [Me Deixei Levar](https://open.spotify.com/album/2Buy6we9bBklwZmo9nrNBc) | 1:36 |
 | 65 | [Peça \- Speed](https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV) | [soiff](https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk), [uhENZX](https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz) | [Peça](https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt) | 2:15 |
 | 66 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw1ZGE5Y2U1YTk1YzQzNzg1ZWQ0ZmI2NjBlZmE0MjhkODAxMWYxNTEy`
+Snapshot ID: `MCwyMmZjOGI4N2I2YzczZTFlN2JkNmVhZWEwM2I5MzdjM2I3ZmQ3Y2M4`

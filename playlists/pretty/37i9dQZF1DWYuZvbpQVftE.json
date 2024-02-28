@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 23705,
+  "num_followers": 23728,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2M5YmQ0OWQ2ZGU1ZWNhYjQxMzMzYmUxOTMxNzUwNDRmODI1MWNk",
+  "snapshot_id": "MCw0MWZkODMwMTA4Nzg5MmE3ZWZhNThmZjZjODY1MmVhY2IyZTM0ZTY5",
   "tracks": [
     {
       "added_at": "2024-02-22 09:44:01",
@@ -155,8 +155,8 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
-        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
       "artists": [
         {
@@ -164,13 +164,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 508093,
-      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
-      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
+      "duration_ms": 503013,
+      "name": "Litha",
+      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -255,8 +259,8 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
+        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
       "artists": [
         {
@@ -264,17 +268,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 503013,
-      "name": "Litha",
-      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
+      "duration_ms": 508093,
+      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
+      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Harold In The Land Of Jazz",
-        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
       "artists": [
         {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
         }
       ],
-      "duration_ms": 426533,
-      "name": "Grooveyard",
-      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+      "duration_ms": 379400,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+        "name": "Harold In The Land Of Jazz",
+        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
       "artists": [
         {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
         }
       ],
-      "duration_ms": 379400,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
+      "duration_ms": 426533,
+      "name": "Grooveyard",
+      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
     },
     {
       "added_at": "2024-02-22 09:44:01",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Moon Over Cuba",
+      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
+    },
+    {
+      "added_at": "2024-02-22 09:44:01",
+      "album": {
         "name": "Son Of Gunn!!",
         "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
-      },
-      "artists": [
-        {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Moon Over Cuba",
-      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
-    },
-    {
-      "added_at": "2024-02-22 09:44:01",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-22 09:44:01",
       "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
-    },
-    {
-      "added_at": "2024-02-22 09:44:01",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/010vqUMlBInvb6mlI6OXUA"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 523426,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/137fcdXuWZk7xZcSZJvxsP"
+    },
+    {
+      "added_at": "2024-02-22 09:44:01",
+      "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2024-02-22 09:44:01",

@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 396610,
+  "2024-02-28": 396715,
   "date_first_scraped": "2023-07-28",
   "description": "Skifoan und H\u00fcttenabriss.",
   "name": "Apr\u00e8s Ski Party 2023",
@@ -1851,6 +1851,28 @@
     {
       "album": {
         "name": "Nimm mich mit ins Paradies",
+        "url": "https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164078,
+      "name": "Nimm mich mit ins Paradies",
+      "url": "https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy"
+    },
+    {
+      "album": {
+        "name": "Nimm mich mit ins Paradies",
         "url": "https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm"
       },
       "artists": [
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 115680,
       "name": "Partysau",
       "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"

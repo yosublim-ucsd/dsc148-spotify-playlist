@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Nokz78
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,832 likes - 88 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,830 likes - 88 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 26 | [Through The Storm](https://open.spotify.com/track/4AnY0oihG1lRUxSiTOcGdt) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Through The Storm](https://open.spotify.com/album/5pACLCow7gGS6YJPyfbbGW) | 2:34 |
 | 27 | [SEND YOUR HITTAZ](https://open.spotify.com/track/2nyMxDI29XL6U0F0qRAxmJ) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks) | [SEND YOUR HITTAZ](https://open.spotify.com/album/2bLbPnUFtnRNbwdBDIlJCs) | 2:13 |
 | 28 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 |
-| 29 | [EarnMe2Slide](https://open.spotify.com/track/5cKmopfDbsTveq5kuy1TL9) | [FK12LVE](https://open.spotify.com/artist/472ahg0smUKTI9J15IIf4t) | [EarnMe2Slide](https://open.spotify.com/album/1gUTJZHphpdSC3hUwpJD10) | 3:07 |
+| 29 | [EarnMe2Slide](https://open.spotify.com/track/5cKmopfDbsTveq5kuy1TL9) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx) | [EarnMe2Slide](https://open.spotify.com/album/1gUTJZHphpdSC3hUwpJD10) | 3:07 |
 | 30 | [Sinner](https://open.spotify.com/track/3vhpbuR6v6p5IlWtwCTgw0) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Sinner](https://open.spotify.com/album/2vieCfsqKheXExeSeAKEQH) | 3:32 |
 | 31 | [FULL EFFECT](https://open.spotify.com/track/3cW9VuItRwuHILeeCsCZeJ) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [FULL EFFECT](https://open.spotify.com/album/0hB81fE583hZGbJ1V18cv9) | 2:15 |
 | 32 | [af1 2.0](https://open.spotify.com/track/4tBAAUWP6gpdF3sMxGVvET) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [af1 2.0](https://open.spotify.com/album/22HwMRzge4xsM8Fv5ZPTOj) | 3:00 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 87 | [Make Money Take Money](https://open.spotify.com/track/6eqDigsr1Lv1Le1SaLxLr0) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [Make Money Take Money](https://open.spotify.com/album/6j1wEMMomneG373mhyztns) | 3:06 |
 | 88 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 
-Snapshot ID: `MCxhMGY3ZWQ0OTgyY2I0NmJiMmI2OGNjYzY5NjVmNzVkNzY4YTc0NTU3`
+Snapshot ID: `MCxjYTExZTEyYmJkOTYyMzMwY2E3NWJmYjUxZGY1NmY1NGMzMDgxNTNl`

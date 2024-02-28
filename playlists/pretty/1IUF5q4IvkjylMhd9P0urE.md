@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,629 likes - 116 songs - 6 hr 59 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,635 likes - 116 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 49 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 |
 | 50 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 |
 | 51 | [You Can Build Me](https://open.spotify.com/track/5oDvyftFW854n3gTtwBosS) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Monstera Black](https://open.spotify.com/artist/4McIq91y9cJCNL6TaIbe6W) | [Dismantled Into Juice](https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV) | 3:29 |
-| 52 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
+| 52 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
 | 53 | [Love Story \(vs Finally\) \- Paul Woolford 2023 Remix](https://open.spotify.com/track/6XKNucvmF71E07feYtVLji) | [Layo & Bushwacka!](https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Love Story \(vs Finally\) \[Paul Woolford 2023 Remix\]](https://open.spotify.com/album/1pSxtiwXWrh2ei6QasvfCJ) | 3:25 |
 | 54 | [Pressure](https://open.spotify.com/track/67U4c4ogb7pWU3uRINXnrn) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure](https://open.spotify.com/album/3cSRHBRgdNFGHIlxKIIBDr) | 4:43 |
 | 55 | [Venom](https://open.spotify.com/track/3zWdTF99ejT22UOnD9QE4r) | [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Venom](https://open.spotify.com/album/29GOJtnh9cTaeqvb5QNHmq) | 3:52 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 61 | [Space Heavy](https://open.spotify.com/track/0q0ggjWlKMDVhw1rETdTB0) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 3:04 |
 | 62 | [Free In The Knowledge / A Hairdryer \- Live at Montreux Jazz Festival](https://open.spotify.com/track/6GNzl4ZHlgSfI9VdwoViKj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [The Smile \(Live at Montreux Jazz Festival, July 2022\)](https://open.spotify.com/album/6x4C6uMJqQnnp4V39p2CeO) | 11:53 |
 | 63 | [ladywell](https://open.spotify.com/track/7HD4oU1eTfDOBs8ECU76V6) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 6:02 |
-| 64 | [shiloh’s revenge](https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [shiloh’s revenge](https://open.spotify.com/album/7FbsgChFR0S7Ju8MwMXkCs) | 4:07 |
+| 64 | [shiloh's revenge](https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [shiloh's revenge](https://open.spotify.com/album/7FbsgChFR0S7Ju8MwMXkCs) | 4:07 |
 | 65 | [prettynames](https://open.spotify.com/track/3XIll8ycq39GV1t7EtMVpF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [prettynames](https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN) | 2:41 |
 | 66 | [wishuwerehere](https://open.spotify.com/track/6ouflVakFDbhMaRKfv2jvF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [wishuwerehere](https://open.spotify.com/album/1cWmMEtvycWbC65ncuL2zs) | 2:14 |
 | 67 | [emptyhouse](https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [emptyhouse](https://open.spotify.com/album/1Am4nLFfQAR58w2c6GxGFh) | 3:21 |

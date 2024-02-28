@@ -1,12 +1,12 @@
 {
   "description": "Jazz favorites from 2023. Cover: Terrace Martin #SpotifyWrapped",
-  "num_followers": 23898,
+  "num_followers": 23902,
   "original_name": "Best Jazz Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjI3Zjg2YTY3ZTI3NGMzNWNmMWQzY2ZjN2ZmZGNjZDBhNTRjZTdk",
+  "snapshot_id": "MCxkNzFkMGM1ZWRiMjNkYzhmZGE4NWY0MjUzMTQyZjAwMTQ5YjJkZTI3",
   "tracks": [
     {
       "added_at": "2023-11-29 12:17:00",
@@ -736,17 +736,9 @@
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Phil Ranelin and Wendell Harrison JID016",
-        "url": "https://open.spotify.com/album/5pOeJp4lMFkrQVzIJvXPgl"
+        "url": "https://open.spotify.com/album/3HJHDhPks17PS9Xygh3c4T"
       },
       "artists": [
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        },
         {
           "name": "Phil Ranelin",
           "url": "https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1"
@@ -754,11 +746,19 @@
         {
           "name": "Wendell Harrison",
           "url": "https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
       "duration_ms": 210473,
       "name": "Open Eye",
-      "url": "https://open.spotify.com/track/0vYJOQzSOVD53UmRAP08aH"
+      "url": "https://open.spotify.com/track/2nJCIwaKBolJwPV0Yry9E6"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1152,7 +1152,7 @@
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Instrumentals JID019",
-        "url": "https://open.spotify.com/album/3naPexauBSI1rjOU0jsmEq"
+        "url": "https://open.spotify.com/album/4C3R9BzlR6WCrp3tmf4CYn"
       },
       "artists": [
         {
@@ -1162,15 +1162,11 @@
         {
           "name": "Ali Shaheed Muhammad",
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        },
-        {
-          "name": "Lonnie Liston Smith",
-          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
         }
       ],
-      "duration_ms": 227613,
-      "name": "Cosmic Changes",
-      "url": "https://open.spotify.com/track/6dD48wXYlHT5sX11wHr4eO"
+      "duration_ms": 227621,
+      "name": "Cosmic Changes - Instrumental",
+      "url": "https://open.spotify.com/track/5lwTXbRfejZvKIHH5rBHdt"
     },
     {
       "added_at": "2023-11-29 12:17:00",

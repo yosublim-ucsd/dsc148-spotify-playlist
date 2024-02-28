@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-165 songs - 10 hr 32 min
+166 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2022-12-01 | 2023-03-11 |
 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2022-12-01 |  |
 | [KNOW ME \(feat\. Gallant\)](https://open.spotify.com/track/6oHNAWV5sbGtTVCvXhXikt) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [BRONSON](https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg) | 3:00 | 2022-12-01 | 2023-02-10 |
-| [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2023-09-28 |  |
+| [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2023-09-28 | 2024-02-28 |
 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2022-12-01 | 2023-09-23 |
 | [Lençóis \(Love Me\)](https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lençóis \(Love Me\)](https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De) | 3:45 | 2022-12-01 | 2023-08-28 |
 | [Lies](https://open.spotify.com/track/7vYSljwfq9zqQzLaHU7Jot) | [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER), [Sakidasumi](https://open.spotify.com/artist/007w6UZAPGJnCgeUixkyOT) | [Lies](https://open.spotify.com/album/4hrFvYVpmSWQu415WpGQ7V) | 3:41 | 2023-04-14 | 2023-04-29 |
@@ -99,6 +99,7 @@
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-12-01 | 2023-10-25 |
 | [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 | 2022-12-15 | 2023-01-22 |
 | [Long Time \- Cabu Remix](https://open.spotify.com/track/78uwNLAfMW3RFkafAhnwKD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Long Time \(Cabu Remix\)](https://open.spotify.com/album/0BRh6hbd2RATsc6mO8RAAg) | 3:07 | 2022-12-01 | 2023-03-31 |
+| [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/7HfDDnqygZdXqzH33fWZfx) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:46 | 2023-12-21 |  |
 | [Love In Stereo](https://open.spotify.com/track/1U9NJf9RX0D2YTqydDyaAb) | [Timothy and the Apocalypse](https://open.spotify.com/artist/1Vn2elOesHPjL1hnX3x7Fx) | [Love In Stereo](https://open.spotify.com/album/1wlbv5NuAfHpTQKGk7yAky) | 4:48 | 2023-05-11 | 2023-08-18 |
 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 | 2022-12-01 | 2023-02-10 |
 | [love runs out](https://open.spotify.com/track/03XZAMOIYh6wy6Y02l6tM1) | [sad face.](https://open.spotify.com/artist/3E9nbdWPIrVqkHoQeU003n) | [love runs out](https://open.spotify.com/album/0uH1Ha1MoemJHPfljLC4CX) | 2:50 | 2023-05-11 | 2023-07-06 |

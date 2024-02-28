@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BIBI)",
-  "num_followers": 986125,
+  "num_followers": 986122,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjQ1YmVmMjdmZDAxZDE5OTdiOWM0M2QzNmE5OTg2M2M4MmIxZjZk",
+  "snapshot_id": "MCxhYzhmMGJjMDI4MjUyZWI1ZTgyMmE0ZmEzZjFkNTMxZTNiNzMyYTVh",
   "tracks": [
     {
       "added_at": "2024-02-13 09:00:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "you won't be there for me",
         "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "Moodswings in This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
         "name": "Birthday - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
       },
@@ -827,22 +811,6 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
         "name": "Twenty-Five Twenty-One OST Part 4",
         "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 204229,
       "name": "Your Existence",
       "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "Moodswings in This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 227173,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
         "name": "Horizon - NCT LAB",
         "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
       },
@@ -1087,6 +1071,38 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
+        "name": "HOLO",
+        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "HOLO",
+      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "Know me",
         "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "HOLO",
-        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "HOLO",
-      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Wishing On You",
+      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "Spring in Winter",
         "url": "https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 168870,
       "name": "Winter blossom (feat. Ashley Alisha & nobody likes you pat)",
       "url": "https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Wishing On You",
-      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
     },
     {
       "added_at": "2024-02-13 09:00:00",

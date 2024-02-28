@@ -4,7 +4,7 @@
 
 > The anti pop archive: tracks added by our editors over the last year\. Cover: Gorillaz
 
-1,607 songs - 3 day 5 hr 24 min
+1,609 songs - 3 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [CRUMBLE](https://open.spotify.com/track/1ud2gKMwBIK5XkePiIr16r) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [CRUMBLE](https://open.spotify.com/album/3tukKF6gkRQ7OIWu3kse3j) | 2:14 | 2022-07-29 | 2022-08-06 |
 | [CRUSH](https://open.spotify.com/track/4WQtZRMQ0yHC5ioy6SwVvL) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [CRUSH](https://open.spotify.com/album/5pVUkDUqsZj4xmXSorJ8Ph) | 3:08 | 2020-10-13\* | 2021-01-23 |
 | [Crush](https://open.spotify.com/track/0D5DEPAygd5q2ULqY9WQyP) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Crush](https://open.spotify.com/album/1vCulKxQrKDV1rPKHEgIHI) | 2:13 | 2021-09-11 | 2021-10-14 |
-| [Crush \- Unfinished](https://open.spotify.com/track/516daakwmX9S2aRifLUCp8) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:45 | 2023-01-11 |  |
+| [Crush \- Unfinished](https://open.spotify.com/track/516daakwmX9S2aRifLUCp8) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:45 | 2023-01-11 | 2024-02-28 |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 | 2022-05-10 |
 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 | 2023-08-11 | 2023-09-30 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-05 | 2022-03-01 |
@@ -470,7 +470,7 @@
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-03-14 | 2022-02-12 |
 | [FIND ME](https://open.spotify.com/track/2jqV4ATkjFNyLN2L5WtmUJ) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [STARSCREAM](https://open.spotify.com/album/1KT10bvDi0UODxLMZjTVld) | 2:10 | 2022-04-01 | 2022-07-01 |
 | [First Gear](https://open.spotify.com/track/6VSqMGR9ki01c3J2mUvMeH) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [First Gear](https://open.spotify.com/album/2htDqgseiL93HoFAlHFo46) | 2:45 | 2021-04-10 | 2021-12-22 |
-| [Fishnets](https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Fishnets](https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs) | 3:05 | 2023-11-07 |  |
+| [Fishnets](https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Fishnets](https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs) | 3:05 | 2023-11-07 | 2024-02-28 |
 | [FIST](https://open.spotify.com/track/1Us2NxqNSrUC9go9QcjQQ3) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [FIST](https://open.spotify.com/album/3YFf5jiHCuEIawmbEhzSNB) | 1:25 | 2022-09-19 | 2022-11-10 |
 | [FIT PIC](https://open.spotify.com/track/2fBhent6RyZfVDVL3mCeFE) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [FIT PIC](https://open.spotify.com/album/4kq62cyYveJQEMXyNOh35E) | 2:31 | 2021-08-13 | 2021-10-14 |
 | [FIT PIC](https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES+](https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf) | 2:31 | 2022-04-09 | 2022-05-12 |
@@ -518,6 +518,7 @@
 | [G2g](https://open.spotify.com/track/05dhhYqPer4fPD9Cwtu7NP) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [HAN](https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh) | 4:24 | 2023-06-30 | 2023-07-22 |
 | [Galipette](https://open.spotify.com/track/4mQTPwMKPNLGODbonuGCtP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Galipette](https://open.spotify.com/album/1TGFqdW4JDw4YAgSLAawb2) | 2:03 | 2021-07-04 | 2022-02-12 |
 | [Games](https://open.spotify.com/track/65KIR3crRNMbBh12z1TkTh) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Games](https://open.spotify.com/album/2AIqyQHTsGj1IRS19mQjER) | 1:41 | 2022-02-04 | 2022-05-10 |
+| [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 | 2024-02-27 |  |
 | [GEEKIN](https://open.spotify.com/track/2AdcAJUXNrvgKEdIEbXVy8) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [GEEKIN](https://open.spotify.com/album/5mmKNEoVu2DMJwMqPz1e4h) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [Gemini](https://open.spotify.com/track/0BEc5agGF5SNiQr2RWvusG) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Gemini](https://open.spotify.com/album/5IPibq1BrOykKFmIE06Vxm) | 3:04 | 2020-10-16 | 2021-03-26 |
 | [Generation](https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Generation](https://open.spotify.com/album/0V9mAZKEd0gyIC2XQMt6qd) | 3:30 | 2021-12-04 | 2021-12-11 |
@@ -535,6 +536,7 @@
 | [get yo bread](https://open.spotify.com/track/7L5W4IMeAwM0jYTCmS6AjA) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:44 | 2022-10-25 | 2022-10-29 |
 | [getting older](https://open.spotify.com/track/4ojKgnQLWOCKfqqcYsLH1m) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [getting older](https://open.spotify.com/album/7kAwfOc0datHwSXfdvzH0s) | 2:26 | 2023-08-18 | 2024-01-01 |
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 | 2023-03-02 |
+| [Gimme](https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Gimme](https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza) | 2:24 | 2024-02-27 |  |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 |  |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
 | [Gimme Love](https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 3:34 | 2024-01-09 |  |

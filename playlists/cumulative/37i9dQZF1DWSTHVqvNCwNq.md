@@ -4,7 +4,7 @@
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-66 songs - 3 hr 28 min
+67 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Little Boy Blues](https://open.spotify.com/track/27O30M436mQhCIraUKmO9o) | [Robert Lockwood, Jr.](https://open.spotify.com/artist/5hId7yMy0kbGP6IiKWVDql) | [Trouble Hearted Blues](https://open.spotify.com/album/3w2VGThFBaflAl70bu4Qww) | 3:07 | 2016-03-22 |  |
 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 | 2018-02-27 |  |
 | [Moon Is Rising](https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Alternative Boogie: Early Studio Recordings, 1948\-1952](https://open.spotify.com/album/0rGdGbskTT8NnfJwfDVEkc) | 2:49 | 2016-03-22 |  |
-| [Mr Freddie's Kokomo Blues](https://open.spotify.com/track/0NNsX9iY7shbtzCJg3DYRK) | [Freddie Spruell](https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX) | [Best of Blues Vol\. 9: Sweet Home Chicago \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/270BuNeZqDgIbHyVN6ydBY) | 3:06 | 2018-02-27 |  |
+| [Mr Freddie's Kokomo Blues](https://open.spotify.com/track/0NNsX9iY7shbtzCJg3DYRK) | [Freddie Spruell](https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX) | [Best of Blues Vol\. 9: Sweet Home Chicago \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/270BuNeZqDgIbHyVN6ydBY) | 3:06 | 2018-02-27 | 2024-02-28 |
+| [Mr Freddie's Kokomo Blues](https://open.spotify.com/track/2DnIeTrMDBjK14ROjnVDRh) | [Freddie Spruell](https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX) | [Mr Freddie](https://open.spotify.com/album/3W7ndbi3PqHCwBOdnEvwXl) | 3:06 | 2018-02-27 |  |
 | [My Mama Don't Allow Me](https://open.spotify.com/track/0SVoYMEKJcY56RbGrU5Of5) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Arthur "Big Boy" Crudup Vol\. 1 1941\-1946](https://open.spotify.com/album/0W8si0dl1CD4U3ebkypkyp) | 3:10 | 2016-03-22 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2021-12-17 |  |
 | [Rowdy Blues](https://open.spotify.com/track/75ToackOie9J7ZptaPbPxY) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 3:00 | 2016-03-22 |  |

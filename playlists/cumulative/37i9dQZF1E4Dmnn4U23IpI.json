@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 215424,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/5oAAZFOGGUxNPibtnWu7Ta"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 266181,
       "name": "City Glow",
       "url": "https://open.spotify.com/track/1JVfWCE8HcyCbOEt5kEFc6"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 207758,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2cj5qEqQOnx8LV67Ja7jLB"
@@ -7434,7 +7434,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 327272,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/7p11vJutdhBfmbYRrfXAtd"
@@ -7744,7 +7744,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 235164,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/3Vit46aYIz4uq4HlfCoiX1"
@@ -8088,7 +8088,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 218872,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/3VA0MbKd8BHOnS7neOKwz5"
@@ -8494,7 +8494,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 297975,
       "name": "Fixing Me With Love",
       "url": "https://open.spotify.com/track/0tiwBz7dAqFU60fGmZyCoH"
@@ -8578,7 +8578,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 162666,
       "name": "Flashing Sirens",
       "url": "https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ"
@@ -15272,7 +15272,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 217601,
       "name": "Mojave",
       "url": "https://open.spotify.com/track/4H0ex5y33b2bA3FwixjcE3"
@@ -16178,7 +16178,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 250434,
       "name": "Never Dance Again - Battle Tapes Remix",
       "url": "https://open.spotify.com/track/1SfvyBNRHqcp2l4MrtRtw5"
@@ -16316,6 +16316,28 @@
       "duration_ms": 286040,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/2U9xilwDVbl5upU99insIn"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/32pld4LUUztlztwudVyOHl"
+      },
+      "artists": [
+        {
+          "name": "Ace Buchannon",
+          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
+        },
+        {
+          "name": "Gryff",
+          "url": "https://open.spotify.com/artist/3M4MXoiDxsDBq9Cm3vKNOk"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241064,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/6QeWh5fWA5HRzZZTd45f1U"
     },
     {
       "album": {
@@ -16522,7 +16544,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 195012,
       "name": "Night Patrol",
       "url": "https://open.spotify.com/track/0bBqRn9Ei6n5aRoJBt3fq0"
@@ -26000,7 +26022,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
@@ -27516,7 +27538,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 349506,
       "name": "When You Grow Up, Your Heart Dies",
       "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"

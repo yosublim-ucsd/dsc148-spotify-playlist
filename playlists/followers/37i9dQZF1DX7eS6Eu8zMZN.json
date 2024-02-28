@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 47970,
+  "2024-02-28": 47992,
   "date_first_scraped": "2022-05-26",
   "description": "Rock tranqui para concentrarse.",
   "name": "Rock en Espa\u00f1ol Ac\u00fastico",
@@ -1075,6 +1075,24 @@
       "duration_ms": 258320,
       "name": "Monitor - Acoustic",
       "url": "https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ"
+    },
+    {
+      "album": {
+        "name": "Morrita Azul",
+        "url": "https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs"
+      },
+      "artists": [
+        {
+          "name": "Lengua de Mapa",
+          "url": "https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237076,
+      "name": "Morrita Azul",
+      "url": "https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW"
     },
     {
       "album": {

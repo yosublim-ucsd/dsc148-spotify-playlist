@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 207885,
+  "2024-02-28": 207897,
   "date_first_scraped": "2022-05-12",
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Central Cee",
   "name": "Rap Internazionale",
@@ -6314,6 +6314,28 @@
     },
     {
       "album": {
+        "name": "MA DOUCE",
+        "url": "https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216469,
+      "name": "MA DOUCE",
+      "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -6577,7 +6599,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 202306,
       "name": "MEZZANOTTE (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/1TVrjQh9mfod3CMgG8eLqy"

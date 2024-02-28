@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Planet Giza",
-  "num_followers": 10461,
+  "num_followers": 10478,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDIzZmRiMGIyNGZjYjJkN2M0NWRhZWFhOWU1OWEzYjRmYmY5NWNi",
+  "snapshot_id": "MCwwM2ViNmMzNTkwNmI0MTJlMTY4ODc4OTgyZmMxOWVmYTg2MjMxYjgz",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Trust Your Gut",
+        "url": "https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "duration_ms": 229624,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Bionic Man",
         "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 192000,
       "name": "Bionic Man",
       "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Trust Your Gut",
-        "url": "https://open.spotify.com/album/69pUV4gOn39njJuG6iHoyv"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        }
-      ],
-      "duration_ms": 229624,
-      "name": "Way Down",
-      "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Extravagant Collection",
-        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Rastar",
         "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 173932,
       "name": "Netflix & Chill (feat. Fenix Flexin)",
       "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Extravagant Collection",
+        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Jupiter & Mars",
+        "url": "https://open.spotify.com/album/3iRKgJqd2XTistB0EAh9QU"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Jupiter & Mars",
+      "url": "https://open.spotify.com/track/7GSOsyYPXAS31vaEVyzzRh"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "002 / LOVE ME",
         "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Jupiter & Mars",
-        "url": "https://open.spotify.com/album/3iRKgJqd2XTistB0EAh9QU"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Jupiter & Mars",
-      "url": "https://open.spotify.com/track/7GSOsyYPXAS31vaEVyzzRh"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
-        }
-      ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "All Time High",
         "url": "https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N"
       },
@@ -1075,22 +1055,6 @@
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Time & It's Order",
-        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 135221,
-      "name": "Time & It's Order",
-      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1111,6 +1075,42 @@
       "duration_ms": 272052,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Time & It's Order",
+        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 135221,
+      "name": "Time & It's Order",
+      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
     },
     {
       "added_at": "2024-02-23 05:00:00",

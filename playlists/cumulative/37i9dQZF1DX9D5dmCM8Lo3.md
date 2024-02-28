@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-122 songs - 5 hr 58 min
+123 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [departure](https://open.spotify.com/track/3uexwXJFkOVHkmulr3IiLc) | [UNIT KAI](https://open.spotify.com/artist/3xEXDFJiPyIS1oC1xYX06F), [acounta](https://open.spotify.com/artist/0sGvH1VL3n3Dn6rvDu2KhX) | [departure](https://open.spotify.com/album/2gosUSZpSN0zTv9WYF8HCj) | 2:31 | 2022-03-02 | 2022-12-17 |
 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 | 2022-03-02 |  |
 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 | 2022-03-02 | 2024-01-28 |
+| [Doku](https://open.spotify.com/track/7LJqyke8utk9ddmFchx3Z6) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/2I4bTaKKypXoIOCxxH5RND) | 2:52 | 2023-07-18 |  |
 | [don't hold me back](https://open.spotify.com/track/287o8HY3OhxKnJhMwKFLR3) | [Mello Jupiter](https://open.spotify.com/artist/5uM9zhLZdIzlTPjZ71Myt3) | [don't hold me back](https://open.spotify.com/album/4pcGT4DzNuS9060W3ePJ44) | 3:10 | 2022-03-02 | 2022-07-29 |
 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 | 2022-03-02 | 2023-08-08 |
 | [Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5) | [009 Sound System](https://open.spotify.com/artist/0BjppA384A5QT9kRKCJOyb) | [009 Sound System](https://open.spotify.com/album/5W3etTwlyw2ykgwk5sW8K3) | 4:37 | 2022-04-01 |  |
@@ -75,7 +76,7 @@
 | [Midnight](https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:06 | 2023-08-03 |  |
 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 | 2022-03-02 |  |
 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 | 2022-03-02 | 2023-07-31 |
-| [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 | 2022-03-02 |  |
+| [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 | 2022-03-02 | 2024-02-28 |
 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 | 2022-03-11 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2022-03-02 |  |
 | [Myztic Stage: Frost & Fire](https://open.spotify.com/track/5HZK5gSFHb0WBxKS6rsNH3) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Digimaiden](https://open.spotify.com/album/3HU9kKXZaaUK69KpAwZKvO) | 3:08 | 2022-03-02 | 2022-07-29 |

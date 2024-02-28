@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 
 > Tune in for the years hottest Kpop tracks\. <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> K\-Pop Tunes \| Kpop Mix \| Kpop Boyband \| Kpop Girl Groups \| Cover: NewJeans
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 337,285 likes - 69 songs - 3 hr 31 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 337,272 likes - 69 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Annalisa
 
-817 songs - 1 day 17 hr 11 min
+818 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Funny Kind of Lonely](https://open.spotify.com/track/1ESEJCdZiNjkJc0phzyRkY) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/04rxodRiaHUNMgIRitI437) | 4:06 | 2023-08-18 | 2023-09-23 |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-22 | 2024-02-23 |
 | [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 | 2024-02-16 |  |
+| [Gag](https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/7Iq01QrhVdHMVuEDXRxmxk) | 3:14 | 2024-02-27 |  |
 | [Gambler \- 7" Version](https://open.spotify.com/track/5j9vqiVm3Rk9rW5WFGtT27) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Gambler](https://open.spotify.com/album/5TjtrH6PXqeQJ0k67dKv5Y) | 3:51 | 2022-12-09 | 2022-12-24 |
 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-07 | 2023-06-03 |
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-15 | 2022-07-30 |
@@ -428,7 +429,7 @@
 | [La noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [La noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-02-16 |  |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-03 |  |
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-24 |
-| [Lavender](https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Lavender](https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5) | 3:03 | 2024-02-16 |  |
+| [Lavender](https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Lavender](https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5) | 3:03 | 2024-02-16 | 2024-02-28 |
 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 | 2022-06-03 |  |
 | [Lesbionic](https://open.spotify.com/track/2sRhsxAYfgSJiee7YCBAdi) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6JNdH5ONfL6EgcHpEZpz4M) | 2:41 | 2022-09-09 | 2022-10-29 |
 | [Lesbionic](https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu) | 2:41 | 2022-07-01 | 2022-10-09 |

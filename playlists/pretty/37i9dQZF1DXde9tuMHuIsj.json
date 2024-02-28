@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus",
-  "num_followers": 1494576,
+  "num_followers": 1494603,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2ViZWM0MzEwZTE3MzVhMjc0ZTg0OGM0ZjE4MjNjMGUwNTVhYzJh",
+  "snapshot_id": "MCw2MmI4MzI3YWNlMjA1MTMzNDFlM2Y1ZjRmOWYzYzMzY2YyMWU2MjA4",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -347,46 +347,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 142736,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V"
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "AEROBICO REMIX",
-        "url": "https://open.spotify.com/album/2kWJzDtmTnGeToG1IAtCXt"
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
       "artists": [
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 213245,
-      "name": "AEROBICO REMIX",
-      "url": "https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu"
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -495,38 +487,46 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+        "name": "AEROBICO REMIX",
+        "url": "https://open.spotify.com/album/2kWJzDtmTnGeToG1IAtCXt"
       },
       "artists": [
         {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+      "duration_ms": 213245,
+      "name": "AEROBICO REMIX",
+      "url": "https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+      "duration_ms": 142736,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 130961,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 130961,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "SALVAJE",
-      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Juanito Alima\u00f1a",
         "url": "https://open.spotify.com/album/7xtJVNE6hI95g28ldo2WoV"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 193332,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/0qyBcGtF6GrRwnfRH8ezzK"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "SALVAJE",
+      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "en guerra",
-        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "en guerra",
-      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "JETSKI (Remix)",
         "url": "https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 256825,
       "name": "JETSKI - Remix",
       "url": "https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "en guerra",
+        "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "en guerra",
+      "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Invicta",
-        "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
-      },
-      "artists": [
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 240300,
-      "name": "Invicta",
-      "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "TRAPPii",
         "url": "https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 177514,
       "name": "TRAPPii",
       "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Invicta",
+        "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
+      },
+      "artists": [
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 240300,
+      "name": "Invicta",
+      "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "El Bloke Hills",
-        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 162713,
-      "name": "Gafas Pal Sol",
-      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Super Gremlin (El Diablo Mix)",
         "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 239939,
       "name": "Super Gremlin - El Diablo Mix",
       "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
     },
     {
       "added_at": "2024-02-09 05:00:00",

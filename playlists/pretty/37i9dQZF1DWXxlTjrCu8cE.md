@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,399 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,402 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 26 | [Virou Passado \- Ao Vivo](https://open.spotify.com/track/3ynXKOOhbBrszy3JThjX9H) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Mil Maravilhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/48knHVjtqbv858YIOy72af) | 2:22 |
 | 27 | [Por Mim Eu Te Deixava Agora \- Ao Vivo](https://open.spotify.com/track/3Z9YJd5bdrxRVWWFDcFOPW) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [\#Trintou \(Ao Vivo\)](https://open.spotify.com/album/6C8HEltnMup1vEJf7sOZEg) | 2:34 |
 | 28 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 |
-| 29 | [Me Abraça \- Ao Vivo](https://open.spotify.com/track/14doyv2eOJ8fpHBIQHeHvZ) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Esse Menino Sou Eu: Bloco Alô Bateria! \(Ao Vivo\)](https://open.spotify.com/album/79zvOuJhk6xWaSEzHTn8eN) | 3:40 |
+| 29 | [Me Abraça \- Ao Vivo](https://open.spotify.com/track/3VHSZkvZy5j8FDqYeE1mrG) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Esse Menino Sou Eu: Bloco Alô Bateria! \(Ao Vivo\)](https://open.spotify.com/album/01GyBcKMerISh5uyAjse4Q) | 3:40 |
 | 30 | [Canção da Despedida](https://open.spotify.com/track/3x4t3QVJdGW2q0bDH0o13k) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Canção da Despedida](https://open.spotify.com/album/3dvqBJdA4409QXJlozKTHg) | 3:09 |
 | 31 | [Um Minuto Sem Você \- Ao Vivo](https://open.spotify.com/track/1be3Fdhi0YTJiZTrOqvunH) | [Renato da Rocinha](https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Um Minuto Sem Você \(Ao Vivo\)](https://open.spotify.com/album/6EzV6ZJ7zi9d9EabqpKenZ) | 4:01 |
 | 32 | [Degrauzinho](https://open.spotify.com/track/1uWSkDWAW8g2ue465eWJYc) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Degrauzinho por Degrauzinho \(Ao Vivo\)](https://open.spotify.com/album/0bObPIzUpM7Ai8PAu6ZPWm) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Princípio, Meio e Fim \- Ao Vivo](https://open.spotify.com/track/3Xxhc8X9toGvIDDxVAnmnn) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Marquinho Sathan](https://open.spotify.com/artist/6pGDvf6PGo4GLcZnOw5Wd7) | [Bom Gosto No Cacique \(Ao Vivo\)](https://open.spotify.com/album/1yY1GVqgmQtBR1GY8j8ffS) | 4:46 |
 | 50 | [Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/6nXYDIFHCJuZu1l8F4E4Hg) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music \(Ao Vivo\)](https://open.spotify.com/album/4dvNnE6w4eBxyNxG59UEdL) | 2:47 |
 
-Snapshot ID: `MCw2ZmIzNjVlNzQzOWEwOGVlMDdiNDJlN2ZmY2RlM2NiYWNmODU0NjUy`
+Snapshot ID: `MCw5MmRhNDc1NmQ3MmZmZDM2ODdlNGMxMmFhMmE0NDA5ZTY3NGQ2Yjg3`

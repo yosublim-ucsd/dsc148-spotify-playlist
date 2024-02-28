@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 22973,
+  "2024-02-28": 22992,
   "date_first_scraped": "2022-03-22",
   "description": "\u00a1Esto es punta!",
   "name": "Punta",
@@ -183,7 +183,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 196613,
       "name": "Banana",
       "url": "https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 325640,
       "name": "Mete y Saca",
       "url": "https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re"

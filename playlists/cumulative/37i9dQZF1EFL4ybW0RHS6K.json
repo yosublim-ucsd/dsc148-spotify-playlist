@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Verrader",
+        "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162984,
+      "name": "Verrader",
+      "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
+    },
+    {
+      "album": {
         "name": "Lach",
         "url": "https://open.spotify.com/album/5fFbetGfiyklQC2dUyHwRA"
       },

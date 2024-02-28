@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Leellamarz, YANGHONGWON\(릴러말즈 & 양홍원\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Don Mills\(던밀스\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,106 songs - 2 day 12 hr 39 min
+1,107 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [HONDA !](https://open.spotify.com/track/0yurxXDL2EC9dFyZJXy39y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BEIGE](https://open.spotify.com/album/2evikoMhheFgk9gQB7Vd1S) | 3:01 | 2023-05-30 | 2023-11-16 |
 | [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 | 2023-09-15 |
 | [Hopefully \(Feat\. Jung In\) \(Prod\. TOIL\)](https://open.spotify.com/track/6zdgPI0zkt6xJSUoTLud8v) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:26 | 2021-12-29 | 2022-07-01 |
+| [Hospital, Court, Work, Filming](https://open.spotify.com/track/2szBysN5sT8Ked7zswePa6) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [The Life\-Changing Album](https://open.spotify.com/album/0dzcrGXJmPiIH75kSdrOrA) | 2:52 | 2024-02-27 |  |
 | [HOW U FEEL? \(feat\. Woo\)](https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3) | [HOLYDAY](https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HOLY](https://open.spotify.com/album/1odIOe9NrMNHlQg5l895Zc) | 2:52 | 2023-02-09 | 2023-04-19 |
 | [How We Came \(Feat\. pH\-1\)](https://open.spotify.com/track/5cPqNrv1nXKvpQEjia1eNF) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [FLEEKY SEASON](https://open.spotify.com/album/2j9zs9bC1zlUylBIVzg2a9) | 2:52 | 2023-04-18 | 2023-09-15 |
 | [how's your summer?](https://open.spotify.com/track/4d96YEbQXNqQsbBauaButp) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [how's your summer?](https://open.spotify.com/album/1zJfPqG84GCiB8H67Dsgtn) | 2:37 | 2022-07-09 | 2022-08-18 |

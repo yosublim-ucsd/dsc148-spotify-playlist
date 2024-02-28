@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 111696,
+  "2024-02-28": 111744,
   "date_first_scraped": "2022-04-22",
   "description": "Canciones de rock con un toque de nostalgia.",
   "name": "Nostalgia + Rock",
@@ -89,8 +89,8 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
-      "duration_ms": 351642,
+      "date_removed": null,
+      "duration_ms": 351626,
       "name": "Ahora Que No Estas",
       "url": "https://open.spotify.com/track/4YtvPDN9v12yXIwRdGWXYz"
     },
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 213066,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/0Ruvs5IxqkGqQVWCO2oRpw"

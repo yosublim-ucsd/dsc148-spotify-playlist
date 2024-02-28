@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 191553,
+  "2024-02-28": 191577,
   "date_first_scraped": "2023-04-29",
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
   "name": "This Is Willie Nelson",
@@ -707,7 +707,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 146109,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 130733,
       "name": "I Gotta Get Drunk (with Willie Nelson)",
       "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"

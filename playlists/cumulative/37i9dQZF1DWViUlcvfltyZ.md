@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Arianna Pasini
 
-769 songs - 1 day 18 hr 46 min
+770 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Cherries](https://open.spotify.com/track/1TakoLDRIHQq4WlSZVcmcF) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Cherries](https://open.spotify.com/album/6Vgm212wqZ8O3qqkPbeAc4) | 1:50 | 2023-03-09 | 2023-03-31 |
 | [Chi lo decide chi siamo?](https://open.spotify.com/track/03sZbzvfpwP6biNYJKXIjI) | [Cenere](https://open.spotify.com/artist/4KyxWZEHk1zSgqFgg4VtGR) | [Chi lo decide chi siamo?](https://open.spotify.com/album/7ueBkug7HODYaBbQE7GqND) | 2:32 | 2022-12-15 | 2023-02-24 |
 | [Chiama quando arrivi](https://open.spotify.com/track/4nfn8OPEj0TsZ63RFkWObG) | [Vilma](https://open.spotify.com/artist/1q9jrmaeioFr3Kb5DVhLak) | [Viva il Male](https://open.spotify.com/album/1Zz2Cc070NdZNkRmxnNLkp) | 2:44 | 2024-01-25 |  |
+| [Chicco \(feat\. Tripolare\)](https://open.spotify.com/track/5tZdJhXY8z7AthEIsn5KUs) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Chicco \(feat\. Tripolare\)](https://open.spotify.com/album/2Ls2f0KJmFdKv0fRNzS2lT) | 1:55 | 2024-02-27 |  |
 | [Church Superdelay](https://open.spotify.com/track/6Zj3IHsLkBvsO0QrTybErF) | [Death Mantra for Lazarus](https://open.spotify.com/artist/4psOy0yl6xHgFs06QfRNja) | [Church Superdelay](https://open.spotify.com/album/6c0eppNsqdEk7pKEuoatuQ) | 3:54 | 2023-04-13 | 2023-04-28 |
 | [Cilantro Grass](https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Parrots & The Park \(Pastimes Vol\. I\)](https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S) | 2:35 | 2022-06-16 | 2022-06-24 |
 | [Cimitero](https://open.spotify.com/track/3IPNLgCJJkFjHRtktUa28N) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Cimitero](https://open.spotify.com/album/1Tjkz14aQzJtOEX4mhehUP) | 2:12 | 2024-01-18 |  |

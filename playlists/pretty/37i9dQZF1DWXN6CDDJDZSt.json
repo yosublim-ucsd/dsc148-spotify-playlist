@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 68291,
+  "num_followers": 68315,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzBlODBmZmUzMzRjMGQwNDk5N2U5MWY3YjFhNWI4MjBkNzAwYmFm",
+  "snapshot_id": "MCxkNWJiOGFhZDlmZDJiMjg0MmYzMGYwYTBjN2IxZDAxZTdlYTc0Yzk4",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2507,30 +2507,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Work From Home With Puccini",
-        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 105893,
-      "name": "Scossa Elettrica (Marcia Brillante)",
-      "url": "https://open.spotify.com/track/3UlE9PHJFLKiJGqP9ndWVl"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "The Art of Renata Tebaldi",
         "url": "https://open.spotify.com/album/1wWOpyGLdHiF8o2IE9ZdV8"
       },
@@ -2580,9 +2556,9 @@
           "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 296826,
-      "name": "Scherzo",
-      "url": "https://open.spotify.com/track/3IffGu53g3SNM0p8HMlaTN"
+      "duration_ms": 105893,
+      "name": "Scossa Elettrica (Marcia Brillante)",
+      "url": "https://open.spotify.com/track/3UlE9PHJFLKiJGqP9ndWVl"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2604,9 +2580,9 @@
           "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 150253,
-      "name": "Preludio a Orchestra",
-      "url": "https://open.spotify.com/track/3OkhD8k8iUHmD7ObFdDDWV"
+      "duration_ms": 296826,
+      "name": "Scherzo",
+      "url": "https://open.spotify.com/track/3IffGu53g3SNM0p8HMlaTN"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2643,6 +2619,30 @@
       "duration_ms": 256746,
       "name": "La Boh\u00e8me / Act 1: \"Questo Mar Rosso\" - Live",
       "url": "https://open.spotify.com/track/3VMhWacsXGBaTFYmOSoF2z"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Work From Home With Puccini",
+        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 150253,
+      "name": "Preludio a Orchestra",
+      "url": "https://open.spotify.com/track/3OkhD8k8iUHmD7ObFdDDWV"
     },
     {
       "added_at": "2022-06-24 16:28:17",

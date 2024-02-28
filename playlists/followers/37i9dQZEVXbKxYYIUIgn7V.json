@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 12367,
+  "2024-02-28": 12370,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 168113,
       "name": "2 days into college",
       "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
@@ -194,6 +194,28 @@
     },
     {
       "album": {
+        "name": "Zungenbrecher 4.0 - Staffel 4",
+        "url": "https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC"
+      },
+      "artists": [
+        {
+          "name": "Bodo Wartke",
+          "url": "https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn"
+        },
+        {
+          "name": "Marti Fischer",
+          "url": "https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85560,
+      "name": "Barbaras Rhabarberbar",
+      "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
+    },
+    {
+      "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
@@ -295,7 +317,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "Birknbam",
       "url": "https://open.spotify.com/track/0GPU2Ho9l6yt9A0iFdW8lQ"
@@ -749,7 +771,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 144335,
       "name": "Fantazija",
       "url": "https://open.spotify.com/track/1wRvvl4diSD8ajCDHWnn1c"
@@ -2203,7 +2225,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 90305,
       "name": "Out For Love",
       "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
@@ -2273,7 +2295,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
@@ -2549,7 +2571,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 151059,
       "name": "Seni Yazd\u0131m",
       "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
@@ -2729,7 +2751,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"

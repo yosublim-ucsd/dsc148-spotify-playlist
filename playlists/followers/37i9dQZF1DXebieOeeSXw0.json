@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 13258,
+  "2024-02-28": 13265,
   "date_first_scraped": "2023-05-16",
   "description": "The amazing sounds of the tropics.",
   "name": "Tropicana",
@@ -5311,7 +5311,7 @@
     {
       "album": {
         "name": "Rakia",
-        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
+        "url": "https://open.spotify.com/album/4abpmOU9V3Cd5dah1L7L5x"
       },
       "artists": [
         {
@@ -5326,6 +5326,28 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 338720,
+      "name": "Rakia",
+      "url": "https://open.spotify.com/track/0xaol8Y0BI26bLCp8u2HF5"
+    },
+    {
+      "album": {
+        "name": "Rakia",
+        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
+      },
+      "artists": [
+        {
+          "name": "Kofi Nti",
+          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
+        },
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-27",
       "duration_ms": 338720,
       "name": "Rakia",
       "url": "https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj"

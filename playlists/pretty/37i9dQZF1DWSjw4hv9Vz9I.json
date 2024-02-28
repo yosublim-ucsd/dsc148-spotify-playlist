@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 130798,
+  "num_followers": 130843,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzI3OTViNjY0OTA3MmY2ZmIzN2FjOTdhY2Y3ZGUxMjdkZjgxZTkw",
+  "snapshot_id": "MCwwMThmNDE4Y2NlZjkxMWI5MTgxNjY5MjllMGZjYWJjMGQzNjZkNWI4",
   "tracks": [
     {
       "added_at": "2021-07-13 21:11:09",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Soft Times",
@@ -379,6 +363,22 @@
       "duration_ms": 217058,
       "name": "The Keys",
       "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Whatever It Takes",
-        "url": "https://open.spotify.com/album/5xS12JJKDNn0UNflrA9nUW"
-      },
-      "artists": [
-        {
-          "name": "The James Hunter Six",
-          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "I Don't Wanna Be Without You",
-      "url": "https://open.spotify.com/track/60GhwolkzE34HEvbf46RzX"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "I Learned the Hard Way",
         "url": "https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
+        "name": "Whatever It Takes",
+        "url": "https://open.spotify.com/album/5xS12JJKDNn0UNflrA9nUW"
       },
       "artists": [
         {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+          "name": "The James Hunter Six",
+          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
         }
       ],
-      "duration_ms": 214360,
-      "name": "Beacon",
-      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
+      "duration_ms": 205306,
+      "name": "I Don't Wanna Be Without You",
+      "url": "https://open.spotify.com/track/60GhwolkzE34HEvbf46RzX"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -507,6 +491,22 @@
       "duration_ms": 160760,
       "name": "Put Me Thru",
       "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -729,20 +729,20 @@
       "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2021-09-24 04:02:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+        "name": "Angels & Queens (Deluxe)",
+        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
       },
       "artists": [
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
         }
       ],
-      "duration_ms": 231448,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2tplBjW1YhDvyenb58X55O"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 231448,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Angels & Queens (Deluxe)",
-        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/2tplBjW1YhDvyenb58X55O"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+        "name": "Black Joe Lewis & The Honeybears",
+        "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
+      "duration_ms": 164306,
+      "name": "Bitch, I Love You",
+      "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Black Joe Lewis & The Honeybears",
-        "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
       },
       "artists": [
         {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Bitch, I Love You",
-      "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
+      "duration_ms": 212680,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Inside Voice",
-        "url": "https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof"
-      },
-      "artists": [
-        {
-          "name": "Joey Dosik",
-          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/0aLx2oyqTSgqeLGEoTIFP9"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Face Your Fear",
         "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 241706,
       "name": "On And On",
       "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Inside Voice",
+        "url": "https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof"
+      },
+      "artists": [
+        {
+          "name": "Joey Dosik",
+          "url": "https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/0aLx2oyqTSgqeLGEoTIFP9"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Homemade Lemonade",
-        "url": "https://open.spotify.com/album/3hfSYIoxxgWQ8JtFVEuvQm"
-      },
-      "artists": [
-        {
-          "name": "Theo Lawrence and The Hearts",
-          "url": "https://open.spotify.com/artist/6bo2HtqA2nv4hdO20GZsei"
-        }
-      ],
-      "duration_ms": 226780,
-      "name": "Heaven To Me",
-      "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "My Name Is Earl",
         "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
       },
@@ -1549,20 +1533,20 @@
       "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+        "name": "Homemade Lemonade",
+        "url": "https://open.spotify.com/album/3hfSYIoxxgWQ8JtFVEuvQm"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Theo Lawrence and The Hearts",
+          "url": "https://open.spotify.com/artist/6bo2HtqA2nv4hdO20GZsei"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
+      "duration_ms": 226780,
+      "name": "Heaven To Me",
+      "url": "https://open.spotify.com/track/73v1hXWxpIHMPfVG6tnPI7"
     },
     {
       "added_at": "2023-12-13 17:43:50",
@@ -1579,6 +1563,22 @@
       "duration_ms": 182821,
       "name": "Woman (Single Edit)",
       "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Sound & Color (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/7zbKHWBsTWNXxfnbXspD14"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "The Alien Coast",
@@ -1679,6 +1663,22 @@
       "duration_ms": 204548,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1965,20 +1965,28 @@
       "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2021-10-29 04:01:00",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy"
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
         }
       ],
-      "duration_ms": 203488,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/6Vbv1NYbnegCxzWx1hC65b"
+      "duration_ms": 223815,
+      "name": "ADULTHOOD",
+      "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
     },
     {
       "added_at": "2021-07-13 21:11:09",

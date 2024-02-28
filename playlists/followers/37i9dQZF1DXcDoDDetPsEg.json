@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 766630,
+  "2024-02-28": 980037,
   "date_first_scraped": "2022-02-25",
   "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. ",
   "name": "Who We Be",
@@ -547,6 +547,24 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
       "album": {
@@ -7450,6 +7468,32 @@
     },
     {
       "album": {
+        "name": "Hit & Run (feat. Masicka & Di Genius)",
+        "url": "https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169581,
+      "name": "Hit & Run (feat. Masicka & Di Genius)",
+      "url": "https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs"
+    },
+    {
+      "album": {
         "name": "Blood Diamond",
         "url": "https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY"
       },
@@ -7937,7 +7981,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 185454,
       "name": "I Need It Now",
       "url": "https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe"
@@ -9289,6 +9333,24 @@
       "duration_ms": 188206,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+    },
+    {
+      "album": {
+        "name": "Kitchen Stove",
+        "url": "https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163383,
+      "name": "Kitchen Stove",
+      "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
     },
     {
       "album": {
@@ -10835,8 +10897,8 @@
           "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
         },
         {
-          "name": "adm:t",
-          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
         }
       ],
       "date_added": "2024-02-23",

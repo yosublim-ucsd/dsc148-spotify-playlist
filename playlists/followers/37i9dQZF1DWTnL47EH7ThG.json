@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 38956,
+  "2024-02-28": 38980,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6kf69CwzgodrETRgzcjX95\">BAMBII</a>'s favorite tracks. Updated regularly. Curated by BAMBII. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "BAMBII's track IDs",
@@ -5775,10 +5775,28 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 334000,
       "name": "Seein You",
       "url": "https://open.spotify.com/track/2hqLmveueV7W3VlnFS5dpQ"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/4P9LWCZfrRJRZBIw8X3pK5"
+      },
+      "artists": [
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Seein You",
+      "url": "https://open.spotify.com/track/2u65abnY1xF8vlTE5yQEXP"
     },
     {
       "album": {

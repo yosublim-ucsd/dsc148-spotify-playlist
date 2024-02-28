@@ -1,13 +1,29 @@
 {
   "description": "Work out to these high energy numbers! \nCover : Ram Charan",
-  "num_followers": 67555,
+  "num_followers": 67596,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODhjNmY2YmI1NTAyYzZjYzhiOWU4OWY0ZmE5NTIzN2RmZTljYWIy",
+  "snapshot_id": "MCxmN2FmZmFlZDczZTI4ZjFlNjIxYWJhMjdhNmQ1OTNhNjhjODQ0YjM3",
   "tracks": [
+    {
+      "added_at": "2024-02-13 09:36:27",
+      "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/5zbEyyUitcIooNso1k3wZO"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 236057,
+      "name": "Eyy Bidda Idhi Naa Adda",
+      "url": "https://open.spotify.com/track/7e6J0HgooHYVi4SwdOB2OM"
+    },
     {
       "added_at": "2022-01-05 09:39:29",
       "album": {
@@ -16,17 +32,81 @@
       },
       "artists": [
         {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
         }
       ],
-      "duration_ms": 194829,
-      "name": "Neethoney Dance",
-      "url": "https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ"
+      "duration_ms": 207217,
+      "name": "Dhruva Dhruva",
+      "url": "https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE"
+    },
+    {
+      "added_at": "2024-02-13 09:36:27",
+      "album": {
+        "name": "Gang Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 198834,
+      "name": "Gangu Leader",
+      "url": "https://open.spotify.com/track/05dYneZZZ2mytSmnsvzFoW"
+    },
+    {
+      "added_at": "2023-09-03 10:46:51",
+      "album": {
+        "name": "Hungry Cheetah (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 119052,
+      "name": "Hungry Cheetah (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
+    },
+    {
+      "added_at": "2022-10-25 09:54:46",
+      "album": {
+        "name": "Panjaa",
+        "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Panjaa",
+      "url": "https://open.spotify.com/track/3dGnykeZl6O95Tjoe2h9pt"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "Desamudhuru",
+        "url": "https://open.spotify.com/album/5vGNfcsprKz9JRnLK13K3e"
+      },
+      "artists": [
+        {
+          "name": "Devan Ekambaram",
+          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        }
+      ],
+      "duration_ms": 270113,
+      "name": "Gili Giligas",
+      "url": "https://open.spotify.com/track/6BQ8arQgffLVGyJdajQSXK"
     },
     {
       "added_at": "2023-08-17 07:57:44",
@@ -53,20 +133,104 @@
       "url": "https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y"
     },
     {
-      "added_at": "2022-10-25 09:54:46",
+      "added_at": "2024-02-13 09:36:27",
       "album": {
-        "name": "Panjaa",
-        "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
+        "name": "Race Gurram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo"
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
         }
       ],
-      "duration_ms": 214741,
-      "name": "Panjaa",
-      "url": "https://open.spotify.com/track/3dGnykeZl6O95Tjoe2h9pt"
+      "duration_ms": 210951,
+      "name": "Race Gurram",
+      "url": "https://open.spotify.com/track/2WrOgEBYljzOgYjgUpQkxw"
+    },
+    {
+      "added_at": "2022-10-25 09:54:46",
+      "album": {
+        "name": "Jalsa",
+        "url": "https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u"
+      },
+      "artists": [
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        }
+      ],
+      "duration_ms": 165592,
+      "name": "Chalore Chalore (Telugu)",
+      "url": "https://open.spotify.com/track/71fCqjqfJz23Bjodiqt4GY"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "Naayak",
+        "url": "https://open.spotify.com/album/4BpfaiS3qe8u8Wn5ADj2Mv"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/6Ai8JYC34vomuxlxY41K5e"
+        },
+        {
+          "name": "Naveen",
+          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
+        }
+      ],
+      "duration_ms": 273008,
+      "name": "Laila O Lailaa",
+      "url": "https://open.spotify.com/track/4S4aK9Fc9gfJ3uSE9kyoB8"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "Naa Peru Surya Naa Illu India",
+        "url": "https://open.spotify.com/album/2bTvu2JbjPQFRPDdVo2Vae"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Lover Also Fighter Also",
+      "url": "https://open.spotify.com/track/1bIcKBql2FriNbkbdzD5Zl"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "Saaho",
+        "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 177761,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1lOcaNzf3u1CGjV88g8MpW"
     },
     {
       "added_at": "2024-02-13 09:36:27",
@@ -91,6 +255,62 @@
       "duration_ms": 228000,
       "name": "Dorikithe Chastavu",
       "url": "https://open.spotify.com/track/1YxOiTuveJM4seiw0p6NeS"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "Race Gurram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Mac",
+          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "duration_ms": 265283,
+      "name": "Sweety",
+      "url": "https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "LIE",
+        "url": "https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj, Ramya Behara",
+          "url": "https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Bombhaat",
+      "url": "https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ"
+    },
+    {
+      "added_at": "2022-01-05 09:39:29",
+      "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 194829,
+      "name": "Neethoney Dance",
+      "url": "https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ"
     },
     {
       "added_at": "2024-02-13 09:36:27",
@@ -123,42 +343,6 @@
       "duration_ms": 268251,
       "name": "Travelling Soldier",
       "url": "https://open.spotify.com/track/7dMa0vWk26ddwBLkEw1oNz"
-    },
-    {
-      "added_at": "2023-09-03 10:46:51",
-      "album": {
-        "name": "Hungry Cheetah (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 119052,
-      "name": "Hungry Cheetah (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
-    },
-    {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Saaho",
-        "url": "https://open.spotify.com/album/1mZYQfcWj83VOe1v7wpYMr"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 177761,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/1lOcaNzf3u1CGjV88g8MpW"
     },
     {
       "added_at": "2022-01-05 09:39:29",
@@ -203,22 +387,6 @@
       "duration_ms": 206930,
       "name": "Ra Ra Rowdy, Pt. 1",
       "url": "https://open.spotify.com/track/1yNKoBQ64logl4Sug3dVPZ"
-    },
-    {
-      "added_at": "2022-10-25 09:54:46",
-      "album": {
-        "name": "Jalsa",
-        "url": "https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u"
-      },
-      "artists": [
-        {
-          "name": "Ranjith Govind",
-          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
-        }
-      ],
-      "duration_ms": 165592,
-      "name": "Chalore Chalore (Telugu)",
-      "url": "https://open.spotify.com/track/71fCqjqfJz23Bjodiqt4GY"
     },
     {
       "added_at": "2023-10-20 09:57:00",
@@ -345,22 +513,6 @@
       "url": "https://open.spotify.com/track/2sfkCFgbfuuKBonieSeuWw"
     },
     {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Amit Mishra",
-          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
-        }
-      ],
-      "duration_ms": 207217,
-      "name": "Dhruva Dhruva",
-      "url": "https://open.spotify.com/track/4JPr25ag4mVbYtNEZ3QGVE"
-    },
-    {
       "added_at": "2023-08-30 09:48:52",
       "album": {
         "name": "AGR (Original Motion Picture Soundtrack)",
@@ -443,22 +595,6 @@
       "duration_ms": 189880,
       "name": "Agni Skalana",
       "url": "https://open.spotify.com/track/547drAxnHv6qRwvJMceREO"
-    },
-    {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Naa Peru Surya Naa Illu India",
-        "url": "https://open.spotify.com/album/2bTvu2JbjPQFRPDdVo2Vae"
-      },
-      "artists": [
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Lover Also Fighter Also",
-      "url": "https://open.spotify.com/track/1bIcKBql2FriNbkbdzD5Zl"
     },
     {
       "added_at": "2022-01-05 09:39:29",
@@ -623,22 +759,6 @@
     {
       "added_at": "2022-01-05 09:39:29",
       "album": {
-        "name": "LIE",
-        "url": "https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj, Ramya Behara",
-          "url": "https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Bombhaat",
-      "url": "https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ"
-    },
-    {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
         "name": "DJ",
         "url": "https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw"
       },
@@ -759,90 +879,6 @@
     {
       "added_at": "2024-02-13 09:36:27",
       "album": {
-        "name": "Race Gurram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo"
-      },
-      "artists": [
-        {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
-        },
-        {
-          "name": "M.M.Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        }
-      ],
-      "duration_ms": 210951,
-      "name": "Race Gurram",
-      "url": "https://open.spotify.com/track/2WrOgEBYljzOgYjgUpQkxw"
-    },
-    {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Desamudhuru",
-        "url": "https://open.spotify.com/album/5vGNfcsprKz9JRnLK13K3e"
-      },
-      "artists": [
-        {
-          "name": "Devan Ekambaram",
-          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
-        },
-        {
-          "name": "Andrea Jeremiah",
-          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
-        }
-      ],
-      "duration_ms": 270113,
-      "name": "Gili Giligas",
-      "url": "https://open.spotify.com/track/6BQ8arQgffLVGyJdajQSXK"
-    },
-    {
-      "added_at": "2024-02-13 09:36:27",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/5zbEyyUitcIooNso1k3wZO"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 236057,
-      "name": "Eyy Bidda Idhi Naa Adda",
-      "url": "https://open.spotify.com/track/7e6J0HgooHYVi4SwdOB2OM"
-    },
-    {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Naayak",
-        "url": "https://open.spotify.com/album/4BpfaiS3qe8u8Wn5ADj2Mv"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Ranjith Govind",
-          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
-        },
-        {
-          "name": "Rahul",
-          "url": "https://open.spotify.com/artist/6Ai8JYC34vomuxlxY41K5e"
-        },
-        {
-          "name": "Naveen",
-          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Laila O Lailaa",
-      "url": "https://open.spotify.com/track/4S4aK9Fc9gfJ3uSE9kyoB8"
-    },
-    {
-      "added_at": "2024-02-13 09:36:27",
-      "album": {
         "name": "Mr Nookayya",
         "url": "https://open.spotify.com/album/3nbJ1uOlEShjSd018Aea6J"
       },
@@ -937,26 +973,6 @@
       "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
     },
     {
-      "added_at": "2022-01-05 09:39:29",
-      "album": {
-        "name": "Race Gurram (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mx4mHfTPv6VWisaPdQPzo"
-      },
-      "artists": [
-        {
-          "name": "Rabbit Mac",
-          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 265283,
-      "name": "Sweety",
-      "url": "https://open.spotify.com/track/1YpczjhxnvD6WBWdnu3s4X"
-    },
-    {
       "added_at": "2024-02-13 09:36:27",
       "album": {
         "name": "Style",
@@ -971,22 +987,6 @@
       "duration_ms": 275666,
       "name": "Merupaisagara",
       "url": "https://open.spotify.com/track/3vLxIayJZo1tIPDUmyo1jt"
-    },
-    {
-      "added_at": "2024-02-13 09:36:27",
-      "album": {
-        "name": "Gang Leader (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 198834,
-      "name": "Gangu Leader",
-      "url": "https://open.spotify.com/track/05dYneZZZ2mytSmnsvzFoW"
     },
     {
       "added_at": "2022-01-05 09:39:29",

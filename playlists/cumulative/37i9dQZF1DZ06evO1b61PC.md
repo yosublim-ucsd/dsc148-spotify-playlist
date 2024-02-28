@@ -4,7 +4,7 @@
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 30 min
+26 songs - 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,11 @@
 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:48 | 2024-01-29 |  |
 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 | 2024-01-29 |  |
 | [Indian Summer](https://open.spotify.com/track/0t488LlnuTDRjklgkotom9) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/4EkC9TEJZou4xtes4e6CwG) | 4:08 | 2024-01-29 |  |
-| [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4y6PSWptEEDATKmja2xzCu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/4XfWzKytfZUpI2pQJXwL9c) | 5:18 | 2024-01-29 |  |
+| [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 | 2024-02-27 |  |
+| [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4y6PSWptEEDATKmja2xzCu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/4XfWzKytfZUpI2pQJXwL9c) | 5:18 | 2024-01-29 | 2024-02-28 |
 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/0zEKfIm5b8EUcDM3qoPXKX) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:18 | 2024-01-29 |  |
-| [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W) | 4:01 | 2024-01-29 |  |
+| [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C) | 4:01 | 2024-02-27 |  |
+| [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W) | 4:01 | 2024-01-29 | 2024-02-28 |
 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3PP9CXeE0PYaM5GIGQqBIV) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/4Ghd5HEQg3vxneCjqRBu8N) | 3:38 | 2024-01-29 |  |
 | [Starlight](https://open.spotify.com/track/4Dnss7a0Fobyvw2aWBnDzm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/41JcySyB2ps5j4bt5LPReq) | 3:43 | 2024-01-29 |  |
 | [Still Sleeping](https://open.spotify.com/track/2hODZD0nBB0NcJxleDPNFz) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:46 | 2024-01-29 |  |

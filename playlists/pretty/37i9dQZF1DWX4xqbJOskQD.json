@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmYxMDMxYmQyNjY3MWQ3ZDdjMDc5NzUzYmE0MmQyZjg1YmM5NzY1",
+  "snapshot_id": "MCxjMjk0NTNhZTE2ZTViNGQzYjM1MTlmYWMyMWI4OGU5YWJlYzIzZjY0",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Chordettes' Best",
-        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
-      },
-      "artists": [
-        {
-          "name": "The Chordettes",
-          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
-        }
-      ],
-      "duration_ms": 143613,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/5VbwM8nvvQLXcwsZUwgm9K"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/6KS6VWpM7TyBTqvTRUH0eX"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 161933,
       "name": "Boogie Woogie Bugle Boy",
       "url": "https://open.spotify.com/track/3axPhcbhVDOA9MnhkUrFcE"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Chordettes' Best",
+        "url": "https://open.spotify.com/album/1d7UWrwiM07dJX9CJjgAtN"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 143613,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/5VbwM8nvvQLXcwsZUwgm9K"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -191,6 +191,26 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "16 Most Requested Songs Of The 1950s. Volume One",
         "url": "https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 178800,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -291,22 +291,6 @@
       "duration_ms": 149066,
       "name": "Red Roses For A Blue lady",
       "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Moments To Remember",
-      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -367,22 +351,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Coed Singles",
         "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 151455,
       "name": "Have You Heard",
       "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Moments To Remember",
+      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -445,38 +445,6 @@
       "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "That's How Rhythm Was Born",
@@ -495,6 +463,38 @@
       "duration_ms": 201400,
       "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
-      },
-      "artists": [
-        {
-          "name": "The King Sisters",
-          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Early Autumn",
-      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Kirby Stone Touch",
         "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 129866,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
+      },
+      "artists": [
+        {
+          "name": "The King Sisters",
+          "url": "https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
     },
     {
       "added_at": "2020-08-17 22:49:59",

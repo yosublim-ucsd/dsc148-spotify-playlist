@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lourena",
-  "num_followers": 363483,
+  "num_followers": 363462,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDNhNDg1ZmQ2ZmQ0YzE2YTA2ZjVlMGZjNzk5MmExNGFhZDg3NGM2",
+  "snapshot_id": "MCw5YWZhODBmOGFhY2RjNTYwNDU2NmFiNzA5MDM4M2E0ZGZmZjdiZGE5",
   "tracks": [
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "La\u00e7o",
-        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
-        },
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        }
-      ],
-      "duration_ms": 149349,
-      "name": "La\u00e7o",
-      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
         "name": "Batom Vermelho",
         "url": "https://open.spotify.com/album/5cUylpq20ChUUswHz1Nh0c"
       },
@@ -1099,18 +1079,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "LADY LESTE (AO VIVO)",
-        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+        "name": "La\u00e7o",
+        "url": "https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
         }
       ],
-      "duration_ms": 184383,
-      "name": "RADAR - AO VIVO",
-      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
+      "duration_ms": 149349,
+      "name": "La\u00e7o",
+      "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 214157,
       "name": "Eu N\u00e3o Sei",
       "url": "https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "LADY LESTE (AO VIVO)",
+        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 184383,
+      "name": "RADAR - AO VIVO",
+      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Ai, Que Calor",
-        "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
+        "name": "Calor Dobrado",
+        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
       },
       "artists": [
         {
@@ -1360,13 +1360,17 @@
           "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         },
         {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
           "name": "CANETARIA",
           "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 144262,
-      "name": "Ai, Que Calor",
-      "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
+      "duration_ms": 156000,
+      "name": "Calor Dobrado",
+      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1535,8 +1539,8 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
-        "name": "Calor Dobrado",
-        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
+        "name": "Ai, Que Calor",
+        "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
       "artists": [
         {
@@ -1544,17 +1548,13 @@
           "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         },
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
           "name": "CANETARIA",
           "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Calor Dobrado",
-      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
+      "duration_ms": 144262,
+      "name": "Ai, Que Calor",
+      "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
     },
     {
       "added_at": "2024-02-23 03:00:00",

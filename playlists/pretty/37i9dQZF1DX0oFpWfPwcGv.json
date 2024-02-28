@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 59834,
+  "num_followers": 59861,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWUyY2NhMzg3Y2Y3ZGMwYTM2ZmFkYWI5NjkyNzY2MjM4YzEzNzUw",
+  "snapshot_id": "MCw5YjcwYjg0YTBiNWYwMDVhZTI0MTA0YTExODQ3ZmVlYTJjNDA0NmVi",
   "tracks": [
     {
       "added_at": "2024-02-12 15:00:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "Delusions (Bonus Version)",
+        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "duration_ms": 481506,
+      "name": "Let No Man Put Asunder (Shep Pettibone 12\" Mix)",
+      "url": "https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 481506,
-      "name": "Let No Man Put Asunder (Shep Pettibone 12\" Mix)",
-      "url": "https://open.spotify.com/track/2wlCVIwRXV5i36yUpcoFiw"
     },
     {
       "added_at": "2024-02-12 15:00:21",

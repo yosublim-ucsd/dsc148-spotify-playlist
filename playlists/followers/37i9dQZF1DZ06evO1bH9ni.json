@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 316266,
+  "2024-02-28": 316310,
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
   "name": "This Is Los Dos Carnales",
@@ -303,6 +303,28 @@
       "duration_ms": 184199,
       "name": "El Borracho",
       "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+    },
+    {
+      "album": {
+        "name": "El Buen Muchacho",
+        "url": "https://open.spotify.com/album/5nH9AMjadh3KB9QLjuwYXD"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "El Buen Muchacho",
+      "url": "https://open.spotify.com/track/22Ebj9oRLnHmbweoh5JlT8"
     },
     {
       "album": {
@@ -1229,7 +1251,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 169658,
       "name": "Pep\u00f3n",
       "url": "https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD"

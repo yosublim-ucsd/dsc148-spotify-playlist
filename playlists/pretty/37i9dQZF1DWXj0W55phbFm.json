@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 47799,
+  "num_followers": 47864,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjM0YzhkMTQ3MWVkODM2OWU2MGIzZDI2ODQ0ODIyOWYwZWRjM2M4",
+  "snapshot_id": "MCw2ODQ2NzM5NmZmNDk4Y2NiNjRiYTM0NzRiMGM3Njk0YTQ1ODcxNWFm",
   "tracks": [
     {
       "added_at": "2024-02-22 09:15:05",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
+        "name": "Una Mas",
+        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 172293,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
+      "duration_ms": 309266,
+      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "Una Mas",
-        "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
         }
       ],
-      "duration_ms": 309266,
-      "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
+      "duration_ms": 172293,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 520173,
-      "name": "Blue room",
-      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
-    },
-    {
-      "added_at": "2024-02-22 09:15:05",
-      "album": {
         "name": "The Incredible Harry James",
         "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 187573,
       "name": "It's Been a Long Long Time (Alternate Take)",
       "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
+    },
+    {
+      "added_at": "2024-02-22 09:15:05",
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 520173,
+      "name": "Blue room",
+      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "Here Comes Louis Smith (Remastered)",
-        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
-          "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 402546,
-      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -559,34 +559,18 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "Here Comes Louis Smith (Remastered)",
+        "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Louis Smith",
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
-    },
-    {
-      "added_at": "2024-02-22 09:15:05",
-      "album": {
-        "name": "Ravensburg",
-        "url": "https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 342906,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo"
+      "duration_ms": 402546,
+      "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -603,6 +587,26 @@
       "duration_ms": 267560,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2024-02-22 09:15:05",
+      "album": {
+        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
+        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Mood Indigo - 1990 Remaster",
+      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -655,6 +659,22 @@
       "duration_ms": 436426,
       "name": "If I should lose you",
       "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
+    },
+    {
+      "added_at": "2024-02-22 09:15:05",
+      "album": {
+        "name": "Ravensburg",
+        "url": "https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 342906,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -727,26 +747,6 @@
       "duration_ms": 341613,
       "name": "Migration",
       "url": "https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP"
-    },
-    {
-      "added_at": "2024-02-22 09:15:05",
-      "album": {
-        "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
-        "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Mood Indigo - 1990 Remaster",
-      "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
+        "name": "Booker Little",
+        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
+      },
+      "artists": [
+        {
+          "name": "Booker Little",
+          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
+        }
+      ],
+      "duration_ms": 413387,
+      "name": "Life's A Little Blue",
+      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
+    },
+    {
+      "added_at": "2024-02-22 09:15:05",
+      "album": {
         "name": "Cat's in the Alley",
         "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 192626,
       "name": "You're the Cream in My Coffee",
       "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
-    },
-    {
-      "added_at": "2024-02-22 09:15:05",
-      "album": {
-        "name": "Booker Little",
-        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
-      },
-      "artists": [
-        {
-          "name": "Booker Little",
-          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
-        }
-      ],
-      "duration_ms": 413387,
-      "name": "Life's A Little Blue",
-      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -1663,26 +1663,18 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "One Of Many",
-        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
+        "name": "Gemini II",
+        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
       },
       "artists": [
         {
-          "name": "Kenny Wheeler",
-          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
-        },
-        {
-          "name": "John Taylor",
-          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+          "name": "Marcus Belgrave",
+          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
         }
       ],
-      "duration_ms": 359746,
-      "name": "Aneba",
-      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
+      "duration_ms": 337040,
+      "name": "Gemini II",
+      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
     },
     {
       "added_at": "2024-02-22 09:15:05",
@@ -1703,18 +1695,26 @@
     {
       "added_at": "2024-02-22 09:15:05",
       "album": {
-        "name": "Gemini II",
-        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
+        "name": "One Of Many",
+        "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
       },
       "artists": [
         {
-          "name": "Marcus Belgrave",
-          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "John Taylor",
+          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
         }
       ],
-      "duration_ms": 337040,
-      "name": "Gemini II",
-      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
+      "duration_ms": 359746,
+      "name": "Aneba",
+      "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
     },
     {
       "added_at": "2024-02-22 09:15:05",

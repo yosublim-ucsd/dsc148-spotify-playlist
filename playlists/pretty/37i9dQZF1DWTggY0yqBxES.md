@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: 1nonly
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,508 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,528 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 4 | [OSMOSIS](https://open.spotify.com/track/2zaSwAEQRZ6eqTpU8sbxsx) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [ROBOPHOBIA](https://open.spotify.com/album/4csEeSJGZdYkNEBXBeqMr7) | 3:54 |
 | 5 | [Scars](https://open.spotify.com/track/13xFz6KanQ08XiE6348CWu) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Scars](https://open.spotify.com/album/0m1FGRxM3wEaIxEgqSW5Oq) | 2:27 |
 | 6 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 |
-| 7 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
+| 7 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 | 8 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 9 | [ROUND N ROUND \(feat\. Lil Yachty\)](https://open.spotify.com/track/79PO8wHcaDyxM0w1sKFQuY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 3:46 |
 | 10 | [SOME THINGS](https://open.spotify.com/track/1nTDUAdKAsABK9BudqjL1M) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [SOME THINGS](https://open.spotify.com/album/2pAZLc3G7vtAKJ4Yq68O27) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 |
 | 100 | [Whiskey In My Coffee \(feat\. King Louie\)](https://open.spotify.com/track/5WnhBk2bFlmIPxLHQgPgbK) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [King Louie](https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:01 |
 
-Snapshot ID: `MCxiZDhmOTA1Yzk0MGMzZjNjNjAxZDY5MjI4ZDk1ZDA4MWVkMzU5ZTdm`
+Snapshot ID: `MCw5YWYxYTgxMWViYzgyM2FiOTkxZDVhYWU4YjI3MWU0MzEyMzBjZmFm`

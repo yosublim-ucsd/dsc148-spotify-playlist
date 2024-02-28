@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "3al hady",
+        "url": "https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F"
+      },
+      "artists": [
+        {
+          "name": "Uglymoss",
+          "url": "https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "3al hady",
+      "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
+    },
+    {
+      "album": {
         "name": "3al Keif",
         "url": "https://open.spotify.com/album/51Lof84YvtpZtdNOZonXkJ"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 196231,
       "name": "Alatif",
       "url": "https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh"
@@ -544,7 +562,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 256945,
       "name": "Ama Ba'ad (Shathar Mathar)",
       "url": "https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv"
@@ -2237,6 +2255,28 @@
     },
     {
       "album": {
+        "name": "Garee2",
+        "url": "https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69498,
+      "name": "Garee2",
+      "url": "https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB"
+    },
+    {
+      "album": {
         "name": "Gazra",
         "url": "https://open.spotify.com/album/14ytgvdfVopFLzc8BLk5or"
       },
@@ -3300,7 +3340,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 166334,
       "name": "Kolo Muthandil",
       "url": "https://open.spotify.com/track/1XGmDAd1isogzMDhF7OvA8"
@@ -3679,6 +3719,28 @@
     },
     {
       "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Lojy",
+      "url": "https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By"
+    },
+    {
+      "album": {
         "name": "LOKLOK",
         "url": "https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X"
       },
@@ -3840,7 +3902,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 148500,
       "name": "MADARETSH",
       "url": "https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae"
@@ -4022,6 +4084,28 @@
       "duration_ms": 156415,
       "name": "Matafetch",
       "url": "https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7"
+    },
+    {
+      "album": {
+        "name": "MATAL3ACH",
+        "url": "https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175172,
+      "name": "MATAL3ACH",
+      "url": "https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc"
     },
     {
       "album": {
@@ -4545,6 +4629,28 @@
     },
     {
       "album": {
+        "name": "Ostaz Mahmoud Bezzawy",
+        "url": "https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162618,
+      "name": "Ostaz Mahmoud Bezzawy",
+      "url": "https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM"
+    },
+    {
+      "album": {
         "name": "Arabi",
         "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
       },
@@ -4868,7 +4974,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 195500,
       "name": "Rawq Elmanga",
       "url": "https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt"
@@ -4992,6 +5098,24 @@
       "duration_ms": 113857,
       "name": "Ronaldo",
       "url": "https://open.spotify.com/track/4VFOroA9oZTguLwg7dKDLL"
+    },
+    {
+      "album": {
+        "name": "Room 308",
+        "url": "https://open.spotify.com/album/5TQwIuknNxnWiVkhTGM8N9"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Room 308",
+      "url": "https://open.spotify.com/track/6GC7pryduyi07Jzf3IG3J0"
     },
     {
       "album": {
@@ -5810,7 +5934,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 209763,
       "name": "Talkie",
       "url": "https://open.spotify.com/track/0HZIFkazJb3MzdJ2G7FSIB"

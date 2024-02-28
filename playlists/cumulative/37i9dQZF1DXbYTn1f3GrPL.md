@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-229 songs - 9 hr 50 min
+231 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dedication](https://open.spotify.com/track/5UKTmSINIygGZJR4MFx9Mu) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Dedication](https://open.spotify.com/album/0mHFXI7cpZez6t913U6MWB) | 3:07 | 2023-04-03 |  |
 | [Den blomstertid nu kommer](https://open.spotify.com/track/5LvHG0ItC54Tue5XmOinfn) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Den blomstertid nu kommer](https://open.spotify.com/album/7kcd1rhWJMSMbhnCR1LC0T) | 1:50 | 2023-04-03 | 2023-08-22 |
 | [Derrière le carreau fermé](https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:11 | 2023-04-03 |  |
+| [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 | 2024-02-27 |  |
 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2023-04-03 | 2023-09-05 |
 | [Domande](https://open.spotify.com/track/3PCrufS6uFrm7Q6ArBW1nf) | [Flavio Nisi](https://open.spotify.com/artist/2CXAIegHBPc71Wr9GTIAz5) | [Domande](https://open.spotify.com/album/7c7ES2lzWaTQQJZ8nBIozl) | 2:31 | 2023-04-03 |  |
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2023-04-03 |  |
@@ -219,6 +220,7 @@
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2023-04-03 |  |
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2023-04-03 |  |
 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 | 2023-04-03 | 2023-08-22 |
+| [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 | 2024-02-27 |  |
 | [Viva Valeriana](https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi) | [Anaëlle Mei](https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L) | [Viva Valeriana](https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n) | 1:52 | 2023-04-03 | 2023-08-22 |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2023-04-03 |  |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2023-04-03 |  |

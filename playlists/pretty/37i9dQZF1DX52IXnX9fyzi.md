@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,254 likes - 265 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,360 likes - 265 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 264 | [Insouciance](https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Insouciance](https://open.spotify.com/album/2a50JLyn7zSyXwUVWI5Mrl) | 2:03 |
 | 265 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 
-Snapshot ID: `MCwwMTEzNjI0N2UzZDEzMGJmNTEyMjA4NWY2Njk4ZmRjODVhNzJhOTg5`
+Snapshot ID: `MCwyMGQ0NmNhMjU2NzE4NTUwMzFhNzY1OTkzZWQxNTc2Mzc4N2NjYzc0`

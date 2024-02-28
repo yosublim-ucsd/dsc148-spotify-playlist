@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,546 likes - 177 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,554 likes - 177 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 144 | [Skylark](https://open.spotify.com/track/45uUsc9TX693ldNPmqoa8d) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Skylark](https://open.spotify.com/album/2GgNwCoPK747pxmDfB6FhL) | 3:09 |
 | 145 | [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 |
 | 146 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 |
-| 147 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/3tznBwhLYOJzC3mh6DBM47) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 |
+| 147 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 |
 | 148 | [Everytime We Say Goodbye](https://open.spotify.com/track/6xeEdMWJiNsQwxmCJ7fsQ6) | [Billy Charlotte](https://open.spotify.com/artist/5kwTfmxxihzQfDf7lavECv) | [How Long Has This Been Going On](https://open.spotify.com/album/1I3EDZzXo6MPpsOy0Bt2n7) | 4:05 |
 | 149 | [Train Of Thought](https://open.spotify.com/track/6zXwV1kawSu3bxtUKkxhiP) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 2:43 |
 | 150 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 176 | [Somewhat Melancholy](https://open.spotify.com/track/3uMnKzPcOo1Hz1MUhjSX8o) | [The Greenview](https://open.spotify.com/artist/6YZKrUAZXUSmE4d74re04P) | [One Day I Wrote Her Name](https://open.spotify.com/album/20wkflrP7lt5uZxdJFLBHn) | 3:17 |
 | 177 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 |
 
-Snapshot ID: `MCxkZWJlZjc2YTExMTU0ZThjNzlmNTc5OWQ2ZjI5NDFmN2NhZTVmYjlk`
+Snapshot ID: `MCw0M2RlN2IwMWNmNzk5NmZiNDhlN2JiODM1MDg2NTZhYWYyNWRhMGM3`

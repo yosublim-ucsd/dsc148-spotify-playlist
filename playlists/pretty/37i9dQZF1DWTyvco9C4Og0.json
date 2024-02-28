@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed: Pepe Aguilar en portada.",
-  "num_followers": 952923,
+  "num_followers": 953285,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTQyOGMzOWM4YzMzOTM1NjU3MGE0YzY1ZTgzMTg2MTNhOTI5MWQz",
+  "snapshot_id": "MCwyNjI3MTYyYzQ3MDc2YWVkZTc0MWQxMzA1ZjExOWJhNDczNGFjOTJi",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/4jZWVQZRZ0oMhvlYzr9Ewa"
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/4jZWVQZRZ0oMhvlYzr9Ewa"
     },
     {
       "added_at": "2024-02-16 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,345 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,413 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Sorry](https://open.spotify.com/track/0rzy01OJW2dioLxXZKAyjY) | [DJ Eladji](https://open.spotify.com/artist/0n417By3ZUnFwtll0nx0kV), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Sorry](https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG) | 3:12 |
 | 40 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
 
-Snapshot ID: `MCxkMzY0MWQ1NmJkODljMWFlNDFlOWJiMmEzMjUzNjRjY2QyZjQ3ZTcz`
+Snapshot ID: `MCxhNGFlZjcxZDIzZmUwZTUyNzMyMzAwYmJiZjYxMzAwMmYwOTA5Yzg1`

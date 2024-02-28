@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:7jyr9Co4MKL1iWML1G7vch">Zauntee</a>
 
-970 songs - 1 day 23 hr 51 min
+971 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [All Joy No Stress \(feat\. Tedashii\)](https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [All Joy No Stress \(feat\. Tedashii\)](https://open.spotify.com/album/4gvJs5YgwAMcH0W3W86iQd) | 3:04 | 2022-05-28 | 2023-08-26 |
 | [All of Me](https://open.spotify.com/track/2yqGONpgtntihMfzZgErC2) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [All of Me](https://open.spotify.com/album/4Afzn2z4er22nFYpIQkDxG) | 2:50 | 2024-01-05 | 2024-02-10 |
 | [All On Me](https://open.spotify.com/track/66Qz1284tEvO6GPfQVTlZc) | [Deraj](https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD) | [All On Me](https://open.spotify.com/album/5W9FuE8N3U51eBNgfxotWp) | 2:55 | 2022-03-05 | 2022-04-29 |
+| [All Yours](https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg) | [Bryson Gray](https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [All Yours](https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj) | 2:48 | 2024-02-23 |  |
 | [Allegiance](https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Allegiance](https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH) | 3:03 | 2022-09-16 | 2023-12-16 |
 | [ALLELU](https://open.spotify.com/track/6465USWLAU2arARZ87iVmd) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [THE MAKER & 3: A DrillTape](https://open.spotify.com/album/6RiWYnXMUiupp7uxUNuP3J) | 2:32 | 2023-11-27 | 2024-01-20 |
 | [Alone](https://open.spotify.com/track/71Sjke4TVQxDYAkdR8jA2D) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Jack Tyler](https://open.spotify.com/artist/0FCsfmDhqQxvgkcnOXuua9), [HYLEM](https://open.spotify.com/artist/4YOVgsinUGu3wwyOlD7pDh) | [Alone](https://open.spotify.com/album/5h8DeBSqee6IroPXGAVlgj) | 4:19 | 2022-02-04 | 2022-07-29 |
@@ -894,7 +895,7 @@
 | [Vegan Burgers](https://open.spotify.com/track/6ANM43VAfA3x4pYciR1xC5) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Vegan Burgers](https://open.spotify.com/album/6trPTlw7DUUUDQd9p3R42W) | 2:58 | 2021-12-11 | 2022-01-20 |
 | [Victory \- Remix](https://open.spotify.com/track/4W1GYMpHYOpeK6iOkc6rfJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Victory \(Remix\)](https://open.spotify.com/album/1bg46Fc29HfDQi2SxHc80F) | 3:50 | 2021-12-11 | 2022-02-01 |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-12-15 |  |
-| [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 | 2024-02-23 |  |
+| [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 | 2024-02-23 | 2024-02-28 |
 | [Voice](https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Voice](https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V) | 2:12 | 2022-04-29 | 2022-08-07 |
 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 | 2022-02-27 | 2022-04-29 |
 | [WAITING](https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [WAITING](https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w) | 2:57 | 2021-12-11 | 2022-04-27 |

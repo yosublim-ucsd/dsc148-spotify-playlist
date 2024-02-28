@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 33232,
+  "num_followers": 33267,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWY4OTlmY2M3YzBhNTQwNzRhZmE5MDAyYjU1OWRjMTM1NWFhNzYy",
+  "snapshot_id": "MCxhMTgyMjkzZDg1NDZiYzJiODBjZmU1YmMzYjRlNmY0MDkwZmUxZWU5",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -141,7 +141,7 @@
         }
       ],
       "duration_ms": 186000,
-      "name": "GUNZ.OUT - Extended Mix",
+      "name": "GUNZ.OUT",
       "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
     },
     {
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Running from the Noise (Edit)",
-        "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Running from the Noise - Edit",
-      "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Playing With Foc...",
         "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Running from the Noise (Edit)",
+        "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Running from the Noise - Edit",
+      "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
       },
@@ -983,26 +983,6 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Space Bump",
-        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "Deeft",
-          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
-        }
-      ],
-      "duration_ms": 167004,
-      "name": "Space Bump",
-      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1035,6 +1015,26 @@
       "duration_ms": 178040,
       "name": "Dusty Showbiz",
       "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        }
+      ],
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 224322,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "No Bueno (Extended Mix)",
-        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno (Extended Mix)",
-      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Disco Trip EP",
         "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
       },
@@ -1423,22 +1407,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Stutter EP",
-        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
+        "name": "No Bueno (Extended Mix)",
+        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
       },
       "artists": [
         {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+      "duration_ms": 350125,
+      "name": "No Bueno (Extended Mix)",
+      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Step Forward EP",
+        "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 335269,
+      "name": "Step Forward",
+      "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Step Forward EP",
-        "url": "https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I"
+        "name": "Stutter EP",
+        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
       "artists": [
         {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 335269,
-      "name": "Step Forward",
-      "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
+      "duration_ms": 233333,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
       "artists": [
         {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1643,6 +1623,42 @@
       "duration_ms": 342717,
       "name": "Broke Man",
       "url": "https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 164340,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
-      },
-      "artists": [
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
     },
     {
       "added_at": "2024-02-23 05:00:00",

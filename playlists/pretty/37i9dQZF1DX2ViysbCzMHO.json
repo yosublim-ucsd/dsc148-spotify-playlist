@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 147244,
+  "num_followers": 147300,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNmZTZjZDNmMDU4MTlhZWY3ZDQ0YjY4MTE5YTcyYzJmMGQxYjQ1",
+  "snapshot_id": "MCwyZmU3ZDczMGY1Njk4ODA4ZjU0MjdiMTc5ZDg0NzFhZDljZWNlY2I1",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "This City Remix (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -895,22 +895,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "TWENTY SOMETHING (DELUXE)",
-        "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
       "artists": [
         {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 196986,
-      "name": "goodbye looks good on you feat. Mitchell Tenpenny (acoustic)",
-      "url": "https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo"
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -935,22 +931,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -963,6 +943,42 @@
       "duration_ms": 210555,
       "name": "Steady Heart - Wedding Version",
       "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "TWENTY SOMETHING (DELUXE)",
+        "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "goodbye looks good on you feat. Mitchell Tenpenny (acoustic)",
+      "url": "https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Trouble (Piano Version)",
+        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Trouble - Piano Version",
+      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Trouble (Piano Version)",
-        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 214640,
-      "name": "Trouble - Piano Version",
-      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Cowboy Forever (Acoustic Version)",
-        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Cowboy Forever (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Best Shot (Acoustic)",
         "url": "https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 193293,
       "name": "Best Shot (Acoustic)",
       "url": "https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Cowboy Forever (Acoustic Version)",
+        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Cowboy Forever (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+        "name": "You, Me, And Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+      "duration_ms": 187361,
+      "name": "You, Me, And Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "You, Me, And Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
       },
       "artists": [
         {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 187361,
-      "name": "You, Me, And Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": "2024-02-23 05:00:00",

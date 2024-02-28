@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: JEYSON
 
-244 songs - 14 hr 3 min
+245 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [TU TETA](https://open.spotify.com/track/0l9ish1O7LHCxMLaPeMKXO) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG) | [TU TETA](https://open.spotify.com/album/0kjwuRncNOwvS3JmApTlsC) | 2:31 | 2023-09-08 | 2023-10-21 |
 | [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 | 2022-03-11 | 2022-09-17 |
 | [TUS FALLOS](https://open.spotify.com/track/5Hps3yUtidx9sRv9pBpp6Y) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [NOW OR NEVER](https://open.spotify.com/album/1wOulBM8dCd21Wn0WHWWcJ) | 6:24 | 2022-09-09 |  |
-| [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 | 2023-08-18 |  |
+| [Tus Labios](https://open.spotify.com/track/0HVvp9utYjZ9RCKgBNIGUY) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tus Labios](https://open.spotify.com/album/4fQLquz6RHPXSFeIRNiWYD) | 2:55 | 2023-08-18 | 2024-02-28 |
+| [Tus Labios](https://open.spotify.com/track/20nypsN67nLGOfE4nGebns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:55 | 2024-02-02 |  |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-21 | 2023-08-26 |
 | [UN BAILECITO](https://open.spotify.com/track/6KucQTkLYN2UPf0vAQnDH0) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [UN BAILECITO](https://open.spotify.com/album/3wcbdEdyOagmzuwzAyp1T1) | 2:17 | 2022-11-11 | 2023-01-14 |
 | [Un Ghetto](https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Un Ghetto](https://open.spotify.com/album/4KcXo9upSBiiaYDeXho5RG) | 3:52 | 2022-03-11 | 2022-07-30 |

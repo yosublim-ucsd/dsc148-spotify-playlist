@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,640 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,658 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 15 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 |
 | 16 | [Reset Rewind](https://open.spotify.com/track/4B9Rhu9Xdq3Vo1hfLJQh9p) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 4:29 |
 | 17 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 |
-| 18 | [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 |
+| 18 | [Kitanda Baridi](https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI) | 2:56 |
 | 19 | [Let Me Lose My Mind In Peace](https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 3:02 |
 | 20 | [OASIS](https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:34 |
 | 21 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
 | 50 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 |
 
-Snapshot ID: `MCxiYzliMDI5MGRhOTgyNWE1YWM4ZWI5MDU0OTc0ZmRiZDQ2ZGQ0M2E2`
+Snapshot ID: `MCxhNmYyODdiODYwMjA0MzJiYTZhNDFhYTg5NjQ3ZTQwNjczYmU3M2Uw`

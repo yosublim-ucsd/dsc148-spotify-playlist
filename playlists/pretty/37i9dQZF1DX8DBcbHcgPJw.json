@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: LiL CaKe.",
-  "num_followers": 1188359,
+  "num_followers": 1188356,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWVkMjJiNGFjMzU5ZmI1NWViZGQ1NzJmYzcxOTlhODFmMDMxY2Iy",
+  "snapshot_id": "MCwyYmI1NTUwNDhiY2JkYjczMDgyOTcxOGNjOGU3Yjk2NWE5YmY4YzE0",
   "tracks": [
     {
       "added_at": "2024-02-23 13:47:06",
@@ -330,6 +330,10 @@
         {
           "name": "Nick NDC",
           "url": "https://open.spotify.com/artist/7i39bzO8R1uYqxBJp5Trsr"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         }
       ],
       "duration_ms": 157900,
@@ -619,6 +623,22 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2024-02-23 13:47:06",
+      "album": {
         "name": "Quiero Verte Bailar (Remix)",
         "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
@@ -643,22 +663,6 @@
       "duration_ms": 197142,
       "name": "Quiero Verte Bailar (Remix)",
       "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
-    },
-    {
-      "added_at": "2024-02-23 13:47:06",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1163,6 +1167,22 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "added_at": "2024-02-23 13:47:06",
+      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1179,22 +1199,6 @@
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2024-02-23 13:47:06",
-      "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1223,6 +1227,30 @@
       "duration_ms": 269662,
       "name": "TIT\u00c1N RMX",
       "url": "https://open.spotify.com/track/7uFaga9WKgJ9Mrkhyybbut"
+    },
+    {
+      "added_at": "2024-02-23 13:47:06",
+      "album": {
+        "name": "Sin Valent\u00edn",
+        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 161874,
+      "name": "Sin Valent\u00edn",
+      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1263,30 +1291,6 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
-        "name": "Sin Valent\u00edn",
-        "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 161874,
-      "name": "Sin Valent\u00edn",
-      "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-02-23 13:47:06",
-      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
@@ -1323,26 +1327,26 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
-        "name": "Flasheaste Amor",
-        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
+        "name": "No Voy a Llorar Por Ti",
+        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
         },
         {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
         },
         {
-          "name": "Lauro",
-          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
         }
       ],
-      "duration_ms": 175263,
-      "name": "Flasheaste Amor",
-      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
+      "duration_ms": 156490,
+      "name": "No Voy a Llorar Por Ti",
+      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1363,6 +1367,30 @@
       "duration_ms": 133711,
       "name": "Aquellos Tiempos",
       "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
+    },
+    {
+      "added_at": "2024-02-23 13:47:06",
+      "album": {
+        "name": "Flasheaste Amor",
+        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        },
+        {
+          "name": "Lauro",
+          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Flasheaste Amor",
+      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1415,46 +1443,6 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
-        "name": "No Voy a Llorar Por Ti",
-        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        },
-        {
-          "name": "Milthon",
-          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
-        }
-      ],
-      "duration_ms": 156490,
-      "name": "No Voy a Llorar Por Ti",
-      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
-    },
-    {
-      "added_at": "2024-02-23 13:47:06",
-      "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2024-02-23 13:47:06",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1475,6 +1463,22 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+    },
+    {
+      "added_at": "2024-02-23 13:47:06",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1547,6 +1551,22 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2024-02-23 13:47:06",
+      "album": {
         "name": "Solo Necesito (Remix)",
         "url": "https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm"
       },
@@ -1591,18 +1611,18 @@
     {
       "added_at": "2024-02-23 13:47:06",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+        "name": "Messirve Mix 3",
+        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+      "duration_ms": 447529,
+      "name": "Messirve Mix 3",
+      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
     },
     {
       "added_at": "2024-02-23 13:47:06",
@@ -1627,22 +1647,6 @@
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
-    },
-    {
-      "added_at": "2024-02-23 13:47:06",
-      "album": {
-        "name": "Messirve Mix 3",
-        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 447529,
-      "name": "Messirve Mix 3",
-      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
     },
     {
       "added_at": "2024-02-23 13:47:06",

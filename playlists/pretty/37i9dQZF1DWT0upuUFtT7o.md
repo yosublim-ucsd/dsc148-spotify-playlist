@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,492 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,547 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 |
 | 101 | [Don't](https://open.spotify.com/track/10RehYr3Ci6jeCwwzlwtvC) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Don't](https://open.spotify.com/album/4HdVwH0GL9t4eQZaxAPc3x) | 2:48 |
 
-Snapshot ID: `MCwzZGEwYzQ2NDQ4ZWYxNDhiYzI4YzI3NWQ4ZTY5YzM2MzRhNGM0ZjYx`
+Snapshot ID: `MCxhNWQ3MGM5MThjM2NmZTM2Zjk1YjlhM2ZmYTQ1YWU1NzEzNGU3YmVk`

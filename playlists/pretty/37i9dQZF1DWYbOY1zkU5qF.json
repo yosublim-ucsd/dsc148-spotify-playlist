@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 156987,
+  "num_followers": 157055,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIzZGEzN2NmZWIzNTdlZjBhMWY0MTcxNGNjZjFkZGNjY2I5NTA5",
+  "snapshot_id": "MCw4ZTcxMTRmYWRkYmM0ZTUxYzNjMmRiYjc5MjAyMTliNWE2MjBlNjRi",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -447,22 +447,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
+        "name": "M\u00e1tenme Porque Me Muero",
+        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
       },
       "artists": [
         {
-          "name": "Miky Mendozza",
-          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
-        },
-        {
-          "name": "Diego Amoz",
-          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 125354,
-      "name": "Qu\u00e9 Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
+      "duration_ms": 206993,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -483,18 +479,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "M\u00e1tenme Porque Me Muero",
-        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
       },
       "artists": [
         {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+          "name": "Miky Mendozza",
+          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
+        },
+        {
+          "name": "Diego Amoz",
+          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
         }
       ],
-      "duration_ms": 206993,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
+      "duration_ms": 125354,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
-      },
-      "artists": [
-        {
-          "name": "JayBe",
-          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
-        }
-      ],
-      "duration_ms": 96259,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Viral Hits, Vol. 1",
         "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "JayBe",
+          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 96259,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 196292,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK"
-      },
-      "artists": [
-        {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK"
+      },
+      "artists": [
+        {
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Panacea Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
-      },
-      "artists": [
-        {
-          "name": "Panacea Project",
-          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
-        }
-      ],
-      "duration_ms": 227088,
-      "name": "La Bicicleta",
-      "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cristina",
         "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 221159,
       "name": "Cristina",
       "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Panacea Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
+      },
+      "artists": [
+        {
+          "name": "Panacea Project",
+          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
+        }
+      ],
+      "duration_ms": 227088,
+      "name": "La Bicicleta",
+      "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Drume Negrita (Desde Fonobox) [En Vivo]",
-        "url": "https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r"
-      },
-      "artists": [
-        {
-          "name": "Priscilla F\u00e9lix",
-          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Drume Negrita - En Vivo Desde Fonobox",
-      "url": "https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cien A\u00f1os",
         "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Y Co\u0301mo Es E\u0301l?",
-        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+        "name": "Drume Negrita (Desde Fonobox) [En Vivo]",
+        "url": "https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r"
       },
       "artists": [
         {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+          "name": "Priscilla F\u00e9lix",
+          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Y Co\u0301mo Es E\u0301l?",
-      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+      "duration_ms": 164813,
+      "name": "Drume Negrita - En Vivo Desde Fonobox",
+      "url": "https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1079,6 +1063,22 @@
       "duration_ms": 186689,
       "name": "Muerte En Hawaii",
       "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Y Co\u0301mo Es E\u0301l?",
+        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+      },
+      "artists": [
+        {
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Y Co\u0301mo Es E\u0301l?",
+      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Nube Viajera",
+        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 230730,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Reggaet\u00f3n Lento (Bailemos)",
         "url": "https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Nube Viajera",
-        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
+        "name": "Bolero Falaz",
+        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
         }
       ],
-      "duration_ms": 230730,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+      "duration_ms": 263500,
+      "name": "Bolero Falaz",
+      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Bolero Falaz",
-        "url": "https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Bolero Falaz",
-      "url": "https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Bohemia Y Trova, Vol. 2",
-        "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
-      },
-      "artists": [
-        {
-          "name": "Hugo Coronel",
-          "url": "https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Alguien Te Va a Hacer Llorar",
-      "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 214838,
       "name": "Dembow - Acoustic Version",
       "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Bohemia Y Trova, Vol. 2",
+        "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
+      },
+      "artists": [
+        {
+          "name": "Hugo Coronel",
+          "url": "https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Alguien Te Va a Hacer Llorar",
+      "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
     },
     {
       "added_at": "2022-02-18 06:00:00",

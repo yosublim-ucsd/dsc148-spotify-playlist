@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 563817,
+  "num_followers": 563880,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjhhZmI5YWI3NjIyNWRiMzE1YzdhOTM0ZmU3MTdiNzBiMThhODAw",
+  "snapshot_id": "MCwzYTI0MmVjYTRmYzU2OTM0NzQxNGI4NTI4NGVlMWViM2UwNGFlODYy",
   "tracks": [
     {
       "added_at": "2024-02-23 08:59:46",
@@ -951,18 +951,22 @@
     {
       "added_at": "2024-02-23 08:59:46",
       "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
       },
       "artists": [
         {
           "name": "Fiersa Besari",
           "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        },
+        {
+          "name": "Thantri Sundari",
+          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
         }
       ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+      "duration_ms": 323956,
+      "name": "Waktu Yang Salah",
+      "url": "https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0"
     },
     {
       "added_at": "2024-02-23 08:59:46",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2024-02-23 08:59:46",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
       "artists": [
         {
           "name": "Fiersa Besari",
           "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        },
-        {
-          "name": "Thantri Sundari",
-          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
         }
       ],
-      "duration_ms": 323956,
-      "name": "Waktu Yang Salah",
-      "url": "https://open.spotify.com/track/47caohVI6Qe7KY8EuaRtg0"
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2024-02-23 08:59:46",

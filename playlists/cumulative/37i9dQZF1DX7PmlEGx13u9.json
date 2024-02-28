@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "Attached",
+        "url": "https://open.spotify.com/album/2CKJJ6Tzi3MnqKWRkblieJ"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Attached",
+      "url": "https://open.spotify.com/track/7csdGDOTzwnSNw6jEzXgHL"
+    },
+    {
+      "album": {
         "name": "Be My Guest",
         "url": "https://open.spotify.com/album/4n5ryJWx1DfqljLZp6JH9m"
       },
@@ -460,7 +482,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 169247,
       "name": "Girlfriend (London Girls Mix)",
       "url": "https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ"

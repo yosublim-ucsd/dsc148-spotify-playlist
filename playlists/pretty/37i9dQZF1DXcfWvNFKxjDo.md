@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Deorro, TELYKAST, Catello
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,258 likes - 77 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,291 likes - 77 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 76 | [ONE NiGHT STAND \(ONS\)](https://open.spotify.com/track/1TWqmtN3u2peKwZHPP36gX) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [ONE NiGHT STAND \(ONS\)](https://open.spotify.com/album/3Y8P5Y0HwyqG6BBDOimEjS) | 2:09 |
 | 77 | [Loud Enough](https://open.spotify.com/track/26Fr5kkrLwMeBLGtt5WiGW) | [Akros](https://open.spotify.com/artist/7yAlWk4uPbxfRuDn15cs9k) | [Loud Enough](https://open.spotify.com/album/1KUuyE2mapJ1o0umlVpt9n) | 2:19 |
 
-Snapshot ID: `MCw4YjRlNDgwOGJjMjIxN2Q4Yjc1ZGFhYzI0NzVkMDc1MzRhZjIwMzU4`
+Snapshot ID: `MCxmN2E0NDE2NTg5NjE0ZmIzY2ZhMDU4NDU2MDliZmE2ZGFjMDY5ZDU0`

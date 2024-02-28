@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-759 songs - 1 day 8 hr 30 min
+761 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-06 |  |
 | [Delightful](https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:57 | 2022-12-21 | 2023-08-22 |
 | [Delta](https://open.spotify.com/track/4VdPG8QlGPHNpLsBq7BquA) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Delta](https://open.spotify.com/album/2jxjPUO3rJTRyiJVxv1EwN) | 2:24 | 2022-08-29 | 2023-11-21 |
+| [Desire paths](https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Desire paths](https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV) | 2:43 | 2024-02-27 |  |
 | [Det skal nok gå](https://open.spotify.com/track/6i17OjR0ZQYh5RkHexzDMR) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Det skal nok gå](https://open.spotify.com/album/4rM836vPb1QHflp8qWRwxs) | 2:03 | 2022-07-21 |  |
 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2022-04-21 | 2024-01-03 |
 | [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2021-12-13 | 2023-04-18 |
@@ -707,6 +708,7 @@
 | [Until We Meet Again](https://open.spotify.com/track/2QYem8rVrhWvKTXC3rYypY) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Until We Meet Again](https://open.spotify.com/album/0u2MEx3IaZYcNltnLoV6Wu) | 2:44 | 2022-09-23 | 2024-01-03 |
 | [Up North](https://open.spotify.com/track/3V683fg4xkvLX58ReRRISt) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [Catching The Light](https://open.spotify.com/album/6dTVYbMJ85y2x9f3Qm01JD) | 2:23 | 2022-11-21 |  |
 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 | 2023-01-09 | 2023-08-22 |
+| [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 | 2024-02-27 |  |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-21 | 2023-08-22 |
 | [Vardo](https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Vardo](https://open.spotify.com/album/38TZDlWd5JHe6p75JyC035) | 2:28 | 2022-10-13 |  |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-13 | 2022-05-27 |

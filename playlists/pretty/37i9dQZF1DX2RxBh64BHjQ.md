@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769,340 likes - 98 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,358 likes - 98 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 97 | [This One For \(feat\. BigWalkDog & Money Man\)](https://open.spotify.com/track/2YQq9gw6Jp2kZ3i5N3yMsy) | [Ralo](https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [This One For \(feat\. BigWalkDog & Money Man\)](https://open.spotify.com/album/0nygvRHM2DUvWR3QGNou7a) | 3:50 |
 | 98 | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/track/71S2e7v71Rcu3CH59pKdE8) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Fat Boy \(feat\. Rick Ross\)](https://open.spotify.com/album/3gNDqJwbeF8MOvSkxugVxS) | 3:33 |
 
-Snapshot ID: `MCw3Mjk0MmFjMWRhYjA3ZjBkMTkzZjQ2NjYxNjYzYTQwMWJjYzFiOGU4`
+Snapshot ID: `MCw1YjEyMGNkYmZlYWIzODgyNGUwZGIyZmRhMGY5NzA3NzA1YzUyNWRj`

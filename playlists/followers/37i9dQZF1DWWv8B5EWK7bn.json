@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 177712,
+  "2024-02-28": 177768,
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
@@ -6482,6 +6482,24 @@
     },
     {
       "album": {
+        "name": "Rooting for Love",
+        "url": "https://open.spotify.com/album/6SKoKeVgYWSsPAmmcDhx7J"
+      },
+      "artists": [
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162513,
+      "name": "Une Autre Attente",
+      "url": "https://open.spotify.com/track/10vruMfK3SbOCmsN2D2Xaw"
+    },
+    {
+      "album": {
         "name": "Une Autre Attente",
         "url": "https://open.spotify.com/album/3txRsK90V4IwObiif90nJx"
       },
@@ -6493,7 +6511,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 162513,
       "name": "Une Autre Attente",
       "url": "https://open.spotify.com/track/6EKW2yTzyZWBdDK7DEVPhx"

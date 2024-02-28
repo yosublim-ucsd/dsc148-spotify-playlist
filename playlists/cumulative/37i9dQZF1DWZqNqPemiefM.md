@@ -4,7 +4,7 @@
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-568 songs - 1 day 20 hr 44 min
+569 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [Utai IV: Reawakening](https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO) | 2:37 | 2022-10-13 | 2024-02-09 |
 | [Utano](https://open.spotify.com/track/0h7IkhjykGhsXardJtErat) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:15 | 2022-07-28 | 2024-02-02 |
 | [Utano](https://open.spotify.com/track/3ybZjIcq1JIYLoc88xEfDe) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 4:15 | 2022-03-31 | 2022-07-29 |
-| [Valve](https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Valve / Valve \(Revisited\)](https://open.spotify.com/album/2uMuTzWgDW1sdOs29usuUi) | 3:23 | 2024-02-08 |  |
+| [Valve](https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Valve / Valve \(Revisited\)](https://open.spotify.com/album/2uMuTzWgDW1sdOs29usuUi) | 3:23 | 2024-02-08 | 2024-02-28 |
 | [Vanished Garden](https://open.spotify.com/track/3iScMPhH2AjZ0YwFpyUx3z) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Invisible Island](https://open.spotify.com/album/2AoNiTLj9aTVAn7FU0VQ8P) | 3:13 | 2022-04-07 | 2022-06-28 |
 | [Variation・III](https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ) | [Masashi Kitamura + Phonogenix](https://open.spotify.com/artist/55aj1GWBgBPNoVICgtbl7s) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:35 | 2022-04-16 | 2022-04-18 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 | 2024-02-09 |
@@ -533,6 +533,7 @@
 | [Wine glass assembly waltz \(Wine glass\)](https://open.spotify.com/track/3BkwqiqMdALDZMYf9jYM92) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Pan De Sonic \- Iso](https://open.spotify.com/album/2OvQuWIyhtHfPHS3vschY1) | 1:10 | 2022-03-31 | 2022-07-18 |
 | [Winter Sky](https://open.spotify.com/track/3z2VJIU3KVCak8kS99lmkF) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Winter Sky](https://open.spotify.com/album/1jz9wwLGQ0H2CJommv1tmS) | 3:30 | 2022-03-31 | 2022-04-17 |
 | [wonder particle](https://open.spotify.com/track/4jRjH2pxVAzOefjjZ57HmF) | [Moskitoo](https://open.spotify.com/artist/52WEpfvOZEZDwkfBgqZ0Pe) | [Mitosis](https://open.spotify.com/album/4s1LjWD9iyDX0shEDjEddc) | 5:31 | 2022-03-31 | 2022-06-26 |
+| [yorumayoi](https://open.spotify.com/track/4a4q1cEaV4AqfXtdHKk2jH) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F) | [0\-1](https://open.spotify.com/album/7hLDJKG0Ry6TAFwIdGVuIj) | 4:51 | 2024-02-27 |  |
 | [You Are Cat](https://open.spotify.com/track/4xaIslOXb5HVDzCgQ4lBms) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neko Wa Dakumono \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6btY0OvITMAa9aV0EpfeC7) | 3:15 | 2024-02-15 |  |
 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 | 2024-02-08 |  |
 | [Ziggy \(Aphex Twin Mix \#1\)](https://open.spotify.com/track/6swGS4LZBAtaJdRndiBqzL) | [Nav Katze](https://open.spotify.com/artist/1iwziQKg4hUeVorWxibG9V) | [Never mind the distortion](https://open.spotify.com/album/4sWgYalzicCobacdleRh2t) | 6:02 | 2022-03-31 | 2023-12-22 |

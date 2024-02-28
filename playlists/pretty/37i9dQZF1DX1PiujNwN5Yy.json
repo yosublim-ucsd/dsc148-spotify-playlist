@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111289,
+  "num_followers": 111302,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTY2OWMzYjI5YzlhMDc4ZjIwMjlhZDg2OGVkYjI5NWQwMTg4MGI2",
+  "snapshot_id": "MCxhNmFmMDQ5MmU1NzFjNjAxMDFlNTg4YTVkZjY4Y2EwYWIzYzA4ZjQ4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "TE FALL\u00c9",
-        "url": "https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM"
+        "name": "Directo en mi habitacion <3 (En directo)",
+        "url": "https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        },
+        {
+          "name": "Juan Azul",
+          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
         }
       ],
-      "duration_ms": 197474,
-      "name": "TE FALL\u00c9",
-      "url": "https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz"
+      "duration_ms": 346000,
+      "name": "Corazon partio (feat. Juan Azul) - En directo",
+      "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1155,22 +1159,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Directo en mi habitacion <3 (En directo)",
-        "url": "https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY"
+        "name": "TE FALL\u00c9",
+        "url": "https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM"
       },
       "artists": [
         {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        },
-        {
-          "name": "Juan Azul",
-          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 346000,
-      "name": "Corazon partio (feat. Juan Azul) - En directo",
-      "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
+      "duration_ms": 197474,
+      "name": "TE FALL\u00c9",
+      "url": "https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 186266,
       "name": "Canciones Tristes",
       "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Galerna",
         "url": "https://open.spotify.com/album/2nP0osfNdXsf2la995d2db"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 188901,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/33N2srwtlb1xwPmlVXGFhr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Nada Es Igual",
-        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
-      },
-      "artists": [
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Amor Insustancial",
+        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+      },
+      "artists": [
+        {
+          "name": "Jordano",
+          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Se que te iras",
+      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 188320,
       "name": "La Banqueta",
       "url": "https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Amor Insustancial",
-        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
-      },
-      "artists": [
-        {
-          "name": "Jordano",
-          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
-        }
-      ],
-      "duration_ms": 205450,
-      "name": "Se que te iras",
-      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
     },
     {
       "added_at": "2023-12-15 05:00:00",

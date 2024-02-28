@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records\. cover: 21 Savage
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,898 likes - 27 songs - 1 hr 20 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,909 likes - 27 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

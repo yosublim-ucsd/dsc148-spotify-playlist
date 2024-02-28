@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 178713,
+  "2024-02-28": 178797,
   "date_first_scraped": "2022-05-01",
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
   "name": "Arabic Coffee",
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 224506,
       "name": "Badi Nsafer",
       "url": "https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w"
@@ -1959,6 +1959,24 @@
       "duration_ms": 248241,
       "name": "Mabalash",
       "url": "https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp"
+    },
+    {
+      "album": {
+        "name": "Mabidichay",
+        "url": "https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w"
+      },
+      "artists": [
+        {
+          "name": "Lina Guessoussi",
+          "url": "https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172068,
+      "name": "Mabidichay",
+      "url": "https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom"
     },
     {
       "album": {

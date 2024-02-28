@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-675 songs - 1 day 17 hr 27 min
+676 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Cold Water](https://open.spotify.com/track/4esmMZzUcSw6cgd8WbSOgi) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Kyle Nachtigal](https://open.spotify.com/artist/55dWGlPHFYuBbQYZQlSaKY) | [Cold Water](https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO) | 3:01 | 2022-06-10 |  |
 | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Color of the Blues \(feat\. Susan Tedeschi\)](https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0) | 2:54 | 2022-06-10 | 2022-06-15 |
 | [Come As You Are](https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv) | 2:45 | 2021-10-20 | 2023-06-11 |
+| [Come As You Are](https://open.spotify.com/track/3RnqvBMDzSg3LzQytNuwdE) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/2RHroLhDaQLAxNq6BRnKgi) | 2:45 | 2023-10-23 |  |
 | [Come As You Are](https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH) | 2:45 | 2023-02-24 | 2024-02-13 |
 | [Come Together](https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pandora's Box](https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6) | 3:44 | 2022-06-10 |  |
 | [Come Together](https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3) | 3:44 | 2022-06-10 | 2022-12-11 |
@@ -138,7 +139,7 @@
 | [Crossing Muddy Waters](https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters](https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz) | 3:48 | 2021-10-20 | 2022-07-22 |
 | [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 | 2023-02-24 | 2023-12-14 |
 | [Crush](https://open.spotify.com/track/09zy05TC3lWtGl1YRky16r) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Crush](https://open.spotify.com/album/0RTz9szRDyx9LXQYlWXATZ) | 3:41 | 2021-10-20 | 2022-07-09 |
-| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-06-10 |  |
+| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-06-10 | 2024-02-28 |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-10-20 | 2022-07-29 |
 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 | 2022-06-10 |  |
 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 | 2021-10-20 | 2022-07-28 |

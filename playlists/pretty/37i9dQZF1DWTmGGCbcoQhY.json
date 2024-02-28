@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1306563,
+  "num_followers": 1306852,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTg5OTg3YzA3MjQ2MTkyYjJiM2NhYThkNDk0ZTc1NzFiMDJmODM5",
+  "snapshot_id": "MCw0N2I5ZDYwNzkzOWY3NTQ4YThiODdkZThmMThhZWE3ZDI0ZDZkOGEx",
   "tracks": [
     {
       "added_at": "2023-11-08 22:37:03",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Del Barrio Para El Barrio (Vol. 1)",
+        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Bohio",
+          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
         }
       ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+      "duration_ms": 199653,
+      "name": "Enbrujo De Cumbia",
+      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Del Barrio Para El Barrio (Vol. 1)",
-        "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
       "artists": [
         {
-          "name": "Bohio",
-          "url": "https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Enbrujo De Cumbia",
-      "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "De Reventon",
-        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Sus Mejores Exitos",
         "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "De Reventon",
+        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maravilla",
+          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Cumbias y Bachatas Vol.2",
-        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
-        }
-      ],
-      "duration_ms": 253236,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Ea Ea La Cumbia Buena",
         "url": "https://open.spotify.com/album/309Hl9c4m4PEMOt2MJroPf"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 193366,
       "name": "Ea Ea La Cumbia Buena",
       "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Cumbias y Bachatas Vol.2",
+        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+        }
+      ],
+      "duration_ms": 253236,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
-        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
-      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 207728,
       "name": "Caricias - Acar\u00edciame",
       "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
+        "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
+      "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
     },
     {
       "added_at": "2023-11-08 22:37:03",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-11-08 22:37:03",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
-    },
-    {
-      "added_at": "2023-11-08 22:37:03",
-      "album": {
         "name": "Con La Sangre Caliente",
         "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 189746,
       "name": "Melina",
       "url": "https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k"
+    },
+    {
+      "added_at": "2023-11-08 22:37:03",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2023-11-08 22:37:03",

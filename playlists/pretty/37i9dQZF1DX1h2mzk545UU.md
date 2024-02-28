@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,841 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,971 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 41 | [Celia](https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M) | 4:03 |
 | 42 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
 | 43 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
-| 44 | [Vos no cambias más](https://open.spotify.com/track/5w4um7ov7psiRACd6FCbg6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Paola Lo](https://open.spotify.com/artist/2ht9to5iPbGfTpvY50rjuj), [Nick NDC](https://open.spotify.com/artist/7i39bzO8R1uYqxBJp5Trsr) | [Vos no cambias mas](https://open.spotify.com/album/1FhiVY3ZGamJOn1lCyzpoI) | 2:37 |
+| 44 | [Vos no cambias más](https://open.spotify.com/track/5w4um7ov7psiRACd6FCbg6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Paola Lo](https://open.spotify.com/artist/2ht9to5iPbGfTpvY50rjuj), [Nick NDC](https://open.spotify.com/artist/7i39bzO8R1uYqxBJp5Trsr), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vos no cambias mas](https://open.spotify.com/album/1FhiVY3ZGamJOn1lCyzpoI) | 2:37 |
 | 45 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 |
 | 46 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
 | 47 | [CUMBIA 85](https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X) | [Yahir Saldivar](https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA) | [CUMBIA 85](https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 74 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 75 | [El Oso Polar](https://open.spotify.com/track/2apRZfVq7r4T7kjjAyqr4i) | [Nelson Kanzela](https://open.spotify.com/artist/728eqCXeJCJaQXz8qDCOJO) | [El Rey del Baile, Son 20 Años, Completamente Feliz](https://open.spotify.com/album/0Q4W7RpqkOjMRdcSxxuWvz) | 3:11 |
 
-Snapshot ID: `MCxlNmFjNmUwN2VlMmE1NGMyZDM1ZGEzY2Y1YmIwZWFkNWQyOGZmZGRj`
+Snapshot ID: `MCwzZjVmODZlNDBlNjBmMWU1ZmM3ZDE0YjY1M2Y3MDVjN2IwNzZhZDNm`

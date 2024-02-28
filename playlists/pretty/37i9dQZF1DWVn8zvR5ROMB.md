@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jordan Davis, Bailey Zimmerman, Kenny Chesney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,895 likes - 67 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,074 likes - 67 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 14 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 |
 | 15 | [Cowboy Songs](https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5) | 3:07 |
 | 16 | [Turned Into Missing You](https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Turned Into Missing You](https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW) | 3:08 |
-| 17 | [Hey Arizona](https://open.spotify.com/track/3HtsiHZAOyk9X2x6ARQ99S) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Hey Arizona](https://open.spotify.com/album/7g0EiKkCXhUnEsIt2ON2nI) | 3:49 |
+| 17 | [Hey Arizona](https://open.spotify.com/track/3HtsiHZAOyk9X2x6ARQ99S) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Hey Arizona](https://open.spotify.com/album/7g0EiKkCXhUnEsIt2ON2nI) | 3:45 |
 | 18 | [Hell is a Dance Floor](https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Hell is a Dance Floor](https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY) | 3:29 |
 | 19 | [Time For Carolina](https://open.spotify.com/track/1dwFHeyRav8GJ8RecRfmKC) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [Time For Carolina](https://open.spotify.com/album/2jlMaXW3ttzmiS8BgyKcaa) | 2:28 |
 | 20 | [Deal With The Devil \(feat\. Danny Worsnop of Asking Alexandria\)](https://open.spotify.com/track/2UCdKRMsw5I59ypfB5ILaj) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Deal With The Devil \(feat\. Danny Worsnop of Asking Alexandria\)](https://open.spotify.com/album/0oWOCfSyXj9zXbiMbnzPe1) | 3:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 66 | [Hate This](https://open.spotify.com/track/4Qn7rSZvWOHy0erNMuWTDg) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Hate This](https://open.spotify.com/album/6QZZqvaAynbSUAgqumnqdc) | 3:12 |
 | 67 | [Ride With You](https://open.spotify.com/track/5vp0PvFdOcjUSINLltItfm) | [Buckstein](https://open.spotify.com/artist/4eMS4ToI7LTDDFcUuMvKOX) | [Ride With You](https://open.spotify.com/album/4Nm2el0waMAqJkKrS6H6x1) | 3:43 |
 
-Snapshot ID: `MCxlYzFiN2RjMzgwMTM1NDk1YjllNDFjMDBiOTY1N2UzMmIwMTVlMGM3`
+Snapshot ID: `MCxkODIyNDc3MmNjMGRjZTRkYTNkNDg0NWM1YjZhYjAwNzQ0ZDM2Yzg1`

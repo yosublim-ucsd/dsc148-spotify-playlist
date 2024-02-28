@@ -1,9 +1,27 @@
 {
-  "2024-02-27": 117019,
+  "2024-02-28": 117069,
   "date_first_scraped": "2022-05-12",
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tedua",
   "name": "Arsenico ",
   "tracks": [
+    {
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+    },
     {
       "album": {
         "name": "Sinatra",

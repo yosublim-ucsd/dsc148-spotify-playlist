@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-826 songs - 1 day 11 hr 20 min
+831 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 | 2023-09-23 |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 | 2022-10-14 |
 | [Beck](https://open.spotify.com/track/2gx4U9R8v4vZBcxKIV8oLz) | [JF Pierre](https://open.spotify.com/artist/0F6Qj5Fha0HvLddRfhbZ5E) | [Le Pommier](https://open.spotify.com/album/57cKftLAQQTrYafu75bPwO) | 2:17 | 2023-01-09 |  |
+| [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-02-27 |  |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2022-11-12 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2022-09-24 |
 | [Benediction](https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Benediction](https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE) | 2:23 | 2022-10-13 |  |
@@ -130,6 +131,7 @@
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-11-11 |  |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 | 2022-10-25 |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-12-07 | 2022-07-20 |
+| [Chanson Pour Un Amour Perdu](https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Chanson Pour Un Amour Perdu](https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn) | 2:03 | 2024-02-27 |  |
 | [Chapman's Swift](https://open.spotify.com/track/1pBvANWKfySHrXl6skbceL) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Chapman's Swift](https://open.spotify.com/album/1C4QMpZhjqf7L4GC9bM7WH) | 2:18 | 2021-12-07 | 2022-02-02 |
 | [Chaque seconde](https://open.spotify.com/track/7zE6q0FE26UZxgVt6HfZTK) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Chaque seconde](https://open.spotify.com/album/28jXOYo12w7BRvB9lA2q3V) | 2:06 | 2023-02-28 |  |
 | [Charming Spring](https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Charming Spring](https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx) | 2:08 | 2021-12-07 | 2022-05-06 |
@@ -348,6 +350,7 @@
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 | 2023-04-26 |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-12-07 | 2022-07-20 |
 | [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-01-31 |  |
+| [Journey](https://open.spotify.com/track/2cTUL54dd9dHbsxkio7Wtz) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Journey](https://open.spotify.com/album/0ERw99NkSbEIhUP7Wk8fFH) | 2:25 | 2024-02-27 |  |
 | [Julia](https://open.spotify.com/track/3q5Z6pJSHH8s2ClI7WS45p) | [Jenna Elizabeth](https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr) | [Julia](https://open.spotify.com/album/5h0ryO3dNKBJ8gywTezvD2) | 2:36 | 2021-12-07 | 2022-08-26 |
 | [Julie's Waltz](https://open.spotify.com/track/3JmuMlXX4twb9yJhS8KhIz) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Julie's Waltz](https://open.spotify.com/album/0xMw5der8XOkDxmiLjL95l) | 2:14 | 2022-08-25 | 2023-02-21 |
 | [June](https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [June](https://open.spotify.com/album/73xsz6Gc6VotpfbmHDEi7j) | 2:36 | 2021-12-07 | 2023-04-26 |
@@ -524,6 +527,7 @@
 | [Pour tes yeux](https://open.spotify.com/track/6FYGyPEvb8g6toIfTwZTOH) | [Genevieve Beaumont](https://open.spotify.com/artist/0h1CKc837hgJJGRRUxP3dJ) | [Pour tes yeux](https://open.spotify.com/album/16Yn1gBuk3U4lzs7siFNzK) | 1:57 | 2021-12-07 | 2022-08-26 |
 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 | 2022-02-14 | 2023-10-07 |
 | [Prairie d'été](https://open.spotify.com/track/0rsGOnRV2avSVuin3XZ5FO) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Prairie d'été](https://open.spotify.com/album/5XPBI5MTUG64NGaxrDWFcS) | 2:49 | 2021-12-07 | 2022-06-08 |
+| [Prati](https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Prati](https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU) | 2:25 | 2024-02-27 |  |
 | [Prelude on the Street](https://open.spotify.com/track/07vi8KRKkgqgLCaSdEFC0f) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Prelude on the Street](https://open.spotify.com/album/05NwlW7OwtmEHcugIiq7pP) | 2:20 | 2021-12-07 | 2022-10-14 |
 | [Prenzlauer Berg](https://open.spotify.com/track/0e3y5hjse0J123DuRwJPbd) | [Patricia Aveline](https://open.spotify.com/artist/0yUDeJSQPp9jciPAg9yoFg) | [Prenzlauer Berg](https://open.spotify.com/album/31IU85yqqwUcmLtfXYx1jv) | 2:12 | 2021-12-07 | 2022-03-17 |
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2021-12-07 | 2022-10-05 |
@@ -560,6 +564,7 @@
 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 | 2021-12-07 | 2022-05-06 |
 | [Reminder](https://open.spotify.com/track/5nRqY2Ujz9GkqbZRx8oiU6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Reminder](https://open.spotify.com/album/1Z7r4T5wjvImk7BOaSZtf2) | 4:08 | 2023-10-16 |  |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-03-08 |  |
+| [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 | 2024-02-27 |  |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2021-12-07 |  |
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2021-12-07 | 2023-01-27 |
 | [Return of the swans](https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Big blue](https://open.spotify.com/album/5v3o9XW3TwgUzfotptkyUS) | 1:43 | 2022-12-21 | 2023-07-19 |

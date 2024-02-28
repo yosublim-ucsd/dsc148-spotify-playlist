@@ -247,6 +247,6 @@
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 |  |
 | [Zin In De Zomer Man](https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Zin In De Zomer Man](https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG) | 2:15 | 2023-05-11 | 2023-09-01 |
 | [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 | 2023-05-18 | 2023-07-07 |
-| [Écoutez\-moi](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-25 |  |
+| [Écoutez\-moi \- NL](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-25 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

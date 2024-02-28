@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 173594,
+  "num_followers": 173760,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2M4ZDMyNjc3YmRkMmMwZTY3M2YwYTE2Njc1ZDc5ODMzMTA3OTM0",
+  "snapshot_id": "MCwyNjc1NGIyOGRmMmNiN2YwMzQ3NzhjMDQyOTA0ZmFmMGFhYzFiMDZi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Cortinas Guindas",
-        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
+        "name": "Aquel Amor (Desde Tingambato Michoacan)",
+        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "Banda los Chirimoyos",
+          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
         }
       ],
-      "duration_ms": 216163,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+      "duration_ms": 246903,
+      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Aquel Amor (Desde Tingambato Michoacan)",
-        "url": "https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr"
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
       },
       "artists": [
         {
-          "name": "Banda los Chirimoyos",
-          "url": "https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb"
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
         }
       ],
-      "duration_ms": 246903,
-      "name": "Y Claro Que Se Puede - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+      "duration_ms": 216163,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "En Vivo...Desde Guanajuato Vol. 2",
-        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
-      },
-      "artists": [
-        {
-          "name": "Banda Yurirense",
-          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
-        }
-      ],
-      "duration_ms": 123141,
-      "name": "El Olotito",
-      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "En Vivo...Desde Guanajuato Vol. 2",
+        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
+      },
+      "artists": [
+        {
+          "name": "Banda Yurirense",
+          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
+        }
+      ],
+      "duration_ms": 123141,
+      "name": "El Olotito",
+      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Y Seguimos Loqueando!",
         "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 244680,
       "name": "El Torito de Petate - La Fiesta del Carnaval",
       "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 461333,
+      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Puras De Viento Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 167787,
-      "name": "El Olotito - En Vivo",
-      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Por el Puro Gusto (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 128501,
       "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
       "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Puras De Viento Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 167787,
+      "name": "El Olotito - En Vivo",
+      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Por el Puro Gusto",
-        "url": "https://open.spotify.com/album/0wshoBjCjJYhneJ7rkMjxZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 145968,
-      "name": "Arriba la Joyita",
-      "url": "https://open.spotify.com/track/7zSqPFUKufdczYnboF7fJu"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
         "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 274038,
       "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
       "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Por el Puro Gusto",
+        "url": "https://open.spotify.com/album/0wshoBjCjJYhneJ7rkMjxZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 145968,
+      "name": "Arriba la Joyita",
+      "url": "https://open.spotify.com/track/7zSqPFUKufdczYnboF7fJu"
     },
     {
       "added_at": "2022-12-30 18:59:47",

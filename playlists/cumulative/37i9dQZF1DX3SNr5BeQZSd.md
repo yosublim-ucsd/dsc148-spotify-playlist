@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-795 songs - 1 day 3 hr 27 min
+796 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 | 2022-09-09 | 2022-11-03 |
 | [Long Walks](https://open.spotify.com/track/6zm5ll3wpuqlA262hmJc4T) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:49 | 2022-10-14 | 2023-09-09 |
 | [Longview](https://open.spotify.com/track/7yzERm8IHtWa2OjrEsBo2b) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Longview](https://open.spotify.com/album/2E696ZL2YzOtzyQOLdH1k7) | 1:22 | 2024-02-23 |  |
-| [Loopedup](https://open.spotify.com/track/337MxGHJaX95TGRpXQ8jgJ) | [Ckwnce](https://open.spotify.com/artist/6iKha1agkoQ3NVFvwW9MiQ) | [Still](https://open.spotify.com/album/3uJpm3B1e3MwJng7UNhum7) | 3:14 | 2024-02-23 |  |
+| [Loopedup](https://open.spotify.com/track/337MxGHJaX95TGRpXQ8jgJ) | [Ckwnce](https://open.spotify.com/artist/6iKha1agkoQ3NVFvwW9MiQ) | [Still](https://open.spotify.com/album/3uJpm3B1e3MwJng7UNhum7) | 3:14 | 2024-02-23 | 2024-02-28 |
 | [Losing](https://open.spotify.com/track/4tZ9UYEupkjoyatKrvOcXV) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [Losing](https://open.spotify.com/album/1PMG91QLXzvfM6UhAXPHmk) | 4:26 | 2024-02-23 |  |
 | [losing my echo](https://open.spotify.com/track/4UcLJmwabv5cLA7SPEOImK) | [heavn](https://open.spotify.com/artist/5Zmt0Jc6Ob5Tg8ubHRz9DF) | [lazy games](https://open.spotify.com/album/2ZGmJtOAExfGP1vn4Bvlz8) | 1:24 | 2024-02-23 |  |
 | [lost](https://open.spotify.com/track/6mt2RZSHgy6PfZUnr6CYFS) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [lost](https://open.spotify.com/album/2gGOjZJ8NkBybt1rnMUC3D) | 3:21 | 2023-09-08 | 2024-02-24 |
@@ -668,6 +668,7 @@
 | [Summer 89](https://open.spotify.com/track/7gaSx5MXpBzpYYrTXjVhG1) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Yosemite](https://open.spotify.com/album/7CB8RcXJxuZ2D3ywu8JE1h) | 3:00 | 2024-02-23 |  |
 | [Summer Echoes](https://open.spotify.com/track/6dyk1Skh9DO8UKRZaKbMCI) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Summer Echoes](https://open.spotify.com/album/6u96QZoKzOIjEUe7F5xi6N) | 2:18 | 2023-09-08 | 2024-02-24 |
 | [Summer Night Drive](https://open.spotify.com/track/7ljrhaBBoEzqfmx6N1aHa2) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Summer Night Drive](https://open.spotify.com/album/2k14E9FYFBchF4iYTx7TCp) | 2:20 | 2023-09-08 | 2024-02-24 |
+| [Summer Rain](https://open.spotify.com/track/6vsI0JlqlIxphUizBtio02) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Summer Rain](https://open.spotify.com/album/00rcObICM0ImdZABmVBqvx) | 2:34 | 2024-02-27 |  |
 | [Summer Wind](https://open.spotify.com/track/5xQtGAOLhQQTJV39x47Gvy) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Summer Wind](https://open.spotify.com/album/0WmSAzoPWnLylz5i3bpWcb) | 2:38 | 2024-02-23 |  |
 | [Sun Is Shining](https://open.spotify.com/track/2xL0ZInltOGAj3WdPzSrTp) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Sun Is Shining](https://open.spotify.com/album/0zgtJ8nSQ8HPHSFRVLo3HM) | 1:39 | 2024-02-23 |  |
 | [sunday mornin'](https://open.spotify.com/track/2nCLmNHPugD29PVybm4TI2) | [kid.](https://open.spotify.com/artist/1ndPfZm8zHSlyrJs3itOSP) | [sunday mornin'](https://open.spotify.com/album/5EzunPU6UqMjiBXTwukQVn) | 1:28 | 2023-09-08 | 2024-02-24 |

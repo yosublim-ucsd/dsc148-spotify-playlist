@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 116915,
+  "2024-02-28": 116931,
   "date_first_scraped": "2023-05-19",
   "description": "Hindi hai, Indie hai! Cover- Utsavi Jha",
   "name": "hIndies",
@@ -2411,7 +2411,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 266086,
       "name": "Piya Se Mila De",
       "url": "https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo"
@@ -2716,6 +2716,32 @@
     },
     {
       "album": {
+        "name": "Sadqay",
+        "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Sadqay",
+      "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+    },
+    {
+      "album": {
         "name": "Sahiba",
         "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
       },
@@ -2855,6 +2881,24 @@
       "duration_ms": 180250,
       "name": "Silvatein",
       "url": "https://open.spotify.com/track/5OeYzvWGIBIVDImJkgooY3"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2vrd17KOyWQn8MRuk4ic1a"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197850,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5lhaut6siOfKf5qlkDMaY2"
     },
     {
       "album": {
@@ -3027,7 +3071,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 186051,
       "name": "Tere Saath",
       "url": "https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e"

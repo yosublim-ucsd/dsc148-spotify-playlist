@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Desire paths",
+        "url": "https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV"
+      },
+      "artists": [
+        {
+          "name": "Finn Lenoir",
+          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163088,
+      "name": "Desire paths",
+      "url": "https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D"
+    },
+    {
+      "album": {
         "name": "Deux",
         "url": "https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb"
       },
@@ -3828,6 +3846,24 @@
       "duration_ms": 108730,
       "name": "Us",
       "url": "https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK"
+    },
+    {
+      "album": {
+        "name": "Valse Delle Vigne",
+        "url": "https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Valse Delle Vigne",
+      "url": "https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj"
     },
     {
       "album": {

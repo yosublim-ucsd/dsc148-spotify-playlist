@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 111270,
+  "2024-02-28": 111433,
   "date_first_scraped": "2023-03-30",
   "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Vedan, Sushin Shyam",
   "name": "Hip-Hop Malayalam",
@@ -583,7 +583,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 114606,
       "name": "CALICITY",
       "url": "https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF"
@@ -3067,6 +3067,28 @@
       "duration_ms": 183529,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4jAcGLximA53NQ1DwOPM9S"
+    },
+    {
+      "album": {
+        "name": "WORK HARD",
+        "url": "https://open.spotify.com/album/1y2ISs4pGjZnCkjzPda8ss"
+      },
+      "artists": [
+        {
+          "name": "S Dee",
+          "url": "https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt"
+        },
+        {
+          "name": "Hiphop JB",
+          "url": "https://open.spotify.com/artist/58MN2gwmEvgqAECH1yKX5I"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "WORK HARD",
+      "url": "https://open.spotify.com/track/2XQDNORKPlrZfUHeDqispe"
     },
     {
       "album": {

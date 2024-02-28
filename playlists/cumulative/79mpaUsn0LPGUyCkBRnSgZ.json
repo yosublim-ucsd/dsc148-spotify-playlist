@@ -10527,6 +10527,24 @@
     },
     {
       "album": {
+        "name": "Where we've been, Where we go from here",
+        "url": "https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315633,
+      "name": "Where We've Been",
+      "url": "https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP"
+    },
+    {
+      "album": {
         "name": "Gongjoong Doduk",
         "url": "https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR"
       },

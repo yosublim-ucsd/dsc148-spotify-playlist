@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 464391,
+  "num_followers": 464423,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGZkMjgzZGFhNDVhODQxYWE2ZjU0YjYzN2Y3OTI4Nzk3YWIxMGU5",
+  "snapshot_id": "MCwwMTliMDkzNjA3ZGU0YTYzNmMwYmE2MGZmOTc0YTBkMzBjODE2Yjk1",
   "tracks": [
     {
       "added_at": "2024-02-23 03:03:00",
@@ -947,26 +947,22 @@
     {
       "added_at": "2024-02-23 03:03:00",
       "album": {
-        "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
-        "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         },
         {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
         }
       ],
-      "duration_ms": 206759,
-      "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
-      "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2024-02-23 03:03:00",
@@ -991,6 +987,30 @@
     {
       "added_at": "2024-02-23 03:03:00",
       "album": {
+        "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
+        "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 206759,
+      "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
+      "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
+    },
+    {
+      "added_at": "2024-02-23 03:03:00",
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 179016,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2024-02-23 03:03:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-02-23 03:03:00",
       "album": {
-        "name": "Certeza - Zabot Remix",
-        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Certeza - Zabot Remix",
-      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
         "name": "Presente do Mar",
         "url": "https://open.spotify.com/album/15b5t3lIZxQLe1wzdhMl3p"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 177516,
       "name": "Presente do Mar",
       "url": "https://open.spotify.com/track/0U2DfsFkO2G2KzwlVjPVmv"
+    },
+    {
+      "added_at": "2024-02-23 03:03:00",
+      "album": {
+        "name": "Certeza - Zabot Remix",
+        "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Certeza - Zabot Remix",
+      "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
     },
     {
       "added_at": "2024-02-23 03:03:00",
@@ -1431,30 +1431,6 @@
     {
       "added_at": "2024-02-23 03:03:00",
       "album": {
-        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
-        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        }
-      ],
-      "duration_ms": 215806,
-      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
-      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
-    },
-    {
-      "added_at": "2024-02-23 03:03:00",
-      "album": {
         "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
         "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 179481,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2024-02-23 03:03:00",
+      "album": {
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        }
+      ],
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
     },
     {
       "added_at": "2024-02-23 03:03:00",

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Love (\u539f\u5275\u7248)",
+        "url": "https://open.spotify.com/album/18hf5eKkTJJRUm3aAMEgSQ"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u6c81",
+          "url": "https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285028,
+      "name": "Beautiful Love (\u539f\u5275\u7248)",
+      "url": "https://open.spotify.com/track/7DBmfBuGgWD8YjsUbPQv0l"
+    },
+    {
+      "album": {
         "name": "BREAKDOWN",
         "url": "https://open.spotify.com/album/4avodBPK5QwdNztAzxko0S"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 252580,
       "name": "P.S.\u6211\u7231\u4f60",
       "url": "https://open.spotify.com/track/6ZQ9qpCZicyLZciOKXb4be"

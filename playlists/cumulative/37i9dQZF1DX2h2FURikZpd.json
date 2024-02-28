@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "4:12 en Montevideo (10.000km) / una gota",
+        "url": "https://open.spotify.com/album/7b9tUuSZVPpyBQgiKOuQZY"
+      },
+      "artists": [
+        {
+          "name": "Juicy BAE",
+          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "PMP",
+          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265531,
+      "name": "4:12 en Montevideo (10.000km)",
+      "url": "https://open.spotify.com/track/0wgh2U5cl2Jc1AfLLebljf"
+    },
+    {
+      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -100,6 +126,24 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "album": {
@@ -358,7 +402,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 239999,
       "name": "Ese Kbrn",
       "url": "https://open.spotify.com/track/3XaeszX6Kk4l40pKzK2oy6"
@@ -532,7 +576,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -664,6 +708,24 @@
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "album": {
+        "name": "lady madrizZz",
+        "url": "https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131020,
+      "name": "lady madrizZz",
+      "url": "https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36"
     },
     {
       "album": {
@@ -915,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Que putas le pasa al destino",
+        "url": "https://open.spotify.com/album/0WBzU8hZCmc1WI1pSLdCsd"
+      },
+      "artists": [
+        {
+          "name": "Sebas Barcenas",
+          "url": "https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189235,
+      "name": "Que putas le pasa al destino",
+      "url": "https://open.spotify.com/track/2f845lg1LiI25lAGWRLbwr"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Lo Dir\u00eda?",
         "url": "https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9"
       },
@@ -1050,7 +1130,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 220872,
       "name": "Salitre",
       "url": "https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH"
@@ -1166,7 +1246,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 152079,
       "name": "Uff",
       "url": "https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp"

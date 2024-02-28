@@ -9177,6 +9177,28 @@
     },
     {
       "album": {
+        "name": "New World (Flow)",
+        "url": "https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323785,
+      "name": "New World (Flow)",
+      "url": "https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/782f4OR6lKLwAdad0p4tAc"
       },

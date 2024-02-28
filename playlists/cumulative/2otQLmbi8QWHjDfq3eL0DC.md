@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week.\. All the biggest dance, house and electronic music to vibe to in 2024!
 
-154 songs - 7 hr 15 min
+155 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,11 +90,12 @@
 | [Lovers Game](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [Lovers Game / Game Over](https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f) | 3:33 | 2024-02-09 |  |
 | [Loving You Ain't Hard](https://open.spotify.com/track/1USfoSvRBvyfDe1CvPshij) | [Gary Cronly](https://open.spotify.com/artist/2RXVp8GYpE06UmIqEARjug) | [Loving You Ain't Hard](https://open.spotify.com/album/6xYmlVJexo3ZECpAYpBfoC) | 3:26 | 2023-11-03 | 2023-12-09 |
 | [Midnight Hour](https://open.spotify.com/track/6mVjIVPBs9DQIeLWBXvudq) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX) | [Midnight Hour](https://open.spotify.com/album/64COkchPvo9tFPvjfPrhD6) | 3:05 | 2023-11-03 |  |
-| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-11-03 |  |
+| [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-11-03 | 2024-02-28 |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-24 |  |
 | [Nikes On](https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes On](https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH) | 2:35 | 2024-02-16 |  |
 | [Nirvana](https://open.spotify.com/track/009yAC1axMJkhvYFgkB3nA) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:37 | 2023-11-03 |  |
 | [No Apologies \(feat\. Mila Falls\)](https://open.spotify.com/track/3EJjWnvGleKgYPikSo3K33) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [No Apologies \(feat\. Mila Falls\)](https://open.spotify.com/album/1gX4xhqZzjairFGA10ivst) | 2:53 | 2023-11-03 |  |
+| [Now](https://open.spotify.com/track/2pZJqhsUxcS27EIw6osRBS) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Now](https://open.spotify.com/album/4bZgBjgSVUFi93sGfxRxkK) | 2:54 | 2024-02-27 |  |
 | [Off Switch](https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Off Switch](https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk) | 2:52 | 2024-01-05 |  |
 | [On Repeat](https://open.spotify.com/track/2hSH9zh4RcLUfxVaIdlyOc) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:10 | 2023-11-03 |  |
 | [On Repeat](https://open.spotify.com/track/6CqFn8q3zeVuK61IO07nZZ) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 3:10 | 2023-11-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 511818,
+  "num_followers": 512204,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmQwMjVmZTAzM2RhNDNiOTQ1YTZlMTE4ZTYzZjRhZTU2OTJhZmQw",
+  "snapshot_id": "MCxiZjkxZGJjNTgzM2NkNjlhZTFkMDVlYmY5YWE2MTU3OTg4MGQ0NDVi",
   "tracks": [
     {
       "added_at": "2024-02-23 15:16:52",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2024-02-23 15:16:52",
       "album": {
+        "name": "Some Kind of Static (Remix)",
+        "url": "https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        }
+      ],
+      "duration_ms": 243855,
+      "name": "Some Kind of Static - Remix",
+      "url": "https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5"
+    },
+    {
+      "added_at": "2024-02-23 15:16:52",
+      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1659,22 +1679,6 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
-      "added_at": "2024-02-23 15:16:52",
-      "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2024-02-23 15:16:52",
@@ -1695,22 +1699,18 @@
     {
       "added_at": "2024-02-23 15:16:52",
       "album": {
-        "name": "On the Quiet (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Vaarwell",
-          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Far Away Place",
-      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2024-02-23 15:16:52",
@@ -1727,6 +1727,26 @@
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+    },
+    {
+      "added_at": "2024-02-23 15:16:52",
+      "album": {
+        "name": "On the Quiet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Far Away Place",
+      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
     },
     {
       "added_at": "2024-02-23 15:16:52",
@@ -1783,22 +1803,6 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
-    },
-    {
-      "added_at": "2024-02-23 15:16:52",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 285714,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
     }
   ],
   "unique_name": "golden hour",

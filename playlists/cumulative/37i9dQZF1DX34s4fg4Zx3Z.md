@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Em Ellata
 
-1,518 songs - 3 day 16 hr 44 min
+1,519 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Biết Làm Sao](https://open.spotify.com/track/2dCiHYDk4CBevyQsR8uEtf) | [Ran](https://open.spotify.com/artist/0Nru2xZlOHoIRwpLZO785D), [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw) | [Biết Làm Sao](https://open.spotify.com/album/0PfMCThjh5JaUkeZcHT1um) | 3:02 | 2023-01-30 | 2023-02-25 |
 | [Biết Nhưng Cố Vấn](https://open.spotify.com/track/2T0yWjduUHKmBpYanW9ByV) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7), [HUUBUI](https://open.spotify.com/artist/1VA4Q9uW2yxcWzV9dx5D2o) | [Biết Nhưng Cố Vấn](https://open.spotify.com/album/2rRHQmu7MBZ69h6985xN8J) | 4:12 | 2023-06-13 | 2023-07-18 |
 | [Biết Thế Thì](https://open.spotify.com/track/3X29bUVV07DaFW9djh7POI) | [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Biết Thế Thì](https://open.spotify.com/album/7mwoCRf0kaDuePIvCG4UOs) | 3:03 | 2023-02-22 | 2023-04-01 |
+| [Biết Đâu Sẽ Mất](https://open.spotify.com/track/4tiTkoIBdra4zCsqr58od9) | [Kejo](https://open.spotify.com/artist/0Qbywcgl7wfMVk6WmW2LUh) | [Biết Đâu Sẽ Mất](https://open.spotify.com/album/7v69iNsJLWZ35qxsMH8bJe) | 3:04 | 2024-02-28 |  |
 | [Black Rose](https://open.spotify.com/track/5fq12fvVUDXuNbETl5BJ8n) | [LGKH](https://open.spotify.com/artist/4Zcle1oVf2bVAxRbnlEJ4i), [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY) | [Black Rose](https://open.spotify.com/album/7yGknDBWpg7fwX30QZFV6l) | 3:08 | 2022-08-31 | 2022-09-30 |
 | [Bobui Freestyle](https://open.spotify.com/track/3pOkZlDBwrpAGZWEIjEnEC) | [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ) | [Bobui Freestyle](https://open.spotify.com/album/5EN7VSVdZwcLymoQOcLXmv) | 2:06 | 2022-06-19 | 2022-09-30 |
 | [Bohemian](https://open.spotify.com/track/2xDrCnW4WzKcG41BsI252R) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI), [sleepat6pm](https://open.spotify.com/artist/0lydiFM0W3W91lOFwahhF3) | [Bohemian](https://open.spotify.com/album/6S8F1LNLtQYpxBLrYzul5i) | 2:51 | 2023-03-31 | 2023-04-18 |
@@ -1411,7 +1412,7 @@
 | [Yêu Người Khác](https://open.spotify.com/track/6juNmiDH6bIIVnQKqcJ1OQ) | [Yang E](https://open.spotify.com/artist/2NjLqE71ijKZQUNpl9K9Xm), [DXSE](https://open.spotify.com/artist/0Sh636g3SpwGfv9WwgY040), [THE DAN](https://open.spotify.com/artist/0XtYMElqVHypBtPIk5KwkQ), [thienthegreat](https://open.spotify.com/artist/5DtbXlQUOj0phgicLMYcI7) | [Yêu Người Khác](https://open.spotify.com/album/0ADxlxXAQmEq8PzH1x8AVV) | 4:05 | 2023-07-13 | 2023-10-04 |
 | [Yêu Nhau Bao Lâu?](https://open.spotify.com/track/5elsiM3VJFct3kyKpYToOC) | [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [Yêu Nhau Bao Lâu?](https://open.spotify.com/album/49IrQ5fIoNktZ1gytH6gKP) | 2:46 | 2023-03-23 | 2023-05-05 |
 | [Yêu Quá Đi](https://open.spotify.com/track/60DRCQgWpCNoF6Jue5ul6h) | [Lộc Linh](https://open.spotify.com/artist/1WjYZ465wOCB3e1HE0I1cE), [Vàng Ngọc Kính](https://open.spotify.com/artist/2qo0YL4NXnZHIlIOMBlHQC) | [Yêu Quá Đi](https://open.spotify.com/album/5lkMecWOkAFo1sGtLrkgtU) | 5:17 | 2022-01-06 | 2022-05-05 |
-| [Yêu Quái](https://open.spotify.com/track/4DBeVwr5plThoDpVeRXqfn) | [AnhPxx](https://open.spotify.com/artist/0y2MH5pUMkpj7xZ2hl41Cl) | [Yêu Quái](https://open.spotify.com/album/3JnTy5nNVfKdrXbYOck1s8) | 1:05 | 2024-02-21 |  |
+| [Yêu Quái](https://open.spotify.com/track/4DBeVwr5plThoDpVeRXqfn) | [AnhPxx](https://open.spotify.com/artist/0y2MH5pUMkpj7xZ2hl41Cl) | [Yêu Quái](https://open.spotify.com/album/3JnTy5nNVfKdrXbYOck1s8) | 1:05 | 2024-02-21 | 2024-02-28 |
 | [Yêu Yếu Lòng](https://open.spotify.com/track/1T2xf4xE1xklUGM0TQkOVQ) | [Lil Z Poet](https://open.spotify.com/artist/17HDOSh7Do1hpwVpTSmgjt) | [Yêu Yếu Lòng](https://open.spotify.com/album/00QKos8JwvcHf16JQiS9HU) | 4:29 | 2022-02-21 | 2022-05-27 |
 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 | 2022-03-04 | 2023-01-06 |
 | [Yêu Đương Nặng Lòng](https://open.spotify.com/track/4BJ2I3jh1Vx6VT7S2vz3Sg) | [Hùng Quân](https://open.spotify.com/artist/0PxsIqNrGJ4UYSxxESw0vf), [Gold Mk](https://open.spotify.com/artist/2IW2xSk70wC39VTymlEULu) | [Yêu Đương Nặng Lòng](https://open.spotify.com/album/5oAuwurKDYYlLPVjUyd0sD) | 4:07 | 2023-07-18 | 2023-08-01 |

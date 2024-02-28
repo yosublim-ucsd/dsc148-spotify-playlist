@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3700939,
+  "num_followers": 3701324,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2U0ZjA3NWQ3YTgxZTQ4YTc3MmZiYjQ5OTVhNWU1MjVjOGNmODEx",
+  "snapshot_id": "MCwxYzMwMDY4NDQxODYxMmQ5ZjZjZjFjNTVlMDY1NmU4OGNhYzdjODM5",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Into The Bloom",
         "url": "https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 160887,
       "name": "Into The Bloom",
       "url": "https://open.spotify.com/track/5CGwVoSCM3jHWpZi4u6Jgc"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1567,42 +1567,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Holding Me Back",
-        "url": "https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 265849,
-      "name": "Holding Me Back",
-      "url": "https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
       },
@@ -1619,6 +1583,22 @@
       "duration_ms": 165952,
       "name": "Reason",
       "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1663,6 +1643,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Holding Me Back",
+        "url": "https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 265849,
+      "name": "Holding Me Back",
+      "url": "https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "The Chase (Edit)",
         "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
       },
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+        "name": "Anywhere (Road Trippin')",
+        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
         }
       ],
-      "duration_ms": 324590,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+      "duration_ms": 274838,
+      "name": "Anywhere (Road Trippin')",
+      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Anywhere (Road Trippin')",
-        "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
       },
       "artists": [
         {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 274838,
-      "name": "Anywhere (Road Trippin')",
-      "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 627096,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 627096,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
       },
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Something Was Real",
-        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Something Was Real",
-      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Manzanita",
         "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
       },
@@ -1923,6 +1907,26 @@
       "duration_ms": 164433,
       "name": "Manzanita",
       "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        },
+        {
+          "name": "Exit Coda",
+          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
     }
   ],
   "unique_name": "Chill Tracks",

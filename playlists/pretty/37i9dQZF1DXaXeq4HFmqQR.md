@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,362 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
 | 23 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 24 | [Baby Oficial](https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Baby Oficial](https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O) | 3:01 |
-| 25 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
-| 26 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
+| 25 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
+| 26 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
 | 27 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
 | 28 | [Fine](https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Fine](https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo) | 3:02 |
 | 29 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 42 | [HEAVY](https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 2:58 |
 | 43 | [Yo Sin Tu Amor](https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK) | [Monserrat Bustamante](https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx) | [La Chica de Rojo](https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1) | 3:42 |
 | 44 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
-| 45 | [Al Fin Te Encontre](https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:23 |
-| 46 | [El Regalito](https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [El Regalito](https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl) | 2:31 |
+| 45 | [El Regalito](https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [El Regalito](https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl) | 2:31 |
+| 46 | [Al Fin Te Encontre](https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:23 |
 | 47 | [Ice](https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Ice](https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR) | 4:15 |
 | 48 | [Me Atrapo](https://open.spotify.com/track/5mb7wNPBlEzCnZmEYYk4wy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 4:10 |
-| 49 | [A Veces Tú](https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:28 |
-| 50 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
+| 49 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
+| 50 | [A Veces Tú](https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:28 |
 
-Snapshot ID: `MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy`
+Snapshot ID: `MCxhOTRkY2YxY2FhMWYyNjcyZDM5Y2Q5N2YwNTYwZmEwYzE1NzdiMGE5`

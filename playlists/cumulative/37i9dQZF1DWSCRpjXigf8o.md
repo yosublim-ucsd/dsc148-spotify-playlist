@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-520 songs - 1 day 7 hr 48 min
+523 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [hayley.](https://open.spotify.com/track/6yP9ZYK6fNkFVv20nS2jAj) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [hayley.](https://open.spotify.com/album/7HMmp7mn41iR0wYVPCsfr2) | 3:02 | 2022-11-01 | 2022-11-30 |
 | [Headlock \- Demo](https://open.spotify.com/track/2dnPEMYTJQ81ZHeIlNrhGj) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine \(Demos\)](https://open.spotify.com/album/2rppdlwdpcz5FUUK14rvjW) | 3:06 | 2023-11-02 | 2023-11-22 |
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-28 | 2023-05-05 |
+| [Hello,goodbye \- cassette tape ver](https://open.spotify.com/track/6kAS1aLFGo9RmAflJCNvJc) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Hello,goodbye / dog](https://open.spotify.com/album/3siAV2H497wqnDyhlJuAIH) | 3:24 | 2024-02-27 |  |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-07 | 2023-03-15 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-10-20 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-06-01 |  |
@@ -375,7 +376,7 @@
 | [Sunny Afternoon](https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 2:51 | 2023-08-17 | 2023-09-06 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2023-04-20 | 2023-08-16 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-10-20 | 2023-10-05 |
-| [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 |  |
+| [Sweet Lemon](https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON) | [Newdums](https://open.spotify.com/artist/0TnbcGo1i35F3JYLa530hB) | [Left Behind](https://open.spotify.com/album/1AX8uGsbYTniPe3GpGJX3D) | 3:42 | 2024-02-15 | 2024-02-28 |
 | [Symphony \- SalaAM ReMi LP Mix](https://open.spotify.com/track/5Wgoa3syX7zZvFoIIhR1US) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 2:53 | 2022-12-06 | 2023-01-27 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-24 | 2023-11-29 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-11-30 |  |
@@ -472,6 +473,7 @@
 | [みそしる](https://open.spotify.com/track/6cEJHeZgJs1EfRzmL4RWcS) | [7g classic’s](https://open.spotify.com/artist/09snWBv8zdH6mRDWoLGSWr) | [プチみそしる](https://open.spotify.com/album/2etsMLQKjSwgfoYGgJhgBR) | 5:19 | 2023-09-05 | 2023-09-22 |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 | 2023-10-05 |  |
+| [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 | 2024-02-27 |  |
 | [コハルビヨリ](https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [コハルビヨリ](https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz) | 4:24 | 2023-05-23 | 2023-08-16 |
 | [セラヴィ \-c'est la vie\-](https://open.spotify.com/track/1MDpjHl1plH4ZyQkVqIU4k) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [セラヴィ \-c'est la vie\-](https://open.spotify.com/album/0egtsy2R72JXPLqyZVg3nm) | 4:15 | 2023-03-30 | 2023-04-21 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-21 |
@@ -486,8 +488,9 @@
 | [マリーアン](https://open.spotify.com/track/1DonBSaThjb3An2qmcV2T6) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [マリーアン](https://open.spotify.com/album/2KOYRhDdqcjpzL6c80EUHS) | 2:37 | 2023-10-10 | 2023-11-01 |
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-01-23 | 2024-02-21 |
 | [一角獣](https://open.spotify.com/track/2ihyyQlw706XEuloPTgovZ) | [栢本ての](https://open.spotify.com/artist/3OlZOYziekMG8FbhtU1nTF) | [uni](https://open.spotify.com/album/6WJWDTpDK5Ni6GDX239uF9) | 3:51 | 2024-01-16 | 2024-01-24 |
+| [丘](https://open.spotify.com/track/5YTiEQOoG3PqoKj7IeyDfS) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [丘](https://open.spotify.com/album/2qWjqMRDMNfS570rMUrhbJ) | 4:10 | 2024-02-27 |  |
 | [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 | 2023-12-05 | 2023-12-07 |
-| [何もない日](https://open.spotify.com/track/6FCZwarxha0XHi78yj46SK) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [何もない日](https://open.spotify.com/album/6O06OGRhVQc2toEcc4ifQC) | 3:54 | 2024-02-20 |  |
+| [何もない日](https://open.spotify.com/track/6FCZwarxha0XHi78yj46SK) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [何もない日](https://open.spotify.com/album/6O06OGRhVQc2toEcc4ifQC) | 3:54 | 2024-02-20 | 2024-02-28 |
 | [傘](https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [傘](https://open.spotify.com/album/100ElNipKedqL4iTrDFMrx) | 3:03 | 2022-11-29 | 2022-12-07 |
 | [僕らの大移動](https://open.spotify.com/track/7qSocdyfuHkk56HZeen5XR) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [僕らの大移動](https://open.spotify.com/album/5IGdu1jBdM5CN1vRVOdHPI) | 4:25 | 2022-10-20 | 2022-11-09 |
 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 | 2022-10-20 | 2022-11-02 |
@@ -506,7 +509,7 @@
 | [微笑み](https://open.spotify.com/track/1hLTIAmQa2era3fKz1V17b) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [微笑み](https://open.spotify.com/album/0r6aAUaoXkkG0aNi2eNZIn) | 2:52 | 2023-10-31 | 2023-11-22 |
 | [恋のバネ](https://open.spotify.com/track/5gjrO7df7lZWszwE07LSTP) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [恋のバネ](https://open.spotify.com/album/3FXaTXzFzy17Vyhn90InBA) | 3:06 | 2023-06-27 | 2023-07-05 |
 | [恋焦がれ](https://open.spotify.com/track/2UWWPtVYqDMU3Dtp0zME5K) | [Baby Kiy](https://open.spotify.com/artist/1CNrTrXERkuBWYb8dtWl62) | [Love seasons](https://open.spotify.com/album/6ZDHv7FtiL3PqiIoCOiiaU) | 3:21 | 2023-07-04 | 2023-07-06 |
-| [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 |  |
+| [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 | 2024-02-28 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-23 | 2023-04-21 |
 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 | 2023-11-09 |  |
 | [明日晴れるかな](https://open.spotify.com/track/39vwAWSRjy6YrG38a32Hoq) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [THE COVERS EP \(vol.2\)](https://open.spotify.com/album/5TkmleREO95qshHJFSOoe9) | 4:51 | 2023-02-21 | 2023-03-01 |

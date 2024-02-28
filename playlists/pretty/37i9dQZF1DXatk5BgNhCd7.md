@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Kany García, Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,719 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,747 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
 | 2 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 |
-| 3 | [Vos no cambias más](https://open.spotify.com/track/5w4um7ov7psiRACd6FCbg6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Paola Lo](https://open.spotify.com/artist/2ht9to5iPbGfTpvY50rjuj), [Nick NDC](https://open.spotify.com/artist/7i39bzO8R1uYqxBJp5Trsr) | [Vos no cambias mas](https://open.spotify.com/album/1FhiVY3ZGamJOn1lCyzpoI) | 2:37 |
+| 3 | [Vos no cambias más](https://open.spotify.com/track/5w4um7ov7psiRACd6FCbg6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Paola Lo](https://open.spotify.com/artist/2ht9to5iPbGfTpvY50rjuj), [Nick NDC](https://open.spotify.com/artist/7i39bzO8R1uYqxBJp5Trsr), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vos no cambias mas](https://open.spotify.com/album/1FhiVY3ZGamJOn1lCyzpoI) | 2:37 |
 | 4 | [Celia](https://open.spotify.com/track/2ikqeL35cDP0R4Rrh0enU9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia](https://open.spotify.com/album/5sqZcxkoyxWmuQJNFoQ13M) | 4:03 |
 | 5 | [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 |
 | 6 | [Tramposa](https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Tramposa](https://open.spotify.com/album/4tPBqFk4ZeAzQ0mB8ZxUzX) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
 | 50 | [Mata \- Remix](https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Mata \(Remix\)](https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX) | 3:47 |
 
-Snapshot ID: `MCw0N2FmNjkyZjE2MTFmNDM0MTgzZTIxZmU0YThhYTkzZjY4MjUwNmFl`
+Snapshot ID: `MCwzNTc1ODQ4ZWM1ZTk5YjIwNzEyMzMxZmY2MDJlZTRmMTRlMDAxMTdj`

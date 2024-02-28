@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,746 likes - 157 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,811 likes - 157 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 156 | [Yeah](https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Yeah](https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN) | 3:17 |
 | 157 | [Country Love Song](https://open.spotify.com/track/5vELSiqWSrJTOLuj4lTiPS) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Country Love Song](https://open.spotify.com/album/56zZX11mnTd4gJwcHR2aQl) | 3:12 |
 
-Snapshot ID: `MCw1NDAzOTUxMTBmZDZiMTgxYWRhMmY5MDQ4MjU4ZTA3ZDFjYzgzMmM5`
+Snapshot ID: `MCwxOGZlNDNmNDcwYWJiYTFjMzVhMWUwOTY2MThhZjI3M2YwMjVjMmVk`

@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "BLUE LIGHTS",
+        "url": "https://open.spotify.com/album/5VmppbYGqYcCdy0Oz0MAMc"
+      },
+      "artists": [
+        {
+          "name": "XO STHLM",
+          "url": "https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "BLUE LIGHTS",
+      "url": "https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l"
+    },
+    {
+      "album": {
         "name": "Blurry Haze",
         "url": "https://open.spotify.com/album/3HHXh8kMMx26kJyp4aWtMg"
       },
@@ -474,6 +492,24 @@
       "duration_ms": 160000,
       "name": "Cap",
       "url": "https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H"
+    },
+    {
+      "album": {
+        "name": "Cap Martin",
+        "url": "https://open.spotify.com/album/4wnWbqu7ENe0H3b2w7FJSK"
+      },
+      "artists": [
+        {
+          "name": "Alta Piana",
+          "url": "https://open.spotify.com/artist/3M2f6pxSmhtK2u6Qh7U6Z4"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138214,
+      "name": "Cap Martin",
+      "url": "https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG"
     },
     {
       "album": {
@@ -2159,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Mont Boron",
+        "url": "https://open.spotify.com/album/4merpizOlILvHqO0ArbQtC"
+      },
+      "artists": [
+        {
+          "name": "Nina Walton",
+          "url": "https://open.spotify.com/artist/5w84I7vnbQeeVtEdR451j5"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Mont Boron",
+      "url": "https://open.spotify.com/track/13HLMMi5C7M6B7HX3kZSmg"
+    },
+    {
+      "album": {
         "name": "Mr. Panucci",
         "url": "https://open.spotify.com/album/0IhLZK0AiG2k9S0arqumQO"
       },
@@ -2682,6 +2736,24 @@
       "duration_ms": 168061,
       "name": "Primal View",
       "url": "https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM"
+    },
+    {
+      "album": {
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ"
+      },
+      "artists": [
+        {
+          "name": "Purple Smog",
+          "url": "https://open.spotify.com/artist/32T4i79ZuvzxjSochD6bgP"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2"
     },
     {
       "album": {

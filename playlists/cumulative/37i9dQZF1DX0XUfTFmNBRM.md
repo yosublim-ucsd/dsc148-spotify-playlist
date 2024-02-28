@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover \- Animal
 
-313 songs - 20 hr 42 min
+314 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Chhoti Si Aasha \- Version, 1](https://open.spotify.com/track/47U38LbRLzE76b6QOPZYtu) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Minmini](https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q) | [Roja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lORIs7BAIYVH7xxcXsUn7) | 4:57 | 2021-04-06 | 2021-04-12 |
 | [Chidiya](https://open.spotify.com/track/7mNZUnDWUDidWBFaUpVtOC) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/38J3178QtYOM7qQZLjQiIs) | 4:13 | 2021-01-25\* | 2021-04-06 |
 | [Chitta](https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat](https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9) | 3:48 | 2021-10-26 | 2022-05-20 |
-| [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-02-15 |  |
+| [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 | 2024-02-15 | 2024-02-28 |
+| [Chor](https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30) | 3:28 | 2024-02-22 |  |
 | [Dance Ka Bhoot \(From "Brahmastra"\)](https://open.spotify.com/track/5OcGETO7eEKjKme4gm0r7y) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dance Ka Bhoot \(From "Brahmastra"\)](https://open.spotify.com/album/4vOdoBnuF9sXjpRsofpJAv) | 4:05 | 2022-08-30 | 2023-02-16 |
 | [Dance Meri Rani](https://open.spotify.com/track/2Og3TvRiujRDfgnkmgaOhW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P) | [Dance Meri Rani](https://open.spotify.com/album/6IxNw3TC6ZD4dKiwTsAUQq) | 3:43 | 2022-01-03 | 2023-07-04 |
 | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/124jf3Uj8NOBismag9calO) | 3:30 | 2022-05-14 | 2022-12-20 |

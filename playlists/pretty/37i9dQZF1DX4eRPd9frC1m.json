@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2585892,
+  "num_followers": 2586097,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDZhYTk1NDA4YjczNDkyNDY5NTY0ZGFkZmY4ODY1MjBhOTdmZTU2",
+  "snapshot_id": "MCwwZDMxMGU2NDkzZjNmZjNiYzBhYzc4MDBjOTcyZTA0ODM4MDdmNmUy",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 316420,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Sacrificial",
         "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 316420,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Who's Laughing Now",
         "url": "https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 175448,
       "name": "Who's Laughing Now",
       "url": "https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2024-02-16 05:00:00",

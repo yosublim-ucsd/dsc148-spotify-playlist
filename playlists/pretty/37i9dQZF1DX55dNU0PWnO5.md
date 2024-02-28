@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,121 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,202 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 139 | [Space Waves](https://open.spotify.com/track/3SHF0PVsOLexwZZUnCSnFw) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Bubby Lewis](https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn) | [Virtual Essence](https://open.spotify.com/album/2Wh3ZYNaenEKTEStcOIbYJ) | 2:10 |
 | 140 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 |
 | 141 | [City Lights](https://open.spotify.com/track/12aJqPyNE7c5Uk7LaOjYEu) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [City Lights](https://open.spotify.com/album/4bNax53ytZXfubuArSeyAK) | 2:51 |
-| 142 | [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/61oebwxB0WaNdp7XtOpWVB) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Soulsea \(Cut Chemist Remix\)](https://open.spotify.com/album/1S2len228X3FrPQoL0t67o) | 2:23 |
+| 142 | [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/0pdbxmQUenzdyD61hF0OT0) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Remixes JID010](https://open.spotify.com/album/0KEppewXYdU5uYk6m3qTze) | 2:23 |
 | 143 | [Unforgettable \(Mike Casey Remix\)](https://open.spotify.com/track/08NbsNUNHo6BIqNk4laZSJ) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Law of Attraction: The Remixes](https://open.spotify.com/album/2kYSW1wMRdIQWFram635Yf) | 2:16 |
 | 144 | [Bonzai View](https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa) | 3:32 |
 | 145 | [Boundless Beings \- Georgia Anne Muldrow Remix](https://open.spotify.com/track/0CxGTuePboxHBwmmVsaKs1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Georgia Anne Muldrow](https://open.spotify.com/artist/20wtJ2UyRisp9KfLWEl9md) | [Boundless Beings \(Georgia Anne Muldrow Remix\)](https://open.spotify.com/album/5WKOFUndUyXw6S12TKQvMF) | 3:06 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCw3ZTg4MmNmZDQ3ZDFiYTBlY2VhYmZjOTg2M2QwMGQxNWU4OWQ3Zjll`
+Snapshot ID: `MCw1NjQ2YTE4NTQ3M2EzOTQ2MDdjMzZkM2VhMDRjZjY3OWZiZTIyNzRh`

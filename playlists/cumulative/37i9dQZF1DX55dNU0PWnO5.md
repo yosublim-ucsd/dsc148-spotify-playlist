@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-396 songs - 1 day 0 hr 8 min
+397 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [SMOOTHMAN](https://open.spotify.com/track/11hGsS7TQItVKS4eue6b4C) | [ScrewStache](https://open.spotify.com/artist/07a5aC3ZBAnsySXGEMhXe1) | [NEXUS Z](https://open.spotify.com/album/5RkhLrRWnYGK6ZZ5JF6Ric) | 2:03 | 2021-07-23 |  |
 | [Smoothman](https://open.spotify.com/track/4TNryKx5swcMlRv6wfdyCk) | [ScrewStache](https://open.spotify.com/artist/07a5aC3ZBAnsySXGEMhXe1) | [Smoothman](https://open.spotify.com/album/1AO9kGFt0AmFjz1kGXkoOg) | 2:03 | 2021-07-19 | 2022-04-21 |
 | [Sombra Bajo El Limero](https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Sombra Bajo El Limero](https://open.spotify.com/album/1l2pU8jmFRH9TsgF8H64UX) | 3:02 | 2022-09-02 |  |
-| [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/61oebwxB0WaNdp7XtOpWVB) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Soulsea \(Cut Chemist Remix\)](https://open.spotify.com/album/1S2len228X3FrPQoL0t67o) | 2:23 | 2021-12-03 |  |
+| [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/0pdbxmQUenzdyD61hF0OT0) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Remixes JID010](https://open.spotify.com/album/0KEppewXYdU5uYk6m3qTze) | 2:23 | 2021-12-03 |  |
+| [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/61oebwxB0WaNdp7XtOpWVB) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Soulsea \(Cut Chemist Remix\)](https://open.spotify.com/album/1S2len228X3FrPQoL0t67o) | 2:23 | 2021-12-03 | 2024-02-28 |
 | [Soulsea \- Cut Chemist Remix](https://open.spotify.com/track/7w7pSGtnp1XyEdQ4ik1SfN) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [Soulsea \(Cut Chemist Remix\)](https://open.spotify.com/album/3U0P9yntVMeANPGb4HLSzs) | 2:23 | 2021-11-05 | 2022-07-29 |
 | [Space 3](https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 3](https://open.spotify.com/album/4Z5hSkWEc9MuQUZ0HArRij) | 1:15 | 2021-08-20 | 2022-07-27 |
 | [Space 3](https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 1:15 | 2021-08-20 |  |

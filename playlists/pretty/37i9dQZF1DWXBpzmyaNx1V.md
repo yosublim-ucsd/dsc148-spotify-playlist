@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,679 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,654 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 21 | [The Gods Must Be Crazy](https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:00 |
 | 22 | [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 |
 | 23 | [Pontiac 87](https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [The Agent Intellect](https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V) | 4:31 |
-| 24 | [Living Room](https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:05 |
-| 25 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 |
+| 24 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 |
+| 25 | [Living Room](https://open.spotify.com/track/5XCyxMLMuakvS94W6iqLBw) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:05 |
 | 26 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 |
 | 27 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 |
 | 28 | [Soundcheck](https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:56 |
 | 29 | [Take Me Apart](https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 4:02 |
 | 30 | [I Keep A Mirror In My Pocket](https://open.spotify.com/track/22QvEX17f3D7vaGCg4mxr8) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:43 |
-| 31 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
-| 32 | [Anthem for No State, Pt\. II](https://open.spotify.com/track/60CD8gYJbH3VbsVWKA2jXB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 2:55 |
+| 31 | [Anthem for No State, Pt\. II](https://open.spotify.com/track/60CD8gYJbH3VbsVWKA2jXB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 2:55 |
+| 32 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 |
 | 33 | [Coral](https://open.spotify.com/track/1TzgHCMILGjUyGA4EpWM3g) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Pez](https://open.spotify.com/album/4NXP3aNRLfVxa76RN6iHqb) | 4:21 |
 | 34 | [Anónima](https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 4:37 |
 | 35 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 64 | [Ascenso \- Descenso](https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 4:54 |
 | 65 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
 
-Snapshot ID: `MCw5NWRjYzdjNzgyYzBiODNlM2ZlNTUwNDk5ZTk2Nzc5ZGI0NTZlM2Q5`
+Snapshot ID: `MCxjMDRhYmY5NDZmNmVkN2E1ZTJmNmE3MzdhN2RmNTBkZTIwZTdlZTAw`

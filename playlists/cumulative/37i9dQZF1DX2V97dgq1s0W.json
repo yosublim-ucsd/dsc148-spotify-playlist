@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "Beautifully chilled vocals from around the world. Cover: Hiatus Kaiyote",
+  "description": "Beautifully chilled vocals from around the world. Cover: Jaz Karis & Tone Stith",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 185295,
       "name": "ASMR",
       "url": "https://open.spotify.com/track/3j1Vy6c6Ii9WZMbToQLLPX"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 207386,
       "name": "Beautiful Day [Feat. PJ Morton]",
       "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
@@ -608,6 +608,50 @@
       "duration_ms": 150720,
       "name": "Blind",
       "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+    },
+    {
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/28TP6aTijewWST9QGFvwkO"
+      },
+      "artists": [
+        {
+          "name": "Summer Banton",
+          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174409,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/0DAttm4G157xCPhzrCeH4t"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
+        "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352106,
+      "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
+      "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
     },
     {
       "album": {
@@ -1458,7 +1502,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 139806,
       "name": "Geneva",
       "url": "https://open.spotify.com/track/6MfdiBcMY5fBesnot16oPE"
@@ -1836,7 +1880,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 189740,
       "name": "How Soon",
       "url": "https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP"
@@ -1967,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "If you let me",
+        "url": "https://open.spotify.com/album/2Ncj5WDQPFMwjtWyGBJS1a"
+      },
+      "artists": [
+        {
+          "name": "Neya",
+          "url": "https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "If you let me",
+      "url": "https://open.spotify.com/track/59nJMmHpgREY0J6yrYZdTO"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4BNWQHeEVxxrTJHEALtsnP"
       },
@@ -2090,7 +2152,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 142041,
       "name": "Is It A Crime?",
       "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
@@ -2152,7 +2214,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 225533,
       "name": "It\u2019s Not Me, It\u2019s You (feat. Destin Conrad)",
       "url": "https://open.spotify.com/track/7qRkBhv08elpNW6tWRMTS9"
@@ -2170,7 +2232,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 207499,
       "name": "Je me souviens de tout",
       "url": "https://open.spotify.com/track/0iqI9wMmP6EQsiIc7MDezv"
@@ -2358,7 +2420,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 164053,
       "name": "Let's Talk About It",
       "url": "https://open.spotify.com/track/7ndcbnVmqORhDBMA0VPt4W"
@@ -2640,10 +2702,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
+        "name": "Made For Me (Soul Train Performance Live)",
+        "url": "https://open.spotify.com/album/3rhtJIUiZIxNmKYpMkfoMG"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208297,
+      "name": "Made For Me - Soul Train Performance Live",
+      "url": "https://open.spotify.com/track/0avIl6Ss5Xa4ybAc3kup4g"
     },
     {
       "album": {
@@ -2750,6 +2830,28 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
+    },
+    {
+      "album": {
+        "name": "MET YOU AT A BAR",
+        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "MET YOU AT A BAR",
+      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
     },
     {
       "album": {
@@ -2962,7 +3064,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 173483,
       "name": "No Way",
       "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
@@ -3002,6 +3104,28 @@
       "duration_ms": 176456,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM"
+    },
+    {
+      "album": {
+        "name": "Nothing On You",
+        "url": "https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Nothing On You",
+      "url": "https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7"
     },
     {
       "album": {
@@ -3067,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Love's Letter",
+        "url": "https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250462,
+      "name": "Oh, Wait...",
+      "url": "https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -3100,6 +3242,28 @@
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
+    },
+    {
+      "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155355,
+      "name": "One Of Them Days (feat. Monica)",
+      "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"
     },
     {
       "album": {
@@ -3447,6 +3611,28 @@
     },
     {
       "album": {
+        "name": "RASTA PASTA (ft. Masego)",
+        "url": "https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm"
+      },
+      "artists": [
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250769,
+      "name": "RASTA PASTA (ft. Masego)",
+      "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
+    },
+    {
+      "album": {
         "name": "Rather Be - A COLORS SHOW",
         "url": "https://open.spotify.com/album/26mnnYRytUIk73g0SXmJT2"
       },
@@ -3615,6 +3801,28 @@
     },
     {
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "album": {
         "name": "Run Through Fire",
         "url": "https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE"
       },
@@ -3691,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195887,
+      "name": "Safe House",
+      "url": "https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu"
+    },
+    {
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/1FV0FZQ4aFnt1HkpNRL2o4"
       },
@@ -3706,6 +3932,46 @@
       "duration_ms": 215960,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/5Lw5G1npf7nzIpLZIedTsj"
+    },
+    {
+      "album": {
+        "name": "SAME MISTAKE",
+        "url": "https://open.spotify.com/album/41EmgJAJQInxILfagQ608k"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "SAME MISTAKE",
+      "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
+    },
+    {
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "album": {
@@ -3746,6 +4012,24 @@
       "duration_ms": 179347,
       "name": "Say You Love Me",
       "url": "https://open.spotify.com/track/1Eb5sgD4IlFTpKzuA5R1Ew"
+    },
+    {
+      "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/7izEEgKSE68Vgznxb6dCrW"
+      },
+      "artists": [
+        {
+          "name": "BHUMBLE",
+          "url": "https://open.spotify.com/artist/1lLZSPeW3zUzXfHA3r8RzH"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196298,
+      "name": "Selfless",
+      "url": "https://open.spotify.com/track/63iiZMYk6TuvBROKhwznjF"
     },
     {
       "album": {
@@ -3790,7 +4074,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 152610,
       "name": "Shame (with Elmiene)",
       "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
@@ -4275,6 +4559,28 @@
     },
     {
       "album": {
+        "name": "the one",
+        "url": "https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE"
+      },
+      "artists": [
+        {
+          "name": "NGE-THE-PRODUCER",
+          "url": "https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS"
+        },
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB"
+    },
+    {
+      "album": {
         "name": "The Process",
         "url": "https://open.spotify.com/album/0cV67XvouTlEbAWb31q3vM"
       },
@@ -4351,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Thinking Less",
+        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Thinking Less",
+      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
@@ -4406,10 +4730,36 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 258023,
       "name": "Through The Night (feat. Free Nationals)",
       "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
+    },
+    {
+      "album": {
+        "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
+        "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
+      },
+      "artists": [
+        {
+          "name": "Kitty Ca$h",
+          "url": "https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
+      "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
     },
     {
       "album": {
@@ -4518,7 +4868,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
@@ -4597,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "album": {
         "name": "Watch It Grow (feat. Sevyn Streeter)",
         "url": "https://open.spotify.com/album/1HotRLNhfRzXIFmtjGFaUo"
       },
@@ -4630,7 +4998,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

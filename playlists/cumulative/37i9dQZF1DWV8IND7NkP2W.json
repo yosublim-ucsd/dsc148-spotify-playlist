@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "BON-KNOW pt.2 -\u6c34-",
+        "url": "https://open.spotify.com/album/16sA3EDpr1l0WMTSBqtR2m"
+      },
+      "artists": [
+        {
+          "name": "BON-SAN",
+          "url": "https://open.spotify.com/artist/6qqHyz9zY7NDLUlfnHy667"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49870,
+      "name": "ein pt.1",
+      "url": "https://open.spotify.com/track/2ojSQNaLN9sX00jfpfxGNT"
+    },
+    {
+      "album": {
         "name": "ema",
         "url": "https://open.spotify.com/album/7eOizuifiVV6kRU2tbTiiQ"
       },
@@ -6292,7 +6310,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
@@ -7676,6 +7694,24 @@
       "duration_ms": 91964,
       "name": "Moon Prairie",
       "url": "https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0"
+    },
+    {
+      "album": {
+        "name": "Moon Walk",
+        "url": "https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174578,
+      "name": "Moon Walk",
+      "url": "https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8"
     },
     {
       "album": {
@@ -12210,7 +12246,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 92696,
       "name": "Tokyo Mornings",
       "url": "https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7"

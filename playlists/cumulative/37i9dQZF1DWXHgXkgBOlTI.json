@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 247509,
       "name": "Horns Riot",
       "url": "https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 298200,
       "name": "N\u00b09",
       "url": "https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
@@ -1282,6 +1282,24 @@
       "duration_ms": 302573,
       "name": "Vanish, Memoria",
       "url": "https://open.spotify.com/track/0aEiY6DWhcVpj4dLtR8GJq"
+    },
+    {
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
       "album": {

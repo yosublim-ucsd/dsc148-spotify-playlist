@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:7zpvy5B9gb5KprNUzNCOEE">Miel San Marcos</a> y <a href="spotify:artist:4fdCGYM7dtJLa3LvR1ccto">Gabriela Rocha</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,112 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,360 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 11 | [La Sangre \(Himno\)](https://open.spotify.com/track/4sFAH2K79ZmGGFWo1uzJks) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Hogar](https://open.spotify.com/album/1xJ3lLHzbkjnlshDcrNYYu) | 4:47 |
 | 12 | [Amén](https://open.spotify.com/track/2lgIUOpqLN1UkuL0FPtx8b) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Amén](https://open.spotify.com/album/4hq3lJ31SDyRv77CyIhkQL) | 3:28 |
 | 13 | [Escribiré Mil Canciones \- En Vivo](https://open.spotify.com/track/55TUouCJcLtMv48ICfl2Z2) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cuatro De Mil Canciones \(En Vivo\)](https://open.spotify.com/album/575hskopo7G2nAaIGjRlQz) | 4:27 |
-| 14 | [Fiel \- acústico](https://open.spotify.com/track/7u7Q386Vqlm9njO8juFuZv) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Fiel \(acústico\)](https://open.spotify.com/album/7J6iYlRrhQeG4NawBxc1U8) | 5:10 |
+| 14 | [Fiel \- Acústico](https://open.spotify.com/track/7u7Q386Vqlm9njO8juFuZv) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Fiel \(Acústico\)](https://open.spotify.com/album/7J6iYlRrhQeG4NawBxc1U8) | 5:10 |
 | 15 | [Jehová Jireh](https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jehová Jireh](https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK) | 5:36 |
 | 16 | [Eternidad](https://open.spotify.com/track/1lVEmf7WKmN1YnhppRRTCb) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Causas Perdidas](https://open.spotify.com/album/1g8lAVXsPBRZpiwHAHEehk) | 3:24 |
 | 17 | [Mi Salvador](https://open.spotify.com/track/4gXN01KSnEQ0WEDfhtMHq4) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Mi Salvador](https://open.spotify.com/album/2RBWWPCnOTzoOsxkrElOeZ) | 5:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [El Rey Judío](https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [El Rey Judío](https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN) | 5:33 |
 | 100 | [Aún Sin Entender](https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Adorando Entre Amigos](https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o) | 6:00 |
 
-Snapshot ID: `MCwyNzZjOGNhNjI1YTRhNDQxNjdjMTkwMDgwYjNjNmNiMWY1ZDYzYmRl`
+Snapshot ID: `MCw2NzVlOTNlODBkNmRmYjk2MjJkZWY1MDkwYjg5ODM5YmQ5ZWE0MzUw`

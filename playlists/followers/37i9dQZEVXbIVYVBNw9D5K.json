@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 820974,
+  "2024-02-28": 821038,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -711,7 +711,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
@@ -893,6 +893,28 @@
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
+    },
+    {
+      "album": {
+        "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
+        "url": "https://open.spotify.com/album/0Sqh3MjGZAPBLLheEYxxq4"
+      },
+      "artists": [
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149642,
+      "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
+      "url": "https://open.spotify.com/track/4prkrtPoc702AKjtC7fLZx"
     },
     {
       "album": {
@@ -3283,7 +3305,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 175352,
       "name": "Bu Gece Karakolluk Olabilirim",
       "url": "https://open.spotify.com/track/2XY8epv0D64xqErIL21PJx"
@@ -6163,7 +6185,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"

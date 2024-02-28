@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New age songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,655 likes - 55 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,724 likes - 55 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 35 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
 | 36 | [Black Girl Magik](https://open.spotify.com/track/0HySqY4mqaAlWhRcMDak80) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nicole Gumbe](https://open.spotify.com/artist/2copAhE8UwBfOiTskZs3eE) | [Birds And The BEE9](https://open.spotify.com/album/2fKFzdbq2J1OrCrae8Xd2O) | 3:41 |
 | 37 | [Be Free](https://open.spotify.com/track/2EaLdet3BlhjWesZUHU7Cr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Be Free](https://open.spotify.com/album/3ZnKEtc2g2JJaeXeRCJhy3) | 4:01 |
-| 38 | [Light on the Horizon](https://open.spotify.com/track/2cxBZr3STgnWM6am5gfHrT) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/3IIjxbGPKgcNDdYQTPbOoN) | 3:06 |
+| 38 | [Light On The Horizon](https://open.spotify.com/track/2J0QbuwxuiZtFQ4YuaVgpc) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The American Negro](https://open.spotify.com/album/5OGFAkLobCmlwME9D42ynN) | 3:06 |
 | 39 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 |
 | 40 | [I Don't Know Justice](https://open.spotify.com/track/4TXquGO67DyvrnURmwQ08l) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Praise and Protest](https://open.spotify.com/album/5wU3uNmNLd7crGbr8yM175) | 4:41 |
 | 41 | [Say Her Name \(Hell You Talmbout\)](https://open.spotify.com/track/6ojXPuvXFL68e5FFyWbEC1) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Say Her Name \(Hell You Talmbout\)](https://open.spotify.com/album/0UFTfooXMHcGSU2UxKJYio) | 17:42 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 54 | [RUN \(feat\. Young Thug\)](https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:45 |
 | 55 | [Just Us](https://open.spotify.com/track/3qtsAky6G5DJkmVvGL0Gx1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Worship & Justice](https://open.spotify.com/album/4MEVPrIwFmSlRh5MWHH0J8) | 5:56 |
 
-Snapshot ID: `MCxjMWNhOWVlM2E0ODJkNjFmMjNjZWIzN2FhODc5YmU0YWRhMDk2NjBl`
+Snapshot ID: `MCw1NDI0N2JkZWY1NGY5YzZkNmU0OTkyZjNlMzJkZmZmNmIxM2QxNTQx`

@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-57 songs - 3 hr 18 min
+58 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [PAINT](https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [PAINT](https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y) | 3:28 | 2023-08-23 |  |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-23 |  |
 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 | 2023-08-23 |  |
+| [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-02-28 |  |
 | [Shining ray](https://open.spotify.com/track/2jxiuMVIyPeDeHP9qne6BJ) | [Janne Da Arc](https://open.spotify.com/artist/17OoiwOfChkOVxbqaLzB1W) | [ANOTHER STORY](https://open.spotify.com/album/7HCy1UvD6nkIMorKPYC1Nc) | 3:58 | 2023-08-23 |  |
 | [Wake up!](https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2) | [AAA](https://open.spotify.com/artist/1AyWsgtaIgXbzjJlTx2ZDp) | [GOLD SYMPHONY](https://open.spotify.com/album/2K4rdeEWAiU0CgqI8XXdjR) | 3:43 | 2023-08-23 |  |
 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-01-07 |  |
@@ -43,7 +44,7 @@
 | [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 | 2023-08-23 |  |
 | [カタクリのテーマ](https://open.spotify.com/track/2WWc5nAx3baWLnZRH251SA) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 2:37 | 2023-08-23 | 2024-01-26 |
 | [ココロのちず](https://open.spotify.com/track/281YQGSeSsRpPgKjWEnyDp) | [BOYSTYLE](https://open.spotify.com/artist/5DTWsxuQv9Sb9QszMjUQZT) | [ココロのちず](https://open.spotify.com/album/1ZfdO4WpyRXad4BEhftN7x) | 4:23 | 2023-08-23 |  |
-| [コロシアムでの戦闘](https://open.spotify.com/track/6nkNjCS7JJrRjEIy07kDgu) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:08 | 2023-08-23 |  |
+| [コロシアムでの戦闘](https://open.spotify.com/track/6nkNjCS7JJrRjEIy07kDgu) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:08 | 2023-08-23 | 2024-02-28 |
 | [ヒカリへ](https://open.spotify.com/track/226aIqHPRKcxtrz7kpJLvw) | [The BabyStars](https://open.spotify.com/artist/1mj0NmmfWyzHsJsmWyBtge) | [ベビスタ](https://open.spotify.com/album/1i79L0SNJ3OUMBgLLf01Vp) | 3:43 | 2023-08-23 |  |
 | [ビンクスの酒](https://open.spotify.com/track/0GTBuk8CRs2ra4KNK5r0lC) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b), [KAZBONGO](https://open.spotify.com/artist/6nvDGAhoidfJLJkCZuewDY) | [ONE PIECE Arrange Collection \(EDM\)](https://open.spotify.com/album/1rPBgOa02pHRy3sOvdW5Hf) | 3:27 | 2023-08-23 |  |
 | [ビンクスの酒 \- \~ロジャー海賊団ver.\~](https://open.spotify.com/track/1t5zysJLU50ZKjPZJLWuAx) | [ロジャー海賊団](https://open.spotify.com/artist/532HkDcY5YJUqlLYottRbJ) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 3:19 | 2023-08-23 |  |

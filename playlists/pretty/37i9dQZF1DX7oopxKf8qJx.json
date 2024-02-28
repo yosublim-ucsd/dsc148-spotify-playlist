@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 84210,
+  "num_followers": 84277,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQzZGUzMjY1NzU1OThjNDY1NjMwODQ4M2FmOGQ3Y2Y5OWYwOTQ4",
+  "snapshot_id": "MCxkNTA0YTE5MTVhY2M4ODcwMzkzNzQxNmFkNjNmNjFjMTgzMWE2NjUy",
   "tracks": [
     {
       "added_at": "2024-02-22 08:48:31",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Till",
-        "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "The High And The Mighty",
-      "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Latin Hits I Missed",
         "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 133813,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Till",
+        "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "The High And The Mighty",
+      "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Strings Latino",
         "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 192666,
       "name": "A Felicidade",
       "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -519,26 +519,18 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
       "artists": [
         {
-          "name": "Robert Maxwell",
-          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
-        },
-        {
-          "name": "Carl Sigman",
-          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
         }
       ],
-      "duration_ms": 217266,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -575,18 +567,26 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
       "artists": [
         {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+          "name": "Robert Maxwell",
+          "url": "https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB"
+        },
+        {
+          "name": "Carl Sigman",
+          "url": "https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+      "duration_ms": 217266,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Paris When It Sizzles",
-        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "A Band Is Born",
         "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205173,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Paris When It Sizzles",
+        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -755,18 +755,22 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "The Joy Of Living",
-        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
+        "name": "Pops Goes West",
+        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 169160,
-      "name": "The Joy Of Living",
-      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
+      "duration_ms": 127986,
+      "name": "Buttons and Bows",
+      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -819,22 +823,18 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Pops Goes West",
-        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
+        "name": "The Joy Of Living",
+        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
       },
       "artists": [
         {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 127986,
-      "name": "Buttons and Bows",
-      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
+      "duration_ms": 169160,
+      "name": "The Joy Of Living",
+      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Big Band Bash!",
         "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 225226,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Hey...Let Yourself Go!",
+        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
     },
     {
       "added_at": "2024-02-22 08:48:31",

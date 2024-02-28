@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 
 > All the Latin hits that have graced the top of the charts\. Cover: Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,806 likes - 19 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,830 likes - 19 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 | 18 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
 | 19 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 
-Snapshot ID: `MCw0YTkxYWVhODEzNTIyOGFlMzk4MjQ2MDk1ZjczYzU2NWJhNWE5MThk`
+Snapshot ID: `MCw1ZTQ5NzE2OGE3N2MzMWMyNGFiODllZDk0NmFkOTVhMjk4MjQ3NjNi`

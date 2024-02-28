@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Allie X
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,086 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,441 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [Pretty Little Addict](https://open.spotify.com/track/5n59pNtDnIQeGj3EgLjqgP) | [Haiden Henderson](https://open.spotify.com/artist/1W38DrqpOogOL8IcILB9bX) | [Pretty Little Addict](https://open.spotify.com/album/2WtrBqmfYs3OJlMnCPjoUS) | 2:47 |
 | 75 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 
-Snapshot ID: `MCwzNGM5OGI1M2ExNTIzZjYzYTUyZTlkODA5MzY1YzBlNTlhZWVlMzg1`
+Snapshot ID: `MCwwYTI1OTNmZTEzMzIxNzFhMGVlMzZhNTRjZGI1Y2IwZTYzNmI3NWM5`

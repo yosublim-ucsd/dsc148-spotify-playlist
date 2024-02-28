@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,476 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,516 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 88 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 | 89 | [Alguien Como Tú](https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Cielo](https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet) | 3:08 |
 | 90 | [No, No](https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [No, No](https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe) | 2:56 |
-| 91 | [Como Siempre](https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Jota Brother](https://open.spotify.com/artist/25IVywaI7Vt98ZeVW3LrYr), [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [Como Siempre](https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh) | 5:41 |
-| 92 | [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 |
+| 91 | [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 |
+| 92 | [Como Siempre](https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Jota Brother](https://open.spotify.com/artist/25IVywaI7Vt98ZeVW3LrYr), [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [Como Siempre](https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh) | 5:41 |
 | 93 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 | 94 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
 | 95 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
-| 96 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
-| 97 | [Amor de Hermano](https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Tu Siervo Pa](https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8) | 5:10 |
+| 96 | [Amor de Hermano](https://open.spotify.com/track/3E1ThoX0j8BvY09CmjlEsO) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Tu Siervo Pa](https://open.spotify.com/album/2UdbIIyXUaN65csaScYVq8) | 5:10 |
+| 97 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
 | 98 | [Soy Tan Feliz](https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Soy Tan Feliz](https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap) | 4:26 |
 | 99 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
 | 100 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
 
-Snapshot ID: `MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3`
+Snapshot ID: `MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj`

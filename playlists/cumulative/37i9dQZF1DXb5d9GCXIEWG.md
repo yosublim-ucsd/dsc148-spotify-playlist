@@ -4,7 +4,7 @@
 
 > Featuring Bizarrap, Young Miko, Ozuna & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-20 songs - 1 hr 2 min
+21 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [ARCHIVO 1.wav](https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [CARPETA DE VERANO \(VOL\. 1\)](https://open.spotify.com/album/09rh3FOkytsok3CPyKuRSh) | 2:18 | 2024-01-26 |  |
 | [Calentamiento Global](https://open.spotify.com/track/5p4pDN2Wm8R8PJHG0OcbOr) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [RealG4Life Vol\. 4](https://open.spotify.com/album/1xYN8n1zN2OuAL2VCrWDTx) | 3:15 | 2024-01-26 |  |
 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-26 |  |
-| [Dinero Fácil](https://open.spotify.com/track/4o3Xk7lKq1PoEDF98OMWKD) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Dinero Fácil](https://open.spotify.com/album/098ty8k4cheg7Y4zTfzdrN) | 4:04 | 2024-01-26 |  |
+| [Dinero Fácil](https://open.spotify.com/track/0OOacc4DFMTzOiOOG9pREe) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [PREDESTINACION](https://open.spotify.com/album/6f5lmk4XJVWbDPKGsjLEf8) | 4:04 | 2024-01-26 |  |
+| [Dinero Fácil](https://open.spotify.com/track/4o3Xk7lKq1PoEDF98OMWKD) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Dinero Fácil](https://open.spotify.com/album/098ty8k4cheg7Y4zTfzdrN) | 4:04 | 2024-01-26 | 2024-02-28 |
 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 | 2024-01-26 |  |
 | [Europeo](https://open.spotify.com/track/1KybKqQzwGEsE2ahEHsx1P) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [H.10](https://open.spotify.com/album/0JIaqJlYOhS8I2qIYAXHbl) | 3:09 | 2024-01-26 |  |
 | [LA DROGA](https://open.spotify.com/track/67ACYA3UI6QMNtHX6b34wX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 | 2024-01-26 |  |

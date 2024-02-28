@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: KZ Tandingan",
-  "num_followers": 2401923,
+  "num_followers": 2402303,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGY0OWYyN2UzODAzZmE3ZTI0NDBlNDZhNmZkYmE4ZmEwOTBmZGYw",
+  "snapshot_id": "MCxkNmJhMDA0NTQxNTY3ODFlMjIzYjdjOWUzNmI5MzdmZjQ4NGYwMjdl",
   "tracks": [
     {
       "added_at": "2024-01-31 04:16:32",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Fuchsiang Pag-Ibig",
-        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+        "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 306466,
-      "name": "Ikaw Lamang",
-      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Bigotilyo",
-        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
+        "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+      "duration_ms": 306466,
+      "name": "Ikaw Lamang",
+      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 285138,
-      "name": "Sa Ngalan Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 349750,
       "name": "Mundo",
       "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 285138,
+      "name": "Sa Ngalan Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
     },
     {
       "added_at": "2024-01-31 04:16:32",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2024-01-31 04:16:32",
+      "album": {
         "name": "Beyond Acoustic",
         "url": "https://open.spotify.com/album/5eMocdxlmX2odxGITRmIGZ"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
-    },
-    {
-      "added_at": "2024-01-31 04:16:32",
-      "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-01-31 04:16:32",
       "album": {
-        "name": "panaginip",
-        "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
+        "name": "Mahika",
+        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
       },
       "artists": [
         {
-          "name": "iluna",
-          "url": "https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         }
       ],
-      "duration_ms": 332406,
-      "name": "panaginip",
-      "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
+      "duration_ms": 210586,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
     }
   ],
   "unique_name": "OPM Favorites",

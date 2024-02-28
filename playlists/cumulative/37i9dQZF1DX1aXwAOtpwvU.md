@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-133 songs - 6 hr 38 min
+135 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Haribo](https://open.spotify.com/track/1tsdI9LIUwxbCNiBPotSTx) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Haribo](https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH) | 3:03 | 2022-08-26 | 2022-09-24 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-16 | 2023-11-11 |
 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 | 2022-08-26 |  |
-| [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 | 2023-05-16 |  |
+| [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 | 2023-05-16 | 2024-02-28 |
+| [kartki](https://open.spotify.com/track/2eNEAWwAf32hte1Njp9xiF) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/1KPV9ruEJUJziXAj9I8VKI) | 2:30 | 2024-02-02 |  |
 | [Kokieterka](https://open.spotify.com/track/0yqCYvPXP2p6Uh9vKhkq7P) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Kokieterka](https://open.spotify.com/album/27kx8IlI2tZ5yu6UDx3DES) | 2:21 | 2022-08-26 | 2023-04-15 |
 | [kraksa](https://open.spotify.com/track/5NHrQlml5DG2JIYsIS1pMY) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [\[moja ciemność\]²](https://open.spotify.com/album/2Lw0wggQKFlULJY32KpPMa) | 2:52 | 2023-02-06 | 2023-09-02 |
 | [Kruszysz](https://open.spotify.com/track/5c3QbtxY4DBPT7FET6PE2A) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Kruszysz](https://open.spotify.com/album/2KnwvbHPgEEajYjNwwHPxv) | 3:54 | 2023-03-13 | 2023-05-17 |
@@ -98,7 +99,8 @@
 | [Peter Pan](https://open.spotify.com/track/59CaZAXx7Qorn2KGjxvsCc) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [PARANOJE](https://open.spotify.com/album/7rSEyUq8J0e0jVMakQ07ps) | 3:56 | 2023-05-16 |  |
 | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/album/08q8H2kQRgUlfdtkLsde84) | 4:29 | 2023-11-10 |  |
 | [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 | 2022-08-26 |  |
-| [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 | 2023-05-16 |  |
+| [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 | 2023-05-16 | 2024-02-28 |
+| [Poker](https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7FWuvpwtVgLsMlg85KPG9A) | 1:46 | 2024-02-02 |  |
 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 | 2022-08-26 |  |
 | [Promise](https://open.spotify.com/track/3keO1p1cfYkxgNGTIjAbMv) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 4:15 | 2022-08-26 | 2023-10-06 |
 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 | 2023-02-06 |  |

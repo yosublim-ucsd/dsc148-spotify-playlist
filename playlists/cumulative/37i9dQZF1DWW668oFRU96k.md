@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Mesto x WILHELM
 
-878 songs - 1 day 19 hr 38 min
+879 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Stay Awake](https://open.spotify.com/track/4egYAICy376pkDwkI11jW0) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Stay Awake](https://open.spotify.com/album/5v4JMvUT1JClctPSkscnJR) | 3:40 | 2023-11-30 | 2024-01-05 |
 | [Stay High \- Zerb Remix](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High \(Zerb Remix\)](https://open.spotify.com/album/3WNwoy8cC9kcksFSf4d0kM) | 3:07 | 2024-01-25 |  |
 | [Stay With Me](https://open.spotify.com/track/1rSujs3MEWh6iowIgrgDvV) | [JustNgoc](https://open.spotify.com/artist/4sLtfiU2XkXsI8CJj9gj1x), [Phanhung](https://open.spotify.com/artist/3Yz0ljszozULd1CNheVw30), [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [Stay With Me](https://open.spotify.com/album/3L6pQ5UuYzdWpKoCr7cMFK) | 3:05 | 2023-02-09 | 2023-03-03 |
+| [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-22 |  |
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2023-08-31 | 2023-10-27 |
 | [Still Fall](https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Still Fall](https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f) | 3:29 | 2023-11-30 | 2024-01-12 |
 | [Still Holding Me](https://open.spotify.com/track/246q6t2twFFwNbNJt4cBgC) | [ILURO](https://open.spotify.com/artist/73BWaJ2QBzDrBjeCnhBzE1), [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j), [Sober Chow](https://open.spotify.com/artist/2BGi0t7XS0pDdmTPilGIe8), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Still Holding Me](https://open.spotify.com/album/1HCQtOhDXm9Z5GRl3HHhy1) | 2:40 | 2023-12-08 | 2024-01-12 |

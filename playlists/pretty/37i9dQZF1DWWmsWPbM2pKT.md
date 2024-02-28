@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,796 likes - 110 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,084 likes - 110 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 92 | [Comfort of the Void](https://open.spotify.com/track/0hBMXdq7TT0fxHi7mfeAMT) | [Give My Remains to Broadway](https://open.spotify.com/artist/6Xk78EyrGe8jXw4JuxbQVx) | [Beyond the Gates of Xouztoth](https://open.spotify.com/album/5NqNKmc7NJoyABSn3wmRum) | 2:25 |
 | 93 | [Failures](https://open.spotify.com/track/4C6213duKDGTzoFmpkqtLR) | [DECEITS](https://open.spotify.com/artist/7DwVOsVpXsANbs3cHOs6zh) | [Failures](https://open.spotify.com/album/1dTQ4GJyRvNrkAjRjnoeh7) | 3:00 |
 | 94 | [Syndrome](https://open.spotify.com/track/0XGOz64pn3NWBHJie7HhpI) | [Antipole](https://open.spotify.com/artist/0XAhl52vBWh87XxU3urEjA), [Paris Alexander](https://open.spotify.com/artist/6wQVB6Evr0IYhAwt5wuqhB) | [Radial Glare](https://open.spotify.com/album/1GcJl0i8C78J9okwrNtocv) | 3:09 |
-| 95 | [Fell In Love With A Ghost](https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Fell In Love With A Ghost](https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa) | 3:45 |
+| 95 | [Fell In Love With A Ghost \(OG Gvllow Mix\)](https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Fell In Love With A Ghost \(OG Gvllow Mix\)](https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa) | 3:45 |
 | 96 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 |
 | 97 | [Mirror Twin](https://open.spotify.com/track/45wU0gt5K1RGPGqfhP71Vx) | [Harsh Symmetry](https://open.spotify.com/artist/2iw3bPHWeP872IeCAk2JmR) | [Mirror Twin](https://open.spotify.com/album/7vp0nLwMqpXKYHaGcovydU) | 3:45 |
 | 98 | [Forever](https://open.spotify.com/track/0KRAQpoakCf6ngwMTZIwfJ) | [Trit95](https://open.spotify.com/artist/03Iz2T21dJ2qZqYFLmJGt1) | [Forever](https://open.spotify.com/album/3uk6ar08tBClrLIgNAFZRf) | 2:12 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 109 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 110 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCw0NDkzM2RiMjIzNDYzYjAzMzI4ZGRhNjc4ODlkMjBhMTc2YTc1NjU2`
+Snapshot ID: `MCxiMmExNGFiNGFjNDE4YzRlYmQ2MTk1YTFhOWU1NDVjYjRlY2QwZTE1`

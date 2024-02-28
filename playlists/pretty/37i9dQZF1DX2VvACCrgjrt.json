@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: BIJOU and Dr. Fresch",
-  "num_followers": 440795,
+  "num_followers": 440815,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmZhNjhjOTIxNjUwYWFhYWUzMmU3MDMxZDFiYjMxNDI0MjRkNTE4",
+  "snapshot_id": "MCw2MmVjYzUxMzQyOTY5OGIyNzIzNWY0ZTk5MzYxOGNmM2VlMjk2NGMw",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Droppin' It (La La La)",
+        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "BURNERS!",
+          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Droppin' It (La La La)",
+      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Droppin' It (La La La)",
-        "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "BURNERS!",
-          "url": "https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Droppin' It (La La La)",
-      "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
-      },
-      "artists": [
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "CC",
-      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "RUMBLE IN THE DISCO",
         "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
       },
@@ -1515,26 +1499,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
+        "name": "CC",
+        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Strut",
-      "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+      "duration_ms": 180480,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1559,6 +1535,30 @@
       "duration_ms": 178604,
       "name": "Here Comes The Hotstepper",
       "url": "https://open.spotify.com/track/3xPf1t0ogZ0DH3DN0c4l5t"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Bad Bassline",
-        "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
-      },
-      "artists": [
-        {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
-        },
-        {
-          "name": "DJ Luck & MC Neat",
-          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Bad Bassline",
-      "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Bad Bassline",
+        "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        },
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Bad Bassline",
+      "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Quaestio (i've got a question babe)",
         "url": "https://open.spotify.com/album/4DRVa48Tl9faBrsvTGhcmR"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 180480,
       "name": "What Do You Want",
       "url": "https://open.spotify.com/track/4FPJskFFWE4uYsK9rw7uFI"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "LIMIT",
-        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "LIMIT",
-      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -2019,22 +1999,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "MIRRORS",
-        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         },
         {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 157741,
-      "name": "MIRRORS",
-      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
+      "duration_ms": 217142,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2051,6 +2031,26 @@
       "duration_ms": 155624,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "MIRRORS",
+      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "House",
         "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
       },
@@ -2163,18 +2179,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
       },
       "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
         {
           "name": "Curbi",
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+      "duration_ms": 195268,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2211,26 +2231,6 @@
       "duration_ms": 193819,
       "name": "Fly Guy",
       "url": "https://open.spotify.com/track/3PkpK6a2TgzgYuxXH4FQi8"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 195268,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "LEFT TO RIGHT (Space Laces Remix)",
-        "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "LEFT TO RIGHT - Space Laces Remix",
-      "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "LEFT TO RIGHT (Space Laces Remix)",
+        "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "LEFT TO RIGHT - Space Laces Remix",
+      "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2379,22 +2379,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
       },
       "artists": [
         {
-          "name": "DEVOWR.",
-          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 215238,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 337658,
+  "num_followers": 337908,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjMzNjcwOWFhODNkODgxOTczN2JmMGZmNzM1NjlkOWE3NTNmZDVl",
+  "snapshot_id": "MCw2ZjlhY2VmZmNiOWVjNTkyZjIxMGU5Njk1NGEyOWMxMDc5ZGExMWJi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "How Can You Not",
-        "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192862,
-      "name": "How Can You Not",
-      "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Build a Boat (feat. Gabby Barrett)",
         "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 170549,
       "name": "Build a Boat (feat. Gabby Barrett)",
       "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "How Can You Not",
+        "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "How Can You Not",
+      "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 162903,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Before I Knew Jesus",
         "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 196975,
       "name": "Before I Knew Jesus",
       "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 162903,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 191295,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "We Will Stand",
         "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+        "name": "Then Christ Came",
+        "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 191295,
-      "name": "Empty Room",
-      "url": "https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd"
+      "duration_ms": 223586,
+      "name": "Then Christ Came",
+      "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Then Christ Came",
-        "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "Then Christ Came",
-      "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Church I Grew Up in (Live)",
         "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 215573,
       "name": "Yeshua (Friend Of Sinners)",
       "url": "https://open.spotify.com/track/0no9dwUjjMmssfUb9cWUFT"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "That's The Thing About Praise (Extended Play)",
         "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 236172,
       "name": "That's The Thing About Praise - Radio Version",
       "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "I LOVE YOU TO DEATH",
+        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 203832,
+      "name": "I LOVE YOU TO DEATH",
+      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "You're Not Done",
         "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "I LOVE YOU TO DEATH",
-        "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 203832,
-      "name": "I LOVE YOU TO DEATH",
-      "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hills Of Tyrone",
         "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Vanessa Hill",
-          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Ark",
-      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1299,18 +1279,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Where The Glory Is",
-        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Vanessa Hill",
+          "url": "https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb"
         }
       ],
-      "duration_ms": 270576,
-      "name": "Where The Glory Is",
-      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
+      "duration_ms": 193040,
+      "name": "Ark",
+      "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 194600,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/06kXQ990nrIG8lXcyGQ4gd"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Where The Glory Is",
+        "url": "https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Where The Glory Is",
+      "url": "https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Caedmon's Call",
-        "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
-      },
-      "artists": [
-        {
-          "name": "Caedmon's Call",
-          "url": "https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA"
-        }
-      ],
-      "duration_ms": 241893,
-      "name": "Lead of Love",
-      "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
       },
@@ -1499,18 +1467,34 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+        "name": "Caedmon's Call",
+        "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
       },
       "artists": [
         {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+          "name": "Caedmon's Call",
+          "url": "https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA"
         }
       ],
-      "duration_ms": 241951,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
+      "duration_ms": 241893,
+      "name": "Lead of Love",
+      "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 257720,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 241951,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Mountain Top",
-        "url": "https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl"
-      },
-      "artists": [
-        {
-          "name": "Leslie Perez",
-          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Mountain Top",
-      "url": "https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d"
     },
     {
       "added_at": "2023-11-17 05:00:00",

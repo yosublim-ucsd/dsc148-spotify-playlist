@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> I NORRLAND ÄR DET FEST!!
+> DUNK\-DUNK\-DUNKA 30 K\-M\-H!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,926 likes - 102 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,013 likes - 102 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 101 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 102 | [Rulla \- JulleMeck Remix](https://open.spotify.com/track/7ylBp2FdcIlkrJSlg1IuJX) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [Rulla \(JulleMeck Remix\)](https://open.spotify.com/album/39E2muCHB9RcIJu3atUy4C) | 2:06 |
 
-Snapshot ID: `MCw3Yzc2NjcwOGMwMTQwNTI0MDVmMjMxMDNkOTJjNzc3ZGY3NDEzYTBk`
+Snapshot ID: `MCxkMWZiZTdiOGY4NjUwNzljODUyOGIzMDc3OGQ4YTliZGZkZmExYTUz`

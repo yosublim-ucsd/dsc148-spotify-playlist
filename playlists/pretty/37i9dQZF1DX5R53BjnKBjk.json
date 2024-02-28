@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19164,
+  "num_followers": 19166,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWQzMDYwNjQ3NjY2OTg1ODYxMWUyMTQxM2I0OGI1OTVmNjc4ZWVm",
+  "snapshot_id": "MCxkYTJjZjEyN2MwYjAyOTc0ZjA1MDU0MjM0YWVhYjUzMTY1NjRjNDA0",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Como \u00c9 Que Faz",
+        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
+      },
+      "artists": [
+        {
+          "name": "Dogge",
+          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
+        }
+      ],
+      "duration_ms": 160747,
+      "name": "Como \u00c9 Que Faz",
+      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Amor de Sonhos",
         "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 157714,
       "name": "Amor de Sonhos",
       "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+      },
+      "artists": [
+        {
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+        }
+      ],
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -787,22 +819,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Como \u00c9 Que Faz",
-        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
-      },
-      "artists": [
-        {
-          "name": "Dogge",
-          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
-        }
-      ],
-      "duration_ms": 160747,
-      "name": "Como \u00c9 Que Faz",
-      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 158985,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Poema Suspenso",
-        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
-      },
-      "artists": [
-        {
-          "name": "Rizzih",
-          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
-        }
-      ],
-      "duration_ms": 178935,
-      "name": "(((V\u00eanus)))",
-      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "reluz",
         "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 193053,
       "name": "reluz",
       "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
-      },
-      "artists": [
-        {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "VERO",
         "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197538,
       "name": "Bom Vivant",
       "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2023-11-30 21:58:24",

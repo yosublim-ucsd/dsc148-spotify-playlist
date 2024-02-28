@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-716 songs - 1 day 8 hr 13 min
+718 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Early Morning](https://open.spotify.com/track/5PMKOTPuXBhArXrbNUVyIx) | [shula](https://open.spotify.com/artist/52iC6ueA2YBROxmdd4d1WI) | [Intermission 2](https://open.spotify.com/album/6nusBfW3l0m1fTNP94LPyT) | 2:43 | 2021-12-23 | 2022-05-31 |
 | [Earth Calling](https://open.spotify.com/track/33bUkdaOiJDAUNRuwxAU8j) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Earth Calling](https://open.spotify.com/album/0UOdXQ5Z2lzCgmBLI6FR4u) | 2:33 | 2021-12-23 | 2022-07-03 |
 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 |  |
+| [ein pt.1](https://open.spotify.com/track/2ojSQNaLN9sX00jfpfxGNT) | [BON\-SAN](https://open.spotify.com/artist/6qqHyz9zY7NDLUlfnHy667) | [BON\-KNOW pt.2 \-水\-](https://open.spotify.com/album/16sA3EDpr1l0WMTSBqtR2m) | 0:49 | 2024-02-27 |  |
 | [ema](https://open.spotify.com/track/3c7yVAHMxcSpi5Ezn8KLWn) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [ema](https://open.spotify.com/album/7eOizuifiVV6kRU2tbTiiQ) | 2:19 | 2021-12-23 | 2022-07-28 |
 | [Emoda](https://open.spotify.com/track/1JiPQ4JDXAeOoPjRkwq0ur) | [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/1j7AF82YktleBZEnfPLKgk) | 1:44 | 2022-02-15 | 2022-07-28 |
 | [Encore](https://open.spotify.com/track/5m6FIUzhuX8g6fTb4djxQt) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76) | [Encore](https://open.spotify.com/album/11OHgVHOdjwOaKtV2kfD5o) | 2:11 | 2022-01-13 | 2022-07-25 |
@@ -336,7 +337,7 @@
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 | 2023-11-24 |
 | [Late Night Walk](https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Late Night Walk](https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t) | 2:50 | 2023-11-14 | 2024-01-31 |
-| [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 |  |
+| [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 | 2024-02-28 |
 | [Latitude](https://open.spotify.com/track/5V7ZYaPJlhaVsby0Qev1Kl) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Latitude](https://open.spotify.com/album/4Fj24NC7ybJiVQw7jh4by1) | 2:46 | 2021-12-23 | 2022-07-25 |
 | [Lazy Days](https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Lazy Days](https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc) | 2:12 | 2023-10-26 | 2024-01-19 |
 | [Le Penseur](https://open.spotify.com/track/6EW6GMbrCX3xG2XwpYhKJz) | [Gardentones](https://open.spotify.com/artist/3ZssErKV7JalICINouJ5CE), [Avantaro](https://open.spotify.com/artist/0jjmDIXXndzUooW1KogNEx), [Taikutsu](https://open.spotify.com/artist/4C8imA7ub7SiyiwApuSqc6) | [Le Penseur](https://open.spotify.com/album/4Ojh3CfSmJIg79xvBuSKix) | 1:12 | 2022-03-24 | 2022-04-18 |
@@ -409,6 +410,7 @@
 | [Mood Ring](https://open.spotify.com/track/2wsO3NnI1LtUO2fAqb7tY9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/5b8LIdYst2iRT0fkLpeHc8) | 3:39 | 2023-03-02 | 2023-05-09 |
 | [Moon Gazing](https://open.spotify.com/track/3trUWQLZYKSxZPwqhozd4d) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU), [Hanae Sakuyama](https://open.spotify.com/artist/0rg9I9507vQXmmfZquZ7oG) | [Moon Gazing](https://open.spotify.com/album/2zrgZOi7EUgwmmC8G2ee5G) | 4:14 | 2021-12-23 | 2022-01-28 |
 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 | 2022-02-17 |  |
+| [Moon Walk](https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB) | 2:54 | 2024-02-27 |  |
 | [MOON WAVE](https://open.spotify.com/track/3frTPQMP9mhtUcYhxYPOGO) | [TOMMY HONDA](https://open.spotify.com/artist/2sHNt94yiTqGXeQEKUDX5n) | [MOON WAVE](https://open.spotify.com/album/4lKMUnLY2dTRV4IzKEpI4B) | 2:57 | 2021-12-23 | 2022-07-20 |
 | [Moonlight](https://open.spotify.com/track/2KybWCmGojaGl10fYmwjFK) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Moonlight](https://open.spotify.com/album/6JTB3gIEKRnXVPv9V5dpl8) | 1:26 | 2022-01-13 | 2022-07-24 |
 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 | 2023-08-17 |  |
@@ -645,7 +647,7 @@
 | [timeless](https://open.spotify.com/track/5G0hroWVqRyvYt1vtdc2YU) | [Tokoyo](https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF), [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [timeless](https://open.spotify.com/album/2jq6cl9x3iATAkHPLQG92K) | 2:52 | 2021-12-23 | 2022-07-25 |
 | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/track/1GpnpwnjedpwMLmpnNx2VE) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/album/3yr3bD3xk9IA8xwDkc7zZ2) | 3:53 | 2021-12-23 | 2022-07-29 |
 | [Tokyo Lounge](https://open.spotify.com/track/5zGVjMpbSAdMLgvYewOup5) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Babouk](https://open.spotify.com/artist/2DX3vCsOZOQBwXlQPvpSYb) | [Tokyo Lounge](https://open.spotify.com/album/4gjvinjabrTIwxC3kiJv5b) | 3:50 | 2021-12-23 | 2022-02-11 |
-| [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 | 2022-01-13 |  |
+| [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 | 2022-01-13 | 2024-02-28 |
 | [Tokyo State of Mind \- Instrumental](https://open.spotify.com/track/4jRYRpw7YTLPrxrRqxnowU) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Beats Only Part.Ⅰ](https://open.spotify.com/album/5S7d7U3lrxUS6tZwwSnn4P) | 2:13 | 2021-12-23 | 2022-07-27 |
 | [tombi](https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tombi](https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz) | 2:20 | 2023-11-09 | 2023-11-24 |
 | [tomoshibi](https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [tomoshibi](https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP) | 3:07 | 2022-08-11 | 2023-05-05 |

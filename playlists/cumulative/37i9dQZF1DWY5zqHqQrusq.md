@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind
 
-75 songs - 4 hr 14 min
+76 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-02-01 |  |
 | [Jaded](https://open.spotify.com/track/2oUqHt6WhKih0nmfHhVj3J) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 3:46 | 2022-11-11 | 2023-09-16 |
 | [Karma](https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Karma](https://open.spotify.com/album/6vxjwodaQOfH0QI2LJ63Qu) | 2:50 | 2022-11-11 | 2023-12-03 |
-| [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 |  |
+| [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 | 2024-02-28 |
+| [Kitanda Baridi](https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI) | 2:56 | 2024-02-23 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-11-11 | 2023-04-17 |
 | [Less](https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [More / Less](https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g) | 1:25 | 2022-11-11 |  |
 | [Let Me Lose My Mind In Peace](https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 3:02 | 2022-11-11 |  |

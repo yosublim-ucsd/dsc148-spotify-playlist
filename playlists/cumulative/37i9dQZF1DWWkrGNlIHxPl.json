@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Mohamed Ramadan, Future & Massari",
+  "description": "Global crossovers by/with Arab artists. Cover: MC Abdul & Saint Levant",
   "name": "Arab X",
   "tracks": [
     {
@@ -1146,6 +1146,28 @@
       "duration_ms": 195047,
       "name": "deeper me",
       "url": "https://open.spotify.com/track/5UbiMFkaDzjQeqDDOft4uD"
+    },
+    {
+      "album": {
+        "name": "Deira",
+        "url": "https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Deira",
+      "url": "https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33"
     },
     {
       "album": {
@@ -3930,7 +3952,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 169846,
       "name": "nVr Mind",
       "url": "https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,610 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,558 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 61 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
 | 62 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
 | 63 | [Telephone](https://open.spotify.com/track/4VgdhAy0DBSF5hbbKzTEdS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:33 |
-| 64 | [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 |
+| 64 | [LUCID](https://open.spotify.com/track/6Vbyc57YW2K2NVeWzF4m46) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:38 |
 | 65 | [Don’t Leave Me \(Chapter 1: Despair\)](https://open.spotify.com/track/1JIlGLcnahiv1eWoqJK1m6) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Don't Leave Me](https://open.spotify.com/album/5d8faanLu8YO39Q73Hzbqt) | 3:32 |
 | 66 | [Clearest Blue](https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM) | 3:53 |
 | 67 | [Alaska \- Toby Green Remix](https://open.spotify.com/track/1S4z3fHfqPuIlWbx3fJAlp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Alaska \(Toby Green Remix\)](https://open.spotify.com/album/2CLcLiU2Fz9Dh5jLSih1Ur) | 3:05 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 86 | [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 |
 | 87 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
 
-Snapshot ID: `MCw5YTYzNGJmYzUzYzVlYzU3Mzg2YzQ1ZjNkZTUxZmFiMGVhNjg3ZjQw`
+Snapshot ID: `MCwxN2IyMThlOWI2ZTNkNzYzMjE0NTk4YWIxMGRiNjExZDE1YmI1MzMz`

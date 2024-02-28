@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-925 songs - 1 day 20 hr 18 min
+926 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,7 +627,7 @@
 | [Picasso](https://open.spotify.com/track/43t69WNj30qqc2XDryeLAj) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Picasso](https://open.spotify.com/album/1tjG76nlg1AlhGG4O2CGU9) | 1:46 | 2022-04-15 | 2022-04-19 |
 | [Pimp Problems](https://open.spotify.com/track/46yfBnOHB1Nhxn4rtVAJ25) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/0Yp9JLAZRcOgHNQj0s0c5X) | 1:50 | 2023-08-11 | 2023-09-09 |
 | [Piped Up](https://open.spotify.com/track/5CqbgM6ek83fzvEXzrJgax) | [YKG Hotboy](https://open.spotify.com/artist/4LnUvGfcuGGLUJlbhyGdbT) | [Piped Up](https://open.spotify.com/album/6A5h55koyHURPDUiyKJyjL) | 2:15 | 2022-04-29 | 2022-05-14 |
-| [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-05 |  |
+| [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 | 2023-05-05 | 2024-02-28 |
 | [Pissy Staircase](https://open.spotify.com/track/33Sm6eEycxZFfL28c2ST7G) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Noon Yung](https://open.spotify.com/album/2mkGqQ4l5StfHz9vCV68pI) | 3:18 | 2022-03-25 | 2022-04-20 |
 | [PLATINUM](https://open.spotify.com/track/54yKZ2DQV7laSMTaWKDJBu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PLATINUM](https://open.spotify.com/album/6QQYtQ7qZ6TXU2iskQXh9A) | 2:38 | 2023-06-16 | 2023-07-01 |
 | [Player's Prayer](https://open.spotify.com/track/5Nr4ad67beU2N5ObwjZbx0) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [Thank you, God\. For it all.](https://open.spotify.com/album/7w45wsr130MbFpfZ9yA9ni) | 2:46 | 2021-09-03 | 2022-04-20 |
@@ -924,10 +924,11 @@
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-10-14 | 2022-10-29 |
 | [YE](https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [YE](https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql) | 2:11 | 2023-05-19 | 2023-06-10 |
-| [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 | 2024-02-16 |  |
+| [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 |  |
 | [YEET \(feat\. Yeat\)](https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [YEET \(feat\. Yeat\)](https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0) | 2:37 | 2022-01-28 | 2022-04-21 |
 | [You Again](https://open.spotify.com/track/5Kfn8EXu3UyzUuLk6PK4Og) | [Joey Melrose](https://open.spotify.com/artist/6b29OPfOOGNOsUOFLfxRrc) | [You Again](https://open.spotify.com/album/073EQPQAZCduQsVlppMv2J) | 2:10 | 2022-03-18 | 2022-04-21 |
 | [You Know](https://open.spotify.com/track/2zADuep4HUIuHenIPxZmvd) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [You Know](https://open.spotify.com/album/3S3lFxMR04o5oCXlTF8nlv) | 1:27 | 2021-09-03 | 2021-12-31 |
+| [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 | 2024-02-23 |  |
 | [Zack & Cody \(feat\. DDG\)](https://open.spotify.com/track/6xm7FolChiHPQdrA5VGUiq) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Zack & Cody \(feat\. DDG\)](https://open.spotify.com/album/23Z6KHviuyxc46Rm7pk9kn) | 2:25 | 2022-03-25 | 2022-04-21 |
 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 | 2022-05-06 | 2022-05-14 |
 | [Zero Love \(ft\. Moneybagg Yo\)](https://open.spotify.com/track/3GAF9c6qEwK0xE7CwjRUvU) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Zero Love \(ft\. Moneybagg Yo\)](https://open.spotify.com/album/5MeC1FT4v6FaNWO9twyIDo) | 2:32 | 2022-03-18 | 2022-04-21 |

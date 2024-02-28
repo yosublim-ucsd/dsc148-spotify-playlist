@@ -2,7 +2,7 @@
 
 ### [Golden Ghazals](https://open.spotify.com/playlist/37i9dQZF1DXdsiL9gD4vAA)
 
-> Let these contemplative couplets take you away.
+> Remembering the elegiac voice of love & longing..\. Pankaj Udhas, always & forever.
 
 144 songs - 13 hr 28 min
 

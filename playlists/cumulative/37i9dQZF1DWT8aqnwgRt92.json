@@ -3183,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
+    },
+    {
+      "album": {
         "name": "Eye's Sentry(Anime ver.)",
         "url": "https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op"
       },

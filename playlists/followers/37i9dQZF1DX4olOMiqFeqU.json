@@ -1,7 +1,7 @@
 {
-  "2024-02-27": 2401923,
+  "2024-02-28": 2402303,
   "date_first_scraped": "2022-05-30",
-  "description": "100% Pinoy hits from your favorite artists! Cover: Michael Pangilinan",
+  "description": "100% Pinoy hits from your favorite artists! Cover: KZ Tandingan",
   "name": "OPM Favorites",
   "tracks": [
     {
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 332406,
       "name": "panaginip",
       "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"

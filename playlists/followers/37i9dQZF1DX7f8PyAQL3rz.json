@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 1349422,
+  "2024-02-28": 1350191,
   "date_first_scraped": "2022-03-24",
   "description": "\u00e9 o trem da mainstreet",
   "name": "creme",
@@ -605,6 +605,36 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
+    },
+    {
+      "album": {
+        "name": "Funktroit",
+        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Complexo dos Hits",
+          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116307,
+      "name": "Aquariano Nato",
+      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
       "album": {
@@ -2093,7 +2123,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 145153,
       "name": "Disse Que \u00e9 F\u00e3 de Rap",
       "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
@@ -2306,6 +2336,36 @@
     },
     {
       "album": {
+        "name": "Essa Daqui Vira Trend",
+        "url": "https://open.spotify.com/album/6htm3zTF8FEgsOPGTWgqCr"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270175,
+      "name": "Essa Daqui Vira Trend",
+      "url": "https://open.spotify.com/track/6gAD9BkdcEXM9X3ObuuWjC"
+    },
+    {
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -2499,7 +2559,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 138461,
       "name": "Faz um Vuk Vuk (Teto Espelhado)",
       "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"

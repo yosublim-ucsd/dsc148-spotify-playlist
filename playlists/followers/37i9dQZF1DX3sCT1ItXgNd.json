@@ -1,7 +1,7 @@
 {
-  "2024-02-27": 973259,
+  "2024-02-28": 973291,
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ti\u00ebsto, Karol G",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Omar Montes, Abraham Mateo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -337,7 +337,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
@@ -501,6 +501,28 @@
       "duration_ms": 142406,
       "name": "b.o.b.o.",
       "url": "https://open.spotify.com/track/0aHqflgjBiuNWvFJw2MhoQ"
+    },
+    {
+      "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/3YdVtDgk9uBnrPxfj2WMYu"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/0sjwNDuHyfLruYofOWObNj"
     },
     {
       "album": {
@@ -1465,7 +1487,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -2158,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
+    },
+    {
+      "album": {
         "name": "El Jefe",
         "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
       },
@@ -2610,6 +2650,24 @@
     },
     {
       "album": {
+        "name": "Ester Exp\u00f3sito",
+        "url": "https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213205,
+      "name": "Ester Exp\u00f3sito",
+      "url": "https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj"
+    },
+    {
+      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -2759,7 +2817,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 172960,
       "name": "Formas de Hablar",
       "url": "https://open.spotify.com/track/6B1ZJ9cQBvSsW2zOUBREkt"
@@ -3531,7 +3589,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 203528,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
@@ -3713,6 +3771,32 @@
       "duration_ms": 166771,
       "name": "LIC\u00c1NTROPO",
       "url": "https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko"
+    },
+    {
+      "album": {
+        "name": "Llorando en el lambo",
+        "url": "https://open.spotify.com/album/55wwmFgx9rSL1OmKoP50De"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189249,
+      "name": "Llorando en el lambo",
+      "url": "https://open.spotify.com/track/7ms9TmXD1qVWhuGCQFTT16"
     },
     {
       "album": {
@@ -4068,6 +4152,28 @@
     },
     {
       "album": {
+        "name": "Mamasota",
+        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216424,
+      "name": "Mamasota",
+      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "album": {
         "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
         "url": "https://open.spotify.com/album/2CmFiY185Jg2DeXasl2Pxo"
       },
@@ -4392,6 +4498,32 @@
     },
     {
       "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/7lRBRgmbbGJpTh7CoSdxD7"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Big Papa313",
+          "url": "https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187683,
+      "name": "MI AMOR",
+      "url": "https://open.spotify.com/track/0OzPsBQnK0MLUFVat8ueSE"
+    },
+    {
+      "album": {
         "name": "MI BANDERA",
         "url": "https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n"
       },
@@ -4613,7 +4745,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
@@ -5423,7 +5555,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
@@ -5471,6 +5603,24 @@
       "duration_ms": 194136,
       "name": "PELO RIZAO",
       "url": "https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo"
+    },
+    {
+      "album": {
+        "name": "PETER PAN",
+        "url": "https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169721,
+      "name": "PETER PAN",
+      "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
     },
     {
       "album": {
@@ -5621,7 +5771,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
@@ -6337,7 +6487,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 146784,
       "name": "Si es contigo si",
       "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"

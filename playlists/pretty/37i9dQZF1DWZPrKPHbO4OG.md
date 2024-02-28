@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,072 likes - 40 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,096 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 36 | [Hey Pavlaay](https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss) | [Preet Bandre](https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2), [Dhruvan Moorthy](https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu) | [Hey Pavlaay](https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P) | 1:53 |
 | 37 | [Srivalli Marathi Version](https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raagini Kavathekar](https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV) | [Pushpa \- The Rise](https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ) | 3:18 |
 | 38 | [Gau Nako Kisna](https://open.spotify.com/track/6cG3mytNs9u0cT6cbJ3heo) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Jayesh Khare](https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U), [Mayur Sukale](https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Maharashtra Shaheer](https://open.spotify.com/album/7GF3sCJCgEIHCglCgIZ81V) | 5:04 |
-| 39 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
-| 40 | [Michi Mazavyalo](https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K) | [Jasraj Joshi](https://open.spotify.com/artist/6o1fV9yKZDGNdMl2chOWql) | [YZ](https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o) | 3:10 |
+| 39 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
+| 40 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
 
-Snapshot ID: `MCw1NGI0YmIzZTI1MTNiNjY0YTUwYjBiYTlmMTRlMDc2MDYzMTc2ODhi`
+Snapshot ID: `MCw2NzcwOGY4OWVjN2U0MTUyOTE4ZWY4MzgwNzYwNDc3ZjE0ZGVhMTM4`

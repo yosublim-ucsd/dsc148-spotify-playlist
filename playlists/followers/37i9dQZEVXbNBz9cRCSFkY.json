@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 1324843,
+  "2024-02-28": 1325149,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Philippines.",
   "name": "Top 50 - Philippines",
@@ -5470,6 +5470,24 @@
     },
     {
       "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -10255,7 +10273,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-27",
       "duration_ms": 219470,
       "name": "Rapstar",
       "url": "https://open.spotify.com/track/6Rv8Ltr2MuAIM3LHF4L8qs"

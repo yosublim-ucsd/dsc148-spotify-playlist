@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,047 songs - 2 day 6 hr 57 min
+1,048 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 | 2022-10-05 |
 | [Midnatt](https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Midnatt](https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM) | 3:04 | 2022-09-29 | 2022-12-16 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
+| [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 |  |
 | [MIN MARIE](https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN MARIE](https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0) | 2:33 | 2024-02-22 |  |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
@@ -967,7 +968,7 @@
 | [Valborg \- Spotify Singles](https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Valborg \- Spotify Singles](https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz) | 2:33 | 2023-10-20 | 2024-01-26 |
 | [Vanish!](https://open.spotify.com/track/3krsQzuDKZAdNTkhRLlQ71) | [Freddie Joon](https://open.spotify.com/artist/2uiFUbeyr7hVJrlnjolYct) | [Vanish!](https://open.spotify.com/album/7547vdxjNpucMOJF50Tatl) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Var är du?](https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:14 | 2021-12-16 | 2022-03-10 |
-| [Varför vill du ha mig?](https://open.spotify.com/track/19K0YAML7BKdfF7IL4c2Ry) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Varför vill du ha mig?](https://open.spotify.com/album/1vzabkKzWG69LQEUPJG3GA) | 2:56 | 2024-02-22 |  |
+| [Varför vill du ha mig?](https://open.spotify.com/track/19K0YAML7BKdfF7IL4c2Ry) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Varför vill du ha mig?](https://open.spotify.com/album/1vzabkKzWG69LQEUPJG3GA) | 2:56 | 2024-02-22 | 2024-02-28 |
 | [Varje gång](https://open.spotify.com/track/5F63IuJAxScBwhGSO51N4r) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Varje gång](https://open.spotify.com/album/6aTU5aSCB5dahAWEvmBViu) | 2:53 | 2024-02-02 |  |
 | [Vart jag mig än vänder](https://open.spotify.com/track/7LSJsHMkNJ10DLteRSvd0V) | [Emil Gustafsson](https://open.spotify.com/artist/0Xf175P93hI9EDPHsPJlQG), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Vart jag mig än vänder](https://open.spotify.com/album/2uAKul7JL6BAboy4LGJ53F) | 3:12 | 2021-12-16 | 2022-03-02 |
 | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/album/1g0LUBd086L86cj5X40hxl) | 3:21 | 2022-03-17 | 2022-07-29 |

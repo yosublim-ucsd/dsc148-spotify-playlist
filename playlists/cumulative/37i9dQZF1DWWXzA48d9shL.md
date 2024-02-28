@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-593 songs - 23 hr 25 min
+594 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Bitch Again](https://open.spotify.com/track/0sm3gJGMnyY22jt0UokKTx) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Bitch Again](https://open.spotify.com/album/3a2nWZdcivOmcvfnp7HQ2Y) | 3:19 | 2023-02-24 | 2024-02-24 |
 | [BLACK LAGOON](https://open.spotify.com/track/1QcI03qNTvdEJxVoM7aTYd) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [BLACK LAGOON](https://open.spotify.com/album/6IgnfMmF6gQynEWlF0clgE) | 1:30 | 2021-09-17 | 2022-07-27 |
 | [BlackDynamite](https://open.spotify.com/track/4UfuPARha6t2tkMRjaXAom) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:54 | 2023-03-13 | 2023-04-15 |
-| [BLACKTOP](https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 1:21 | 2023-07-28 |  |
+| [BLACKTOP](https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 1:21 | 2023-07-28 | 2024-02-28 |
 | [Bleach \(feat\. Denzel Curry\)](https://open.spotify.com/track/09QvHJHDHbuptkaalGchss) | [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [DOG BOY](https://open.spotify.com/album/5RongMpRt5jcdZ7gpAKtWn) | 2:30 | 2021-09-17 | 2022-06-01 |
 | [BLEED](https://open.spotify.com/track/0C5bjRF9fuGCxSJzdYo2vC) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [BLEED](https://open.spotify.com/album/7EVCdVrEjDZIPmFlbqzG2z) | 2:09 | 2022-03-11 | 2022-04-21 |
 | [BLOOD DIAMONDS](https://open.spotify.com/track/4z6fbCg5OYBslzKAfARNSl) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BLOOD DIAMONDS](https://open.spotify.com/album/7nVgLnBjqHIV3T1EhIKYNu) | 1:52 | 2021-09-17 | 2022-06-04 |
@@ -294,6 +294,7 @@
 | [in your darkest nightmares, you'll see me](https://open.spotify.com/track/6i3NunmMCcqnYVWCna0k44) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Grim Salvo](https://open.spotify.com/artist/5UogEGDRYo5Q9bRIMRjuEC) | [in your darkest nightmares, you'll see me](https://open.spotify.com/album/1RGXboLcIwKf1aYwchqZNk) | 4:35 | 2023-12-01 |  |
 | [INTENSIVE CARE UNIT](https://open.spotify.com/track/5jqh407cAc00xLMSrJ51os) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [INTENSIVE CARE UNIT](https://open.spotify.com/album/5tvu9lbiNvbTILQhtwhB3G) | 1:39 | 2023-11-28 |  |
 | [INTERSTELLAR](https://open.spotify.com/track/74dlubUszN5adMaveJtYD2) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPNOTIZE](https://open.spotify.com/album/4qLSLJcI3PNVCvFhEFeXuN) | 2:35 | 2022-02-04 | 2022-04-21 |
+| [INTESTINES](https://open.spotify.com/track/619mfsz29H7LB2FMQLdYL0) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [ANTAGONIST](https://open.spotify.com/album/21RBXYEl4j5anWHKQjvMvf) | 1:38 | 2024-02-27 |  |
 | [IPA](https://open.spotify.com/track/0Xs93WhrSOIDO2aKEVePV1) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [IPA](https://open.spotify.com/album/0M0bIhPUqER2U4W84rLH6l) | 1:54 | 2022-04-01 | 2022-04-13 |
 | [iPHoNe 12](https://open.spotify.com/track/7HdPTwgiZHMVyOm2rPWkDm) | [PRXJEK](https://open.spotify.com/artist/6TeJpqb3PcvfHxjKAEKCNu) | [iPHoNe 12](https://open.spotify.com/album/6owLshr33DJ8I4cXpOnqoq) | 2:28 | 2021-12-03 | 2022-06-04 |
 | [ISSUES!](https://open.spotify.com/track/1zoIBn6gwd73czAmmEQAsu) | [Vitamjn](https://open.spotify.com/artist/7HIAVYezmclRVMcMzuj2sG) | [360](https://open.spotify.com/album/6WMuhfUpA7TKGh0zNCJnT7) | 1:21 | 2023-05-19 | 2023-07-01 |

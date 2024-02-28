@@ -8882,7 +8882,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 121908,
       "name": "Eternal Rave",
       "url": "https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP"
@@ -18682,6 +18682,32 @@
       "duration_ms": 143052,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5pwZVXgPUSSa2qGamy8T62"
+    },
+    {
+      "album": {
+        "name": "HEISSS VA001",
+        "url": "https://open.spotify.com/album/2W7pUQLJmqETnUnBi7aAFZ"
+      },
+      "artists": [
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        },
+        {
+          "name": "Nur Jaber",
+          "url": "https://open.spotify.com/artist/22J1dZodxVK6NzbDnpZCek"
+        },
+        {
+          "name": "HEISSS Berlin",
+          "url": "https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248568,
+      "name": "Memories Of The Sun",
+      "url": "https://open.spotify.com/track/4TkGZqpPuh4EULBkhtg887"
     },
     {
       "album": {

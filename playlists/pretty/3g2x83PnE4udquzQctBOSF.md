@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,500 likes - 30 songs - 1 hr 41 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,502 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 | 14 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
 | 15 | [Dimension](https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA) | [Survival Mode](https://open.spotify.com/artist/71ZV9O3HAnc2zBk1Pq3LwZ) | [Dimension](https://open.spotify.com/album/1FPIVz5o2Hg39u3Z1f9g2p) | 6:24 |
 | 16 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 |
-| 17 | [GUNZ.OUT \- Extended Mix](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
+| 17 | [GUNZ.OUT](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
 | 18 | [Mind Off](https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Off](https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK) | 3:10 |
 | 19 | [Jump In](https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Jump In](https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG) | 2:46 |
 | 20 | [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 |

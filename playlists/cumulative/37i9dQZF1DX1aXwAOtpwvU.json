@@ -872,10 +872,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 150560,
       "name": "kartki",
       "url": "https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v"
+    },
+    {
+      "album": {
+        "name": "kartki",
+        "url": "https://open.spotify.com/album/1KPV9ruEJUJziXAj9I8VKI"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "kartki",
+      "url": "https://open.spotify.com/track/2eNEAWwAf32hte1Njp9xiF"
     },
     {
       "album": {
@@ -1764,10 +1782,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 106515,
       "name": "Poker",
       "url": "https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq"
+    },
+    {
+      "album": {
+        "name": "Poker",
+        "url": "https://open.spotify.com/album/7FWuvpwtVgLsMlg85KPG9A"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106515,
+      "name": "Poker",
+      "url": "https://open.spotify.com/track/6B9KKY7xNGeyO1KV69wKMA"
     },
     {
       "album": {

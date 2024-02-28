@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-579 songs - 1 day 12 hr 10 min
+582 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2020-10-20\* | 2020-10-30 |
 | [Alleghanys](https://open.spotify.com/track/3awOKjYfWhKg9MqHZoN831) | [Mitch Oliver](https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ) | [Alleghanys](https://open.spotify.com/album/40X8cf3IfXsqsARey9SPie) | 6:41 | 2021-01-21 | 2021-02-20 |
 | [alma \- Frameworks Remix](https://open.spotify.com/track/1GXVgFAp3qlzGc903TnJDE) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [alma \(Frameworks Remix\)](https://open.spotify.com/album/2QuOKdeZG0UgtDxTPZPZU5) | 4:11 | 2020-10-20\* | 2022-04-06 |
-| [Amaworld](https://open.spotify.com/track/1VN6WHqBF2xqPv5w7YvB7T) | [Say3](https://open.spotify.com/artist/1QAhhoqYJHkwJt7YHXrzYj) | [Amaworld](https://open.spotify.com/album/1e9ySllhASnX1T7Lexw3kQ) | 2:22 | 2024-02-13 |  |
+| [Amaworld](https://open.spotify.com/track/1VN6WHqBF2xqPv5w7YvB7T) | [Say3](https://open.spotify.com/artist/1QAhhoqYJHkwJt7YHXrzYj) | [Amaworld](https://open.spotify.com/album/1e9ySllhASnX1T7Lexw3kQ) | 2:22 | 2024-02-13 | 2024-02-28 |
 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 | 2022-09-02 |  |
 | [Amethyst](https://open.spotify.com/track/0bKzBkQKXLH6P407vZQIso) | [Popcorn for Purple](https://open.spotify.com/artist/1yoe4BBN2qhhnoAFe6cyyO) | [Amethyst](https://open.spotify.com/album/1R6VTSopwrnckW6GTf9Qet) | 5:28 | 2020-12-24 | 2021-02-20 |
 | [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 |  |
@@ -71,6 +71,7 @@
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2021-11-10 | 2023-07-29 |
 | [Blue Essay](https://open.spotify.com/track/6eW9y2z5RnOllEwl59bjGy) | [Paralax](https://open.spotify.com/artist/5AfQ9sbCobQlkzSRKQOD1T) | [Blue Essay](https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk) | 4:56 | 2020-10-20\* | 2021-03-25 |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-10 |  |
+| [BLUE LIGHTS](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l) | [XO STHLM](https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK) | [BLUE LIGHTS](https://open.spotify.com/album/5VmppbYGqYcCdy0Oz0MAMc) | 2:21 | 2024-02-27 |  |
 | [Blue Line](https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv) | [Traingazing](https://open.spotify.com/artist/1AosScBBDX1JEAL6vU8ldj) | [Blue Line](https://open.spotify.com/album/02d2XLNUOQ4MGoEVDGKF72) | 3:43 | 2021-11-10 | 2022-08-05 |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-10 |  |
 | [Border](https://open.spotify.com/track/4loHyp6Rhk3aOgdXz1n8Y0) | [8TYL](https://open.spotify.com/artist/0lW3Li71IqwPWQFYBuwVmQ) | [Border](https://open.spotify.com/album/2SQpSGWdyhaTHpTWB7wz84) | 6:02 | 2021-03-25 | 2022-01-22 |
@@ -387,6 +388,7 @@
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-02-10 | 2023-02-04 |
 | [Profoundness \- Bucher Remix](https://open.spotify.com/track/3sJ0WY1MWjwfwrE2Gnrwpz) | [Big Al](https://open.spotify.com/artist/7JslHxRm7ssgevJMtYUfCL) | [Profoundness](https://open.spotify.com/album/1Pu3NLkcpKFbhsn9893RLq) | 8:45 | 2020-11-21 | 2020-11-28 |
 | [Propellers On](https://open.spotify.com/track/6KtJEgSP4XPtxUsSbDCCx8) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Propellers On](https://open.spotify.com/album/3hG9LbCQja8rDuC68SjTgT) | 2:51 | 2024-01-19 |  |
+| [Prophecy](https://open.spotify.com/track/56w9J0guGdjFT2kcHVaftv) | [M98000](https://open.spotify.com/artist/4vBonDnV2EATaCzSqtXtXy) | [Prophecy](https://open.spotify.com/album/24rY0yxqE3lVdhsvMAn7Oj) | 3:00 | 2024-02-27 |  |
 | [Protonic](https://open.spotify.com/track/2w7MRtsGaGCjR1ZmcbPD6c) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [ReFeel](https://open.spotify.com/album/3sldh7YxXui82hBwlop5NV) | 3:51 | 2021-01-29 | 2021-03-25 |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-04 | 2021-10-16 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2022-05-20 |
@@ -468,6 +470,7 @@
 | [Sobel Caviar](https://open.spotify.com/track/3rcwaxTUm3FoGPlRUqdC6A) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Sobel Caviar](https://open.spotify.com/album/3bnG37s0WUPx7WZC5rq8Va) | 2:42 | 2023-11-17 |  |
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-13 | 2020-12-24 |
 | [Solar Smile](https://open.spotify.com/track/2mzIEhqRq7O2sfVtUPFux7) | [Lemon Pi](https://open.spotify.com/artist/4iXm09MxBWzOQBhZVUGw12) | [Solar Smile](https://open.spotify.com/album/6wk7DhHGCje3P6dfWV4aqE) | 2:31 | 2021-02-12 | 2021-03-25 |
+| [solastic breeze](https://open.spotify.com/track/5gZMmubNmIuHCT3dcFv5nW) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [solastic breeze](https://open.spotify.com/album/0usNXiN5J6gdT3LUcxl8Ic) | 2:24 | 2024-02-27 |  |
 | [Solitude](https://open.spotify.com/track/1YTf5EFF82UYyTa1KIlWoZ) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Solitude](https://open.spotify.com/album/1XIkAi3l0twutovCyEpBbU) | 1:47 | 2020-10-20\* | 2021-04-15 |
 | [Something To Say](https://open.spotify.com/track/2gQR2gh6wFIYhhXh4BvL1y) | [Tigran Boiler](https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM) | [Something To Say](https://open.spotify.com/album/16n0fYTg7bcHevggd75X7P) | 3:13 | 2021-06-04 | 2021-08-25 |
 | [Something's Coming](https://open.spotify.com/track/32YiU6ltqIoycgQueBzW4A) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Something's Coming](https://open.spotify.com/album/7rWULDtlUgwyBTG1P6rmUF) | 4:52 | 2020-10-20\* | 2021-03-25 |

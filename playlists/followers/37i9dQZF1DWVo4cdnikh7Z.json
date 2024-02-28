@@ -1,5 +1,5 @@
 {
-  "2024-02-27": 659956,
+  "2024-02-28": 660000,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -909,6 +909,32 @@
       "duration_ms": 208000,
       "name": "Adi Kattazhagu Karuvaachi - From \"Kalvan\"",
       "url": "https://open.spotify.com/track/0E00EuJ1GOMPiRQ7CJiuet"
+    },
+    {
+      "album": {
+        "name": "Adi Theni Santhaiyil (From \"Idimuzhakkam\")",
+        "url": "https://open.spotify.com/album/6UmuTF0OkEtg2sGEkb8ZVu"
+      },
+      "artists": [
+        {
+          "name": "N.R. Raghunanthan",
+          "url": "https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Meenakshi Elayaraja",
+          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Adi Theni Santhaiyil (From \"Idimuzhakkam\")",
+      "url": "https://open.spotify.com/track/0l4lH8shu2niFGYg9DHPjw"
     },
     {
       "album": {
@@ -15635,6 +15661,32 @@
       "duration_ms": 273500,
       "name": "Nee Parkum Parvai (From \"BYRI\")",
       "url": "https://open.spotify.com/track/3LPHSZDZmpKVWwHdgD1MR0"
+    },
+    {
+      "album": {
+        "name": "BYRI (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Unmnph7xvgvfmhM1Sqk1P"
+      },
+      "artists": [
+        {
+          "name": "Arun Raj",
+          "url": "https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273500,
+      "name": "Nee Parkum Parvai (From \"BYRI\")",
+      "url": "https://open.spotify.com/track/6LVUAu9nMdhysDAMMlbJXk"
     },
     {
       "album": {

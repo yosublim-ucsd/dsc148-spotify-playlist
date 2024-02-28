@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 194301,
       "name": "Curse",
       "url": "https://open.spotify.com/track/24CBIOlOxIMwXB8rmkYToW"
@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "kodoku gokko",
+        "url": "https://open.spotify.com/album/3KlWkxlUSwUzrunfRuTrLi"
+      },
+      "artists": [
+        {
+          "name": "polly",
+          "url": "https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105075,
+      "name": "kodoku gokko",
+      "url": "https://open.spotify.com/track/5N73VJc4Q3fJhEV8E7pvDC"
+    },
+    {
+      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 202413,
       "name": "Rave-up Tonight",
       "url": "https://open.spotify.com/track/34iywbfxSn7AOaFoV7hixT"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 314130,
       "name": "Song For The Weak.",
       "url": "https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr"
@@ -1478,10 +1496,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 188493,
       "name": "\u3086\u304d\u3053\u3055\u3093",
       "url": "https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30eb\u30d0\u30c9\u30eb\u30b5\u30fc\u30ac",
+        "url": "https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY"
+      },
+      "artists": [
+        {
+          "name": "\u7c97\u54c1",
+          "url": "https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195909,
+      "name": "\u30b5\u30eb\u30d0\u30c9\u30eb\u30b5\u30fc\u30ac",
+      "url": "https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB"
     },
     {
       "album": {

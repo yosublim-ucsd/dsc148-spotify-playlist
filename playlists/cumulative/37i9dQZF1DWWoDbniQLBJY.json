@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 186966,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
@@ -2486,6 +2486,24 @@
       "duration_ms": 213958,
       "name": "Parece Mentira",
       "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
+    },
+    {
+      "album": {
+        "name": "Pasajera",
+        "url": "https://open.spotify.com/album/4te0ewSnaptgl1qYn7cZLy"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "Pasajera",
+      "url": "https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o"
     },
     {
       "album": {

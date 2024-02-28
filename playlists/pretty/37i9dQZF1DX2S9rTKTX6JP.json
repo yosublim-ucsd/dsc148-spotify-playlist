@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 670833,
+  "num_followers": 670934,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2NhZjIyNzY5OTg4ZjFlYjllNTU1YjgyN2YzY2NjZWRmYzc5NDM3",
+  "snapshot_id": "MCwxYzM0NDk5NWQzZGVkYjQzOTU5MDk4Mjg3ZDI5MjFkZDc1YTQ2N2Y1",
   "tracks": [
     {
       "added_at": "2024-02-12 05:08:07",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "I Just Don't Know What to Do With Myself",
-      "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "I Just Don't Know What to Do With Myself",
+      "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Burn the Ships",
+        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
+      },
+      "artists": [
+        {
+          "name": "Blacktop Mojo",
+          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
+        }
+      ],
+      "duration_ms": 265476,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Burn the Ships",
-        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
-      },
-      "artists": [
-        {
-          "name": "Blacktop Mojo",
-          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
-        }
-      ],
-      "duration_ms": 265476,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 321040,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "You're Living All Over Me",
         "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 321040,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Stairway to Nick John",
-        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
       "artists": [
         {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 485018,
-      "name": "Stairway to Heaven",
-      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+        "name": "Stairway to Nick John",
+        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+      "duration_ms": 485018,
+      "name": "Stairway to Heaven",
+      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 194359,
       "name": "Watching The Wheels",
       "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "At Night We Live",
+        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+      },
+      "artists": [
+        {
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -2079,22 +2095,6 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
-        "name": "At Night We Live",
-        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
-      },
-      "artists": [
-        {
-          "name": "Far",
-          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
         "name": "Eleanor Rigby",
         "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
       },
@@ -2107,22 +2107,6 @@
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2151,6 +2135,22 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2024-02-12 05:08:07",
@@ -2219,6 +2219,26 @@
     {
       "added_at": "2024-02-12 05:08:07",
       "album": {
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Wow That's What I Call Metalcore",
+          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
+        }
+      ],
+      "duration_ms": 293732,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2024-02-12 05:08:07",
+      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -2255,26 +2275,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": "2024-02-12 05:08:07",
-      "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Wow That's What I Call Metalcore",
-          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
-        }
-      ],
-      "duration_ms": 293732,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
     },
     {
       "added_at": "2024-02-12 05:08:07",
