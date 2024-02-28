@@ -1,4 +1,4 @@
-## Playlists \(7614\)
+## Playlists \(7615\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7313,6 +7313,7 @@
 - [pov: the final girl](/playlists/pretty/37i9dQZF1DXe6mC1lhUK7K.md)
 - [pov: u borrowed an alien's headphones](/playlists/pretty/37i9dQZF1DWW9lEco8NkcU.md)
 - [pov: ur slow dancing with your love at midnight](/playlists/pretty/37i9dQZF1DWZcQCn3wRBSc.md)
+- [pretty girls with machine guns](/playlists/pretty/6Okv16x3Ers130DBAaX0LT.md)
 - [primavera chill](/playlists/pretty/37i9dQZF1DX5tzVwq5dYaq.md)
 - [pulp](/playlists/pretty/37i9dQZF1DX3IplhwNexYg.md)
 - [pumpkin spice](/playlists/pretty/37i9dQZF1DX6cFbK8tUIPC.md)
