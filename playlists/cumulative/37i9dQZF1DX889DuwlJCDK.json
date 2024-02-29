@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "BONES AND ALL",
+        "url": "https://open.spotify.com/album/3WpaNdiEpHKaAi19WrLu63"
+      },
+      "artists": [
+        {
+          "name": "Su\u51f8ko D\u51f9koi",
+          "url": "https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199585,
+      "name": "BONES AND ALL",
+      "url": "https://open.spotify.com/track/2Xu7GrXNgDRdVTZaZ3wBO4"
+    },
+    {
+      "album": {
         "name": "Boom Boom Boom",
         "url": "https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21"
       },
@@ -1504,7 +1522,7 @@
     {
       "album": {
         "name": "Heart Beat",
-        "url": "https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU"
+        "url": "https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu"
       },
       "artists": [
         {
@@ -1515,6 +1533,24 @@
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293306,
+      "name": "Heart Beat",
+      "url": "https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl"
+    },
+    {
+      "album": {
+        "name": "Heart Beat",
+        "url": "https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU"
+      },
+      "artists": [
+        {
+          "name": "Hakubi",
+          "url": "https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-29",
       "duration_ms": 293306,
       "name": "Heart Beat",
       "url": "https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3"
@@ -5140,7 +5176,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 199585,
       "name": "\u307c\u30fc\u3093\u305a\u30fb\u3042\u3093\u3069\u30fb\u304a\u30fc\u308b",
       "url": "https://open.spotify.com/track/43uwyemoEPYGTxpefuifMt"

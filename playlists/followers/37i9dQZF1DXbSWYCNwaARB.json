@@ -1,7 +1,7 @@
 {
-  "2024-02-28": 846123,
+  "2024-02-29": 846262,
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover:\bLE SSERAFIM)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover:H1-KEY)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -581,6 +581,24 @@
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+    },
+    {
+      "album": {
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146197,
+      "name": "Bam Yang Gang",
+      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
       "album": {
@@ -1461,6 +1479,24 @@
       "duration_ms": 179120,
       "name": "DEEP",
       "url": "https://open.spotify.com/track/2afNmSvxjRvXw3Fqm9qWfK"
+    },
+    {
+      "album": {
+        "name": "H1-KEYnote #2 [Deeper]",
+        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
     },
     {
       "album": {
@@ -5839,7 +5875,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 181680,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
@@ -5919,6 +5955,24 @@
       "duration_ms": 220573,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
       "album": {
@@ -6419,7 +6473,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 162000,
       "name": "THE GIRLS - BLACKPINK THE GAME OST",
       "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
@@ -6957,7 +7011,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 191242,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"

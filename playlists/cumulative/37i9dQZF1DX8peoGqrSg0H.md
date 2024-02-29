@@ -4,7 +4,7 @@
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-450 songs - 1 day 2 hr 53 min
+451 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 | 2024-02-22 |  |
 | [I DON'T KNOW](https://open.spotify.com/track/2phiE1WK9XCqgumBH4AKuo) | [GRACE](https://open.spotify.com/artist/07QhtaY2Bl5FNhrWTVycwr) | [I DON'T KNOW](https://open.spotify.com/album/4iL1Ec3VImGfbjOWih4IRd) | 3:00 | 2022-09-29 | 2022-10-08 |
 | [I DON'T MISS YOU](https://open.spotify.com/track/0Xv1iMu2DaRL7R7g7dhQIa) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [I DON'T MISS YOU](https://open.spotify.com/album/58Yq6ydlcwCNCmoHmyHxuC) | 3:27 | 2022-05-26 | 2022-06-17 |
+| [I Got That Magic](https://open.spotify.com/track/1bSjf9p0HSAeZmrT2vF41w) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [I Got That Magic](https://open.spotify.com/album/6diTZb076jdj8JTtumIoT4) | 3:25 | 2024-02-28 |  |
 | [I'll Do It How You Like It](https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [I'll Do It How You Like It](https://open.spotify.com/album/5jJ39vXfSuJl5x13eh1Ne6) | 3:07 | 2022-05-26 | 2023-05-03 |
 | [I'm in Luv](https://open.spotify.com/track/6Z5yGBnJ6f8AtpvOQWO4FL) | [Angie](https://open.spotify.com/artist/4lfEIwtPWfHVtLbCmw89rs) | [I'm in Luv](https://open.spotify.com/album/7AecbajSviZJhyFeLmnqos) | 3:08 | 2022-09-29 | 2022-10-13 |
 | [Iceman Feat\. Morvasu](https://open.spotify.com/track/4ZIG4Hk85at180zNgnVTwl) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Iceman Feat\. Morvasu](https://open.spotify.com/album/0la9DGsYKsW2hcpSrP8ikj) | 3:40 | 2023-05-26 | 2023-06-02 |
@@ -245,7 +246,7 @@
 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0ZhLq2xUkUlc3YPuoWa6SE) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 | 2022-08-18 | 2023-07-22 |
 | [ปังปัง \(Unit Grande\)](https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23) | [The Glass Girls](https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als) | [ปังปัง \(Unit Grande\)](https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ) | 3:02 | 2023-06-01 | 2023-06-09 |
 | [ปิดทองหลังใจ](https://open.spotify.com/track/2Zt8K9ax9jiyUd0cDFCefJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ปิดทองหลังใจ](https://open.spotify.com/album/4COwnk7FKBbscPxGfLRbXy) | 3:11 | 2023-08-07 | 2023-09-29 |
-| [ปิ๊งไปป่ะ \(So Bright Baby\)](https://open.spotify.com/track/382vyfu2u0M8D8ixdoHsd2) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ปิ๊งไปป่ะ \(So Bright Baby\)](https://open.spotify.com/album/1szv6EkOzZsRg5YlRRGDjp) | 2:39 | 2024-02-15 |  |
+| [ปิ๊งไปป่ะ \(So Bright Baby\)](https://open.spotify.com/track/382vyfu2u0M8D8ixdoHsd2) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ปิ๊งไปป่ะ \(So Bright Baby\)](https://open.spotify.com/album/1szv6EkOzZsRg5YlRRGDjp) | 2:39 | 2024-02-15 | 2024-02-29 |
 | [ปีนไม่ไหว \- From Future วิศวะสุดหล่อกับคุณหมอของผม](https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm) | [Bever Patsapon](https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK) | [ปีนไม่ไหว \(From Future วิศวะสุดหล่อกับคุณหมอของผม\)](https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0) | 3:36 | 2023-02-23 | 2023-03-03 |
 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-10 |  |
 | [ผู้หญิงในฝัน \(Dream Girls\)](https://open.spotify.com/track/5yQbVafjD4dBdVbrYe3Aal) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ORIGINAL](https://open.spotify.com/album/5ZbaTj6RZJJdTw3gYOQ6h6) | 2:43 | 2024-01-17 | 2024-02-01 |

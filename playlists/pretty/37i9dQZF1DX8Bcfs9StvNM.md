@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,841 likes - 45 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,848 likes - 45 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 | 44 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 45 | [心を込めて花束を](https://open.spotify.com/track/0QHw0r6r8qh52ZlfTpSNz8) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:09 |
 
-Snapshot ID: `MCxhNzFlNDFjMTJiOGIyZTA2ZDg1MzA2ZjI2ZmE3YjdhODRmOGYyOWI1`
+Snapshot ID: `MCxmZTcxN2M0OTdiZGRkZjI5MDU5NzNmYWJhZTBlMmNmYjc2MzllZjM3`

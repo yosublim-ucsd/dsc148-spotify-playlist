@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-450 songs - 23 hr 49 min
+451 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 | 2021-12-16 | 2022-04-13 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-04-12 |  |
 | [Damages](https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Damages](https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK) | 2:49 | 2021-12-16 |  |
-| [Day 2 Day](https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Day 2 Day](https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf) | 2:48 | 2022-12-14 |  |
+| [Day 2 Day](https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Day 2 Day](https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf) | 2:48 | 2022-12-14 | 2024-02-29 |
 | [Day By Day](https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Day By Day](https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB) | 3:22 | 2021-12-16 | 2023-07-08 |
 | [Deep Trip](https://open.spotify.com/track/4h5PxOJugIKZdOmZCMGEr7) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Deep Trip](https://open.spotify.com/album/2wI9QCrd0Qh9RoLE2HBZGN) | 1:54 | 2023-03-02 | 2023-05-24 |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2021-12-16 |  |
@@ -210,6 +210,7 @@
 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 | 2021-12-16 |  |
 | [Konsentra](https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Konsentra](https://open.spotify.com/album/0S5ImD3mDpq22iXVNkT5d2) | 3:08 | 2021-12-16 |  |
 | [Kontrol](https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Kontrol](https://open.spotify.com/album/0qvdWQTD4DeilItZUvHecT) | 3:26 | 2021-12-16 | 2024-02-28 |
+| [Kontrol](https://open.spotify.com/track/5HeHtkXf4LBS05U8Au7q3g) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Kontrol](https://open.spotify.com/album/4o874HRJYyHc8LHgU92C2O) | 3:26 | 2024-02-23 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2023-01-19 |  |
 | [Kute & Neat](https://open.spotify.com/track/1P01cmmSQIaWnhjDe1fdQF) | [Sasique](https://open.spotify.com/artist/0IfOujGLUo7rVkWGg84Nd1) | [Kute & Neat](https://open.spotify.com/album/0ERXtxLbzljkQaluDv1WOY) | 3:09 | 2022-11-03 | 2022-12-21 |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-03-25 | 2022-04-21 |

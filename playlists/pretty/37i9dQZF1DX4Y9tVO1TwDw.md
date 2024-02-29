@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,976 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 23 | [NO HAY SEÑAL](https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [NO HAY SEÑAL](https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph) | 2:41 |
 | 24 | [Been That](https://open.spotify.com/track/3K9CIK6QbiIpOV3SkhxtW0) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Been That](https://open.spotify.com/album/0IqzERcAhNU3TqoxnT1Lj5) | 1:56 |
 | 25 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 |
-| 26 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
-| 27 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 |
+| 26 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 |
+| 27 | [¿Qué Nos Pasó?](https://open.spotify.com/track/3HFoiMqUstpjKGuCnAYQ2U) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Nos Pasó?](https://open.spotify.com/album/1DWrE8Xky9itsV13fWyPEJ) | 3:59 |
 | 28 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
 | 29 | [Cuéntame](https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cuéntame](https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS) | 2:56 |
 | 30 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
 | 54 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 
-Snapshot ID: `MCw1NzZmOTc4NmI2NDA2YmYwOWNhMDZmMTc2OGRkY2M5YWQyZjZhMjA0`
+Snapshot ID: `MCwyNDAyNTIwM2M5OTg4ZTIzNTJiZDg1M2I4MTk4MGI0ZmIyYjgzZGZi`

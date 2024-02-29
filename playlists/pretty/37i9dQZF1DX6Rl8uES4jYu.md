@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,873 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,878 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 81 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
 | 82 | [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 |
 | 83 | [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 |
-| 84 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 |
+| 84 | [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 |
 | 85 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 |
 | 86 | [I Told You](https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [I Told You](https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp) | 3:27 |
 | 87 | [Baby Boo](https://open.spotify.com/track/36UY111WEuMBKpF189a6m1) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 |
 | 100 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 |
 
-Snapshot ID: `MCxmZWY0MzYxNGUzOTkxYTUzYzY5NDkwY2E0ZGNlMmY4OGRmMDIwMjFl`
+Snapshot ID: `MCwxOTdjM2VmNGRjNTMwOGY2ODdhMDUxYThmY2Y1ZTM1NjEzOGEyOWQ4`

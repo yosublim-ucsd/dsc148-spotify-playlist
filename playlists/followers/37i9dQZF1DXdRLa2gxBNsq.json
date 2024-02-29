@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 102307,
+  "2024-02-29": 102341,
   "date_first_scraped": "2023-12-19",
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
   "name": "Punk Espa\u00f1ol",
@@ -753,6 +753,24 @@
     {
       "album": {
         "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
+      },
+      "artists": [
+        {
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227991,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY"
+    },
+    {
+      "album": {
+        "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
       "artists": [
@@ -763,7 +781,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 227992,
       "name": "Gernika",
       "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"

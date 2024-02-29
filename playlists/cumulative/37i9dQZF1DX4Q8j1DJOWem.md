@@ -2,7 +2,7 @@
 
 ### [RADAR Thailand 2023](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ศิลปิน: PiXXiE
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ศิลปิน: Flower.far
 
 149 songs - 9 hr 24 min
 
@@ -29,7 +29,7 @@
 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 | 2024-02-18 |  |
 | [Locker](https://open.spotify.com/track/43rGeSTINiWovwNPiQGAXl) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Locker](https://open.spotify.com/album/6Z4hEV3oVdbCiJd4yYJqu7) | 2:29 | 2022-09-15 | 2022-11-24 |
 | [Lonely \(Extrovert?\)](https://open.spotify.com/track/3Swv2AEOzXaGL0j100O5fK) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Lonely \(Extrovert?\)](https://open.spotify.com/album/6aXRR12EPkiyoWZvC09pMy) | 2:49 | 2023-09-15 | 2023-10-06 |
-| [May I?](https://open.spotify.com/track/1MWPdQMZD2tPJmmFgH3wwW) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [May I?](https://open.spotify.com/album/75lB1IBnVNFwuC9c974gsh) | 3:47 | 2023-10-05 | 2024-01-12 |
+| [May I?](https://open.spotify.com/track/1MWPdQMZD2tPJmmFgH3wwW) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [May I?](https://open.spotify.com/album/75lB1IBnVNFwuC9c974gsh) | 3:47 | 2023-10-05 |  |
 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 | 2022-09-15 | 2023-08-26 |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-04-13 |  |
 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-04-20 | 2023-05-09 |
@@ -81,7 +81,7 @@
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-09-15 |  |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/5nvdbRKg9fOixXotcZIQuF) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:54 | 2024-02-18 |  |
 | [ดวงตา \(Eyes\)](https://open.spotify.com/track/2cgk7fHnqkY7lhDP0F1KZb) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [LAVNDR](https://open.spotify.com/album/2oUXL1OYvl6rdGJInjBUkN) | 3:33 | 2022-09-15 | 2023-01-11 |
-| [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 | 2023-04-13 |  |
+| [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 | 2023-04-13 | 2024-02-29 |
 | [ตลอดไปที่เป็นจริง \(คือโดนทิ้งตลอดกาล\)](https://open.spotify.com/track/33KlpDka9LzP7XGF2onlhh) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 3:05 | 2023-11-10 |  |
 | [ตัดใจรอบที่ล้าน](https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [ตัดใจรอบที่ล้าน](https://open.spotify.com/album/2eId6fIdesXWoFQvyV69u8) | 3:41 | 2023-05-08 | 2024-01-12 |
 | [ตัดไปให้พอ](https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [ตัดไปให้พอ](https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f) | 4:38 | 2023-04-13 | 2023-09-16 |

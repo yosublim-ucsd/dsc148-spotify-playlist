@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Bad Omens & Poppy on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478,454 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,478,757 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Cyanide](https://open.spotify.com/track/0lqnTPAsozxC6XQgoV7k7N) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 3:44 |
 | 75 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 |
 
-Snapshot ID: `MCw4M2MwYmY4YjNkN2QzYjY2M2IyNWNlNWRmNzc1OWRkNDE2NWNlNGE1`
+Snapshot ID: `MCw4NTNkNDFkYmQzOWJjZTQ1ZTI2M2QxMjNjNTVlMWVlYzIzYzUxMWQ4`

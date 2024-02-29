@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 117770,
+  "num_followers": 117802,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY1ZWJmMjdjNDcwMDE1YTc4NDMyOTMwZThmYjZmYTA0ZGY1YTVi",
+  "snapshot_id": "MCwzNDlkNWJmYTdhY2YzZjMzY2U1ZWYxZGU3MTY0ZDEzYmMxOGUwN2Nm",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Alone in Kyoto",
+      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 283406,
       "name": "C-Side",
       "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Alone in Kyoto",
-      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
+      },
+      "artists": [
+        {
+          "name": "Ned Doheny",
+          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
+        }
+      ],
+      "duration_ms": 281733,
+      "name": "Get It Up For Love",
+      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 167493,
       "name": "Pa L\u00e9",
       "url": "https://open.spotify.com/track/2nK0JwkBzP8wb6BTwsL6yv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
-      },
-      "artists": [
-        {
-          "name": "Ned Doheny",
-          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
-        }
-      ],
-      "duration_ms": 281733,
-      "name": "Get It Up For Love",
-      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Mister Mellow",
-        "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Hard To Say Goodbye",
-      "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Mister Mellow",
+        "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Hard To Say Goodbye",
+      "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
       },
@@ -1167,6 +1151,42 @@
       "duration_ms": 258651,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0pKEwIOy9w7BHOEAcWPgwf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1199,26 +1219,6 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2023-07-14 11:01:37",

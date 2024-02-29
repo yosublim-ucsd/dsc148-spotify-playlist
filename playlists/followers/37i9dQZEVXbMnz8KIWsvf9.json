@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 155200,
+  "2024-02-29": 155233,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Thailand.",
   "name": "Top 50 - Thailand",
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 175533,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/56vA4AoGec8ae9nmdprBBI"
@@ -5073,7 +5073,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Lie With You",
       "url": "https://open.spotify.com/track/39uhLliuH6Otvhg9duW9Fb"
@@ -6337,6 +6337,24 @@
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "album": {
+        "name": "TEN - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "ON TEN",
+      "url": "https://open.spotify.com/track/41KTGiWZ3acbnlUqTpiL7Y"
     },
     {
       "album": {
@@ -7702,6 +7720,24 @@
     },
     {
       "album": {
+        "name": "TEN - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/05bEOekC31J9F7tH8jEuJw"
+    },
+    {
+      "album": {
         "name": "SHALALA - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
       },
@@ -7929,7 +7965,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -8557,7 +8593,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 246818,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF"
@@ -8825,6 +8861,24 @@
       "duration_ms": 196170,
       "name": "Tamed-Dashed",
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+    },
+    {
+      "album": {
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157906,
+      "name": "TAP",
+      "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
     },
     {
       "album": {
@@ -9642,6 +9696,24 @@
     },
     {
       "album": {
+        "name": "TEN - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0fl3T6cekhgAxYu5xLWefX"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
       },
@@ -10069,7 +10141,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 214145,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1a\u0e2d\u0e01\u0e25\u0e32 (JUST TO LET ME KNOW)",
       "url": "https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO"
@@ -12741,7 +12813,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 195000,
       "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
       "url": "https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW"
@@ -12997,7 +13069,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 317656,
       "name": "\u0e2b\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e02\u0e2d (Sincare)",
       "url": "https://open.spotify.com/track/4njC4CPPqAQZ5bo6eEjP0e"
@@ -14211,7 +14283,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 235058,
       "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"

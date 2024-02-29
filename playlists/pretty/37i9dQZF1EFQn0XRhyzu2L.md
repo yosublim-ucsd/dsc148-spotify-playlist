@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,496 likes - 487 songs - 1 day 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,499 likes - 487 songs - 1 day 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -496,4 +496,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 486 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 487 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 
-Snapshot ID: `Mjg0ODQ3NzAsMDAwMDAwMDBjZGEyOTIwMDc0NWQyNTI1NWYyOGIzMzBjMDNmZTJhYg==`
+Snapshot ID: `Mjg0ODYyMTAsMDAwMDAwMDA1MWIyMTQzMzY3MGU2MzJiZGFmYzg0YmZlMjM1ZTc2Ng==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,282 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,311 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 38 | [Akouna](https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp) | 3:50 |
 | 39 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 |
 | 40 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
-| 41 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 |
-| 42 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
+| 41 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
+| 42 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 |
 | 43 | [Si Yo Vle](https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Medjy](https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48), [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio), [Steves J Bryan](https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h) | [Rap ap rete Rap](https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk) | 3:56 |
 | 44 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
 | 45 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 76 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
 | 77 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
 | 78 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 |
-| 79 | [Se Ou M Chwazi](https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim) | [D\-Singer](https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf), [Rob Vital](https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY) | [Se Ou M Chwazi](https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx) | 3:38 |
-| 80 | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Meer Colon](https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP) | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ) | 2:48 |
+| 79 | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Meer Colon](https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP) | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ) | 2:48 |
+| 80 | [Se Ou M Chwazi](https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim) | [D\-Singer](https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf), [Rob Vital](https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY) | [Se Ou M Chwazi](https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx) | 3:38 |
 | 81 | [Iko Kreyòl](https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Win Butler](https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN), [Regine Chassagne](https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [79rs Gang](https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX) | [HaitiaNola](https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z) | 3:02 |
 | 82 | [Li Cho](https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Li Cho](https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z) | 2:41 |
 | 83 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 100 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 
-Snapshot ID: `MCwwZTEyNGU3ZWU2OTEwNThkMDk5MDI5NTU4ZmFmMjE0NDRmYzZhNWY1`
+Snapshot ID: `MCw5OGVkMzlhMzY4NmQ2NmIyNTc2NjgzNTE0MDEyNjhmYzYzOWE5MTMw`

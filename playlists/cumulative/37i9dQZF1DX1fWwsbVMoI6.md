@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-142 songs - 9 hr 51 min
+143 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Siempre Perdi en el Amor](https://open.spotify.com/track/0XImsQjaygbQRPPZYBtLQB) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [20 Super Exitos \- Tecnocumbias](https://open.spotify.com/album/5TGfWMjRf7RlLk5FCeE3gO) | 3:14 | 2023-09-22 | 2024-02-15 |
 | [Siempre Pierdo en el Amor](https://open.spotify.com/track/0YVUUyBOAKembHPXCSR8Lt) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 3:12 | 2022-02-11 | 2023-06-04 |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/78oRCsKraelp8RRDunjKCy) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Gracias Perú 29 Años](https://open.spotify.com/album/0AnoCuZDCVr9ERtRsq4jvF) | 3:12 | 2024-02-16 | 2024-02-23 |
+| [Siempre Pierdo En El Amor](https://open.spotify.com/track/1A648ERnpW9SHDpw8KpYXM) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Éxitos Solo Éxitos...](https://open.spotify.com/album/6xe1EYr5iZlv9rFBY4Nju1) | 3:13 | 2024-02-16 |  |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/2Kd77oLlsoQawZSf9p8FGz) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Éxitos Solo Éxitos....](https://open.spotify.com/album/56iRDc7QIkDSJx0zt9k7Xe) | 3:13 | 2023-09-22 | 2024-02-08 |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/5Ti64XuKfJ3WOEBtsmgQwo) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/4b8oxjXF5LqxnOD5nyTJ8j) | 3:14 | 2023-03-31 | 2023-09-20 |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/6mJObKwNw6bwuJcrvjoCA1) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj) | 3:14 | 2023-03-31 | 2023-09-03 |
@@ -148,7 +149,7 @@
 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 | 2022-02-11 | 2022-07-21 |
 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 | 2022-02-11 |  |
 | [Viento](https://open.spotify.com/track/2CvBrHyfDmffGMrrnTVRJc) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s), [Chacalón](https://open.spotify.com/artist/4JytKwWujUJd1hpnIIvGID) | [Selección de Éxitos](https://open.spotify.com/album/2rqw22oBdE0rMzzqEzC7zg) | 3:42 | 2022-02-11 | 2022-06-10 |
-| [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 | 2022-02-11 |  |
+| [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 | 2022-02-11 | 2024-02-29 |
 | [Yo Soy Mucha Mujer](https://open.spotify.com/track/67w7ph9EeMQZwv5cXAsU7w) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Yo Soy Mucha Mujer](https://open.spotify.com/album/45gyrfus8ic01fJqij9k3V) | 4:08 | 2022-02-11 | 2022-07-22 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

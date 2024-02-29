@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: LH CHUCRO, The Boy, N.A.N.A.",
-  "num_followers": 128659,
+  "num_followers": 128698,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODdmODdjOTRjNTFhNjQ1ZTQzNGRiYzYwNWY1OTQwMmQyYjk2OGNi",
+  "snapshot_id": "MCw3MjRjOGUyOWFhNTRiMTNhMjk0MzYyMGVjNzZhZDc3MTA5YTg4NWZh",
   "tracks": [
     {
       "added_at": "2024-02-26 21:37:58",
@@ -691,30 +691,6 @@
     {
       "added_at": "2024-02-26 21:37:58",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-02-26 21:37:58",
-      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/1yoIUirGVCs4WyqfkNYxCN"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 362602,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/407XSWc8UYwjp9BfGyMIcZ"
+    },
+    {
+      "added_at": "2024-02-26 21:37:58",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-02-26 21:37:58",
@@ -979,30 +979,6 @@
     {
       "added_at": "2024-02-26 21:37:58",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Dj Alle da coro",
-          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Boa Sorte Mesmo",
-      "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
-    },
-    {
-      "added_at": "2024-02-26 21:37:58",
-      "album": {
         "name": "Vida Cara (Deluxe)",
         "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 340425,
       "name": "Floripa",
       "url": "https://open.spotify.com/track/38r9CzTvjFuEC4PrzRI78K"
+    },
+    {
+      "added_at": "2024-02-26 21:37:58",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Boa Sorte Mesmo",
+      "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
     },
     {
       "added_at": "2024-02-26 21:37:58",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2024-02-26 21:37:58",
       "album": {
-        "name": "Ponto de Equil\u00edbrio",
-        "url": "https://open.spotify.com/album/56lY6xlUwnfbpbiQ7OKupg"
-      },
-      "artists": [
-        {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
-        },
-        {
-          "name": "Druhh e Drehh",
-          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
-        },
-        {
-          "name": "Real Bege",
-          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
-        },
-        {
-          "name": "Anti Ayoa",
-          "url": "https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 238767,
-      "name": "Ponto de Equil\u00edbrio",
-      "url": "https://open.spotify.com/track/22tJsph3R8RtaNJokrAxod"
-    },
-    {
-      "added_at": "2024-02-26 21:37:58",
-      "album": {
         "name": "Victoria's Secrets",
         "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 181224,
       "name": "Victoria's Secrets",
       "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
+    },
+    {
+      "added_at": "2024-02-26 21:37:58",
+      "album": {
+        "name": "Ponto de Equil\u00edbrio",
+        "url": "https://open.spotify.com/album/56lY6xlUwnfbpbiQ7OKupg"
+      },
+      "artists": [
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        },
+        {
+          "name": "Anti Ayoa",
+          "url": "https://open.spotify.com/artist/163jYTZvbiCiNlpqL3YJjM"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 238767,
+      "name": "Ponto de Equil\u00edbrio",
+      "url": "https://open.spotify.com/track/22tJsph3R8RtaNJokrAxod"
     },
     {
       "added_at": "2024-02-26 21:37:58",

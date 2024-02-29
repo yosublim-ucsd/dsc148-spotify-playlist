@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179 likes - 175 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178 likes - 175 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 174 | [El Problema](https://open.spotify.com/track/5dXTVrRz1VXQgs51b8Jftf) | [Ralph Armon](https://open.spotify.com/artist/4PygBCAS3Wkmodf5ANSkmB), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [El Problema](https://open.spotify.com/album/3BPunIg44Toi7BxHpllZAy) | 2:57 |
 | 175 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `Mjg0ODQ3NzAsMDAwMDAwMDAyYWMyYWJmNmJlMTBhNDlkOGVmY2E4ZTgzM2I5ZDZmYQ==`
+Snapshot ID: `Mjg0ODYyMTAsMDAwMDAwMDAzNTQ2Njk4NzQ5ZDYxMTE4MzNjOWFiY2U2MDczZWQ4Mg==`

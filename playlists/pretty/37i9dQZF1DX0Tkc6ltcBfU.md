@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,956 likes - 94 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,072 likes - 94 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 93 | [﻿Blood Splatter](https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [﻿Blood Splatter](https://open.spotify.com/album/2Eshb0J0Fqojqu8msgOE6x) | 2:31 |
 | 94 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 |
 
-Snapshot ID: `MCxhZmQyMmE0M2Q4ZjMxOWYyMzU1NjRmNjc1NWZjMDYxODBkMTM5ZDZl`
+Snapshot ID: `MCw3YmZkMjM3MDU5MjQ1OWFkODY3MWFmY2E3ZDhjMjQyNTEzNDRjNGUx`

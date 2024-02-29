@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Hannah Mae
 
-212 songs - 10 hr 55 min
+213 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [De Kapitein Deel II](https://open.spotify.com/track/3lhpOjOF3GZsjNFgMhHtgb) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Hier Zijn](https://open.spotify.com/album/05mRWy5ShAQyH3Rjp1lhTP) | 3:01 | 2023-02-24 | 2023-11-11 |
 | [De Manier](https://open.spotify.com/track/68qTD5PAoqFgrkw5W2DHL5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Crane III](https://open.spotify.com/album/3CeS5U6nCvcFrtWrbsmIJn) | 3:25 | 2024-02-02 |  |
 | [Dit Is De Dag](https://open.spotify.com/track/5KzAMpIepQFFNQvj0gkxuU) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Dit Is De Dag](https://open.spotify.com/album/3lhTzgO1x5G48bqsOGG3Kn) | 2:53 | 2023-02-24 | 2023-04-07 |
-| [Don't Want A Heart](https://open.spotify.com/track/4ptuHdQQ7VMgiTwwisOOUr) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2023 \(Aflevering 8\- Duetten\)](https://open.spotify.com/album/0H0YZXJcL3FUaBpLy9HFwb) | 3:26 | 2023-11-10 |  |
+| [Don't Want A Heart](https://open.spotify.com/track/4ptuHdQQ7VMgiTwwisOOUr) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2023 \(Aflevering 8\- Duetten\)](https://open.spotify.com/album/0H0YZXJcL3FUaBpLy9HFwb) | 3:26 | 2023-11-10 | 2024-02-29 |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-24 | 2023-09-09 |
 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 | 2024-02-07 |  |
 | [Draaien](https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Draaien](https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp) | 3:25 | 2023-11-10 |  |
@@ -179,6 +179,7 @@
 | [Sterrenstof](https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 3:40 | 2023-02-24 | 2024-02-14 |
 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 | 2023-02-24 |  |
 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 | 2023-02-24 | 2023-09-22 |
+| [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-02-28 |  |
 | [Sweet Goodbyes](https://open.spotify.com/track/4NH0G33zApUnRNsSK0CwuN) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Sweet Goodbyes](https://open.spotify.com/album/01jUXWDoLYVABwZccg1RbO) | 3:12 | 2023-02-24 | 2024-02-03 |
 | [Terug Bij Af ft\. Ronnie Flex](https://open.spotify.com/track/65rDc2X5XZNs9mCvnJyaR1) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Terug Bij Af ft\. Ronnie Flex](https://open.spotify.com/album/1mAlhigBTplhT8aYBo9tFc) | 3:06 | 2023-02-24 | 2023-09-22 |
 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 | 2023-03-30 | 2023-09-02 |

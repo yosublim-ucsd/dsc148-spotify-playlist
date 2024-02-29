@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 453164,
+  "2024-02-29": 453341,
   "date_first_scraped": "2021-12-28",
   "description": "The best new rock tracks every week. Cover: Jazmin Bean",
   "name": "All New Rock",
@@ -7299,7 +7299,7 @@
     {
       "album": {
         "name": "Base Camp",
-        "url": "https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW"
+        "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
       "artists": [
         {
@@ -7310,6 +7310,24 @@
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205107,
+      "name": "Base Camp",
+      "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
+    },
+    {
+      "album": {
+        "name": "Base Camp",
+        "url": "https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-28",
       "duration_ms": 205107,
       "name": "Base Camp",
       "url": "https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi"

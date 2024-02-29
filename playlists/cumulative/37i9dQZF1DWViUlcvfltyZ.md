@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Arianna Pasini
 
-770 songs - 1 day 18 hr 48 min
+772 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [ADRENALINA](https://open.spotify.com/track/5LYTI3bURxYBWPogQEFClx) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [AMICI COME PRIMA](https://open.spotify.com/album/3JWUk346U6XiB7Q1nlTybY) | 2:28 | 2023-11-21 | 2024-01-19 |
 | [ADRENALINA](https://open.spotify.com/track/6QaCGYJKeuGrg0jTHv3eS4) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [AMICI COME PRIMA](https://open.spotify.com/album/1CEc97gdSCxBJ53JKzVeXN) | 2:28 | 2023-11-09 | 2023-11-22 |
 | [Aeroporto di città](https://open.spotify.com/track/5AobQ54GCauJZy45LStLg6) | [Eva\-Q](https://open.spotify.com/artist/3cBfELczRjo7xPOzgoBaS9) | [Aeroporto di città](https://open.spotify.com/album/5uu5BlWrM1msUIhiHlP04J) | 2:50 | 2022-12-15 | 2023-03-10 |
+| [Affinché il mare](https://open.spotify.com/track/6fggERrkZKxl3N9Q28RhJ9) | [Simone Matteuzzi](https://open.spotify.com/artist/5cdl8CeIBbKg7a7hNswfmk) | [Affinché il mare](https://open.spotify.com/album/5KFKckzSUs8aSWwiVTAagF) | 3:57 | 2024-02-28 |  |
 | [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 | 2022-08-12 |
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
@@ -572,6 +573,7 @@
 | [Religione](https://open.spotify.com/track/3ub4NLZaKzI3VgjK1Y6rh6) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Religione](https://open.spotify.com/album/1tagO5z43CGsbmETkOp4YN) | 2:48 | 2023-04-06 | 2023-06-16 |
 | [Requiem for TP](https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r) | [Marnero](https://open.spotify.com/artist/1x22C5vb3nBm1GAmQxwz8N) | [Requiem for TP](https://open.spotify.com/album/3G2XhOuo98pWcII855p9ub) | 4:11 | 2022-10-10 | 2022-11-25 |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2022-09-30 |
+| [Resta](https://open.spotify.com/track/045ZrdHAwkC4tmeZbMRnAV) | [tatà](https://open.spotify.com/artist/4QoYQE9SrNOfQaBdb5Xt1M) | [Resta](https://open.spotify.com/album/2xBezxO3xq3mQisYOeOGdC) | 3:02 | 2024-02-28 |  |
 | [Resto solo io](https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY), [Omar Pedrini](https://open.spotify.com/artist/61qOS3wPz5dNeycrYEzfbb) | [Fulmini](https://open.spotify.com/album/0b7cQnE7oNuoB1NKWPNI0t) | 2:51 | 2022-09-15 | 2022-10-07 |
 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 | 2022-11-03 | 2022-12-24 |
 | [Rincorretevi](https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP) | [Androgy̆nus](https://open.spotify.com/artist/4vOuZX3Pw0gO295lAdpDZT) | [Rincorretevi](https://open.spotify.com/album/6mPLQCRlvvFyWFW8A3Rd8K) | 5:05 | 2022-05-19 | 2022-07-01 |

@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Allie X
 
-604 songs - 1 day 3 hr 41 min
+606 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 | 2023-07-08 |
 | [MASOCHIST](https://open.spotify.com/track/3wlU8UYOvnnbt9BYkBqrgH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [OVER HER DEAD BODY](https://open.spotify.com/album/16VkEvSvpJZVdqchm8E6F2) | 2:23 | 2023-10-13 | 2023-12-09 |
 | [Masterclass](https://open.spotify.com/track/0H5nic3dfKXg09HQGmcmTq) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Masterclass](https://open.spotify.com/album/5s865EPaHzPgrilRTsz1GA) | 2:52 | 2022-04-29 | 2022-06-18 |
+| [Masterpiece](https://open.spotify.com/track/3qkKAfqOn7laGPeVicY1bX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Masterpiece](https://open.spotify.com/album/1fO1r3rTHIcF1s6pG8EGZs) | 2:54 | 2024-02-28 |  |
 | [Maybe All the Rumours Are True](https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Maybe All the Rumours Are True](https://open.spotify.com/album/5bzK7vxzep2qDCOUxvXwAr) | 3:14 | 2022-07-22 | 2023-03-25 |
 | [me\-a\-holic](https://open.spotify.com/track/4n3g8GiuRDZ8WzRd7sU6r0) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [me\-a\-holic](https://open.spotify.com/album/7oRhBhXgzzU1dB8svLcEaP) | 2:08 | 2023-10-20 | 2024-01-20 |
 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 | 2021-12-10 | 2022-08-20 |
@@ -424,6 +425,7 @@
 | [Psychopath](https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Psychopath](https://open.spotify.com/album/306xhPeWyo9hurUtAbp19u) | 2:00 | 2022-04-22 | 2022-09-06 |
 | [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 | 2023-10-06 | 2023-11-11 |
 | [Puppy Luv <3](https://open.spotify.com/track/70a19sYodwy0NyVRAKoqK4) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Puppy Luv <3](https://open.spotify.com/album/5MkrPjIlUUVtgtiXTtdexE) | 2:21 | 2023-09-22 | 2023-10-19 |
+| [pure violence](https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut) | [Ava Morse](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [pure violence](https://open.spotify.com/album/7fPsKJHOMQT11iNN2crFKu) | 2:48 | 2024-02-28 |  |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-01-21 | 2022-03-18 |
 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2023-09-08 | 2023-10-21 |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-09-23 | 2022-11-12 |

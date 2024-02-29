@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Bonny Light Horseman
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,231 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,314 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Letting Things Go](https://open.spotify.com/track/5ua2M4ijwRgQy9xQKsGXzG) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ) | [Letting Things Go](https://open.spotify.com/album/6MNCxoXONutvv8SNHiJ6K3) | 2:32 |
 | 150 | [Greenbow Jenny](https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Greenbow Jenny](https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy) | 5:07 |
 
-Snapshot ID: `MCxkMDk0ZGU3MzAxYjEzOGM3NGI1MGZmMTdhNDJiZTFjMGU2NzNkMjE0`
+Snapshot ID: `MCxlYTBkNDk2YzljYjY2YjM5ZWEwZTYyMGE2YWQ4ODA5YmEzZDZlOTVi`

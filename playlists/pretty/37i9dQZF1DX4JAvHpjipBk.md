@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from SZA, Selena Gomez, Kodak Black, Bleachers, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,161,180 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,161,316 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [MONKI](https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MONKI](https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm) | 2:44 |
 | 99 | [Hand On Me](https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Hand On Me](https://open.spotify.com/album/1ju50ud1Izkhb3sKfjVINg) | 3:35 |
 
-Snapshot ID: `MCxiODY1NDljMTk1NDYyYzExMjg2ODIwNjUyOGM4ZGM5ZjhlYThjZWRl`
+Snapshot ID: `MCxmMGQ4NTNlZjBmN2NlNDczMTk2MjVjY2U4ZGJmNTk3YTljODMwM2Nh`

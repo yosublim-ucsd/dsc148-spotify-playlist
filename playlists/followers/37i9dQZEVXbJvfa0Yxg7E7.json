@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 541575,
+  "2024-02-29": 541606,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
@@ -13087,7 +13087,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 116197,
       "name": "H\u00e6ljetur (feat. Hagle)",
       "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
@@ -27905,6 +27905,28 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Jordan Mackampa
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,858 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,903 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 64 | [Glad \- Vocal Mix](https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Glad](https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN) | 4:35 |
 | 65 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 |
 | 66 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
-| 67 | [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 |
+| 67 | [WASABI](https://open.spotify.com/track/2xM0qj1bxFldH3BgLIzcve) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:47 |
 | 68 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 |
 | 69 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 | 70 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 100 | [Bad Vibes \- Duss Hagen Remix](https://open.spotify.com/track/0FQLZBjjbgWPvywGYVi7qq) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK), [Duss Hagen](https://open.spotify.com/artist/5fMHCBdB7H8fyKwkQuiN9M) | [Bad Vibes \(Duss Hagen Remix\)](https://open.spotify.com/album/7JSqjbgXJIqndFYtLQe8XG) | 2:59 |
 
-Snapshot ID: `MCwzNjZhMWE5NzQxMmFiNGQ4YWE1OWE3M2JjZDQyOGM1MDVkNTQ5M2Qz`
+Snapshot ID: `MCxiZDliYjY2MzFkOTJmMWMzOTc5Y2FhYTMzZTdlZDcyYzA2ZjhlY2U4`

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 12128,
+  "2024-02-29": 12883,
   "date_first_scraped": "2024-02-08",
   "description": "late night vibes \u2013 notifications off.",
   "name": "DND.",
@@ -945,10 +945,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 161226,
       "name": "W.Y.D? (What Is We Doing)",
       "url": "https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa"
+    },
+    {
+      "album": {
+        "name": "W.Y.D? (What Is We Doing)",
+        "url": "https://open.spotify.com/album/7DujmrgQdN0seUyOfd3Efe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Witherspoon",
+          "url": "https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161226,
+      "name": "W.Y.D? (What Is We Doing)",
+      "url": "https://open.spotify.com/track/3OWUyVb4qnKhczFwvuYwpR"
     },
     {
       "album": {

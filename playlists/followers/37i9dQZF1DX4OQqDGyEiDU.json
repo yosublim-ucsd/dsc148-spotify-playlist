@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 82429,
+  "2024-02-29": 82453,
   "date_first_scraped": "2022-06-10",
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
   "name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
@@ -318,6 +318,28 @@
     },
     {
       "album": {
+        "name": "Anoryuuwoutsutoiunonara",
+        "url": "https://open.spotify.com/album/1AMlMnLy6RI5EoPlrltccR"
+      },
+      "artists": [
+        {
+          "name": "Yuuyu",
+          "url": "https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173397,
+      "name": "Anoryuuwoutsutoiunonara",
+      "url": "https://open.spotify.com/track/3XsCn2Ascsnj7iPvvH1YkQ"
+    },
+    {
+      "album": {
         "name": "ULTRAPANIC2",
         "url": "https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV"
       },
@@ -567,6 +589,24 @@
       "duration_ms": 271500,
       "name": "Brand New Day",
       "url": "https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ"
+    },
+    {
+      "album": {
+        "name": "Bring me",
+        "url": "https://open.spotify.com/album/6BTi2oETfQWmpRHc4uDdVN"
+      },
+      "artists": [
+        {
+          "name": "nulut",
+          "url": "https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bring me",
+      "url": "https://open.spotify.com/track/6TcZGGwg86VdKWOB8WzVzO"
     },
     {
       "album": {
@@ -1689,7 +1729,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 234733,
       "name": "Kagerou Days",
       "url": "https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z"
@@ -2333,7 +2373,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 208991,
       "name": "Non-breath oblige",
       "url": "https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H"
@@ -3605,6 +3645,36 @@
       "duration_ms": 186820,
       "name": "\u3042\u308f\u3088\u304f\u3070\u304d\u307f\u306e\u7737\u5c5e\u306b\u306a\u308a\u305f\u3044\u306a",
       "url": "https://open.spotify.com/track/7yl3AW0ldzY6mVKnTjIySq"
+    },
+    {
+      "album": {
+        "name": "\u3046\u3089\u3084\u307f\u3057\u3044 (feat. Kai,\u521d\u97f3\u30df\u30af,\u53ef\u4e0d)",
+        "url": "https://open.spotify.com/album/46CCqNpwGw3LRgENm97aGk"
+      },
+      "artists": [
+        {
+          "name": "ESHIKARA",
+          "url": "https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih"
+        },
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "\u3046\u3089\u3084\u307f\u3057\u3044 - feat. Kai,\u521d\u97f3\u30df\u30af,\u53ef\u4e0d",
+      "url": "https://open.spotify.com/track/0m5i8xeVVUeDs3m3A2V6es"
     },
     {
       "album": {
@@ -10277,7 +10347,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"

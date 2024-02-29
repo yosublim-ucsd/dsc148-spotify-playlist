@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1215360,
+  "num_followers": 1215552,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWFhZGYyNzQwODUyY2RkMjgxODZjYzAzMTQ3NjQxMjdmODIxMGQ4",
+  "snapshot_id": "MCw2ODBiZjY4NjZjZTAwNDc4YjZkOGJmMTY0NDRmZGUzMGU2OTViNDk4",
   "tracks": [
     {
       "added_at": "2024-02-21 07:35:48",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
         "name": "Lover Man (Oh, Where Can You Be?)",
         "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 183901,
       "name": "Lover Man (Oh, Where Can You Be?)",
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 361306,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/6hasqtBBPBVsJfkH32z2dU"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 208373,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 361306,
-      "name": "Everytime We Say Goodbye",
-      "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
         "name": "Language of Love",
         "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "Ain't No Sunshine / My One and Only Love",
-        "url": "https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC"
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 280706,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
+      "duration_ms": 211360,
+      "name": "Sunday Kind of Love",
+      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
+        "name": "Ain't No Sunshine / My One and Only Love",
+        "url": "https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC"
       },
       "artists": [
         {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Sunday Kind of Love",
-      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
+      "duration_ms": 280706,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 277226,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "Sweet Pumpkin",
-        "url": "https://open.spotify.com/album/0POEh5608y0eem6LXKOG76"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        },
-        {
-          "name": "Pasquale Grasso",
-          "url": "https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY"
-        }
-      ],
-      "duration_ms": 234446,
-      "name": "Sweet Pumpkin",
-      "url": "https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
         "name": "True Love: A Celebration Of Cole Porter",
         "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
@@ -1171,6 +1151,42 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
+        "name": "Sweet Pumpkin",
+        "url": "https://open.spotify.com/album/0POEh5608y0eem6LXKOG76"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Pasquale Grasso",
+          "url": "https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY"
+        }
+      ],
+      "duration_ms": 234446,
+      "name": "Sweet Pumpkin",
+      "url": "https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
         "name": "My Funny Valentine: The Chet Baker Songbook",
         "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 222106,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
       },
       "artists": [
         {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+      "duration_ms": 327000,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
         }
       ],
-      "duration_ms": 327000,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -1403,50 +1419,6 @@
       "duration_ms": 172186,
       "name": "It's Always You",
       "url": "https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
-        "name": "Live Sings Sassy",
-        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
-      },
-      "artists": [
-        {
-          "name": "Live Foyn Friis",
-          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
-        },
-        {
-          "name": "B\u00e5rd Helgerud",
-          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
-        },
-        {
-          "name": "Rodrigo Villagra",
-          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
-        },
-        {
-          "name": "Magnus Sefaniassen Eide",
-          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
-        }
-      ],
-      "duration_ms": 376085,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -1495,6 +1467,34 @@
       "duration_ms": 265746,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
+        "name": "Live Sings Sassy",
+        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
+      },
+      "artists": [
+        {
+          "name": "Live Foyn Friis",
+          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
+        },
+        {
+          "name": "B\u00e5rd Helgerud",
+          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
+        },
+        {
+          "name": "Rodrigo Villagra",
+          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
+        },
+        {
+          "name": "Magnus Sefaniassen Eide",
+          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
+        }
+      ],
+      "duration_ms": 376085,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
     },
     {
       "added_at": "2024-02-21 07:35:48",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-02-21 07:35:48",
       "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
+    },
+    {
+      "added_at": "2024-02-21 07:35:48",
+      "album": {
         "name": "Partners",
         "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 251000,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2sTr8pJwET8lswcaE3fdQz"
-    },
-    {
-      "added_at": "2024-02-21 07:35:48",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
     },
     {
       "added_at": "2024-02-21 07:35:48",

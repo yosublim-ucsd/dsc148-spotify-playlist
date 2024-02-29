@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1244948,
+  "num_followers": 1245410,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjYzMjY5YzE0NjEwNzg1OTg5MDZlZGRiNjUxZTI0ZjJiNDAyMTY0",
+  "snapshot_id": "MCw5ZTliYTEzYmNlZDgyMTQ5NmU3ZDE3N2RlNDNlYzcyM2RiMDI2ODdm",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "and the Anonymous Nobody...",
-        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 279754,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Dear Annie",
         "url": "https://open.spotify.com/album/4EY6NvQTvyRt6n5iwTmgmP"
       },
@@ -483,6 +463,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "and the Anonymous Nobody...",
+        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 279754,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Waking up to Sirens",
-        "url": "https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Fabrics",
-      "url": "https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 220400,
       "name": "A Little Of This",
       "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Waking up to Sirens",
+        "url": "https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Fabrics",
+      "url": "https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1063,6 +1063,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "The Pure",
+        "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "duration_ms": 221123,
+      "name": "The Pure",
+      "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Don't Feed the Birds",
         "url": "https://open.spotify.com/album/0CpFxcoFV9MHFVI7M8a2Qt"
       },
@@ -1119,34 +1147,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Pure",
-        "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
-      },
-      "artists": [
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Dano",
-          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
-        }
-      ],
-      "duration_ms": 221123,
-      "name": "The Pure",
-      "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 213940,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 197066,
       "name": "The LP",
       "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1439,22 +1439,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
       "artists": [
         {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
         },
         {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+      "duration_ms": 213940,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1719,34 +1719,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Kodak Moment",
-        "url": "https://open.spotify.com/album/4tzrbyeYsShVhUkgUnZVKR"
-      },
-      "artists": [
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        }
-      ],
-      "duration_ms": 223703,
-      "name": "Kodak Moment",
-      "url": "https://open.spotify.com/track/2QwKdnmCxJY3ybI8wuWGIc"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Oh Word",
         "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
       },
@@ -1783,22 +1755,30 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Uhuru",
-        "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
+        "name": "Kodak Moment",
+        "url": "https://open.spotify.com/album/4tzrbyeYsShVhUkgUnZVKR"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
         },
         {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
+      "duration_ms": 223703,
+      "name": "Kodak Moment",
+      "url": "https://open.spotify.com/track/2QwKdnmCxJY3ybI8wuWGIc"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1819,6 +1799,26 @@
       "duration_ms": 193616,
       "name": "Can't Let You Go (feat. Nick Grant)",
       "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Uhuru",
+        "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1847,22 +1847,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Fonografie",
-        "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
       },
       "artists": [
         {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        },
-        {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Laid Back",
-      "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1883,22 +1879,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+        "name": "Fonografie",
+        "url": "https://open.spotify.com/album/2yKN9OrDfm7XgOTzQwE9Cu"
       },
       "artists": [
         {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
         },
         {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
         }
       ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
+      "duration_ms": 199640,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/6Dc2JmMqBvSFsPaU6kWrya"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1915,6 +1911,46 @@
       "duration_ms": 243711,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "New Day (feat. Illa J)",
+        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
+      },
+      "artists": [
+        {
+          "name": "Abstract Orchestra",
+          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        }
+      ],
+      "duration_ms": 145051,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1943,22 +1979,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "New Day (feat. Illa J)",
-        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
       },
       "artists": [
         {
-          "name": "Abstract Orchestra",
-          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
         }
       ],
-      "duration_ms": 145051,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1987,46 +2019,6 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
-      },
-      "artists": [
-        {
-          "name": "K. Sparks",
-          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
-        },
-        {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
-        }
-      ],
-      "duration_ms": 136526,
-      "name": "Midnight Schemes",
-      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
     }
   ],
   "unique_name": "Jazz Rap",

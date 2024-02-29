@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Belmont",
-  "num_followers": 453929,
+  "num_followers": 453981,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDcwODEwNjNmYTZjNzZiYWI2ODI2MmU5NzRjNDIzOGUxMWE5Nzk5",
+  "snapshot_id": "MCw0N2M1NThkZTRmYmJhN2U3NjAxOGUwMjQwMjFlZDFlNjA3OTYyOGFm",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Bored of Being Sad",
+        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "WARZ0NE",
         "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -927,22 +943,6 @@
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Bored of Being Sad",
-        "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Year Of The Vulture",
+        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 148882,
+      "name": "Year Of The Vulture",
+      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Happiness is an Inside Job",
         "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Year Of The Vulture",
-        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 148882,
-      "name": "Year Of The Vulture",
-      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/6zchqtm5emQpxjbX0N5zzw"
       },
@@ -1107,26 +1107,6 @@
       "duration_ms": 198266,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/29tdoljWp0IVW0cwaNKJGG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 175172,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1147,6 +1127,26 @@
       "duration_ms": 133256,
       "name": "blame me for everything",
       "url": "https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Losing What We Love",
         "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 214505,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "SCUMBAG",
         "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 186910,
       "name": "SCUMBAG",
       "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "The Devils",
+        "url": "https://open.spotify.com/album/0kxLHTDaFDLpU5aBD510ww"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "The Devils",
+      "url": "https://open.spotify.com/track/6CV5c4m6FrlrtU7eX9bvYQ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Hotel Bleu",
         "url": "https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Fullness of My Being",
-        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
-      },
-      "artists": [
-        {
-          "name": "Being As An Ocean",
-          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "The Fullness of My Being",
-      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Fullness of My Being",
+        "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
+      },
+      "artists": [
+        {
+          "name": "Being As An Ocean",
+          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "The Fullness of My Being",
+      "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 185294,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/0kNU85u2uCl9k9zAJLfo9T"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "The Devils",
-        "url": "https://open.spotify.com/album/0kxLHTDaFDLpU5aBD510ww"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "The Devils",
-      "url": "https://open.spotify.com/track/6CV5c4m6FrlrtU7eX9bvYQ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
       "artists": [
         {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
         }
       ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
       "artists": [
         {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
         }
       ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 193814,
+      "name": "Got Me All Wrong",
+      "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Don't Tempt Me Baby...",
         "url": "https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 156395,
       "name": "Don't Tempt Me Baby...",
       "url": "https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 193814,
-      "name": "Got Me All Wrong",
-      "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "SHE LOVES ME, SHE LOVES ME NOT",
-        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 182014,
-      "name": "SHE LOVES ME, SHE LOVES ME NOT",
-      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "This Won't Go Over Well",
         "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Cardinals",
         "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
       },
@@ -1919,22 +1919,6 @@
       "duration_ms": 191080,
       "name": "Cardinals",
       "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
-      },
-      "artists": [
-        {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
-        }
-      ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1967,6 +1951,22 @@
       "duration_ms": 198566,
       "name": "SSX Trickmont",
       "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
@@ -2071,18 +2055,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Shotgun Wedding",
-        "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
       },
       "artists": [
         {
-          "name": "Short Stack",
-          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
         }
       ],
-      "duration_ms": 156785,
-      "name": "Shotgun Wedding",
-      "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
+      "duration_ms": 273000,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2103,6 +2087,22 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Shotgun Wedding",
+        "url": "https://open.spotify.com/album/0Dq4FUocTrvMCMOoISTHti"
+      },
+      "artists": [
+        {
+          "name": "Short Stack",
+          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+        }
+      ],
+      "duration_ms": 156785,
+      "name": "Shotgun Wedding",
+      "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/2mEPTLjLcbOvhj5NDWqeQc"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5OmxeyU1mffYWsf9kjEaic"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "The Four Before",
         "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/2mEPTLjLcbOvhj5NDWqeQc"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5OmxeyU1mffYWsf9kjEaic"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2311,6 +2311,22 @@
       "duration_ms": 154680,
       "name": "GOOD MOOD (feat. grandson)",
       "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2371,38 +2387,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Would You Even",
-        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 172014,
-      "name": "Would You Even",
-      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Hand Signals",
-        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 161416,
-      "name": "Would You Tell Picasso To Sell His Guitars?",
-      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Teenagers",
         "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM"
+        "name": "Hand Signals",
+        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
       },
       "artists": [
         {
-          "name": "Shoreline",
-          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/242MWOVEHopesZNGpUXih2"
+      "duration_ms": 161416,
+      "name": "Would You Tell Picasso To Sell His Guitars?",
+      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2451,6 +2435,22 @@
       "duration_ms": 212034,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/242MWOVEHopesZNGpUXih2"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Waiting On Better Days",
-        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
-      },
-      "artists": [
-        {
-          "name": "Wither Away",
-          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
-        }
-      ],
-      "duration_ms": 214523,
-      "name": "Waiting On Better Days",
-      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Joan of Hill",
         "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 253200,
       "name": "Joan of Hill",
       "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Waiting On Better Days",
+        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
+      },
+      "artists": [
+        {
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+        }
+      ],
+      "duration_ms": 214523,
+      "name": "Waiting On Better Days",
+      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
     },
     {
       "added_at": "2024-02-23 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,950 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,182 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 63 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/7DSeaP4O6ZD32JTBDnI6ws) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4aQNv1K6KhHISTxppZ84DC) | 4:09 |
 | 64 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 |
 | 65 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Do It Again \- EP](https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE) | 4:32 |
-| 66 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 |
-| 67 | [YOUR NAME IS POWER \- Acoustic](https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER \(Acoustic\)](https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy) | 3:52 |
-| 68 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
-| 69 | [Broken Things \- Acoustic](https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:08 |
-| 70 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 |
+| 66 | [YOUR NAME IS POWER \- Acoustic](https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER \(Acoustic\)](https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy) | 3:52 |
+| 67 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 |
+| 68 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 |
+| 69 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 |
+| 70 | [Broken Things \- Acoustic](https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:08 |
 | 71 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
-| 72 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
-| 73 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 |
+| 72 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 |
+| 73 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 |
 | 74 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
 | 75 | [Isn't It Love \- 2014 Version](https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [After All These Years: A Collection](https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj) | 4:39 |
 | 76 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 81 | [All For You](https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Worth The Wait](https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h) | 3:55 |
 | 82 | [Thank God I Do](https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Thank God I Do](https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ) | 2:49 |
 | 83 | [Praise You In This Storm \- New York Sessions](https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Praise You In This Storm \(New York Sessions\)](https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV) | 5:54 |
-| 84 | [Home \- Acoustic](https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh) | 6:30 |
-| 85 | [Footprints \- Acoustic](https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O) | 4:07 |
+| 84 | [Footprints \- Acoustic](https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O) | 4:07 |
+| 85 | [Home \- Acoustic](https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Home](https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh) | 6:30 |
 | 86 | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo) | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh) | 4:04 |
 | 87 | [Light & Momentary](https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 4:28 |
 | 88 | [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 |
 | 100 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/4wXh7qz12O9DiMQHGATKv1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:56 |
 
-Snapshot ID: `MCwzNDc0NzJmMDYyMjhjZmJjNTQzMDY0ZDI4MzhkZWFmYjJhZmNjMTIx`
+Snapshot ID: `MCxjNTYzNzViYjIzOTQxYmQ0ZmJiNTllMGJhNzViNjUzYmU1ZDI5MDdj`

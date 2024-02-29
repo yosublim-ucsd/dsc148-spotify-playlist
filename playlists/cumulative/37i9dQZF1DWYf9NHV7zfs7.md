@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Lara91k
 
-193 songs - 10 hr 36 min
+194 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [El Nuevo Amor](https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Desandando Mis Pasos](https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC) | 2:27 | 2023-12-07 | 2024-02-03 |
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-10-23 |  |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2023-07-14 | 2023-10-24 |
-| [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2023-10-23 |  |
+| [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2023-10-23 | 2024-02-29 |
 | [Experiencia religiosa](https://open.spotify.com/track/0uLhztL9TkJPC8UoyStJU1) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Experiencia religiosa](https://open.spotify.com/album/2Y5Rqv0qKqei0Iic7LXV3M) | 3:44 | 2024-02-23 |  |
 | [Fanático](https://open.spotify.com/track/2f2CU0j1OrjoP8otmx8eoM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Welcome To Córdoba City](https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv) | 3:21 | 2023-12-22 | 2024-01-27 |
 | [Figurita](https://open.spotify.com/track/2u6ZHI2hEGwnXhUbzlQmOc) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Popular](https://open.spotify.com/album/0aTeekOTa8qn059GhDrm0r) | 3:01 | 2023-10-23 | 2023-12-07 |
@@ -99,6 +99,7 @@
 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 | 2023-10-23 |  |
 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 | 2023-12-07 |  |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2023-07-14 | 2023-10-24 |
+| [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0) | 3:03 | 2024-02-23 |  |
 | [Llamame](https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:28 | 2023-10-23 |  |
 | [Llega la Noche](https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana La Vuelta](https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE) | 3:14 | 2023-10-23 | 2024-01-20 |
 | [Lloviendo Estrellas](https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 2:15 | 2023-10-23 |  |

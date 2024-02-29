@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-142 songs - 8 hr 34 min
+143 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Six Seven Times](https://open.spotify.com/track/2jknEB3TLUX5vEaLI4gttE) | [Flunk](https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609) | [Morning Star](https://open.spotify.com/album/5CcQRGb2CV6AofHROdyvHg) | 4:38 | 2022-09-05 | 2023-12-05 |
 | [slipping through](https://open.spotify.com/track/3WjnzIoKOXzc6ACN6josm3) | [HolySMS](https://open.spotify.com/artist/1YZZ5nLWbRzX0wzOyV0Woe), [Phossa](https://open.spotify.com/artist/6AU0w0tbAckR0HR5PQ0GCa) | [slipping through](https://open.spotify.com/album/63CB1rmFQCIuyB6uBs06h2) | 3:41 | 2022-11-11 | 2023-12-05 |
 | [Softic Dnb](https://open.spotify.com/track/2Jv4UqZIYSubikMXCBKIfd) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/4NbqAiI9p6BzEvkGdSDcgI) | 3:41 | 2022-09-05 |  |
-| [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 | 2022-09-05 |  |
+| [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 | 2022-09-05 | 2024-02-29 |
+| [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 | 2023-12-04 |  |
 | [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 | 2023-12-04 |  |
 | [Steppin' Out](https://open.spotify.com/track/09pdsqqnGXRFoYniEaN3K8) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [In The Moment](https://open.spotify.com/album/7kkcPuNl08Px6nPiP1t227) | 3:49 | 2022-11-11 |  |
 | [Su Payita \(Gramos\)](https://open.spotify.com/track/2WPFpC4oQxjBpSgsCoQrCf) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Su Payita \(Gramos\)](https://open.spotify.com/album/2kCottSg9MVr1WU5284qM4) | 2:20 | 2022-09-05 | 2023-12-05 |

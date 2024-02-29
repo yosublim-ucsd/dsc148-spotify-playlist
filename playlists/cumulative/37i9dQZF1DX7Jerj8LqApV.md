@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-82 songs - 5 hr 25 min
+87 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 | 2023-10-18 |  |
 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 | 2023-10-18 | 2024-01-06 |
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2023-10-18 |  |
-| [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2023-10-18 |  |
+| [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2023-10-18 | 2024-02-29 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 |  |
+| [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 | 2024-02-28 |  |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 |  |
 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 | 2023-10-18 |  |
 | [Masyado Pang Maaga](https://open.spotify.com/track/0luyrm1L6gjtoLekHOf67t) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Masyado Pang Maaga](https://open.spotify.com/album/75Y2NZzYQyYpxusG8e0ZeM) | 5:06 | 2024-02-20 | 2024-02-22 |
@@ -58,10 +59,12 @@
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2023-10-18 | 2024-02-10 |
 | [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 | 2024-02-07 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-10-18 |  |
-| [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2023-10-18 |  |
+| [Nananaginip](https://open.spotify.com/track/5DX70OMOt1uV17YyCSWxUs) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Nananaginip](https://open.spotify.com/album/7GPHsF3g1ISuCekfzxrMh6) | 4:37 | 2024-02-28 |  |
+| [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2023-10-18 | 2024-02-29 |
+| [Napaibig](https://open.spotify.com/track/28DCyWkWSCPjb8ep3IGq59) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Napaibig](https://open.spotify.com/album/6gHJZCG4Hx74KrUg5NT5kQ) | 3:24 | 2024-02-28 |  |
 | [Never Close Enough](https://open.spotify.com/track/0GJNCSUYSDNyYJlbp6cLD8) | [Kristel Fulgar](https://open.spotify.com/artist/1260cBYXTbcaPim1WPOXFG) | [Never Close Enough](https://open.spotify.com/album/0rCGtPHkwr7Kvhoz0AIur2) | 4:15 | 2024-02-20 |  |
 | [Ni Yao De Ai](https://open.spotify.com/track/0GiRQNwTZvDFXojuuJaSFg) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Ni Yao De Ai](https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj) | 4:10 | 2024-02-20 |  |
-| [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-12-08 |  |
+| [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-12-08 | 2024-02-29 |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-10-18 | 2023-12-02 |
 | [Pagod](https://open.spotify.com/track/6HAJc8mpLVLiY4M9hRm1g9) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Pagod](https://open.spotify.com/album/1YUwrb26GfU9wBvoPA3rVT) | 4:12 | 2023-10-25 | 2023-11-11 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2023-10-18 |  |
@@ -76,10 +79,12 @@
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2023-12-08 |  |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 |  |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-18 |  |
-| [Sagada](https://open.spotify.com/track/2wh4fGevm9QWeZtUXEJYCp) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sagada](https://open.spotify.com/album/5atwOm2uqTx0Zy9Hc3K0xs) | 4:10 | 2024-02-20 |  |
+| [Sagada](https://open.spotify.com/track/2wh4fGevm9QWeZtUXEJYCp) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sagada](https://open.spotify.com/album/5atwOm2uqTx0Zy9Hc3K0xs) | 4:10 | 2024-02-20 | 2024-02-29 |
 | [Same Ground](https://open.spotify.com/track/5ghwi50zKaBUuWoSA1tPCw) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Same Ground](https://open.spotify.com/album/57ixBNu71U56E9NJ5JRX60) | 3:22 | 2023-10-25 | 2023-11-11 |
 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 | 2023-10-18 | 2023-11-11 |
+| [sige, sayaw!](https://open.spotify.com/track/1oodIcBpmQLOJybpGwv6lw) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [sige, sayaw!](https://open.spotify.com/album/6iWaYp0ISeGnDq5iqvPJaz) | 3:46 | 2024-02-28 |  |
 | [Something](https://open.spotify.com/track/3hd1QCyMqEunjjR2D6ctPa) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Something](https://open.spotify.com/album/0D6iQ2FcVJK3513qxGATyT) | 3:53 | 2023-11-10 | 2023-12-09 |
+| [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/track/3aNlKhDSguYgew75Vq8ELT) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/album/4TxjAxOvm228chbxndw1RJ) | 4:29 | 2024-02-28 |  |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2023-10-18 | 2023-12-19 |
 | [Tahanan](https://open.spotify.com/track/7oMCyUv2mpT7Q4FWHnX2hZ) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 4:53 | 2024-02-20 | 2024-02-27 |
 | [Turn Back Time](https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Turn Back Time](https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI) | 3:40 | 2023-10-18 | 2023-11-11 |
@@ -88,7 +93,7 @@
 | [Wala Nang Iba](https://open.spotify.com/track/6wJWjSeyr2usaQBTcvRR0R) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Wala Nang Iba](https://open.spotify.com/album/7g9dG9c9BodUL5Ubns2XgH) | 4:09 | 2023-10-18 | 2023-10-26 |
 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2023-10-18 |  |
 | [YK](https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj) | [Cean Jr.](https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m) | [YK](https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS) | 2:50 | 2023-10-18 |  |
-| [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 | 2023-10-18 |  |
+| [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 | 2023-10-18 | 2024-02-29 |
 | [Your Song](https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Bigotilyo](https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f) | 2:48 | 2023-10-18 |  |
 
 \*This playlist was first scraped on 2023-10-25. Prior content cannot be recovered.

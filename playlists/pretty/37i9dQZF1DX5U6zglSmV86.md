@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. El Makabelico en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,361 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,406 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 99 | [Cumbia Guanajuato](https://open.spotify.com/track/2yfBHIWg2GWqQvUhR9MW1U) | [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp) | [Cumbia Guanajuato](https://open.spotify.com/album/2OfS4FQONfrjASRTVixgok) | 5:39 |
 | 100 | [El Patron Del Mal](https://open.spotify.com/track/1RECCwSp27WPhUhbWI1QLk) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [La Encomienda](https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk) | 4:11 |
 
-Snapshot ID: `MCxkNWM4YzI0MjcyYzhiYzQ4MTRiNTI0M2ExYmU4Y2E4ZDJjMmRjZTUx`
+Snapshot ID: `MCw5MjE4OTI4YWM4ZTZlNjYxOWI4YmMyYzU3Y2Q0MGVjNWFiNjJjNmY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: BJ The Chicago Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,923 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,944 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 49 | [Naked \- Live](https://open.spotify.com/track/76ZWt6KvtIIAf4O1qCMT10) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Berenice Van Leer](https://open.spotify.com/artist/05WEW3kd5mLRHs3xtUF6t9) | [Twenty](https://open.spotify.com/album/6uAVwhjyE1eGec56ZsRoAQ) | 4:15 |
 | 50 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 |
 
-Snapshot ID: `MCxlYjg0ZWZkNDlkMjUzMTVhNjJmOWI4NmZlZmNlOTM0OWFkYTNiZDYx`
+Snapshot ID: `MCxjODFhZjA0MDY0MGJkYTdhZGE5YjNlMDRhZDhmOTM4NjMxMzU5YzMx`

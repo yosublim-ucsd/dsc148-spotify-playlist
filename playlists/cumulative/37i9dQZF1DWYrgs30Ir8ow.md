@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Broederliefde
 
-475 songs - 22 hr 54 min
+476 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-30 | 2023-07-28 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-01 | 2024-02-16 |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2023-02-23 | 2023-03-03 |
+| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-28 |  |
 | [Ben Je Wakker?](https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ben Je Wakker?](https://open.spotify.com/album/6IVj4qgirdMuRZC70CAmc4) | 2:17 | 2023-02-23 | 2023-03-31 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-27 | 2023-05-19 |
 | [Best Friend](https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Best Friend](https://open.spotify.com/album/7kZ4FOhBJmEtYbrITAO6h7) | 2:27 | 2023-08-03 | 2023-09-26 |
@@ -441,7 +442,7 @@
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2023-11-23 | 2023-12-22 |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-14 | 2023-05-07 |
 | [Verliefd Zijn \(feat\. Siggy & D1ns\)](https://open.spotify.com/track/53kLfenUs12ePkYpIbH23B) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Verliefd Zijn \(feat\. Siggy & D1ns\)](https://open.spotify.com/album/3boRKn7JsrSnbDZrh1FLmF) | 2:15 | 2023-04-27 | 2023-05-18 |
-| [Verpest](https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Verpest](https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf) | 2:40 | 2024-01-29 |  |
+| [Verpest](https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Verpest](https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf) | 2:40 | 2024-01-29 | 2024-02-29 |
 | [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 | 2024-02-15 |  |
 | [Vlinders \(feat\. Kleine John & Chavanté\)](https://open.spotify.com/track/0dsRtIlchp7nmVAS5hemAr) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Vlinders \(feat\. Kleine John & Chavanté\)](https://open.spotify.com/album/3vMpRJnBn2mIOq4GrWFbHl) | 2:34 | 2023-02-23 | 2023-04-15 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-30 | 2023-04-28 |

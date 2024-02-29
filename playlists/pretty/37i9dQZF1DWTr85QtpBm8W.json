@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 21266,
+  "num_followers": 21298,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
+  "snapshot_id": "MCxkZmVkN2YyYjA0ZjhmMjAwYjY1YzI4Yzg1MWRkN2ZlNjBlMTNjM2Rh",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "Pop 1",
-      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 268051,
       "name": "Dissolving Clouds",
       "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 311560,
+      "name": "Pop 1",
+      "url": "https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
-      },
-      "artists": [
-        {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        }
-      ],
-      "duration_ms": 602933,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "October Language",
         "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 313866,
       "name": "I'm Too Sleepy...Shall We Swim?",
       "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "duration_ms": 602933,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Streichelfisch (Remastered)",
-        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 74246,
-      "name": "Anfangtastisch (Remastered)",
-      "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Telegraphs in Negative / Mouths Trapped in Static",
         "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 135293,
       "name": "Your Guts Are Like Mine",
       "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Streichelfisch (Remastered)",
+        "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 74246,
+      "name": "Anfangtastisch (Remastered)",
+      "url": "https://open.spotify.com/track/4Nal4GnS7niDUpjRXOAH4w"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
+        "name": "I Am a Man Who Will Fight for Your Honor",
+        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+          "name": "Chris Zabriskie",
+          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
         }
       ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
+      "duration_ms": 424760,
+      "name": "The Sun Is Scheduled to Come Out Tomorrow",
+      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "I Am a Man Who Will Fight for Your Honor",
-        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
       },
       "artists": [
         {
-          "name": "Chris Zabriskie",
-          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
         }
       ],
-      "duration_ms": 424760,
-      "name": "The Sun Is Scheduled to Come Out Tomorrow",
-      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1319,70 +1319,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Chessa",
-        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
-      },
-      "artists": [
-        {
-          "name": "Shuttle358",
-          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "chessa",
-      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Variations: A Movement In Chrome Primitive",
-        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 558800,
-      "name": "Variation IV",
-      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "The Mist",
-        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "The Mist",
-      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 357866,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1403,6 +1339,70 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Variations: A Movement In Chrome Primitive",
+        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 558800,
+      "name": "Variation IV",
+      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Chessa",
+        "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
+      },
+      "artists": [
+        {
+          "name": "Shuttle358",
+          "url": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "chessa",
+      "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Mist",
+        "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "The Mist",
+      "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 394680,
       "name": "It's About the Size of a House",
       "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "As Good As Gone",
-        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
-      },
-      "artists": [
-        {
-          "name": "Nudge",
-          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
-        }
-      ],
-      "duration_ms": 45986,
-      "name": "Verdantique",
-      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "M\u00f8rketid",
         "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "As Good As Gone",
+        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
+      },
+      "artists": [
+        {
+          "name": "Nudge",
+          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
+        }
+      ],
+      "duration_ms": 45986,
+      "name": "Verdantique",
+      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "L\u2019Autopsie Ph\u00e9nom\u00e9nale de Dieu",
         "url": "https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 222506,
       "name": "De Storm",
       "url": "https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1668,25 +1684,9 @@
           "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
         }
       ],
-      "duration_ms": 187960,
-      "name": "The Orchardist",
-      "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+      "duration_ms": 197280,
+      "name": "Ripple and Fade",
+      "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
     }
   ],
   "unique_name": "Ambient 2000s",

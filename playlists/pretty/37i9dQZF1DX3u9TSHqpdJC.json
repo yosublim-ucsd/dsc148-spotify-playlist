@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Gabi Sklar. Artwork by Paola Saliby",
-  "num_followers": 206165,
+  "description": "The best new pop music by independent artists and labels. Cover: liza. Artwork by Paola Saliby",
+  "num_followers": 206329,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJiOWFhMDAwOGI3ZTQwNjk2ZTI0ZDliMmIyYjk2N2VkMTFiNjU0",
+  "snapshot_id": "MCw3MTc1MTdjMGEzMGQ5NjdiZmJiYzlkZGRlYzA2OGJmM2YwNWViMDc1",
   "tracks": [
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "THE ARSONIST & THE SUPERMODEL",
+        "url": "https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk"
+      },
+      "artists": [
+        {
+          "name": "liza",
+          "url": "https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "THE ARSONIST & THE SUPERMODEL",
+      "url": "https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Girl Friend",
+        "url": "https://open.spotify.com/album/1j9FQh3VXAUBQDRdUmztIX"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "duration_ms": 179729,
+      "name": "Girl Friend",
+      "url": "https://open.spotify.com/track/3FDJSVSr1znwkNjHRugwCM"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0"
+      },
+      "artists": [
+        {
+          "name": "Margo Raats",
+          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
+        }
+      ],
+      "duration_ms": 209805,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/5j041p2jGJrjPNm8k94Ngn"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Mind & Body",
+        "url": "https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY"
+      },
+      "artists": [
+        {
+          "name": "Tol\u00fc Makay",
+          "url": "https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG"
+        }
+      ],
+      "duration_ms": 176849,
+      "name": "Mind & Body",
+      "url": "https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "emotional capacity",
+        "url": "https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Thompson",
+          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
+        }
+      ],
+      "duration_ms": 194380,
+      "name": "emotional capacity",
+      "url": "https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "I Will Let You Go",
+        "url": "https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV"
+      },
+      "artists": [
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+        }
+      ],
+      "duration_ms": 173107,
+      "name": "I Will Let You Go",
+      "url": "https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm"
+    },
     {
       "added_at": "2024-02-21 05:00:00",
       "album": {
@@ -25,6 +121,22 @@
       "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
     },
     {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Asking",
+        "url": "https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM"
+      },
+      "artists": [
+        {
+          "name": "Trinity Lake",
+          "url": "https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs"
+        }
+      ],
+      "duration_ms": 233048,
+      "name": "Asking",
+      "url": "https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ"
+    },
+    {
       "added_at": "2024-02-21 05:00:00",
       "album": {
         "name": "White Lies",
@@ -39,6 +151,134 @@
       "duration_ms": 136918,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/72DtUhetWJEOs6uigQZnkc"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3lEBEtiL4YVAKiGoU4MrT6"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "It's Giving...",
+        "url": "https://open.spotify.com/album/3wsRwVsFWBq7cpPcSQPa60"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 189199,
+      "name": "It's Giving...",
+      "url": "https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Tiptoe",
+        "url": "https://open.spotify.com/album/1gIpp0BMS8oaOimgp33Npp"
+      },
+      "artists": [
+        {
+          "name": "Lauren Presley",
+          "url": "https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN"
+        }
+      ],
+      "duration_ms": 158374,
+      "name": "Tiptoe",
+      "url": "https://open.spotify.com/track/1sS3SE3s7XQ2UgU4WIg40q"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "title",
+        "url": "https://open.spotify.com/album/48OZ3oyA9a2fQNGDyYk1D2"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        }
+      ],
+      "duration_ms": 128130,
+      "name": "title",
+      "url": "https://open.spotify.com/track/4csL3fDiVG2Y4B4bGi2BuL"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3P4R1LZ3ziyw7jx72Mwo2m"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/51BFG5O2CPUNxE9WIXoZcv"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "my mother's daughter",
+        "url": "https://open.spotify.com/album/3q6IHexiOr3cc2BI3z2UzO"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "my mother's daughter",
+      "url": "https://open.spotify.com/track/0StDtkDKpEyFok25poMZqP"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5eApGsISMBKROb2gICEUiT"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "duration_ms": 201141,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9"
+    },
+    {
+      "added_at": "2024-02-28 05:00:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2OxorM1EAEHLLOFbsZFREo"
+      },
+      "artists": [
+        {
+          "name": "Obeeyay",
+          "url": "https://open.spotify.com/artist/16CbxK4vGxHUHFD47SJh16"
+        }
+      ],
+      "duration_ms": 152041,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3HZgQNLNcrIYQZOO10lxZX"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -75,22 +315,6 @@
       "duration_ms": 237391,
       "name": "Middle Name (with Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "It's Giving...",
-        "url": "https://open.spotify.com/album/3wsRwVsFWBq7cpPcSQPa60"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 189199,
-      "name": "It's Giving...",
-      "url": "https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -177,6 +401,22 @@
       "url": "https://open.spotify.com/track/0GeIW97TvjqE2TA4P6a7gB"
     },
     {
+      "added_at": "2024-01-17 05:00:00",
+      "album": {
+        "name": "on purpose",
+        "url": "https://open.spotify.com/album/7y9YayZGU4VOZesQ5Nw5hy"
+      },
+      "artists": [
+        {
+          "name": "Ni/Co",
+          "url": "https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr"
+        }
+      ],
+      "duration_ms": 164558,
+      "name": "on purpose",
+      "url": "https://open.spotify.com/track/0ZNoYbBSN2d2PPUEGSfSid"
+    },
+    {
       "added_at": "2024-02-21 05:00:00",
       "album": {
         "name": "middle child",
@@ -191,6 +431,22 @@
       "duration_ms": 153000,
       "name": "middle child",
       "url": "https://open.spotify.com/track/6gGxkaI0FRgEAxjOPEd9ow"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Love Is BS",
+        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
+      },
+      "artists": [
+        {
+          "name": "Lala Sadii",
+          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Love Is BS",
+      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
     },
     {
       "added_at": "2024-02-21 05:00:00",
@@ -667,22 +923,6 @@
     {
       "added_at": "2024-01-31 05:00:00",
       "album": {
-        "name": "Ego Rush",
-        "url": "https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac"
-      },
-      "artists": [
-        {
-          "name": "evi",
-          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
-        }
-      ],
-      "duration_ms": 159806,
-      "name": "Ego Rush",
-      "url": "https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
         "name": "Sippin'",
         "url": "https://open.spotify.com/album/3uazNdJqM7eWTrnjl8YhOd"
       },
@@ -791,22 +1031,6 @@
       "duration_ms": 201706,
       "name": "LABEL",
       "url": "https://open.spotify.com/track/6yqazMRYrfuuhhIKJgxghR"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "tetherball",
-        "url": "https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "tetherball",
-      "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1001,22 +1225,6 @@
       "url": "https://open.spotify.com/track/0x2s2YyudOmRu4Y0TwX8fY"
     },
     {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Love Is BS",
-        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
-      },
-      "artists": [
-        {
-          "name": "Lala Sadii",
-          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Love Is BS",
-      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
-    },
-    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "THAT SPECIAL",
@@ -1031,22 +1239,6 @@
       "duration_ms": 189248,
       "name": "THAT SPECIAL",
       "url": "https://open.spotify.com/track/4TXwvLk1pBzh5yPeeGprvX"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Tulips",
-        "url": "https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv"
-      },
-      "artists": [
-        {
-          "name": "Kai Bosch",
-          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Tulips",
-      "url": "https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1079,22 +1271,6 @@
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
-    },
-    {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "on purpose",
-        "url": "https://open.spotify.com/album/7y9YayZGU4VOZesQ5Nw5hy"
-      },
-      "artists": [
-        {
-          "name": "Ni/Co",
-          "url": "https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr"
-        }
-      ],
-      "duration_ms": 164558,
-      "name": "on purpose",
-      "url": "https://open.spotify.com/track/0ZNoYbBSN2d2PPUEGSfSid"
     },
     {
       "added_at": "2024-01-17 05:00:00",
@@ -1177,22 +1353,6 @@
       "url": "https://open.spotify.com/track/081O4UBlyJI74TlA4G75oM"
     },
     {
-      "added_at": "2024-01-17 05:00:00",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1dbZb7zqwRo5DfwN4FMnM1"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Hass",
-          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
-        }
-      ],
-      "duration_ms": 187360,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL"
-    },
-    {
       "added_at": "2024-01-10 05:00:00",
       "album": {
         "name": "God Invented The Radio",
@@ -1259,22 +1419,6 @@
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
-        "name": "the mom song",
-        "url": "https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 152435,
-      "name": "the mom song",
-      "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
         "name": "wreck",
         "url": "https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9"
       },
@@ -1291,38 +1435,6 @@
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/0LnxiZOAney6adkGRTWFPj"
-      },
-      "artists": [
-        {
-          "name": "LEONI",
-          "url": "https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "SUPERNOVA",
-      "url": "https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Built To Be Bad",
-        "url": "https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz"
-      },
-      "artists": [
-        {
-          "name": "Grace Gachot",
-          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "Built To Be Bad",
-      "url": "https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
         "name": "Sinister",
         "url": "https://open.spotify.com/album/2kOKgoaflXbstlzKnc9V7T"
       },
@@ -1335,38 +1447,6 @@
       "duration_ms": 177534,
       "name": "Sinister",
       "url": "https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "To Hell With You",
-        "url": "https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe"
-      },
-      "artists": [
-        {
-          "name": "Leith",
-          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "To Hell With You",
-      "url": "https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Egocentric",
-        "url": "https://open.spotify.com/album/6yZQzb3Rr7QnZdXeNK96xK"
-      },
-      "artists": [
-        {
-          "name": "Tara Flanagan",
-          "url": "https://open.spotify.com/artist/4FTxQPJkalbHR0mwDJSvbi"
-        }
-      ],
-      "duration_ms": 190851,
-      "name": "Egocentric",
-      "url": "https://open.spotify.com/track/3N43TUERvQtxQsNA5FFvPT"
     },
     {
       "added_at": "2024-01-10 05:00:00",

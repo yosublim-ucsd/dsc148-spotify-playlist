@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 188566,
+  "num_followers": 188555,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTY3MWQ4Y2VlZGRmNjljYjNmNzI4Nzc0MGI4YjliYzUzZGU5ZDUx",
+  "snapshot_id": "MCwyM2I4YmNmNmQ2YjQ5MDU3MjczZjdmMzQ3MDdiN2ZiNTAxMjI1OTI3",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -691,18 +671,38 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
+        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 360133,
+      "name": "Soul Holidays",
+      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
-        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
       "artists": [
         {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 360133,
-      "name": "Soul Holidays",
-      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -811,6 +811,26 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Snowflakes",
         "url": "https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu"
       },
@@ -845,26 +865,6 @@
       "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Christmas With Brandy",
@@ -879,26 +879,6 @@
       "duration_ms": 181720,
       "name": "Somebody's Waiting",
       "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas Soul 2020",
-        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
-      },
-      "artists": [
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -919,6 +899,26 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas Soul 2020",
+        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -985,26 +985,6 @@
       "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
-      "added_at": "2022-12-16 05:50:43",
-      "album": {
-        "name": "Here (For Christmas)",
-        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        }
-      ],
-      "duration_ms": 253046,
-      "name": "Here (For Christmas)",
-      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
-    },
-    {
       "added_at": "2022-12-12 18:18:20",
       "album": {
         "name": "Home For The Holidays Vol. 2",
@@ -1023,6 +1003,26 @@
       "duration_ms": 237393,
       "name": "Might As Well Have Coal (with Baby Tate)",
       "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
+    },
+    {
+      "added_at": "2022-12-16 05:50:43",
+      "album": {
+        "name": "Here (For Christmas)",
+        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 253046,
+      "name": "Here (For Christmas)",
+      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "In Love at Christmas",
+      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Home For The Holidays Vol. 2",
@@ -1143,22 +1159,6 @@
       "duration_ms": 259500,
       "name": "Let It Snow (with dvsn)",
       "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "In Love at Christmas",
-      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
       "added_at": "2022-11-25 20:23:30",

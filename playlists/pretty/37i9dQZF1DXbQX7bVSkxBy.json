@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp?si=6mutUARsSHKhKJdS7KpqAw>Chidiya Ohiagu</a> ",
-  "num_followers": 22505,
+  "num_followers": 22549,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg1Njc5ZDI2OGViODZlMDlhNDlhN2M5NjlmMDk4MGQ1NDEzMDNh",
+  "snapshot_id": "MCwyNGJkYWVkOTE5YzZmY2ZlMjY4MjAzOGUzNjg2YzNiNTUwNmNjZTkw",
   "tracks": [
     {
       "added_at": "2023-12-29 00:01:00",
@@ -115,26 +115,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Take Me to the River (I Will Swim)",
-        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
-      },
-      "artists": [
-        {
-          "name": "Alex Yurkiv",
-          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
-        },
-        {
-          "name": "Thelma Costolo",
-          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
-        }
-      ],
-      "duration_ms": 176104,
-      "name": "Take Me to the River (I Will Swim)",
-      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 354885,
       "name": "Jehovah (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Take Me to the River (I Will Swim)",
+        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "duration_ms": 176104,
+      "name": "Take Me to the River (I Will Swim)",
+      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -509,6 +509,26 @@
       "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 155067,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Faith is Rising",
@@ -543,26 +563,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 155067,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -575,6 +575,26 @@
       "duration_ms": 302253,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -615,26 +635,6 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-12-29 00:01:00",

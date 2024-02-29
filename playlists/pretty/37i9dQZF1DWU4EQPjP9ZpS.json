@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 299986,
+  "num_followers": 300084,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQ3YjYxMDM2YWJhOGJlNTAyMTMyZmIzNjA2Mjk5MmM4NWNmZDlh",
+  "snapshot_id": "MCxjYjRiZjAwYTJlYWNhYjI4YTQxMDJiOTM5YmQ2OTg2YThkYjY2OTE3",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
+      },
+      "artists": [
+        {
+          "name": "datfootdive",
+          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
-      },
-      "artists": [
-        {
-          "name": "datfootdive",
-          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
       },
       "artists": [
         {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+          "name": "glhf",
+          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
         }
       ],
-      "duration_ms": 103214,
-      "name": "143",
-      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+        "name": "143",
+        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
       "artists": [
         {
-          "name": "glhf",
-          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
         }
       ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
+      "duration_ms": 103214,
+      "name": "143",
+      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1295,42 +1295,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Downpour",
-        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
-      },
-      "artists": [
-        {
-          "name": "Sleepless-Nights",
-          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
-        },
-        {
-          "name": "Cosmic Cycler",
-          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
-        }
-      ],
-      "duration_ms": 484471,
-      "name": "Downpour",
-      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -1351,6 +1315,42 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+      },
+      "artists": [
+        {
+          "name": "Sleepless-Nights",
+          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
+        },
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+        }
+      ],
+      "duration_ms": 484471,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Information Superhighway",
-        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
-      },
-      "artists": [
-        {
-          "name": "</body>",
-          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
-        }
-      ],
-      "duration_ms": 107604,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Us Ephemeral (George Clanton Remix)",
         "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
       },
@@ -1471,22 +1455,6 @@
       "duration_ms": 269538,
       "name": "Us Ephemeral (George Clanton Remix)",
       "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Videopolis",
-        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
-      },
-      "artists": [
-        {
-          "name": "L a z u l i _ y e l l o w",
-          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Soul-Vibration",
-      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1515,70 +1483,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Iconic Bitch",
-        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
-      },
-      "artists": [
-        {
-          "name": "3D BLAST",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 233774,
-      "name": "Beyond Nostalgia",
-      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
-      },
-      "artists": [
-        {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
-        }
-      ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Exit simulation",
-        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 104337,
-      "name": "Procedurally Generated Corridor",
-      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Screensaver",
         "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
@@ -1599,6 +1503,70 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Iconic Bitch",
+        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
+      },
+      "artists": [
+        {
+          "name": "3D BLAST",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+        }
+      ],
+      "duration_ms": 233774,
+      "name": "Beyond Nostalgia",
+      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Information Superhighway",
+        "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
+      },
+      "artists": [
+        {
+          "name": "</body>",
+          "url": "https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6"
+        }
+      ],
+      "duration_ms": 107604,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "\uff23\uff39\uff22\uff25\uff32\uff29\uff21",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
+      },
+      "artists": [
+        {
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
+        }
+      ],
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
       },
@@ -1611,6 +1579,38 @@
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Videopolis",
+        "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
+      },
+      "artists": [
+        {
+          "name": "L a z u l i _ y e l l o w",
+          "url": "https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Soul-Vibration",
+      "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Exit simulation",
+        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 104337,
+      "name": "Procedurally Generated Corridor",
+      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1631,22 +1631,6 @@
       "duration_ms": 196956,
       "name": "On the Promenade (George Clanton Remix)",
       "url": "https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tendencies",
-        "url": "https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
-          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
-        }
-      ],
-      "duration_ms": 94653,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1679,6 +1663,22 @@
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tendencies",
+        "url": "https://open.spotify.com/album/0xa5TQopmTESAMGNV0UQcD"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
+          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+        }
+      ],
+      "duration_ms": 94653,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/0U8NH8Nqvs5wEG6kLloyir"
     },
     {
       "added_at": "2023-07-18 02:19:19",

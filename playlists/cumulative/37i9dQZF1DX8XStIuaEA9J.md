@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Ado
 
-275 songs - 16 hr 25 min
+277 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abrupt](https://open.spotify.com/track/1ALEFBi1WTJXbWjOhA1WTd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [Abrupt](https://open.spotify.com/album/31cifPhTXIuhZbqDv9pAg3) | 3:11 | 2024-02-20 |  |
 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 | 2024-02-15 |  |
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-29 | 2023-12-20 |
+| [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 | 2024-02-28 |  |
 | [Ambiguous](https://open.spotify.com/track/36Kj0vrp2MnYICExdK1lN9) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Ambiguous](https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz) | 3:40 | 2024-02-06 |  |
 | [Anone](https://open.spotify.com/track/4oKsfQvfCHiFkKww8vX56O) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Anone](https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi) | 6:49 | 2023-11-23 | 2024-01-24 |
 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 | 2024-01-04 |  |
@@ -53,7 +54,8 @@
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-11-23 | 2024-01-17 |
 | [fake face dance music \- night drive remix](https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [fake face dance music \(night drive remix\)](https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA) | 2:32 | 2024-01-16 | 2024-02-28 |
 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-15 | 2024-01-10 |
-| [Festival](https://open.spotify.com/track/37BksJtzjL1R8slNqyhb5C) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [JET SET RADIO](https://open.spotify.com/album/27VhjTd4fYThwzVgqpStbC) | 3:50 | 2024-02-28 |  |
+| [Festival](https://open.spotify.com/track/37BksJtzjL1R8slNqyhb5C) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [JET SET RADIO](https://open.spotify.com/album/27VhjTd4fYThwzVgqpStbC) | 3:50 | 2024-02-28 | 2024-02-29 |
+| [Festival](https://open.spotify.com/track/45crhqJrSYZthAHfSFQqYB) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [JET SET RADIO](https://open.spotify.com/album/61pSh7OR7bh65oeV1AWU0A) | 3:50 | 2024-02-28 |  |
 | [FRIENDLY･NIGHTMARE](https://open.spotify.com/track/75AtakQOaa5aiIijRBuHic) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [野菜室](https://open.spotify.com/album/4gLOZcHug1wtpLWsQ31WE1) | 3:58 | 2023-11-23 | 2023-11-29 |
 | [Full Bet](https://open.spotify.com/track/6l7ePtr8Z2YMsoNS1nimMr) | [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Orange](https://open.spotify.com/album/6BHphLtmjrdDmxer5k10Pp) | 2:26 | 2024-02-01 | 2024-02-17 |
 | [gear5](https://open.spotify.com/track/23JwNWd7oVq9Jhqfv6nCVi) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [gear5](https://open.spotify.com/album/7ElBjSm3n8957SudOB5Dyt) | 3:01 | 2024-01-18 | 2024-02-02 |
@@ -172,7 +174,7 @@
 | [おまじない](https://open.spotify.com/track/2Ttix2IAc0Zh63jFFEFjlD) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [おまじない](https://open.spotify.com/album/1mrIqbFsEh3E2n5pdgLKzV) | 3:10 | 2024-02-13 |  |
 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 | 2024-02-28 |  |
 | [この寒い夜だけ](https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この寒い夜だけ](https://open.spotify.com/album/3V67EkKSIr0tn93OBJ04ld) | 2:58 | 2024-01-16 | 2024-01-24 |
-| [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-28 |  |
+| [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-28 | 2024-02-29 |
 | [さすらい](https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [股旅](https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd) | 3:23 | 2023-12-04 | 2024-01-05 |
 | [さよならは真夜中に](https://open.spotify.com/track/5W7GqHXV0EAmqNx6BkAz2I) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [さよならは真夜中に](https://open.spotify.com/album/17PbvfSpbjBaz67KXRbYr2) | 3:14 | 2023-11-23 | 2023-11-29 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2024-01-10 |  |

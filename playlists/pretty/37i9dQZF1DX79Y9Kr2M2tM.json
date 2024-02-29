@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 835385,
+  "num_followers": 835402,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmI0YWM0ZGQyOWMxOGUxM2YzMzBjYzk2N2I5YTg5YmVmZTBmOWFj",
+  "snapshot_id": "MCwzYjRhMjBmZTQ2YjUxZmMxZTY1ODliMTg0NDQzNDlmZDAyYjgxZWJj",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Uranium Heart",
-        "url": "https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 166291,
-      "name": "Stick with You",
-      "url": "https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+        "name": "Uranium Heart",
+        "url": "https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
         }
       ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/3K8puYhgILDNgQL3IfGFGw"
+      "duration_ms": 166291,
+      "name": "Stick with You",
+      "url": "https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
       "artists": [
         {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/3K8puYhgILDNgQL3IfGFGw"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 190160,
       "name": "To Each His Own",
       "url": "https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Melatonin (Unplugged)",
+        "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 325280,
+      "name": "Melatonin (Unplugged)",
+      "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 439478,
       "name": "Branscombe",
       "url": "https://open.spotify.com/track/5BHYShH4OT7lREGxsyYcsP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Melatonin (Unplugged)",
-        "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 325280,
-      "name": "Melatonin (Unplugged)",
-      "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
     },
     {
       "added_at": "2023-10-20 04:00:00",

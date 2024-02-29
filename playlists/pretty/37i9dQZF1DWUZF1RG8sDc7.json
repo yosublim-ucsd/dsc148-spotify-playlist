@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 110847,
+  "num_followers": 110952,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjQ1ZmM3ZDU5M2I5Mjg1YThlYmExNmE4NTczNDlmZDU1NTlmZTY2",
+  "snapshot_id": "MCw3OGRkM2ZkYjg2YzYyMGYyYWVlYWU1YTg5MGRjZGY3YjM3ZjI3YWIw",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -499,22 +499,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 247813,
-      "name": "Traga'O De T\u00ed",
-      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
+      "duration_ms": 182453,
+      "name": "La creciente",
+      "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -603,18 +599,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+        "name": "El Caballero Del Vallenato",
+        "url": "https://open.spotify.com/album/3Yiy89tCsNKNpxffyrheo9"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 182453,
-      "name": "La creciente",
-      "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
+      "duration_ms": 247813,
+      "name": "Traga'O De T\u00ed",
+      "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
     },
     {
       "added_at": "2022-12-16 20:17:47",

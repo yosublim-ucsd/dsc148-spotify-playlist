@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ODD Foot Works
 
-1,381 songs - 3 day 13 hr 33 min
+1,384 songs - 3 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,8 @@
 | [I'm Prince](https://open.spotify.com/track/5OiEfsEEm8nFxKDB5ijySR) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [I'm Prince](https://open.spotify.com/album/0wIUrMzreRprpPCXx0D8lY) | 3:10 | 2024-01-02 | 2024-01-10 |
 | [i.e.](https://open.spotify.com/track/56D1XjLDRNIl2J6MDxBBHe) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [i.e.](https://open.spotify.com/album/56m3Rh00xKiMl6gOowxBV5) | 4:52 | 2023-05-10 | 2023-05-27 |
 | [I.W.S.P](https://open.spotify.com/track/4JAP7z3MSFFcSiW66Lr9J3) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [I.W.S.P](https://open.spotify.com/album/4ik3vEY9isnVmH3wfdnsfN) | 4:12 | 2023-09-12 | 2023-10-25 |
-| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 |  |
+| [IAI](https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo) | 3:03 | 2024-02-28 |  |
+| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [Ice Age](https://open.spotify.com/track/5scjv3pREcgPWjBSeQYPLw) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Ice Age](https://open.spotify.com/album/1cNBJO2Qx0fLV2q5BsZbae) | 4:01 | 2023-05-09 | 2023-06-23 |
 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 | 2023-05-04 | 2023-06-14 |
 | [ihatov](https://open.spotify.com/track/2QdznMToKNrjjJV3mERuCv) | [Wang\-Wang\(旺旺\)](https://open.spotify.com/artist/3P5cZnDKVRP2tcYJ7GHDuD) | [Campanella](https://open.spotify.com/album/0OluVojpQ61mUBplmkyL0g) | 4:53 | 2024-01-30 | 2024-02-07 |
@@ -447,6 +448,7 @@
 | [Link](https://open.spotify.com/track/52DdvqVipvD6SsdxumQlLa) | [DIMWORK](https://open.spotify.com/artist/1LF1v18dJ7OGuGdju3T56d) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 4:53 | 2023-08-08 | 2023-08-16 |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 | 2024-02-23 |
+| [Lonely star](https://open.spotify.com/track/3RB4JDN3ctAJOgd01vpjDi) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 3:47 | 2024-02-28 |  |
 | [Long Night out \- アツムワンダフル Recreation](https://open.spotify.com/track/0iyJmh8QdhR0ChB97XjH7k) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6), [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW) | [Long Night out \(アツムワンダフル Recreation\)](https://open.spotify.com/album/0OxxY99Tn9n5Miz4ZQZR36) | 4:20 | 2024-01-30 | 2024-02-07 |
 | [Looking 4u](https://open.spotify.com/track/1klLWilNyA3eCOvvw0y1sQ) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [Daydream Marker](https://open.spotify.com/album/4wKlHESfXOKQhuk4s6zXyJ) | 3:40 | 2024-02-13 | 2024-02-21 |
 | [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 | 2023-06-08 |
@@ -604,7 +606,8 @@
 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 | 2024-02-06 |  |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-04-20 | 2023-06-14 |
 | [Pluto](https://open.spotify.com/track/5MOsAXKTErIjTAo5BeMiQP) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Pluto](https://open.spotify.com/album/0jedCYvpwYIdVKq180Elh5) | 3:49 | 2023-01-12 | 2023-01-27 |
-| [Poison](https://open.spotify.com/track/2tHA1slw78Hu2xmWtRwzSp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/6ufhXSV3u4M9vSyKnsEBSX) | 2:52 | 2024-02-27 |  |
+| [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-02-28 |  |
+| [Poison](https://open.spotify.com/track/2tHA1slw78Hu2xmWtRwzSp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/6ufhXSV3u4M9vSyKnsEBSX) | 2:52 | 2024-02-27 | 2024-02-29 |
 | [Poison](https://open.spotify.com/track/5XQ8wudAX0ND1TC4PMp7tE) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [konami](https://open.spotify.com/album/6XPAVeT6gbEur5FLeK0hn2) | 2:26 | 2023-12-12 | 2023-12-20 |
 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-07 | 2023-02-22 |
 | [POPSONG](https://open.spotify.com/track/0eJbIqK9VQJ5uCvA8HMvAs) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [POPSONG](https://open.spotify.com/album/73WQe5LHQLGOs4mZP1iLsy) | 3:46 | 2023-08-15 | 2023-08-18 |
@@ -806,7 +809,7 @@
 | [The Out of Africa Hypothesis](https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Zo Zhit](https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx) | [The Out of Africa Hypothesis](https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r) | 4:42 | 2023-10-03 | 2023-10-11 |
 | [The Out of Africa Hypothesis](https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [荘子it](https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T) | [The Out of Africa Hypothesis](https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4) | 4:42 | 2023-10-03 | 2023-10-05 |
 | [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 | 2023-02-10 |
-| [The Yonder](https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE) | 2:33 | 2024-02-13 |  |
+| [The Yonder](https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/7IiryjEryXiL3wRNWItITE) | 2:33 | 2024-02-13 | 2024-02-29 |
 | [Them Us You Me](https://open.spotify.com/track/3KHBNhUmAoyb3AEbWgVYjd) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Them Us You Me](https://open.spotify.com/album/2Hvm2ruIBqU7Hkc6NANCkC) | 2:43 | 2024-01-23 |  |
 | [Theme park](https://open.spotify.com/track/03vL5ThjjFD8ALjZjRSVlL) | [Jan flu](https://open.spotify.com/artist/3KuNGrXzOFrVtQvi8czDCR) | [Theme park](https://open.spotify.com/album/7gP1UZ7y4LIGKGI0vKNxcS) | 2:19 | 2023-12-12 | 2024-01-10 |
 | [Things Will Be Done Before You Come](https://open.spotify.com/track/3ukGUIYkWua4IWvHYSH3kD) | [Lanes](https://open.spotify.com/artist/2vnttceAbzvspOhe3zyN5i) | [Things Will Be Done Before You Come](https://open.spotify.com/album/7jOdfY3G7UMSNl85y0YGho) | 4:15 | 2024-01-25 | 2024-01-31 |

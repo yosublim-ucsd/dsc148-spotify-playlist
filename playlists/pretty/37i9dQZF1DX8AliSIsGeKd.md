@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,295 likes - 90 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,389 likes - 90 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Take Me Back](https://open.spotify.com/track/3vAlTZ5tbE0cP2ppijVkbf) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Take Me Back](https://open.spotify.com/album/55Zy9a9hZKTBnM2tj8YlaL) | 5:34 |
 | 90 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 
-Snapshot ID: `MCwzMTI4OWYyMjdmZmE3YzdlOWU0MGE2ODRlNjBiMGZkY2Y0ZmEyMTI4`
+Snapshot ID: `MCxiMWE1NGUwM2U4NTFiYjBjYmFlMWU0Mjc1ZDczOTZmNGRiMWUyZDYy`

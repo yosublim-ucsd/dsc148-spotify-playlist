@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 750 songs - 1 day 14 hr 16 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 752 songs - 1 day 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -758,5 +758,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 748 | [Waiting \(feat\. Sheff G\)](https://open.spotify.com/track/4gOTWPI2lMFTC17LP8zjYu) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Pain & Love 2](https://open.spotify.com/album/1M1i7i0G5g0bhQIoyXeqJN) | 2:51 |
 | 749 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
 | 750 | [I'M DAT N\*\*\*\*](https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 4:31 |
+| 751 | [Praise God](https://open.spotify.com/track/0g4PNSR6DXV9x2XNNM41Qo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Praise God](https://open.spotify.com/album/4L3S83ZH3kvdu6VN8njZ29) | 3:14 |
+| 752 | [Okay](https://open.spotify.com/track/7aL51Oe4h8Mk8GPJHfDzZB) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Mac & Cheese 5](https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3) | 3:12 |
 
-Snapshot ID: `OTE3LGU3NDI3ZDhhZjU1NmMwMWZhN2FhNTMxODM0MzEzZDIxZGZmODZiMWU=`
+Snapshot ID: `OTE5LDZlYjAzMDMzZjYzYzAxMjkxYzVkZmNmMDhlMWQ1ZTJjYjJlYTUxNjU=`

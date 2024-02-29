@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
+  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Abysmal Thoughts",
         "url": "https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 228146,
       "name": "Blood Under My Belt",
       "url": "https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "FIDLAR",
-        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
         }
       ],
-      "duration_ms": 134026,
-      "name": "No Waves",
-      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2021-04-09 06:19:31",

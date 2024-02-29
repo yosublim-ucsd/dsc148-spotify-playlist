@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,363 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,384 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 35 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 | 36 | [Bestie](https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Bestie](https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE) | 2:54 |
 | 37 | [Eyes Closed](https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 4:32 |
-| 38 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |
-| 39 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
+| 38 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
+| 39 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 |
 | 40 | [Don't Give It Away \(with Chris Brown\)](https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Don't Give It Away](https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA) | 3:26 |
 | 41 | [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 |
-| 42 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 |
-| 43 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 |
+| 42 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 |
+| 43 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 |
 | 44 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM) | 3:10 |
 | 45 | [Life Is Better Now](https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
 | 46 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 94 | [Zwanger in De Club](https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [Zwanger in De Club](https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ) | 3:52 |
 | 95 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
 | 96 | [Say That](https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Say That](https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh) | 3:47 |
-| 97 | [Whatever I Guess?](https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4) | [Whatever I Guess?](https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu) | 3:33 |
-| 98 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
-| 99 | [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 |
-| 100 | [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 |
+| 97 | [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 |
+| 98 | [Whatever I Guess?](https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4) | [Whatever I Guess?](https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu) | 3:33 |
+| 99 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
+| 100 | [123](https://open.spotify.com/track/5dawpCCaji7L1oC3dOqoWb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [123](https://open.spotify.com/album/4K4aJCHMBhW74pwTzp7tLk) | 2:38 |
 
-Snapshot ID: `MCxiZTg4Njc3NGUwODMwZDA1MmM4ZTA2NjcxMzZmZjY0OTNlYjljYjhk`
+Snapshot ID: `MCwxMWMyM2IwODkzOTBjNjhiOGUxNTMzZDIwZWI2ZDJhMWMyNzVhYzYw`

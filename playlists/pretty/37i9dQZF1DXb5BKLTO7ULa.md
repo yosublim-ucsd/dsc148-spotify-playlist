@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,116 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,118 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 87 | [Sit And Talk](https://open.spotify.com/track/3FWrSdIIIQzOoZcTQw0FYD) | [The Astral Twins](https://open.spotify.com/artist/7qxrJosSi8FUisYXd0Irdd) | [Sit And Talk](https://open.spotify.com/album/2yEa5nX0Zk1gR06CMFo9gW) | 3:12 |
 | 88 | [WGMD](https://open.spotify.com/track/0iSIbkv4uAC64IWWyrVByc) | [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [WGMD](https://open.spotify.com/album/2A8J6DLjFbpv7XcsHXnxCm) | 2:18 |
 | 89 | [LEAN BACK](https://open.spotify.com/track/1QwTgE6jWUzilFTQ2H1YGa) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa) | [Lean back](https://open.spotify.com/album/1BwAFZZIyds3jDVBfLiMRq) | 2:19 |
-| 90 | [This is the Day](https://open.spotify.com/track/6IgUZEGBvNXGXJEiTZyHfX) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [This is the Day](https://open.spotify.com/album/1r4AlpInKSHs6QsT1OG35N) | 3:14 |
+| 90 | [This is the Day](https://open.spotify.com/track/7gppRczEvp3bht0q6HuN38) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [This is the Day](https://open.spotify.com/album/1LXpXVOu5aWnlxoqCuVgRj) | 3:14 |
 | 91 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 |
 | 92 | [The Unknown](https://open.spotify.com/track/5U1dXVBWwrb8cITcWO78Vr) | [Jason Waterfalls](https://open.spotify.com/artist/1xbcwEZHQDcnn3NII8q8YL) | [The Unknown](https://open.spotify.com/album/3DSJjAwiMdmIOhhoHFt6l4) | 2:49 |
 | 93 | [bangerik.](https://open.spotify.com/track/5tnVGEwQISfuAfRZAsNIla) | [Lateesha](https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm) | [bangerik.](https://open.spotify.com/album/6AfxzsMiP3c55yecp12o3H) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Cumbia De Pena](https://open.spotify.com/track/6ROf38sm9fS78z95vKRXjE) | [MAURINO](https://open.spotify.com/artist/7ub1AdmYtpkKtwwtFgBIWl) | [Cumbia De Pena](https://open.spotify.com/album/2eHRkE1beUBKDaq1eS8SwD) | 3:05 |
 | 100 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
 
-Snapshot ID: `MCwwYTA2OTk3Zjk4NmY2ZTk0ZWM1MjFjOTUwYTVmYmQ4MTM1ZmRmM2Zl`
+Snapshot ID: `MCw3YmExY2Y1NTkzYzAyOTQ5MTQzZmNkZDlmYmRhZGFhMDAyM2VlY2Zl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,112 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,145 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 27 | [Cinco Minutos](https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sentimientos Encontrados](https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm) | 3:31 |
 | 28 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 |
 | 29 | [Pense Que Te Olvide \(feat\. 8 Corazones\)](https://open.spotify.com/track/39gWip1Y0ihun0akUpA270) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3), [8 Corazones](https://open.spotify.com/artist/4i3xTXTC1XOldF8KAIOwma) | [Pense Que Te Olvide \(feat\. 8 Corazones\)](https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp) | 3:02 |
-| 30 | [Soñador Eterno](https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx) | [¡Anotate!](https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb) | 3:11 |
-| 31 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 30 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 31 | [Soñador Eterno](https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx) | [¡Anotate!](https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb) | 3:11 |
 | 32 | [Perdi mi amor](https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx) | [Andy El Unico](https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla) | [Loco](https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp) | 3:43 |
 | 33 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 |
 | 34 | [Amigos Con Derecho](https://open.spotify.com/track/0s20N1FV0QZ5Stp5GXH2cj) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK), [Mama Santa](https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW) | [Amigos Con Derecho](https://open.spotify.com/album/0WlUBg6W43IB3Wp6vY9YuK) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 49 | [Todo Biento](https://open.spotify.com/track/33noWMO0SPfWArA58YHLtr) | [Pipa Para Tabaco](https://open.spotify.com/artist/6Y1u9VzC9SOmr9pbUACwjg) | [Vas A Morir Con Eso](https://open.spotify.com/album/1VNzUYcY2Hi5YcjSu352pR) | 3:03 |
 | 50 | [Tú y yo](https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [Qmbia Base](https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY) | 3:37 |
 
-Snapshot ID: `MCw3MjlmYjc1NzI4NDA4NjRmMmFhM2E2MjgyNTVkNDcwNmVlOGRmMzc5`
+Snapshot ID: `MCxjZWViZWI5NDExNmIyYzdiNTI3NDAyYjllZmY0MWQzNTUwZGQyNThh`

@@ -4,7 +4,7 @@
 
 > Hit the road to the soundtrack of these seventies classics.
 
-294 songs - 20 hr 14 min
+295 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 | 2021-02-10 |  |
 | [Couldn't Get It Right](https://open.spotify.com/track/7GSCnEFxiD6Im98CbfySDw) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [Gold Plated](https://open.spotify.com/album/46b5kxxgs65r2SQYf6BYfO) | 3:18 | 2022-07-01 | 2022-07-29 |
 | [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/1yblP7ULnIfig4H0MkJ9Vh) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/6edALFNgedTl6sSCj5UHKv) | 2:59 | 2021-02-10 | 2022-07-29 |
+| [Cracklin' Rosie \- Single Version](https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Tap Root Manuscript](https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO) | 2:59 | 2021-02-10 |  |
 | [Cruel To Be Kind](https://open.spotify.com/track/7MukhjZ8GfYkK9lMEdnagp) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/2jYBS1ktXvUxW7GfKtdWI2) | 3:30 | 2021-02-10 | 2022-07-29 |
 | [Dancing In The City](https://open.spotify.com/track/3VfmijZoT9drT1jZtEPiuL) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [This Is..\. 1978](https://open.spotify.com/album/3pm6UqN11aJorBxhi2pFxf) | 3:46 | 2021-02-10 | 2022-04-16 |
 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 | 2021-02-10 | 2022-07-29 |
@@ -94,7 +95,7 @@
 | [Golden Years \- 2016 Remaster](https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Station to Station \(2016 Remaster\)](https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU) | 4:03 | 2022-04-14 | 2022-11-13 |
 | [Got To Give It Up \(Pt\. 1\)](https://open.spotify.com/track/5n1A3VxqT4VcNez4Ah6dSu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Best Of Marvin Gaye](https://open.spotify.com/album/1qTM6Za6nPUuEshVSmlZnO) | 4:08 | 2021-02-10 | 2022-04-18 |
 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 | 2021-02-10 |  |
-| [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 | 2021-02-10 |  |
+| [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 | 2021-02-10 | 2024-02-29 |
 | [Heart Of Glass](https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines](https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts) | 3:49 | 2021-02-10 |  |
 | [Here You Come Again](https://open.spotify.com/track/4QDvvyatlIOTz8jcXt0An7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love Songs](https://open.spotify.com/album/0EKZEgvStTt63UDNTK9XyV) | 2:53 | 2021-02-10 | 2022-07-21 |
 | [Heroes \- 1999 Remaster](https://open.spotify.com/track/5j6ZZwA9BnxZi5Bk0Ng4jB) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Heroes \(1999 Remaster\)](https://open.spotify.com/album/3lFioPGhn7x5Y3H3YbPV83) | 6:10 | 2021-02-10 | 2022-04-20 |

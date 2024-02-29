@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-718 songs - 1 day 8 hr 17 min
+719 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 | 2023-03-25 |
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |
 | [Feel Good](https://open.spotify.com/track/3RzT2bhbuqG7pxnRPiGGg1) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/4hNNbbPopqfTMEMjhM2j3o) | 3:22 | 2023-09-07 | 2023-12-11 |
-| [Ferris Parade](https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox) | [Henryne Girls](https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Ferris Parade](https://open.spotify.com/album/3K0m77uugdjUASwQosIksy) | 2:46 | 2024-02-15 |  |
+| [Ferris Parade](https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox) | [Henryne Girls](https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Ferris Parade](https://open.spotify.com/album/3K0m77uugdjUASwQosIksy) | 2:46 | 2024-02-15 | 2024-02-29 |
 | [Feynman](https://open.spotify.com/track/34DPkGBdvuvCdNt0YaOsby) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Resynthesis \(Green\)](https://open.spotify.com/album/0bpJi2ZRRx8PNiD5qGEfO2) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [find a way](https://open.spotify.com/track/4gdNaZ3GUe9mDGy5OZQAe4) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [find a way](https://open.spotify.com/album/1h4KtvcjaJ7kVcs0M47ETp) | 3:14 | 2021-12-23 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/2HPAE9dtpbx385HdUySePp) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Seven Winds](https://open.spotify.com/album/6oePpBmzhdATyTLTAmPAjS) | 2:35 | 2021-12-23 | 2022-07-28 |
@@ -410,7 +410,8 @@
 | [Mood Ring](https://open.spotify.com/track/2wsO3NnI1LtUO2fAqb7tY9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/5b8LIdYst2iRT0fkLpeHc8) | 3:39 | 2023-03-02 | 2023-05-09 |
 | [Moon Gazing](https://open.spotify.com/track/3trUWQLZYKSxZPwqhozd4d) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU), [Hanae Sakuyama](https://open.spotify.com/artist/0rg9I9507vQXmmfZquZ7oG) | [Moon Gazing](https://open.spotify.com/album/2zrgZOi7EUgwmmC8G2ee5G) | 4:14 | 2021-12-23 | 2022-01-28 |
 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 | 2022-02-17 |  |
-| [Moon Walk](https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB) | 2:54 | 2024-02-27 |  |
+| [Moon Walk](https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/5KUtHuA4wzJlbgBSdS81TB) | 2:54 | 2024-02-27 | 2024-02-29 |
+| [Moon Walk](https://open.spotify.com/track/79R8D7F0PEmy4nuaD7kqwd) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Moon Walk](https://open.spotify.com/album/4SDIMh7yv7kXXkN4cbTENh) | 2:54 | 2024-02-27 |  |
 | [MOON WAVE](https://open.spotify.com/track/3frTPQMP9mhtUcYhxYPOGO) | [TOMMY HONDA](https://open.spotify.com/artist/2sHNt94yiTqGXeQEKUDX5n) | [MOON WAVE](https://open.spotify.com/album/4lKMUnLY2dTRV4IzKEpI4B) | 2:57 | 2021-12-23 | 2022-07-20 |
 | [Moonlight](https://open.spotify.com/track/2KybWCmGojaGl10fYmwjFK) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Moonlight](https://open.spotify.com/album/6JTB3gIEKRnXVPv9V5dpl8) | 1:26 | 2022-01-13 | 2022-07-24 |
 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 | 2023-08-17 |  |
@@ -453,7 +454,7 @@
 | [Night Lighter](https://open.spotify.com/track/2o926ylJ6b9NAgs7GxeJlA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/4hj26tah8NTrWsjyN4GOZt) | 2:19 | 2023-06-22 | 2023-06-24 |
 | [Night Lights](https://open.spotify.com/track/6lD4z9pp562jUf3mJx1xSl) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Night Lights](https://open.spotify.com/album/0zfibDEedhD4zQiJFEk0SC) | 2:37 | 2022-01-06 | 2022-07-17 |
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 | 2023-04-02 |
-| [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 | 2024-01-18 | 2024-02-22 |
+| [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 | 2024-01-18 |  |
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-08-10 |  |
 | [Night View](https://open.spotify.com/track/5fDXtT8xiVNZ0tAe8wYXPJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2), [交響都市](https://open.spotify.com/artist/3RzWlu98pODmrYSMwhMNeX) | [Night View](https://open.spotify.com/album/4bOSB7ra5IOKvqyJC2qbtT) | 3:01 | 2021-12-23 | 2022-01-28 |
 | [niji](https://open.spotify.com/track/14c5FlYFBYCGvzuJtyVFRb) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [niji](https://open.spotify.com/album/7HHgLuRWofzzhKDiyKHCPj) | 2:24 | 2023-06-22 | 2023-09-27 |

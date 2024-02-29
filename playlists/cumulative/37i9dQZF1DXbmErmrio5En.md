@@ -4,7 +4,7 @@
 
 > saturation, distortion, feedBack\. ft\. bixby
 
-390 songs - 17 hr 20 min
+391 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |
 | [the end.](https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck\. run\. sink\. die\. the end.](https://open.spotify.com/album/77Vn3DDWatnu93qk2c0CoE) | 2:33 | 2023-08-25 |  |
 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 | 2023-01-06 | 2023-09-19 |
-| [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 | 2024-02-13 |  |
+| [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 | 2024-02-13 | 2024-02-29 |
+| [the life and death of a dog](https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 3:34 | 2024-02-13 |  |
 | [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2024-02-28 |
 | [the muse](https://open.spotify.com/track/5rBD71RobWRssvUnK2rbc9) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [the muse](https://open.spotify.com/album/7mKUfDf8TjnrBuYtsBO960) | 3:39 | 2024-02-13 |  |
 | [The Poison's The Weather](https://open.spotify.com/track/3gV6pc8ERKK7e174TRxuBU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [The Poison's The Weather](https://open.spotify.com/album/6sAC8GdyWcFqtzrbxejyso) | 2:40 | 2023-03-24 | 2023-09-22 |

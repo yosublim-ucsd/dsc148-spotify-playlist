@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Subtronics
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,671 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,704 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 70 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI) | 2:34 |
 | 71 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 |
 | 72 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 |
-| 73 | [High Voltage \(with JT Foley\)](https://open.spotify.com/track/6b7noKS8HNmHhphZN643dD) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [High Voltage \(with JT Foley\)](https://open.spotify.com/album/0aT4H2HaQ1r6rNaDh1wR1o) | 3:58 |
-| 74 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 |
+| 73 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 |
+| 74 | [High Voltage \(with JT Foley\)](https://open.spotify.com/track/6b7noKS8HNmHhphZN643dD) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [High Voltage \(with JT Foley\)](https://open.spotify.com/album/0aT4H2HaQ1r6rNaDh1wR1o) | 3:58 |
 | 75 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
 | 76 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |
 | 77 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [Mind Control](https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Mind Control](https://open.spotify.com/album/7f0LR3Mm5uD7oCBjCJ2Xt4) | 3:18 |
 | 100 | [Out For Blood](https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Out For Blood](https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp) | 5:16 |
 
-Snapshot ID: `MCw4NTE4YTIxMDY5YTBiNzlmNGFkY2VkZTg4NDcwMjg0NjYzODYxOTdm`
+Snapshot ID: `MCxkODhiNTQ4MmQ1ZWU5NzVmM2ZkZDVlYjNiZjMyYzk5M2JlNDNkZWIz`

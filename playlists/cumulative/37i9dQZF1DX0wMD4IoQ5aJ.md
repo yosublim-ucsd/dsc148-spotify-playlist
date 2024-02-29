@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-312 songs - 16 hr 19 min
+315 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2022-04-15 | 2022-10-08 |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-04-15 | 2022-08-19 |
 | [Better Now](https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Better Now](https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA) | 3:21 | 2023-01-06 |  |
+| [Bit of Window](https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2) | [Conte Prad](https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX) | [Bit of Window](https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap) | 2:01 | 2024-02-28 |  |
 | [Blame Me](https://open.spotify.com/track/0SUjJjiF8l8TRoFIYf0C11) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [SRY / Blame Me](https://open.spotify.com/album/6abDeahvTe453GxeIP462g) | 4:11 | 2022-06-10 | 2022-10-14 |
 | [Blip\-A\-Thon](https://open.spotify.com/track/40RUbTmKa8OCmtXai1KN2l) | [Jakkalz](https://open.spotify.com/artist/1WoIRFMlTR84QzDZE8kZaG) | [Blip\-A\-Thon](https://open.spotify.com/album/44OHKDhuwWKyvzeQfS9t0f) | 1:41 | 2022-05-27 | 2023-01-20 |
 | [Bloom](https://open.spotify.com/track/18giPJITeabMO6IB2pp45x) | [Wilborn](https://open.spotify.com/artist/73bYcf4jRS1co8vAERIbJW) | [Bloom](https://open.spotify.com/album/2OtEMRK0aS7xrnrrLtr44T) | 4:20 | 2022-09-02 | 2023-04-29 |
@@ -55,6 +56,7 @@
 | [Butterfly](https://open.spotify.com/track/3rp3tNPhOHySBqHbawolKh) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Butterfly](https://open.spotify.com/album/5H9k158ooh71IQmt6WL5iR) | 2:39 | 2023-11-17 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 | 2023-10-05 |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-02 |  |
+| [Cap Ferrat](https://open.spotify.com/track/6PHRctVh6vyJy1Ou9rYU34) | [Sennac](https://open.spotify.com/artist/6ZBW2C2pB5zsJ4LZXbIu2i) | [Cap Ferrat](https://open.spotify.com/album/3gYvD0uUwXt3sqkI1AtAge) | 2:13 | 2024-02-28 |  |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2022-04-15 | 2023-01-07 |
 | [Cat Street Fight](https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Cat Street Fight](https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF) | 2:58 | 2022-07-29 | 2022-10-08 |
 | [Catch Up](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Catch Up](https://open.spotify.com/album/2XPpsANRiPjLCejPEBeLfK) | 2:52 | 2022-04-15 |  |
@@ -301,7 +303,7 @@
 | [Thin Minute](https://open.spotify.com/track/4ocQtMV5xbPtGyCnP0YifT) | [Gloster Gladiator](https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg) | [Thin Minute](https://open.spotify.com/album/5cuS22pdRRHpQnBE9D5baF) | 2:05 | 2024-01-19 |  |
 | [Traffic Lights](https://open.spotify.com/track/3MdKptGeHema5frxISyDAW) | [Slow Ted](https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8) | [Traffic Lights](https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG) | 3:09 | 2022-06-24 |  |
 | [Transform](https://open.spotify.com/track/5kS0twYx4n48QIc2YgfBSK) | [Little Spoon Bender](https://open.spotify.com/artist/0VMCwUMdk5TvMb57mWXip0) | [Transform](https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB) | 3:28 | 2022-04-15 | 2023-01-20 |
-| [true self](https://open.spotify.com/track/6YXiRZf9M1irFXIbigT6i7) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [true self](https://open.spotify.com/album/4ft8GDJ6iJl9naJWCJ4PJi) | 2:47 | 2024-02-13 |  |
+| [true self](https://open.spotify.com/track/6YXiRZf9M1irFXIbigT6i7) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [true self](https://open.spotify.com/album/4ft8GDJ6iJl9naJWCJ4PJi) | 2:47 | 2024-02-13 | 2024-02-29 |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2022-04-15 | 2023-01-20 |
 | [Untouched Hours](https://open.spotify.com/track/51qXHSywnVVYGTBzooCbk0) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Layer Cake](https://open.spotify.com/album/2A8BYu3CWlRc0cZ0iN2Oc0) | 4:00 | 2022-12-23 | 2023-01-07 |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-06-10 |
@@ -319,6 +321,7 @@
 | [What Was It Like](https://open.spotify.com/track/7rwWQ2lBEQvLzalmgIdEH7) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [What Was It Like](https://open.spotify.com/album/5Qgjv6Z2zgtMDtdRQhRDki) | 2:55 | 2022-10-07 |  |
 | [Where When](https://open.spotify.com/track/0WJjY4u7gtDDgKseWFXiG3) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Where When](https://open.spotify.com/album/6A49euv0NWuguiIrQBAAov) | 2:36 | 2022-11-25 |  |
 | [Why Is This Bird So Jealous?](https://open.spotify.com/track/05iKKQ1NqXQ3HXW6tPWsAo) | [Chelle Ives](https://open.spotify.com/artist/7birWEa67r8nIby8rV64EJ) | [Why Is This Bird So Jealous?](https://open.spotify.com/album/39zLbFDfamlVJdVAA27OLt) | 3:52 | 2022-10-07 | 2023-01-07 |
+| [Zero Gravity](https://open.spotify.com/track/7s7b3H2cMBMGbqV0u5VCIr) | [In Diooo](https://open.spotify.com/artist/4wxCkW1LyTe4wSkS1TrPFU) | [Zero Gravity](https://open.spotify.com/album/4leNi2kUacyGvcaUo738Nk) | 2:28 | 2024-02-28 |  |
 | [Été](https://open.spotify.com/track/4faQsCXVnzLa2yITblP9ow) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Été](https://open.spotify.com/album/46XuT3p7wL8ojiHImiXatz) | 3:37 | 2022-06-17 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

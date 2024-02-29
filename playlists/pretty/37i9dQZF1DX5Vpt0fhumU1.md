@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,596 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,658 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 37 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
 | 38 | [Cancion de la Luna](https://open.spotify.com/track/22jn5snbSZJsEamjIogEEH) | [Grupo Elias Duran](https://open.spotify.com/artist/34MmLK8qhpf5Q0BfxXs7UR) | [Spanish Tapas Bar, Vol\. 2](https://open.spotify.com/album/67rNWYVgI01pHZ80vFfVFs) | 2:57 |
 | 39 | [Salobre](https://open.spotify.com/track/3LEPJoznozSSiHQXSn8UAT) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Azahara](https://open.spotify.com/album/7woAczJxgzS1fiARwlCp96) | 5:09 |
-| 40 | [Bulerías de Jerez](https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/3JGbQd6AttYZuvkl1GdGxt) | 4:24 |
+| 40 | [Bulerías de Jerez](https://open.spotify.com/track/1PGdB5KIGyDqhBoYvPh62s) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/59u4o1MpJ3aCZ1dRO7xIWU) | 4:24 |
 | 41 | [Gypsy Flame](https://open.spotify.com/track/1VQwO0EPtJViDEsqLpsnV1) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Gypsy Flame](https://open.spotify.com/album/1o7kL55w6IvIGz4mfWJjfu) | 4:53 |
 | 42 | [Barcelona Nights](https://open.spotify.com/track/2rJY1HlLcOXsQYMPUnhQxa) | [Ottmar Liebert](https://open.spotify.com/artist/1AhYnfs5mzb3ennyLFXlYD) | [Barcelona Nights: The Best Of Ottmar Liebert Volume One](https://open.spotify.com/album/0o91xvgRJz0ZLb5cCPzFo8) | 4:06 |
 | 43 | [The Flavor](https://open.spotify.com/track/3oxqugZiGg6uIzY4beGaCx) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Seduction](https://open.spotify.com/album/7n9XvIP2pVI53sbdEvbaTX) | 4:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vpt0fhumU1.md) - [plain]
 | 50 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 |
 | 51 | [En la Mancha](https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD) | [Mari Nieto](https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj), [Juan Antonio Torres](https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw), [Viguela](https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF) | [Temperamento: Traditional Music from Spain](https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC) | 5:50 |
 
-Snapshot ID: `MCw3YzJiNGFkZjczNjRlNWVlMjcxYjk1NzFjNDU3MDVlMjRjNTkwZDNi`
+Snapshot ID: `MCxkMDE0NGY3NzdmYzcwMDkwOTgyODIyMWRiMzgwMDI5MGJhMTA5ZmYy`

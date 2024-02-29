@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,751 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,905 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 4 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 5 | [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 |
 | 6 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 |
-| 7 | [Funky Tears](https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Funky Tears](https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj) | 2:26 |
+| 7 | [Funky Tears](https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Funky Tears](https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj) | 2:26 |
 | 8 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 |
 | 9 | [Alas Rotas \- Remix](https://open.spotify.com/track/40VT5ABesmmT9I3DzGjUun) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Alas Rotas \(Remix\)](https://open.spotify.com/album/0XLeloevIGCLyaqG5C4ITj) | 4:27 |
 | 10 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 100 | [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 |
 
-Snapshot ID: `MCxkZDI1NGI2OTcxMDE5NDE4OWEwYjYwNDRhYjJkOTI4ZTNiZGUyNzhm`
+Snapshot ID: `MCxmNzQ2ZTA0YTNmMmU1ZGExMWVjY2IzMDQwZmJmZWU3NzBjMDgzNTll`

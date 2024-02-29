@@ -4,7 +4,7 @@
 
 > glaivepilled
 
-1,967 songs - 3 day 17 hr 31 min
+1,968 songs - 3 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [asuna](https://open.spotify.com/track/3KcyGKSIhkNDxbGGFRf2jd) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P), [kid sora](https://open.spotify.com/artist/515DCsL7PUKhEkrY6au52K) | [asuna](https://open.spotify.com/album/77YLpiab7HOUxHAWM1WpFU) | 2:56 | 2021-07-16 | 2022-01-13 |
 | [Atlantean Airship](https://open.spotify.com/track/0t9vFGCWUq3pmpPkf80KVg) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [EVENIFUDONTBELIEVE](https://open.spotify.com/album/49Iya42dgyQlHiImgCcvJt) | 3:06 | 2021-05-08 | 2021-05-15 |
 | [Atypical](https://open.spotify.com/track/4nbSY5TATD9WVXR5CKaUfZ) | [Nuum](https://open.spotify.com/artist/6BAW0yDEeA4wOskLv8y1qe) | [Atypical](https://open.spotify.com/album/7caSEro6pNRSCTMDOvSWD3) | 3:27 | 2022-10-21 | 2022-11-26 |
+| [Automatic](https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Automatic](https://open.spotify.com/album/5eApGsISMBKROb2gICEUiT) | 3:21 | 2024-02-28 |  |
 | [Awake \- Dinamarca Remix](https://open.spotify.com/track/1JGNcH5p591DAo8h7eWvF7) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe), [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Devotion \(Deluxe\)](https://open.spotify.com/album/24ZsoeEvWnCVZnmU7Ken97) | 2:52 | 2021-01-08 | 2021-02-10 |
 | [Azucar \(feat\. Woesum\)](https://open.spotify.com/track/3YVct4y1Gg1Xk8r94LGOvG) | [Kamixlo](https://open.spotify.com/artist/047OAyUhKioOpwIRFrRVfx), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe) | [Azucar \(feat\. Woesum\)](https://open.spotify.com/album/2yLYboS4Wk86ySw89D9CXy) | 4:01 | 2020-12-11 | 2021-01-08 |
 | [b i g g i r l](https://open.spotify.com/track/66PWpxakpxayUJorjjftha) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [b i g g i r l](https://open.spotify.com/album/6LTppmdGEvm5F9OKOdyo5M) | 2:46 | 2022-12-09 | 2023-02-11 |
@@ -1046,7 +1047,7 @@
 | [Living My Life Over \(Extreme Vocal Edit\)](https://open.spotify.com/track/32utS31mkAlCOoOdzUqqRJ) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/5e7y3LbvNJ4HA9IsIgGfTl) | 4:10 | 2021-05-08 | 2021-05-15 |
 | [Llámame](https://open.spotify.com/track/5Gyf5VwdfbgFmwKkqqVYmy) | [Laborde](https://open.spotify.com/artist/4fcpKkE0EX1hLk8hlCtVJ5), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Llámame](https://open.spotify.com/album/5y4CY0VboVKqNBlMBagRcA) | 2:20 | 2021-01-08 | 2021-02-10 |
 | [loading\*:..。\(◠\_◠\)](https://open.spotify.com/track/6aUk8YJRIiiw4odvQE6jQG) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [loading\*:..。\(◠\_◠\)](https://open.spotify.com/album/3mHs22B5tzRcHhzmCYb7Ge) | 3:04 | 2023-03-10 | 2023-06-10 |
-| [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-14 |  |
+| [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-14 | 2024-02-29 |
 | [Lock Screen](https://open.spotify.com/track/47OXSrqD2OqBu3jI3R785W) | [plastic pet](https://open.spotify.com/artist/5LhRO5xKEb5FKQfQY0nke6), [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [Lock Screen](https://open.spotify.com/album/3Vqzez3P1GB4yppr0aaCiL) | 4:47 | 2023-06-23 | 2023-12-16 |
 | [Locket](https://open.spotify.com/track/1JZSHuJnzDZZCy1gPr6tNP) | [AVA AKIRA](https://open.spotify.com/artist/1jg5LFnnLAIEbTc6rb9bgn) | [Locket](https://open.spotify.com/album/2e3QYv9joO3mspQ3LesKa2) | 3:06 | 2021-01-08 | 2021-02-10 |
 | [LONELY MACHINES](https://open.spotify.com/track/4Coy6Szkkccfpo78Ba66RX) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [LONELY MACHINES \(Feat\. 100 gecs\)](https://open.spotify.com/album/2MNWOhFXCs2RYKHQbswU6D) | 2:28 | 2020-11-14 | 2021-11-13 |

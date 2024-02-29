@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-278 songs - 17 hr 54 min
+279 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-15 |  |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-09-15 |  |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-06-30 | 2023-12-16 |
+| [Fading](https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf) | 4:27 | 2024-02-23 |  |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-02 | 2023-12-16 |
 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 | 2021-04-02 | 2022-09-05 |
 | [Felt A Little Like](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Felt A Little Like](https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1) | 3:37 | 2023-12-29 |  |
@@ -193,7 +194,7 @@
 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 | 2021-04-02 | 2022-08-06 |
 | [People, I've been sad](https://open.spotify.com/track/5stdNNY7SUv12p5sLkaBlL) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/3uF0lelesKigBc6H9NGzDq) | 4:20 | 2021-04-02 | 2022-04-20 |
 | [Phoenix \- CID Remix](https://open.spotify.com/track/2tUzMsZD3IGZjY60NkzGU5) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Phoenix \(CID Remix\)](https://open.spotify.com/album/4YrVLDGxygQuWlTtBIxbG5) | 3:09 | 2021-08-27 | 2022-07-29 |
-| [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2021-04-02 |  |
+| [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2021-04-02 | 2024-02-29 |
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-16 |  |
 | [Pure](https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Anjunadeep Explorations 13](https://open.spotify.com/album/6aqRlhEmzmujvXb7EF4pd4) | 3:22 | 2021-09-24 | 2022-07-25 |
 | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/0ykM9VPnzrTwo6DkFpcll9) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Oddyssey](https://open.spotify.com/album/3e3Y0xzqF6CGHFeGolUVsE) | 7:12 | 2021-04-02 | 2022-07-29 |

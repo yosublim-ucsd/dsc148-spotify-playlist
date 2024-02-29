@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,046 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,100 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 49 | [Bizarre Love Triangle](https://open.spotify.com/track/02DtiFsdvdPGbl75VdF8Iy) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:11 |
 | 50 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 |
 | 51 | [Lucent Tides](https://open.spotify.com/track/3LRwgm5Ws5deslamMvfFJX) | [Fourtwosixx](https://open.spotify.com/artist/22ayfWee5bg0mVkWFMEhgE), [Stella Kana](https://open.spotify.com/artist/5FEcv3g5zmaSJgnEVjMh1G) | [Lucent Tides](https://open.spotify.com/album/0NKWKMXxwK9S9LkyEiAPdU) | 4:28 |
-| 52 | [Meninas](https://open.spotify.com/track/3hR4c1LJiqwdyKIiT4V8JL) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Meninas](https://open.spotify.com/album/5DyuxeT1qw2IcI0BDXGkbm) | 2:53 |
+| 52 | [Meninas](https://open.spotify.com/track/3x4YVY9IJh9imezY6la2xQ) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo) | 2:53 |
 | 53 | [Dramatic](https://open.spotify.com/track/5IdS03tpt2M477K2rgzgoq) | [Amen Sioux](https://open.spotify.com/artist/5Xn38pfEtH8K62kpk01ZtA) | [Dramatic](https://open.spotify.com/album/7zuVkzNngf7t4HhKVedfCt) | 3:59 |
 | 54 | [Screw Time](https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Screw Time](https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7) | 3:05 |
 | 55 | [Robot mayordomo](https://open.spotify.com/track/5OwLMBAXYguwH9BjsGFqN1) | [Joan Miquel Oliver](https://open.spotify.com/artist/6zXhOyC07G4spYTHFLm7oo) | [Robot Mayordomo](https://open.spotify.com/album/2YuQcrnbw6TC2inBfN0KUl) | 3:33 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 58 | [Pinstripe](https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Pinstripe](https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2) | 3:22 |
 | 59 | [The Gentleman](https://open.spotify.com/track/696ZECw5HJSy9nMpMhkB9n) | [Mutual Artists](https://open.spotify.com/artist/1a6FwegZ8SPetZKfl0ex41), [Name Prakarn Raiva](https://open.spotify.com/artist/4pEzJKi1fmPaK21P0jEfhD), [NACHE CHAN](https://open.spotify.com/artist/5CW7nTdasjGbEW148S5xXu) | [The Gentleman](https://open.spotify.com/album/13vSqRW7fDt9UQ5LyZ12oV) | 4:08 |
 | 60 | [sole outlet](https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [sole outlet](https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL) | 3:47 |
-| 61 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 |
+| 61 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/0YNbCCep4pGK70IXnXJJAV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:33 |
 | 62 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 |
 | 63 | [Pas la peine](https://open.spotify.com/track/4rjS2xJ4ky6S9unMoNfujB) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Pas la peine](https://open.spotify.com/album/52iK7td3lEXJehzbQokb6t) | 2:47 |
 | 64 | [My Simple Jeep \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [My Simple Jeep \(feat\. Mac DeMarco\)](https://open.spotify.com/album/3RiKNDu7x3qjRM4mhyBQc0) | 2:59 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 98 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/0Lfq6JYj8prokiK2UsDAv4) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 4:18 |
 | 99 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 |
 
-Snapshot ID: `MCw5NWVmYjFjMzU0ZjJlODViMTk5NzA4M2I5MjA2NTZlNzBlYjNjOTM0`
+Snapshot ID: `MCxjODgwNzZmNGJlMmI5OWNhZTU0MGQ2ZmE2N2QyMDljN2M0MjljYmUz`

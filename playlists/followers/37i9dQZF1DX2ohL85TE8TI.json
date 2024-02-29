@@ -1,7 +1,7 @@
 {
-  "2024-02-28": 1522379,
+  "2024-02-29": 1522497,
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: MY DEMON(\ub9c8\uc774\ub370\ubaac)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: Marry My Husband(\ub0b4 \ub0a8\ud3b8\uacfc \uacb0\ud63c\ud574\uc918)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "Korean OSTs",
   "tracks": [
     {
@@ -309,6 +309,24 @@
       "duration_ms": 251000,
       "name": "Aching",
       "url": "https://open.spotify.com/track/017eGASA1dbhQOb942TuQx"
+    },
+    {
+      "album": {
+        "name": "Doctor Slump (Original Television Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/4GMSuAqkTBvijLIPSlqR67"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "Actually I Love You",
+      "url": "https://open.spotify.com/track/1UCIegzDnHhiMmjNB2BLml"
     },
     {
       "album": {
@@ -916,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Marry My Husband OST Part.1",
+        "url": "https://open.spotify.com/album/1CLA5CuJtUdvKKpmRrqTeD"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250397,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/3UkOdGfd749tz7C4T80RzD"
+    },
+    {
+      "album": {
         "name": "The Heavenly Idol (Original Television Soundtrack), Pt.5",
         "url": "https://open.spotify.com/album/4ECjBYA9PnfEqpbcTc7cvc"
       },
@@ -1161,7 +1197,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 232453,
       "name": "Beautiful Restriction",
       "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
@@ -1988,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "\ub0a8\uacfc\uc5ec OST Part 5",
+        "url": "https://open.spotify.com/album/6jbQBARTdk0StmZuqFFEFB"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Candle On The Water",
+      "url": "https://open.spotify.com/track/5etL1HnenGPok82iWKWWn1"
+    },
+    {
+      "album": {
         "name": "Dolsingles4 OST BGM (Soundtrack)",
         "url": "https://open.spotify.com/album/0DrItzNqbcXrKN0jliFFEG"
       },
@@ -2425,7 +2479,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 181625,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9"
@@ -2695,7 +2749,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 204360,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0E4EKdS7LaP9QhPmgrDR0l"
@@ -3711,6 +3765,24 @@
       "duration_ms": 207500,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1ojYrBGkyaVJMz8DrXB8Du"
+    },
+    {
+      "album": {
+        "name": "Flying (From \"Odd Girl Out\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/4h9LWbaco9WKaVWlVAHD2i"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/1IBQYflyHI92aSLFNQL3tj"
     },
     {
       "album": {
@@ -6117,7 +6189,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 203746,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
@@ -6189,7 +6261,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 220968,
       "name": "I\u2019ll Be Waiting",
       "url": "https://open.spotify.com/track/2yPHZA0El8Wea9sArvEfMw"
@@ -6225,7 +6297,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 215533,
       "name": "I\u2019ll Hold You Tight",
       "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
@@ -6637,6 +6709,24 @@
       "duration_ms": 291333,
       "name": "Leave",
       "url": "https://open.spotify.com/track/77mtDpjG5MXCqqY4NusYgW"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub79c\ub529 \uc778 \uc131\uc218\ub3d9 OST Part.2",
+        "url": "https://open.spotify.com/album/1UGXySXL9nDZBIU1gtEfEo"
+      },
+      "artists": [
+        {
+          "name": "YOO YEONJUNG",
+          "url": "https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231546,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/4uBkLFdqwsKI7Mn3QE0k0Z"
     },
     {
       "album": {
@@ -7235,7 +7325,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 208493,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW"
@@ -8155,7 +8245,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 154240,
       "name": "Moon",
       "url": "https://open.spotify.com/track/0fpa3DvcMeXinQvnzuLyP5"
@@ -8653,7 +8743,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 235333,
       "name": "My Star",
       "url": "https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA"
@@ -9532,6 +9622,24 @@
     },
     {
       "album": {
+        "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "Peach Tree",
+      "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
+    },
+    {
+      "album": {
         "name": "KING THE LAND (Original Television Soundtrack), Pt.8",
         "url": "https://open.spotify.com/album/7xtCnnu3QVS6Wy2tz0uzj9"
       },
@@ -9561,7 +9669,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 244186,
       "name": "Permeating On Me",
       "url": "https://open.spotify.com/track/3sGQxnAvFPWC6MgvI2geu8"
@@ -10055,7 +10163,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 193693,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/5M2aDfRyCjdlDRHbuV7bq5"
@@ -10535,6 +10643,46 @@
       "duration_ms": 185960,
       "name": "SKY",
       "url": "https://open.spotify.com/track/7JTJRkvvmy9jNIkqqsLIfB"
+    },
+    {
+      "album": {
+        "name": "Dogdays (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22w0rtfktTo96om0vcXAyf"
+      },
+      "artists": [
+        {
+          "name": "JEMINN",
+          "url": "https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230905,
+      "name": "Sky & Star",
+      "url": "https://open.spotify.com/track/3IvAuVSslRV3U9nbKkbaLS"
+    },
+    {
+      "album": {
+        "name": "Sky View ('No Way Home' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/288wF3znYDgtuBc4dun2iX"
+      },
+      "artists": [
+        {
+          "name": "SUNNY",
+          "url": "https://open.spotify.com/artist/5IphjHq07j65nO3Pl2YOWe"
+        },
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "Sky View ('No Way Home' Original Soundtrack)",
+      "url": "https://open.spotify.com/track/1Q3tnb61e6kz7J9QAEcBI7"
     },
     {
       "album": {
@@ -12326,6 +12474,24 @@
     },
     {
       "album": {
+        "name": "FlexxCop OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5GWrGN3k1vnk7NItvfiH7Q"
+      },
+      "artists": [
+        {
+          "name": "Bernard Park",
+          "url": "https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "To. Me",
+      "url": "https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e"
+    },
+    {
+      "album": {
         "name": "Cheer Up (Original Soundtrack Part.5)",
         "url": "https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7"
       },
@@ -13011,7 +13177,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 212110,
       "name": "We Disappear",
       "url": "https://open.spotify.com/track/07Jp78AgohesnVw8yG70Od"
@@ -14422,6 +14588,24 @@
     },
     {
       "album": {
+        "name": "\ub0b4 \ub0a8\ud3b8\uacfc \uacb0\ud63c\ud574\uc918 OST Part 3",
+        "url": "https://open.spotify.com/album/3eDBRfDPqQVzHLmpCdwJ6J"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256084,
+      "name": "\ub0b4\uac90 \uc544\ubb34 \uc18c\uc6d0 \ub0a8\uc544\uc788\uc9c0 \uc54a\uc544\uc694",
+      "url": "https://open.spotify.com/track/0LDUgztmj4MrekZcgx5FrY"
+    },
+    {
+      "album": {
         "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0SX9tdRJKPjccjdI42XXNh"
       },
@@ -14530,6 +14714,24 @@
     },
     {
       "album": {
+        "name": "\ub0b4 \ub0a8\ud3b8\uacfc \uacb0\ud63c\ud574\uc918 OST Part.4",
+        "url": "https://open.spotify.com/album/5QXH2tKwc5DVyawOzIHgDy"
+      },
+      "artists": [
+        {
+          "name": "Kim So Yeon",
+          "url": "https://open.spotify.com/artist/3t6l8ErtkVQRpMuqfAfBd9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277502,
+      "name": "\uc2dc\uac04\uc758 \uc0c1\ucc98",
+      "url": "https://open.spotify.com/track/1LiUKeoR8Gi1v8iA8roWL4"
+    },
+    {
+      "album": {
         "name": "Themselves OST Chapter. 3 (Soundtrack)",
         "url": "https://open.spotify.com/album/2E46TGiCyxX5W2xVtcg1LP"
       },
@@ -14563,6 +14765,24 @@
       "duration_ms": 231837,
       "name": "\uc548\uac1c \uc18d \uc5b4\ub514\ub85c",
       "url": "https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0"
+    },
+    {
+      "album": {
+        "name": "\ub0b4 \ub0a8\ud3b8\uacfc \uacb0\ud63c\ud574\uc918 OST Part.2",
+        "url": "https://open.spotify.com/album/0WkMvLqXmAM2vXqpbCyG7A"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183248,
+      "name": "\uc624\ub298\ubd80\ud130",
+      "url": "https://open.spotify.com/track/0fcNxQFA475HOXNHlZsQQ3"
     },
     {
       "album": {

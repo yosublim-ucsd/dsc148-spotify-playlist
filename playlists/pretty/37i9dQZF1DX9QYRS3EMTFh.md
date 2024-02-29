@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,342 likes - 40 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,395 likes - 40 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 2 | [MAYA](https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [MAYA](https://open.spotify.com/album/5H7hZGLsJhRUcGk2TGSZIb) | 2:14 |
 | 3 | [Badman](https://open.spotify.com/track/1qjqfHddO0S8QhhPp1utLh) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4), [Danthology](https://open.spotify.com/artist/6Rii9NJk3gtAOB1qnbTYPM) | [C'Méchant](https://open.spotify.com/album/0EvfTeUySDV4bmRAQZis2r) | 2:28 |
 | 4 | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl) | 2:49 |
-| 5 | [Bubble It](https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX) | [Dj Lub's](https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Bubble It](https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC) | 3:08 |
+| 5 | [Bubble It](https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Lub's](https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh) | [Bubble It](https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC) | 3:08 |
 | 6 | [Kompet](https://open.spotify.com/track/5xsXZb32iVcnWrjSURBCkC) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [BAD QUEEN](https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90) | 1:52 |
 | 7 | [Bubble Up !](https://open.spotify.com/track/46ocF46SQZ1W0Nt3b5qnyc) | [DJ Mike One](https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Bubble Up !](https://open.spotify.com/album/7dlETfhOIDydsAnR8QBbfu) | 3:26 |
 | 8 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \(Karata\)](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 |
 | 40 | [Ladilafé](https://open.spotify.com/track/33F13lqbuq5XLeNJ2vqvdr) | [Xavier Picardo](https://open.spotify.com/artist/41dndcs0lGb9GMwJiJhVCJ) | [Ladilafé](https://open.spotify.com/album/4lQNX2CO4PA7tdwqBif5md) | 2:05 |
 
-Snapshot ID: `MCxjMjc3NTBmNWIyY2E1ZGFiODJhNTE0ZGU4ZTFmZDM5Yjk0YjY4Zjhj`
+Snapshot ID: `MCwwNzFiZDA2NjQwNzA2YTU3MmE3NjY0NjZmNjZiODQ5ZjJmMTc4ZmUx`

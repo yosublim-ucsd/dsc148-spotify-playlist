@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 13265,
+  "2024-02-29": 13272,
   "date_first_scraped": "2023-05-16",
   "description": "The amazing sounds of the tropics.",
   "name": "Tropicana",
@@ -107,10 +107,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 307173,
       "name": "Acid",
       "url": "https://open.spotify.com/track/4J4S8Fm2BJt59zPWygsbpr"
+    },
+    {
+      "album": {
+        "name": "Head Sounds",
+        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307307,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
     },
     {
       "album": {
@@ -3613,7 +3631,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 226000,
       "name": "La Quinceanera",
       "url": "https://open.spotify.com/track/6sAH7mp8XnvufLSiRaIJve"
@@ -4993,6 +5011,24 @@
       "duration_ms": 423986,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/4GofXrGDmc57jtT4phANDF"
+    },
+    {
+      "album": {
+        "name": "Cumbia Beat, Vol. 1",
+        "url": "https://open.spotify.com/album/6TkVAtfRkK37zR7IyE0pen"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252906,
+      "name": "Pasi\u00f3n Oriental",
+      "url": "https://open.spotify.com/track/1ToiqLUI7ntngnsTu9paEN"
     },
     {
       "album": {

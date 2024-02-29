@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Lady Shaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,568 likes - 81 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,574 likes - 81 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 80 | [Foxes](https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/3LOU5heFdUYrNutyEcHCoB) | 4:15 |
 | 81 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 
-Snapshot ID: `MCw4M2VjMjY2OTczY2I2Y2E2YjFjYzM2MTM0MjM4ZmI3OTFhMjgxMzA1`
+Snapshot ID: `MCxmZTg3ODMxYTE0NmI5OTc1MjgzMjYwYzE4MDg1NDBlODhiNWVlOWIw`

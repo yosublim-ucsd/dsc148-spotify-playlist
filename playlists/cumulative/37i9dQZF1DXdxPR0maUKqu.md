@@ -4,7 +4,7 @@
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-244 songs - 15 hr 36 min
+247 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-18 | 2024-01-31 |
 | [Ainokansoki](https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Ainokansoki](https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq) | 3:54 | 2023-09-08 | 2023-11-18 |
 | [Aisubekihibiyo](https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Donnakotonidemoshiawasewokanjirukotogadekitanara](https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl) | 4:38 | 2023-09-28 | 2023-11-18 |
+| [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 | 2024-02-27 |  |
 | [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 | 2023-12-12 | 2024-01-11 |
 | [Any](https://open.spotify.com/track/5Daxs3uXYluqXbyrIIHbG3) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Any](https://open.spotify.com/album/6YP2GEUk3S6r1rY1pgf2Jz) | 3:35 | 2024-01-30 | 2024-02-07 |
 | [AOTOHARU](https://open.spotify.com/track/0jndSJguaUF4ERgMBFmDGI) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [AOTOHARU](https://open.spotify.com/album/1JFNHo7DcKh0mmcwHg4S4V) | 4:33 | 2023-07-25 | 2023-08-16 |
@@ -44,7 +45,8 @@
 | [GUNJOUOUKA](https://open.spotify.com/track/1UF27ubfWrZy92mjCb3XnN) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [GUNJOUOUKA](https://open.spotify.com/album/0HVA2YkOBzxSzve44TdSgd) | 3:53 | 2023-08-15 | 2023-09-01 |
 | [Hana Ni Nare \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/3ywoJ3ZNkZ7AXaTFaiA109) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Hana Ni Nare \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/4ceieoHaWzTbiyJ1cuU5BN) | 6:27 | 2023-09-14 | 2023-10-02 |
 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 | 2024-01-16 |  |
-| [Heart Beat](https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU) | 4:53 | 2024-02-27 |  |
+| [Heart Beat](https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu) | 4:53 | 2024-02-27 |  |
+| [Heart Beat](https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU) | 4:53 | 2024-02-27 | 2024-02-29 |
 | [HERO](https://open.spotify.com/track/420VV3WsaUzKuo9I9C7yxo) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [HERO](https://open.spotify.com/album/3nHFbR7VqRGAFj7g8iLqX1) | 3:47 | 2024-01-16 | 2024-02-23 |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-11-17 | 2024-01-19 |
 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 | 2023-10-10 | 2023-12-14 |
@@ -59,6 +61,7 @@
 | [kokoronashi](https://open.spotify.com/track/2S4R6ba07Spqk3AXNJNxp9) | [パーカーズ](https://open.spotify.com/artist/6TVg7Kq9FSpdPLWMlHUhfW) | [kokoronashi](https://open.spotify.com/album/5jVDt2L1WH4yhbgryBdZCu) | 2:57 | 2023-07-25 | 2023-09-20 |
 | [Lady and Sir](https://open.spotify.com/track/7shOixCIyayuvKUmkgvUDE) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Lady and Sir](https://open.spotify.com/album/1RYkPFoEE0NLnl89erU2cH) | 4:00 | 2024-01-10 | 2024-02-28 |
 | [Land Route](https://open.spotify.com/track/1g0TXmZGNvNGBigEI8lRvi) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [Land Route](https://open.spotify.com/album/6hP17JLVzCnw8VftQPKagY) | 3:07 | 2023-07-25 | 2023-09-06 |
+| [Laundry](https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Tenshi datta janaika](https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x) | 3:26 | 2024-02-27 |  |
 | [Light](https://open.spotify.com/track/66WTU7QWjgvq0MCrRKKPcj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Give Me All of Your Life](https://open.spotify.com/album/6whddh4xySGYuZRYbndVOJ) | 3:49 | 2024-02-13 |  |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-10-03 | 2023-12-14 |
 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 | 2023-12-12 |  |
@@ -130,7 +133,7 @@
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2023-12-12 | 2024-01-17 |
 | [こがれ](https://open.spotify.com/track/1UpRK1N1DGTYSLaLmpdZw2) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [音生 \-onsei\-](https://open.spotify.com/album/684jExc4XxRfjR7na7l7sr) | 3:49 | 2024-01-30 | 2024-02-01 |
 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-07-25 | 2023-12-14 |
-| [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-27 |  |
+| [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-27 | 2024-02-29 |
 | [さすらい](https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [股旅](https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd) | 3:23 | 2023-12-12 | 2024-01-05 |
 | [さよならより遠いどこかへ](https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [ハロー・グッドバイ \- EP](https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H) | 3:39 | 2024-02-27 |  |
 | [さよなら恋人、おかえり恋心](https://open.spotify.com/track/5vmhPi0SK34rPfZAXREaoD) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [さよなら恋人、おかえり恋心](https://open.spotify.com/album/6zp3ZqotOgGb6PhACt9I7T) | 4:49 | 2023-11-17 | 2023-12-14 |
@@ -185,7 +188,7 @@
 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-25 | 2023-08-22 |
 | [ラブソングがいらない君へ](https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ラブソングがいらない君へ](https://open.spotify.com/album/5CaIpCc1HiuulQWhhbtIDv) | 3:43 | 2024-01-16 | 2024-01-18 |
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-12-12 | 2023-12-20 |
-| [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-27 |  |
+| [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-27 | 2024-02-29 |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-10 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-07-25 |  |
 | [一撃の歌](https://open.spotify.com/track/1Fwm10BHLxHXKEZ1d9KZrF) | [フリージアン](https://open.spotify.com/artist/503GZq7ekQt3VgeUZ946ef) | [一撃の歌](https://open.spotify.com/album/5ZU7OHm3xjUwtFgdXV22fi) | 2:53 | 2024-01-04 | 2024-01-10 |

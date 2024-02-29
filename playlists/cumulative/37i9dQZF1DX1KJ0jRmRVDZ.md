@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,061 songs - 2 day 12 hr 39 min
+1,063 songs - 2 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-07-28 | 2024-02-14 |
 | [hazama \- 新東京 Rearrange](https://open.spotify.com/track/4m4SjSDEpv7CcUvnpsjtLo) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [hazama \(新東京 Rearrange\)](https://open.spotify.com/album/4VfhXfCeToVA9gio1L4oCh) | 3:07 | 2022-08-16 | 2022-08-26 |
 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-26 |  |
+| [Heart Pie Dancehall](https://open.spotify.com/track/41aJ8bHDhV2kTw51biHvoq) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [Heart Pie Dancehall](https://open.spotify.com/album/61tTiO6FyVL5KunTKQAkbb) | 3:39 | 2024-02-28 |  |
 | [Heartache Machine Guns](https://open.spotify.com/track/46kyed97kxAjRLy3iFfvva) | [seeeeecun](https://open.spotify.com/artist/6fUe2NjfQbI4yxIFBwYFg8) | [Cry For Your Noble Heart](https://open.spotify.com/album/2w5Ryftkg3USzsuqPY7QV5) | 2:28 | 2022-09-14 | 2022-09-21 |
 | [Hex](https://open.spotify.com/track/7xaNU7mo5bEULPKg7vdxel) | [Utrecht](https://open.spotify.com/artist/5ygyzQomCHzWhbzPlI5TY0) | [Hex](https://open.spotify.com/album/2Mxu38mOSq5rknEr8xzw4e) | 4:07 | 2023-03-09 | 2023-03-15 |
 | [Hex](https://open.spotify.com/track/6eIOTgdN2xHDkPgTr1LOyt) | [ユトレヒト](https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ) | [Hex](https://open.spotify.com/album/24bCkzGthetSLGCeiT37YK) | 4:07 | 2023-03-08 | 2023-03-09 |
@@ -417,6 +418,7 @@
 | [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 | 2022-07-26 | 2022-09-13 |
 | [くらげ](https://open.spotify.com/track/4iI2LdIZE3e9HwzY6NAMJk) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [くらげ](https://open.spotify.com/album/1TlpulOz0HHSsN8iJ60gvV) | 3:33 | 2024-01-18 | 2024-02-14 |
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-30 | 2022-07-04 |
+| [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 | 2024-02-28 |  |
 | [こまっちゃうナ 2023](https://open.spotify.com/track/3YCng11mK2ypK6oUEy6rYN) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [こまっちゃうナ 2023](https://open.spotify.com/album/0Wd1Oizo1G8jXm2MjgYNWP) | 3:03 | 2023-05-16 | 2023-05-31 |
 | [これだからやめらんない!](https://open.spotify.com/track/1KnujnydiDuU7ardc0LYpl) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [これだからやめらんない!](https://open.spotify.com/album/33hq404ABQqbt4JI0Egsrp) | 2:45 | 2023-03-15 | 2023-03-16 |
 | [さよならノヴェル](https://open.spotify.com/track/1eKFhZFsvYhhrdzsTyj3fc) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [綾瀬なりさ](https://open.spotify.com/artist/4J31KiLWmVhHlpIXaeTcb4) | [さよならノヴェル](https://open.spotify.com/album/0GyGXiYidz1ubZYN166W5F) | 3:57 | 2022-09-20 | 2022-09-28 |
@@ -663,7 +665,7 @@
 | [フクロウさん \- すりぃ ver.](https://open.spotify.com/track/5Tnt4NKytyBKkC5I5TypV7) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [フクロウさん \(すりぃ ver.\)](https://open.spotify.com/album/6vy3w7RDsDufuB7nufONEF) | 3:00 | 2022-07-12 | 2022-07-14 |
 | [フタリノクニ](https://open.spotify.com/track/7oqHfLXm7SnyeV0I7NXJsb) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [星霜ロマンスポット](https://open.spotify.com/album/3y5m8YvNm0yGHYoi4ada4V) | 4:15 | 2022-10-12 | 2022-10-19 |
 | [フューリア](https://open.spotify.com/track/4WejpJICqVFVwXyC5f0q2J) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [フューリア](https://open.spotify.com/album/1sHb07YD4RtqUVzq1mxOI7) | 3:58 | 2022-06-09 | 2022-06-19 |
-| [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-03-30 |  |
+| [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 | 2023-03-30 | 2024-02-29 |
 | [フラストレーション](https://open.spotify.com/track/3aaoTDRTussmilDLWkP47D) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [MYLIST](https://open.spotify.com/album/0AyL04AT8ZMlp7fltqnkqg) | 3:59 | 2022-06-09 | 2022-07-25 |
 | [フラッシュバック](https://open.spotify.com/track/4hnizpijT4QcfNznprVbLX) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [フラッシュバック](https://open.spotify.com/album/0ElFElNrXKcKoADFndk1Uc) | 3:29 | 2023-10-05 | 2023-11-29 |
 | [フラットライン](https://open.spotify.com/track/4uBAbbdc3zsoswNG4mOlwI) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [フラットライン](https://open.spotify.com/album/7tQRPXQdtTlA9232PNiPsj) | 3:13 | 2023-09-05 | 2023-09-29 |
@@ -673,7 +675,7 @@
 | [ブリキノダンス](https://open.spotify.com/track/2yVBhde18jnhFGgA52eDt2) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ブリキノダンス](https://open.spotify.com/album/0Rqk9EbfcSQRVS8cDEmyWz) | 3:19 | 2023-11-28 | 2023-11-30 |
 | [ブリザード](https://open.spotify.com/track/5JOB24Z6J46P5MMGN5xtAp) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ブリザード](https://open.spotify.com/album/6Mv7n6ggSbasCMnOGSOFS3) | 3:41 | 2022-09-14 | 2022-10-07 |
 | [ブルーノート](https://open.spotify.com/track/3Ug6cD9VZE2J9eHc5jCASh) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [ブルーノート](https://open.spotify.com/album/1H7jkYcAZZ2BdpQTOltnjT) | 3:02 | 2022-09-20 | 2022-10-05 |
-| [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 |  |
+| [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 | 2024-02-29 |
 | [ブロードウェイ](https://open.spotify.com/track/2raSZjamdHq3bVk8GdGIgv) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [ブロードウェイ](https://open.spotify.com/album/7MSLbK6M2XYDpjQYyTziX4) | 3:03 | 2022-10-25 | 2022-11-18 |
 | [プラネテス](https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [プラネテス](https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc) | 4:40 | 2022-06-13 | 2022-07-27 |
 | [プロポーズ](https://open.spotify.com/track/58tZJM6HcCHPxfA9AQn2Av) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [プロポーズ](https://open.spotify.com/album/0Xo0gFgxiQFsEftmF4LK4s) | 3:55 | 2023-10-24 | 2023-11-16 |

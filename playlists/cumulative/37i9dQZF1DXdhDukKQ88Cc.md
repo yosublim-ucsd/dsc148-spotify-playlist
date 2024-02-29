@@ -4,7 +4,7 @@
 
 > det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
 
-133 songs - 5 hr 42 min
+134 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [LEV I NUET](https://open.spotify.com/track/5fHydJvKwLenrvyczUqXBq) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [LEV I NUET](https://open.spotify.com/album/217rsfZFitLn1ris3ZjEEJ) | 2:16 | 2024-01-11 |  |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 |  |
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 |  |
-| [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 |  |
+| [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 | 2024-02-29 |
+| [MASKINEN](https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk) | 2:13 | 2024-02-22 |  |
 | [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 | 2023-12-14 |
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 | 2023-12-14 |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |

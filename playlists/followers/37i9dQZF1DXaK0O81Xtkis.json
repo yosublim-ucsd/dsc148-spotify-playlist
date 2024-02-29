@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 211642,
+  "2024-02-29": 211643,
   "date_first_scraped": "2021-12-21",
   "description": "make it pop! cover: Audrey Nuna",
   "name": "soda",
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 213266,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5pvZYywDL4vELF5bwunAEZ"
@@ -3493,6 +3493,24 @@
       "duration_ms": 142092,
       "name": "Disappointment (feat. Rxseboy)",
       "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
+    },
+    {
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113385,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
     },
     {
       "album": {

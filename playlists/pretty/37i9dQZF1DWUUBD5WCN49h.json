@@ -1,12 +1,12 @@
 {
   "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Chayuta",
-  "num_followers": 14293,
+  "num_followers": 14306,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTNkZDY3MTZhYjU0OGZkZjBjZWRkNjQ1YTY1YWU3MWQ1YTcyYjk4",
+  "snapshot_id": "MCwzNWRjYTk4OWJjYjc3M2FkMzBjOGM2ZDI4OWYxMDEzMTAwMWE0YjFm",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -163,6 +163,26 @@
       "duration_ms": 188322,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/278AalYy22hO0zxeQAzZ73"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0W3ybbuYT1ylY1cShliEJp"
+      },
+      "artists": [
+        {
+          "name": "Tolani",
+          "url": "https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds"
+        },
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t"
     },
     {
       "added_at": "2024-02-23 00:00:00",

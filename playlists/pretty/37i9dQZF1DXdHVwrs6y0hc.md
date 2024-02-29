@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,526 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,594 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 29 | [The Reason I Left Mullingar](https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Song for Ireland](https://open.spotify.com/album/1cWuC6mhnhmtZOOICbZEAA) | 4:08 |
 | 30 | [Cap and Bells](https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Paul Dooley](https://open.spotify.com/artist/0HmAOyVgHVa7wEPIAfTUif), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni), [John Moloney](https://open.spotify.com/artist/4kcdiauFup6jwVT2O2zXqG) | [Man for Galway: The Best of Sean Tyrrell](https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f) | 3:50 |
 | 31 | [The Lads O' The Fair](https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM) | [Ed Miller](https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M) | [Many's The Fine Tale](https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz) | 3:41 |
-| 32 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
-| 33 | [Parcel of Rogues](https://open.spotify.com/track/4Ad3hhjcW4ci2VsZEg4NPH) | [Pied Pipers](https://open.spotify.com/artist/0yxtMiOt8JvSF4f3BnMxxE) | [Pied Pipers: Music from Ireland and Scotland](https://open.spotify.com/album/1JZFHcBPvTORsQTrfh12At) | 4:21 |
+| 32 | [Parcel of Rogues](https://open.spotify.com/track/4Ad3hhjcW4ci2VsZEg4NPH) | [Pied Pipers](https://open.spotify.com/artist/0yxtMiOt8JvSF4f3BnMxxE) | [Pied Pipers: Music from Ireland and Scotland](https://open.spotify.com/album/1JZFHcBPvTORsQTrfh12At) | 4:21 |
+| 33 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 |
 | 34 | [Road to Granard / Gallagher's Frolics / Out on the Ocean](https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:18 |
 | 35 | [Bogie's Bonny Belle](https://open.spotify.com/track/0AYSKDQCs1RaUQh2iLEXRv) | [Fred Johnston](https://open.spotify.com/artist/5BycsjnT9wUHdGeeBITkbm), [Brid Ni Chathain](https://open.spotify.com/artist/4MB2D4qMgAqlP1VDw0WuuN), [Janet Sutton](https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:19 |
 | 36 | [Andy's \- Lafferty's \- Marian's Favourite](https://open.spotify.com/track/4G0r7DBN8im4K5mg5fh6Jg) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
 | 50 | [The Man for Galway / The Rambling Pitchfork](https://open.spotify.com/track/07WFpOcyzgSCAJ6LUMK2Cv) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Ireland: Tales of Our Land](https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9) | 3:57 |
 
-Snapshot ID: `MCxlZTc3ODMzODg5NjUyMjc1OTkwMjBjZmI4NTFkZjcxOTQ4ZTJhZmZh`
+Snapshot ID: `MCw4YWJjZjRjYTBmNTYwYTQ1MmY0MGE3MjdmYzM5MDBiNTM2NmU2MGVh`

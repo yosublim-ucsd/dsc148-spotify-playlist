@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Steel Wheels
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,935 likes - 154 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,957 likes - 154 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 12 | [Recommend Me](https://open.spotify.com/track/6X06BJkotsqzb09OReFhhO) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Recommend Me](https://open.spotify.com/album/6K2GTC8JlK5f7MBJbccpyq) | 3:41 |
 | 13 | [Memory Bank](https://open.spotify.com/track/1EA5W3S3UFcklbYBRPTi8n) | [Alex Graf](https://open.spotify.com/artist/7rCK9mfAkZNbqqkbIsNIwz) | [Sagebrush Continuum](https://open.spotify.com/album/0heELN5GL5mmba4zdmXTfj) | 3:27 |
 | 14 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 |
-| 15 | [Blue Sky](https://open.spotify.com/track/030xRmQe8IOwWqf25TVHly) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Blue Sky](https://open.spotify.com/album/7eGiHsarofeJYs4V51ahQf) | 2:47 |
+| 15 | [Blue Sky](https://open.spotify.com/track/4CqK7UXRUI0nsWF3v262Bm) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Gone, Tired & Blue](https://open.spotify.com/album/6nxmBn8yXgjefYND9yH63R) | 2:51 |
 | 16 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 |
 | 17 | [Here For You](https://open.spotify.com/track/6xnAmE24OBRvjU4b7gN7Eb) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Here For You](https://open.spotify.com/album/1XpRYkvfDy9zX0Se7cI6Gy) | 3:13 |
 | 18 | [Holy Roller \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:36 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 153 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 |
 | 154 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCw0NjZjZDhjZDdiNjVkZTY3NTJjMDI0YTA0MzJiMWJmOWUwMmNhMTcy`
+Snapshot ID: `MCw5ZjFmYWE2MTkwYjk5ZTc4MmYwYmU5MjI3N2MxYzE5ZDRkNmEwYzE1`

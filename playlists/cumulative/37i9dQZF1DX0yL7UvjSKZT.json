@@ -690,10 +690,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 167343,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/030xRmQe8IOwWqf25TVHly"
+    },
+    {
+      "album": {
+        "name": "Gone, Tired & Blue",
+        "url": "https://open.spotify.com/album/6nxmBn8yXgjefYND9yH63R"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171214,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/4CqK7UXRUI0nsWF3v262Bm"
     },
     {
       "album": {

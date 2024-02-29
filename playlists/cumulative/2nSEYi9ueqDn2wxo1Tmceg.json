@@ -3987,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
+    },
+    {
+      "album": {
         "name": "Evening Star Supercharger",
         "url": "https://open.spotify.com/album/6181JseEP3RrM53y0UASM8"
       },

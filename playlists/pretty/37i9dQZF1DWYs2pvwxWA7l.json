@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  <a href=\"https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0?si=T2PC9_BVScif3yuNtwwfJQ\"> Simi</a>  ",
-  "num_followers": 546434,
+  "num_followers": 546627,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNhOTBmZTY3YmY3YjFlMjk5ZDk4YjNlODQyYzQwNGFkNTQzMmQ0",
+  "snapshot_id": "MCwwZGNhN2FiMGNhMTI3MWU4YjgyY2YwNDcyY2U1OTA0MDRmOTcxZGVj",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "LIKE THAT (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Blended",
         "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "LIKE THAT (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Terminator (Remix)",
         "url": "https://open.spotify.com/album/2ke3G6HBIqidv4jrcZh2gN"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 211727,
       "name": "Terminator - Remix",
       "url": "https://open.spotify.com/track/10AIyGWEbCddWbxHzRm9pJ"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2024-02-23 00:00:00",

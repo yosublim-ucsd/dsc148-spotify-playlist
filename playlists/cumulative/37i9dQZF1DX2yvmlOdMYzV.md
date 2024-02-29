@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-627 songs - 1 day 10 hr 30 min
+628 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 | 2021-12-15 | 2023-01-28 |
 | [Fair Play](https://open.spotify.com/track/2bo0Th0LniI0U1KbwNm9mk) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Fair Play](https://open.spotify.com/album/2l3uRUskaADSpA7gNAcjkT) | 4:49 | 2021-12-15 | 2022-07-27 |
 | [Fair Play](https://open.spotify.com/track/1bklPkNKKoy2pcw7s5GQsT) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Chrysalis](https://open.spotify.com/album/7oTitPtEOTbcfza5F95RJQ) | 4:49 | 2022-06-30 | 2023-04-29 |
+| [Fall Into Me](https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Fall Into Me](https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0) | 2:36 | 2024-02-23 |  |
 | [Fallin'](https://open.spotify.com/track/3BTFuuXsPukaLonG6fy2kU) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Paperflower](https://open.spotify.com/album/6dZrGhPGx0XdElXGYKX5qR) | 3:02 | 2023-09-29 | 2023-10-30 |
 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 | 2023-05-05 | 2023-11-11 |
 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 | 2023-09-01 |  |
@@ -329,7 +330,7 @@
 | [Livid](https://open.spotify.com/track/7uP42ncMnsgL3adyj9px5c) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/532nyx17juALZHUgA46wly) | 4:29 | 2021-12-15 | 2022-04-06 |
 | [Lock It Up](https://open.spotify.com/track/1GIKDc28Z95bWSIXgkr3y3) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Minus The Bullshit Life's Great](https://open.spotify.com/album/4oP4LxB36ixn9QydAT4Q45) | 3:46 | 2022-06-30 | 2022-09-03 |
 | [Lock My Door](https://open.spotify.com/track/0UeHMHVqM0eesT4f984vCP) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Eauxby](https://open.spotify.com/artist/1m3MSOi9y9DRexRUuTsA14) | [Lock My Door](https://open.spotify.com/album/4MOAoml4xfTj9Civ9580re) | 3:35 | 2021-12-15 | 2022-04-08 |
-| [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 | 2023-06-23 |  |
+| [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 | 2023-06-23 | 2024-02-29 |
 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 | 2023-06-30 |  |
 | [loosely](https://open.spotify.com/track/46ZeKUAem54RJPgpXFP42B) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:12 | 2023-06-30 |  |
 | [Lose Control](https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Bittersweet](https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0) | 3:01 | 2022-02-11 | 2023-04-29 |

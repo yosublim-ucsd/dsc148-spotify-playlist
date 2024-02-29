@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,975 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,015 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 58 | [Solito Vas \- En Vivo Movistar Arena](https://open.spotify.com/track/1AhVRKhqE0ScBSehPHmMWL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Solito Vas \(En Vivo Movistar Arena\)](https://open.spotify.com/album/38QI6JmQeHniZDcnB0EyIf) | 3:54 |
 | 59 | [Antes y Después](https://open.spotify.com/track/51udgXvhgt7foEEU26KDzg) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 6:09 |
 | 60 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 |
-| 61 | [Todo Eso Que Nos Queda \- En Vivo en el Gran Rex](https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT) | 4:04 |
-| 62 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
+| 61 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
+| 62 | [Todo Eso Que Nos Queda \- En Vivo en el Gran Rex](https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT) | 4:04 |
 | 63 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 |
 | 64 | [Pistolas \- En Vivo](https://open.spotify.com/track/3riCMXhrJc434p7rcDLlFW) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 5:09 |
 | 65 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 92 | [Maradó \- En Vivo](https://open.spotify.com/track/7C2OKAL0Yh6VXjZe4MF4Ar) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peléandole al Viento](https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx) | 6:54 |
 | 93 | [¿Qué Tal? \- En Vivo](https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY) | 8:07 |
 | 94 | [Bailando en el infierno \- En Vivo](https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Bailando en el infierno \(En Vivo\)](https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l) | 5:15 |
-| 95 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 |
-| 96 | [Envuelto en Llamas \- En Vivo](https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal \(En Vivo\)](https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz) | 4:04 |
+| 95 | [Envuelto en Llamas \- En Vivo](https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal \(En Vivo\)](https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz) | 4:04 |
+| 96 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 |
 | 97 | [Ahora Vengo \- Vivo Luna Park](https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Ahora Vengo \(Vivo Luna Park\)](https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz) | 2:51 |
 | 98 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |
 | 99 | [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 |
 | 100 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2) | 4:49 |
 
-Snapshot ID: `MCxhYWYwMDA2ZTM2MWM5MDg1M2YwMjJlNDQ4YzBkZTlhY2VjN2I5NWU5`
+Snapshot ID: `MCw2ZmNjYzQwNGE0NmYyOTNiMzMwNjkyYTQ0NWIzOGY3YjQyNTJkY2I1`

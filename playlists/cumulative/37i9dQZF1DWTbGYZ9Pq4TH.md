@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-219 songs - 14 hr 11 min
+220 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 | 2021-09-26 |  |
 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2021-09-26 |  |
 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 | 2021-09-26 | 2022-06-04 |
+| [If Only](https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sì \(Deluxe\)](https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5) | 3:37 | 2024-02-13 |  |
 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 | 2021-09-26 | 2023-02-08 |
 | [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 | 2023-02-13 |  |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2021-09-26 |  |
@@ -134,7 +135,7 @@
 | [Mi Parli Piano](https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Essere Qui](https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9) | 3:24 | 2021-09-26 | 2022-07-04 |
 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 | 2021-09-26 | 2023-03-16 |
 | [Migliore](https://open.spotify.com/track/1V5Fgni6jJx2V4cuHXb5Cz) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:50 | 2021-09-26 | 2022-07-22 |
-| [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 | 2021-09-26 |  |
+| [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 | 2021-09-26 | 2024-02-29 |
 | [Minuetto](https://open.spotify.com/track/0jjZh3fHqW2JciT1b19oAN) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/3EqcpKN1Quc0ihDUDSXyGG) | 4:43 | 2024-02-13 |  |
 | [Minuetto](https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM) | 4:43 | 2023-02-20 | 2023-03-20 |
 | [Minuetto](https://open.spotify.com/track/5UKMdUAChYAllKDye6qDGb) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il Giorno Dopo](https://open.spotify.com/album/3RULCQndss1A5Ix2NAlV8M) | 4:43 | 2021-09-26 | 2022-07-28 |

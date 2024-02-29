@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-193 songs - 11 hr 47 min
+194 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Jwabi](https://open.spotify.com/track/5g1Szjr5nWLKCm6P4Avyht) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL) | 4:22 | 2022-12-27 | 2023-02-07 |
 | [Kelthoum](https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4) | [Nacim El Bey](https://open.spotify.com/artist/7DfSR1McqGpS5b7o1NSl5u) | [Kelthoum](https://open.spotify.com/album/0RyIS8LW7g75acJI2z0Ege) | 3:45 | 2021-12-09 | 2022-06-03 |
 | [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 | 2023-02-06 | 2023-05-13 |
-| [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 | 2023-05-10 |  |
+| [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 | 2023-05-10 | 2024-02-29 |
 | [Khaled](https://open.spotify.com/track/1Va5ggNuXUoCQpCPHd40Gt) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Khaled](https://open.spotify.com/album/5O5XPPemXBy0AS3XrP8EZU) | 3:38 | 2021-12-09 | 2022-03-11 |
 | [Khdaatini Nti](https://open.spotify.com/track/68s3hJqkx1Nrz2bY2UQWAU) | [Abdou Sghir](https://open.spotify.com/artist/1maQs0Yi9KuzRDdbd9RCxG), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Khdaatini Nti](https://open.spotify.com/album/6dv8rIqwLTeKbCZsMeRcLN) | 3:24 | 2022-12-25 | 2022-12-28 |
 | [Koulech Faux](https://open.spotify.com/track/5BsCr1Y8hys2MHUUb2E9FH) | [DAK](https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u), [Hamouda](https://open.spotify.com/artist/74LoSGpqwV0ek9WBKl7VF7) | [Tassili](https://open.spotify.com/album/6dDpPWE0us93eLPW67Wq6h) | 3:02 | 2023-08-31 |  |
@@ -196,6 +196,7 @@
 | [Ça fait des années](https://open.spotify.com/track/1Opks4WxGK1c1KvjJ1OlL9) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Ca fait des années](https://open.spotify.com/album/0yp3ImaA7EvBSJQBLj19lr) | 3:55 | 2021-12-09 | 2022-07-19 |
 | [اصبر أقلبي صبار \- Guitar Version](https://open.spotify.com/track/7GypUUjgqKRhIyoEWwMVuP) | [Maghreb production](https://open.spotify.com/artist/3Yp7wA52nMHtiFJg9aNjdV) | [اصبر أقلبي صبار \(Guitar Version\)](https://open.spotify.com/album/5zF8zGfl20GPsBYbSrBucQ) | 12:39 | 2023-01-13 | 2023-02-01 |
 | [خانو الامانة](https://open.spotify.com/track/5dljMPVyN4wzDiIa20IMzd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [خانو الامانة](https://open.spotify.com/album/25Q5U0yO0Rxti9G6SO50l7) | 4:11 | 2023-08-14 | 2023-08-19 |
+| [درجة درجة](https://open.spotify.com/track/4NNRo1LtV9ndhNbCFohprQ) | [Fares LÜNN](https://open.spotify.com/artist/0LsY50DXw2einabxwLuMKe) | [درجة درجة](https://open.spotify.com/album/7igRk3HV35Tnx4HKg6Hkot) | 3:12 | 2024-02-28 |  |
 | [راني متوحشها](https://open.spotify.com/track/5eKSdvnmJ37bmmx6Fc0roG) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [راني متوحشها](https://open.spotify.com/album/2SOLAAC856WVMRVBI8RGzD) | 4:38 | 2023-02-24 | 2023-03-21 |
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-02-12 |  |
 | [عمي صالح](https://open.spotify.com/track/2WS40EKnfgsLAO7iTtDkCi) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [عمي صالح](https://open.spotify.com/album/5bAfcA4BaWRBTU8kTqYBKv) | 4:24 | 2023-08-14 |  |

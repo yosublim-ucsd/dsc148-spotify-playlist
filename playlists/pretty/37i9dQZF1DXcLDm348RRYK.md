@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,441 likes - 70 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,438 likes - 70 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 69 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/0X73orYGQwzjF9lSYSE3Aj) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
 | 70 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 |
 
-Snapshot ID: `MCxmNzZhNzVjMjA2MGViYTQ5MzU5NDdkZDAxOGQyNjVkOTk2MTQ1ZTE1`
+Snapshot ID: `MCxhZTlkYjA0MGYwMWIwMDY5MTAzYmI1ZTgxOTE3N2I5OGIyYTI3MzJj`

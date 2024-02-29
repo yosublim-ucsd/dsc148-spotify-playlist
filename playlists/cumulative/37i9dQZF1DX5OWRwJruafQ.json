@@ -3284,7 +3284,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 156521,
       "name": "Jawani",
       "url": "https://open.spotify.com/track/6gxKi4gPXcvG52gsRogOIS"
@@ -5554,6 +5554,32 @@
       "duration_ms": 219200,
       "name": "Shohrat",
       "url": "https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4"
+    },
+    {
+      "album": {
+        "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
+        "url": "https://open.spotify.com/album/1tCqmDuBM1V3O9XFyWHrVy"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Gill Raunta",
+          "url": "https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169148,
+      "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
+      "url": "https://open.spotify.com/track/2700UzxCsjDddJ8VSXy897"
     },
     {
       "album": {

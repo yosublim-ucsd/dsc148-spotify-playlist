@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Narysal\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,381 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,382 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 80 | [New York](https://open.spotify.com/track/7ztAxczYXGDrmDhNP13qx3) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [New York](https://open.spotify.com/album/2v06Ht4ckCYytVybR6pOpY) | 3:20 |
 | 81 | [crash](https://open.spotify.com/track/1rrkI6crOZ3qEOuwGizymx) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [crash](https://open.spotify.com/album/2h4fJ50NqNXgFcCMwXEVlG) | 3:58 |
 
-Snapshot ID: `MCxiYjBlMGMwNmJmYjMzZjlhYWMwYjRlMTkyMTdkNmZhZmRhZTIxMTRi`
+Snapshot ID: `MCxjMDVhMDUxY2MyNzQzZjg1NTI2NDFiNjFiZGU3YTE5ZmIxODA5Njdj`

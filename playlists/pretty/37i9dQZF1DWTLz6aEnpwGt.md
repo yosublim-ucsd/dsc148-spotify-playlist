@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,626 likes - 43 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,670 likes - 43 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 42 | [Concerto No\. 4 in A Major, BWV 1055: I\. Allegro](https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sonya Bach](https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Keyboard Concertos & Italian Concerto](https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy) | 3:56 |
 | 43 | [Partita No\. 5 in G major, BWV 829 : II\. Allemande](https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [J.S\. Bach: Partitas Nos\. 5\-6, Bwv 829\-830](https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH) | 4:12 |
 
-Snapshot ID: `MCxjZDcyYWFlYmE2YzkzYTk1ZGY5MGNiODM5YzI3OTU0MTlkN2E0OWQy`
+Snapshot ID: `MCwwZjU3ODBiYmU3NmFkOWI1ZGY0YjM5NTJkMzhkNmFkMzk2ZTY1YzBm`

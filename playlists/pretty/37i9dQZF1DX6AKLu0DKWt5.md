@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,130 likes - 33 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,140 likes - 33 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 32 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 |
 | 33 | [Main Title](https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 1:23 |
 
-Snapshot ID: `MCxiM2Q3ZjlkM2FmYWJlYzJjZWIzOGNiNWJjZmY0MzIyNjg4YWQwZTA1`
+Snapshot ID: `MCw5ZmNhZjE1ZWViNThiYjg3N2UzNjc1NDMyMzQ5MGI1Y2NmZGU0ZmQy`

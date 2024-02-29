@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Reality, Hard GZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,341 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,450 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 27 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
 | 28 | [Me rindo por hoy](https://open.spotify.com/track/224BnTtRO2rh1VvYxDbtCZ) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Me rindo por hoy](https://open.spotify.com/album/49pt7Tmi9x1L9KU3wfhsWn) | 3:24 |
 | 29 | [Ya ni yo](https://open.spotify.com/track/6aHTxnGcB5WUPD8klgrWCt) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9) | [Ya ni yo](https://open.spotify.com/album/4ydSrbSHo0BdS3QiAxK7Gz) | 2:43 |
-| 30 | [Funky Tears](https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Funky Tears](https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj) | 2:26 |
+| 30 | [Funky Tears](https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Funky Tears](https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj) | 2:26 |
 | 31 | [Cicatrices](https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 2:56 |
 | 32 | [Indomables](https://open.spotify.com/track/7dUFOjcebtySPPj7tJKUdn) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Mal de amores](https://open.spotify.com/album/7dmKwrTCa4kSIlIoI7Eoji) | 3:28 |
 | 33 | [RUMBO FIJO](https://open.spotify.com/track/6JPGgqIeR3ik9PCXcXvDBX) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [RUMBO FIJO](https://open.spotify.com/album/4qgJlMrpjvxhP3wE7dCb0r) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Shars 2019](https://open.spotify.com/track/4EJsIX4tuc3qRTZhEYsTbE) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/13vTpYHd8YYvbicXJtbPMg) | 2:55 |
 | 50 | [Gold Diggers](https://open.spotify.com/track/1r9Lbgiags0gJAS15Ygmc5) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Gold Diggers](https://open.spotify.com/album/1AqOMFcHUFigojsurVdSD1) | 4:27 |
 
-Snapshot ID: `MCw0ZjUxZGRjYjM5YmMwY2YxYTNhZjJmMjllOTUzNGM1NTJmNGZmYTk2`
+Snapshot ID: `MCw5NmVkNDUyYzBhOGRhMGI4OTU2Y2RmNTA5NWNiOWU1Y2RhM2UxMzY4`

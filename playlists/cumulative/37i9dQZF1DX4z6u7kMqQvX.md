@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-474 songs - 1 day 2 hr 56 min
+475 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 | 2023-10-06 |
 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 | 2022-01-28 | 2023-10-12 |
-| [a lifetime with you](https://open.spotify.com/track/7Db3RXnnbMx57OnWhw5iXv) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:07 | 2024-02-09 |  |
+| [a lifetime with you](https://open.spotify.com/track/7Db3RXnnbMx57OnWhw5iXv) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:07 | 2024-02-09 | 2024-02-29 |
 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-01-07 |  |
 | [Acercarme a Vos](https://open.spotify.com/track/6RKnz9l63EErn17rCGx5y9) | [Nico Peña](https://open.spotify.com/artist/3JE1nspmOIMZ6VWFIMb3Ea) | [Acercarme a Vos](https://open.spotify.com/album/2zXBH1Z22x1hST8AdQB4W1) | 4:01 | 2022-01-28 | 2022-07-29 |
 | [Acercate a Mí](https://open.spotify.com/track/2iv6mpRnSTJjE9z8fpxSNR) | [VANZA](https://open.spotify.com/artist/6vA9LVoLAIimgnQp0XfMLQ) | [Cuerpos en Fuga](https://open.spotify.com/album/0Ek2iA2MTEb9ecB9SMbWZF) | 3:50 | 2022-01-28 | 2022-06-24 |
@@ -54,6 +54,7 @@
 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 | 2022-01-07 | 2022-07-05 |
 | [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 | 2022-04-01 |  |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2022-01-07 | 2024-02-28 |
+| [Aparato](https://open.spotify.com/track/4wl4H1WNxfxJveag7dGkQU) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/7jio1zy0Bp4PiUXKdwfDMk) | 3:32 | 2024-02-09 |  |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2022-01-07 | 2023-10-06 |
 | [Aquellos misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-10-28 |  |
 | [aquiles </3](https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [aquiles </3](https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK) | 3:15 | 2022-07-15 | 2022-07-20 |

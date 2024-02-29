@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje.
 
-349 songs - 20 hr 49 min
+350 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Encaixa](https://open.spotify.com/track/5jrg8CFdu2EBIsE4D4r0u7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [One](https://open.spotify.com/album/0RzfToIKF2CMHkx0brOH2L) | 3:54 | 2022-03-25 | 2022-07-14 |
 | [Escola](https://open.spotify.com/track/1WpDYqttO9wySpUvvk9tXG) | [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [Escola](https://open.spotify.com/album/5iLug8p4042bO6LZ8o6qLF) | 3:24 | 2021-12-10 | 2022-07-28 |
 | [Escolhe só bem](https://open.spotify.com/track/2n3zyRuUTW3VW6FOVl6QSn) | [BASS](https://open.spotify.com/artist/1RVp3jJFMeYC5ETIpXTNJ2) | [Escolhe só bem](https://open.spotify.com/album/3ZobBsjXO1KpZCaU4dhYnE) | 2:59 | 2022-05-26 | 2022-06-17 |
+| [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-02-23 |  |
 | [Esperei por Ti](https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Kiari Flores](https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06) | [Esperei por Ti](https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn) | 3:19 | 2023-04-06 | 2023-04-28 |
 | [Esquece o Mundo](https://open.spotify.com/track/32QMS3ZbvlDhC9pFRMEytM) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Esquece o Mundo](https://open.spotify.com/album/3LXZA1WxdjcsjOffOWhLQM) | 4:06 | 2021-12-10 | 2022-09-30 |
 | [Essa Mboa](https://open.spotify.com/track/30GRqeKxTuZQ1JEeCvHJKY) | [Adi Cudz](https://open.spotify.com/artist/1BdYccRPWnSKT7Hk8cZP3d), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Essa Mboa](https://open.spotify.com/album/2GFBG8FcKn02CztbiQJk8P) | 3:59 | 2021-12-10 | 2022-07-21 |
@@ -278,7 +279,7 @@
 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 | 2021-12-10 |  |
 | [Segredo](https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Segredo](https://open.spotify.com/album/0da7PRnY1SCzqWPJt5dtjv) | 3:50 | 2021-12-10 | 2022-07-28 |
 | [Segunda Rodada](https://open.spotify.com/track/3MUx7bmAwesSvSDl31BXHN) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Button](https://open.spotify.com/artist/0poxcWsjEiMEeHyPyQRItI), [Kletuz](https://open.spotify.com/artist/4Xq2SG5ib8kT7j0bM4ELAA), [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [Segunda Rodada](https://open.spotify.com/album/6Wetr2P1qCn3oCvDU5zIe9) | 4:15 | 2023-03-17 | 2023-03-25 |
-| [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 | 2021-12-10 |  |
+| [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 | 2021-12-10 | 2024-02-29 |
 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 | 2021-12-10 | 2024-02-03 |
 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 | 2021-12-10 | 2023-12-27 |
 | [Sexual Healing](https://open.spotify.com/track/2Rz27kKIB8LlbjzvyM1utV) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Sexual Healing](https://open.spotify.com/album/24RsjQJf1PscWiaj7dEOFy) | 4:57 | 2022-03-25 | 2022-04-21 |

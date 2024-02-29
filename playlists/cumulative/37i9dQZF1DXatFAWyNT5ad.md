@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Royal & the Serpent & GAYLE
 
-718 songs - 1 day 13 hr 11 min
+719 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Amen](https://open.spotify.com/track/4NxrAZwdMG9pThRYql6MfF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Amen](https://open.spotify.com/album/31SPurHzla1Hs0x1zu6Dz4) | 2:59 | 2022-03-24 | 2022-04-21 |
 | [Amnesia](https://open.spotify.com/track/0zu5YEA4jVLa36NtZHS6SO) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar \(Deluxe\)](https://open.spotify.com/album/3nfaRBKZML6L0cTin14obR) | 2:51 | 2022-03-17 | 2022-07-21 |
 | [Animals](https://open.spotify.com/track/0O7hmlpzzPPKCjZquUm9QX) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Animals](https://open.spotify.com/album/5Fx85G6YNco1ZumUF1zG2Q) | 3:40 | 2022-03-24 | 2022-04-21 |
-| [Antidote](https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Witching Hour](https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE) | 3:11 | 2023-10-06 |  |
+| [Antidote](https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Witching Hour](https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE) | 3:11 | 2023-10-06 | 2024-02-29 |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2022-03-24 | 2022-04-17 |
 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2023-03-17 |  |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 | 2022-11-03 | 2022-11-13 |
@@ -292,6 +292,7 @@
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-05 |  |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2022-03-24 | 2022-04-07 |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-17 |  |
+| [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-02-20 |  |
 | [Happy Again](https://open.spotify.com/track/6wSXqExVRDg4BgJf7zooC4) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Happy Again](https://open.spotify.com/album/0hcoDAsIEi5LIVe5AKNJ6b) | 3:17 | 2023-03-24 | 2023-03-26 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-03-24 | 2022-04-18 |
 | [He Can't Control You](https://open.spotify.com/track/7gfwdRTbXpDYBvwzJ8ZRWP) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [BANG](https://open.spotify.com/album/082FexUZSPr5QLnP9ZNkYk) | 3:42 | 2022-03-24 | 2022-04-12 |

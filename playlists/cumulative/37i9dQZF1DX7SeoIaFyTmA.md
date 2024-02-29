@@ -4,7 +4,7 @@
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-140 songs - 12 hr 3 min
+141 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2022-01-01 |  |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2022-01-01 |  |
 | [La Rebelion](https://open.spotify.com/track/6gecMuiiRAhutKqrYc9WDq) | [CHARİZXRD](https://open.spotify.com/artist/02H9qgkOVmmM94uQGFXnDM), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX), [hitcon5](https://open.spotify.com/artist/3O46F3OarviZBHkZyOEOd5) | [La Rebelion](https://open.spotify.com/album/3eIVxbbbqzZZ43ceV9sufi) | 6:16 | 2023-10-19 | 2024-02-03 |
-| [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-01-01 |  |
+| [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-01-01 | 2024-02-29 |
+| [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 | 2023-10-19 |  |
 | [La rebellion](https://open.spotify.com/track/15wweIQr7grMaoQS8WmD9D) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [Emre Root](https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd) | [La rebellion](https://open.spotify.com/album/1EDvrJyiEQkKMJzV6ERgJ8) | 6:16 | 2023-10-19 | 2024-01-21 |
 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 | 2022-01-01 |  |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/6nuypnhbrFzvaRpWMc5qPT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Vida Es Un Carnaval \(Baile Total\)](https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI) | 4:37 | 2022-01-01 |  |

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ちゃくら\(chakra\)
 
-1,498 songs - 3 day 21 hr 40 min
+1,500 songs - 3 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 | 2024-02-13 | 2024-02-28 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-07-26 |
 | [Hazy](https://open.spotify.com/track/4FVa8gBOeGfudL1RBUbGB1) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [Hazy](https://open.spotify.com/album/2Gtmx2juAWHnng5a6CIElX) | 3:34 | 2022-05-26 | 2022-06-01 |
-| [Heart Beat](https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU) | 4:53 | 2024-02-27 |  |
+| [Heart Beat](https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu) | 4:53 | 2024-02-27 |  |
+| [Heart Beat](https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Heart Beat](https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU) | 4:53 | 2024-02-27 | 2024-02-29 |
 | [Heart to Heart](https://open.spotify.com/track/1WgeSgRjSrSbA1R9RBvzeW) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [Heart Express](https://open.spotify.com/album/6ZA7VQJOG4S6T1fny8PUck) | 3:22 | 2022-11-23 | 2022-12-07 |
 | [Hello](https://open.spotify.com/track/1BeKkG7Km74MJdqXITLeTx) | [BLUEVALLEY](https://open.spotify.com/artist/54sxCJUMzlGdftpwHE5DJW) | [Hello](https://open.spotify.com/album/0tQH3xWuu5n30ennWVVQ0J) | 3:57 | 2023-08-29 | 2023-09-06 |
 | [Hello](https://open.spotify.com/track/4S1uySqJu78dzQqE6fRYpD) | [Hi Cheers!](https://open.spotify.com/artist/3FtZDTzCnJcwj722rHC53o) | [Hello](https://open.spotify.com/album/52eN8y1YMIh7G6JvhjggCs) | 3:36 | 2022-06-21 | 2022-07-08 |
@@ -515,7 +516,8 @@
 | [Plastic L](https://open.spotify.com/track/4V2fsrP4ArXgLZAlDRCXcI) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [PLASTIC POP](https://open.spotify.com/album/5HTcXiu5maWStZwuvF1m6q) | 4:22 | 2023-06-13 | 2023-06-15 |
 | [Plastic L](https://open.spotify.com/track/6wxxnPasBQyqQZzYmfG4jj) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [PLASTIC POP](https://open.spotify.com/album/461TGoCjAQ5tlk59t3Duzw) | 4:22 | 2023-06-13 | 2023-06-21 |
 | [PLAYER](https://open.spotify.com/track/3vE2BACJCQZ0Ojxyn50Dss) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [PLAYER](https://open.spotify.com/album/6KECSuZPPkN1hyc8MglWXV) | 4:23 | 2022-06-16 | 2022-07-24 |
-| [Poison](https://open.spotify.com/track/2tHA1slw78Hu2xmWtRwzSp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/6ufhXSV3u4M9vSyKnsEBSX) | 2:52 | 2024-02-27 |  |
+| [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 | 2024-02-27 |  |
+| [Poison](https://open.spotify.com/track/2tHA1slw78Hu2xmWtRwzSp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/6ufhXSV3u4M9vSyKnsEBSX) | 2:52 | 2024-02-27 | 2024-02-29 |
 | [Poison](https://open.spotify.com/track/5XQ8wudAX0ND1TC4PMp7tE) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [konami](https://open.spotify.com/album/6XPAVeT6gbEur5FLeK0hn2) | 2:26 | 2023-12-12 | 2023-12-20 |
 | [POOL](https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [POOL](https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH) | 4:31 | 2022-10-04 | 2022-10-26 |
 | [Pouring rain](https://open.spotify.com/track/283XhglFDGqLrmrzi3HVY4) | [in sea hole](https://open.spotify.com/artist/2KLnNZUP9ocNkgB9afmZpR) | [Pouring rain](https://open.spotify.com/album/7osGWr1NQWBClmHpDOW2iv) | 4:37 | 2024-01-09 | 2024-01-17 |

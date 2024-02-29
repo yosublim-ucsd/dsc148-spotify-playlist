@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 5 min
+88 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [LIFELINE](https://open.spotify.com/track/7jmSuVVemJ0ixY1Xcd3F3t) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:21 | 2023-10-10 |  |
 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 | 2023-11-10 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-10-28 |  |
-| [Mami \(feat\. BIA\)](https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mami \(feat\. BIA\)](https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse) | 2:58 | 2023-08-19 |  |
+| [Mami \(feat\. BIA\)](https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mami \(feat\. BIA\)](https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse) | 2:58 | 2023-08-19 | 2024-02-29 |
+| [Mami \(feat\. BIA\)](https://open.spotify.com/track/652aY1zjFB9yXDmhCMmroc) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:58 | 2024-02-28 |  |
 | [Mi Naturaleza](https://open.spotify.com/track/5aKKt0NtDmvadXvIQbLHyD) | [K2](https://open.spotify.com/artist/0l6S87tXngLhLA7h4gypUt), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mi Naturaleza](https://open.spotify.com/album/02lrmDcKngoN0lk1D61uZ8) | 3:07 | 2022-10-28 | 2023-07-30 |
 | [Miami \(feat\. BIA\)](https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 4:03 | 2022-10-28 |  |
 | [MILANO](https://open.spotify.com/track/79gZiOMkdqpBquK2tClkbn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:14 | 2023-10-10 |  |

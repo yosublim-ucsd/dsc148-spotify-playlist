@@ -1,7 +1,7 @@
 {
-  "2024-02-28": 1966,
+  "2024-02-29": 1971,
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 999dobby",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 7",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -655,7 +655,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 204000,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/6Nureb5bFhbcSySPfGBKCA"
@@ -823,6 +823,24 @@
       "duration_ms": 382325,
       "name": "Brico Studio Cypher",
       "url": "https://open.spotify.com/track/3lWVYAxisByY8K1JvnrHWB"
+    },
+    {
+      "album": {
+        "name": "GIGs",
+        "url": "https://open.spotify.com/album/78RKSQMf8f8XP7MQxBbAfl"
+      },
+      "artists": [
+        {
+          "name": "KUROJI",
+          "url": "https://open.spotify.com/artist/5w6ay1VQsRfo8guXEyqlKK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195214,
+      "name": "Brunch",
+      "url": "https://open.spotify.com/track/7utW3McVqxOf9KxIMg25ZL"
     },
     {
       "album": {
@@ -1500,6 +1518,54 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4d3Nh7CKgXu8B8X4cieP15"
+      },
+      "artists": [
+        {
+          "name": "microM",
+          "url": "https://open.spotify.com/artist/5ueB0CVSf1FYLCRCQeycLY"
+        },
+        {
+          "name": "Aroma-T",
+          "url": "https://open.spotify.com/artist/45WPZ8R8tmuMGv2PIj8m9k"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185814,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0kY2FmM0YhYMUDXA7VD3H4"
+    },
+    {
+      "album": {
+        "name": "ENTP",
+        "url": "https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt"
+      },
+      "artists": [
+        {
+          "name": "Sadajyo",
+          "url": "https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L"
+        },
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt"
+        },
+        {
+          "name": "Jeff Loik",
+          "url": "https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121894,
+      "name": "ENTP",
+      "url": "https://open.spotify.com/track/6igeqg948vsEYv5sKvIfvt"
+    },
+    {
+      "album": {
         "name": "envy",
         "url": "https://open.spotify.com/album/2fpjOwctPlEpf30aHCO528"
       },
@@ -1864,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "Fuckin real",
+        "url": "https://open.spotify.com/album/3mvLlwBUSOA5WQt793CL2S"
+      },
+      "artists": [
+        {
+          "name": "GEN",
+          "url": "https://open.spotify.com/artist/08kqzV23DriJWmzKZeKZGi"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152359,
+      "name": "Fuckin real",
+      "url": "https://open.spotify.com/track/1elsgSpVDMr0lrZupnrCN1"
+    },
+    {
+      "album": {
         "name": "506",
         "url": "https://open.spotify.com/album/73Oq8xbM9INVWEvz3yAgAF"
       },
@@ -1919,7 +2003,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 139322,
       "name": "GET RIGHT BACK",
       "url": "https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL"
@@ -1945,6 +2029,24 @@
       "duration_ms": 111209,
       "name": "GINGINDEGO",
       "url": "https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR"
+    },
+    {
+      "album": {
+        "name": "GOEMON",
+        "url": "https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Well",
+          "url": "https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "GOEMON",
+      "url": "https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK"
     },
     {
       "album": {
@@ -2043,7 +2145,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 190416,
       "name": "HACKER",
       "url": "https://open.spotify.com/track/3KrpwhS3sq0qQsRsFBpKnx"
@@ -2757,7 +2859,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 209189,
       "name": "K18GP",
       "url": "https://open.spotify.com/track/3EufhJ9j7f2J3HmmEKmke8"
@@ -3077,7 +3179,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 153000,
       "name": "Lovers & Friends",
       "url": "https://open.spotify.com/track/6YghSDBOpbzqFj7PymW93D"
@@ -3314,6 +3416,24 @@
     },
     {
       "album": {
+        "name": "NERI CHAGI",
+        "url": "https://open.spotify.com/album/0p7ELsDN4BVx16x0qJshCa"
+      },
+      "artists": [
+        {
+          "name": "Kay-on",
+          "url": "https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162107,
+      "name": "NERI CHAGI",
+      "url": "https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz"
+    },
+    {
+      "album": {
         "name": "now that UR gone",
         "url": "https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE"
       },
@@ -3489,7 +3609,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 202714,
       "name": "Nothinn",
       "url": "https://open.spotify.com/track/04A61F4f7hNFgFsQ9F9sHf"
@@ -3653,7 +3773,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 176192,
       "name": "Pay",
       "url": "https://open.spotify.com/track/3DgzRFDji9lqHeFRG11Q3n"
@@ -4429,7 +4549,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 203454,
       "name": "Still Tippin' Freestyle",
       "url": "https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG"
@@ -4465,7 +4585,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 168287,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/2uorqw0spilyM6eFRq0RFE"
@@ -4956,6 +5076,24 @@
     },
     {
       "album": {
+        "name": "wave on surface",
+        "url": "https://open.spotify.com/album/2s467Lw8xrJ5NEs3TFJYNE"
+      },
+      "artists": [
+        {
+          "name": "MK woop",
+          "url": "https://open.spotify.com/artist/3AUCOiwJCLQmRotHBdCW7j"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162770,
+      "name": "wave on surface",
+      "url": "https://open.spotify.com/track/3ZRy2T77ByUPf5zA268NzE"
+    },
+    {
+      "album": {
         "name": "Way Good",
         "url": "https://open.spotify.com/album/4o1pJRtw1KYrt8mXqudCRm"
       },
@@ -5407,6 +5545,28 @@
       "duration_ms": 185250,
       "name": "\u725b\u4e45",
       "url": "https://open.spotify.com/track/5hvbfRmhcKVB2iwgktJx8y"
+    },
+    {
+      "album": {
+        "name": "\u7b2c\u6551\u6761",
+        "url": "https://open.spotify.com/album/7phcQamybNqbWXszHenikP"
+      },
+      "artists": [
+        {
+          "name": "NARIMIMI",
+          "url": "https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W"
+        },
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183232,
+      "name": "\u7b2c\u6551\u6761",
+      "url": "https://open.spotify.com/track/5sluiMnosRaynnGPuuI4ON"
     },
     {
       "album": {

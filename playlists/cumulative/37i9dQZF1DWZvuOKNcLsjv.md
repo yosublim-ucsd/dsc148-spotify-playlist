@@ -2,9 +2,9 @@
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: French Montana
+> 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Free Nationals
 
-3,140 songs - 7 day 15 hr 17 min
+3,141 songs - 7 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1592,6 +1592,7 @@
 | [O\-A\-O\-A\-Y \(feat\. Taro Abe\)](https://open.spotify.com/track/6TRGgeiIXwMCvvCt3VLWC9) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Taro Abe](https://open.spotify.com/artist/4YLBaTVzsuVsjCbRASMCyC) | [O\-A\-O\-A\-Y \(feat\. Taro Abe\)](https://open.spotify.com/album/0kVLCalVjtj9V3UIYRBC0t) | 3:06 | 2023-02-26 | 2023-03-13 |
 | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [O.M.M \(feat\. Kenya Fujita\)](https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P) | 2:27 | 2023-10-15 | 2023-11-06 |
 | [OASIS](https://open.spotify.com/track/2dbW67vdCsPsmeigoh7LGW) | [YAMORI](https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [OASIS](https://open.spotify.com/album/7EHmyyxXy7sm1ziLKqAQ7f) | 3:01 | 2024-01-14 | 2024-01-29 |
+| [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-28 |  |
 | [Oceans \(with Kid Joi\)](https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kid Joi](https://open.spotify.com/artist/29smgejDUdhMHMFTiruhPG) | [Oceans \(with Kid Joi\)](https://open.spotify.com/album/78OE5zYcaVZBRY283ayFYj) | 3:20 | 2023-05-07 | 2023-05-15 |
 | [Odd Dancer](https://open.spotify.com/track/5KrmHvZqGCzxVjEdcB4xiX) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Odd Dancer](https://open.spotify.com/album/6dgYwFD881z4kSbi0W0FA1) | 3:10 | 2023-07-02 | 2023-07-10 |
 | [oDoRiKo](https://open.spotify.com/track/3in6o3amnJwGKIZf2u6tmi) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [oDoRiKo](https://open.spotify.com/album/3qQlRiDLPuo6DrvLuqMmgD) | 4:09 | 2023-03-05 | 2023-03-13 |
@@ -2462,7 +2463,7 @@
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-30 | 2023-05-08 |
 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 | 2023-04-23 | 2023-05-01 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-21 | 2023-05-30 |
-| [Where They At](https://open.spotify.com/track/6imvV0Qnsvi94rx1AatykZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Mac & Cheese 5](https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3) | 2:53 | 2024-02-25 |  |
+| [Where They At](https://open.spotify.com/track/6imvV0Qnsvi94rx1AatykZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Mac & Cheese 5](https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3) | 2:53 | 2024-02-25 | 2024-02-29 |
 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 | 2023-10-29 | 2023-11-06 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-07 |  |
 | [where’s my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where’s my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 | 2023-11-19 | 2023-11-27 |

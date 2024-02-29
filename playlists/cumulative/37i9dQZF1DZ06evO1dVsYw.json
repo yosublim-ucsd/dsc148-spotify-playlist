@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) (Delux Edition)",
+        "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321626,
+      "name": "Negro Drama (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5oSIB0TeXUQsmYifDfKIFx"
+    },
+    {
+      "album": {
         "name": "Racionais 3 D\u00e9cadas",
         "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
       },

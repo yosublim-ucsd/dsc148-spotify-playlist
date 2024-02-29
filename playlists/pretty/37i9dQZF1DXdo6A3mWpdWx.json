@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 796356,
+  "num_followers": 796928,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh",
+  "snapshot_id": "MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 232826,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Ghetto Supastar",
         "url": "https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
       "artists": [
         {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Move It!",
-        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
-      },
-      "artists": [
-        {
-          "name": "Reel 2 Real",
-          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
-        },
-        {
-          "name": "The Mad Stuntman",
-          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
-        },
-        {
-          "name": "Erick Morillo",
-          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
-      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
+      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 336840,
       "name": "Mr. Vain",
       "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Love Is Not Sex",
         "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
       "artists": [
         {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 217539,
-      "name": "We're Going To Ibiza!",
-      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1779,6 +1763,22 @@
       "duration_ms": 226773,
       "name": "Get A Way",
       "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 217539,
+      "name": "We're Going To Ibiza!",
+      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 133400,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Crying at the Discoteque - Radio Edit",
-      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tougher Than Love",
         "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Crying at the Discoteque - Radio Edit",
+      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Back in My Life",
-      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Born Slippy (Nuxx) [Radio Edit]",
         "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 264187,
       "name": "Born Slippy (Nuxx) - Radio Edit",
       "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Back in My Life",
+      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Ice 'n' Green",
-        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
-      },
-      "artists": [
-        {
-          "name": "Ice Mc",
-          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "It's a Rainy Day",
-      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 230186,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Ice 'n' Green",
+        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
+      },
+      "artists": [
+        {
+          "name": "Ice Mc",
+          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "It's a Rainy Day",
+      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
     },
     {
       "added_at": "2022-10-11 00:00:00",

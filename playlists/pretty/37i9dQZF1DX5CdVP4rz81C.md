@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,608 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,684 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 76 | [Everything Under The Sun](https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Everything Under The Sun](https://open.spotify.com/album/5kXzFL6Ug21nCNdZ3M7rPP) | 4:14 |
 | 77 | [Heartbreak Souvenirs](https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Heartbreak Souvenirs](https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b) | 3:13 |
 | 78 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
-| 79 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 |
+| 79 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/0YNbCCep4pGK70IXnXJJAV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:33 |
 | 80 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 |
 | 81 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 82 | [Live It Up \(High Tide\)](https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Live It Up \(High Tide\)](https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3) | 2:34 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 97 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 |
 | 98 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 |
 
-Snapshot ID: `MCwwNzk2NjViMDAxMzQzNmIxMjRjNTZmNzNlN2Q3MDExNDRlMzE0OGU5`
+Snapshot ID: `MCxkMmYyZGMyZmJhNGYwOWE5NDg3ZWZiNmYyMGNhYzBhN2VlNDg0M2Fk`

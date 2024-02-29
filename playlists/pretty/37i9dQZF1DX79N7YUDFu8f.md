@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,125 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,119 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 65 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 | 66 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 |
 | 67 | [Nicotine](https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ) | 3:58 |
-| 68 | [Joe](https://open.spotify.com/track/0uLrfjlCV5eCQcEwwmz8uX) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Julius](https://open.spotify.com/album/10bl29X1V0NlDr4erbugC4) | 3:12 |
+| 68 | [Joe](https://open.spotify.com/track/0i0mZXrow7o2YGilwgpoMH) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Julius](https://open.spotify.com/album/1JbwsTZGM1aeGbgdj6FdbS) | 3:12 |
 | 69 | [Lose Control \- Acoustic Version](https://open.spotify.com/track/3uGJfbP8pV3zTIH6Vi8G8x) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [When The Lights Go Down](https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk) | 2:37 |
 | 70 | [Lay Here](https://open.spotify.com/track/79dWlFvR2N2q8aD3IzRpwW) | [The Mulligan Brothers](https://open.spotify.com/artist/7dohdcCGn1V9tieoC7ndRy) | [The Mulligan Brothers](https://open.spotify.com/album/5EEfgJDMdWvaJ1EDS7QkxH) | 4:19 |
 | 71 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
 | 100 | [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 |
 
-Snapshot ID: `MCw0MDA0MGU5OGU1YWE4YjY4Y2NiZTU0Y2NlMDk2NjU5NWViY2NjNTc3`
+Snapshot ID: `MCwwMTkxMjY0ZTYxMjMzYWU2NDRhZWMzOGJkZTExOGE0NjM3MDBhZjdm`

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 38694,
+  "2024-02-29": 38750,
   "date_first_scraped": "2022-10-20",
   "description": "The greatest skating game music from over the years.",
   "name": "Kickflip",
@@ -511,6 +511,24 @@
     {
       "album": {
         "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267480,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA"
+    },
+    {
+      "album": {
+        "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
       },
       "artists": [
@@ -953,7 +971,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"

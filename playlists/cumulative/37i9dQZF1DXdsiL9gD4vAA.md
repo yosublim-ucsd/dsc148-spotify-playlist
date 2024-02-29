@@ -4,7 +4,7 @@
 
 > Remembering the elegiac voice of love & longing..\. Pankaj Udhas, always & forever.
 
-144 songs - 13 hr 28 min
+145 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/1ftMjWQH3eIxJkN3KjLKjD) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Best of Ghulam Ali: His 50 Greatest Ghazal Hits](https://open.spotify.com/album/5vsRAeRm6meFIQi2LWgVGz) | 7:18 | 2021-12-01 | 2022-07-29 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 | 2022-11-13 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 |  |
+| [Humne Duniya](https://open.spotify.com/track/6Z2yW8WWkwnetkQTZecj2A) | [Maahirii Bose](https://open.spotify.com/artist/4MNIF4TvN3PcvanPUrmnCa) | [Humne Duniya](https://open.spotify.com/album/7gLaSEKiizil6HQJRGJjv7) | 4:59 | 2024-02-28 |  |
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 | 2022-07-26 | 2023-07-28 |
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
@@ -98,7 +99,7 @@
 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 | 2024-02-07 |  |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 | 2022-07-29 |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 |  |
-| [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 |  |
+| [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 | 2024-02-29 |
 | [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 | 2023-10-11 |
 | [Meri Ajab Hai Zindagi](https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo) | [Kirti Anuraag](https://open.spotify.com/artist/3k76V6C9xfs43QCm8mqhOd), [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Rare Moments](https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N) | 5:30 | 2021-12-01 |  |
 | [Mujhe Tum Nazar Se Gira To Rahe Ho](https://open.spotify.com/track/6D5YqPRZo1OfpD2cy5hUz1) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Strokes Of Sohail Rana](https://open.spotify.com/album/45zJ5AmAvKqBnCsfymVLbV) | 3:55 | 2021-12-01 |  |

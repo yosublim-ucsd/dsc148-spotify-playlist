@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 > This is Lana Del Rey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,254,173 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,254,877 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 48 | [Summertime](https://open.spotify.com/track/0gMTEHzNIyvxikxyUFFJxO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Summertime](https://open.spotify.com/album/3d5e4tp3t5zTGu44NM88LQ) | 3:15 |
 | 49 | [Get Free](https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:34 |
 
-Snapshot ID: `Mjg0ODM5MjIsMDAwMDAwMDA1ZTU1Mjc0NTU4N2RkOWRkY2IxNDJkN2NmNTgxMDg4NA==`
+Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDA3MWM3ZDE2NTM5M2QyZjQ1YmI2MGNiMjQ5OGI3M2FhOA==`

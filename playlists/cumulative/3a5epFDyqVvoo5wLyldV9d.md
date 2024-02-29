@@ -4,7 +4,7 @@
 
 > 
 
-753 songs - 2 day 10 hr 34 min
+755 songs - 2 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Dalkavuk](https://open.spotify.com/track/1H1iCQ05MWM2CUuts2UhA1) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN) | [Honki Ponki](https://open.spotify.com/album/7FUd2BMPEr7dHB2sgOMmu5) | 5:06 | 2020-04-13 |  |
 | [Dalkavuk \- Baris K Edit](https://open.spotify.com/track/1F0k6Lfr9jp9g6H43YFYIc) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [Istanbul 70: Psych, Disco, Folk Edits by Baris K \- Vol\. II](https://open.spotify.com/album/6J1mfLqgykLUhctF6yVUg0) | 5:27 | 2020-04-13 |  |
 | [Damat Alam](https://open.spotify.com/track/1v55bBB5y2DqWkz622OMxv) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2) | [Music For Airplanes \- A collection of instrumental showpieces and scores for Egyptian films and TV\-series \(1973\-1980\)](https://open.spotify.com/album/38TAyky0FDfVX5oFeuIEGk) | 3:59 | 2022-10-02 |  |
+| [Dana Dana](https://open.spotify.com/track/0rCfO44prjouVhHbMfyhoa) | [Rima](https://open.spotify.com/artist/5PyFoT2FygLU3SSfRmqpSC), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Ahwa Hawak](https://open.spotify.com/album/6xMKQkClckSxaI6a5ysflj) | 4:09 | 2024-02-28 |  |
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2020-12-22 |  |
 | [Dans, dans, dans](https://open.spotify.com/track/3zb6RgRquOw749HH6ZJPJx) | [Þú og ég](https://open.spotify.com/artist/6dHnoL2eDy2jdtEPmDf8w5) | [Ljúfa líf](https://open.spotify.com/album/3YfrOLIlKzYzpOBw2gIpAp) | 4:40 | 2020-11-17 |  |
 | [Dari Demou'ek](https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:41 | 2023-04-06 |  |
@@ -713,6 +714,7 @@
 | [Ya Bismillah](https://open.spotify.com/track/1WYZN7h2By4JKSN3GVQ1J0) | [Mamman Sani](https://open.spotify.com/artist/3AWprtbEToKCq6Xzz0tTX4) | [Taaritt \(1985 \- 1988\)](https://open.spotify.com/album/3tHAN9x4zBr3YXViELwGOO) | 4:21 | 2022-07-04 |  |
 | [Ya Farhe Beek](https://open.spotify.com/track/62hsw3nKkUVLmB9dMVPCda) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Shawara Al Madina](https://open.spotify.com/album/7qL7UP4inAbeSGTtbRPZqG) | 5:23 | 2020-06-25 |  |
 | [Ya rayah](https://open.spotify.com/track/4uaZ97JqhxxAuiboibR3RI) | [Dahmane El Harrachi](https://open.spotify.com/artist/0WtlXlCzfp2mJyINCsf1tb) | [Algérie collection 3: Voix éternelles](https://open.spotify.com/album/6bmXfGNw1N9dTYIGFoMfbh) | 4:37 | 2022-11-07 |  |
+| [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 | 2024-02-28 |  |
 | [Yaar](https://open.spotify.com/track/0RVfK6OeZ2O4gW0SOmTblJ) | [Leila Forouhar](https://open.spotify.com/artist/5DKMxoSsZBKkZG22hJHbfq) | [Hediyeh \- Persian Music](https://open.spotify.com/album/2A1z4ZiDGNMHueCd9G7sKE) | 4:43 | 2023-11-08 |  |
 | [Yaar Di Barat](https://open.spotify.com/track/66nxQkgtfAT4mmn0jGTpfo) | [Naseeb](https://open.spotify.com/artist/1JotH1zx3XlGdLdQ8AqYhN) | [Freak Out](https://open.spotify.com/album/2KczAPEwSkXQuii2NVYo0s) | 6:04 | 2023-07-17 |  |
 | [Yagana](https://open.spotify.com/track/50JAUWBea5LPQFNLdz1s0v) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Yagana](https://open.spotify.com/album/5UZ6hcy0PClBgke1YILpIK) | 5:52 | 2022-03-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 147759,
+  "num_followers": 147769,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODgzNTBiZTUwYjljYWE3YjQ1N2IxZTE1ZDlhMGIwYmFmZWNlMDA3",
+  "snapshot_id": "MCxkMzM5NGQxY2Q3YjA5OTY3ZGUwN2NmOWViZDhmYjI0OTdjMDUwODQ2",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 301520,
       "name": "I'll Be Missing You (feat. Faith Evans, 112)",
       "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2023-09-29 21:35:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Sleep Through The Static",
-        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 274813,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 274813,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
     },
     {
       "added_at": "2023-09-29 21:35:53",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Tug Of War",
-        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "Here Today - Remixed 2015",
-      "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "The Beginning & Everything After",
         "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 221973,
       "name": "Light Up the Sky",
       "url": "https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Tug Of War",
+        "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Here Today - Remixed 2015",
+      "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
     },
     {
       "added_at": "2023-09-29 21:35:53",

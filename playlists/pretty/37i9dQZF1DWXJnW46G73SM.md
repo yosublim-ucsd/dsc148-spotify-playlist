@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,616 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,703 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [يا أساسى](https://open.spotify.com/track/1lyq4cA8cTh0zIGmpRdoFQ) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [يا أساسى](https://open.spotify.com/album/1xFBA54K4z0OJuqarWutgp) | 3:48 |
 | 75 | [Kalemt El Tabeb](https://open.spotify.com/track/0i6oaSNu8bXjokgLmuTPhz) | [Mostafa Rashad](https://open.spotify.com/artist/0Au8fj354nl5Ehc1tlSbcQ) | [Kalemt El Tabeb](https://open.spotify.com/album/2hYQ8KmuHSnVBoOJalPCl4) | 2:38 |
 
-Snapshot ID: `MCxlMzZjOWU0ZDkyYzRiMGY5ZWFjYmNjZGMyMWFjNThlM2IzNTgzYjU1`
+Snapshot ID: `MCxjODg5MTA1OGZiMTk5OTRiY2MxYWU4YThlMmIwMmY0ZDIyYTdmYTdk`

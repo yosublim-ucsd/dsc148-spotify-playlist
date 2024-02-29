@@ -4,7 +4,7 @@
 
 > new gems by artists carving their own lane\. cover: Erika de Casier
 
-1,099 songs - 2 day 12 hr 20 min
+1,100 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,7 +958,8 @@
 | [The Hammer](https://open.spotify.com/track/0u1ihYKX1FxCeYTaHdhgPO) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [RED](https://open.spotify.com/artist/02CPoPvI4x9TuxCTFNwOv4) | [Nigh](https://open.spotify.com/album/2sHPkujZbHvkrxS5o37EwL) | 7:03 | 2022-07-29 | 2022-11-19 |
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 | 2024-01-20 |
 | [The Heat](https://open.spotify.com/track/0Ujxl8yPiaZ5VaKPNMC5F8) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [The Rise & Fall Of Jaymie Silk & Rave Culture](https://open.spotify.com/album/1NEXyiV89bhqIObxJs9vzn) | 3:09 | 2022-05-06 | 2022-06-04 |
-| [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 | 2024-02-23 |  |
+| [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 | 2024-02-23 | 2024-02-29 |
+| [the life and death of a dog](https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 3:34 | 2024-02-23 |  |
 | [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2024-02-28 |
 | [The Local](https://open.spotify.com/track/3sWAonad48wm55cmQRjIZj) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [The Local](https://open.spotify.com/album/6hSxj7BtaD76EmD5CLPfEW) | 4:11 | 2022-08-26 | 2022-12-17 |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-04-02 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 155958,
+  "2024-02-29": 155981,
   "date_first_scraped": "2023-02-14",
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "SUKI",
+        "url": "https://open.spotify.com/album/5FtdjnKZr1DPSFCPQQiQeR"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Heiki",
+      "url": "https://open.spotify.com/track/79DULWXum7FXlCdAy12WI9"
+    },
+    {
+      "album": {
         "name": "HONEY BOY",
         "url": "https://open.spotify.com/album/5YHxyTKE3DGpuLzCDXOQQo"
       },
@@ -1587,6 +1605,32 @@
       "duration_ms": 286626,
       "name": "More than friends",
       "url": "https://open.spotify.com/track/2ownG1UmOTNdGvWMbsSQ6K"
+    },
+    {
+      "album": {
+        "name": "Moshi Moshi",
+        "url": "https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Kitay",
+          "url": "https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump"
+        },
+        {
+          "name": "GAL D",
+          "url": "https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD"
+        },
+        {
+          "name": "MUKADE",
+          "url": "https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176951,
+      "name": "Moshi Moshi",
+      "url": "https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2"
     },
     {
       "album": {
@@ -3398,6 +3442,24 @@
     },
     {
       "album": {
+        "name": "\u30da\u30a2\u30ea\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189638,
+      "name": "\u30da\u30a2\u30ea\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l"
+    },
+    {
+      "album": {
         "name": "\u30de\u30a4\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3FGmwPJ5bHwenJVs83iC9n"
       },
@@ -3949,7 +4011,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 194591,
       "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
       "url": "https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT"
@@ -4831,7 +4893,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
@@ -4921,7 +4983,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 309440,
       "name": "\u82b1\u675f\u306e\u304b\u308f\u308a\u306b\u30e1\u30ed\u30c7\u30a3\u30fc\u3092",
       "url": "https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE"

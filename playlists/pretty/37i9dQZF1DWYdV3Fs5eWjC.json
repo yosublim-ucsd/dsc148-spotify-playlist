@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76496,
+  "num_followers": 76502,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTcxMWRlYTU5YzFkMTYxM2U5ODZjOGJmYjg5YmEwMWJlODE5YWIz",
+  "snapshot_id": "MCxlMGJmN2UzMGI4OTdmNGQ5M2JjM2QwOGRlNDBjODM2OTFhNzk0MTRm",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd"
     },
     {
-      "added_at": "2023-04-06 23:29:21",
-      "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172248,
-      "name": "Sl*t Him Out",
-      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
-    },
-    {
       "added_at": "2023-10-05 17:45:18",
       "album": {
         "name": "OUTTA CONTROL",
@@ -511,6 +495,22 @@
       "duration_ms": 205500,
       "name": "OUTTA CONTROL",
       "url": "https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3"
+    },
+    {
+      "added_at": "2023-04-06 23:29:21",
+      "album": {
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 172248,
+      "name": "Sl*t Him Out",
+      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
     },
     {
       "added_at": "2023-10-05 17:45:18",
@@ -785,28 +785,20 @@
       "url": "https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
+      "added_at": "2023-05-25 04:09:32",
       "album": {
-        "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
-        "url": "https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu"
+        "name": "CROSSOVER (Deluxe)",
+        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
       },
       "artists": [
         {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         }
       ],
-      "duration_ms": 160909,
-      "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
-      "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
+      "duration_ms": 169215,
+      "name": "chosen",
+      "url": "https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -845,20 +837,28 @@
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
+      "added_at": "2020-06-01 21:07:43",
       "album": {
-        "name": "CROSSOVER (Deluxe)",
-        "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
+        "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
+        "url": "https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu"
       },
       "artists": [
         {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 169215,
-      "name": "chosen",
-      "url": "https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS"
+      "duration_ms": 160909,
+      "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
     }
   ],
   "unique_name": "Black, Queer, & Proud",

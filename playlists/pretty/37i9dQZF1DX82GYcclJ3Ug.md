@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Catfish and the Bottlemen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,207 likes - 122 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,385 likes - 122 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 121 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 |
 | 122 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 
-Snapshot ID: `MCw2OTJlNmI2NjVjMzA3MGQ1YWNkZGEyZDk2YjM0ODkyNDAxOWZlMWE3`
+Snapshot ID: `MCxlOThlOWI3Y2Q3OWJjNDhhMjYxZGI5MDU1YTY3OWIyMWZmN2JmZjRi`

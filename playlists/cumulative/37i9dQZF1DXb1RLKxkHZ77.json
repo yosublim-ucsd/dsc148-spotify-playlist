@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Dursila (From \"Malang Si Puteri\")",
+        "url": "https://open.spotify.com/album/3Epscc9nKLxHYfzZnXnSL3"
+      },
+      "artists": [
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246093,
+      "name": "Dursila - From \"Malang Si Puteri\"",
+      "url": "https://open.spotify.com/track/1zv2N0vnJF37CJZ27MA1cH"
+    },
+    {
+      "album": {
         "name": "Eh Mari, Tengok Tu",
         "url": "https://open.spotify.com/album/20lB1donlSTdqQY7FDAwCM"
       },
@@ -2522,6 +2540,24 @@
       "duration_ms": 259246,
       "name": "Hidup Tanpamu",
       "url": "https://open.spotify.com/track/04VEB5LZ6slykz3tXTmYpY"
+    },
+    {
+      "album": {
+        "name": "HILANG",
+        "url": "https://open.spotify.com/album/3L6fgQBNCRTWP41evyX0Xl"
+      },
+      "artists": [
+        {
+          "name": "Bunkface",
+          "url": "https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204884,
+      "name": "HILANG",
+      "url": "https://open.spotify.com/track/0thFZlDnyGgxzBRXBAS6DK"
     },
     {
       "album": {
@@ -4205,6 +4241,28 @@
     },
     {
       "album": {
+        "name": "Masih Hatiku",
+        "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
+      },
+      "artists": [
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262341,
+      "name": "Masih Hatiku",
+      "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
+    },
+    {
+      "album": {
         "name": "Masih Yuna",
         "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
       },
@@ -5338,7 +5396,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 248293,
       "name": "Renjana",
       "url": "https://open.spotify.com/track/7EuvHaRZ55DWE5r9om7dQO"
@@ -5846,7 +5904,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 237500,
       "name": "Sampan Mimpi",
       "url": "https://open.spotify.com/track/6l2IlpC4K8BVXo1mNjg5P3"
@@ -5984,7 +6042,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 217728,
       "name": "Sayap",
       "url": "https://open.spotify.com/track/237lUKdnLP40fmVe9EmDmS"
@@ -6379,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Simfoni Hati Beradu",
+        "url": "https://open.spotify.com/album/72Z5UJlDTXHgYwUuGy3jvE"
+      },
+      "artists": [
+        {
+          "name": "Aizat Amdan",
+          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Simfoni Hati Beradu",
+      "url": "https://open.spotify.com/track/6uZTWJzR6bj5b3jnHGVhyq"
+    },
+    {
+      "album": {
         "name": "Sinar Pelangi",
         "url": "https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb"
       },
@@ -6448,6 +6524,24 @@
       "duration_ms": 183745,
       "name": "Solo Trip",
       "url": "https://open.spotify.com/track/1mXCwImDRQO7XLMjnVDH3u"
+    },
+    {
+      "album": {
+        "name": "Star Girl",
+        "url": "https://open.spotify.com/album/5j6ZETsh7HQ3YEPrreSJLT"
+      },
+      "artists": [
+        {
+          "name": "Fariz Jabba",
+          "url": "https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103880,
+      "name": "Star Girl",
+      "url": "https://open.spotify.com/track/4xRGMhLLn6aPLXdOplg2eh"
     },
     {
       "album": {
@@ -6654,7 +6748,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 264738,
       "name": "Syurga",
       "url": "https://open.spotify.com/track/2vDJ5C6dgCPGqQhcnD1mnB"
@@ -7512,7 +7606,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 202704,
       "name": "Usia",
       "url": "https://open.spotify.com/track/2Q6xcu7vgTXRz0ZKDOuuKR"

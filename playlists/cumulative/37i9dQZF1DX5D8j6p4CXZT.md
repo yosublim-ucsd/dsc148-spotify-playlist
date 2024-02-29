@@ -4,7 +4,7 @@
 
 > headphones on, forget the world
 
-84 songs - 4 hr 9 min
+85 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Getting Down](https://open.spotify.com/track/2MobfDigHK3xfkAbPrkyCI) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Getting Down](https://open.spotify.com/album/41MDMdTH0aHm1K3uOdAP19) | 3:31 | 2023-11-13 |  |
 | [Good News](https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:42 | 2023-11-13 |  |
 | [Good Shot](https://open.spotify.com/track/5FntnKch5Wv3KCa1qIRxv3) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Good Shot](https://open.spotify.com/album/0UuAyMjcuOIDBySagxbdXy) | 2:56 | 2023-11-13 |  |
-| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2023-11-13 |  |
+| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2023-11-13 | 2024-02-29 |
+| [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 | 2023-11-13 |  |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-11-13 |  |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2023-11-13 |  |
 | [I Feel Electric \(feat\. Moxie Raia\)](https://open.spotify.com/track/22JQQDuQcMMmDO1Wf9dcvL) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz), [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp) | [FutureNever](https://open.spotify.com/album/67sIb7EzQO5Fcip4DT9ZIZ) | 3:53 | 2023-11-13 |  |

@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Divine Smile",
+        "url": "https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124210,
+      "name": "Divine Smile",
+      "url": "https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas"
+    },
+    {
+      "album": {
         "name": "Doing Better",
         "url": "https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5"
       },
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 171281,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV"
@@ -8260,7 +8278,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 148283,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L"
@@ -11660,6 +11678,24 @@
       "duration_ms": 110133,
       "name": "Wing It",
       "url": "https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ"
+    },
+    {
+      "album": {
+        "name": "Winter Dreamin'",
+        "url": "https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219541,
+      "name": "Winter Dreamin'",
+      "url": "https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65"
     },
     {
       "album": {

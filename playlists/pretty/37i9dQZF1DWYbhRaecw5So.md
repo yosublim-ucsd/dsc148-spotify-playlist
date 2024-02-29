@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,618 likes - 75 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,639 likes - 75 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 39 | [Become Better](https://open.spotify.com/track/0MBNKhRmKXHoDLjlN0FAtL) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Become Better \- EP](https://open.spotify.com/album/4O48eSWVxpjHjxQ8rJDf0z) | 5:58 |
 | 40 | [Nordic Soul](https://open.spotify.com/track/64WABdDl1fsSopTdWNw2Yw) | [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Nordic Soul](https://open.spotify.com/album/5CHqUFlU04h2FNiRYeXV1C) | 4:53 |
 | 41 | [Zooz](https://open.spotify.com/track/1Dx0WAki3RPUdaBGy9ZI46) | [Stereo Underground](https://open.spotify.com/artist/4lYZCtiWHEcyMQJMU3B2KG) | [Zooz / Space Fields / Turbulencia](https://open.spotify.com/album/0128Czc6OBVXZAbKReoTyn) | 8:05 |
-| 42 | [One Mind \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/2Jzo3rKFqgAAWSJ4aLE1kX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [One Mind \(Jerome Isma\-Ae Remix\)](https://open.spotify.com/album/68Fxs0bqGVNudd2gISplaK) | 3:47 |
+| 42 | [One Mind \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5jA1gioaR5rmcaWTA9AjBD) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [One Mind \(Jerome Isma\-ae Remix\)](https://open.spotify.com/album/3vxxjhWC51cxRVqSP12hvl) | 3:47 |
 | 43 | [Hold The Night](https://open.spotify.com/track/69AbtvMhUOqgKCXJ2HZEgD) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Hold The Night EP](https://open.spotify.com/album/5ugE3kExl70pciBwPNbXym) | 5:59 |
 | 44 | [Liquid Fantasy \- Club Remix](https://open.spotify.com/track/3Lr9Km1gicHy1EjjfY5WUG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 7:42 |
 | 45 | [Aftermath](https://open.spotify.com/track/4h5lIgv0ieD33nIC48OJU1) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Aftermath](https://open.spotify.com/album/4vBDB1R3CDSHNprEFtICCU) | 5:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 74 | [Pollinator \- Gary Beck Remix](https://open.spotify.com/track/5uwHkb5Ong0kxJBYQK0EX6) | [Miki Litvak](https://open.spotify.com/artist/6QRdqy21TUEV3fh1DKa8Jw), [Gary Beck](https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC) | [Pollinator](https://open.spotify.com/album/235uXSHoXGzwhsKMcTngsK) | 7:07 |
 | 75 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 |
 
-Snapshot ID: `MCxjZTg1YzE3OGRiMjY4M2M3OTYwYmFhNGQ3Nzk4Y2RlNDg1ZmUxMTg1`
+Snapshot ID: `MCwzYTY5MzMwZTU2OGU0ZmZjNmY5ZmJlOTM1YTc5NWU4MzA4MDc3N2Qz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,407 likes - 68 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,441 likes - 68 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 52 | [Bad Boys Ft Diddy \- Matthias Tanzmann Remix](https://open.spotify.com/track/2hCEBzBn9rSkSUyeMxoZkh) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [Bad Boys](https://open.spotify.com/album/1RiR3zFbVWboM5ceNCwI58) | 5:41 |
 | 53 | [Imaginar](https://open.spotify.com/track/2riey7bFfZ6Pak6IKHU0JZ) | [Alejando Alca](https://open.spotify.com/artist/160qXy2dYaEfyI74SfSJbG) | [Imaginar](https://open.spotify.com/album/6YUmGmq4R9rje3VGUDkGBz) | 7:49 |
 | 54 | [Lluvia \(feat\. Çantamarta\)](https://open.spotify.com/track/7v3uxOX4KkQj5Vh9EFGytH) | [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F), [Çantamarta](https://open.spotify.com/artist/1ysrlrFhnGeSajrqhcoEH2) | [Lluvia \(feat\. Çantamarta\)](https://open.spotify.com/album/1Akj6fZVb2uqxbKXSoTih4) | 3:17 |
-| 55 | [Say It](https://open.spotify.com/track/1j6czimh8KUuWcf9NcKI5F) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Voices Of Youth](https://open.spotify.com/album/6NRMt9DJ5VYAopbXnyadl8) | 6:53 |
+| 55 | [Say It](https://open.spotify.com/track/4zgn2qQVkdHjXhlGlOeTnb) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Voices Of Youth](https://open.spotify.com/album/7B1YlobPnNkEPUJmcJiFFp) | 6:53 |
 | 56 | [Aliens \- Santiago Garcia Remix](https://open.spotify.com/track/7isn1yZ8uYcqWcQrVCTqNt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 4:01 |
 | 57 | [Orgsa](https://open.spotify.com/track/70rt4bdj4yfiPwBoF2wY21) | [SIS](https://open.spotify.com/artist/4wzvXCxUnFdUjNgTwqPOf3) | [La Garua](https://open.spotify.com/album/5l1MtWqFZs0wuPOJ2ZEQzA) | 7:35 |
 | 58 | [They Frontin' \- 2023 Remastered Version](https://open.spotify.com/track/3VfIHtCtTWJq1pgd4pQrmT) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Monty Luke](https://open.spotify.com/artist/6OTl4OdD4K4Lc13b7vR3mT) | [They Frontin' Remixes 2023](https://open.spotify.com/album/1BEvbGxnvJQXglk1fSYKtg) | 6:35 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 67 | [Dark Song](https://open.spotify.com/track/4O2xx1GL1WIhqZIwIJauPY) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Dark Song](https://open.spotify.com/album/0qtcst9d8WgDNlhBCwtuGn) | 5:20 |
 | 68 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
-Snapshot ID: `MCw3OGRhYTMwZjI5MmQzOGE1MTU3NWY4NzVjNTllZDA3ZjdkYWE2YTAx`
+Snapshot ID: `MCxmNjkwNTAwMDJiOTJkYzM5NzU3ZTBlNTdlOWZmNTQ0MDRhZmYxZGZh`

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 370842,
+  "2024-02-29": 370877,
   "date_first_scraped": "2023-06-18",
   "description": "The best new songs of the week! Cover: SZA",
   "name": "New Music Friday AU & NZ",
@@ -4773,7 +4773,7 @@
     {
       "album": {
         "name": "Base Camp",
-        "url": "https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW"
+        "url": "https://open.spotify.com/album/1loJf0FyJdDjEFJOXogibf"
       },
       "artists": [
         {
@@ -4784,6 +4784,24 @@
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205107,
+      "name": "Base Camp",
+      "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
+    },
+    {
+      "album": {
+        "name": "Base Camp",
+        "url": "https://open.spotify.com/album/4QHGt5T24uGsdkKKZkCJBW"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-28",
       "duration_ms": 205107,
       "name": "Base Camp",
       "url": "https://open.spotify.com/track/2WBfc3SIFy7NwVxGyd7xyi"

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9389,
+  "num_followers": 9388,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5",
+  "snapshot_id": "MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 225280,
       "name": "See you ! (Feat. SOLE) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Primary And The Messengers LP",
-        "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "poison (Feat. E-Sens Of Supreme Team)",
-      "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "HELLP",
         "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 206625,
       "name": "HELLP",
       "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Primary And The Messengers LP",
+        "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 235311,
+      "name": "poison (Feat. E-Sens Of Supreme Team)",
+      "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
     },
     {
       "added_at": "2024-01-08 08:25:31",

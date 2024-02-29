@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 376360,
+  "num_followers": 376372,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4",
+  "snapshot_id": "MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Chewing Cotton Wool",
+        "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
+        {
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 284578,
+      "name": "Dionne (feat. Justin Vernon)",
+      "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Chewing Cotton Wool",
-        "url": "https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        },
-        {
-          "name": "Justin Vernon",
-          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 284578,
-      "name": "Dionne (feat. Justin Vernon)",
-      "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Boy in Jeans",
+        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 216003,
+      "name": "Haircut",
+      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 224253,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Boy in Jeans",
-        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 216003,
-      "name": "Haircut",
-      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
-      },
-      "artists": [
-        {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Artifice",
-      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Roses & Revolutions",
         "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 187466,
       "name": "The Pines",
       "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Artifice",
+      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Black Rain",
-        "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Concrete",
         "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 152051,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Black Rain",
+        "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "ACT ONE (The Complete Collection)",
         "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 212773,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+      },
+      "artists": [
+        {
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 166469,
       "name": "6 Letters",
       "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 213936,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
     },
     {
       "added_at": "2023-01-11 21:01:15",

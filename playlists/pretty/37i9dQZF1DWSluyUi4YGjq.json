@@ -1,12 +1,12 @@
 {
   "description": "The state of shoegaze, featuring over 20 new tracks added by flyingfish. ",
-  "num_followers": 146241,
+  "num_followers": 146453,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDA1YWJlNzVkMjA0NDRmNTczZDRjZTRmYTE3OGZlNjY3MjVkN2Ew",
+  "snapshot_id": "MCxkNDQ0NzQ2YjNlZjM5NDZjZDVjM2FhODUxNzk2Yzk5YTlhZTFiOTNh",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 160885,
       "name": "kmart amen break",
       "url": "https://open.spotify.com/track/5ZmZfrXm35ak5SYvO9kAKk"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/1HIveUNEv7aJyEm5o7M21I"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "crasher",
-      "url": "https://open.spotify.com/track/0UOpOVhx9iZLxxxPYc4yYS"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -107,22 +91,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Census Designated",
-        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 294375,
-      "name": "Fling",
-      "url": "https://open.spotify.com/track/5OgP6Zv96nGHTiqGomqWSt"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Feels Like You",
         "url": "https://open.spotify.com/album/1fyZK4ivI8xZCOdOuOgPa7"
       },
@@ -137,20 +105,20 @@
       "url": "https://open.spotify.com/track/7DA0Lh82cOmd9Bt2uVxn1F"
     },
     {
-      "added_at": "2024-02-16 17:30:30",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Brown Paper Bag",
-        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
+        "name": "Census Designated",
+        "url": "https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Brown Paper Bag",
-      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+      "duration_ms": 294375,
+      "name": "Fling",
+      "url": "https://open.spotify.com/track/5OgP6Zv96nGHTiqGomqWSt"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -201,22 +169,6 @@
       "url": "https://open.spotify.com/track/4R6KQd4LPht1GQauuZACcM"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Starflyer 59",
-        "url": "https://open.spotify.com/album/7eTETj3EROBg3aGhulEuwk"
-      },
-      "artists": [
-        {
-          "name": "Starflyer 59",
-          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Second Space Song",
-      "url": "https://open.spotify.com/track/3ivkORJmP12B3fxXkDszyY"
-    },
-    {
       "added_at": "2024-02-09 00:10:45",
       "album": {
         "name": "Pools of Colour",
@@ -247,6 +199,230 @@
       "duration_ms": 288271,
       "name": "\ub2f9\uc2e0\uc758 \uc0ac\ub791\uc774 \ub298 \ud589\ubcf5\ud558\uae30\ub97c Paradox",
       "url": "https://open.spotify.com/track/7zh8Zt10egvcibYGR9VaVa"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/1HIveUNEv7aJyEm5o7M21I"
+      },
+      "artists": [
+        {
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "crasher",
+      "url": "https://open.spotify.com/track/0UOpOVhx9iZLxxxPYc4yYS"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 260458,
+      "name": "April Ha Ha",
+      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Swell",
+        "url": "https://open.spotify.com/album/0xhlx3Ajj7l3ihguKe5zys"
+      },
+      "artists": [
+        {
+          "name": "Animal Ghosts",
+          "url": "https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU"
+        }
+      ],
+      "duration_ms": 250140,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/63gll6vcJRkW7ZeBsvT8wq"
+    },
+    {
+      "added_at": "2023-08-11 16:31:35",
+      "album": {
+        "name": "Splendor",
+        "url": "https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To"
+      },
+      "artists": [
+        {
+          "name": "Glixen",
+          "url": "https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj"
+        }
+      ],
+      "duration_ms": 253336,
+      "name": "Splendor",
+      "url": "https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "After the Night (Live)",
+        "url": "https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "duration_ms": 330421,
+      "name": "\uc544\ub984\ub2e4\uc6b4 \uc138\uc0c1 Beautiful World - Live",
+      "url": "https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa"
+    },
+    {
+      "added_at": "2024-02-13 19:59:35",
+      "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+    },
+    {
+      "added_at": "2024-01-12 17:24:07",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 241638,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
+    },
+    {
+      "added_at": "2024-02-09 00:10:45",
+      "album": {
+        "name": "Pile Of Photos",
+        "url": "https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 139778,
+      "name": "Pile Of Photos",
+      "url": "https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "After the Night (Live)",
+        "url": "https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "duration_ms": 349542,
+      "name": "I Can Feel My Heart Touching You - Live",
+      "url": "https://open.spotify.com/track/6oiIv1jvUesYz9O7sH2qoO"
+    },
+    {
+      "added_at": "2024-01-12 17:24:07",
+      "album": {
+        "name": "release the pain from your <3 pt. 1",
+        "url": "https://open.spotify.com/album/7yelksZdUlIOF6hxHcu1Fv"
+      },
+      "artists": [
+        {
+          "name": "Mons Vi",
+          "url": "https://open.spotify.com/artist/5W5qK44etRPdYVC1YkfUfW"
+        }
+      ],
+      "duration_ms": 167323,
+      "name": "in my fantasy",
+      "url": "https://open.spotify.com/track/4DF5TcXLWn0HF5YqLLiibG"
+    },
+    {
+      "added_at": "2024-01-24 18:15:05",
+      "album": {
+        "name": "See you soon",
+        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "See you soon",
+      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
+    },
+    {
+      "added_at": "2024-02-16 17:30:30",
+      "album": {
+        "name": "Brown Paper Bag",
+        "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Brown Paper Bag",
+      "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Starflyer 59",
+        "url": "https://open.spotify.com/album/7eTETj3EROBg3aGhulEuwk"
+      },
+      "artists": [
+        {
+          "name": "Starflyer 59",
+          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Second Space Song",
+      "url": "https://open.spotify.com/track/3ivkORJmP12B3fxXkDszyY"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/1HIveUNEv7aJyEm5o7M21I"
+      },
+      "artists": [
+        {
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "bottlerocket",
+      "url": "https://open.spotify.com/track/2kNcfAL3AdkHFDmFlfE09f"
     },
     {
       "added_at": "2023-09-29 15:11:53",
@@ -331,102 +507,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "April Ha Ha",
-      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Swell",
-        "url": "https://open.spotify.com/album/0xhlx3Ajj7l3ihguKe5zys"
-      },
-      "artists": [
-        {
-          "name": "Animal Ghosts",
-          "url": "https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU"
-        }
-      ],
-      "duration_ms": 250140,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/63gll6vcJRkW7ZeBsvT8wq"
-    },
-    {
-      "added_at": "2023-08-11 16:31:35",
-      "album": {
-        "name": "Splendor",
-        "url": "https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To"
-      },
-      "artists": [
-        {
-          "name": "Glixen",
-          "url": "https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj"
-        }
-      ],
-      "duration_ms": 253336,
-      "name": "Splendor",
-      "url": "https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/1HIveUNEv7aJyEm5o7M21I"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "bottlerocket",
-      "url": "https://open.spotify.com/track/2kNcfAL3AdkHFDmFlfE09f"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "After the Night (Live)",
-        "url": "https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E"
-      },
-      "artists": [
-        {
-          "name": "Parannoul",
-          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
-        }
-      ],
-      "duration_ms": 349542,
-      "name": "I Can Feel My Heart Touching You - Live",
-      "url": "https://open.spotify.com/track/6oiIv1jvUesYz9O7sH2qoO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "After the Night (Live)",
-        "url": "https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E"
-      },
-      "artists": [
-        {
-          "name": "Parannoul",
-          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
-        }
-      ],
-      "duration_ms": 330421,
-      "name": "\uc544\ub984\ub2e4\uc6b4 \uc138\uc0c1 Beautiful World - Live",
-      "url": "https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/23UR2sUptNq8NCxFn48SSC"
       },
@@ -439,54 +519,6 @@
       "duration_ms": 339026,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0MEQqzFNvcfAuxLTZ6gxDe"
-    },
-    {
-      "added_at": "2024-02-13 19:59:35",
-      "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
-    },
-    {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 241638,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
-    },
-    {
-      "added_at": "2024-02-09 00:10:45",
-      "album": {
-        "name": "Pile Of Photos",
-        "url": "https://open.spotify.com/album/0A6aML1dOp5wjyTlGN54hg"
-      },
-      "artists": [
-        {
-          "name": "Dogs on Shady Lane",
-          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
-        }
-      ],
-      "duration_ms": 139778,
-      "name": "Pile Of Photos",
-      "url": "https://open.spotify.com/track/5HhovxxCSuL3nvIA0w6clY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -503,38 +535,6 @@
       "duration_ms": 217714,
       "name": "Here, Together",
       "url": "https://open.spotify.com/track/0dI51Bofvlbr8GFVPYUoBG"
-    },
-    {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "release the pain from your <3 pt. 1",
-        "url": "https://open.spotify.com/album/7yelksZdUlIOF6hxHcu1Fv"
-      },
-      "artists": [
-        {
-          "name": "Mons Vi",
-          "url": "https://open.spotify.com/artist/5W5qK44etRPdYVC1YkfUfW"
-        }
-      ],
-      "duration_ms": 167323,
-      "name": "in my fantasy",
-      "url": "https://open.spotify.com/track/4DF5TcXLWn0HF5YqLLiibG"
-    },
-    {
-      "added_at": "2024-01-24 18:15:05",
-      "album": {
-        "name": "See you soon",
-        "url": "https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "See you soon",
-      "url": "https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD"
     },
     {
       "added_at": "2024-02-13 19:59:35",
@@ -748,7 +748,7 @@
       "added_at": "2024-01-12 17:24:07",
       "album": {
         "name": "ur all starz",
-        "url": "https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl"
+        "url": "https://open.spotify.com/album/6VwBKOJnv52tfaiEaBNkMv"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG"
         }
       ],
-      "duration_ms": 160052,
+      "duration_ms": 160000,
       "name": "ur all starz",
-      "url": "https://open.spotify.com/track/6wJw7aNIAk6e5mkkE88dI3"
+      "url": "https://open.spotify.com/track/1M5hKO5jWlSp74pVNLsB5a"
     },
     {
       "added_at": "2023-11-10 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,706 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,710 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 48 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 |
 | 49 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 |
 | 50 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
-| 51 | [Lucky](https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ) | 3:15 |
+| 51 | [Lucky](https://open.spotify.com/track/32YmibBYYxWnQkPAXGbQ41) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/2G1q0FUPpre4mPpNFwwMBe) | 3:15 |
 | 52 | [Give Me the High \- Moods Remix](https://open.spotify.com/track/6t1bCWuoqHgGiokgOZBd2t) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Give Me the High \(Moods Remix\)](https://open.spotify.com/album/2KOzCOjBtnssMr0bYPgwgt) | 3:48 |
 | 53 | [A dónde vayas](https://open.spotify.com/track/6JUXZxPk6gKK5xbwhkgpAE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [A dónde vayas](https://open.spotify.com/album/1XXSwx8vAwyztEwPzUjsnE) | 2:46 |
 | 54 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 59 | [It Must Have Been The Devil](https://open.spotify.com/track/5zYXy39HoFAA3D3yM6sLVq) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Must Have Been The Devil](https://open.spotify.com/album/6rA2DOWBPWxTzSg4R9K9zt) | 3:52 |
 | 60 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 
-Snapshot ID: `MCw4Mzk3YmNlYjI3NmE2YzJhYzk4NzljNDlhNDdkZmZkNWE3OTNhZjZk`
+Snapshot ID: `MCw4ZmJlODllZGFhNWVjZTNlNTY2MWZlZTQ1NjRiZmUzM2E0YTc1NDc1`

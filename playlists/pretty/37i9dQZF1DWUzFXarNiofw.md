@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SiR and Isaiah Rashad
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,941 likes - 170 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,060 likes - 170 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 169 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 170 | [Wish You Wouldn't](https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Wish You Wouldn't](https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD) | 3:17 |
 
-Snapshot ID: `MCxlMTliMjg0MDczOTg3OTA0MjYyZTNjMTNmYTEzNjY2OTc4NTc3Y2Iy`
+Snapshot ID: `MCw0MTZiYzdiMGYxNjI4MjAxMDcwOTIyZjlmMzY5NTFiNTJmMjRkNTAz`

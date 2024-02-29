@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,457 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,468 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 |
 | 50 | [Tombé du ciel](https://open.spotify.com/track/4uur0nZJPXC1PZIbmof6Ym) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tombé du ciel](https://open.spotify.com/album/0Rx6ZyEPT9SvoitKf6h7Fu) | 3:49 |
 
-Snapshot ID: `MCxiMzlkMmRlNWZjMDNhYjhkODVlYjRmY2ViMzQ4ZDEzZjRmNWVhMmVk`
+Snapshot ID: `MCxjMjFkNmRkZmFhYWM1MDY1Zjg3NTE4ZjBiOTI5NzNhMWJlZTIyZmZi`

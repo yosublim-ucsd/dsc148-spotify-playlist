@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Djodje.  ",
-  "num_followers": 195526,
+  "num_followers": 195594,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjFlOGIyNjk1OWJjNzUxMWJkMjEzZDIzZTY2ZDc0ZjVkNjc5ZmUx",
+  "snapshot_id": "MCw0MTFiYzQ4ZDUwYzViNTIzMzZjZjhhMzg4NWNjM2ZlYWJjYzZiN2Q3",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Se Eu Pudesse",
+        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 196567,
+      "name": "Se Eu Pudesse",
+      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Bem Li",
         "url": "https://open.spotify.com/album/0O6l4KIuMLNziHEqrTplRf"
       },
@@ -975,22 +995,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
       "artists": [
         {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Monarquia",
         "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 202032,
       "name": "Monarquia",
       "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 202312,
-      "name": "Na Bo Mon",
-      "url": "https://open.spotify.com/track/4wcFq3XXef7obINYynQ5mL"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "J\u00e1 N\u00e3o Sei",
         "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 261115,
       "name": "J\u00e1 N\u00e3o Sei",
       "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 202312,
+      "name": "Na Bo Mon",
+      "url": "https://open.spotify.com/track/4wcFq3XXef7obINYynQ5mL"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "TROMPETE",
-        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/0Wu7EvHRSspzoQlD5d0RIS"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
         },
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
         }
       ],
-      "duration_ms": 257137,
-      "name": "TROMPETE",
-      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
+      "duration_ms": 207157,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/4nqJ8iwqwbvvuVWuas7lXQ"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1535,22 +1535,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/0Wu7EvHRSspzoQlD5d0RIS"
+        "name": "TROMPETE",
+        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
       "artists": [
         {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         },
         {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
         }
       ],
-      "duration_ms": 207157,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/4nqJ8iwqwbvvuVWuas7lXQ"
+      "duration_ms": 257137,
+      "name": "TROMPETE",
+      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Espera Por Mim",
+        "url": "https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 216540,
+      "name": "Espera Por Mim",
+      "url": "https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Mais de Mim",
         "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
       },
@@ -1735,26 +1751,6 @@
       "duration_ms": 279299,
       "name": "Preparado",
       "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2024-02-23 00:00:00",

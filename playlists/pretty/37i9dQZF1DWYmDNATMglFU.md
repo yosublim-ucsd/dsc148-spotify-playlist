@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. THE DRIVER ERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,294 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,165 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 38 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 |
 | 39 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 |
 | 40 | [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 |
-| 41 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
+| 41 | [Not The 1975](https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9) | 3:18 |
 | 42 | [umakemenotwannadie](https://open.spotify.com/track/5RlJOw0OQ3papYLfMeJFF0) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [umakemenotwannadie](https://open.spotify.com/album/1xV8htCjUIU8SeVD3mtd63) | 2:47 |
 | 43 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 |
 | 44 | [Divine](https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Divine](https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [3am](https://open.spotify.com/track/3xIux1ZElfdLkTEDUTnk2K) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [3am](https://open.spotify.com/album/7mZK9wCykimMtEssDlhpZ7) | 3:02 |
 | 80 | [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 |
 
-Snapshot ID: `MCw1NjY1OTgyMTUzN2Y1YmU0NDA1YmY4MmUxNzUyYTBlOGZjZGJkYzVi`
+Snapshot ID: `MCxlNDNmNTJiOTViMGFkMWU5ZmMwN2RjYzRmZDM4YTU3Y2Q0YzIwMTUy`

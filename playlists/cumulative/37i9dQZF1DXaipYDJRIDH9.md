@@ -4,7 +4,7 @@
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-107 songs - 4 hr 31 min
+108 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,13 +79,14 @@
 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2024-01-09 |  |
 | [Relief](https://open.spotify.com/track/21Z5allNDVFrsznZvpdIl0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Relief](https://open.spotify.com/album/1COrB0wOkh7xmX4DLAJYiQ) | 2:38 | 2024-01-09 |  |
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2024-01-09 |  |
+| [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 | 2024-02-27 |  |
 | [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 | 2024-01-09 |  |
 | [Ripples of Moonlight](https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Ripples of Moonlight](https://open.spotify.com/album/3Kwj5lCmfovJVt9qjVT6VY) | 2:11 | 2024-01-09 |  |
 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2024-01-09 |  |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2024-01-09 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2024-01-09 |  |
 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2024-01-09 | 2024-02-27 |
-| [Secrets of the Earth](https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:24 | 2024-01-09 |  |
+| [Secrets of the Earth](https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:24 | 2024-01-09 | 2024-02-29 |
 | [Silver Lining](https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Silver Lining](https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE) | 2:36 | 2024-01-09 |  |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2024-01-09 |  |
 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |

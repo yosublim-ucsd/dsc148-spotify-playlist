@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 1,
+  "2024-02-29": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -10525,6 +10525,24 @@
       "duration_ms": 44094,
       "name": "where u at?",
       "url": "https://open.spotify.com/track/0UULVQXjgFPOttIW5qF7Ak"
+    },
+    {
+      "album": {
+        "name": "Where we've been, Where we go from here",
+        "url": "https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315633,
+      "name": "Where We've Been",
+      "url": "https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP"
     },
     {
       "album": {

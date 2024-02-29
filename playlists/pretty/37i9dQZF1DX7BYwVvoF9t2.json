@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A mover el bote con este mix guapachoso!",
-  "num_followers": 115590,
+  "num_followers": 115598,
   "original_name": "Salsacumbiando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNkZDJiY2NmMjY5MTNkMzllYWRiMDhjNmRlMjlhNmRkMzdjMTdh",
+  "snapshot_id": "MCw0NmMxYWExYmE5NzVhMDNkMWI0YWFmYWU4MjU2NTQwYmNhYmI3N2Q1",
   "tracks": [
     {
       "added_at": "2023-12-15 18:39:07",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 199266,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 234140,
       "name": "Nuestra Historia Termino",
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 269231,
-      "name": "Se\u00f1or Mentira",
-      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
         "name": "Amor de Locos",
         "url": "https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 288333,
       "name": "Pa Que Me Llames",
       "url": "https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 269231,
+      "name": "Se\u00f1or Mentira",
+      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
-        "name": "Adi\u00f3s Amor",
-        "url": "https://open.spotify.com/album/2xusGJapa7Sd0s05R4vF5R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 267891,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
         "name": "30 Exitos de Oro 30, Vol. 1",
         "url": "https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 247627,
       "name": "Cumbia Del Chavito Medio Metro",
       "url": "https://open.spotify.com/track/0fmA5PobE7ipHpYC58JwF7"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
+        "name": "Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/2xusGJapa7Sd0s05R4vF5R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 267891,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm"
     },
     {
       "added_at": "2023-12-15 18:39:07",

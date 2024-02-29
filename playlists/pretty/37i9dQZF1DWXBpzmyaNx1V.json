@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39654,
+  "num_followers": 39645,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDRhYmY5NDZmNmVkN2E1ZTJmNmE3MzdhN2RmNTBkZTIwZTdlZTAw",
+  "snapshot_id": "MCw5NWRjYzdjNzgyYzBiODNlM2ZlNTUwNDk5ZTk2Nzc5ZGI0NTZlM2Q5",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -359,30 +359,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "We Buy Diabetic Test Strips",
-        "url": "https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh"
+        "name": "The Agent Intellect",
+        "url": "https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V"
       },
       "artists": [
         {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "E L U C I D",
-          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
         }
       ],
-      "duration_ms": 180772,
-      "name": "The Gods Must Be Crazy",
-      "url": "https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3"
+      "duration_ms": 271386,
+      "name": "Pontiac 87",
+      "url": "https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -399,22 +387,6 @@
       "duration_ms": 175504,
       "name": "let u in",
       "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "The Agent Intellect",
-        "url": "https://open.spotify.com/album/7wMrFduh4Gyqq3EeeOJL0V"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 271386,
-      "name": "Pontiac 87",
-      "url": "https://open.spotify.com/track/0x5ubEsolBMOj4Hv7Z5iC9"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -487,6 +459,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Take Me Apart",
+        "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 242829,
+      "name": "Take Me Apart",
+      "url": "https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
@@ -507,22 +495,6 @@
       "duration_ms": 176460,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/2l4VRzLQkfjdo4CGL9sh2V"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Take Me Apart",
-        "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 242829,
-      "name": "Take Me Apart",
-      "url": "https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -707,6 +679,34 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "The Gods Must Be Crazy",
+        "url": "https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 180772,
+      "name": "The Gods Must Be Crazy",
+      "url": "https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
       },
@@ -719,38 +719,6 @@
       "duration_ms": 297093,
       "name": "Shape",
       "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -771,18 +739,34 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Nostalgia del Futuro",
-        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
+        "name": "Paper Dolls",
+        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
       },
       "artists": [
         {
-          "name": "NOIA",
-          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
         }
       ],
-      "duration_ms": 205224,
-      "name": "Nostalgia del Futuro",
-      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
+      "duration_ms": 120600,
+      "name": "Hello Tarantino",
+      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Paper Dolls",
-        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 120600,
-      "name": "Hello Tarantino",
-      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Nostalgia del Futuro",
+        "url": "https://open.spotify.com/album/0iCu3vERrSz3pkd8dHOBSu"
+      },
+      "artists": [
+        {
+          "name": "NOIA",
+          "url": "https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA"
+        }
+      ],
+      "duration_ms": 205224,
+      "name": "Nostalgia del Futuro",
+      "url": "https://open.spotify.com/track/6x5MEJBkg9YZqqdmzr10mZ"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Relatives In Descent",
         "url": "https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "La Vida De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "duration_ms": 297910,
+      "name": "Wako",
+      "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7"
       },
@@ -899,34 +915,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "i/O",
-        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
+        "name": "Il Visore Lunatique",
+        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
       },
       "artists": [
         {
-          "name": "Mengers",
-          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
         }
       ],
-      "duration_ms": 195037,
-      "name": "i/O",
-      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "La Vida De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm"
-      },
-      "artists": [
-        {
-          "name": "Diles que no me maten",
-          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
-        }
-      ],
-      "duration_ms": 297910,
-      "name": "Wako",
-      "url": "https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s"
+      "duration_ms": 186693,
+      "name": "The Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Il Visore Lunatique",
-        "url": "https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ"
+        "name": "i/O",
+        "url": "https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70"
       },
       "artists": [
         {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
         }
       ],
-      "duration_ms": 186693,
-      "name": "The Peter Pan Syndrome",
-      "url": "https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR"
+      "duration_ms": 195037,
+      "name": "i/O",
+      "url": "https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -979,22 +979,6 @@
       "duration_ms": 181203,
       "name": "Itaca Tropical",
       "url": "https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "GOLLY",
-        "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
-      },
-      "artists": [
-        {
-          "name": "Mengers",
-          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
-        }
-      ],
-      "duration_ms": 86698,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Ahora Veo M\u00e1s Claro",
+        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
+      },
+      "artists": [
+        {
+          "name": "Vyctoria",
+          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
+        }
+      ],
+      "duration_ms": 294056,
+      "name": "Ascenso - Descenso",
+      "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "gisela",
         "url": "https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Ahora Veo M\u00e1s Claro",
-        "url": "https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD"
+        "name": "GOLLY",
+        "url": "https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3"
       },
       "artists": [
         {
-          "name": "Vyctoria",
-          "url": "https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW"
+          "name": "Mengers",
+          "url": "https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n"
         }
       ],
-      "duration_ms": 294056,
-      "name": "Ascenso - Descenso",
-      "url": "https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR"
+      "duration_ms": 86698,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE"
     },
     {
       "added_at": "2024-02-16 18:40:38",

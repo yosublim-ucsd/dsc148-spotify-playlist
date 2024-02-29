@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,697 songs - 1 day 11 hr 22 min
+1,698 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Blue November](https://open.spotify.com/track/7Dp3NkWyn3sH61D4cBEySR) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Blue Waves](https://open.spotify.com/track/2EVPqaEWpr3XrAm2b4eDDw) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:27 | 2022-01-20 |  |
 | [Bonds](https://open.spotify.com/track/72JBytoM9NtMcmpwdJK3PV) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Bonds](https://open.spotify.com/album/7Iqj5fg0T1pMtI8h5G4Agt) | 1:00 | 2024-02-21 |  |
+| [Bonds \- Cello Version](https://open.spotify.com/track/4byXSP3ajtN8MNqgo8Cd3O) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Bonds \(Cello Version\)](https://open.spotify.com/album/1VEg5ZCrVsuhhTymFbBe3a) | 1:00 | 2024-02-28 |  |
 | [Bowing](https://open.spotify.com/track/6Pumm4keZ0o0PrwfT1G3u3) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rising Light](https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be) | 1:06 | 2022-04-30 |  |
 | [Brahms Lullaby For Cello Reimagined](https://open.spotify.com/track/6GGVeH8uQVj1UassCLLzZe) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:18 | 2022-01-20 | 2024-01-30 |
 | [Branches](https://open.spotify.com/track/7Csfs76fwDONo8OlA2a8Iy) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |

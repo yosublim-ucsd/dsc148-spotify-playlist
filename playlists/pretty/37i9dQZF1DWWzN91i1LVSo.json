@@ -1,12 +1,12 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 124092,
+  "num_followers": 124095,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTczNWNjYjRhNWVlZGU2MDA3MzA4ZjY0OTE3ZGRjMDY3MjA5NGVl",
+  "snapshot_id": "MCw3N2YzMWIzNDlmNzQzNmVhNmVhNzM3ZjBiNWIyMzlhMWJhNGIyMmU4",
   "tracks": [
     {
       "added_at": "2024-02-23 16:54:41",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Don't Fade",
-      "url": "https://open.spotify.com/track/1Dgcy5t2hwVGWqvbMJr88F"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Don't Fade",
+      "url": "https://open.spotify.com/track/1Dgcy5t2hwVGWqvbMJr88F"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Volume I",
         "url": "https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "willow",
         "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1131,22 +1147,6 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 256980,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
-      },
-      "artists": [
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
-        },
-        {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
-        }
-      ],
-      "duration_ms": 154124,
-      "name": "Perfect Stranger",
-      "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/3X06VUjGsF0QAOPXercS7L"
       },
@@ -1455,18 +1435,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Just Yet",
-        "url": "https://open.spotify.com/album/74Y0oxEAALKC2zARRBREAI"
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
       },
       "artists": [
         {
-          "name": "BIZZY",
-          "url": "https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk"
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        },
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
         }
       ],
-      "duration_ms": 203769,
-      "name": "Just Yet",
-      "url": "https://open.spotify.com/track/62mXJsL3y9QUJnIuRzdaNT"
+      "duration_ms": 154124,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1491,6 +1475,22 @@
       "duration_ms": 287186,
       "name": "Low Rising",
       "url": "https://open.spotify.com/track/3JCmCB7e1dazCO2hTEHL6a"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Just Yet",
+        "url": "https://open.spotify.com/album/74Y0oxEAALKC2zARRBREAI"
+      },
+      "artists": [
+        {
+          "name": "BIZZY",
+          "url": "https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk"
+        }
+      ],
+      "duration_ms": 203769,
+      "name": "Just Yet",
+      "url": "https://open.spotify.com/track/62mXJsL3y9QUJnIuRzdaNT"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "IOWA",
-        "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
+        "name": "Celebrity Lookalikes",
+        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 275170,
-      "name": "IOWA",
-      "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
+      "duration_ms": 212458,
+      "name": "Celebrity Lookalikes",
+      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

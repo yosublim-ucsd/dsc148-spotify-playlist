@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-318 songs - 1 day 6 hr 4 min
+319 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-08 | 2023-01-20 |
 | [Just a Door](https://open.spotify.com/track/2Ki8mSsLlGpKAHYEMNniwO) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Just a Door](https://open.spotify.com/album/0TNWti16203ZKvaHFVgnc7) | 3:08 | 2023-07-28 | 2023-08-04 |
 | [Just Like You've Always Done](https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Just Like You've Always Done](https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp) | 3:32 | 2023-12-15 | 2024-02-25 |
-| [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-30 |  |
+| [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-30 | 2024-02-29 |
 | [Kelerem chimo](https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 7:15 | 2023-07-28 | 2023-09-18 |
 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 | 2022-06-30 | 2023-04-17 |
 | [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2023-06-23 |  |
@@ -200,6 +200,7 @@
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-06-29 |
 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 | 2022-06-30 | 2023-09-01 |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-01-19 |  |
+| [New Heart](https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [New Heart](https://open.spotify.com/album/3c2ryFUaPcq9Gr1cZtKR6Z) | 3:22 | 2024-02-16 |  |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 | 2023-11-14 |
 | [Nhyira](https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [His Word](https://open.spotify.com/album/7k9GFfqeimzOkgR2nNYXlB) | 4:08 | 2022-06-30 | 2023-03-30 |
 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 | 2022-06-30 | 2023-01-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=SjvNJWYbT-KTxeInoXu7kg\">Ebuka Songs</a>",
-  "num_followers": 6487,
+  "num_followers": 6547,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDVmYzgwOTEzYWIyZWM4YjlkMWNhOTZiZjAxNWIxY2NkNDJlZjk4",
+  "snapshot_id": "MCxkZTFlNjg0MzQ4NzBjZGQ1MTkwNjM2MTViY2I4MDU4MjFjNTQ1Y2Iy",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Faith is Rising",
-        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "You are Yahweh",
-      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
-    },
-    {
       "added_at": "2024-02-09 00:01:00",
       "album": {
         "name": "These Are The Days (feat. Blessing Offor)",
@@ -399,6 +383,22 @@
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Faith is Rising",
+        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "You are Yahweh",
+      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Adonai",
-        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
+        "name": "I will pray",
+        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
       },
       "artists": [
         {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
         }
       ],
-      "duration_ms": 249443,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
+      "duration_ms": 170631,
+      "name": "I will pray",
+      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "I will pray",
-        "url": "https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ"
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
         }
       ],
-      "duration_ms": 170631,
-      "name": "I will pray",
-      "url": "https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv"
+      "duration_ms": 249443,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -981,20 +981,24 @@
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Pain To Praise",
-        "url": "https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH"
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
       "artists": [
         {
-          "name": "Nsikan Louis",
-          "url": "https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B"
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Pain To Praise",
-      "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
     }
   ],
   "unique_name": "Redeemed",

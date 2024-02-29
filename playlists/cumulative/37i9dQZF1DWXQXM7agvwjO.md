@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: flu \(Phillipines\)
 
-1,177 songs - 2 day 22 hr 44 min
+1,178 songs - 2 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [ID](https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3v1UEzXlDSSkrcqSAd6GiI) | 4:41 | 2022-12-15 | 2023-01-20 |
 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 | 2023-10-05 | 2023-10-27 |
 | [If I Ever Go Away](https://open.spotify.com/track/3soTRoS8K689R4iboMB9Iw) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Quo Vadis, SORE?](https://open.spotify.com/album/53TkUEJhzjqYY6ljR3XoKS) | 4:58 | 2023-02-09 | 2023-03-25 |
-| [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2023-09-21 |  |
+| [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2023-09-21 | 2024-02-29 |
 | [If Only](https://open.spotify.com/track/408zWjjulyoRLOjkJAJuNn) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [If Only](https://open.spotify.com/album/7LftLjfpAl3ifSeJv2UJTA) | 4:54 | 2023-09-15 | 2023-09-22 |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-23 | 2022-08-12 |
 | [Impossible Isle](https://open.spotify.com/track/6Vehur5lQnlJrEV6lAO0AA) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 3:58 | 2022-08-11 | 2022-09-30 |
@@ -580,6 +580,7 @@
 | [love song](https://open.spotify.com/track/5hleMxYlPLHEAoSLcfzKAh) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [what’s the name of this EP](https://open.spotify.com/album/3IkpFYAIck2VrAdkRfa9nx) | 3:52 | 2022-03-24 | 2022-04-15 |
 | [Love Song](https://open.spotify.com/track/24GzZhuO5eYkG2lypqtoe9) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Not Sad, Not Fulfilled](https://open.spotify.com/album/4Jj27HCjq09sBa68bDgg7I) | 2:05 | 2023-04-20 | 2023-11-24 |
 | [Love U Better](https://open.spotify.com/track/6zfflHTdO4oiv5Jqu3vlqb) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Pretty Lies](https://open.spotify.com/album/29JfQqsFokEwm4sMvjAHZ0) | 2:31 | 2022-03-24 | 2022-05-07 |
+| [love you soul <3](https://open.spotify.com/track/1Ch4Uwouu50i3hExy8EvTN) | [minisoul](https://open.spotify.com/artist/7quyOUEWaBIlVop7ODr3OK) | [minisoul \#1](https://open.spotify.com/album/5rnLcuibCnG3ZYNHytbn68) | 2:22 | 2024-02-28 |  |
 | [Lovebites](https://open.spotify.com/track/7EpfSyVW7rADdAj9mG7lbV) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 5:40 | 2022-05-12 | 2022-05-27 |
 | [Lovebites \- Tamio Sakuma Remix](https://open.spotify.com/track/1PE0cRc1m8z3k24pd24LXD) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Tamio Sakuma](https://open.spotify.com/artist/6thMychOI4hNx5UlChbzUt) | [Lovebites \(Tamio Sakuma Remix\)](https://open.spotify.com/album/54yX0P1hbzOCuqXnYSIfvU) | 4:27 | 2023-09-07 | 2023-09-22 |
 | [Loveyou!](https://open.spotify.com/track/6BVnb4BxB3tDMe19NzmY6o) | [marine](https://open.spotify.com/artist/3jdg21y5MPwERt8YLMehGp) | [Loveyou!](https://open.spotify.com/album/51nE6CxDXoAo9GeGSsC6Qa) | 3:21 | 2022-09-01 | 2022-10-07 |

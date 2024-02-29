@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Wallows
 
-1,777 songs - 3 day 21 hr 41 min
+1,778 songs - 3 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
-| [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-02-28 |
+| [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 |  |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
 | [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 | 2022-11-12 |
@@ -959,7 +959,7 @@
 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-08-14 | 2023-10-01 |
 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 | 2022-11-07 | 2023-09-30 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-02-25 | 2021-05-28 |
-| [Losing You](https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Losing You](https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ) | 2:42 | 2024-02-16 |  |
+| [Losing You](https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Losing You](https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ) | 2:42 | 2024-02-16 | 2024-02-29 |
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-18 | 2023-09-30 |
 | [Lost Angeles](https://open.spotify.com/track/3AqGCyuUQuzcRqTMMetjqP) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Lost Angeles](https://open.spotify.com/album/47m4v1Gj5pvcylJlBkWLpJ) | 3:11 | 2020-10-20 | 2020-10-21 |
 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-09-16 | 2022-10-08 |
@@ -1094,6 +1094,7 @@
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 | 2022-03-04 | 2022-07-25 |
 | [Never Fucking Fall in Love Again](https://open.spotify.com/track/2KjjaYuZrYqTyau5doDnW3) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Never Fucking Fall in Love Again](https://open.spotify.com/album/0U6R4LjIiTa81tGQKWTDTd) | 2:21 | 2020-10-20 | 2020-10-21 |
+| [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2024-02-28 |  |
 | [nevermind](https://open.spotify.com/track/6SzMMd1rNtyfj8bAgm2BLw) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [nevermind](https://open.spotify.com/album/7EKuPcaolXbxykekJyQo9K) | 2:56 | 2020-10-20 | 2021-06-03 |
 | [New Age Meds](https://open.spotify.com/track/4FaYk25oNcZClZ6tx5CE8R) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New Age Meds](https://open.spotify.com/album/4QyxAGwZ1rlb58wSY1oRu0) | 3:30 | 2020-10-20 | 2020-10-21 |
 | [New Conditions](https://open.spotify.com/track/2Z0IUEWKySFi40tJtGQNA1) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:07 | 2021-01-18 | 2021-05-26 |
@@ -1192,7 +1193,7 @@
 | [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 | 2023-01-24 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 | 2022-08-06 |
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2020-12-12 | 2021-05-29 |
-| [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 | 2023-10-13 | 2024-02-27 |
+| [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 | 2023-10-13 |  |
 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-07-07 | 2023-09-30 |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-07 | 2023-07-29 |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-09-23 | 2022-10-13 |
@@ -1321,7 +1322,7 @@
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-01-24 |
 | [Rumors](https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Rumors](https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt) | 3:22 | 2023-11-06 |  |
 | [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-27 |  |
-| [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-02-09 |  |
+| [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-02-09 | 2024-02-29 |
 | [Running Around](https://open.spotify.com/track/6Tc9wBnQxETvqUCUZzCf6k) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Running Around](https://open.spotify.com/album/4fRGzIYX6Oeagpi13HKagP) | 3:16 | 2020-10-16 | 2020-10-23 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-07-02 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-22 | 2022-06-11 |
@@ -1469,7 +1470,7 @@
 | [Stay](https://open.spotify.com/track/67py7gDTwqKs5geMfyFsMc) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Stay](https://open.spotify.com/album/4Cj8plZvZdsiKpOfntOpVD) | 3:32 | 2020-10-13\* | 2021-05-25 |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 |  |
 | [Stayaway \- Now, Now Remix](https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Stayaway \(Now, Now Remix\)](https://open.spotify.com/album/5AlYKpAvPaHDXPhKO2g5FV) | 3:19 | 2020-10-16 | 2021-10-12 |
-| [Steep](https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Steep](https://open.spotify.com/album/6a9oFkzTey2Hri3qnq1FVw) | 2:16 | 2024-02-09 |  |
+| [Steep](https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Steep](https://open.spotify.com/album/6a9oFkzTey2Hri3qnq1FVw) | 2:16 | 2024-02-09 | 2024-02-29 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-11-07 |  |
 | [Still Here](https://open.spotify.com/track/5NRFBtaNmTV0F9NaPwhOL2) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Still Here](https://open.spotify.com/album/4rWzxxuZF4Yox7buaxMM6I) | 3:34 | 2021-02-22 | 2021-05-27 |
 | [Still In Love](https://open.spotify.com/track/4nI5nW9MYQ1Sqf9oSotmla) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Still In Love](https://open.spotify.com/album/7ohMD9pTi6zTMLAGlo1Ldy) | 2:57 | 2021-02-22 | 2021-05-26 |

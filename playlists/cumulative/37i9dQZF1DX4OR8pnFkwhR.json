@@ -6440,7 +6440,7 @@
     {
       "album": {
         "name": "IAI",
-        "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
+        "url": "https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo"
       },
       "artists": [
         {
@@ -6451,6 +6451,24 @@
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183666,
+      "name": "IAI",
+      "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
+    },
+    {
+      "album": {
+        "name": "IAI",
+        "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-29",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"

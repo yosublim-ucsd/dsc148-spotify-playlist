@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,627 likes - 69 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,684 likes - 69 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 10 | [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 |
 | 11 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
 | 12 | [さよならより遠いどこかへ](https://open.spotify.com/track/6hsG3pTwhHGo0MaA88bgx8) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [ハロー・グッドバイ \- EP](https://open.spotify.com/album/6s2g4Wz0f21TY7FJF4709H) | 3:39 |
-| 13 | [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 |
+| 13 | [IAI](https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo) | 3:03 |
 | 14 | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 |
 | 15 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 16 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [路地裏ねこみたいに](https://open.spotify.com/track/0N5BGS5uB15Yu3dVMHHE3e) | [原田ねくら](https://open.spotify.com/artist/4qIx6BtpXmDOxKxhpk3JXL) | [路地裏ねこみたいに](https://open.spotify.com/album/73fACwYn5CZxXkRPx8lZdT) | 3:07 |
 | 69 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MCxkMDYyYzM2ZGQ1YmI4MWQyYWViZDQ2ZDc4M2UzZWYyOWU1MTk1OTJk`
+Snapshot ID: `MCwxMGIyNTFmZmYyZGUyOGEwMzBkMTJjNmI3YmQ3OTRjNGExM2JmZmQw`

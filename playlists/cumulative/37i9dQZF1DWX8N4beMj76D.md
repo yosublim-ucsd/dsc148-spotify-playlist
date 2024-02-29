@@ -4,7 +4,7 @@
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-82 songs - 6 hr 7 min
+83 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 | 2018-12-06 |  |
 | [Dance Me to the End of Love \(Bonus\) \- Bonus Track](https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:05 | 2018-12-06 | 2022-07-28 |
 | [Everybody Knows](https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [Taller Children](https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS) | 3:37 | 2018-12-06 | 2023-02-21 |
-| [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 | 2018-12-06 |  |
+| [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 | 2018-12-06 | 2024-02-29 |
 | [Famous Blue Raincoat](https://open.spotify.com/track/1EWkznwDZmrbqc1nOX8B66) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird On The Water](https://open.spotify.com/album/2bZk1KTJIY6LmnQN7QIqF5) | 4:23 | 2018-12-06 | 2022-07-29 |
 | [Famous Blue Raincoat](https://open.spotify.com/track/7tfmLHlqGt3dHvCV6GlJxf) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird on the Water](https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI) | 4:23 | 2018-12-06 |  |
 | [Famous Blue Raincoat](https://open.spotify.com/track/7dU7EHElNeLOCkNnQXQtZs) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 5:37 | 2018-12-06 |  |
@@ -82,6 +82,7 @@
 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 | 2018-12-06 |  |
 | [The Traitor](https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:44 | 2018-12-06 |  |
 | [Tower Of Song](https://open.spotify.com/track/0qPgVf2honwvo1D1y2yAQV) | [Henry Wagons](https://open.spotify.com/artist/3jRsf763TfMHcHVvRhE2TK) | [Tower Of Song](https://open.spotify.com/album/1o9q9Kju40TUi39gcOzHNZ) | 3:33 | 2018-12-06 | 2022-07-29 |
+| [Tower of Song](https://open.spotify.com/track/7kwr5jYEbgw2yf2NAzQSWc) | [Henry Wagons](https://open.spotify.com/artist/3jRsf763TfMHcHVvRhE2TK) | [Tower of Song](https://open.spotify.com/album/2H1XuZINLqrAIFhETlDzKu) | 3:33 | 2018-12-06 |  |
 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 | 2018-12-06 |  |
 | [Waiting for the Miracle](https://open.spotify.com/track/1uLscO7IxLWSBmgLbMObBw) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [Sings Leonard Cohen](https://open.spotify.com/album/2BSbmGjxoMcfJC6RG6gf0B) | 3:55 | 2018-12-06 | 2022-07-29 |
 | [Whither Thou Goest \- Live in London](https://open.spotify.com/track/6SlKJHu86BAm8VYsRaHBu3) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 1:27 | 2018-12-06 | 2022-09-13 |

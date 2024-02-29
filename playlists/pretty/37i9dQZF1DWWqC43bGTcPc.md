@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 韋禮安 \(WeiBird\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,463 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,580 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [样子 \- 电视剧《要久久爱》主题曲](https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [样子 \(电视剧《要久久爱》主题曲\)](https://open.spotify.com/album/10f2wE7uWe8on1ujqTy4o9) | 4:06 |
 | 50 | [夏夜煙火 \- Winter Version](https://open.spotify.com/track/4bYYHLmyriYvCbod1kUU47) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [夏夜煙火 \(Winter Version\)](https://open.spotify.com/album/2W0C6o4GeMTLG130OtCsjh) | 4:24 |
 
-Snapshot ID: `MCwyOGM2MjgzYjMxMjJmM2I5NGYyNjNjMDcyNTQxMzk5NWVkNTEzNGM3`
+Snapshot ID: `MCw3MzllMjczYjU5ZGZlNmU4OTM2ZDgyMzM5YjkyZWQxMTNjZTY4NTdm`

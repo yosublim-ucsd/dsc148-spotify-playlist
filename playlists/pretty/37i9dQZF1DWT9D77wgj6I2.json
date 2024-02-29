@@ -1,12 +1,12 @@
 {
   "description": "Un derroche de sensualidad. Prince Royce, Gabito Ballesteros en portada.",
-  "num_followers": 88793,
+  "num_followers": 88843,
   "original_name": "Bachata Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzM4ZDgxMTg4NWVhN2FlOTBlNTkyOWFhN2FlZTM1ZDA5NTMyNGU4",
+  "snapshot_id": "MCw0ZDBkMGNmODdmMGM3Mjk3ZDBjZDgxOTliNzhlYWM5NTRkODQ4NDk1",
   "tracks": [
     {
       "added_at": "2024-02-13 19:00:15",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-02-13 19:00:15",
       "album": {
-        "name": "Dividimos",
-        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 280916,
-      "name": "Dividimos (Bachata Version)",
-      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
-    },
-    {
-      "added_at": "2024-02-13 19:00:15",
-      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
+    },
+    {
+      "added_at": "2024-02-13 19:00:15",
+      "album": {
+        "name": "Dividimos",
+        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 280916,
+      "name": "Dividimos (Bachata Version)",
+      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
     },
     {
       "added_at": "2024-02-13 19:00:15",

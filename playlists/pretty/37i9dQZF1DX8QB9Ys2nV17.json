@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173889,
+  "num_followers": 173910,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWNkNDdmNjI2OGIwNmU3ZTE5ZTM1ODEyZTEyMjQ2MTI1ZDNkNGI0",
+  "snapshot_id": "MCw2NGZkNjA2NWZjZmU2ZWIxZTQ3ZDAxNWMwZWI3NzhhNmRjZGVlMzUx",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Voodoo in the Shadows",
-        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
-      },
-      "artists": [
-        {
-          "name": "Fiona Boyes",
-          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Party at Red's",
-      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Gonna Hush!",
         "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 138066,
       "name": "Ain't Gonna Hush",
       "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Voodoo in the Shadows",
+        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
+      },
+      "artists": [
+        {
+          "name": "Fiona Boyes",
+          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Party at Red's",
+      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Beautiful Bones",
-        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
-      },
-      "artists": [
-        {
-          "name": "Kelley Hunt",
-          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "Release and Be Free",
-      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 292353,
       "name": "The Best Thing",
       "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Beautiful Bones",
+        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
+      },
+      "artists": [
+        {
+          "name": "Kelley Hunt",
+          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Release and Be Free",
+      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Masters of War",
-        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
     }
   ],
   "unique_name": "EQUAL Blues",

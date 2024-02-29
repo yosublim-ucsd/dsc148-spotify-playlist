@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 187683,
+  "2024-02-29": 187741,
   "date_first_scraped": "2022-05-30",
   "description": "Mantras for meditation",
   "name": "Magical Mantras",
@@ -1564,6 +1564,40 @@
     },
     {
       "album": {
+        "name": "Raghunandana (From \"HanuMan\") [Hindi]",
+        "url": "https://open.spotify.com/album/1sKnPpjhlYSqk2qxmbQHT6"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "Harshavardhan Chavali",
+          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
+        },
+        {
+          "name": "Tripuraneni Kalyanachakravarthy",
+          "url": "https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Raghunandana (From \"HanuMan\") [Hindi]",
+      "url": "https://open.spotify.com/track/3OwMeSa4IU0qd5xfI19xSc"
+    },
+    {
+      "album": {
         "name": "Ram Naam Chanting",
         "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
       },
@@ -1679,7 +1713,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 597000,
       "name": "Resonance Meditation with Omkaar - at 432 Hz",
       "url": "https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM"

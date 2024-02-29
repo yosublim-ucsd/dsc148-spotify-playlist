@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,382 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,385 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 6 | [NERI CHAGI](https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NERI CHAGI](https://open.spotify.com/album/0p7ELsDN4BVx16x0qJshCa) | 2:42 |
 | 7 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 |
 | 8 | [Back and Forth](https://open.spotify.com/track/25eEcgHpDEJYLJeFpKyXt4) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Back and Forth](https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq) | 2:41 |
-| 9 | [ENTP](https://open.spotify.com/track/6igeqg948vsEYv5sKvIfvt) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt) | 2:01 |
+| 9 | [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 |
 | 10 | [REVENGE](https://open.spotify.com/track/0R4r4I1toXjohYKZLcIQEL) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [REVENGE](https://open.spotify.com/album/42hlt0eaqW9269f8jqqa20) | 3:25 |
 | 11 | [GENZAI](https://open.spotify.com/track/2k9OjSoNMIcUjO3PUE5YZj) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [GENZAI](https://open.spotify.com/album/1xMfZDikITDqLuyLPxSlNd) | 1:53 |
 | 12 | [GINGINDEGO](https://open.spotify.com/track/1F0zihdKiGUlrR1YcaQbVR) | [Ryuk](https://open.spotify.com/artist/6XwuA8ruL7xjyyxxnUCjwX), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [GINGINDEGO](https://open.spotify.com/album/6bErHCwerAoOZsI2cEfXC2) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 99 | [Self Made 2](https://open.spotify.com/track/5wIye7EwWRyTZSGN19E4i3) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Higher](https://open.spotify.com/album/14tw5k8TACNP7vaUSM3M6s) | 3:03 |
 | 100 | [Madoguchi](https://open.spotify.com/track/7niuHNCb7ObPcE9lP63bAV) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [6th Anniversery Best Mixtape](https://open.spotify.com/album/16AybzZDQLpAwJUy4KrmXu) | 2:57 |
 
-Snapshot ID: `MCwwYmRjMjBkM2I3ZmY0NzY3ZTYyZDZiZTBlMzY0NzhmOWUyNmYzOGJl`
+Snapshot ID: `MCxiODYyOWI0NDUzNWY5N2NhMDhjZjJhZjMyYzBlNWQ2M2QzNmI2MDQ3`

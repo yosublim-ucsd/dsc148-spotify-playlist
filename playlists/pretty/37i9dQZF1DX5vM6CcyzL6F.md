@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,275 likes - 144 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,311 likes - 144 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,9 +148,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 138 | [Será Qué SÍ](https://open.spotify.com/track/7G5X7EyoPEEfH3QGnVNhaB) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Maelo Ruiz… The Romantic Salsa Idol](https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6) | 4:35 |
 | 139 | [Me Fallaste](https://open.spotify.com/track/6irnHSTORkdgw13lwscY9d) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:04 |
 | 140 | [Cara de Niño](https://open.spotify.com/track/7tYwvcNB0s9JOCstnqwWBt) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Sólo para Mujeres](https://open.spotify.com/album/60riLMQ2svEvrzZz0rDhhG) | 4:55 |
-| 141 | [Borinquen](https://open.spotify.com/track/5aWptIJbLIRyQ5nELmBUKG) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Malo](https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE) | 3:20 |
-| 142 | [Por Favor Señora](https://open.spotify.com/track/7qukMXPY4zpdDLLHi5wLA7) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:48 |
-| 143 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 |
-| 144 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
+| 141 | [Por Favor Señora](https://open.spotify.com/track/7qukMXPY4zpdDLLHi5wLA7) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:48 |
+| 142 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 |
+| 143 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
+| 144 | [Borinquen](https://open.spotify.com/track/3LT2EX3RJEJzq1fBSqu67p) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Esencia De La Fania](https://open.spotify.com/album/2Nd7MbIshLGbKOy4RKApeo) | 3:15 |
 
-Snapshot ID: `MCxjYjYwOGZlZTJmZTZlYmZhNDEyNGUwYjFmZGRiNzQwOWM4ZjFlMWIz`
+Snapshot ID: `MCw1N2RlMTM4NWJmN2IxYzViYTM4YzhkNTE0MzRlNWQyZDkzOGEwNDdi`

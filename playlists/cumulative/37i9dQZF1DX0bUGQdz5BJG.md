@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Michael Warren
 
-1,930 songs - 4 day 7 hr 37 min
+1,931 songs - 4 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1155,7 +1155,8 @@
 | [Nashville Or Nothing](https://open.spotify.com/track/27VXGsgJOEj7aYW6uWdJxK) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Nashville Or Nothing](https://open.spotify.com/album/0u7mZIt4MJk667bsC1ZFIf) | 2:45 | 2022-03-18 | 2022-04-09 |
 | [Need You to Not](https://open.spotify.com/track/1OcwLTaGoXPSxqxJQK8XlP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Need You to Not](https://open.spotify.com/album/30mSy3n5vcDD1aozCEzrmK) | 3:05 | 2022-01-21 | 2022-03-12 |
 | [Needed The Rain](https://open.spotify.com/track/2YPgBZVNqvBprMbJ23UPUk) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Needed The Rain](https://open.spotify.com/album/3XawUgdBEJuVzoLKV1RTM4) | 3:50 | 2023-03-24 | 2023-09-09 |
-| [Neon Baby](https://open.spotify.com/track/3IvwEUE0iznUH3jHPxB8Fi) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Boots On](https://open.spotify.com/album/1wEjzKyHfBVPAFNqSTRyLk) | 3:33 | 2023-12-15 |  |
+| [Neon Baby](https://open.spotify.com/track/7BBHNcw2tNeQ0LVWss0FyY) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Neon Baby](https://open.spotify.com/album/5fFepyQ6UZReG9ulezciua) | 3:32 | 2024-02-23 |  |
+| [Neon Baby](https://open.spotify.com/track/3IvwEUE0iznUH3jHPxB8Fi) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Boots On](https://open.spotify.com/album/1wEjzKyHfBVPAFNqSTRyLk) | 3:33 | 2023-12-15 | 2024-02-29 |
 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 | 2022-02-04 | 2022-03-05 |
 | [Neon Cowboy](https://open.spotify.com/track/0IrWcbyRdfWARLLLZCLhuY) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Neon Cowboy](https://open.spotify.com/album/0J8y3sEsIwLDv9k44tBzlc) | 3:18 | 2023-11-10 | 2024-01-06 |
 | [Neon Dreamin'](https://open.spotify.com/track/5NlRilI9PDyCQXxSxt0CxW) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Neon Dreamin'](https://open.spotify.com/album/5BAVG5h0zvrNUbR0Kglefr) | 3:27 | 2023-07-07 | 2023-10-14 |

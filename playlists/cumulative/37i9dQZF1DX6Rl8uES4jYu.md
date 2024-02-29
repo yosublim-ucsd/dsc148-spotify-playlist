@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-432 songs - 1 day 0 hr 9 min
+433 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Goodnightmare](https://open.spotify.com/track/4tUV3qVS1tIT5K2vbwo7Kh) | [Fake Fake](https://open.spotify.com/artist/43nxlJkq1IwAYVZtTWo5kv) | [Goodnightmare](https://open.spotify.com/album/7bVIynTZaUMnXaPydLxksb) | 3:29 | 2020-11-13 | 2022-02-09 |
 | [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2024-02-10 |
 | [GROW](https://open.spotify.com/track/7woolpK48x0OF0neZScxgo) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N) | [GROW](https://open.spotify.com/album/4X3uGMrO2XLpBaGegC4ldQ) | 5:02 | 2021-09-21 | 2022-04-19 |
-| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 |  |
+| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 | 2024-02-29 |
+| [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 | 2022-05-06 |  |
 | [Happy Days](https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Happy Days](https://open.spotify.com/album/7vOFsagJ42zKDY8mDR0krm) | 3:51 | 2020-11-13 | 2022-03-21 |
 | [head up in the clouds](https://open.spotify.com/track/58ARvD7EyLhMS2kbB1UAXQ) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [head up in the clouds](https://open.spotify.com/album/3U6Xy6GcypfSSm8AOYT3jH) | 4:32 | 2023-09-15 |  |
 | [Higher](https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Higher](https://open.spotify.com/album/2FGydD8obP61PUKLoFXFL9) | 3:34 | 2021-06-04 | 2022-07-30 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Aczino \ud83d\udc10\ud83d\udc51 en portada. ",
-  "num_followers": 13174,
+  "num_followers": 13177,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDhiMjQ3ZDU4NzY1YThlYmVmYTEwZmE0Y2VjNjM1Y2ViZDkxM2Nh",
+  "snapshot_id": "MCxlYjc3MzBmYWQ0NzU2ZDRiNjY4NTEzZmRkYjgyZjY4YjhjMjE2ZmVj",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -323,22 +323,26 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Por La Familia",
-        "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
+        "name": "HOMENAJE",
+        "url": "https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         },
         {
-          "name": "BorderKid",
-          "url": "https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3"
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 153536,
-      "name": "Por La Familia",
-      "url": "https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68"
+      "duration_ms": 215869,
+      "name": "HOMENAJE",
+      "url": "https://open.spotify.com/track/02qsYZznhFSX0psInKC7st"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -363,26 +367,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "HOMENAJE",
-        "url": "https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts"
+        "name": "Por La Familia",
+        "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "BorderKid",
+          "url": "https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3"
         }
       ],
-      "duration_ms": 215869,
-      "name": "HOMENAJE",
-      "url": "https://open.spotify.com/track/02qsYZznhFSX0psInKC7st"
+      "duration_ms": 153536,
+      "name": "Por La Familia",
+      "url": "https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Una Leyenda Nunca Muere",
-        "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Una Leyenda Nunca Muere",
-      "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Amor de \u00d1eros",
         "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 131725,
       "name": "Amor de \u00d1eros",
       "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Una Leyenda Nunca Muere",
+        "url": "https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Una Leyenda Nunca Muere",
+      "url": "https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1199,22 +1199,30 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "La Gangsta",
-        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
+        "name": "Tensi\u00f3n",
+        "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
       },
       "artists": [
         {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+          "name": "Never Die",
+          "url": "https://open.spotify.com/artist/4erhclLz9x7J1JOpNdEK2Z"
         },
         {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        },
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
         }
       ],
-      "duration_ms": 312703,
-      "name": "La Gangsta",
-      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
+      "duration_ms": 175400,
+      "name": "Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1247,30 +1255,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Tensi\u00f3n",
-        "url": "https://open.spotify.com/album/3hCkYv6L9uhcXnoIqvJzSJ"
+        "name": "La Gangsta",
+        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
       },
       "artists": [
         {
-          "name": "Never Die",
-          "url": "https://open.spotify.com/artist/4erhclLz9x7J1JOpNdEK2Z"
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
         },
         {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        },
-        {
-          "name": "Bizor",
-          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
-        },
-        {
-          "name": "Mike Diaz",
-          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Tensi\u00f3n",
-      "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
+      "duration_ms": 312703,
+      "name": "La Gangsta",
+      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Qu\u00e9mele",
+        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Qu\u00e9mele",
+      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Trinidad",
         "url": "https://open.spotify.com/album/1Cci7b8OkTzn8zSYsRq9Gh"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 168000,
       "name": "Avi\u00f3n",
       "url": "https://open.spotify.com/track/4jCJxfd0kMhL0LFdP7sYMV"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Qu\u00e9mele",
-        "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Qu\u00e9mele",
-      "url": "https://open.spotify.com/track/0aPwGpjIaaZsPiUglNVAuN"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "De La Mata",
+        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "De La Mata",
+      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Mexicanos Bravos",
         "url": "https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 257491,
       "name": "Corridos Prohibidos",
       "url": "https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "De La Mata",
-        "url": "https://open.spotify.com/album/1bNUKMiUZNA0r4JUVcRjz0"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "De La Mata",
-      "url": "https://open.spotify.com/track/2iF8BmUy05E9iHRgRuCak9"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "LA VIDA ES TAN DURA",
         "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ajena",
-      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "LATIGO",
-        "url": "https://open.spotify.com/album/66IBhhIRxfB1Jj3xzdUfON"
-      },
-      "artists": [
-        {
-          "name": "Yung Sarria",
-          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
-        },
-        {
-          "name": "Nelly Nelz",
-          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
-        },
-        {
-          "name": "Elpatron970",
-          "url": "https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O"
-        }
-      ],
-      "duration_ms": 160524,
-      "name": "LATIGO",
-      "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Booty Bang Bang",
         "url": "https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87"
       },
@@ -1763,6 +1739,22 @@
       "duration_ms": 188232,
       "name": "Booty Bang Bang",
       "url": "https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Bendecida Y Afortunada",
+        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "Bendecida Y Afortunada",
+      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1791,6 +1783,30 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "LATIGO",
+        "url": "https://open.spotify.com/album/66IBhhIRxfB1Jj3xzdUfON"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Nelly Nelz",
+          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
+        },
+        {
+          "name": "Elpatron970",
+          "url": "https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O"
+        }
+      ],
+      "duration_ms": 160524,
+      "name": "LATIGO",
+      "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1815,42 +1831,6 @@
       "duration_ms": 135529,
       "name": "Oscura Ciudad",
       "url": "https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Pasta Pesto",
-        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 188100,
-      "name": "Pasta Pesto",
-      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "La Carnita Asada",
-        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 275647,
-      "name": "La Carnita Asada",
-      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1887,18 +1867,38 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Bendecida Y Afortunada",
-        "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
+        "name": "La Carnita Asada",
+        "url": "https://open.spotify.com/album/5EJQ2gD174XrqCeC3b0xTH"
       },
       "artists": [
         {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         }
       ],
-      "duration_ms": 159836,
-      "name": "Bendecida Y Afortunada",
-      "url": "https://open.spotify.com/track/2sWhuwbONrY9CVRlGyhYQ2"
+      "duration_ms": 275647,
+      "name": "La Carnita Asada",
+      "url": "https://open.spotify.com/track/6OVOur8etLTboDdX6Q1tZF"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Pasta Pesto",
+        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 188100,
+      "name": "Pasta Pesto",
+      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1951,30 +1951,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/2nHsUbAEHjO6rtn30ObJ32"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00e1neo",
-          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
-        },
-        {
-          "name": "Lasser",
-          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
-        },
-        {
-          "name": "GXNZX",
-          "url": "https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/5cuhYEoFtVbSU9K8x1UMOT"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "antes que sea tarde",
         "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
@@ -2007,6 +1983,30 @@
       "duration_ms": 274311,
       "name": "Entrevisi\u00f3n",
       "url": "https://open.spotify.com/track/43IwgGI2OQzvELeFa0j1JQ"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/2nHsUbAEHjO6rtn30ObJ32"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Lasser",
+          "url": "https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj"
+        },
+        {
+          "name": "GXNZX",
+          "url": "https://open.spotify.com/artist/4wUmJjIAbCAlaWoE63EI5c"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/5cuhYEoFtVbSU9K8x1UMOT"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+        "name": "El Poder y la Traici\u00f3n",
+        "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
       },
       "artists": [
         {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
+      "duration_ms": 244904,
+      "name": "El Poder y la Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
     }
   ],
   "unique_name": "Rimas Frescas ",

@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dot.
 
-847 songs - 1 day 22 hr 23 min
+849 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,8 @@
 | [Mayday](https://open.spotify.com/track/6v28bvjhEHYmBmG1xbpuxL) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Mayday](https://open.spotify.com/album/1Ipdh7E0cyxXCxPhz3wBxJ) | 3:24 | 2023-01-20 | 2023-03-18 |
 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 | 2022-05-30 | 2022-09-10 |
 | [Me Today](https://open.spotify.com/track/0NFUUAKVL0d6SpqJVwwGNx) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Me Today](https://open.spotify.com/album/2v2LNb7ZDI1jVJc90P1NvQ) | 2:30 | 2023-03-17 | 2023-09-23 |
-| [Meninas](https://open.spotify.com/track/3hR4c1LJiqwdyKIiT4V8JL) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Meninas](https://open.spotify.com/album/5DyuxeT1qw2IcI0BDXGkbm) | 2:53 | 2023-07-03 |  |
+| [Meninas](https://open.spotify.com/track/3hR4c1LJiqwdyKIiT4V8JL) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Meninas](https://open.spotify.com/album/5DyuxeT1qw2IcI0BDXGkbm) | 2:53 | 2023-07-03 | 2024-02-29 |
+| [Meninas](https://open.spotify.com/track/3x4YVY9IJh9imezY6la2xQ) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo) | 2:53 | 2024-02-16 |  |
 | [Merry Midnight](https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK) | 4:29 | 2022-01-14 | 2022-03-30 |
 | [Metal](https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn) | [Zouj](https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo) | [Metal](https://open.spotify.com/album/42NIAoehQ6eU03hGM4oTLN) | 3:12 | 2022-08-19 | 2022-09-10 |
 | [Metamorphosis](https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX) | 4:08 | 2022-04-22 | 2022-08-20 |
@@ -694,7 +695,8 @@
 | [STILL IN LOVE](https://open.spotify.com/track/2FNDyU7qtE3U4UGZTO1NCo) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [STILL IN LOVE](https://open.spotify.com/album/5fOFmxmkcpTTdC1UloGZG6) | 2:38 | 2022-06-10 | 2022-10-22 |
 | [Stranger With A Wall](https://open.spotify.com/track/01kfjty2wVYRg53xiwrGtr) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Stranger With A Wall](https://open.spotify.com/album/1Xwbb0gjsrPdx90mhmJLR5) | 3:45 | 2022-04-08 | 2022-08-20 |
 | [Strangers Again \(feat\. Pamungkas\)](https://open.spotify.com/track/1QYff3eiMnTtCyCmLIUrmp) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Strangers Again](https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO) | 3:53 | 2022-01-14 | 2022-03-12 |
-| [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-04 |  |
+| [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/0YNbCCep4pGK70IXnXJJAV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:33 | 2024-02-16 |  |
+| [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-04 | 2024-02-29 |
 | [stuck in the cloud](https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [stuck in the cloud](https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex) | 2:47 | 2022-10-14 | 2023-04-01 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-09 |  |
 | [SUBCONSCIENTE](https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 2](https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv) | 2:38 | 2022-11-11 | 2023-01-21 |

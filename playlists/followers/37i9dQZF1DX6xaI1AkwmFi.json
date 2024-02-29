@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 23325,
+  "2024-02-29": 23343,
   "date_first_scraped": "2023-11-24",
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
   "name": "\u30b9\u30c8\u30ed\u30dc",
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "junkie",
+        "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148727,
+      "name": "junkie",
+      "url": "https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN"
+    },
+    {
+      "album": {
         "name": "Saba No Ichi",
         "url": "https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN"
       },
@@ -837,7 +855,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
@@ -913,6 +931,32 @@
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "album": {
+        "name": "Moshi Moshi",
+        "url": "https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Kitay",
+          "url": "https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump"
+        },
+        {
+          "name": "GAL D",
+          "url": "https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD"
+        },
+        {
+          "name": "MUKADE",
+          "url": "https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176951,
+      "name": "Moshi Moshi",
+      "url": "https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2"
     },
     {
       "album": {
@@ -1866,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "\u30aa\u30ec\u30f3\u30b8",
+        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+    },
+    {
+      "album": {
         "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
         "url": "https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN"
       },
@@ -2581,7 +2643,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 212758,
       "name": "\u604b\u8863",
       "url": "https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg"
@@ -2689,7 +2751,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"

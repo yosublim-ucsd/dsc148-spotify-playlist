@@ -3009,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7"
+    },
+    {
+      "album": {
         "name": "Paperflower",
         "url": "https://open.spotify.com/album/6dZrGhPGx0XdElXGYKX5qR"
       },
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 131541,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"

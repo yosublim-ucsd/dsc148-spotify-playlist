@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 217883,
+  "2024-02-29": 218018,
   "date_first_scraped": "2022-03-19",
   "description": "would you like to save before closing?",
   "name": "webcore",
@@ -519,6 +519,24 @@
       "duration_ms": 172080,
       "name": "Doku",
       "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
+    },
+    {
+      "album": {
+        "name": "Somoku Hodo",
+        "url": "https://open.spotify.com/album/2I4bTaKKypXoIOCxxH5RND"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "Doku",
+      "url": "https://open.spotify.com/track/7LJqyke8utk9ddmFchx3Z6"
     },
     {
       "album": {
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 142839,
       "name": "morrigan",
       "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"

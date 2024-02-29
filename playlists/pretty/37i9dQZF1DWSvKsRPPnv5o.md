@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,007 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,028 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 78 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
 | 79 | [Han Solo](https://open.spotify.com/track/7Fl6CFzsNVjnxYBAG2YfD7) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Han Solo](https://open.spotify.com/album/4SAWZ46pT9XJnQYtUW9UdS) | 2:22 |
 
-Snapshot ID: `MCw4MTVmZmIwMGU1NmQyOTIzYjA0ZjkxOTEzNWY3Zjk3ODNhMjdiZWRi`
+Snapshot ID: `MCxhZTg5ODdjMGJjZGI5ZWY1ZTljOTE1OTAzNjlkZmY2MTNmZDM3N2Fm`

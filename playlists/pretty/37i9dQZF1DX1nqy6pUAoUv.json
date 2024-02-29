@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 179819,
+  "num_followers": 179831,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yzc1NTU0YmZlOTUxZmMwNTViZmY2MDAxZTQ3Yzc1YWQ3MWJiMmMw",
+  "snapshot_id": "MCxkNjA2YjM2NGM4YWM0OWRkYTVjNTdjYWFjZGY0NTE4NDJmY2ZmM2Ey",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Ash & Stone",
         "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 171786,
       "name": "Behind the Light",
       "url": "https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Wild Turkey",
         "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Poor David's Almanack",
         "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Woman in Color",
-        "url": "https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg"
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
       "artists": [
         {
-          "name": "Raye Zaragoza",
-          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 207840,
-      "name": "He Calls Me River",
-      "url": "https://open.spotify.com/track/1Sq7OyYJTqTM15QhjrJxIg"
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 370733,
       "name": "American Flowers",
       "url": "https://open.spotify.com/track/1CtsGuP3zaphCyUieBpOQF"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Woman in Color",
+        "url": "https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "He Calls Me River",
+      "url": "https://open.spotify.com/track/1Sq7OyYJTqTM15QhjrJxIg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Belinda",
-  "num_followers": 49903,
+  "num_followers": 49932,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWE1M2MwMDhmODJiOGNkOTg5ZTc4ODBhYzIzNWQ1OGRhZWE3NTBk",
+  "snapshot_id": "MCxhNDRkOTBlZDZhYjllYmJiZGU5ZmJjNjkwODhlYTIyYTFmNTdlYmRj",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Enam\u00f3rate",
-        "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 147785,
-      "name": "Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
+      "duration_ms": 262706,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -467,18 +463,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+        "name": "Enam\u00f3rate",
+        "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 262706,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+      "duration_ms": 147785,
+      "name": "Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Haashtag",
         "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 175053,
       "name": "Mi Salida Contigo",
       "url": "https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Yo No Soy Esa Mujer",
-      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 222583,
       "name": "Sin Llorar",
       "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1167,6 +1183,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 231951,
+      "name": "amantes y amigos",
+      "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -1187,22 +1219,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 231951,
-      "name": "amantes y amigos",
-      "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Eternamente Bella",
+        "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Eternamente Bella",
-        "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sin Carn\u00e9",
-        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 117680,
-      "name": "Sin Carn\u00e9",
-      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Sin Carn\u00e9",
+        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 117680,
+      "name": "Sin Carn\u00e9",
+      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "A Oscuras",
-        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 159935,
-      "name": "A Oscuras",
-      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 161586,
       "name": "ULTRAVIOLETA",
       "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "A Oscuras",
+        "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 159935,
+      "name": "A Oscuras",
+      "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Milagros",
-        "url": "https://open.spotify.com/album/5PjmSrnO02jzX7EzNp1ssp"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 213799,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/0gOw0j8R2X8PUY7FFL0ujC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "COPY+PASTE",
         "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Milagros",
+        "url": "https://open.spotify.com/album/5PjmSrnO02jzX7EzNp1ssp"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 213799,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/0gOw0j8R2X8PUY7FFL0ujC"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "triste pero siempre mami",
         "url": "https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq"
       },
@@ -1667,38 +1667,6 @@
       "duration_ms": 139716,
       "name": "hotel san juan",
       "url": "https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Bachatica",
-        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        }
-      ],
-      "duration_ms": 196461,
-      "name": "Bachatica",
-      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Disciplina",
-        "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1731,6 +1699,38 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 157625,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bachatica",
+        "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "duration_ms": 196461,
+      "name": "Bachatica",
+      "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
     },
     {
       "added_at": "2024-02-02 05:00:00",

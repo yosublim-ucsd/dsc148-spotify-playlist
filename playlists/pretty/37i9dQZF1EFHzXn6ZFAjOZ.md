@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,508 likes - 124 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,513 likes - 124 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 123 | [Magic](https://open.spotify.com/track/6wNYEYWCYDJpuEQ6vVMfDk) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [Mixed Emotions](https://open.spotify.com/album/4Zk3SySNIzXhHZe2bfISY7) | 3:30 |
 | 124 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 
-Snapshot ID: `Mjg0ODQ3NzAsMDAwMDAwMDA2ZWVkNDZjY2I0MTFhYzA3ZThkNWY2M2Q2Y2QyYTIwZg==`
+Snapshot ID: `Mjg0ODYyMTAsMDAwMDAwMDBjZGU5NTZhOWM1OGU3OTA1OTNmNzE3Y2ZhMTNiNjM5NQ==`

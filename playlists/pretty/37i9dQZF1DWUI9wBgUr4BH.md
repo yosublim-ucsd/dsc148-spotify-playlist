@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,181 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,329 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 |
 | 40 | [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 |
 
-Snapshot ID: `MCwyZjI1YmM5OGI4YzU3MTFlYmQ4MWQ2OWI2ODE0YzUwMjYzMjU0OTZj`
+Snapshot ID: `MCw4MDcwYmU4ODQ2ZDJiOWRmZmI3MTFhOTEzZjZkYWY0NDVkYjljOTI1`

@@ -4,7 +4,7 @@
 
 > The state of shoegaze, featuring over 20 new tracks added by flyingfish.
 
-565 songs - 1 day 12 hr 51 min
+566 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,8 @@
 | [Understand](https://open.spotify.com/track/3XVNM0ZqsEvJbyYmP2FnZi) | [Noirak](https://open.spotify.com/artist/6kGQ40RTUDTtuqeRVeyCMJ), [Tre Flip](https://open.spotify.com/artist/4b6yY9OX4LJMkAKYTGuYna) | [Understand](https://open.spotify.com/album/5NadEnSA0Rgn0TRXMLJeEd) | 3:09 | 2023-12-01 |  |
 | [Unresponsive](https://open.spotify.com/track/074XXIChzoiocYGqS221a4) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz) | [Unresponsive](https://open.spotify.com/album/4pwc73Mkfv0btdy3MOGeFU) | 2:22 | 2023-09-08 |  |
 | [Upperz](https://open.spotify.com/track/0UOgMU9A0koecYi1lkpN7j) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Upperz](https://open.spotify.com/album/20vb5dF2cRaE3lcSUUgn8X) | 1:53 | 2023-06-16 | 2023-06-21 |
-| [ur all starz](https://open.spotify.com/track/6wJw7aNIAk6e5mkkE88dI3) | [BORNSTAR](https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG) | [ur all starz](https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl) | 2:40 | 2024-01-12 |  |
+| [ur all starz](https://open.spotify.com/track/1M5hKO5jWlSp74pVNLsB5a) | [BORNSTAR](https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG) | [ur all starz](https://open.spotify.com/album/6VwBKOJnv52tfaiEaBNkMv) | 2:40 | 2024-01-12 |  |
+| [ur all starz](https://open.spotify.com/track/6wJw7aNIAk6e5mkkE88dI3) | [BORNSTAR](https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG) | [ur all starz](https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl) | 2:40 | 2024-01-12 | 2024-02-29 |
 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 | 2023-08-04 |  |
 | [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 | 2023-08-04 | 2023-08-20 |
 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 | 2021-10-19 | 2023-06-08 |

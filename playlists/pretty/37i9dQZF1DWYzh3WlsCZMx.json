@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 31164,
+  "num_followers": 31208,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQ3OGQ1M2M0NmY4MTc5YmYwOGVkNmM5ZWUzMTJkMDVmOWJhNmZl",
+  "snapshot_id": "MCw5M2QyYTlmYTMwZmUxNTgzYWE0MWEwYWRjZWVjZWU4NjUxYTBjNGMw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Jackboy",
+        "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
+      },
+      "artists": [
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Like a Million (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "SMD",
         "url": "https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 219107,
       "name": "Got Dem Racks",
       "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Jackboy",
-        "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
-      },
-      "artists": [
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Like a Million (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Jetz",
+          "url": "https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Thug Misses (Digitally Remastered)",
         "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 311466,
       "name": "The K-Wang",
       "url": "https://open.spotify.com/track/08a5tq3SGdgj45GCnFDvlA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Bonafide",
-        "url": "https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Jetz",
-          "url": "https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf"
-        }
-      ],
-      "duration_ms": 167915,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL"
     },
     {
       "added_at": "2022-10-01 16:00:00",

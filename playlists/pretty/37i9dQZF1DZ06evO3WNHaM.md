@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,836 likes - 53 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,021 likes - 53 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 52 | [Radiant City](https://open.spotify.com/track/33Mdiqg5G8TNeaKQHntgyU) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:35 |
 | 53 | [Error](https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:50 |
 
-Snapshot ID: `Mjg0ODM5MjIsMDAwMDAwMDA1MWZhOWY0MzkzNWU4MGYyMmY1ZDdjNjJlODBhOTQzMQ==`
+Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDBiNmU2OTNlNTNjMTRmNGUwNDcxMTJlM2MwMmIyMTdhYg==`

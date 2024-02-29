@@ -948,6 +948,28 @@
     {
       "album": {
         "name": "LOVE DOCTOR",
+        "url": "https://open.spotify.com/album/3aCQHE7XZbTczZvUwRKqza"
+      },
+      "artists": [
+        {
+          "name": "DONMD",
+          "url": "https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6"
+        },
+        {
+          "name": "Hkmk",
+          "url": "https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "LOVE DOCTOR",
+      "url": "https://open.spotify.com/track/3cyW7qRBsH3S95gP1IuXmS"
+    },
+    {
+      "album": {
+        "name": "LOVE DOCTOR",
         "url": "https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU"
       },
       "artists": [
@@ -962,7 +984,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 121250,
       "name": "LOVE DOCTOR",
       "url": "https://open.spotify.com/track/76IYiajfXenzXODVm000sw"

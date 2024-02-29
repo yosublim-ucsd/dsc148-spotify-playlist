@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Gatecreeper
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,627 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,654 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [My Dog Is My God](https://open.spotify.com/track/2vCGAPCR3uAYYatwUicIix) | [Today Was Yesterday](https://open.spotify.com/artist/6L203fqSOp5UnstZtOV5U9), [Alex Lifeson](https://open.spotify.com/artist/4vC9kK4Y7SBM3mSsyeTKCo) | [Today Was Yesterday](https://open.spotify.com/album/4q3Nh1CqeMfUjsbDRjJqtc) | 4:52 |
 | 50 | [Tear 'Em To Bits](https://open.spotify.com/track/6nHZGXUYKxaErnmDSpUBgX) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Tear 'Em To Bits](https://open.spotify.com/album/3i8beiM6UW6fLUvcXY5ibr) | 2:09 |
 
-Snapshot ID: `MCw1YWZiYTkwNWNiMTU1MDdmODMzYjM1YWE5MDdhNjkwMDNkNzQ0OGQ4`
+Snapshot ID: `MCw4OGY1NWY2NDAxM2EwYTU3NWNlMzQzYzQ0MTBlNDIwZjZkMzQzZTJi`

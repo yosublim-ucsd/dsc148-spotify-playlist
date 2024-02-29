@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176232,
+  "num_followers": 176293,
   "original_name": "San Valentino 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODZmNThhM2M1NWJkMGM5MWY5ODE0Y2I2ZTFhYzY5YWM5Y2I3YTU0",
+  "snapshot_id": "MCxkYzhhNDEwYWJjODFiZGQ4YTcwNjAyNTk0ODg3NWY0ZGY5NzJhN2M1",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "111 Centoundici",
         "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 226160,
       "name": "Cascare nei tuoi occhi",
       "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "L'Imboscata",
         "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 243333,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Nessuno \u00e8 solo",
+        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Ti scatter\u00f2 una foto",
+      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -767,22 +783,6 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Nessuno \u00e8 solo",
-        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Ti scatter\u00f2 una foto",
-      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Come Nelle Favole",
-      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 264240,
       "name": "A Te",
       "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Amore Che Torni",
-        "url": "https://open.spotify.com/album/1K4sRqrwNiPf51cjIDjc8J"
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 238360,
-      "name": "La Prima Volta",
-      "url": "https://open.spotify.com/track/1Kfzmp5K4glWRKzsyQL9pI"
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Amore Che Torni",
+        "url": "https://open.spotify.com/album/1K4sRqrwNiPf51cjIDjc8J"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "La Prima Volta",
+      "url": "https://open.spotify.com/track/1Kfzmp5K4glWRKzsyQL9pI"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "La Descrizione Di Un Attimo",
         "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 269600,
       "name": "La Descrizione Di Un Attimo",
       "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1399,22 +1399,6 @@
       "duration_ms": 238386,
       "name": "Parole parole - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "La Finestra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "L'Immenso",
-      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "La Finestra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "L'Immenso",
+      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "L'amore \u00e8",
         "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
       },
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Fuoco nel fuoco",
+      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Vietato morire",
         "url": "https://open.spotify.com/album/7tPKUDspDKomiAvIrTRJQB"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 221988,
       "name": "Piccola anima (feat. Elisa)",
       "url": "https://open.spotify.com/track/5UPL90ZL0XghWWNw57WVR9"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Stilelibero",
-        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "Fuoco nel fuoco",
-      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Oltre",
-        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
+        "name": "S\u00ec (Deluxe)",
+        "url": "https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5"
       },
       "artists": [
         {
-          "name": "Claudio Baglioni",
-          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 336960,
-      "name": "Mille giorni di te e di me",
-      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
+      "duration_ms": 217224,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4"
     }
   ],
   "unique_name": "San Valentino 2024",

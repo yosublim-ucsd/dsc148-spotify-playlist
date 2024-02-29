@@ -4,7 +4,7 @@
 
 > Sometimes it's nice to be nice, you know.
 
-409 songs - 1 day 0 hr 47 min
+410 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-11-12 |  |
 | [Company](https://open.spotify.com/track/6eMknw1c14DlpWrzx31fE6) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Company](https://open.spotify.com/album/6dvtm35R23LaMWnZnJxja1) | 3:26 | 2022-03-09 | 2022-06-27 |
 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 | 2022-03-19 | 2022-04-14 |
-| [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 | 2023-02-03 |  |
+| [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 | 2023-02-03 | 2024-02-29 |
 | [Craziest Things](https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Craziest Things](https://open.spotify.com/album/3WAG7aLC9P5NGymA621ly4) | 3:10 | 2021-11-12 | 2022-07-27 |
 | [Craziest Things](https://open.spotify.com/track/4WTy2W1mrlM40lX9ybbp0q) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:10 | 2022-08-05 | 2023-02-03 |
 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 | 2022-06-22 |  |
@@ -124,6 +124,7 @@
 | [Fireflies](https://open.spotify.com/track/6K6YvzpQIpeCcL8biIWRJ8) | [Caoilfhionn Rose](https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb) | [Fireflies](https://open.spotify.com/album/67cyQhy7MWsTyNk4MXE7DK) | 4:11 | 2021-11-12 | 2022-07-25 |
 | [Flight Risk](https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 0:59 | 2023-01-13 |  |
 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/4MjIJnPOuO83ZiKr244QKk) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Flower \(In Full Bloom\)](https://open.spotify.com/album/0Rxa9TV9eNXcVu4kblPAw0) | 0:29 | 2021-11-12 | 2022-07-02 |
+| [Flowers](https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Flowers](https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk) | 2:48 | 2024-02-21 |  |
 | [Folly](https://open.spotify.com/track/2WdbrlcvB1KEX2DALxiKOE) | [Sea Power](https://open.spotify.com/artist/5zhn89Em2jWUUWdpcLO3YL) | [Folly](https://open.spotify.com/album/5meHvL7ffsywZ5AF9K0ala) | 4:16 | 2022-03-19 | 2022-04-13 |
 | [Food Aid](https://open.spotify.com/track/6tNRqkD3aFkUgmCRjw54TO) | [LadBaby](https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1) | [Food Aid](https://open.spotify.com/album/1uuYOPop4HSbbFZoXHgBZ6) | 4:00 | 2023-01-20 | 2023-01-26 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-06-22 |  |

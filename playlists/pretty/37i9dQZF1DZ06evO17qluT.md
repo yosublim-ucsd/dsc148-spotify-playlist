@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,623 likes - 45 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,659 likes - 45 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 44 | [Poetas no Topo 1](https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v) | [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas no Topo 1](https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y) | 6:38 |
 | 45 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
 
-Snapshot ID: `Mjg0ODM5MjMsMDAwMDAwMDBkYjliOGQ2MDQyYWU4NmE2MmIxZWE2OTk2NTAyNTkzMw==`
+Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDA5YWIzZjIyODA3MDk4ZjczOWM3NGU3MmZkMjZjN2M4ZQ==`

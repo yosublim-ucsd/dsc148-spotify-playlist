@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,595 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,601 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [放過自己](https://open.spotify.com/track/3DfkGi5sU2pqC7upLDccXA) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [Project Krane](https://open.spotify.com/album/7M5T3FVemUVekZTtjKmKpn) | 4:04 |
 | 72 | [Yao](https://open.spotify.com/track/624aGEB7aBIR02KQQYxXAN) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Yao](https://open.spotify.com/album/1IPHlEzyP7VftwQU47YAsJ) | 2:19 |
 
-Snapshot ID: `MCwyZGJhOGRjZjI4YzhkNzliZWE0N2I2MWNjNTA2MmI3ZTQxYzBmMGU3`
+Snapshot ID: `MCw5ZDVjZWM4NDk4NTBmMjk3ZDUxYmZmMTVkNzJhNjA1MzBiOGY0Yzk1`

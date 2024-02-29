@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,449 likes - 53 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,455 likes - 53 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 52 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 53 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 |
 
-Snapshot ID: `MCwyNzhhZjQzZDljZWRhNWQ1M2UxZTNiMTJhZTQ5OThiMmZjOTNkYWRk`
+Snapshot ID: `MCxhOGIxNjAxM2RjY2I2YmZmYzU5MzY3ZTUyZjgxNGNiMDUxMjk2ZWM5`

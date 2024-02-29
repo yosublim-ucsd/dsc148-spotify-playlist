@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 148534,
+  "num_followers": 148601,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2U5ODAwYzRiNjczZjc3NjVlZjc0ZjNkZWQ3Y2FhOGE1YmFkYTQ3",
+  "snapshot_id": "MCxkMzA4MmIwNjkwM2Y2ZDk3NjkwZWI1NDgzNzRhNTlmODYzMDRiODYw",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
-      },
-      "artists": [
-        {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Les feux d'artifice",
         "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 294173,
       "name": "Un jour au mauvais endroit",
       "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Histoires de",
         "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
       },
@@ -911,18 +895,34 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
       "artists": [
         {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
         }
       ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
       "artists": [
         {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
         }
       ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 196693,
       "name": "Les choses qu'on fait",
       "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
     },
     {
       "added_at": "2024-01-05 14:21:14",

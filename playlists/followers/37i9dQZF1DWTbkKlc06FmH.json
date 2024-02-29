@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 127498,
+  "2024-02-29": 127513,
   "date_first_scraped": "2022-10-24",
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
   "name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
@@ -2842,6 +2842,28 @@
     },
     {
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2hDx79gIhKj0TrHJ56pyP8"
+      },
+      "artists": [
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        },
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171986,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/63aYm38PRy9rEGt5j5Xney"
+    },
+    {
+      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/36dFPGk3EyAshM1NBcTlZc"
       },
@@ -3074,6 +3096,24 @@
     },
     {
       "album": {
+        "name": "FAKE MOON",
+        "url": "https://open.spotify.com/album/049vN5HuMG3Yo6UYLYqD29"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199662,
+      "name": "FAKE MOON",
+      "url": "https://open.spotify.com/track/44O74u3HNTWVEebEGLAoOk"
+    },
+    {
+      "album": {
         "name": "Fallin'",
         "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
       },
@@ -3234,6 +3274,24 @@
     },
     {
       "album": {
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/0wrneh6deMAWfdr9sGtvLd"
+      },
+      "artists": [
+        {
+          "name": "magicHour",
+          "url": "https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184214,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh"
+    },
+    {
+      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -3329,7 +3387,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 261122,
       "name": "First Love - 2022 Mix",
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
@@ -3652,6 +3710,28 @@
     },
     {
       "album": {
+        "name": "gaucherie",
+        "url": "https://open.spotify.com/album/1agej49fTgkqT8peeoNaZS"
+      },
+      "artists": [
+        {
+          "name": "LHRHND",
+          "url": "https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "gaucherie",
+      "url": "https://open.spotify.com/track/4P0gWxtEvf7apvG5qlyrjh"
+    },
+    {
+      "album": {
         "name": "Genuine",
         "url": "https://open.spotify.com/album/2S5UhMvmBlRAInHflPAM7t"
       },
@@ -3689,7 +3769,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
@@ -4358,6 +4438,24 @@
     },
     {
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/0yslKFGYXbLlV9KV9NpkRZ"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194323,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/6CxLWEMIvFEWG7XdSXlBIf"
+    },
+    {
+      "album": {
         "name": "Hikari no Machi",
         "url": "https://open.spotify.com/album/4QgRX4IxQhOEfSUL1LnaPW"
       },
@@ -4807,6 +4905,24 @@
       "duration_ms": 168367,
       "name": "I.Y.A",
       "url": "https://open.spotify.com/track/0zmcTsFBWujjLOlcXGh9yl"
+    },
+    {
+      "album": {
+        "name": "IAI",
+        "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "IAI",
+      "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
     },
     {
       "album": {
@@ -6434,6 +6550,24 @@
     },
     {
       "album": {
+        "name": "mirrors",
+        "url": "https://open.spotify.com/album/2q0X4FKoZdTONf0FVvzRO4"
+      },
+      "artists": [
+        {
+          "name": "sty",
+          "url": "https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205565,
+      "name": "mirrors",
+      "url": "https://open.spotify.com/track/23BxzhKlsUM0M6601eEoQu"
+    },
+    {
+      "album": {
         "name": "Miss You feat. Vernon of SEVENTEEN",
         "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
       },
@@ -6563,7 +6697,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -8007,6 +8141,24 @@
       "duration_ms": 182027,
       "name": "Peel (feat. miida)",
       "url": "https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44"
+    },
+    {
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
     },
     {
       "album": {
@@ -9655,7 +9807,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 198000,
       "name": "Strangelove",
       "url": "https://open.spotify.com/track/6INzIGekIZ6NLdWH7Xy9K9"
@@ -10615,7 +10767,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 272125,
       "name": "Thinking of You (Spotify Singles)",
       "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
@@ -11771,7 +11923,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 166508,
       "name": "why dont we go",
       "url": "https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM"
@@ -12517,7 +12669,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 232128,
       "name": "\u308f\u305f\u3057\u3068\u79c1",
       "url": "https://open.spotify.com/track/4j5ATVuSA3eBLYJt9Okb4b"
@@ -13010,6 +13162,24 @@
     },
     {
       "album": {
+        "name": "\u5e30\u308d\u3046",
+        "url": "https://open.spotify.com/album/22llxDd8RxyTke48sU7j0i"
+      },
+      "artists": [
+        {
+          "name": "Afro Parker",
+          "url": "https://open.spotify.com/artist/5GicEnOZvLtI2F5EuAZAhK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236469,
+      "name": "\u5e30\u308d\u3046",
+      "url": "https://open.spotify.com/track/0WWzKZiAYyM3d8uMlZ5mRI"
+    },
+    {
+      "album": {
         "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
         "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
@@ -13379,7 +13549,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 259200,
       "name": "\u77b3\u60da\u308c",
       "url": "https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c"

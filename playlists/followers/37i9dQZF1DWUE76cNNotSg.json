@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 512204,
+  "2024-02-29": 512459,
   "date_first_scraped": "2021-12-30",
   "description": "Warm indie dance vibes, the music you need at golden hour.",
   "name": "golden hour",
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 285714,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
@@ -6651,6 +6651,28 @@
       "duration_ms": 226120,
       "name": "So Good to Me - Radio Edit",
       "url": "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
+    },
+    {
+      "album": {
+        "name": "Some Kind of Static (Remix)",
+        "url": "https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243855,
+      "name": "Some Kind of Static - Remix",
+      "url": "https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5"
     },
     {
       "album": {

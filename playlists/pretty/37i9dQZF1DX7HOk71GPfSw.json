@@ -1,28 +1,28 @@
 {
   "description": "glaivepilled",
-  "num_followers": 431786,
+  "num_followers": 431824,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2Y1YjBjYjdhZjFlYjBkNGNiZjk0Y2EyZWMxNzlkZjhiYTg1NGY0",
+  "snapshot_id": "MCwzZmRkYjE4OGQxMzY1Nzk3OGNiMTg1NGY5MWM5NGNiODkzNTljNzIx",
   "tracks": [
     {
-      "added_at": "2024-02-16 16:39:59",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "like that",
-        "url": "https://open.spotify.com/album/6cm1fZU1FgWcDP23EsdaYJ"
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9"
       },
       "artists": [
         {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
-      "duration_ms": 157814,
-      "name": "like that",
-      "url": "https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda"
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -61,20 +61,20 @@
       "url": "https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-02-28 21:16:54",
       "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5eApGsISMBKROb2gICEUiT"
       },
       "artists": [
         {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
         }
       ],
-      "duration_ms": 202055,
-      "name": "Britpop",
-      "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
+      "duration_ms": 201141,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9"
     },
     {
       "added_at": "2024-02-16 16:39:59",
@@ -147,6 +147,22 @@
       "duration_ms": 208023,
       "name": "Everything We Tried",
       "url": "https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc"
+    },
+    {
+      "added_at": "2024-02-16 16:39:59",
+      "album": {
+        "name": "like that",
+        "url": "https://open.spotify.com/album/6cm1fZU1FgWcDP23EsdaYJ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "duration_ms": 157814,
+      "name": "like that",
+      "url": "https://open.spotify.com/track/0ssYuHAIV6Lmni0uCpPtda"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1431,26 +1447,6 @@
       "duration_ms": 154356,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Locals (Girls like us) [with gabby start]",
-        "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "gabby start",
-          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "Locals (Girls like us) [with gabby start]",
-      "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
     },
     {
       "added_at": "2024-01-22 16:15:30",

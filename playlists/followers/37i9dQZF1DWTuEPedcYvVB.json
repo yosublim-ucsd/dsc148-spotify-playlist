@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 203013,
+  "2024-02-29": 203064,
   "date_first_scraped": "2022-05-14",
   "description": "The official playlist for Top Boy. Watch the final season on Netflix",
   "name": "Top Boy Official Playlist",
@@ -1225,6 +1225,24 @@
     {
       "album": {
         "name": "Peace & Harmony",
+        "url": "https://open.spotify.com/album/7aqkKTJb6zjJman0lZeYUD"
+      },
+      "artists": [
+        {
+          "name": "Harry Mosco",
+          "url": "https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368392,
+      "name": "Peaceful Dub",
+      "url": "https://open.spotify.com/track/0iZ7I95KZ6cG49sTh5FBgS"
+    },
+    {
+      "album": {
+        "name": "Peace & Harmony",
         "url": "https://open.spotify.com/album/4w0mVprAna8GLFxXq5nJ1r"
       },
       "artists": [
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 368392,
       "name": "Peaceful Dub",
       "url": "https://open.spotify.com/track/5HwFKgAFGw4O3DNM8morCA"

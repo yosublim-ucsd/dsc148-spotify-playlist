@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-110 songs - 5 hr 56 min
+111 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-21 |  |
 | [Khayali](https://open.spotify.com/track/6r7tAWZJKh1bAcDY49IZyh) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khayali](https://open.spotify.com/album/25dlC7CoMPDwTrcMindR3w) | 2:09 | 2022-06-24 | 2022-11-09 |
 | [Leeh Aashgah](https://open.spotify.com/track/0TBgkcyxayUBByqDt0HhNR) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Leeh Aashgah](https://open.spotify.com/album/3txXZExrTSWJaDgIMS4MOv) | 4:04 | 2022-06-24 | 2022-11-09 |
-| [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 | 2022-06-24 |  |
+| [LOVE DOCTOR](https://open.spotify.com/track/3cyW7qRBsH3S95gP1IuXmS) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/3aCQHE7XZbTczZvUwRKqza) | 2:01 | 2024-01-09 |  |
+| [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 | 2022-06-24 | 2024-02-29 |
 | [Mabahrbsh](https://open.spotify.com/track/5HSq2VMchKdVRXR9B1jpgr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabahrbsh](https://open.spotify.com/album/4T7NjcvE00AM4tNqYpIYu5) | 4:05 | 2022-06-24 |  |
 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 | 2022-07-14 |  |
 | [Manni Asef](https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx) | [Ahmad Akkad](https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q) | [Manni Asef](https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo) | 3:30 | 2022-11-03 |  |

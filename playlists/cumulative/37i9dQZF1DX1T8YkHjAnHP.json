@@ -2846,10 +2846,32 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 413114,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1j6czimh8KUuWcf9NcKI5F"
+    },
+    {
+      "album": {
+        "name": "Voices Of Youth",
+        "url": "https://open.spotify.com/album/7B1YlobPnNkEPUJmcJiFFp"
+      },
+      "artists": [
+        {
+          "name": "Sascha Braemer",
+          "url": "https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond"
+        },
+        {
+          "name": "Liza Flume",
+          "url": "https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413114,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/4zgn2qQVkdHjXhlGlOeTnb"
     },
     {
       "album": {

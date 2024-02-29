@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,567 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,372 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 44 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
 | 45 | [Sit Around The Fire](https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 8:22 |
 | 46 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
-| 47 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
-| 48 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
+| 47 | [Triangular Blue Marina](https://open.spotify.com/track/4vrmslCxVAuPRxvi8T1pHs) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/4kmLGEaHtPuXAkm7FQ9QlB) | 2:21 |
+| 48 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |
 | 49 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
 | 50 | [Unladder](https://open.spotify.com/track/3zhaGBOyy7IeBoWnxU84lC) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Cave Dog](https://open.spotify.com/album/7cvPRs0Qpipk58u2iVSM9u) | 1:31 |
 
-Snapshot ID: `MCw2YzVkNTkwZTRhZGRlN2IyMjY2Zjk0NWY1ODU4YzUzYjliYzBkNjQ4`
+Snapshot ID: `MCw4N2M5OTkxZWU5M2IyYjNkZTI2YmJkNjhiMWQwMGMyYmE5NjM4ODBi`

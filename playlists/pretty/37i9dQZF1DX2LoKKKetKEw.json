@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:7EHtFdWeBK26GJ5lKt02SV\">Reblah</a>",
-  "num_followers": 79903,
+  "num_followers": 79980,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2EyNzNjZjZiNGU1ZjEwMjA3ZTcyYzFhYTYzZWI2MTJjMDY4ODUx",
+  "snapshot_id": "MCxkMWE0MGVlZWNiMWYyNTcwYzhhZGUxMWU0MWRmNDRiMmEwYWIyZmM1",
   "tracks": [
     {
       "added_at": "2024-02-23 09:40:22",
@@ -319,6 +319,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Altar (Hosanna)",
         "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 172035,
       "name": "Altar (Hosanna)",
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Falala",
-        "url": "https://open.spotify.com/album/0LvzPRBuV6iLGBBuSLtP8u"
-      },
-      "artists": [
-        {
-          "name": "Aigbeh D'gong",
-          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 176482,
-      "name": "Falala",
-      "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "My Dey",
         "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
@@ -887,26 +867,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Take It",
-        "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
+        "name": "Falala",
+        "url": "https://open.spotify.com/album/0LvzPRBuV6iLGBBuSLtP8u"
       },
       "artists": [
         {
-          "name": "O'Tobi",
-          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
         },
         {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
+      "duration_ms": 176482,
+      "name": "Falala",
+      "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -931,6 +907,30 @@
       "duration_ms": 201648,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
+      },
+      "artists": [
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 205790,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "The Word",
         "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 172208,
       "name": "The Word",
       "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 205790,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Good 2 Me",
         "url": "https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 227180,
       "name": "Spirit Move",
       "url": "https://open.spotify.com/track/5OOrmtWISmgUF9m5iCSurG"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Beside Me",
+        "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Beside Me",
+      "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Legacy (Remix)",
         "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 205195,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Beside Me",
-        "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
-      },
-      "artists": [
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Beside Me",
-      "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Jesuferanmi",
         "url": "https://open.spotify.com/album/6xYsSaliEGAUM6d3bioeNi"
       },
@@ -1631,6 +1611,46 @@
       "duration_ms": 166735,
       "name": "Jesuferanmi",
       "url": "https://open.spotify.com/track/2vNFO83pPzGWCUesCnGePr"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "By Design (Special Version)",
+        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "By Design - Special Version",
+      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1731,26 +1751,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "By Design (Special Version)",
-        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
-      },
-      "artists": [
-        {
-          "name": "Echow Clay",
-          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "By Design - Special Version",
-      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "Right Here (It Must Be)",
         "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
       },
@@ -1839,30 +1839,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Salama",
-        "url": "https://open.spotify.com/album/2mHBDqJk4iieUSIFLXTE9E"
-      },
-      "artists": [
-        {
-          "name": "JoeKings",
-          "url": "https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR"
-        },
-        {
-          "name": "Enakeno",
-          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
-        },
-        {
-          "name": "Noble City",
-          "url": "https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY"
-        }
-      ],
-      "duration_ms": 187768,
-      "name": "Salama",
-      "url": "https://open.spotify.com/track/3Ue9FEj4cAJjv2Gq7hOZ0g"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
       },
@@ -1879,26 +1855,6 @@
       "duration_ms": 117955,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
-        "name": "Be Like",
-        "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
-      },
-      "artists": [
-        {
-          "name": "Eriko NWA",
-          "url": "https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1"
-        },
-        {
-          "name": "GIDYON",
-          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Be Like",
-      "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -1923,6 +1879,26 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Be Like",
+        "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
+      },
+      "artists": [
+        {
+          "name": "Eriko NWA",
+          "url": "https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1"
+        },
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Be Like",
+      "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
       },
@@ -1943,6 +1919,30 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/2mHBDqJk4iieUSIFLXTE9E"
+      },
+      "artists": [
+        {
+          "name": "JoeKings",
+          "url": "https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR"
+        },
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        },
+        {
+          "name": "Noble City",
+          "url": "https://open.spotify.com/artist/2IZSVIW7JctOMEvfw8hbaY"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/3Ue9FEj4cAJjv2Gq7hOZ0g"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
         "name": "Suo M\u00e9",
         "url": "https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv"
       },
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "You Alone Art Worthy",
-        "url": "https://open.spotify.com/album/1st59u3QKaAuenP5mIbqpf"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 445424,
-      "name": "You Alone Art Worthy",
-      "url": "https://open.spotify.com/track/0Lm1DyxP4CCBUp6YLw1vOW"
-    },
-    {
-      "added_at": "2024-02-23 09:40:22",
-      "album": {
         "name": "ATTENTION",
         "url": "https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 203076,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE"
+    },
+    {
+      "added_at": "2024-02-23 09:40:22",
+      "album": {
+        "name": "You Alone Art Worthy",
+        "url": "https://open.spotify.com/album/1st59u3QKaAuenP5mIbqpf"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 445424,
+      "name": "You Alone Art Worthy",
+      "url": "https://open.spotify.com/track/0Lm1DyxP4CCBUp6YLw1vOW"
     },
     {
       "added_at": "2024-02-23 09:40:22",
@@ -2027,18 +2027,22 @@
     {
       "added_at": "2024-02-23 09:40:22",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/5ThPlUZMWm5XlDzAqfR4dt"
+        "name": "For my mind",
+        "url": "https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm"
       },
       "artists": [
         {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/075n6Vdn3LDL8t0zxzak1W"
+      "duration_ms": 153469,
+      "name": "For my mind",
+      "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
     }
   ],
   "unique_name": "AfroGospel",

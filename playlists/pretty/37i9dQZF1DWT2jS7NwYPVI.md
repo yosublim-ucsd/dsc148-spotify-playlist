@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your rock/alt cheat sheet \| Cover: Microwave
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,899 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,963 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 77 | [Dial \*](https://open.spotify.com/track/6upqCGB20zxnfyc4GuqF4u) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Dial \*](https://open.spotify.com/album/5k8V9QbgYVXwZ1spPoMYAj) | 3:07 |
 | 78 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 |
 | 79 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 |
-| 80 | [Never Fucked Up Twice](https://open.spotify.com/track/3SLtjk1W7JsATIdVV6n9xV) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Life Under The Sun](https://open.spotify.com/album/4FrS6gh5MRzq7AqbbWcZ8w) | 2:33 |
+| 80 | [Never Fucked Up Twice \[Feat\. Bully\]](https://open.spotify.com/track/3SLtjk1W7JsATIdVV6n9xV) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Life Under The Sun](https://open.spotify.com/album/4FrS6gh5MRzq7AqbbWcZ8w) | 2:33 |
 | 81 | [Happy Ending](https://open.spotify.com/track/1l1eXQ1g5Wj0hd17smIWpU) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Happy Ending](https://open.spotify.com/album/50k91pmxOCFAl9vqQj3P4V) | 2:41 |
 | 82 | [Eternal](https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Eternal](https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b) | 2:18 |
 | 83 | [Lemonade](https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Lemonade](https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE) | 3:26 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 119 | [Apollo](https://open.spotify.com/track/6NMUkluQ4ZI6XwGuqH2Z2n) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [Apollo](https://open.spotify.com/album/4x11dM49Sq4awkswFoJfoR) | 3:19 |
 | 120 | [supernAtural](https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l) | [dye](https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT) | [supernAtural](https://open.spotify.com/album/0yFDcLCs2xq8RR48hWNpOu) | 2:39 |
 
-Snapshot ID: `MCw5OWFiYmMwMDY3YTgwZjVkZjg2M2I0ZTc0YWUxZDUyZDZiNzc0NmIw`
+Snapshot ID: `MCwzYWFjZDEyYTZiZDcxZjhjZGUwMjI1ZDQ5YTJlMDgxMWNiOWEwZjBk`

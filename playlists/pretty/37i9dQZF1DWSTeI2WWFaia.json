@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
-  "num_followers": 1602434,
+  "num_followers": 1602429,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGM4OWYzZjZkYTg5YmVkZTFlNTNkZmQ4MzA3MDgyOWIwNDVjZDRj",
+  "snapshot_id": "MCxlZjgyNTA3YTRkZmM5MzQ2ZjQ2MGE1ZWQ1ZTY5OTRmYTM5MWY2MzRl",
   "tracks": [
     {
       "added_at": "2024-02-23 04:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "Instincts",
-        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 236199,
-      "name": "Instincts",
-      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "Instincts",
+        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Instincts",
+      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "BRON",
-        "url": "https://open.spotify.com/album/4cCYV9iMR8cWSM1MBYlbWB"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 148702,
-      "name": "BRON",
-      "url": "https://open.spotify.com/track/0ZnuDlDFjSCphxqtB04Oq1"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 137197,
       "name": "black mirror",
       "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "BRON",
+        "url": "https://open.spotify.com/album/4cCYV9iMR8cWSM1MBYlbWB"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 148702,
+      "name": "BRON",
+      "url": "https://open.spotify.com/track/0ZnuDlDFjSCphxqtB04Oq1"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
         "name": "Give & Give",
         "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 159220,
       "name": "Give & Give",
       "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 171192,
-      "name": "Suicide in Selfridges",
-      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
-    },
-    {
-      "added_at": "2024-02-23 04:00:00",
-      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
+    },
+    {
+      "added_at": "2024-02-23 04:00:00",
+      "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 171192,
+      "name": "Suicide in Selfridges",
+      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
+      "duration_ms": 107992,
+      "name": "FLYGOD 2x",
+      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
     },
     {
       "added_at": "2024-02-23 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-02-23 04:00:00",
       "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
       "artists": [
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 107992,
-      "name": "FLYGOD 2x",
-      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "added_at": "2024-02-23 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Sebastian Gaskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,241 likes - 31 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,251 likes - 31 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 30 | [Nobody Knows Me](https://open.spotify.com/track/1x4VtaTNFucF4OafCC4yH5) | [Semiah](https://open.spotify.com/artist/3A49ypDX1xiexcxLr4tY1I) | [After the Night Ends](https://open.spotify.com/album/0TkqR0BprDV509mCbhoz4J) | 3:16 |
 | 31 | [Snakehold](https://open.spotify.com/track/2PxJHemFq1WTh2W8rGgkF2) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Snakehold](https://open.spotify.com/album/3sDHr2DOEbSTgj3M0YBWpg) | 3:26 |
 
-Snapshot ID: `MCxhNzFiMGFlMzFkMTc1YWQ3YWVmNDIyN2MwYTRkNmE4NDkwNGRkZTE4`
+Snapshot ID: `MCw2ZGYzODE1ZGU5ZTRmOGE5NGIwNTUzZTUwOTBiOTQ3OGFiM2E1ODJi`

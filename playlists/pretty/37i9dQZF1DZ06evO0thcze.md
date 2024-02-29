@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,534 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,554 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 19 | [Para Que Vuelvas](https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:17 |
 | 20 | [Mas Vale Cholo](https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:13 |
 | 21 | [Guadalajara](https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Guadalajara](https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow) | 3:49 |
-| 22 | [Por Ti Estoy Loco](https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Ti Estoy Loco](https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8) | 3:42 |
-| 23 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 |
+| 22 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 |
+| 23 | [Por Ti Estoy Loco](https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Ti Estoy Loco](https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8) | 3:42 |
 | 24 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 |
 | 25 | [Callao](https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Callao](https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L) | 2:58 |
 | 26 | [Lento Y Contento](https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 50 | [Creo En Mi](https://open.spotify.com/track/6n6sZz85ncrEiOaNNrjs4c) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Creo En Mi](https://open.spotify.com/album/0hgY2SAqUIOT10A3q9Qxj9) | 3:08 |
 | 51 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 |
 
-Snapshot ID: `Mjg0ODM5MjIsMDAwMDAwMDA4NzFmOTBhNjI4YjcyNjgxZDI4YWMxYTQwMDVmYWE2YQ==`
+Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDA4ZTc3MDkxZjI3ZTY3Y2UzMTQyYzBlYjVjZTkxOGRjNg==`

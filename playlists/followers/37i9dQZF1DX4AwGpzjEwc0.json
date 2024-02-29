@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 38087,
+  "2024-02-29": 38103,
   "date_first_scraped": "2023-10-15",
   "description": "Un suave trasfondo musical para mantener el foco en tus tareas.",
   "name": "M\u00fasica Instrumental para Estudiar",
@@ -726,6 +726,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128946,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l"
+    },
+    {
+      "album": {
         "name": "Big Sur",
         "url": "https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf"
       },
@@ -921,6 +939,24 @@
       "duration_ms": 123703,
       "name": "Chalet",
       "url": "https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz"
+    },
+    {
+      "album": {
+        "name": "Chanson Pour Un Amour Perdu",
+        "url": "https://open.spotify.com/album/4wSJswIZfgIzd3yxGdckFn"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Chanson Pour Un Amour Perdu",
+      "url": "https://open.spotify.com/track/0Wycng7AsIXY48TYFgEtYr"
     },
     {
       "album": {
@@ -3074,6 +3110,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0ERw99NkSbEIhUP7Wk8fFH"
+      },
+      "artists": [
+        {
+          "name": "Emil Bod\u00e9n",
+          "url": "https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2cTUL54dd9dHbsxkio7Wtz"
+    },
+    {
+      "album": {
         "name": "Just One More Time",
         "url": "https://open.spotify.com/album/0anG6601TeFBgmXTvV0tJ0"
       },
@@ -4748,6 +4802,24 @@
     },
     {
       "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "album": {
         "name": "Prelude on the Street",
         "url": "https://open.spotify.com/album/05NwlW7OwtmEHcugIiq7pP"
       },
@@ -5123,6 +5195,24 @@
       "duration_ms": 130332,
       "name": "Resist",
       "url": "https://open.spotify.com/track/6niE7nOFrS1i5BTpBtj6eL"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
     },
     {
       "album": {

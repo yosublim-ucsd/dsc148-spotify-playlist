@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 129598,
+  "num_followers": 129619,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzFkMjkyZTkxMWRhYzJkOTRlZTBhODI1MzU3NWE1YTQ0OGJmOTBh",
+  "snapshot_id": "MCw5MzE1MTkxMzcwZmJhNTU5MzlkNWJjNWQ0NWY0YmY3YTE3Yzk3ZWY4",
   "tracks": [
     {
       "added_at": "2024-02-27 15:00:00",
@@ -919,22 +919,18 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        },
-        {
-          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
-          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 327191,
-      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
+      "duration_ms": 201426,
+      "name": "Bedroom Talk",
+      "url": "https://open.spotify.com/track/4mjO91PDIPlY5a9iYu3kzD"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -955,18 +951,22 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "Editorial",
-        "url": "https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu"
+        "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        },
+        {
+          "name": "\u5869\u585a\u30e2\u30a8\u30ab",
+          "url": "https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr"
         }
       ],
-      "duration_ms": 201426,
-      "name": "Bedroom Talk",
-      "url": "https://open.spotify.com/track/4mjO91PDIPlY5a9iYu3kzD"
+      "duration_ms": 327191,
+      "name": "\u30b5\u30fc\u30ab\u30b9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 128291,
-      "name": "Quarantine Mood",
-      "url": "https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 128291,
+      "name": "Quarantine Mood",
+      "url": "https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
-      },
-      "artists": [
-        {
-          "name": "Jane Jade",
-          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
-        },
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        },
-        {
-          "name": "SAKURA FUJIWARA",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
@@ -1335,6 +1311,30 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
+      },
+      "artists": [
+        {
+          "name": "Jane Jade",
+          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        },
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -1347,26 +1347,6 @@
       "duration_ms": 233666,
       "name": "NEVER FALL IN LOVE AGAIN",
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
-        "name": "Karakai",
-        "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
-      },
-      "artists": [
-        {
-          "name": "Sweet William",
-          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
-        },
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Karakai",
-      "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1391,18 +1371,22 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u3057\u304b",
-        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
+        "name": "Karakai",
+        "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
       "artists": [
         {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 240532,
-      "name": "\u3044\u3064\u3057\u304b",
-      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+      "duration_ms": 242000,
+      "name": "Karakai",
+      "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 401173,
       "name": "\u304a\u3042\u3044\u3053",
       "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "\u3044\u3064\u3057\u304b",
+        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
+      },
+      "artists": [
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        }
+      ],
+      "duration_ms": 240532,
+      "name": "\u3044\u3064\u3057\u304b",
+      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "\u96ea\u89e3",
         "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 250000,
       "name": "\u96ea\u89e3",
       "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
     },
     {
       "added_at": "2024-02-27 15:00:00",

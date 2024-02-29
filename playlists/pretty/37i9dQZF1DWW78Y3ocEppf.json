@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43227,
+  "num_followers": 43237,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz",
+  "snapshot_id": "MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -417,26 +417,6 @@
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Scars II",
-        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 176385,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "How Does It Feel",
@@ -455,6 +435,26 @@
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
       "added_at": "2023-09-08 05:11:32",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Hardlife",
-      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Nuclear Reactor",
@@ -599,6 +583,22 @@
       "duration_ms": 195498,
       "name": "Nuclear Reactor",
       "url": "https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/6fWbDYXfnAPJWfgzWrRaW0"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "Outside Freestyle",
-      "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Sin on Purpose",
@@ -687,6 +671,22 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "Outside Freestyle",
+      "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229854,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Grudges",
@@ -787,6 +771,22 @@
       "duration_ms": 213736,
       "name": "LMK",
       "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229854,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Bout Mine",
-        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Bout Mine",
-      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Before We Crash",
@@ -973,20 +957,20 @@
       "url": "https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2022-10-28 04:22:42",
       "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
+        "name": "Bout Mine",
+        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
       },
       "artists": [
         {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 151730,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
+      "duration_ms": 147613,
+      "name": "Bout Mine",
+      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1065,26 +1065,6 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Eimaral Sol",
-          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
-        }
-      ],
-      "duration_ms": 199563,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tripolar 3",
@@ -1121,22 +1101,6 @@
       "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Pretty Conversation",
-        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
-    },
-    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Just Like Me",
@@ -1155,6 +1119,42 @@
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+    },
+    {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/282Gfam1HA1HeQLINewp9V"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
     },
     {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Presence",
@@ -1407,22 +1423,6 @@
       "duration_ms": 184736,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 147792,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Pretty Ass Bish",
-        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 143743,
-      "name": "Pretty Ass Bish",
-      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "LOVERS WAVE VOL. 1",
@@ -1539,6 +1523,22 @@
       "duration_ms": 108588,
       "name": "Care",
       "url": "https://open.spotify.com/track/1SGEUpFPiZJZLGPrEkxD0R"
+    },
+    {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Pretty Ass Bish",
+        "url": "https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 143743,
+      "name": "Pretty Ass Bish",
+      "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1573,26 +1573,6 @@
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "Maddest Hoes",
-        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Maddest Hoes",
-      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "'95 Civic",
@@ -1623,6 +1603,26 @@
       "duration_ms": 143903,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+    },
+    {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Maddest Hoes",
+        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Maddest Hoes",
+      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1725,22 +1725,6 @@
       "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "From Me, To Me",
-        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Opps",
-      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "I'M THE PROBLEM",
@@ -1755,6 +1739,22 @@
       "duration_ms": 228334,
       "name": "This Man",
       "url": "https://open.spotify.com/track/37kCALixWCeDkqMSCITzmA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "From Me, To Me",
+        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
+      },
+      "artists": [
+        {
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Opps",
+      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
     }
   ],
   "unique_name": "Some Kinda Way",

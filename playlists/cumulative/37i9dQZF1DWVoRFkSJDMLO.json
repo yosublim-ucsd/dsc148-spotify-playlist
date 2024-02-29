@@ -2362,10 +2362,6 @@
       },
       "artists": [
         {
-          "name": "Dj Lub's",
-          "url": "https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh"
-        },
-        {
           "name": "Vybz Kartel",
           "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         },
@@ -2376,6 +2372,10 @@
         {
           "name": "Maureen",
           "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Dj Lub's",
+          "url": "https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh"
         }
       ],
       "date_added": "2024-01-19",

@@ -4,7 +4,7 @@
 
 > A Spotify program to promote exciting artists! RADAR BNLX:  Roxy Dekker \(cover\) Kids With Buns en Siggy & D1ns.
 
-164 songs - 8 hr 38 min
+165 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Body And Mind](https://open.spotify.com/track/3IRooi7Z3RsocwcQblHza8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:06 | 2021-12-10 | 2022-10-13 |
 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 | 2022-10-05 | 2022-10-18 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2021-12-10 | 2022-06-17 |
-| [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 | 2024-01-18 |  |
+| [Broken](https://open.spotify.com/track/3EJ7h1f0Nvvnpt1mRNCcOz) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn of the Freak](https://open.spotify.com/album/30hYMe8HUStB6y0pB0lJCd) | 4:45 | 2024-01-18 |  |
+| [Broken](https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:45 | 2024-01-18 | 2024-02-29 |
 | [Can't Let Go](https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [The Godfather](https://open.spotify.com/artist/4cwes8iJ00ShgVaEX7yKZb), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Can't Let Go](https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h) | 3:14 | 2023-04-06 | 2023-09-15 |
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-05-20 | 2022-08-26 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2021-12-10 | 2022-10-18 |

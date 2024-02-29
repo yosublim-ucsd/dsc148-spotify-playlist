@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632249,
+  "num_followers": 632279,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNhZjc5NzI2YjU3NTE1YTc0YmM2NTQ3M2JlZDZjMDljYWQ5Njlj",
+  "snapshot_id": "MCw1NGY5OWFhNzYzNTM0OGM5M2E1YmE0NWQxNGU1YTNiZmVhOWZiYjE1",
   "tracks": [
     {
       "added_at": "2024-02-22 17:41:30",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
-      },
-      "artists": [
-        {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
-        }
-      ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Teegarden C",
         "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 248896,
       "name": "Standing Wave",
       "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+      },
+      "artists": [
+        {
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -683,6 +683,38 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
+      },
+      "artists": [
+        {
+          "name": "Aerin Villegas",
+          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Falling Blue Stars",
+        "url": "https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js"
+      },
+      "artists": [
+        {
+          "name": "Sal Lastra",
+          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Falling Blue Stars",
+      "url": "https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
         "name": "Porto Fino",
         "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
       },
@@ -727,6 +759,22 @@
       "duration_ms": 186601,
       "name": "Libero",
       "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/6wf1iHlQVWpkNvmA9t3H9u"
+      },
+      "artists": [
+        {
+          "name": "Santiago Penitente",
+          "url": "https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -779,6 +827,22 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
         "name": "Lumiere",
         "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
       },
@@ -807,22 +871,6 @@
       "duration_ms": 295714,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/5zNml5sSchBxnzAaWfbJVF"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/2tp1DL2nULGfK6z93dUhGZ"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -907,22 +955,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
-      },
-      "artists": [
-        {
-          "name": "Ljomo",
-          "url": "https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Somi",
         "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
       },
@@ -935,6 +967,22 @@
       "duration_ms": 227093,
       "name": "Minism",
       "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
+      },
+      "artists": [
+        {
+          "name": "Ljomo",
+          "url": "https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -955,22 +1003,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
-      },
-      "artists": [
-        {
-          "name": "Tom Ellenhag",
-          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
-        }
-      ],
-      "duration_ms": 188940,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -983,6 +1015,22 @@
       "duration_ms": 146499,
       "name": "Hibernia Sleep",
       "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ellenhag",
+          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
+        }
+      ],
+      "duration_ms": 188940,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1019,22 +1067,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
-      },
-      "artists": [
-        {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
       },
@@ -1047,6 +1079,22 @@
       "duration_ms": 191000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1147,38 +1195,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "The Acoustic Mind - Vol. 1",
         "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
       },
@@ -1215,22 +1231,34 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1263,6 +1291,26 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2024-02-22 17:41:30",
@@ -1507,22 +1555,6 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
         "name": "Hope And Glory",
         "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
       },
@@ -1555,6 +1587,22 @@
     {
       "added_at": "2024-02-22 17:41:30",
       "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+    },
+    {
+      "added_at": "2024-02-22 17:41:30",
+      "album": {
         "name": "Tranquillo",
         "url": "https://open.spotify.com/album/6Ii8nqRSP1GXwaYx2Zl1sQ"
       },
@@ -1567,54 +1615,6 @@
       "duration_ms": 131339,
       "name": "Luna",
       "url": "https://open.spotify.com/track/4WukGsbJZHciloJygVdG63"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "Tenebris",
-        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 233174,
-      "name": "Aragorn",
-      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
-    },
-    {
-      "added_at": "2024-02-22 17:41:30",
-      "album": {
-        "name": "Gotham",
-        "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
-      },
-      "artists": [
-        {
-          "name": "Claes Nilsson",
-          "url": "https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9"
-        }
-      ],
-      "duration_ms": 150550,
-      "name": "Gotham (acoustic)",
-      "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
     }
   ],
   "unique_name": "DayDreamer",

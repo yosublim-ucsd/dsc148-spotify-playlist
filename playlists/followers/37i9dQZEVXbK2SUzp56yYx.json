@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 1340,
+  "2024-02-29": 1340,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -28,6 +28,36 @@
     },
     {
       "album": {
+        "name": "Automotivo XM, Taka Taka Taka T\u00e1",
+        "url": "https://open.spotify.com/album/12djCPA2ISdr1H8jbU9lIY"
+      },
+      "artists": [
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "Mc Lullu",
+          "url": "https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD"
+        },
+        {
+          "name": "Mc Erikah",
+          "url": "https://open.spotify.com/artist/0TxoLMLA79mHKkRRe2dxEs"
+        },
+        {
+          "name": "Kinechan",
+          "url": "https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Automotivo XM, Taka Taka Taka T\u00e1",
+      "url": "https://open.spotify.com/track/4rKg1ll9sfAvDa3sqeaL9C"
+    },
+    {
+      "album": {
         "name": "Bad Feeling (Oompa Loompa)",
         "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
       },
@@ -43,6 +73,24 @@
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "album": {
+        "name": "BALLOUT",
+        "url": "https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB"
+      },
+      "artists": [
+        {
+          "name": "unki",
+          "url": "https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101892,
+      "name": "BALLOUT",
+      "url": "https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX"
     },
     {
       "album": {
@@ -136,6 +184,40 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -147,7 +229,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -375,6 +457,32 @@
       "duration_ms": 109767,
       "name": "FREETATO",
       "url": "https://open.spotify.com/track/3nTrjR697Wt8FVLEIZqwiO"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
       "album": {
@@ -795,7 +903,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 98192,
       "name": "krushed! - remix",
       "url": "https://open.spotify.com/track/63mLDC0ipF6NqJIjsS5gcx"
@@ -971,7 +1079,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 141913,
       "name": "Miu Miu",
       "url": "https://open.spotify.com/track/71QJGJwpOwzpZEEinX345r"
@@ -1325,7 +1433,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 90305,
       "name": "Out For Love",
       "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
@@ -1461,7 +1569,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 95682,
       "name": "Respectless",
       "url": "https://open.spotify.com/track/2LyuaHvi331NSj44dOxulG"
@@ -1653,7 +1761,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
@@ -1707,7 +1815,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 112423,
       "name": "TryToFriend",
       "url": "https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh"
@@ -1725,7 +1833,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -2045,7 +2153,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 188677,
       "name": "You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"
@@ -2179,7 +2287,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 162264,
       "name": "\u0412\u0438\u043d\u043e\u0432\u0430\u0442\u0430 \u0441\u0430\u043c\u0430..",
       "url": "https://open.spotify.com/track/2SEke4aQ4dl7wqvhurhhQp"
@@ -2491,7 +2599,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 204900,
       "name": "\u043d\u0435\u043c\u0435\u0440\u0435\u043d\u043e",
       "url": "https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM"
@@ -2531,6 +2639,24 @@
       "duration_ms": 107717,
       "name": "\u041e\u043d \u0433\u0435\u043d\u0438\u0430\u043b\u0435\u043d",
       "url": "https://open.spotify.com/track/6nkxIA8MKHQT6R8nI63c9u"
+    },
+    {
+      "album": {
+        "name": "\u041e\u043d \u0433\u0435\u043d\u0438\u0430\u043b\u0435\u043d (Speed Up)",
+        "url": "https://open.spotify.com/album/5bNuZeNO2g925MxNVEQHSn"
+      },
+      "artists": [
+        {
+          "name": "wassupz7",
+          "url": "https://open.spotify.com/artist/0Y5m709rxv4V84b9ALPmzE"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83488,
+      "name": "\u041e\u043d \u0433\u0435\u043d\u0438\u0430\u043b\u0435\u043d (Speed Up)",
+      "url": "https://open.spotify.com/track/2bl6y3LTqr12unuAHRJPUh"
     },
     {
       "album": {
@@ -2712,6 +2838,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u043e\u0449\u0430\u0439",
+        "url": "https://open.spotify.com/album/4aZvqPGPi99bQrneYCehkj"
+      },
+      "artists": [
+        {
+          "name": "VEIGEL",
+          "url": "https://open.spotify.com/artist/1ytdF21tIxLMqAdrJ5uDsI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160444,
+      "name": "\u041f\u0440\u043e\u0449\u0430\u0439",
+      "url": "https://open.spotify.com/track/3UbEuHhnV3kwJi5bgnhlml"
+    },
+    {
+      "album": {
         "name": "\u041a\u0435\u0442\u0430\u043c\u0438\u043d\u043e\u0432\u0430\u044f \u044f\u043c\u0430",
         "url": "https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP"
       },
@@ -2723,7 +2867,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 117740,
       "name": "\u0420\u0430\u0437\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0435 \u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438",
       "url": "https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE"
@@ -2955,6 +3099,42 @@
       "duration_ms": 165600,
       "name": "\u042f \u0438\u0434\u0443 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
       "url": "https://open.spotify.com/track/41QD3JUCrI1H3SRolaBtln"
+    },
+    {
+      "album": {
+        "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137714,
+      "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
+    },
+    {
+      "album": {
+        "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
+        "url": "https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190850,
+      "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
+      "url": "https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Skifoan und H\u00fcttenabriss.",
-  "num_followers": 396715,
+  "num_followers": 396863,
   "original_name": "Apr\u00e8s Ski Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWY2ZWY4YjZjMzVkYWQ3NjQ1ZmYxYTkyN2ZmODFhOTQ4MmNjNmVk",
+  "snapshot_id": "MCwxMDY4N2VmZmFjOGQyYThmN2I2OTEzYjZmZjAyZDY5MTUxOWFkNzlk",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -63,6 +63,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Delfin",
+        "url": "https://open.spotify.com/album/2iQfLRK1JiGkgIHcbtgyGY"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        }
+      ],
+      "duration_ms": 175984,
+      "name": "Delfin",
+      "url": "https://open.spotify.com/track/5WJEoex0MzOYDk66Knt2iz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Nummer Eins",
         "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 150857,
       "name": "Bumsbar",
       "url": "https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Delfin",
-        "url": "https://open.spotify.com/album/2iQfLRK1JiGkgIHcbtgyGY"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Honk!",
-          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
-        }
-      ],
-      "duration_ms": 175984,
-      "name": "Delfin",
-      "url": "https://open.spotify.com/track/5WJEoex0MzOYDk66Knt2iz"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Farbenspiel",
-        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Atemlos durch die Nacht",
-      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Das Beste von Geier Sturzflug",
-        "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
-      },
-      "artists": [
-        {
-          "name": "Geier Sturzflug",
-          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Bruttosozialprodukt",
-      "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Das Beste von Geier Sturzflug",
+        "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
+      },
+      "artists": [
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Bruttosozialprodukt",
+      "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Nummer Eins",
-        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 208877,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6l38mlHmXSlVmDFO6YZgQH"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Mitten in die Scheibe",
         "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 167280,
       "name": "Can You English Please",
       "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "duration_ms": 208877,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6l38mlHmXSlVmDFO6YZgQH"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
-        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
       },
       "artists": [
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
         }
       ],
-      "duration_ms": 223671,
-      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+        "name": "Johnny D\u00e4pp (Ich Will Mallorca Zur\u00fcck)",
+        "url": "https://open.spotify.com/album/6TEyDsyMfoXrcLCHJl7HOw"
       },
       "artists": [
         {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
         }
       ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/014Jl3WPQF9AT3kQRWVmku"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Ich will mehr",
-        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Petry",
-          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Wahnsinn",
-      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Auf zum Apr\u00e8s Ski",
         "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 177750,
       "name": "Auf zum Apr\u00e8s Ski",
       "url": "https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
       },
       "artists": [
         {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Knicklicht",
-        "url": "https://open.spotify.com/album/3kklz0c9Z29XpvMv1e1rvq"
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
       },
       "artists": [
         {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Knicklicht",
-      "url": "https://open.spotify.com/track/6wXGstjGjHtMoGnJ8dar1M"
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2024-02-15 23:00:00",

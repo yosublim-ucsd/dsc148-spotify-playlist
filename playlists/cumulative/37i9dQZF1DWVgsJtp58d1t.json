@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music each and every Friday. In honor of Black History Month, we\u2019re giving flowers to prominent artists and their managers. <a href=\"https://www.instagram.com/p/C32oGnerP0_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">Let's get into it</a>.\n\nCover: Victoria Monet and Rachelle Jean-Louis",
+  "description": "New music each and every Friday. In honor of Black History Month, we\u2019re giving flowers to prominent artists and their managers. \n <a href=\"https://www.instagram.com/p/C35MwS5rEYh/?utm_source=ig_web_copy_link\">Let's get into it</a>.\n\nCover: Teezo Touchdown and Amal Noor",
   "name": "This Is Frequency",
   "tracks": [
     {
@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
@@ -23462,7 +23462,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
@@ -25206,7 +25206,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 166626,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
@@ -36472,7 +36472,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
@@ -45560,7 +45560,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 187058,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP"
@@ -48783,6 +48783,28 @@
     },
     {
       "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132786,
+      "name": "Sweet (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/3263IAstJQPEXSONvQjE3T"
+    },
+    {
+      "album": {
         "name": "Sweet Bounce",
         "url": "https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3"
       },
@@ -50768,7 +50790,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 156920,
       "name": "Third Coast",
       "url": "https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8"
@@ -53352,6 +53374,24 @@
       "duration_ms": 122617,
       "name": "up all week (with slowthai)",
       "url": "https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184335,
+      "name": "Up And Down",
+      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
       "album": {

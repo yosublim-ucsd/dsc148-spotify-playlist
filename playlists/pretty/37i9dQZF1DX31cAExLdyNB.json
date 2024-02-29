@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 65734,
+  "num_followers": 65755,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjVhZGE0Y2YwYzRjNzFlNjQzMGQzNTdhNDAxOGJlYTgzMTBjZGU3",
+  "snapshot_id": "MCw1MjM5N2E4ZDE3YWIzOGJlMTY4M2UxOTg0ZDkzODFhODUzYjQ4YmRi",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
+      },
+      "artists": [
+        {
+          "name": "Viratempo",
+          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Se Eu Soubesse",
+      "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "How Long Have You Been Away?",
         "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 268434,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt"
-      },
-      "artists": [
-        {
-          "name": "Viratempo",
-          "url": "https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Se Eu Soubesse",
-      "url": "https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Invierno (Remix)",
-        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "Alondra M\u00e1ynez",
-          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Invierno (Remix)",
-      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "M\u00e1quina Yin Yang",
         "url": "https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 274576,
       "name": "Los Buenos Tiempos",
       "url": "https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Invierno (Remix)",
+        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Invierno (Remix)",
+      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
       "added_at": "2023-03-10 05:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 3589829,
+  "2024-02-29": 3589903,
   "date_first_scraped": "2021-12-21",
   "description": "It's like rock, but softer. Cover: Billy Joel",
   "name": "Soft Rock",
@@ -3163,10 +3163,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 201880,
       "name": "I Wouldn't Want to Be Like You",
       "url": "https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu"
+    },
+    {
+      "album": {
+        "name": "I Robot",
+        "url": "https://open.spotify.com/album/2vtMi0d0613jhp85klO9eb"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "I Wouldn't Want to Be Like You",
+      "url": "https://open.spotify.com/track/4sCCZW0ezEPAexAidFsoVm"
     },
     {
       "album": {

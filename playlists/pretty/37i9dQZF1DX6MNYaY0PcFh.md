@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,837 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,862 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 24 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
 | 25 | [Don't Leave](https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Don't Leave](https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt) | 3:16 |
 | 26 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
-| 27 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
-| 28 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
+| 27 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
+| 28 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 29 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 |
 | 30 | [Crush](https://open.spotify.com/track/5NUCLEAAQKkP3OoCt19jrK) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys), [Naike](https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu) | [Crush](https://open.spotify.com/album/7v8DgbrDOeGHlDEgKnd2UP) | 3:00 |
 | 31 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Wait](https://open.spotify.com/track/2KqiYfpsHKOztBfS1IGrnO) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wait](https://open.spotify.com/album/5IKgIZI5z9g7r4e927d3zN) | 3:59 |
 | 60 | [Fantasy](https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Fantasy](https://open.spotify.com/album/6ZPXu26XC5sKCp1adu84uj) | 3:34 |
 
-Snapshot ID: `MCxjMWYzNjI3ODU2NjkyYWJiMzk2Mjg3Mzk0ZjA1M2ZhYzU4NDk1Mzgx`
+Snapshot ID: `MCxiZjViNGI5NWMwZTVkMTg1MGExNGI2NGNiMmM0NGMyMWRiNGFkNGE3`

@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 531081,
+  "num_followers": 531090,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjVmNjkwMmMwMmM3ZmY1ZjYwNzk0OTQyZDEzMTNjZGQ2Y2ExYzk3",
+  "snapshot_id": "MCw2ZGUwOWMxMDJjNzRmMWRlNTdhYmM5ZTNjMDQxM2IyYmYyNDQ1OTky",
   "tracks": [
     {
       "added_at": "2023-10-27 12:44:19",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Have 'Twangy' Guitar Will Travel",
-        "url": "https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 143626,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/35ySEC3RyS1w36bkpgj1lT"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "More Mayhem",
         "url": "https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Have 'Twangy' Guitar Will Travel",
+        "url": "https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 143626,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/35ySEC3RyS1w36bkpgj1lT"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Rock Around With Ollie Vee - Alternate Version",
-      "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Rock Billy Boogie",
         "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 153333,
       "name": "Rock Billy Boogie",
       "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Rock Around With Ollie Vee - Alternate Version",
+      "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "In the Mood",
-        "url": "https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu"
-      },
-      "artists": [
-        {
-          "name": "The Playtones",
-          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
-        }
-      ],
-      "duration_ms": 175679,
-      "name": "Chevy 55",
-      "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "In the Mood",
+        "url": "https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu"
+      },
+      "artists": [
+        {
+          "name": "The Playtones",
+          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
+        }
+      ],
+      "duration_ms": 175679,
+      "name": "Chevy 55",
+      "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
-      },
-      "artists": [
-        {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
         "name": "Rockin' the Night Away",
         "url": "https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 173866,
       "name": "Rockin' the Night Away",
       "url": "https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
-        "name": "Presenting Janis Martin",
-        "url": "https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E"
-      },
-      "artists": [
-        {
-          "name": "Janis Martin",
-          "url": "https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq"
-        }
-      ],
-      "duration_ms": 129052,
-      "name": "Drugstore Rock'n'roll",
-      "url": "https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR"
     },
     {
       "added_at": "2023-10-27 12:44:19",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
+        "name": "Presenting Janis Martin",
+        "url": "https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E"
+      },
+      "artists": [
+        {
+          "name": "Janis Martin",
+          "url": "https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq"
+        }
+      ],
+      "duration_ms": 129052,
+      "name": "Drugstore Rock'n'roll",
+      "url": "https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
         "name": "Signs & Signifiers",
         "url": "https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Help Me Out",
-        "url": "https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc"
+        "name": "It's Time!",
+        "url": "https://open.spotify.com/album/15FgIXbNJWM7IHUl3MZTfI"
       },
       "artists": [
         {
-          "name": "The Hotlips",
-          "url": "https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6"
+          "name": "Big Sandy & His Fly-Rite Boys",
+          "url": "https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv"
         }
       ],
-      "duration_ms": 179338,
-      "name": "Help Me Out",
-      "url": "https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE"
+      "duration_ms": 192466,
+      "name": "Chalk It Up to the Blues",
+      "url": "https://open.spotify.com/track/3veOm1JuHx16oeIj7VtCYT"
     }
   ],
   "unique_name": "Rockabilly Mania",

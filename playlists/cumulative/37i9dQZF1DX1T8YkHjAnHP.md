@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-187 songs - 18 hr 6 min
+188 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Rise And Fall](https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 4:33 | 2023-05-24 | 2023-12-26 |
 | [Rise of the Fallen](https://open.spotify.com/track/5QqxYX6HSjMDoUDopyDfYD) | [Sable Sheep](https://open.spotify.com/artist/4XaYCUxd6APqq2eMhOTm5R) | [15 Years of Moon Harbour](https://open.spotify.com/album/7HQ4exOhCovsVc7KR0GwLy) | 6:00 | 2023-02-17 | 2023-08-01 |
 | [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 | 2022-08-02 | 2022-09-10 |
-| [Say It](https://open.spotify.com/track/1j6czimh8KUuWcf9NcKI5F) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Voices Of Youth](https://open.spotify.com/album/6NRMt9DJ5VYAopbXnyadl8) | 6:53 | 2023-07-19 |  |
+| [Say It](https://open.spotify.com/track/1j6czimh8KUuWcf9NcKI5F) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Voices Of Youth](https://open.spotify.com/album/6NRMt9DJ5VYAopbXnyadl8) | 6:53 | 2023-07-19 | 2024-02-29 |
+| [Say It](https://open.spotify.com/track/4zgn2qQVkdHjXhlGlOeTnb) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond), [Liza Flume](https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ) | [Voices Of Youth](https://open.spotify.com/album/7B1YlobPnNkEPUJmcJiFFp) | 6:53 | 2024-01-30 |  |
 | [Set My Mind \- Maxxi Soundsystem Remix](https://open.spotify.com/track/1t5HR7NX7KdTQeFxQERZyz) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z), [Maxxi Soundsystem](https://open.spotify.com/artist/4aS7S2ESEryZfhTWcSgLXk) | [Tuesday Maybe \(Remixed\)](https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw) | 5:04 | 2023-09-25 |  |
 | [Shibuya \- Extended Mix](https://open.spotify.com/track/5RKCwZlR2iYUliH0Kqppl6) | [Tim Baresko](https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp) | [Shibuya](https://open.spotify.com/album/5EqW4b6QJvRuVrxjrW6JND) | 5:39 | 2022-08-02 | 2023-06-13 |
 | [Sight](https://open.spotify.com/track/24MXVlAbvjmnwXlM5n8xvH) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Eric Volta](https://open.spotify.com/artist/1EGw75Ur0rSPaI2lvVih8f) | [Sight](https://open.spotify.com/album/6RVgir3ThbD5IHoXfLIoHc) | 8:08 | 2022-08-02 | 2023-05-24 |

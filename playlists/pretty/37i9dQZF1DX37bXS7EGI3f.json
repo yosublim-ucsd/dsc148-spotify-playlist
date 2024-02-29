@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474\">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of \"The Catalyst.\"",
-  "num_followers": 762878,
+  "num_followers": 762946,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWNiM2JiM2M3MDZlZmI5YzdmZTY0Y2IzYzM4MWJmZDY2YzVkOTBk",
+  "snapshot_id": "MCwxNGUzMzE4OGMxOGVmNWY2YWI3MTVlZGQ1MmE3MWQ1Y2JkYjhiMGRl",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "We Shall Remain",
-        "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "We Shall Remain",
-      "url": "https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 252893,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "We Shall Remain",
+        "url": "https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "We Shall Remain",
+      "url": "https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Diamanti",
-        "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
-      },
-      "artists": [
-        {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Pure Life Unfolds",
-      "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
       },
       "artists": [
         {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+      "duration_ms": 305506,
+      "name": "Pure Life Unfolds",
+      "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 265373,
       "name": "New Evil",
       "url": "https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Light up the Sky",
-        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
-      },
-      "artists": [
-        {
-          "name": "REXORIA",
-          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Light up the Sky",
-      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 228000,
       "name": "Interrogativa Cantilena",
       "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Light up the Sky",
+        "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
+      },
+      "artists": [
+        {
+          "name": "REXORIA",
+          "url": "https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Light up the Sky",
+      "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
     },
     {
       "added_at": "2024-02-23 05:00:00",

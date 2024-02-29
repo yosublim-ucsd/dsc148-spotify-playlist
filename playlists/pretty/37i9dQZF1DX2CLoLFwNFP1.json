@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 34920,
+  "num_followers": 34929,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGFkNjdlNDAwNjc0MGFjZGQwNmUyMTU0ZjRhZDYxMjVjZTI4ZDVi",
+  "snapshot_id": "MCxmMjA5ODg5ZDY5YTlhZjI5ZTU4NDMwMmNmN2NjZDk5MmY0MjdlYWFl",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Stay Down",
         "url": "https://open.spotify.com/album/3bhiDPhFZQWkuH5YXMsN22"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 144000,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/1avJ6Pip6R7XPYbgbx6VA5"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -863,42 +863,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "School Rapper4 - Team Battle:Group",
-        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Lil Bemo",
-          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
-        },
-        {
-          "name": "YLN Foreign",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
-        },
-        {
-          "name": "PLUMA",
-          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "Playinwitme (Remix) [feat. Jay Park]",
         "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
       },
@@ -943,6 +907,26 @@
       "duration_ms": 180800,
       "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
+        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
+      },
+      "artists": [
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "DNA (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -995,22 +979,38 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
-        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
+        "name": "School Rapper4 - Team Battle:Group",
+        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
       },
       "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Lil Bemo",
+          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
+        },
         {
           "name": "YLN Foreign",
           "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
         },
         {
+          "name": "PLUMA",
+          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
+        },
+        {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 188106,
-      "name": "DNA (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
+      "duration_ms": 241906,
+      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -2020,9 +2020,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -2036,9 +2036,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 163531,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
       "added_at": "2023-11-27 14:05:19",

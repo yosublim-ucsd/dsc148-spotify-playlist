@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 280221,
+  "num_followers": 280232,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWEwMjFmZmZlNDQ3ZjFhMzcwYTkyMzBkNzQ4ZDEyYTRlNDg5NzVi",
+  "snapshot_id": "MCwyOGQxYmJhYTEwZGE3ZGM3NDdjZWFiYjliYjY3ZmJkOGFjNDVmYzU3",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 234115,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "MALAVIDA (feat. Evlay)",
+      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Lo Que Hay Dentro de M\u00ed",
         "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
@@ -611,22 +631,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Echao\u2019 a perder",
-        "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 168375,
-      "name": "Echao\u2019 a perder",
-      "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Greta Garbo",
         "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
@@ -639,26 +643,6 @@
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Una sensaci\u00f3n",
-        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 197169,
-      "name": "Una sensaci\u00f3n",
-      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -699,22 +683,42 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "LUNA 18",
-        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+        "name": "Una sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
         },
         {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 176160,
-      "name": "MALAVIDA (feat. Evlay)",
-      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+      "duration_ms": 197169,
+      "name": "Una sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "She\u2019s So Cool (with Pale Waves)",
+        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "She\u2019s So Cool (with Pale Waves)",
+      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -739,22 +743,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "She\u2019s So Cool (with Pale Waves)",
-        "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
+        "name": "Echao\u2019 a perder",
+        "url": "https://open.spotify.com/album/37vSNbeXR46dfgii1nAWRx"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 146250,
-      "name": "She\u2019s So Cool (with Pale Waves)",
-      "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+      "duration_ms": 168375,
+      "name": "Echao\u2019 a perder",
+      "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 177348,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
       },
@@ -815,38 +831,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 177348,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Los Flakos",
-        "url": "https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv"
-      },
-      "artists": [
-        {
-          "name": "Los Flakos",
-          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
-        }
-      ],
-      "duration_ms": 212185,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Vuelta en U",
         "url": "https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 182679,
       "name": "Vuelta en U",
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Los Flakos",
+        "url": "https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv"
+      },
+      "artists": [
+        {
+          "name": "Los Flakos",
+          "url": "https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah"
+        }
+      ],
+      "duration_ms": 212185,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -911,22 +911,6 @@
       "duration_ms": 193360,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "El Puesto Es M\u00edo",
-        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179585,
-      "name": "El Puesto Es M\u00edo",
-      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -983,22 +967,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Su\u00e9ltate el pelo",
-        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
+        "name": "El Puesto Es M\u00edo",
+        "url": "https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
         }
       ],
-      "duration_ms": 171904,
-      "name": "Su\u00e9ltate el pelo",
-      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
+      "duration_ms": 179585,
+      "name": "El Puesto Es M\u00edo",
+      "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1019,18 +999,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+        "name": "Su\u00e9ltate el pelo",
+        "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
       "artists": [
         {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+      "duration_ms": 171904,
+      "name": "Su\u00e9ltate el pelo",
+      "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1155,6 +1123,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "FLASHBACKS",
         "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 173000,
       "name": "FLASHBACKS",
       "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "M\u00e1s Tuyo",
-        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179891,
-      "name": "M\u00e1s Tuyo",
-      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 199060,
       "name": "Un Tragaluz",
       "url": "https://open.spotify.com/track/2DPL2XmKCVg0CKcrDO1ozs"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "M\u00e1s Tuyo",
+        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179891,
+      "name": "M\u00e1s Tuyo",
+      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
     },
     {
       "added_at": "2024-02-23 05:00:00",

@@ -4,7 +4,7 @@
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-134 songs - 8 hr 49 min
+135 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [sulky baby](https://open.spotify.com/track/2Euwbryh21DOB5zEH0WT4P) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 4:38 | 2024-02-16 |  |
 | [Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 2:58 | 2022-03-13 | 2024-02-17 |
 | [Take Me Apart](https://open.spotify.com/track/1Oq9PmXtk8PVjbHzrwM79v) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 4:02 | 2024-02-16 |  |
-| [The Gods Must Be Crazy](https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:00 | 2024-02-16 |  |
+| [The Gods Must Be Crazy](https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:00 | 2024-02-16 | 2024-02-29 |
+| [The Gods Must Be Crazy](https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [The Gods Must Be Crazy](https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1) | 3:00 | 2024-02-16 |  |
 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 | 2024-02-16 |  |
 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 | 2024-02-16 |  |
 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 | 2022-03-13 | 2024-01-14 |

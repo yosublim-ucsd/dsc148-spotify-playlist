@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 139771,
+  "num_followers": 139849,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjMwYTVhZTZhMzVlY2I5OWNjZmE2ZTAwYjg5OTRhNWQyYzQ4ZTg0",
+  "snapshot_id": "MCxkMmRjOGM3NTc3MWMxZTAyMTczMDc0ODViZThjN2UzNmYzMTljYjYx",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "En Teatro del Huerto",
         "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 260755,
       "name": "Entre el Cielo Vos y Yo - En Vivo",
       "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Movistar Arena",
-        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Nunca M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184618,
       "name": "Nunca M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Crecer (En Vivo)",
-        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Dime Si Eres Feliz - En Vivo",
-      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "La Gira y La Serenata",
         "url": "https://open.spotify.com/album/5QinfgsUxJrIreNnHyOzTN"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 291054,
       "name": "Pedazo De Papel - En Vivo En Arena Maip\u00fa Mendoza",
       "url": "https://open.spotify.com/track/5JhAgBgjwjCJqgG58QFVmG"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 203253,
-      "name": "M\u00e1tame",
-      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+      "duration_ms": 203253,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Quiero Yo Saber (Donde Esta El Amor)",
-      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 483693,
-      "name": "La Ventanita / Beso a Beso",
-      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+      "duration_ms": 193000,
+      "name": "Quiero Yo Saber (Donde Esta El Amor)",
+      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
     },
     {
       "added_at": "2023-12-29 03:00:00",

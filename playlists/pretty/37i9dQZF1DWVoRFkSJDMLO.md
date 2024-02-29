@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:2IK173RXLiCSQ8fhDlAb3s">Adekunle Gold</a> 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,070 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,099 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 28 | [Is It Real?](https://open.spotify.com/track/4L5Gj9HqAEKMfCofzlAcMz) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Is It Real?](https://open.spotify.com/album/5Lt04Tc6oTfxTee05aZX1E) | 3:29 |
 | 29 | [ACCEPT DAT.](https://open.spotify.com/track/3PHfUHQFPkteSsgQfLMoCt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [ACCEPT DAT.](https://open.spotify.com/album/5wH2R5zxQBz6daM1XXArvN) | 2:53 |
 | 30 | [Waiting For You](https://open.spotify.com/track/2iLDuGXM92uMIOs855P52I) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waiting For You](https://open.spotify.com/album/3er5zEWJfH3A2xRRLKioW8) | 3:17 |
-| 31 | [Bubble It](https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX) | [Dj Lub's](https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Bubble It](https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC) | 3:08 |
+| 31 | [Bubble It](https://open.spotify.com/track/6CeQc09T44QnRAtLrspPaX) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Lub's](https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh) | [Bubble It](https://open.spotify.com/album/4GhGKI1VlGiWV3oORBIrmC) | 3:08 |
 | 32 | [Drift \(Remix\)](https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Drift \(Remix\)](https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i) | 3:21 |
 | 33 | [Nightmares \(feat\. Byron Messia\)](https://open.spotify.com/track/6K9ULKDxIVIxRH5FXPgLoq) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Nightmares \(feat\. Byron Messia\)](https://open.spotify.com/album/08mdyR8CTLUAHG5AR4xkhG) | 2:30 |
 | 34 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [BODY TOUCHING BODY \(feat\. Victoria Monét\)](https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [BORN FOR GREATNESS](https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg) | 2:37 |
 | 100 | [Hate \(feat\. Lojay & Highlyy\) \- Remix](https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B), [WaveIQ](https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA) | [Risk: Reloaded](https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7) | 3:32 |
 
-Snapshot ID: `MCxkMWZkZTAwZGI3Njg4MjE1MDI4ZDEzMDQ4NWY0YmQxNTExYTg3YmRk`
+Snapshot ID: `MCxlNmE1MmZhMDU0NWRhZWU3ZjU5YWNlMzM5NTRhMmM2MGQxZWU5Nzdh`

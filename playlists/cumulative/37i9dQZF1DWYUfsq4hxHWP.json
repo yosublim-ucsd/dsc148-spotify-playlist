@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 179882,
       "name": "A Cigarette",
       "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 192031,
       "name": "Anything But What It Was",
       "url": "https://open.spotify.com/track/5yyGQm1OGtF7xQu6aOlNf5"
@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 187500,
       "name": "Beer For That",
       "url": "https://open.spotify.com/track/5yVlPunFchyYRnxnWvYRTc"
@@ -3398,6 +3398,24 @@
       "duration_ms": 172120,
       "name": "Before You",
       "url": "https://open.spotify.com/track/5nPt2lxfI2Q3IIU6Fry25R"
+    },
+    {
+      "album": {
+        "name": "Beg Your Parton",
+        "url": "https://open.spotify.com/album/3EyqjIkpqdUjw0hkf5Smfr"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Gentlemen",
+          "url": "https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147957,
+      "name": "Beg Your Parton",
+      "url": "https://open.spotify.com/track/6eFEaO0x8HPi9AqFR9wdoL"
     },
     {
       "album": {
@@ -5720,7 +5738,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 224980,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1isy2ovAX2MkaJGAf6CdBe"
@@ -7085,6 +7103,24 @@
     },
     {
       "album": {
+        "name": "Country Back",
+        "url": "https://open.spotify.com/album/3cvKDc4LUbkrT6oqKAmajm"
+      },
+      "artists": [
+        {
+          "name": "Scoot Teasley",
+          "url": "https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "Country Back",
+      "url": "https://open.spotify.com/track/5zddnCsFqqg3bel42qGlS0"
+    },
+    {
+      "album": {
         "name": "Country Boy Livin",
         "url": "https://open.spotify.com/album/430AJGVjip15Wcu5K6Zmb2"
       },
@@ -7118,7 +7154,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 170893,
       "name": "Country Down",
       "url": "https://open.spotify.com/track/0gFdSfvdH6MC7NoqCx1oVt"
@@ -8686,7 +8722,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 186600,
       "name": "Dirt on It",
       "url": "https://open.spotify.com/track/4wpoy10cFgeALXIePThKrT"
@@ -9316,7 +9352,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 176303,
       "name": "Double-Wide World",
       "url": "https://open.spotify.com/track/3m34ITDHvZru65HKWFSbdV"
@@ -11418,7 +11454,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 164413,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/2oHW5EW14gL2VG4q0gRh6j"
@@ -11742,7 +11778,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 146000,
       "name": "Fixin' Things",
       "url": "https://open.spotify.com/track/7gDxbK6cVaa0wYOzFrOkYH"
@@ -12070,7 +12106,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 231960,
       "name": "Friday After Midnight",
       "url": "https://open.spotify.com/track/5GA3u8KiIL1x4Iddm61LgQ"
@@ -13559,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "Got My Number",
+        "url": "https://open.spotify.com/album/1QOwEqDquenrshvfAtZFJd"
+      },
+      "artists": [
+        {
+          "name": "The Roads Below",
+          "url": "https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214369,
+      "name": "Got My Number",
+      "url": "https://open.spotify.com/track/0pmvLX3FBKNNjq8bYqm9JC"
+    },
+    {
+      "album": {
         "name": "Grand Scheme",
         "url": "https://open.spotify.com/album/4Nc985whWfKw9oIOWKKOSZ"
       },
@@ -14298,7 +14352,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 157951,
       "name": "Hate That I Can't Hate You",
       "url": "https://open.spotify.com/track/1cXFk2SXuq42KpOPlewq4Y"
@@ -14320,6 +14374,24 @@
       "duration_ms": 215016,
       "name": "Hate That I Need You",
       "url": "https://open.spotify.com/track/56mid6Jq0K6NrlJjwTtbrb"
+    },
+    {
+      "album": {
+        "name": "Hate This",
+        "url": "https://open.spotify.com/album/6QZZqvaAynbSUAgqumnqdc"
+      },
+      "artists": [
+        {
+          "name": "Zac Hart",
+          "url": "https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Hate This",
+      "url": "https://open.spotify.com/track/4Qn7rSZvWOHy0erNMuWTDg"
     },
     {
       "album": {
@@ -15429,6 +15501,24 @@
     },
     {
       "album": {
+        "name": "Hits Home",
+        "url": "https://open.spotify.com/album/20REL431EfG0NIBQ5cDSRP"
+      },
+      "artists": [
+        {
+          "name": "Walker County",
+          "url": "https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216279,
+      "name": "Hits Home",
+      "url": "https://open.spotify.com/track/4h33ppiAPrfNf9Qh961wZU"
+    },
+    {
+      "album": {
         "name": "Hits Me Like",
         "url": "https://open.spotify.com/album/4B8KhzjsKnflBoC8DmtxtM"
       },
@@ -16391,6 +16481,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Drinkin' anymore",
+        "url": "https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy"
+      },
+      "artists": [
+        {
+          "name": "Sister C",
+          "url": "https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197276,
+      "name": "I Ain't Drinkin' anymore",
+      "url": "https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo"
+    },
+    {
+      "album": {
         "name": "I Ain't Like That",
         "url": "https://open.spotify.com/album/6i7xWmlzA2DQqprgjGL82z"
       },
@@ -16935,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "I Hate The Beatles",
+        "url": "https://open.spotify.com/album/0JXkf4Uz3AguMMGbIA9ghc"
+      },
+      "artists": [
+        {
+          "name": "Josh Kiser",
+          "url": "https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184919,
+      "name": "I Hate The Beatles",
+      "url": "https://open.spotify.com/track/6vq8cZTFEk2K4sUGP7DImT"
+    },
+    {
+      "album": {
         "name": "I Hate You, I Miss You",
         "url": "https://open.spotify.com/album/7p6DF9uWZyN3OkyXin3fi7"
       },
@@ -17198,7 +17324,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 210253,
       "name": "I Still Do",
       "url": "https://open.spotify.com/track/19baHhgBJDT3gsDbflSiJh"
@@ -19964,7 +20090,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 232931,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7p8zjvhz5MYE87RHKIII88"
@@ -21665,6 +21791,24 @@
     },
     {
       "album": {
+        "name": "Love You Long",
+        "url": "https://open.spotify.com/album/2NHGAkbu29MNu0kj6LgK6g"
+      },
+      "artists": [
+        {
+          "name": "Charly Reynolds",
+          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192162,
+      "name": "Love You Long",
+      "url": "https://open.spotify.com/track/6gaUZS0z2SiJBLpGdRxxn7"
+    },
+    {
+      "album": {
         "name": "Love You On My Mind",
         "url": "https://open.spotify.com/album/2vJXNRwoT32G0ltZruD40a"
       },
@@ -22271,6 +22415,24 @@
     },
     {
       "album": {
+        "name": "Mama I Made It",
+        "url": "https://open.spotify.com/album/1irAPyGsT2qS2bDdwBaoyk"
+      },
+      "artists": [
+        {
+          "name": "Randall Fowler",
+          "url": "https://open.spotify.com/artist/3vwAMZ5P3yBifpoq371QB0"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201511,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/4xXLbkBpJuktdiEm0KX2Rn"
+    },
+    {
+      "album": {
         "name": "Man from Memphis",
         "url": "https://open.spotify.com/album/5F17EhteU8P23JMrqMJtRx"
       },
@@ -22322,6 +22484,24 @@
       "duration_ms": 217091,
       "name": "Marlboros",
       "url": "https://open.spotify.com/track/15XHOyygvmfWPDNQ9Ee0D2"
+    },
+    {
+      "album": {
+        "name": "Marlboros At Midnight",
+        "url": "https://open.spotify.com/album/0VaKVsb2FnZZeAvtssL5yb"
+      },
+      "artists": [
+        {
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237568,
+      "name": "Marlboros At Midnight",
+      "url": "https://open.spotify.com/track/1OA8ro4PPqsjS0W8Mn8Abf"
     },
     {
       "album": {
@@ -23424,7 +23604,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 223242,
       "name": "Mrs. Lonely",
       "url": "https://open.spotify.com/track/0uGCJblPOqTraD776sNNdW"
@@ -25875,6 +26055,24 @@
     },
     {
       "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/2Na5uM8qNu4Vo8uIwuM0Zy"
+      },
+      "artists": [
+        {
+          "name": "Madeline Consoer",
+          "url": "https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188514,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7DgCgodSqkvvo5fxRsZIhH"
+    },
+    {
+      "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/47ZxkvA0uGCUDn2kqqRxhr"
       },
@@ -26941,6 +27139,24 @@
     },
     {
       "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/5K6JrQiBb48ThLudkCRpQl"
+      },
+      "artists": [
+        {
+          "name": "Lane Smith",
+          "url": "https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190990,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/1dWp477RoKn2vMxH6ViioG"
+    },
+    {
+      "album": {
         "name": "Red Off My Neck",
         "url": "https://open.spotify.com/album/6biIbiXEMLDH8xzyeNj5dj"
       },
@@ -27010,6 +27226,24 @@
       "duration_ms": 180750,
       "name": "Red Wine or Whiskey",
       "url": "https://open.spotify.com/track/5nVQCQ14ix5jS2N8AESjWM"
+    },
+    {
+      "album": {
+        "name": "Redneck Of The Woods",
+        "url": "https://open.spotify.com/album/7JwGttnqYnmpWyHeYIgXEo"
+      },
+      "artists": [
+        {
+          "name": "Isaac Harris",
+          "url": "https://open.spotify.com/artist/1YkGrMI2SjGuGcRlmD1BfW"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180989,
+      "name": "Redneck Of The Woods",
+      "url": "https://open.spotify.com/track/2uIJRiuPPYxUYKeYVHCSf0"
     },
     {
       "album": {
@@ -27760,7 +27994,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 162695,
       "name": "Run Girl Run",
       "url": "https://open.spotify.com/track/3JdC1sHodJSQKB6CeIhTFr"
@@ -29240,7 +29474,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 168666,
       "name": "sink",
       "url": "https://open.spotify.com/track/0hm9HGP4p2iWg9wvIRtECC"
@@ -29780,7 +30014,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 206367,
       "name": "Small Town Rumours",
       "url": "https://open.spotify.com/track/3yV8Clr7Aysuwkr4XSEjfL"
@@ -29892,6 +30126,24 @@
       "duration_ms": 183076,
       "name": "Smoke It - Demo",
       "url": "https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq"
+    },
+    {
+      "album": {
+        "name": "Smoke On My Jacket",
+        "url": "https://open.spotify.com/album/7H2Ix03KcAdVBseY1tri7V"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156875,
+      "name": "Smoke On My Jacket",
+      "url": "https://open.spotify.com/track/4Awyruvi0ztiW1gEI1rVhy"
     },
     {
       "album": {
@@ -34312,7 +34564,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 211389,
       "name": "This Truck Still Misses You",
       "url": "https://open.spotify.com/track/0w3F2fM76qQ208G3nobpRb"
@@ -35468,7 +35720,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 155580,
       "name": "Unsingle",
       "url": "https://open.spotify.com/track/3KTKAEIDClZcHc1IXNqqnE"
@@ -36506,7 +36758,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 194434,
       "name": "What People Think",
       "url": "https://open.spotify.com/track/5cg3IowA0gLUdjrxYLsv3K"
@@ -36639,6 +36891,24 @@
     },
     {
       "album": {
+        "name": "When I Don't Love You",
+        "url": "https://open.spotify.com/album/5G7YhMAHv1rOf2wW9ngLWV"
+      },
+      "artists": [
+        {
+          "name": "Shelby Darrall",
+          "url": "https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219087,
+      "name": "When I Don't Love You",
+      "url": "https://open.spotify.com/track/3MGvINBVUSWv0H5hPB3tcm"
+    },
+    {
+      "album": {
         "name": "When I Look Back",
         "url": "https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B"
       },
@@ -36708,6 +36978,24 @@
       "duration_ms": 169230,
       "name": "When It Wasn't",
       "url": "https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL"
+    },
+    {
+      "album": {
+        "name": "When She Goes",
+        "url": "https://open.spotify.com/album/57yTs65RxotnJ0VpimkNLo"
+      },
+      "artists": [
+        {
+          "name": "Josh Mirenda",
+          "url": "https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158087,
+      "name": "When She Goes",
+      "url": "https://open.spotify.com/track/4R6DJRTtSY5n4OVz8yCrCC"
     },
     {
       "album": {
@@ -37737,6 +38025,24 @@
     },
     {
       "album": {
+        "name": "Wine Into Whiskey",
+        "url": "https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166343,
+      "name": "Wine Into Whiskey",
+      "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
+    },
+    {
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/5oMecFvgBRj4BcDvC1e5Hl"
       },
@@ -37788,6 +38094,24 @@
       "duration_ms": 216062,
       "name": "Wish It Away",
       "url": "https://open.spotify.com/track/2QThB1y1q5JiDgdOyP1s8j"
+    },
+    {
+      "album": {
+        "name": "Wish You Back",
+        "url": "https://open.spotify.com/album/6yKAiysoQNviwoDrNv5r6x"
+      },
+      "artists": [
+        {
+          "name": "Clayton Johnson",
+          "url": "https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178170,
+      "name": "Wish You Back",
+      "url": "https://open.spotify.com/track/16URet9mbYzRbBGaWuR4KG"
     },
     {
       "album": {
@@ -38076,7 +38400,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 207883,
       "name": "Worth the Hurt",
       "url": "https://open.spotify.com/track/2aGGuuXLCCmSKGhUU1u5R0"
@@ -38152,6 +38476,24 @@
       "duration_ms": 267430,
       "name": "Would've Said",
       "url": "https://open.spotify.com/track/72HQdqhGHumty9UgUjmaqE"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Put It Past Me",
+        "url": "https://open.spotify.com/album/7eng8m7AIJ12m62tN49Uso"
+      },
+      "artists": [
+        {
+          "name": "Payton Smith",
+          "url": "https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "Wouldn't Put It Past Me",
+      "url": "https://open.spotify.com/track/1cHcVOexBvNPJH649cmRYy"
     },
     {
       "album": {

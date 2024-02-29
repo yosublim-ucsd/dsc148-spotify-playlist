@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Bit of Window",
+        "url": "https://open.spotify.com/album/0FNmtTsexTnrZApBaH9zap"
+      },
+      "artists": [
+        {
+          "name": "Conte Prad",
+          "url": "https://open.spotify.com/artist/0ieNGPIGBwKTkc7fPXXigX"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121121,
+      "name": "Bit of Window",
+      "url": "https://open.spotify.com/track/49VwWp2MaGmMncSps8gki2"
+    },
+    {
+      "album": {
         "name": "SRY / Blame Me",
         "url": "https://open.spotify.com/album/6abDeahvTe453GxeIP462g"
       },
@@ -848,6 +866,24 @@
       "duration_ms": 194556,
       "name": "Cap B\u00e9nat",
       "url": "https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7"
+    },
+    {
+      "album": {
+        "name": "Cap Ferrat",
+        "url": "https://open.spotify.com/album/3gYvD0uUwXt3sqkI1AtAge"
+      },
+      "artists": [
+        {
+          "name": "Sennac",
+          "url": "https://open.spotify.com/artist/6ZBW2C2pB5zsJ4LZXbIu2i"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133513,
+      "name": "Cap Ferrat",
+      "url": "https://open.spotify.com/track/6PHRctVh6vyJy1Ou9rYU34"
     },
     {
       "album": {
@@ -5310,7 +5346,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 167197,
       "name": "true self",
       "url": "https://open.spotify.com/track/6YXiRZf9M1irFXIbigT6i7"
@@ -5620,6 +5656,24 @@
       "duration_ms": 232336,
       "name": "Why Is This Bird So Jealous?",
       "url": "https://open.spotify.com/track/05iKKQ1NqXQ3HXW6tPWsAo"
+    },
+    {
+      "album": {
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/4leNi2kUacyGvcaUo738Nk"
+      },
+      "artists": [
+        {
+          "name": "In Diooo",
+          "url": "https://open.spotify.com/artist/4wxCkW1LyTe4wSkS1TrPFU"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148667,
+      "name": "Zero Gravity",
+      "url": "https://open.spotify.com/track/7s7b3H2cMBMGbqV0u5VCIr"
     },
     {
       "album": {

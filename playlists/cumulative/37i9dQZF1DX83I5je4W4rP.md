@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-281 songs - 16 hr 53 min
+282 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Drunk Texter \(with HIRIE\)](https://open.spotify.com/track/1ERbq9x1ozTWRIxWqnesaB) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Drunk Texter \(with HIRIE\)](https://open.spotify.com/album/45zHAO1NXFOL5TT0OnlRYq) | 3:37 | 2023-07-28 | 2023-09-02 |
 | [Earthquake Weather](https://open.spotify.com/track/5E4fq3FNmrqj9pQlD4zbrt) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Earthquake Weather](https://open.spotify.com/album/4nzGzHJW8frtilga4igCH4) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Edge of the Ocean](https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Edge of the Ocean](https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1) | 4:55 | 2022-08-15 |  |
-| [Endless Summer](https://open.spotify.com/track/3pQpVawEKfVPBwj8RDdgfD) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Endless Summer](https://open.spotify.com/album/2FWsrjGA1kLgzNURoAGX5E) | 3:25 | 2023-07-28 |  |
+| [Endless Summer](https://open.spotify.com/track/3blbzqyXeGXsxiBcZKvBZy) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Endless Summer](https://open.spotify.com/album/5OhyUxRlNMseEjomGrlLsn) | 3:25 | 2023-11-13 |  |
+| [Endless Summer](https://open.spotify.com/track/3pQpVawEKfVPBwj8RDdgfD) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Endless Summer](https://open.spotify.com/album/2FWsrjGA1kLgzNURoAGX5E) | 3:25 | 2023-07-28 | 2024-02-29 |
 | [Every Road I'm On](https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Every Road I'm On](https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK) | 3:49 | 2021-12-10 |  |
 | [Everyday People \(Remix with B\-Real & G.Love\)](https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Everyday People \(Remix with B\-Real & G\. Love\)](https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz) | 3:45 | 2021-12-10 |  |
 | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q) | [Coyote Island](https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Everyone Need Love \(with Surfer Girl\)](https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew) | 3:23 | 2023-04-17 | 2023-09-14 |

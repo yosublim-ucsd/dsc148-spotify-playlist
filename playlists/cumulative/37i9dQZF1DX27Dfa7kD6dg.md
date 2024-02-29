@@ -4,7 +4,7 @@
 
 > New York salsa...it's home.
 
-175 songs - 13 hr 41 min
+176 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 | 2022-08-17 |  |
 | [La Peluca](https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn) | [Dave Santiago](https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq) | [Dave Santiago & Latin Affair](https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY) | 5:22 | 2022-08-17 |  |
 | [La Rebelion](https://open.spotify.com/track/6gecMuiiRAhutKqrYc9WDq) | [CHARİZXRD](https://open.spotify.com/artist/02H9qgkOVmmM94uQGFXnDM), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX), [hitcon5](https://open.spotify.com/artist/3O46F3OarviZBHkZyOEOd5) | [La Rebelion](https://open.spotify.com/album/3eIVxbbbqzZZ43ceV9sufi) | 6:16 | 2023-10-19 | 2024-02-04 |
-| [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-08-17 |  |
+| [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-08-17 | 2024-02-29 |
+| [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 | 2023-10-19 |  |
 | [La rebellion](https://open.spotify.com/track/15wweIQr7grMaoQS8WmD9D) | [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [Emre Root](https://open.spotify.com/artist/58gPiY6DihD2M1PH1g8Lpd) | [La rebellion](https://open.spotify.com/album/1EDvrJyiEQkKMJzV6ERgJ8) | 6:16 | 2023-10-19 | 2024-01-21 |
 | [Lady Laura](https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:00 | 2022-08-17 |  |
 | [Linda Mujer](https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi), [Fabio Gianni](https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu) | [Guaguamambo](https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9) | 5:13 | 2022-08-17 |  |

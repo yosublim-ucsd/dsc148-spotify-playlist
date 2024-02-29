@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,815 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,863 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,13 +115,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 105 | [Fiesta A La King](https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Instant Party](https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr) | 5:46 |
 | 106 | [New York State of Mind](https://open.spotify.com/track/3HP07vhvfEXajpBL0pgdsW) | [Bobby Rodriguez y La Compania](https://open.spotify.com/artist/4AlehYieSy692kucODs8Na) | [Juntos Otra Vez](https://open.spotify.com/album/1aDMTl12KZoP0RqOdiEXow) | 5:17 |
 | 107 | [Free For All](https://open.spotify.com/track/2vCQYL28VsRJJo70fva5bB) | [Al Castellanos](https://open.spotify.com/artist/3SaQoDi8xQt9x6nJQjY0Pe) | [Vintage Cuba No\. 90 \- EP: Salta Perico](https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl) | 2:01 |
-| 108 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
-| 109 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
-| 110 | [Pachito Eche](https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Hoy Y Ayer](https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy) | 3:40 |
+| 108 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
+| 109 | [Pachito Eche](https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Hoy Y Ayer](https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy) | 3:40 |
+| 110 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 |
 | 111 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
 | 112 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
 | 113 | [De Profesión...Tu Amante](https://open.spotify.com/track/5u6tdzhDa8rlOOI5Lm84KL) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:29 |
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCxhOWRmZGU2NDJiMWNjNWE0MjA4MmIyYjdiNzZjYzViYjRhMzYxNjEw`
+Snapshot ID: `MCwwNTE4YjY1NTYyYzg2ZDAxOWYyZmJkMmM0NjUwMTU4Yjg3YjUzN2U2`

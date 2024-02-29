@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,851 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,964 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,34 +28,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 18 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 19 | [Diamonds](https://open.spotify.com/track/6ePcctSJw3azgink6S2QTw) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Diamonds](https://open.spotify.com/album/75ST1ttxNj07ds4erJcPV2) | 3:26 |
 | 20 | [Okie Dokie!](https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Road to A](https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo) | 3:33 |
-| 21 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 |
-| 22 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 |
-| 23 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 |
-| 24 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 |
-| 25 | [STARRY LOVE](https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [STARRY LOVE](https://open.spotify.com/album/27rELiARZxybADb2rbTEli) | 5:06 |
-| 26 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 |
-| 27 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
-| 28 | [New Rise](https://open.spotify.com/track/3QIulC05FpuCzWEuKnHR5L) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [New Rise](https://open.spotify.com/album/3HBPh1FjEWBGezQo6C5eej) | 3:17 |
-| 29 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 |
-| 30 | [東京](https://open.spotify.com/track/31xA4TPoXLmhcTlatMWZWm) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [東京](https://open.spotify.com/album/48eBSK3qJMk0VMbVZPQc7r) | 4:02 |
-| 31 | [Fake It](https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Fake It](https://open.spotify.com/album/3Xmw8PnZTNZ4o5th7upzAj) | 3:10 |
-| 32 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
-| 33 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 |
-| 34 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 |
-| 35 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 |
-| 36 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 |
-| 37 | [ギリスト！](https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg) | [上田竜也](https://open.spotify.com/artist/4s1pQdzt4S8cLMXDD19qG0) | [ギリスト！](https://open.spotify.com/album/4nr0X5zAvguICJI22rvMXg) | 3:15 |
-| 38 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 |
-| 39 | [Roar](https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk) | [KAT\-TUN](https://open.spotify.com/artist/5HQAzIHOdemXR2DoevwhjT) | [Honey（Selected Edition）](https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L) | 3:55 |
-| 40 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 41 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 |
-| 42 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
-| 43 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 |
-| 44 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 |
-| 45 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 |
-| 46 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 |
-| 47 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 |
-| 48 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
-| 49 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
+| 21 | [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 |
+| 22 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 |
+| 23 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 |
+| 24 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 |
+| 25 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 |
+| 26 | [STARRY LOVE](https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [STARRY LOVE](https://open.spotify.com/album/27rELiARZxybADb2rbTEli) | 5:06 |
+| 27 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 |
+| 28 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
+| 29 | [New Rise](https://open.spotify.com/track/3QIulC05FpuCzWEuKnHR5L) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [New Rise](https://open.spotify.com/album/3HBPh1FjEWBGezQo6C5eej) | 3:17 |
+| 30 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 |
+| 31 | [東京](https://open.spotify.com/track/31xA4TPoXLmhcTlatMWZWm) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [東京](https://open.spotify.com/album/48eBSK3qJMk0VMbVZPQc7r) | 4:02 |
+| 32 | [Fake It](https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Fake It](https://open.spotify.com/album/3Xmw8PnZTNZ4o5th7upzAj) | 3:10 |
+| 33 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
+| 34 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 |
+| 35 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 |
+| 36 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 |
+| 37 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 |
+| 38 | [ギリスト！](https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg) | [上田竜也](https://open.spotify.com/artist/4s1pQdzt4S8cLMXDD19qG0) | [ギリスト！](https://open.spotify.com/album/4nr0X5zAvguICJI22rvMXg) | 3:15 |
+| 39 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 |
+| 40 | [Roar](https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk) | [KAT\-TUN](https://open.spotify.com/artist/5HQAzIHOdemXR2DoevwhjT) | [Honey（Selected Edition）](https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L) | 3:55 |
+| 41 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
+| 42 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 |
+| 43 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
+| 44 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 |
+| 45 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 |
+| 46 | [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 |
+| 47 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 |
+| 48 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 |
+| 49 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
+| 50 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
 
-Snapshot ID: `MCwzNTY4Zjk0MzFiNjBmZDMxNjRmNTExYTIyNWIzYmY5NTU4NDZhNzhh`
+Snapshot ID: `MCw2NmUyZjExMWEwY2QwMmJjNzU3Y2E3YjA1MDZlZjllYjU4ZTI0MjBi`

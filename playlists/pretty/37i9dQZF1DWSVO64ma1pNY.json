@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296577,
+  "num_followers": 296586,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmViYTBhZDJjMWViMTc4NjJhNWM0MzQ0NWYwOTU3MmVhMGFkMWJh",
+  "snapshot_id": "MCxjMjFjYmVmYTFmMDM4MGE1NGYzZjRlMjFiODViMzMzYWE3YzNkMWM4",
   "tracks": [
     {
       "added_at": "2024-01-23 13:23:45",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
         "name": "Bad Vibrations (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 187933,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -543,22 +559,6 @@
       "duration_ms": 254760,
       "name": "Pure Morning",
       "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-01-23 13:23:45",

@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 28804,
+  "num_followers": 28818,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDgzOTEyMWFiZTY0YjI0N2UwMTFkZmM5MDk4ODM3OTRiNWVmMmEz",
+  "snapshot_id": "MCxiMWM3OGU5Mjc3M2Y0NjEzMmUwOWQyNjU2MmI1MTBhMGY2ZmM1MzE0",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        }
-      ],
-      "duration_ms": 113397,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Donde Estas?",
         "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 124245,
       "name": "Donde Estas?",
       "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "duration_ms": 113397,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -431,18 +431,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Lo-fi Ma\u00f1ana en CDMX",
-        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
+        "name": "Jardines, Vol.1",
+        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
         }
       ],
-      "duration_ms": 169491,
-      "name": "Lo-fi Ma\u00f1ana en CDMX",
-      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+      "duration_ms": 153162,
+      "name": "jazmin",
+      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -479,6 +483,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Lo-fi Ma\u00f1ana en CDMX",
+        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 169491,
+      "name": "Lo-fi Ma\u00f1ana en CDMX",
+      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Cumbia Don Juan",
         "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 134451,
       "name": "Cumbia Don Juan",
       "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Jardines, Vol.1",
-        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
-        }
-      ],
-      "duration_ms": 153162,
-      "name": "jazmin",
-      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Amorcito coraz\u00f3n lofi",
+        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 109322,
+      "name": "Amorcito coraz\u00f3n lofi",
+      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Dia de Muertos",
         "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
@@ -619,42 +639,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Amorcito coraz\u00f3n lofi",
-        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
-      },
-      "artists": [
-        {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 109322,
-      "name": "Amorcito coraz\u00f3n lofi",
-      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Ay Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 97931,
-      "name": "Ay Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Saguaro",
         "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
@@ -667,22 +651,6 @@
       "duration_ms": 132631,
       "name": "Saguaro",
       "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -707,6 +675,38 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Ay Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 97931,
+      "name": "Ay Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "como los ni\u00f1os",
         "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 150956,
       "name": "como los ni\u00f1os",
       "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -743,6 +759,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 117779,
+      "name": "Mi Tierra",
+      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Lost Memories",
         "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
       },
@@ -763,34 +795,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "La Villa",
-        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
-      },
-      "artists": [
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        },
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+          "name": "Lo-Fi Luke",
+          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
+        },
+        {
+          "name": "Marc Brave",
+          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
         }
       ],
-      "duration_ms": 117779,
-      "name": "Mi Tierra",
-      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+      "duration_ms": 150500,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -827,30 +851,6 @@
       "duration_ms": 76800,
       "name": "Mexico City, Mexico",
       "url": "https://open.spotify.com/track/3NwIPWV0d9qFZIjHAXqAqq"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
-      },
-      "artists": [
-        {
-          "name": "Goland",
-          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
-        },
-        {
-          "name": "Lo-Fi Luke",
-          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
-        },
-        {
-          "name": "Marc Brave",
-          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Bluewerks Vol 13: Midnight Melodies",
         "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
       },
@@ -999,38 +1019,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "making out",
-        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "making out",
-      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Dale Dale",
         "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
@@ -1051,6 +1039,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "making out",
+        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
         "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
       },
@@ -1063,6 +1067,22 @@
       "duration_ms": 141742,
       "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
       "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1119,22 +1139,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Chillaquil",
-        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 180674,
-      "name": "Chillaquil",
-      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "jazz y cdmx",
         "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
       },
@@ -1147,6 +1151,22 @@
       "duration_ms": 121213,
       "name": "jazz y cdmx",
       "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Chillaquil",
+        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Chillaquil",
+      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1199,8 +1219,8 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/1H46AyYosdxrhuROEbTHms"
+        "name": "Viscaria Corto",
+        "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
       "artists": [
         {
@@ -1208,13 +1228,13 @@
           "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         },
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "URCHN",
+          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
         }
       ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/1x9zn5iITjMAg6rJF5FdoX"
+      "duration_ms": 144000,
+      "name": "Viscaria Corto",
+      "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1255,26 +1275,6 @@
       "duration_ms": 111219,
       "name": "Extra\u00f1os (Strangers)",
       "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1351,6 +1351,42 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Lluvia de Oro",
         "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
       },
@@ -1371,42 +1407,6 @@
       "duration_ms": 140400,
       "name": "Lluvia de Oro",
       "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Viscaria Corto",
-        "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Viscaria Corto",
-      "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "LOFI CHRISTMAS VI",
-        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
-      },
-      "artists": [
-        {
-          "name": "Akira The Don",
-          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "THE CHRISTMAS SONG LOFI",
-      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "To My Past Self",
         "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 111303,
       "name": "Habits",
       "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "LOFI CHRISTMAS VI",
+        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "THE CHRISTMAS SONG LOFI",
+      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "I See Us",
-        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
+        "name": "Not Fun",
+        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+          "name": "Chili Dog",
+          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
         }
       ],
-      "duration_ms": 137196,
-      "name": "loving",
-      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
+      "duration_ms": 146406,
+      "name": "Not Fun",
+      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Not Fun",
-        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
+        "name": "I See Us",
+        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
       },
       "artists": [
         {
-          "name": "Chili Dog",
-          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 146406,
-      "name": "Not Fun",
-      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
+      "duration_ms": 137196,
+      "name": "loving",
+      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1667,22 +1667,6 @@
       "duration_ms": 136941,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "being honest",
-        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "being honest",
-      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1783,6 +1767,22 @@
       "duration_ms": 167807,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6I6t6DkS15e6BQx41qmd9h"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "being honest",
+        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "being honest",
+      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
     }
   ],
   "unique_name": "lofi mexa",

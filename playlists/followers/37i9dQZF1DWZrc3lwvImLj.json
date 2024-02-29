@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 292247,
+  "2024-02-29": 292313,
   "date_first_scraped": "2021-12-30",
   "description": "lowkey crying. ",
   "name": "sad instrumentals",
@@ -395,10 +395,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/2eejaiVbTHgd3swATb8Ebj"
+    },
+    {
+      "album": {
+        "name": "Lullaby For A King",
+        "url": "https://open.spotify.com/album/1QzqlHB2YbkzkKK9rN8kq8"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/4VfEfnDp2mD3GguUNOo3UW"
     },
     {
       "album": {

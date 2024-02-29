@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 1125621,
+  "2024-02-29": 1125901,
   "date_first_scraped": "2022-04-20",
   "description": "Calm and quiet piano music for reading.",
   "name": "Reading Soundtrack",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 120000,
       "name": "A Winged Time",
       "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
@@ -1108,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128946,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l"
+    },
+    {
+      "album": {
         "name": "Before your eyes",
         "url": "https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t"
       },
@@ -1756,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "Consolatoriae",
+        "url": "https://open.spotify.com/album/3WeFRGDZAP2H3UWWkWsPzA"
+      },
+      "artists": [
+        {
+          "name": "8th Floor Wide",
+          "url": "https://open.spotify.com/artist/3SIHBhzxgzWiGL8ZzZMhwr"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161584,
+      "name": "Consolatoriae",
+      "url": "https://open.spotify.com/track/2VvMDGoouwpUmVGoR5EUzh"
+    },
+    {
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx"
       },
@@ -2055,7 +2091,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 150021,
       "name": "Darfur",
       "url": "https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg"
@@ -2203,6 +2239,24 @@
       "duration_ms": 159139,
       "name": "Dijon",
       "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
+    },
+    {
+      "album": {
+        "name": "Dim",
+        "url": "https://open.spotify.com/album/4TSU2w7UkbhAcs7Oz731kM"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167910,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/4ux5NLToXWFBWzJHyGdqLM"
     },
     {
       "album": {
@@ -2841,7 +2895,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 183000,
       "name": "enfin bref",
       "url": "https://open.spotify.com/track/3jMxdAMOyHBluvKGD6uYxO"
@@ -3129,7 +3183,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
@@ -4148,6 +4202,24 @@
     },
     {
       "album": {
+        "name": "Her Dream",
+        "url": "https://open.spotify.com/album/34h5iQ3bNvI4TNUIP0Laaf"
+      },
+      "artists": [
+        {
+          "name": "Anna Goya",
+          "url": "https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Her Dream",
+      "url": "https://open.spotify.com/track/3adxyTRJURExUFC2NAJGON"
+    },
+    {
+      "album": {
         "name": "Higo",
         "url": "https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0"
       },
@@ -5099,7 +5171,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 144813,
       "name": "Karlovy Vary",
       "url": "https://open.spotify.com/track/6UQU3rbYYESsfBcJOvZDHB"
@@ -5538,6 +5610,24 @@
     },
     {
       "album": {
+        "name": "Les pages du matin",
+        "url": "https://open.spotify.com/album/05dCBl52DYEDEQSORYZrTa"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162369,
+      "name": "Les pages du matin",
+      "url": "https://open.spotify.com/track/4fKPpJFzHdVNgWtaZVXZV5"
+    },
+    {
+      "album": {
         "name": "Les passions",
         "url": "https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh"
       },
@@ -5625,6 +5715,24 @@
       "duration_ms": 168957,
       "name": "Lichtblick",
       "url": "https://open.spotify.com/track/2YDiRIGOEkk9VT6ENi3261"
+    },
+    {
+      "album": {
+        "name": "Life Unfolding",
+        "url": "https://open.spotify.com/album/0TgicuXFyvuNHkSbYWR7fU"
+      },
+      "artists": [
+        {
+          "name": "San Fiore",
+          "url": "https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "Life Unfolding",
+      "url": "https://open.spotify.com/track/2Giy2LFS5WAlI092sozZPl"
     },
     {
       "album": {
@@ -5819,7 +5927,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 165250,
       "name": "Longues Plages",
       "url": "https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj"
@@ -7893,7 +8001,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 178000,
       "name": "Pourquoi",
       "url": "https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2"
@@ -9085,6 +9193,24 @@
       "duration_ms": 144989,
       "name": "Sendai",
       "url": "https://open.spotify.com/track/7tJDHTlzyUK1nsbSD2rf6f"
+    },
+    {
+      "album": {
+        "name": "Sentimental Value",
+        "url": "https://open.spotify.com/album/2KVSgcrMjxVnTBh0FvgUtQ"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Sentimental Value",
+      "url": "https://open.spotify.com/track/42WMpnohvYYVqQkQ3qY57N"
     },
     {
       "album": {
@@ -11541,7 +11667,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 172874,
       "name": "Tulips In Spring",
       "url": "https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl"
@@ -11671,6 +11797,24 @@
       "duration_ms": 164132,
       "name": "Under the Poplars",
       "url": "https://open.spotify.com/track/0B0cpBMtYjk5PAwM0bkuoB"
+    },
+    {
+      "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/0Ba8rZUhKEBC4dqp2iP301"
+      },
+      "artists": [
+        {
+          "name": "Sara Hoffman",
+          "url": "https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184874,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/47q2Yzs2VG88llrNWH2icn"
     },
     {
       "album": {
@@ -12376,6 +12520,24 @@
     },
     {
       "album": {
+        "name": "Why Talk",
+        "url": "https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu"
+      },
+      "artists": [
+        {
+          "name": "Zeppi",
+          "url": "https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Why Talk",
+      "url": "https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56"
+    },
+    {
+      "album": {
         "name": "Wide Skies",
         "url": "https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast"
       },
@@ -12391,6 +12553,24 @@
       "duration_ms": 202250,
       "name": "Wide Skies",
       "url": "https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA"
+    },
+    {
+      "album": {
+        "name": "Wiedersehen",
+        "url": "https://open.spotify.com/album/1llNEXcHkiatftwmtVnkmr"
+      },
+      "artists": [
+        {
+          "name": "Christian Menke",
+          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207624,
+      "name": "Wiedersehen",
+      "url": "https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 702924,
+  "num_followers": 703070,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTE3OGE5MjRmNjQ4Yjg4MWI1ZjIwZGYyNTdhOWYzZDc5YjZlNjMx",
+  "snapshot_id": "MCw4MGJmNzlkMzdhYjdmYjVjZGNlN2FhMDkyMDAwMjgyN2MyYjI5ZWJl",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
       "added_at": "2024-02-14 23:30:23",
       "album": {
         "name": "A Cold Sunday",
@@ -107,6 +91,22 @@
       "duration_ms": 107313,
       "name": "A Cold Sunday",
       "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
       "artists": [
         {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+      "duration_ms": 57495,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
       },
       "artists": [
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 57495,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
     },
     {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 180675,
-      "name": "IV. Sweatpants",
-      "url": "https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms"
-    },
-    {
       "added_at": "2024-02-27 15:14:55",
       "album": {
         "name": "Gangsta",
@@ -383,6 +367,22 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 180675,
+      "name": "IV. Sweatpants",
+      "url": "https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -675,18 +675,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "CAROLINE",
-        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
+        "name": "STILL EMO",
+        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
       },
       "artists": [
         {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 192951,
-      "name": "CAROLINE",
-      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+      "duration_ms": 141780,
+      "name": "Be Somebody (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "STILL EMO",
-        "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 141780,
-      "name": "Be Somebody (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/3gYy3nywL9QXjYWaMpeHFC"
+      "duration_ms": 192951,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
-      },
-      "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Sariah Mae",
-          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
-        }
-      ],
-      "duration_ms": 178477,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/2yMNrSSdvvRptq7Zs3YDdl"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 185792,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/1RmakRsIJE6qsP1OjiUboJ"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+        }
+      ],
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 124917,
+      "name": "Gloria !",
+      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 124917,
-      "name": "Gloria !",
-      "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
       "artists": [
         {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
+      "duration_ms": 167841,
+      "name": "lalala",
+      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/6VKha9kbRxUWQSx7eH7Rxw"
     },
     {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
       "added_at": "2024-02-13 20:46:14",
       "album": {
         "name": "SOULCRUSHER",
@@ -1651,6 +1635,22 @@
       "duration_ms": 171828,
       "name": "SOULCRUSHER",
       "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 100714,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "\"DESTRUCTION FOR DUMMIES\", PT. 2 JEAN DAWSON AS \"NIGHTMARE\"",
         "url": "https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 189978,
       "name": "X-RAY",
       "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Hearth Room",
-        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "THE RUSH",
-        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
+        "name": "Fishnets",
+        "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
         }
       ],
-      "duration_ms": 130515,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
+      "duration_ms": 185454,
+      "name": "Fishnets",
+      "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
     }
   ],
   "unique_name": "anti pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,550 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,590 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 69 | [Fuck You](https://open.spotify.com/track/6gkqY0rDnrzGwGpFyTugi9) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/3cO6RzHotTE55LiV7dtA1L) | 3:03 |
 | 70 | [Zombie](https://open.spotify.com/track/1qoZPeWgIWC8RWbYRjUElS) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/4RvjNkmUeCfvPnyiEXcSCc) | 2:42 |
 | 71 | [Scissorhands](https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Scissorhands](https://open.spotify.com/album/75la8mqEDlQzN6r9gy1tJH) | 2:38 |
-| 72 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
+| 72 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
 | 73 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 |
 | 74 | [Cry \(feat\. Grimes\)](https://open.spotify.com/track/0w1Wd17IygSVDMOZtKm4hi) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Cry \(feat\. Grimes\)](https://open.spotify.com/album/0osHesMrCdavp471L78uwu) | 2:06 |
 | 75 | [OHMAMI \- With Maggie Lindemann](https://open.spotify.com/track/1c7YvFPE0PWud0InScOX3r) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [OHMAMI \(With Maggie Lindemann\)](https://open.spotify.com/album/7nSsnVn4iG0gGnmXa7YkWG) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCwyNDgwNGU0ZmFmMzliZTUzYjIwYmMwMTNlNDcyYTY1ZDYzZmRiMTY1`
+Snapshot ID: `MCxjMGJlMzc0MTUxNWMwYThkMWUwMjYyODQ3ZDIwMWMzZDRkMzFkMjBm`

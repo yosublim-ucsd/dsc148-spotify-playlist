@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-192 songs - 12 hr 7 min
+193 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Funkytown \- Single Version](https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [ドライブが楽しくなる洋楽ヒッツ！70年代 DISCO](https://open.spotify.com/album/47crNzkjCwR3zb6c5lFhLm) | 3:54 | 2023-06-09 |  |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2022-08-11 | 2023-06-02 |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2022-08-11 |  |
+| [Gimme Hope Jo'Anna](https://open.spotify.com/track/09lZ2Mx2NSpzy6KBpX2kDq) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [Gimme Hope Jo'Anna](https://open.spotify.com/album/1EtVhWC8NcmttAjp0cKeaX) | 4:03 | 2023-06-09 |  |
 | [Gimme Hope Jo'anna](https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [The Biggest Reggae Hits](https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a) | 4:03 | 2023-06-09 | 2024-02-07 |
 | [Gloria](https://open.spotify.com/track/35tzxthMBglBMjmZ7Fn1hj) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Gloria](https://open.spotify.com/album/1bjdztw8DuoTEZqL9XHz9n) | 4:24 | 2023-06-09 |  |
 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 | 2023-06-09 |  |
@@ -169,7 +170,7 @@
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2022-08-11 | 2023-12-10 |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:49 | 2023-06-09 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2023-06-09 |  |
-| [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 | 2023-06-09 |  |
+| [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 | 2023-06-09 | 2024-02-29 |
 | [Tacatà \- Radio Edit](https://open.spotify.com/track/51RBDu31r3ynFswDJmidLW) | [Tacabro](https://open.spotify.com/artist/44Qx9J57sKKNFIASxM4dWh), [Romano](https://open.spotify.com/artist/6Ln6n58lzcx090j4yT2U2f), [Sapienza](https://open.spotify.com/artist/3XEHpvs63FYwwGhcgaoOPD), [Ruly Rodriguez](https://open.spotify.com/artist/09I6kRZ5pakTrYunXBsXng) | [Tacatà](https://open.spotify.com/album/6Th9OWjLOcPPw08RcgvjvF) | 3:30 | 2023-06-09 |  |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2022-08-11 |  |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E) | 2:52 | 2022-08-11 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 14326,
+  "2024-02-29": 14330,
   "date_first_scraped": "2023-07-10",
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
   "name": "This Is Elaine Martins",
@@ -21,6 +21,28 @@
       "duration_ms": 249426,
       "name": "A Nuvem (Ao Vivo)",
       "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+    },
+    {
+      "album": {
+        "name": "Abra\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2HqDF8nrCd14tKBHPTY9K3"
+      },
+      "artists": [
+        {
+          "name": "Alice",
+          "url": "https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305607,
+      "name": "Abra\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vuEdss2gXEU0XeRelz6W6"
     },
     {
       "album": {
@@ -227,7 +249,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 274425,
       "name": "Deus Te Consola Outra Vez",
       "url": "https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL"

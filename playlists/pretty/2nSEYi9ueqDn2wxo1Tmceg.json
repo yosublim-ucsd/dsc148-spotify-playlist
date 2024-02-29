@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 70598,
+  "num_followers": 70600,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzg5MCw4ZDBhY2ZlODIwOTM0NzllZWI1ZGNjYjZiNWEzMTc4NTc2MjljMzUz",
+  "snapshot_id": "Mzg5MSwzYjFiNzkzZTdhM2Q1NzY3Y2UzNjkzMmEyYTUyMGU1NjcxZjk4NjUz",
   "tracks": [
+    {
+      "added_at": "2024-02-28 15:06:18",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
+    },
     {
       "added_at": "2024-02-27 09:25:50",
       "album": {

@@ -2507,6 +2507,32 @@
     },
     {
       "album": {
+        "name": "Mann Dhaaga",
+        "url": "https://open.spotify.com/album/4AfUNbpD7wEuCm1wQ0dOb1"
+      },
+      "artists": [
+        {
+          "name": "Yashraj Mukhate",
+          "url": "https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI"
+        },
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Mann Dhaaga",
+      "url": "https://open.spotify.com/track/5JPWH4s8MuHymY00XBBVLH"
+    },
+    {
+      "album": {
         "name": "Dard",
         "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
       },
@@ -3188,7 +3214,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 301889,
       "name": "Radha",
       "url": "https://open.spotify.com/track/5yYgGkyYJmmSwRp3caFplJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,647 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,664 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Of Wolf and Man \(Live at Maimarktgelände, Mannheim, Germany \- May 22nd, 1993\)](https://open.spotify.com/track/4qMHVSbGaLVmhluE6wig3Z) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 4:16 |
 | 75 | [Flanger Halen](https://open.spotify.com/track/6RF75LPULQRDy0jDq3TLIH) | [Vns Vinicius the Guitar Ripping](https://open.spotify.com/artist/6QAFhpCpL85jFpLSBeAJLj) | [Flanger Halen](https://open.spotify.com/album/7Mb5i8A5V3jdUDJIv9f2Ux) | 4:02 |
 
-Snapshot ID: `MCwwNDY3NTYxZTk4MWU1ZTJhYmIwZjlhYzUzZjQ4ZTBkN2FhMzQxNzVj`
+Snapshot ID: `MCw1YWU2NzYzMmQ4NGUxMzFjMzgxY2UxODJhZGRkMmFhNWRhMzIwNjA1`

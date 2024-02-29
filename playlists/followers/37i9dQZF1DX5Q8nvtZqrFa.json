@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 18033,
+  "2024-02-29": 18039,
   "date_first_scraped": "2023-11-24",
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u305b\u304d\u3089\u3089",
@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/0yslKFGYXbLlV9KV9NpkRZ"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194323,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/6CxLWEMIvFEWG7XdSXlBIf"
+    },
+    {
+      "album": {
         "name": "12 hugs (like butterflies)",
         "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
       },
@@ -489,7 +507,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 249600,
       "name": "Imasaradatte Boku Wa Iukana",
       "url": "https://open.spotify.com/track/3e6cgorRiwMQ17Q5s4stUP"
@@ -954,6 +972,24 @@
     },
     {
       "album": {
+        "name": "tears",
+        "url": "https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210138,
+      "name": "tears",
+      "url": "https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3"
+    },
+    {
+      "album": {
         "name": "TOKYO JOURNEY",
         "url": "https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs"
       },
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 264616,
       "name": "Yotei",
       "url": "https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g"
@@ -1421,6 +1457,24 @@
       "duration_ms": 172366,
       "name": "\u3070\u304b\u307e\u3058\u3081",
       "url": "https://open.spotify.com/track/55emtNBnUXszixuQj4Fg6I"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME",
+        "url": "https://open.spotify.com/album/4FwXwSS4uIWX2ewAoZko0F"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u3080\u3061\u3063",
+      "url": "https://open.spotify.com/track/6J4x5CaJSzeM9ru5wlvho3"
     },
     {
       "album": {
@@ -2245,7 +2299,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 243253,
       "name": "\u6b7b\u306b\u305f\u3044\u591c\u306eBGM",
       "url": "https://open.spotify.com/track/5vUSPD4LMOFuRdWg1JtRKO"

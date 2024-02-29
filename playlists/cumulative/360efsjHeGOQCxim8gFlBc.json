@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 280749,
       "name": "Escape",
       "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
@@ -1354,6 +1354,24 @@
       "duration_ms": 280749,
       "name": "Escape",
       "url": "https://open.spotify.com/track/65HfR1BpotW0ES46KD6Gv8"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0L8QyZrZdViZB5etE3GD2D"
+      },
+      "artists": [
+        {
+          "name": "Kilgore Doubtfire",
+          "url": "https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280775,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/7mrit86RvgFQtvERjWe04l"
     },
     {
       "album": {

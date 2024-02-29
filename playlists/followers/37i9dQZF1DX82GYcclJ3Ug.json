@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 1113207,
+  "2024-02-29": 1113385,
   "date_first_scraped": "2021-12-21",
   "description": "No rules. No boundaries. The very best new alternative tracks. Cover: Catfish and the Bottlemen",
   "name": "The New Alt",
@@ -10475,6 +10475,24 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/3pio7v2Ug2K4qt4lIRFnza"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/2M220rNo8EQw2qp0HWtlPf"
     },
     {
       "album": {

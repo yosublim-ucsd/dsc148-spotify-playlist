@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Audrey Nuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,642 likes - 58 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,643 likes - 58 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 3 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 |
 | 4 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 |
 | 5 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 |
-| 6 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
+| 6 | [Not The 1975](https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9) | 3:18 |
 | 7 | [WORTH NOTHING](https://open.spotify.com/track/2BruPhzgTpJwPH9KUg0XcL) | [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING](https://open.spotify.com/album/36SXCfED2wv5zUA06xawpC) | 2:33 |
 | 8 | [Middle Of The Night](https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Middle Of The Night](https://open.spotify.com/album/01rdnuF8355WShHCdipdtG) | 2:41 |
 | 9 | [Space for Two](https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Space for Two](https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ) | 1:45 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 57 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 58 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 
-Snapshot ID: `MCw2NDVhMjc3N2ZhYWE4MTRmY2YyZDcyNzQ1NjU2NzVkN2Y2NzNkMjI0`
+Snapshot ID: `MCw3ZTQ2NTg0M2Y1NTI5MzM3YjE3MTlmMTcyNTA4ZGI1M2M5ZjkzYTNj`

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 95237,
+  "2024-02-29": 95265,
   "date_first_scraped": "2021-12-21",
   "description": "Born in the Mississippi Delta - at the turn of the 20th century - the Delta Blues is one of the earliest and most influential styles of blues.",
   "name": "Delta Blues",
@@ -905,10 +905,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 186640,
       "name": "Mr Freddie's Kokomo Blues",
       "url": "https://open.spotify.com/track/0NNsX9iY7shbtzCJg3DYRK"
+    },
+    {
+      "album": {
+        "name": "Mr Freddie",
+        "url": "https://open.spotify.com/album/3W7ndbi3PqHCwBOdnEvwXl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Spruell",
+          "url": "https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "Mr Freddie's Kokomo Blues",
+      "url": "https://open.spotify.com/track/2DnIeTrMDBjK14ROjnVDRh"
     },
     {
       "album": {

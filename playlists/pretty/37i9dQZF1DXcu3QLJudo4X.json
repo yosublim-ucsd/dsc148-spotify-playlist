@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 81531,
+  "num_followers": 81646,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGNjYjY3YjY3MTdlNTlkNWI4YzYwMGM2MjlhODgxODVjNGEyMWI4",
+  "snapshot_id": "MCw2ZjIwMzQzYTA4YTU0NWViNzViOGQ0MmE3NWM1ZDIzODVhOTEwMmEx",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+        "name": "Canned Heat",
+        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Trouble Blues",
-      "url": "https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT"
+      "duration_ms": 191093,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Canned Heat",
-        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
       "artists": [
         {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 191093,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+      "duration_ms": 200733,
+      "name": "Trouble Blues",
+      "url": "https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 317000,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "King Of The Blues",
+        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "Good Things Don't Happen Every Day",
         "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "King Of The Blues",
-        "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl"
     },
     {
       "added_at": "2023-08-23 10:30:13",

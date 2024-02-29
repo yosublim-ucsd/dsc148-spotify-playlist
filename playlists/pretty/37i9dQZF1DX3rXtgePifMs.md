@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,925 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,042 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 68 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
 | 69 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |
 | 70 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
-| 71 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
-| 72 | [FORMULA](https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [WRECKED](https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF) | 2:53 |
-| 73 | [The Gates Will Open](https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [The Gates Will Open](https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv) | 5:46 |
-| 74 | [denver luna \(acappella\)](https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna](https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG) | 2:27 |
+| 71 | [denver luna \(acappella\)](https://open.spotify.com/track/3yQ0l6VokE3ZWsj6y8I6kp) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna](https://open.spotify.com/album/0nQgkT12o7TfgxLF5sJ0YG) | 2:27 |
+| 72 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
+| 73 | [FORMULA](https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [WRECKED](https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF) | 2:53 |
+| 74 | [The Gates Will Open](https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [The Gates Will Open](https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv) | 5:46 |
 | 75 | [i've got a bf \(best friend\)](https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [i've got a bf \(best friend\)](https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec) | 2:28 |
 | 76 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
 | 77 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 108 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
 | 109 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCw3OTk3NGJkNjMwZjUyNmI2ZTgwNTY1YjM5N2Y1NWI1NTBhYTQ4ZjVm`
+Snapshot ID: `MCxjOThhMjhmYmM4MTdmYWE2OGJjNjdhMzc4MmE2M2E0MTE4OGUzMDQ2`

@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 47039,
+  "num_followers": 47077,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWMwYjEwZmZhMjNkZTAzYTI1M2JjOWY4NTM5MTc4NmVkODE4NzM1",
+  "snapshot_id": "MCw5MDU3ZjVlNzYwODFjZWM1NDVkNDRmMWU0MmEzZTBhMDQ2MWFhN2Fi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Storm",
-        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
-      },
-      "artists": [
-        {
-          "name": "Martin Pyrker, Sabine Pyrker",
-          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Boogie Woogie Storm",
-      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Tell Me Pretty Baby",
         "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Storm",
+        "url": "https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW"
+      },
+      "artists": [
+        {
+          "name": "Martin Pyrker, Sabine Pyrker",
+          "url": "https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Boogie Woogie Storm",
+      "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "This Is Boogie Woogie!",
-        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
-      },
-      "artists": [
-        {
-          "name": "Dave Taylor",
-          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
-        }
-      ],
-      "duration_ms": 154826,
-      "name": "Boogie In The City",
-      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie 50",
         "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Presenting Albert Ammons",
-        "url": "https://open.spotify.com/album/7urtIAL4uMykGBc7QVQwFY"
+        "name": "This Is Boogie Woogie!",
+        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
       },
       "artists": [
         {
-          "name": "Albert Ammons",
-          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+          "name": "Dave Taylor",
+          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
         }
       ],
-      "duration_ms": 165626,
-      "name": "Twelfth St Boogie",
-      "url": "https://open.spotify.com/track/3gxXvhQVvIHT2vbjP5UIjK"
+      "duration_ms": 154826,
+      "name": "Boogie In The City",
+      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1139,6 +1123,22 @@
       "duration_ms": 161173,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/3YaLFRRsz94OYlAZ2BZiWz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Presenting Albert Ammons",
+        "url": "https://open.spotify.com/album/7urtIAL4uMykGBc7QVQwFY"
+      },
+      "artists": [
+        {
+          "name": "Albert Ammons",
+          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "Twelfth St Boogie",
+      "url": "https://open.spotify.com/track/3gxXvhQVvIHT2vbjP5UIjK"
     },
     {
       "added_at": "2023-09-15 11:42:58",

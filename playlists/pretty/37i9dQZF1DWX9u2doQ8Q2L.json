@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 386898,
+  "num_followers": 387197,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzViODc3NjkzN2MxZTFlNGZlYTRhMTg3ZDI3OWY0ZWJjZDJmZjdm",
+  "snapshot_id": "MCw3MTIwYzYyZWYzZTZmNGY0YzZmMGEwNDQyOTUzMDU0NjliYTM5Yzcy",
   "tracks": [
     {
       "added_at": "2024-02-27 15:00:00",
@@ -160,7 +160,7 @@
       "added_at": "2024-02-27 15:00:00",
       "album": {
         "name": "IAI",
-        "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
+        "url": "https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo"
       },
       "artists": [
         {
@@ -170,7 +170,7 @@
       ],
       "duration_ms": 183666,
       "name": "IAI",
-      "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
+      "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -488,7 +488,7 @@
       "added_at": "2024-02-27 15:00:00",
       "album": {
         "name": "choose me (RE: i-dep ver.)",
-        "url": "https://open.spotify.com/album/4Rn0wpOtLKESTGddTJJg2v"
+        "url": "https://open.spotify.com/album/1qSDX5wHcO4BkDKjShvdx3"
       },
       "artists": [
         {
@@ -498,7 +498,7 @@
       ],
       "duration_ms": 243937,
       "name": "choose me - RE: i-dep ver.",
-      "url": "https://open.spotify.com/track/2n7iGBwJPoTmf6mRHwfEFf"
+      "url": "https://open.spotify.com/track/0R2Iie16VglcSk6cXeZ41N"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -664,7 +664,7 @@
       "added_at": "2024-02-27 15:00:00",
       "album": {
         "name": "mirrors",
-        "url": "https://open.spotify.com/album/2q0X4FKoZdTONf0FVvzRO4"
+        "url": "https://open.spotify.com/album/5qLzhuMXWuUh7K8OG5KSYS"
       },
       "artists": [
         {
@@ -674,7 +674,7 @@
       ],
       "duration_ms": 205565,
       "name": "mirrors",
-      "url": "https://open.spotify.com/track/23BxzhKlsUM0M6601eEoQu"
+      "url": "https://open.spotify.com/track/3T5naKF4mDr1P0sQpRzszn"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
+        "name": "Team Tomodachi",
+        "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
+      },
+      "artists": [
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Team Tomodachi",
+      "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 239625,
       "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
-        "name": "Team Tomodachi",
-        "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
-      },
-      "artists": [
-        {
-          "name": "Yuki Chiba",
-          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Team Tomodachi",
-      "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
         "name": "happy im",
         "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
         }
       ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1383,6 +1367,38 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "added_at": "2024-02-27 15:00:00",
+      "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 232301,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 272319,
       "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
       "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"
-    },
-    {
-      "added_at": "2024-02-27 15:00:00",
-      "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 232301,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
     },
     {
       "added_at": "2024-02-27 15:00:00",

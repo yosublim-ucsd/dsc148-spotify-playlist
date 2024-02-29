@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,624 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,937 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 19 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 |
 | 20 | [Changed the Way You Kiss Me \- Radio Edit](https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Playing In The Shadows](https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN) | 3:15 |
 | 21 | [Heaven](https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55) | 3:55 |
-| 22 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 3:23 |
-| 23 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
+| 22 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
+| 23 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 3:23 |
 | 24 | [Toca's Miracle \- Radio Edit](https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca \(20th Anniversary Edition\)](https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH) | 3:20 |
 | 25 | [Adagio For Strings](https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5) | 7:23 |
 | 26 | [Insomnia \- Radio Edit](https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Headliners](https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N) | 3:35 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 110 | [Make Your Move \- Radio Edit](https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe) | [Dave Armstrong](https://open.spotify.com/artist/4wknbsqzOCI7g8xihM7QP7) | [Make Your Move](https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV) | 2:51 |
 | 111 | [Baba O'Riley \(Radio Edit\)](https://open.spotify.com/track/31gTL5XTmcI4JCSglW5Sda) | [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 4:11 |
 | 112 | [I Can’t Help Myself \(feat\. Sophia May\) \- Radio Edit](https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx) | [Bellatrax](https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE), [Sophia May](https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 3:28 |
-| 113 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
-| 114 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 |
+| 113 | [Crush \(Radio Edit\)](https://open.spotify.com/track/7mafch6fDbXB2on5mxijln) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Crush](https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA) | 3:25 |
+| 114 | [Put \`em Up](https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm) | [Edun](https://open.spotify.com/artist/17wyRaHZkSFc2YwzdMWcS7) | [Put 'Em Up](https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr) | 3:31 |
 | 115 | [Summerfish \- Scandall Sunset On Ibiza Instrumental](https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi) | [Leonid Rudenko](https://open.spotify.com/artist/5rFOQi6066JvXPMQWxB5BJ) | [Nervous Nitelife: Vegas](https://open.spotify.com/album/7wKLfPH7nZs3E7McMPFP62) | 5:57 |
 | 116 | [Behind \- Callea Radio Mix](https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD) | [Flanders](https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u) | [Behind](https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M) | 3:40 |
 | 117 | [Star 69 \- Timo Maas Mix](https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Star 69](https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ) | 6:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/05u4uCA07oXnopEdlZ57Ug) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Awaken \(Pt\. 2\) \[Remixes\]](https://open.spotify.com/album/1ZMzi9pfVDFExVCKiDkYZO) | 3:44 |
 | 120 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 
-Snapshot ID: `MCxjZjkyYzUwZGU5OTUyNjk4MWE5MWVmNTI3MzcwMTdhNDZiOThlZDhl`
+Snapshot ID: `MCw2MTBiYzU5NDI2ZTk0N2ViMDVhYTYwY2JmNzAwZDRiMmFjOGEwMjYz`

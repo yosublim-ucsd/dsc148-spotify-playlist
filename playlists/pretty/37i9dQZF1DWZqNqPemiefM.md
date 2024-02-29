@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,303 likes - 70 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,341 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 66 | [Nausicaä of the Valley of the Wind \- 2024 ver.](https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32) | [Narumi Yasuda](https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I) | [Nausicaä of the Valley of the Wind \(2024 ver.\)](https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf) | 5:25 |
 | 67 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
 | 68 | [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 |
-| 69 | [Sanctuary](https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 1:05 |
+| 69 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 |
 | 70 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |
 
-Snapshot ID: `MCxiZWIwMGM4MTQ2YTY2N2U5ZmU2MTlmMTQyYWQwYzE5YzBjNjI2ZDVh`
+Snapshot ID: `MCxhYzA1Mzk2NDFlM2JjZGRkZDcxOWJiNzBhMmUzOTk3MmRhYjhjNDVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,634 likes - 576 songs - 1 day 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,636 likes - 576 songs - 1 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -585,4 +585,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 575 | [Chiquita \- John John \- Nikita](https://open.spotify.com/track/5rRtYctTs18b1SihtgTqgC) | [Mini Stars](https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G) | [Mini Stars Vol\. 1](https://open.spotify.com/album/4mv5SJHslHLukdY4uY9Cfi) | 3:05 |
 | 576 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 
-Snapshot ID: `Mjg0ODQ3NjAsMDAwMDAwMDA5ZDMxNzEwZTdkMmVjYWY3MTk4ZjI2MmExNTJjNzYwMA==`
+Snapshot ID: `Mjg0ODYyMDAsMDAwMDAwMDBiODIyY2ZkYzg0OGRkYTk3YjRlNjM4ZmVlOGM5MWM5Nw==`

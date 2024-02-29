@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 1555762,
+  "2024-02-29": 1556202,
   "date_first_scraped": "2021-12-21",
   "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG?si=-gw-4MmKQ1O5kPym9QJ_RA\">KCee</a>  ",
   "name": "African Heat",
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
@@ -1777,6 +1777,24 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
       "album": {

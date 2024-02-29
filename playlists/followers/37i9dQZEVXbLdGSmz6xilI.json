@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 90123,
+  "2024-02-29": 90167,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -3413,7 +3413,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -10095,7 +10095,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 197998,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
@@ -13207,6 +13207,14 @@
           "url": "https://open.spotify.com/artist/1dwfi5uS5pfQMhAic73Q7L"
         },
         {
+          "name": "L\u00e2m B\u1ea3o Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        },
+        {
           "name": "HippoHappy",
           "url": "https://open.spotify.com/artist/2XSFXatPt8qUyHQqicGZtN"
         }
@@ -15535,7 +15543,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 220108,
       "name": "Thi\u00ean L\u00fd \u01a0i",
       "url": "https://open.spotify.com/track/3ztP5O7dJSha2PG429eUCb"
@@ -15677,7 +15685,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Th\u00edch Qu\u00e1 R\u00f9i N\u00e0",
       "url": "https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75"

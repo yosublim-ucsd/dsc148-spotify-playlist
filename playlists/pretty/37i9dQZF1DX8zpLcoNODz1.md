@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zpLcoNODz1.md) - [plain]
 
 > Featuring Yeruza, Rauw Alejandro, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zpLcoNODz1.md) - [plain]
 | 24 | [La Llamada \(feat\. Darkiel, Almighty, Brytiago & Bryant Myers\) \- Remix](https://open.spotify.com/track/5PnE0HnlvXl3Pv7hop2FBE) | [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Trap Capos: Season 1](https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg) | 6:09 |
 | 25 | [Baby Father](https://open.spotify.com/track/3PkbIIhXoxhXK3jr41N2Hk) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Baby Father](https://open.spotify.com/album/5JBMhoo9G3WguOp0ZavtKp) | 3:10 |
 
-Snapshot ID: `MCw2N2NmMWJhMDJmODMxZDc5NmQ1YWU2NTRiMzllMDQyMzU4ZmMxNDdj`
+Snapshot ID: `MCwyMzg4YzBhNmI1MzkzNTRmOTFmOGQwNjFhOTc3ODdjMTQxODJkNzZh`

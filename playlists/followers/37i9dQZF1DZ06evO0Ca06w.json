@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 12716,
+  "2024-02-29": 12721,
   "date_first_scraped": "2021-12-29",
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
   "name": "This Is Miriam Makeba",
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Down on the Corner - Remastered",
       "url": "https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 187200,
       "name": "Hush, Hush - Thula Thula",
       "url": "https://open.spotify.com/track/2LrKp5rJL1LPkj1BXwSXzW"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 144187,
       "name": "Inkomo Zodwa",
       "url": "https://open.spotify.com/track/5MzPPSDVXUqZQh2LbIi53E"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 261537,
       "name": "Knona",
       "url": "https://open.spotify.com/track/0HRJPL72vbCbQ1cKSOxqKI"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 155800,
       "name": "Olilili",
       "url": "https://open.spotify.com/track/4uRAaQa7lIxCP3wb6eHuaM"
@@ -2353,7 +2353,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -2407,7 +2407,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 300573,
       "name": "The Lion Cries - Mbube",
       "url": "https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6"
@@ -2599,7 +2599,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 133253,
       "name": "Tululu - Remastered",
       "url": "https://open.spotify.com/track/1sicVeN7FJZcW8h9nNDAy0"

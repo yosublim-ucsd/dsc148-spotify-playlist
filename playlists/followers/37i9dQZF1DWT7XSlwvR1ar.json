@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 2075256,
+  "2024-02-29": 2075373,
   "date_first_scraped": "2019-07-29",
   "description": "Stay relaxed with these easy, laid-back songs.",
   "name": "Totally Stress Free",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 160006,
       "name": "A Couple Things",
       "url": "https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD"
@@ -3697,6 +3697,24 @@
       "duration_ms": 196885,
       "name": "Long Limbs",
       "url": "https://open.spotify.com/track/7r7QkwZPOVFsVUlJ8D2XRI"
+    },
+    {
+      "album": {
+        "name": "Look At The Time",
+        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Hill",
+          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260575,
+      "name": "Look At The Time",
+      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 475550,
+  "num_followers": 475834,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjU4MDIxMWFkMmMwMzVlMjg4YWJhZjg4YTNiNTliM2NjM2Y2MGMy",
+  "snapshot_id": "MCwzYzZlN2ViYzU2MjQ2N2U5MzllM2Y1MTgxNTM3YjllZTkwNjljNzBl",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "The Middle of Nowhere",
-        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Answering Machine",
-      "url": "https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Huli Ka",
         "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 95000,
       "name": "Death of the Phone Call",
       "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "The Middle of Nowhere",
+        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Answering Machine",
+      "url": "https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "It's All In Your Head",
         "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 167126,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/0qEPwjJHlNUSWf2Ghlxdqq"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "There's Nothing But Pleasure",
-        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
-      },
-      "artists": [
-        {
-          "name": "Bubble Tea and Cigarettes",
-          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
-        }
-      ],
-      "duration_ms": 341186,
-      "name": "5AM Empanada with You",
-      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 275013,
       "name": "I Don't Recognise You",
       "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "There's Nothing But Pleasure",
+        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "duration_ms": 341186,
+      "name": "5AM Empanada with You",
+      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "I Want To Be With You",
-        "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Long Nights and Wasted Affairs",
         "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 222992,
       "name": "running to find you",
       "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "I Want To Be With You",
+        "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1371,22 +1371,6 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Dawn Of The Freak",
-        "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 265346,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Forever at Last",
         "url": "https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 237398,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "End Of The Day (music from the film Anonymous Club)",
         "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
@@ -1599,34 +1615,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "rainbow frog biscuits",
+          "url": "https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT"
         }
       ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 237398,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+      "duration_ms": 166200,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/4TKAE15440weMFqZeuzprE"
     }
   ],
   "unique_name": "Lofi Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: M Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,014 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,030 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Olmaz Böyle Şey](https://open.spotify.com/track/51Z4cV2IizNewAfNTLV7K8) | [Gülşah Kömür](https://open.spotify.com/artist/0rFRdFCCe5YQKYZ7Oew9Vi) | [Olmaz Böyle Şey](https://open.spotify.com/album/5aobVaiHRon68Et46mnHpb) | 2:49 |
 | 50 | [Yolun Yolcusu](https://open.spotify.com/track/5yVsYD5Tz7tDyjqGNBQAVy) | [Hatice Yilmaz](https://open.spotify.com/artist/647TInYV2915NYDZqtoEoY) | [Yolun Yolcusu](https://open.spotify.com/album/7tC5tzJONutFLQUnk40PJw) | 3:14 |
 
-Snapshot ID: `MCxkODg5YjZlZWJmZjI4NmQ3YTMxNDAzOWVhMTY1MzQ4ZjE1MDI0Njc2`
+Snapshot ID: `MCwyOTVlZDdkZWQzMGQyYjU2YzgzYWY4ZGZmNzQ1YTJlZTUzYzUzOTg2`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-07 | 2024-01-25 |
+| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-07 |  |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-24 | 2022-04-18 |
 | [24/7](https://open.spotify.com/track/5kfHQviez9l9OJI5TfQ9Dn) | [Moon Yeon](https://open.spotify.com/artist/2EgZaRnWb6ucGVmoyrXH1s), [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB) | [24/7](https://open.spotify.com/album/5HT3wgiyTWNmBeIL6LPFaS) | 3:06 | 2022-04-19 | 2022-05-04 |
 | [36.5](https://open.spotify.com/track/4jAdC1wuRgCLLFJVHeV1rV) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [36.5](https://open.spotify.com/album/3wZtpqg44tzmRFtObM3AZT) | 3:36 | 2021-12-06 | 2022-07-29 |
@@ -122,7 +122,7 @@
 | [Hard to Start](https://open.spotify.com/track/2MxlULOEyapHB4RBRd344M) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Nayul](https://open.spotify.com/artist/17zkr2CrPmMUmKofLqPPCF) | [Hard to Start](https://open.spotify.com/album/1qm43euNyI3RvYbphvbMNn) | 3:25 | 2021-12-06 | 2022-07-28 |
 | [hawaiian surf](https://open.spotify.com/track/1lCACE62OowcTnqZ2OfiuB) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [hawaiian surf](https://open.spotify.com/album/6CNlVhBX8fzBGAzHcLa5zo) | 3:40 | 2021-12-06 | 2022-04-21 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-12-06 | 2022-07-26 |
-| [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2021-12-06 |  |
+| [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2021-12-06 | 2024-02-29 |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2021-12-06 | 2022-04-13 |
 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-12-06 |  |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-14 |  |

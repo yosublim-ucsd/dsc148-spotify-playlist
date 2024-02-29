@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 49275,
+  "num_followers": 49311,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjYwOGZlZTJmZTZlYmZhNDEyNGUwYjFmZGRiNzQwOWM4ZjFlMWIz",
+  "snapshot_id": "MCw1N2RlMTM4NWJmN2IxYzViYTM4YzhkNTE0MzRlNWQyZDkzOGEwNDdi",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "Borinquen",
-      "url": "https://open.spotify.com/track/5aWptIJbLIRyQ5nELmBUKG"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
       },
@@ -2391,6 +2371,26 @@
       "duration_ms": 280693,
       "name": "Este Amor",
       "url": "https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "La Esencia De La Fania",
+        "url": "https://open.spotify.com/album/2Nd7MbIshLGbKOy4RKApeo"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Borinquen",
+      "url": "https://open.spotify.com/track/3LT2EX3RJEJzq1fBSqu67p"
     }
   ],
   "unique_name": "Chambeando con Salsa",

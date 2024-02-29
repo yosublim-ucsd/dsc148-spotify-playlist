@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Along the long journey",
+        "url": "https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245076,
+      "name": "Along the long journey",
+      "url": "https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0"
+    },
+    {
+      "album": {
         "name": "Ambiguous",
         "url": "https://open.spotify.com/album/3ny9YuGHA0QNn4F9zWC7Bz"
       },
@@ -858,10 +876,32 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 230896,
       "name": "Festival",
       "url": "https://open.spotify.com/track/37BksJtzjL1R8slNqyhb5C"
+    },
+    {
+      "album": {
+        "name": "JET SET RADIO",
+        "url": "https://open.spotify.com/album/61pSh7OR7bh65oeV1AWU0A"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        },
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230896,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/45crhqJrSYZthAHfSFQqYB"
     },
     {
       "album": {
@@ -3116,7 +3156,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 245076,
       "name": "\u3053\u306e\u9577\u3044\u65c5\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb"

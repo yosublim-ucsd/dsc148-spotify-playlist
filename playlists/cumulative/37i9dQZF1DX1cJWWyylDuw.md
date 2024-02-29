@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left To Suffer
 
-537 songs - 1 day 11 hr 10 min
+538 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bleed the Future](https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc) | 3:48 | 2021-12-17 |  |
 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 | 2021-12-17 |  |
 | [Blind Kings](https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Blind Kings](https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG) | 4:02 | 2021-12-17 | 2023-04-15 |
+| [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-02-27 |  |
 | [Blood and Teeth](https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 6:45 | 2024-02-09 |  |
 | [Bloodguilt](https://open.spotify.com/track/24PhPzlNAOCsnHAP65GCeA) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Bloodguilt](https://open.spotify.com/album/6vdb4SkMuWtLYqw4lHlOVW) | 4:55 | 2021-12-17 | 2022-04-09 |
 | [BLUNT FORCE TRAUMA](https://open.spotify.com/track/1LX9OWc23Nskld1JxpSEBr) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h) | [BLUNT FORCE TRAUMA](https://open.spotify.com/album/55FY4NTa8pjoEglAo1yqPF) | 2:41 | 2022-04-08 | 2022-12-13 |
@@ -86,7 +87,7 @@
 | [Boy](https://open.spotify.com/track/3XhrFBIBskDUeujyzNFwXf) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2CL5UiUdXNe1EKoOObuNui) | 3:50 | 2021-12-17 | 2022-11-21 |
 | [Boy](https://open.spotify.com/track/4F1awMDl4eLNdzm5m5ylGo) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Boy](https://open.spotify.com/album/2bawGtzScFeuFxEhsrx4Sa) | 3:50 | 2022-10-27 | 2023-04-25 |
 | [Break The Cycle](https://open.spotify.com/track/0R3V1qnan4rbDvoubYi5Zu) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Break The Cycle](https://open.spotify.com/album/1Iyd7yCUDVzoMBgvVOARPz) | 3:55 | 2021-12-17 | 2022-07-29 |
-| [Broken Glass Incantation](https://open.spotify.com/track/2CdzRZcftbyNGD4zYzijby) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Broken Glass Incantation](https://open.spotify.com/album/0MqPjb7oM5ld54nvNKGXcL) | 3:09 | 2024-01-30 |  |
+| [Broken Glass Incantation](https://open.spotify.com/track/2CdzRZcftbyNGD4zYzijby) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Broken Glass Incantation](https://open.spotify.com/album/0MqPjb7oM5ld54nvNKGXcL) | 3:09 | 2024-01-30 | 2024-02-29 |
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 | 2024-01-31 |
 | [Bunny Suit](https://open.spotify.com/track/4LubEIUvempGGLt6kaExjk) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Bunny Suit](https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo) | 4:33 | 2024-02-27 |  |
 | [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 | 2024-01-30 | 2024-02-05 |
@@ -379,7 +380,7 @@
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2021-12-17 | 2022-07-28 |
 | [Pigs Ear](https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Hindsight](https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs) | 2:11 | 2022-07-08 | 2023-12-14 |
 | [Plague Bringer](https://open.spotify.com/track/7MWR9jhJ9bNssmOHTdTE0T) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Magno Interitus](https://open.spotify.com/album/7yRyJmmqFrwq6gFcAjNdj6) | 3:45 | 2022-10-21 | 2023-09-24 |
-| [Plague Bringer \- Inhuman Rework](https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Plague Bringer \(Inhuman Rework\)](https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH) | 3:25 | 2024-01-30 |  |
+| [Plague Bringer \- Inhuman Rework](https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Plague Bringer \(Inhuman Rework\)](https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH) | 3:25 | 2024-01-30 |  |
 | [Plague of Immortality \(feat\. Dean Lamb Of Archspire\)](https://open.spotify.com/track/05lftobM0IU6WsyD2NyRrp) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Dean Lamb Of Archspire](https://open.spotify.com/artist/1pqMeCOEtQ3bV5StT2kx3w) | [Void](https://open.spotify.com/album/2lEDiOQ9EbnvETiOKRTP5i) | 3:49 | 2021-12-17 | 2022-01-20 |
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 |  |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2021-12-17 | 2022-07-29 |

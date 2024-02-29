@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEYONG\(태용\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-8,050 songs - 19 day 8 hr 9 min
+8,053 songs - 19 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Cherry Gene 'Baddest Mix'](https://open.spotify.com/track/0DccKnQvYKaTpuy7UuOWl2) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Eyes <Cherry Gene>](https://open.spotify.com/album/3Ff3GZreBRA0140bFzpMgn) | 1:43 | 2023-07-07 | 2023-08-10 |
 | [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 | 2023-05-04 | 2023-07-12 |
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-11-30 | 2022-12-22 |
+| [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 | 2024-02-28 |  |
 | [CHICKEN DINNA](https://open.spotify.com/track/2bll3Te3bvaxRV0TfzxNfs) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [REDDY ACTION](https://open.spotify.com/album/76kX8iTykE1stIV3kTY9UV) | 3:40 | 2022-10-13 | 2022-11-07 |
 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 | 2023-03-22 | 2023-04-02 |
 | [Child](https://open.spotify.com/track/0BnbFMLJE1xCLKTM1PcW5G) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Under the Queen's Umbrella, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1dYcwCDizRoTyBXQDbxzgn) | 3:30 | 2022-10-31 | 2022-12-22 |
@@ -1823,6 +1824,7 @@
 | [EASY](https://open.spotify.com/track/4thopfiFNea6D31uMXsmRv) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [EASY](https://open.spotify.com/album/1bKEk8d6NlO1twrcneMvw5) | 2:43 | 2023-07-11 | 2023-08-10 |
 | [Easy](https://open.spotify.com/track/74ifNyRPy7ZVOEdlqQ96R7) | [HwA](https://open.spotify.com/artist/0K4py26mnJcM40LhIy5g8q), [Chowol](https://open.spotify.com/artist/1O6j7T43BW3XPoCKgeaOwl) | [Easy](https://open.spotify.com/album/3o5u1M2KwYvs7k1X8x1FRz) | 3:08 | 2022-11-07 | 2022-12-22 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-19 |  |
+| [Easy](https://open.spotify.com/track/3Ved7PW54ZocefCpclZHcX) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Easy](https://open.spotify.com/album/41b0hsQwhVkMc3NQcvB0NF) | 3:02 | 2024-02-28 |  |
 | [Easy \(feat\. AVND\)](https://open.spotify.com/track/2yiPvagNxSHbpCfc6KIsE1) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [Rom](https://open.spotify.com/artist/41bAKC5dtNhrtr1IcLJxGm), [AVND](https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm) | [Easy \(feat\. AVND\)](https://open.spotify.com/album/5ZtaTcGloHnfbxCvscLsgX) | 3:11 | 2023-08-28 | 2023-09-16 |
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-06-27 | 2022-07-05 |
 | [Easy \(Feat\. Wynn\)](https://open.spotify.com/track/3ZceRrbRf5o95VcjqX8qMi) | [HAN HEEJUN](https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi), [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [Easy](https://open.spotify.com/album/6Nz2XjjLWAn1WqMwLZX1e3) | 2:56 | 2023-03-03 | 2023-03-28 |
@@ -2638,6 +2640,7 @@
 | [Happy Trip](https://open.spotify.com/track/0KQJKR1OmXB90J89f3oT2K) | [TAERYEONG](https://open.spotify.com/artist/2uSF6Yxe6b1UreJx40cjGi) | [Happy Trip](https://open.spotify.com/album/7xmk5lcn4guciJiSqAp6yn) | 2:48 | 2022-09-19 | 2022-11-07 |
 | [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-06-27 | 2023-08-10 |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-16 | 2023-02-01 |
+| [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-02-28 |  |
 | [Harmony](https://open.spotify.com/track/7kAaFc4e9S2EmyKqzw2aXB) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 1st Repackage Album ′HARMONY′](https://open.spotify.com/album/6fSKnBLop9Uf9E2pJTYTdf) | 3:30 | 2023-04-24 | 2023-06-20 |
 | [HARU](https://open.spotify.com/track/1TsT843VH1NmS4daN0NrOy) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [HARU](https://open.spotify.com/album/64BW4D6rLfs1J53CZ7APJi) | 4:09 | 2023-07-14 | 2023-08-10 |
 | [Hate](https://open.spotify.com/track/36DFLmE0EJpm5ZhXbdDEik) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Hate](https://open.spotify.com/album/4TpYwWAzIDFwb8EMVIAb8w) | 2:50 | 2023-10-10 | 2023-11-11 |

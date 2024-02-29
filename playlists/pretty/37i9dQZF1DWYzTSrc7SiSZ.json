@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 663165,
+  "num_followers": 663228,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODQ5YmQ3NDUzMTAwNDg1MmZlZGI1NDM2MDBlOWE1NjRlMmJmNGM0",
+  "snapshot_id": "MCwwZWE2ODBiYzRmOWIxYWQzYzZmNWJjYjVjOTkwNmExNzBmY2VjMGQx",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Fui Yo",
-        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Fui Yo",
-      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Planeando Madrid",
         "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Ojos Negros",
+        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Ojos Negros",
-        "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Ojos Negros",
-      "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Una Noche (Unplugged)",
         "url": "https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 238654,
       "name": "Una Noche - Unplugged",
       "url": "https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Canciones Que Hice en Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/0RszZKHUVrUvtiaJZIVLcn"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 183000,
       "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
       "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "malapami",
         "url": "https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "UNA LUZ",
-        "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 127275,
-      "name": "UNA LUZ",
-      "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -1023,26 +991,34 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
       },
       "artists": [
         {
           "name": "Gus",
           "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
         }
       ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "UNA LUZ",
+        "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 127275,
+      "name": "UNA LUZ",
+      "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1115,6 +1091,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "I Fell In Love",
         "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
       },
@@ -1131,6 +1127,30 @@
       "duration_ms": 260186,
       "name": "I Fell in Love",
       "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1155,22 +1175,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
       },
       "artists": [
         {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Nahuel Barbero",
-          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 231936,
-      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
-      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+      "duration_ms": 224268,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 150717,
       "name": "1vezmas",
       "url": "https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Process 2",
         "url": "https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 170666,
       "name": "The Process 2",
       "url": "https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "aqu\u00ed andamos",
-        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "aqu\u00ed andamos",
-      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 108586,
       "name": "No Eres T\u00fa, Soy Yo",
       "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "aqu\u00ed andamos",
+        "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "aqu\u00ed andamos",
+      "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
     },
     {
       "added_at": "2024-02-09 05:00:00",

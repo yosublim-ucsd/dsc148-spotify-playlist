@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: T-Rex.  ",
-  "num_followers": 58630,
+  "num_followers": 58668,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjhmZmJiNTExYjUzM2FlNjM1YmQ3M2VkOGIyNTM4ZmVkYWI5OTA5",
+  "snapshot_id": "MCw1MWY5ZTE2NTRjMjE5OGYzZDMwMzYxZWRkN2E1NWQwNmJlYTI2ZjFm",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -823,6 +823,34 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/40lsqw24Dr5dqqpP1wgCEG"
+      },
+      "artists": [
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        },
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 250169,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4nLqe3vWwbC4oGX2SphgXL"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -859,34 +887,6 @@
       "duration_ms": 173186,
       "name": "Para Tu Seres de Onde Eu Sou",
       "url": "https://open.spotify.com/track/718DAFEvZP9MdqiydLCXBa"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/40lsqw24Dr5dqqpP1wgCEG"
-      },
-      "artists": [
-        {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        },
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 250169,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4nLqe3vWwbC4oGX2SphgXL"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1olJSyIGhlIjtXrsLF1LXG"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/43fPogIpwOkYKEDHLJTjEV"
+      "duration_ms": 263131,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1olJSyIGhlIjtXrsLF1LXG"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 263131,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
+      "duration_ms": 192631,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/43fPogIpwOkYKEDHLJTjEV"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1007,22 +1007,6 @@
       "duration_ms": 188571,
       "name": "Stunka",
       "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7ngJWF9fTaOG3vmEhSvK6g"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
     },
     {
       "added_at": "2024-02-23 00:00:00",

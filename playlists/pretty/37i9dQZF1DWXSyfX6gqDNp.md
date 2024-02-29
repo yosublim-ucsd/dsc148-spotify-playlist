@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,554 likes - 177 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,574 likes - 177 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 176 | [Somewhat Melancholy](https://open.spotify.com/track/3uMnKzPcOo1Hz1MUhjSX8o) | [The Greenview](https://open.spotify.com/artist/6YZKrUAZXUSmE4d74re04P) | [One Day I Wrote Her Name](https://open.spotify.com/album/20wkflrP7lt5uZxdJFLBHn) | 3:17 |
 | 177 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 |
 
-Snapshot ID: `MCw0M2RlN2IwMWNmNzk5NmZiNDhlN2JiODM1MDg2NTZhYWYyNWRhMGM3`
+Snapshot ID: `MCxkZWJlZjc2YTExMTU0ZThjNzlmNTc5OWQ2ZjI5NDFmN2NhZTVmYjlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,283 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,306 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 84 | [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 |
 | 85 | [Falling \(For You\)](https://open.spotify.com/track/1cWpspgmyzdO0CzNK5XxXK) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Falling \(For You\)](https://open.spotify.com/album/6bv3fsGWdJPg0MobxWS0eQ) | 3:48 |
 | 86 | [Object Permanence](https://open.spotify.com/track/1ncLPvQe060nMDiJZYCscq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence](https://open.spotify.com/album/3uykk3FDfJ6f2u8yxD8p0R) | 4:20 |
-| 87 | [the life and death of a dog](https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 3:34 |
+| 87 | [the life and death of a dog](https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 3:34 |
 | 88 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 |
 | 89 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 90 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 |
 | 100 | [DOUBLE DUTCH](https://open.spotify.com/track/7xc8nL2r4N5Ful0QPGlYwB) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [DOUBLE DUTCH](https://open.spotify.com/album/1ZEgZwv6633Vgeea2hBUc3) | 2:17 |
 
-Snapshot ID: `MCw5NGJlODllYzc0NjkxYWJkNzc1NjRiNTNkMTlmMzE0NjM4OWIwMTI4`
+Snapshot ID: `MCw4N2YwY2E3MTBiNzNiMWFlNWYxYTZlNzNiYmI3YzViM2I4NTQwZmU5`

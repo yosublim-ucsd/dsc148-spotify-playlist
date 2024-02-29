@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1550821,
+  "num_followers": 1551067,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjExYzM1N2RkMzE5M2U4MDUzMTgzOGQyODZhMmJkZjRlN2FhYTkx",
+  "snapshot_id": "MCw1N2MxNmFmMjc0YmVmNjgwNjY2NjM0NTA2NTBhOTkzZmM5ZTA1YjE5",
   "tracks": [
     {
       "added_at": "2023-09-20 21:46:22",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-09-20 21:46:22",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
         "name": "Love To Love You Baby",
         "url": "https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 1008533,
       "name": "Love To Love You Baby",
       "url": "https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J"
-    },
-    {
-      "added_at": "2023-09-20 21:46:22",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2023-09-20 21:46:22",
@@ -811,6 +795,22 @@
       "duration_ms": 290160,
       "name": "Love Rollercoaster",
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
+    },
+    {
+      "added_at": "2023-09-20 21:46:22",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2023-09-20 21:46:22",

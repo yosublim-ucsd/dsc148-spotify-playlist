@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 10825,
+  "2024-02-29": 10827,
   "date_first_scraped": "2024-01-30",
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
   "name": "This Is Jai Wolf",
@@ -197,6 +197,28 @@
     {
       "album": {
         "name": "Like It's Over (feat. MNDR)",
+        "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Like It's Over (feat. MNDR)",
+      "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
+    },
+    {
+      "album": {
+        "name": "Like It's Over (feat. MNDR)",
         "url": "https://open.spotify.com/album/4XfWzKytfZUpI2pQJXwL9c"
       },
       "artists": [
@@ -211,7 +233,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 318000,
       "name": "Like It's Over (feat. MNDR)",
       "url": "https://open.spotify.com/track/4y6PSWptEEDATKmja2xzCu"
@@ -237,6 +259,28 @@
     {
       "album": {
         "name": "Lost (feat. Chelsea Jade)",
+        "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "Lost (feat. Chelsea Jade)",
+      "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
+    },
+    {
+      "album": {
+        "name": "Lost (feat. Chelsea Jade)",
         "url": "https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W"
       },
       "artists": [
@@ -251,7 +295,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 241040,
       "name": "Lost (feat. Chelsea Jade)",
       "url": "https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA"

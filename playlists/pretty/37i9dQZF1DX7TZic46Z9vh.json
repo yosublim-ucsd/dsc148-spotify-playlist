@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjM3ZDViMmY4ZjE2NDNhNjk5ODkxMmVmY2M2NTFlYTgyOGU0MWNm",
+  "snapshot_id": "MCxkNDA5OWVjMGFlOGQ4NWU3YTY4NWNiYzMxNDZmMTIzNjMyYjUzZjJm",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
+        "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
+      },
+      "artists": [
+        {
+          "name": "The Spiders",
+          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Boom! Boom! Boom!",
+      "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Super Onda Chicana",
         "url": "https://open.spotify.com/album/0ejOwpUztLTHRHqmOE9QXR"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 163386,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
-        "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
-      },
-      "artists": [
-        {
-          "name": "The Spiders",
-          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Boom! Boom! Boom!",
-      "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
     },
     {
       "added_at": "2021-09-06 15:34:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,173 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,160 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 61 | [Miss Me Too](https://open.spotify.com/track/7DH3iFf6FWVnAnIH0nV8px) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [The Other Side](https://open.spotify.com/album/1oS1s8SYBFyaop178vVYrx) | 3:08 |
 | 62 | [Open Hearts](https://open.spotify.com/track/7MeGQWcetCusGKRiVqTWTq) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Open Hearts](https://open.spotify.com/album/6weIQdeQfPdsVPv4SptiVE) | 3:23 |
 | 63 | [i'll be there](https://open.spotify.com/track/0tdXJ2JYencFfW1QjZ0drx) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [i'll be there](https://open.spotify.com/album/13SZlBbp3KydSTvZ3cahvr) | 3:17 |
-| 64 | [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 |
+| 64 | [Best Friend](https://open.spotify.com/track/4F2OilypcmGv2TJIfto9sr) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Caesar](https://open.spotify.com/album/3jOouxyeaYRD9deTRXzqSE) | 3:04 |
 | 65 | [Holding on to Letting Go](https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U) | 2:45 |
 | 66 | [Tattoo](https://open.spotify.com/track/4UfNfXmf6TosF4MsJYcaph) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Tattoo](https://open.spotify.com/album/7uYTIkxdTFnLaetkUJKT4m) | 3:39 |
 | 67 | [Make it a Memory](https://open.spotify.com/track/4wNyXz7XVh4CfjTgstJr7T) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Make it a Memory](https://open.spotify.com/album/5SxOgwsyojWkxjknZwFusM) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 |
 | 100 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
 
-Snapshot ID: `MCwzZjIxNTRhMGExNzhjNjgxNzAzMjNlMmJmNzZlNWI5OTQ1NzhmYThm`
+Snapshot ID: `MCxiNjQ3ZTc3YTQ3Y2NjNDgwYmVkZDUxMWM4Yjc5N2FjMzIwNjliYjg5`

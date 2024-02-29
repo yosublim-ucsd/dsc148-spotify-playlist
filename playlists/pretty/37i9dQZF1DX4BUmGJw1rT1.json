@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 68484,
+  "num_followers": 68492,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjUxNDg5M2RiYTBmYWRjNjQ1MjZhYzNlN2EwMDA3ZmMyNGEyYzg4",
+  "snapshot_id": "MCwwNzUxMDEyZjg3YzgxZTI4MmIxYjcyMGMxZTNiMDZjZTM2NDgyYjg3",
   "tracks": [
     {
       "added_at": "2023-11-24 19:22:06",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Feels Like Rain",
-        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "Feels Like Rain (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Emotion & Commotion",
         "url": "https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 182426,
       "name": "I Put a Spell on You (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/3Be7vJDOFNOVv3iYQgIQpu"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Feels Like Rain",
+        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Feels Like Rain (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
-      },
-      "artists": [
-        {
-          "name": "Shanice Green",
-          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
-        }
-      ],
-      "duration_ms": 226131,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+      "duration_ms": 226131,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -763,6 +747,22 @@
       "duration_ms": 133777,
       "name": "I Got Your Love",
       "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Rise to the Grind",
+        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+      },
+      "artists": [
+        {
+          "name": "Garrett Lebeau",
+          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Rise to the Grind",
-        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
       },
       "artists": [
         {
-          "name": "Garrett Lebeau",
-          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
         }
       ],
-      "duration_ms": 290453,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+      "duration_ms": 285701,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "How Many Times?",
-        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 285701,
-      "name": "How Many Times?",
-      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1507,6 +1523,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "If Heaven Is A Hotel",
+      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
         "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
       },
@@ -1539,38 +1571,6 @@
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "If Heaven Is A Hotel",
-      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "He Was a Friend of Mine",
-        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
-      },
-      "artists": [
-        {
-          "name": "Tom Freund",
-          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "He Was a Friend of Mine",
-      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 200226,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "He Was a Friend of Mine",
+        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
+      },
+      "artists": [
+        {
+          "name": "Tom Freund",
+          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "He Was a Friend of Mine",
+      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Dusty Highway",
-        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
-      },
-      "artists": [
-        {
-          "name": "David Gelman",
-          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Talkin' Company Man Blues",
         "url": "https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 250092,
       "name": "Talkin' Company Man Blues",
       "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Dusty Highway",
+        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+      },
+      "artists": [
+        {
+          "name": "David Gelman",
+          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya",
-          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/274mSeGv906bj4ylimeKiW"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 254929,
       "name": "I Love Your Rock 'n' Roll",
       "url": "https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
+      },
+      "artists": [
+        {
+          "name": "Vicky Tafoya",
+          "url": "https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/1AKkHclqUO2FqtL3Z9Ec8b"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2083,22 +2083,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Underground Railroad",
-        "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
+        "name": "The Alders & The Ashes",
+        "url": "https://open.spotify.com/album/2tqfiWVMrP284aCYzqtJb1"
       },
       "artists": [
         {
-          "name": "Shaneeka Simon",
-          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
         },
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/0p5LJ9i0t0HBwNDvuud4Kj"
         }
       ],
-      "duration_ms": 254862,
-      "name": "Underground Railroad",
-      "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
+      "duration_ms": 244546,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/6JUbNCkbY43fsTVcEr3Yxf"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2115,6 +2115,26 @@
       "duration_ms": 222170,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Underground Railroad",
+        "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
+      },
+      "artists": [
+        {
+          "name": "Shaneeka Simon",
+          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
+        },
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Underground Railroad",
+      "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2195,26 +2215,6 @@
       "duration_ms": 140600,
       "name": "Got Me a Party",
       "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "The Alders & The Ashes",
-        "url": "https://open.spotify.com/album/2tqfiWVMrP284aCYzqtJb1"
-      },
-      "artists": [
-        {
-          "name": "The Hello Darlins",
-          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
-        },
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/0p5LJ9i0t0HBwNDvuud4Kj"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/6JUbNCkbY43fsTVcEr3Yxf"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+      },
+      "artists": [
+        {
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+        }
+      ],
+      "duration_ms": 208592,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Hard to Kill",
         "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 207653,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Who Is He?",
-        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
-      },
-      "artists": [
-        {
-          "name": "Dylan Triplett",
-          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
-        }
-      ],
-      "duration_ms": 195388,
-      "name": "I'll Be There Waiting",
-      "url": "https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2363,34 +2363,34 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+        "name": "Oh Betty (Acoustic)",
+        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
       },
       "artists": [
         {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 208592,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/61afTyjnWQ0q4cQXg4av0f"
+      "duration_ms": 246031,
+      "name": "Oh Betty - Acoustic",
+      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
     },
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Trouble And Shame",
-        "url": "https://open.spotify.com/album/6upHpN96CSd3BvxQrOBc2X"
+        "name": "Who Is He?",
+        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
       },
       "artists": [
         {
-          "name": "Mollie Marriott",
-          "url": "https://open.spotify.com/artist/1zQ0BvcGGvuhvI6E9YBoTP"
+          "name": "Dylan Triplett",
+          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
         }
       ],
-      "duration_ms": 230620,
-      "name": "Trouble And Shame",
-      "url": "https://open.spotify.com/track/12crpofRI1U2y7gqmOyeoW"
+      "duration_ms": 195388,
+      "name": "I'll Be There Waiting",
+      "url": "https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Oh Betty (Acoustic)",
-        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+        "name": "Trouble And Shame",
+        "url": "https://open.spotify.com/album/6upHpN96CSd3BvxQrOBc2X"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Mollie Marriott",
+          "url": "https://open.spotify.com/artist/1zQ0BvcGGvuhvI6E9YBoTP"
         }
       ],
-      "duration_ms": 246031,
-      "name": "Oh Betty - Acoustic",
-      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
+      "duration_ms": 230620,
+      "name": "Trouble And Shame",
+      "url": "https://open.spotify.com/track/12crpofRI1U2y7gqmOyeoW"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2463,26 +2463,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Bob Corritore & Friends: You Shocked Me",
-        "url": "https://open.spotify.com/album/7EnTLUXW9ey00eet0higLW"
-      },
-      "artists": [
-        {
-          "name": "Bob Corritore",
-          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
-        },
-        {
-          "name": "Johnny Rawls",
-          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
-        }
-      ],
-      "duration_ms": 202071,
-      "name": "The World's In A Bad Situation",
-      "url": "https://open.spotify.com/track/7s2GbffwL8VJd86wYczOM4"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -2499,18 +2479,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Greener Side E.P.",
-        "url": "https://open.spotify.com/album/2Nv5axlrGPVAKusAI2ulPy"
+        "name": "Bob Corritore & Friends: You Shocked Me",
+        "url": "https://open.spotify.com/album/7EnTLUXW9ey00eet0higLW"
       },
       "artists": [
         {
-          "name": "Ryan Marshall & Jemma O'Neill",
-          "url": "https://open.spotify.com/artist/1mJVFLQvZcWtz10bCx88Oq"
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Johnny Rawls",
+          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
         }
       ],
-      "duration_ms": 238840,
-      "name": "My Skin",
-      "url": "https://open.spotify.com/track/4a1LcS2pg4MyF2XaH9NPnZ"
+      "duration_ms": 202071,
+      "name": "The World's In A Bad Situation",
+      "url": "https://open.spotify.com/track/7s2GbffwL8VJd86wYczOM4"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2539,6 +2523,22 @@
       "duration_ms": 251384,
       "name": "Grease the Wheel",
       "url": "https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Look Up!",
+        "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
+      },
+      "artists": [
+        {
+          "name": "The Harlem Gospel Travelers",
+          "url": "https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft"
+        }
+      ],
+      "duration_ms": 172801,
+      "name": "Hold On (Joy Is Coming)",
+      "url": "https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ"
     }
   ],
   "unique_name": "Home at Last",

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-149 songs - 8 hr 33 min
+150 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-12-22 | 2023-05-05 |
 | [Before You Let Me Go](https://open.spotify.com/track/2yu5RQzExtQOGV875tfPIX) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Declan J Donovan](https://open.spotify.com/album/2Cs94ATEIzIciZdTaL5igc) | 3:42 | 2023-07-13 |  |
 | [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2022-12-22 | 2023-09-15 |
-| [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-12-22 |  |
+| [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-12-22 | 2024-02-29 |
+| [Best Friend](https://open.spotify.com/track/4F2OilypcmGv2TJIfto9sr) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Caesar](https://open.spotify.com/album/3jOouxyeaYRD9deTRXzqSE) | 3:04 | 2024-02-15 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-12-22 |  |
 | [Blind Spot](https://open.spotify.com/track/5UHIwUItXXFoSUSuPulnpP) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Blind Spot](https://open.spotify.com/album/3FBrrFX3ePFvenJ3VJD5kN) | 3:21 | 2022-12-22 |  |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-05-04 | 2023-08-04 |

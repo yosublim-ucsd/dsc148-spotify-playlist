@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Jordan Mackampa
 
-383 songs - 22 hr 33 min
+384 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,8 @@
 | [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-05-07 | 2022-01-29 |
 | [Wanna Go](https://open.spotify.com/track/4BSDnTwqQOARzQnsVkS8Gh) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Wanna Go](https://open.spotify.com/album/7xU2fbizvJVD9XUpqlQ8wM) | 2:18 | 2022-06-17 | 2022-09-10 |
 | [Warning Sign](https://open.spotify.com/track/4c0s18ptbeNyaDiepcLe6N) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI) | [Coronation](https://open.spotify.com/album/5OymrKAPQ2iDQ0Oyt8rwKo) | 3:25 | 2023-12-01 |  |
-| [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 | 2022-07-22 |  |
+| [WASABI](https://open.spotify.com/track/2xM0qj1bxFldH3BgLIzcve) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:47 | 2022-07-22 |  |
+| [WASABI](https://open.spotify.com/track/7LafokGsEiIKUA7ziJuPga) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [WASABI](https://open.spotify.com/album/6uNSXdsZ6dBAGHV8BMAOBM) | 2:47 | 2022-07-22 | 2024-02-29 |
 | [Waste My Time](https://open.spotify.com/track/0EVVIialQkNLFen9S5tEo2) | [Rachel Horter](https://open.spotify.com/artist/6TRCClB2b8EhHakLcDyjV2) | [Waste My Time](https://open.spotify.com/album/4vPgUWYdrztuLoY8wKA8gb) | 2:51 | 2022-09-23 |  |
 | [Wasting Time](https://open.spotify.com/track/6qwwMUQBq2yy2bqBejBCIc) | [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Wasting Time](https://open.spotify.com/album/1l45FmdRw6IPM0jjDMd2fq) | 2:13 | 2021-04-16 | 2022-01-29 |
 | [Weekend Love](https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/2oI4tu8r7f3e1mgXYfYmMJ) | 3:39 | 2021-05-07 | 2022-07-16 |

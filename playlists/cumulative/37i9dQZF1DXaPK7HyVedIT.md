@@ -4,13 +4,14 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-236 songs - 12 hr 46 min
+237 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 2 3 \(Empezamos Otra Vez\)](https://open.spotify.com/track/1qr9BPBu8ddagYyUTQLUVN) | [Lazy Bear](https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9), [Garonzos](https://open.spotify.com/artist/251mxKacj3xUCn5AJwHH7A), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [1 2 3 \(Empezamos Otra Vez\)](https://open.spotify.com/album/4CBotLWZhSVq2C38IMd2lS) | 2:30 | 2023-08-18 | 2023-11-18 |
 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 | 2023-07-21 | 2023-08-19 |
-| [2 Much 2 Handle \(Cheyenne Giles Remix\)](https://open.spotify.com/track/5PRprahs97yR5uwQkpgz4L) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 3:07 | 2024-01-26 |  |
+| [2 Much 2 Handle \(Cheyenne Giles Remix\)](https://open.spotify.com/track/5PRprahs97yR5uwQkpgz4L) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 3:07 | 2024-01-26 | 2024-02-29 |
+| [2 Much 2 Handle \(Cheyenne Giles Remix\)](https://open.spotify.com/track/5RHPVQCHefm78e7yjJRdQP) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/73RBjRZjJms5q8X0BHnP9g) | 3:07 | 2024-02-23 |  |
 | [5th Symphony](https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [5th Symphony](https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI) | 2:37 | 2023-07-21 | 2023-08-26 |
 | [Acid Peppers](https://open.spotify.com/track/4GvP0i8hmuyFPoLfxOq29d) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Acid Peppers](https://open.spotify.com/album/6oka5q4Rg2o2wOWQ2Jzzei) | 2:49 | 2023-10-20 | 2024-02-24 |
 | [Activated](https://open.spotify.com/track/1Ns2Ucfg64nvKFLZ7KtY9h) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Sifa](https://open.spotify.com/artist/7q1ExqmvA5vWGGmkXs1rL3), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [Activated](https://open.spotify.com/album/5n8hYQR4wuXgVxkVxSz8kh) | 3:05 | 2024-01-26 | 2024-02-24 |

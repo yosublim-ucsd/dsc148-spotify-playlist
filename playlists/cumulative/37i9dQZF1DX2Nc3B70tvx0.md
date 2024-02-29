@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-2,043 songs - 5 day 2 hr 48 min
+2,044 songs - 5 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-14 | 2022-07-28 |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-06-03 | 2022-06-18 |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-02-04 | 2022-04-09 |
+| [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/track/6c4IBaa5opgDKC5mVQEauZ) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Loss Of Life](https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa) | 4:52 | 2024-02-28 |  |
 | [Dancing In The Courthouse](https://open.spotify.com/track/5fX8WljoAFrmFrFqahjz4Y) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:37 | 2023-07-13 | 2023-10-07 |
 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 | 2022-01-07 | 2022-06-22 |
 | [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 | 2023-10-18 | 2024-02-23 |
@@ -1100,7 +1101,7 @@
 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-03-03 | 2022-04-19 |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-08 | 2022-07-29 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-02-22 |  |
-| [Mahal \- Edit](https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 2:16 | 2024-02-27 |  |
+| [Mahal \- Edit](https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 2:16 | 2024-02-27 | 2024-02-29 |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-04 | 2022-04-27 |
 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 | 2023-11-17 | 2024-01-27 |
 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 | 2023-11-06 | 2023-12-09 |

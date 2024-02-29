@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,524 likes - 436 songs - 1 day 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,523 likes - 435 songs - 1 day 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,7 +288,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 278 | [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 |
 | 279 | [Time Machine](https://open.spotify.com/track/0wfa517BvgllE2ZDgReFDJ) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:34 |
 | 280 | [Higher Power \- Acoustic Version](https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power \(Acoustic Version\)](https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By) | 3:34 |
-| 281 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 |
+| 281 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 |
 | 282 | [Don't Go Knockin' on My Door](https://open.spotify.com/track/3HTkB9Nk04MJHkG0X6cL2R) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:43 |
 | 283 | [Du gamla du fria](https://open.spotify.com/track/4xtbfs4diau2gycTSMLMvs) | [ZLATAN](https://open.spotify.com/artist/6TzmAsjutcZoBvt0wLvqbK) | [Du gamla du fria](https://open.spotify.com/album/1oJLh1tXvbMnxSlmZ8YttX) | 2:28 |
 | 284 | [Crazy / U Drive Me Crazy \(Glee Cast Version\)](https://open.spotify.com/track/6a5BxJBeBmPnNgdxlwHFeO) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Britney 2.0](https://open.spotify.com/album/3dEFPWza2qaHqhyAPYU4Ah) | 2:22 |
@@ -441,8 +441,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 431 | [Come Together](https://open.spotify.com/track/5ISnrqK9VnQ4YrtIjgDkN0) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:20 |
 | 432 | [Change](https://open.spotify.com/track/3zAIrh7O9nGqCPQrtMYkko) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 4:25 |
 | 433 | [Gangs to the Max](https://open.spotify.com/track/4XwfifGBZ9tAVbfuyXgrtq) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 5:01 |
-| 434 | [Red Lights](https://open.spotify.com/track/0sCtwhWN9uRVi4W0D5omrq) | [POLITIC](https://open.spotify.com/artist/7i2Eo7WqxgL754cq4fC10q) | [Red Lights](https://open.spotify.com/album/3eUp4lvsO1Fkk7kPnbNcT0) | 3:04 |
-| 435 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
-| 436 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
+| 434 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
+| 435 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 
-Snapshot ID: `Mjg0ODQ3NjAsMDAwMDAwMDBlZjUxZWM1ZDBmNWVmYWI4YmYwZmFkMmVkNThkOTRlOQ==`
+Snapshot ID: `Mjg0ODYyMDAsMDAwMDAwMDA1Y2QzYTBhN2RjYjI5ZjE0NmUxY2E3MDM5MzcyOTEzYQ==`

@@ -8388,7 +8388,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 186666,
       "name": "Can You Hear Me?",
       "url": "https://open.spotify.com/track/7dCanbfsmjPRKVR4MRPqJV"
@@ -13098,6 +13098,24 @@
       "duration_ms": 288490,
       "name": "Different",
       "url": "https://open.spotify.com/track/55saUxNm1CTdeGg07ZS7lv"
+    },
+    {
+      "album": {
+        "name": "Different Pages",
+        "url": "https://open.spotify.com/album/3ls7TiazusnSRTBnj97OBl"
+      },
+      "artists": [
+        {
+          "name": "B.Miles",
+          "url": "https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "Different Pages",
+      "url": "https://open.spotify.com/track/3vKBL5aQdeQdKzFlWeQxpF"
     },
     {
       "album": {
@@ -23012,7 +23030,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 155500,
       "name": "How Good",
       "url": "https://open.spotify.com/track/14ZwKkQRnwowjLb7oBl8ud"
@@ -48305,6 +48323,24 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/5jNn96xrLtUxvIZxt35N7x"
+      },
+      "artists": [
+        {
+          "name": "Saxy Rachel",
+          "url": "https://open.spotify.com/artist/6H3IIPxU45NitARP1MWbyO"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177399,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1iVTaSoSKErrehhiVIxzji"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/2T3ZPvtJjFEANQUv7Bj7vv"
       },
@@ -50222,7 +50258,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 226000,
       "name": "The Will",
       "url": "https://open.spotify.com/track/4qpMWy1waFRbFDk1KUABg2"

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 44424,
+  "2024-02-29": 44458,
   "date_first_scraped": "2022-05-09",
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, nashley)",
   "name": "ragazzo triste",
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
@@ -1861,6 +1861,28 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "album": {
+        "name": "i was only temporary",
+        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98621,
+      "name": "i was only temporary",
+      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
     },
     {
       "album": {

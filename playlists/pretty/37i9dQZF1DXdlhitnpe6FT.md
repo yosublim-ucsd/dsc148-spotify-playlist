@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,089 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,227 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 35 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
 | 36 | [Route 101](https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb) | 3:22 |
 | 37 | [Before the Rain](https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before the Rain](https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI) | 8:15 |
-| 38 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
-| 39 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
-| 40 | [Lluvia de Primavera](https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 5:53 |
+| 38 | [Lluvia de Primavera](https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 5:53 |
+| 39 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
+| 40 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
 | 41 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
 | 42 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
 | 43 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Sail Along Silv'ry Moon](https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn) | 2:09 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 72 | [Never On Sunday](https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
 | 73 | [Concierto para una sola voz](https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR) | [Robson Miguel y grupo](https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY) | [Sueño azul](https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU) | 2:22 |
 | 74 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
-| 75 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
-| 76 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
-| 77 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
-| 78 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
+| 75 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
+| 76 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
+| 77 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
+| 78 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 79 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
 | 80 | [Call Me](https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 2:25 |
 | 81 | [Piano](https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 6:23 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Beer Barrel Polka](https://open.spotify.com/track/7afv0isT1k1KXFtawmE6t3) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [Presenting André Popp](https://open.spotify.com/album/0WhQteQEm7iV2DBiJXqoMJ) | 2:40 |
 | 115 | [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 |
 
-Snapshot ID: `MCxmYjc5MzNjZjU1MDg2ZDc4ZGJjNWUwMWY2NjQzY2U1MDIwZjI3MzQ2`
+Snapshot ID: `MCxhNmE0YjQyZjk5MTdjYzVlZTFlZmMzM2U3ZmU3ZTlmNDg3NzRjYWJl`

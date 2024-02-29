@@ -1,15 +1,15 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 10825,
+  "num_followers": 10827,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0ODM5MjIsMDAwMDAwMDA2NTZmMGRmZTQwNzMxNWIxMTBhOWQwZWM2MGIyMmJmMw==",
+  "snapshot_id": "Mjg0ODU0MjgsMDAwMDAwMDA3MTg1MTYzOWFlYmNiODc1YmY3NGNlMzJiYTBjZTQ0NQ==",
   "tracks": [
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
+      "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/4EkC9TEJZou4xtes4e6CwG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 248470,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/0t488LlnuTDRjklgkotom9"
+    },
+    {
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "When I Fall Asleep (with Jai Wolf)",
         "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
-      "album": {
-        "name": "Indian Summer",
-        "url": "https://open.spotify.com/album/4EkC9TEJZou4xtes4e6CwG"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 248470,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/0t488LlnuTDRjklgkotom9"
-    },
-    {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Moon Rider (feat. Wrabel)",
         "url": "https://open.spotify.com/album/4Ghd5HEQg3vxneCjqRBu8N"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3PP9CXeE0PYaM5GIGQqBIV"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/0zEKfIm5b8EUcDM3qoPXKX"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Want It All (feat. Evalyn)",
         "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "trilogy remixes",
         "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/1TFC1wutiIHQQ9buf8bxQI"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Tennis Skirt (feat. Ella Boh)",
         "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/41JcySyB2ps5j4bt5LPReq"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/4Dnss7a0Fobyvw2aWBnDzm"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/16CCJo59jCko0476mRMmQu"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Hikikomori",
         "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/2hODZD0nBB0NcJxleDPNFz"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Lost (feat. Chelsea Jade)",
         "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/16CCJo59jCko0476mRMmQu"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/0YDSEyBzPsuQzkuc9Bu8iR"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/6wHU6eEdsYfw8HS5Ybg9DJ"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Like It's Over (feat. MNDR)",
         "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Parachute Remixes",
         "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/16CCJo59jCko0476mRMmQu"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/4gw3U6M0xzvFAdIpFWrQjO"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2gmhlNXdqrbqmlpps8qTsc"
     },
     {
-      "added_at": "2024-02-27 12:02:33",
+      "added_at": "2024-02-28 13:08:47",
       "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"

@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 490707,
+  "num_followers": 490722,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGQ2Yjg5MjdmYjAzZmI4NDVhM2Q3YzQ4ZWQzYmY1Zjc5NTc3OGZi",
+  "snapshot_id": "MCxlODRhZjU4MjE3MWMwMmE3MzJiYjg3NTU5MDVjZWFkMmMwOTJlMjZj",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Belt",
-        "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
-      },
-      "artists": [
-        {
-          "name": "In The Valley Below",
-          "url": "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
-        }
-      ],
-      "duration_ms": 285613,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Officer of Love",
         "url": "https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 239805,
       "name": "Officer of Love",
       "url": "https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "The Belt",
+        "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
+      },
+      "artists": [
+        {
+          "name": "In The Valley Below",
+          "url": "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
+        }
+      ],
+      "duration_ms": 285613,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Wish I Knew",
@@ -743,6 +727,22 @@
       "duration_ms": 192607,
       "name": "Wish I Knew",
       "url": "https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Waste of Time",
@@ -967,6 +951,22 @@
       "duration_ms": 183139,
       "name": "Waste of Time",
       "url": "https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Mr. Rodriguez",
-      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Mr. Rodriguez",
+      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Absolute Loser",
-      "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 282045,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Absolute Loser",
+      "url": "https://open.spotify.com/track/45wGhAr9756RWGrSs35r56"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Slow Lightning",
-        "url": "https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Gamble for a Rose",
         "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/2zqSMjsmbqtm80YwQaPgmY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Slow Lightning",
+        "url": "https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
     },
     {
       "added_at": "2023-10-20 04:00:00",

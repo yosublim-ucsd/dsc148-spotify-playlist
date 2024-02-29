@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 
 > headphones on, forget the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,352 likes - 82 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,341 likes - 82 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 | 52 | [This Side of Paradise \- slowed](https://open.spotify.com/track/3BIBnyt40zWjPCNqRyGwPp) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [This Side of Paradise \(slowed\)](https://open.spotify.com/album/4tQzlk8VN9gRHG5rbiySgY) | 5:04 |
 | 53 | [I Feel Electric \(feat\. Moxie Raia\)](https://open.spotify.com/track/22JQQDuQcMMmDO1Wf9dcvL) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz), [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp) | [FutureNever](https://open.spotify.com/album/67sIb7EzQO5Fcip4DT9ZIZ) | 3:53 |
 | 54 | [please never fall in love again](https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf), [Ollie MN](https://open.spotify.com/artist/5sH4dr4r46Vm0Qu84PAYvk) | [please never fall in love again](https://open.spotify.com/album/4ITVAD8V9UWaLKDzMfP4Hd) | 2:37 |
-| 55 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 |
+| 55 | [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 |
 | 56 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
 | 57 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 |
 | 58 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D8j6p4CXZT.md) - [plain]
 | 81 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 |
 | 82 | [Pears](https://open.spotify.com/track/06nKF46jG8p1zwyP4ziAyG) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Pears](https://open.spotify.com/album/4XedVnZRFfk9n7uX601gvb) | 2:21 |
 
-Snapshot ID: `MCw4ZmU2ODM2MjUyODNiN2U2OTZiMGIwYTNkZDJmNmRiNmJiZDVjNDEz`
+Snapshot ID: `MCw2ZWM2M2ZkNGQ0YmU5YjljZGI3NGNhODIwYWM3MDZkYTUzMmUyZGY3`

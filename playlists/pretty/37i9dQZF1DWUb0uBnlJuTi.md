@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,825 likes - 200 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,953 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 26 | [Closer](https://open.spotify.com/track/53RnNvi572PmTJkQHP8lnq) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Veronica Swift](https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8) | 4:55 |
 | 27 | [Have A Talk With God](https://open.spotify.com/track/5zH2yuY4i55cD4fc1COjdt) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Heart And Soul](https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7) | 5:41 |
 | 28 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 |
-| 29 | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Bluey Remix\]](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 |
+| 29 | [Lazy Days \(feat\. Emma\-Jean Thackray\)](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 |
 | 30 | [The Grid Generation](https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [The Grid Generation](https://open.spotify.com/album/1nqz0Wb3iGIB3zJ9OO3Ewx) | 4:45 |
 | 31 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 |
 | 32 | [Serpentine](https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Serpentine](https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ) | 3:48 |
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 187 | [Can Do](https://open.spotify.com/track/2jnsYSi6TfXvYXw8YNqrW9) | [Dundundun](https://open.spotify.com/artist/0JKgKpJ7HLggYkQdh1jUVt) | [Future Hope](https://open.spotify.com/album/5il93kPFxxtExqoza6QQvh) | 6:25 |
 | 188 | [Pillars](https://open.spotify.com/track/5Xhgdxq9KzGTO3UlSQgBau) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Pillars](https://open.spotify.com/album/7z03SzVnBCOlfakljKBJmm) | 3:19 |
 | 189 | [Disconnections](https://open.spotify.com/track/2yi9iYn6gL9Rtg5DpTiYJX) | [Final Step](https://open.spotify.com/artist/278pNEL794WGvrxqTBfJDS) | [Disconnections](https://open.spotify.com/album/5I8Mdt715i0tGH2I2Gcw6l) | 5:34 |
-| 190 | [Desert Rain](https://open.spotify.com/track/3KfBhRPQ7AaxQYh6r1CAXw) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/7KGmy3wpG6ofn4ZC79Ih7W) | 3:47 |
+| 190 | [Desert Rain](https://open.spotify.com/track/4cmiQDye2NTMt7zIy8k7nk) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Doug Carn JID005](https://open.spotify.com/album/5LW2zEW6PweKPe6WCktWLO) | 3:47 |
 | 191 | [One More Time](https://open.spotify.com/track/583rdLwcnk8Cui3Qj67Zc8) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:10 |
 | 192 | [Humpty Dumpty \- 2006 Remastered Version](https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl) | [Marc Moulin](https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8) | [Placebo Years 1971 \- 1974](https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd) | 2:32 |
 | 193 | [Funkia](https://open.spotify.com/track/1SqskptrodTat0yps72Xjg) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Mickey Roker](https://open.spotify.com/artist/6zMUrKoPJzeSPf9ueaOS0j), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI), [Michael Longo](https://open.spotify.com/artist/6bhfRQonMvDp85imcp4dI1) | [Funkia](https://open.spotify.com/album/4iiHoiAAUfNsiijVp8zpHk) | 5:47 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCw3NzlhNzQxMjkyODUwYzJmMDFmZmRkNzMzYzlhNDA5MjdkY2Q4ZmM0`
+Snapshot ID: `MCwwNDMzODNmY2VkYmU3NWRlZjAwOTNmZjBkOTMwMWFiM2U1N2U5ZmMx`

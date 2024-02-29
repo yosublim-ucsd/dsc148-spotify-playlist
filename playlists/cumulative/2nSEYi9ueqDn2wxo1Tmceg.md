@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-787 songs - 2 day 5 hr 53 min
+788 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Entombed In Ice](https://open.spotify.com/track/75tyRe2oY9NRJc7yr1SZwl) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 3:12 | 2023-05-03 | 2023-06-22 |
 | [Estrangement Zone](https://open.spotify.com/track/6z0rIv811kzEidxgGpRvtm) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [Nothing Special](https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM) | 5:35 | 2022-12-07 | 2023-01-26 |
 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 | 2022-10-06 | 2022-11-10 |
+| [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 | 2024-02-28 |  |
 | [Evening Star Supercharger](https://open.spotify.com/track/5hoYYJeNbcXHU7olx4GY8s) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Evening Star Supercharger](https://open.spotify.com/album/6181JseEP3RrM53y0UASM8) | 3:46 | 2023-06-14 | 2023-07-20 |
 | [Every Day Is The Worst Day Of My Life](https://open.spotify.com/track/6Si160S7Zy1SpSTu44uVUf) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Everything Harmony](https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk) | 3:25 | 2023-05-10 | 2023-06-29 |
 | [Everybody's Saying That](https://open.spotify.com/track/55jFlmJxprZ7qLyBR9pfKi) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Everybody's Saying That](https://open.spotify.com/album/4fkcDJPnqXCeObOuj95AKL) | 3:14 | 2023-02-08 | 2023-03-09 |

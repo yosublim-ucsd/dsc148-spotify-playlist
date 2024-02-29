@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camil\u00fa & Karina",
-  "num_followers": 180977,
+  "num_followers": 180999,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTljMmNmOTZlYjFlZGNjZjUxNWYzZWMyZjczMjVkM2Q2Y2JhYmY2",
+  "snapshot_id": "MCw4OTg5ZjFiYjUzZGM5OGU4MDUzM2I1M2U0ZjRlMjRlZGZlNWMzNmNj",
   "tracks": [
     {
       "added_at": "2024-02-23 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -815,6 +815,26 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -903,26 +923,6 @@
       "duration_ms": 266824,
       "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Fanky - Live",
+      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Fanky - Live",
-      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "Madre Tierra",
+        "url": "https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG"
+      },
+      "artists": [
+        {
+          "name": "Joaco Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z"
+        }
+      ],
+      "duration_ms": 203805,
+      "name": "Bajo el Sol",
+      "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Un Osito de Peluche de Taiwan (Cover)",
         "url": "https://open.spotify.com/album/4CYd1OyvHro22MEuh0PhMm"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 243391,
       "name": "Un Osito de Peluche de Taiwan",
       "url": "https://open.spotify.com/track/1U4LPaM9gk3YQ2nN3gtMzf"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "Madre Tierra",
-        "url": "https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG"
-      },
-      "artists": [
-        {
-          "name": "Joaco Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z"
-        }
-      ],
-      "duration_ms": 203805,
-      "name": "Bajo el Sol",
-      "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
     },
     {
       "added_at": "2024-02-23 03:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-02-23 03:00:00",
       "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2024-02-23 03:00:00",
+      "album": {
         "name": "Welcome To C\u00f3rdoba City",
         "url": "https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 213012,
       "name": "Beso a Beso",
       "url": "https://open.spotify.com/track/70l4rAWoSEdtir2jTs88Cd"
-    },
-    {
-      "added_at": "2024-02-23 03:00:00",
-      "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2024-02-23 03:00:00",

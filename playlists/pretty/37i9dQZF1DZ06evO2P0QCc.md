@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,388 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,411 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 50 | [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 |
 | 51 | [Páginas en Blanco](https://open.spotify.com/track/0Te6eXGhdb1dv1qDMTnJm7) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:16 |
 
-Snapshot ID: `Mjg0ODM5MjMsMDAwMDAwMDAyOWY5NTYzYjg2NzA0YzcxNWMwYTc5MTdhYzZkYWU1OA==`
+Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDAyMjY4NTI0NWYyMjQyMmZmMGNhODMyZmZhZDdkZjY0NQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Suara Kayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,787 likes - 91 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,821 likes - 91 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 90 | [Lebih Dari Teman](https://open.spotify.com/track/3SUux6YLOZiIP3qJgbkPZU) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Lebih Dari Teman](https://open.spotify.com/album/3eZPI989kkozcOz7vyowwI) | 4:07 |
 | 91 | [Serious](https://open.spotify.com/track/37FxRSxWYJCmuBiF8tOlz4) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Serious](https://open.spotify.com/album/70TgrftyNNx9ksNZp2tGcO) | 3:20 |
 
-Snapshot ID: `MCxkMGEzNDZiMjY2OTBmZjE3MzU0MjFjYjA5NzhmMDFlYzkyOTc2YWFi`
+Snapshot ID: `MCw2MjE0OWNlNDA0NGU3NTM0ZThhNzQyNGVjMDgyMWE4OTJlZmM3Yzhl`

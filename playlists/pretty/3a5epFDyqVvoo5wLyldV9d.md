@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 758 songs - 2 day 10 hr 56 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 760 songs - 2 day 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -766,5 +766,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 756 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 |
 | 757 | [Queztal](https://open.spotify.com/track/3BLtz1XMadNpiil28XLUyU) | [Los Hermanos](https://open.spotify.com/artist/5gmYIZpH1l8t94NoRZRB5x) | [On Another Level](https://open.spotify.com/album/3AftCQAH0WzS0sEcni5ToS) | 6:13 |
 | 758 | [Odo nwom](https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:57 |
+| 759 | [Dana Dana](https://open.spotify.com/track/0rCfO44prjouVhHbMfyhoa) | [Rima](https://open.spotify.com/artist/5PyFoT2FygLU3SSfRmqpSC), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Ahwa Hawak](https://open.spotify.com/album/6xMKQkClckSxaI6a5ysflj) | 4:09 |
+| 760 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 |
 
-Snapshot ID: `ODUwLGJmZDJkZGEzMDhjZTUzNGE3MDI0YjQ3OGE2OTQ3YzhjZTgyNTNmNjY=`
+Snapshot ID: `ODUyLDdlYzhhMmU3YzM5Y2E2ODY1YmE1MzQ2MmNkZjQ5Y2M0MWI3ZmE2YzI=`

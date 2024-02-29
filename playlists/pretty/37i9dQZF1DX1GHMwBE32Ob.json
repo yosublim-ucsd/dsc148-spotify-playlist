@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Adekunle Gold ",
-  "num_followers": 46158,
+  "num_followers": 46255,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGE3YmQ3YjU5ODZiNzI4Y2I0MDg4Yzg2MzI2ODFhYWZlYmIyZTIx",
+  "snapshot_id": "MCw1YWI1MjU0ZmUzYTU1NmI3NGZkZjVmY2JhNDg2ZTQyMmM1NWUwMTE3",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Walking Dead",
         "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 150863,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -947,22 +931,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Ara (Gen Gen Tin)",
-        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ara (Gen Gen Tin)",
-      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Things on Things",
         "url": "https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 196179,
       "name": "Things on Things",
       "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Ara (Gen Gen Tin)",
+        "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ara (Gen Gen Tin)",
+      "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Cash App",
+        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "Cash App",
+      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Feeling Funny",
         "url": "https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j"
       },
@@ -1091,26 +1115,6 @@
       "duration_ms": 151578,
       "name": "Egopiano",
       "url": "https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Shina Peters",
-        "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Shina Peters",
-      "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
     }
   ],
   "unique_name": "Street Energy ",

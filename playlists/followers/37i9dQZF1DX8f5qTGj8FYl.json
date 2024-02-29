@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 360674,
+  "2024-02-29": 360741,
   "date_first_scraped": "2021-12-21",
   "description": "When the funk is just too funky for words to keep up.",
   "name": "Instrumental Funk",
@@ -2669,6 +2669,24 @@
     {
       "album": {
         "name": "Mirage",
+        "url": "https://open.spotify.com/album/2IoG9R4tMHazagfGb695K2"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1AOy9cNv4cEIvVwjEQmEtG"
+    },
+    {
+      "album": {
+        "name": "Mirage",
         "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
       },
       "artists": [
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 287645,
       "name": "Kong",
       "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"

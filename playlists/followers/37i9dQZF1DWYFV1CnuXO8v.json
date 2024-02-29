@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 121290,
+  "2024-02-29": 121434,
   "date_first_scraped": "2023-02-14",
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
   "name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
@@ -2377,7 +2377,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 250032,
       "name": "Kol Haga Bena",
       "url": "https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF"
@@ -4665,7 +4665,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 277798,
       "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa"
@@ -4759,6 +4759,24 @@
       "duration_ms": 214520,
       "name": "\u0643\u0639\u0628\u0643 \u0639\u0644\u064a",
       "url": "https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644 \u0648\u0639\u062f",
+        "url": "https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H"
+      },
+      "artists": [
+        {
+          "name": "Wael Jassar",
+          "url": "https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208846,
+      "name": "\u0643\u0644 \u0648\u0639\u062f",
+      "url": "https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW"
     },
     {
       "album": {
@@ -4939,6 +4957,28 @@
       "duration_ms": 193854,
       "name": "\u0645\u0633\u064a\u0644\u0649 \u0639\u0644\u0649 \u0639\u064a\u0648\u0646\u0643",
       "url": "https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0639\u0644\u0634",
+        "url": "https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        },
+        {
+          "name": "Zap Tharwat",
+          "url": "https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237871,
+      "name": "\u0645\u0639\u0644\u0634",
+      "url": "https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Chayuta
 
-762 songs - 1 day 13 hr 11 min
+763 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Hypnotized](https://open.spotify.com/track/33a48upmr4xnlU6FPPSPPs) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u) | [Feel Everything](https://open.spotify.com/album/2u68w7gKwmk7doL3JIhLif) | 2:26 | 2022-09-16 | 2023-04-21 |
 | [I Am](https://open.spotify.com/track/5fD8CfCtqcnDz0hkalNAO0) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV) | [I Am](https://open.spotify.com/album/0UQ302rzdW5ILCA59SaKL2) | 4:20 | 2023-11-17 | 2023-11-24 |
 | [I Am Water](https://open.spotify.com/track/3P0sc2aS6WK6mEdkef7O7D) | [Athina's Moon](https://open.spotify.com/artist/4801CZf8StFmvZahNckwhO) | [MOON WATER](https://open.spotify.com/album/6V2GrecRdnOH26nUOTBnhI) | 4:02 | 2022-11-18 | 2023-01-14 |
+| [I Believe](https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [I Believe](https://open.spotify.com/album/0W3ybbuYT1ylY1cShliEJp) | 2:45 | 2024-02-23 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-03-30 | 2023-10-05 |
 | [I Don't Want Your Love](https://open.spotify.com/track/6Q9EnACrkMAYe8vY8dg9HL) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [I Don't Want Your Love](https://open.spotify.com/album/1VPQ1shDNq1OfSPfjLlLlP) | 2:57 | 2022-09-16 | 2023-02-04 |
 | [I Know](https://open.spotify.com/track/64y3aFuRKV9leFkMAWDUJL) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs) | [I Know](https://open.spotify.com/album/3OoyFQ2XCcLvEfzonOBGL5) | 2:10 | 2022-11-25 | 2023-03-18 |

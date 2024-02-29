@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 7463313,
+  "2024-02-29": 7464325,
   "date_first_scraped": "2019-05-26",
   "description": "Peaceful piano to help you slow down, breathe, and relax. ",
   "name": "Peaceful Piano",
@@ -6248,6 +6248,24 @@
     },
     {
       "album": {
+        "name": "Desire paths",
+        "url": "https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV"
+      },
+      "artists": [
+        {
+          "name": "Finn Lenoir",
+          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163088,
+      "name": "Desire paths",
+      "url": "https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D"
+    },
+    {
+      "album": {
         "name": "Diaphanous",
         "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
       },
@@ -11543,6 +11561,24 @@
       "duration_ms": 155000,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/3EOylKjaenyKmwO4R9IDBz"
+    },
+    {
+      "album": {
+        "name": "Inmaterial color",
+        "url": "https://open.spotify.com/album/5DbXD2SAeJO9CvLQon50dU"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165215,
+      "name": "Inmaterial color",
+      "url": "https://open.spotify.com/track/5GZC3EzAtuVtmELebaB5DC"
     },
     {
       "album": {
@@ -28073,6 +28109,24 @@
       "duration_ms": 142024,
       "name": "Valse",
       "url": "https://open.spotify.com/track/6Byh2m5om63yZL35VrP0CF"
+    },
+    {
+      "album": {
+        "name": "Valse Delle Vigne",
+        "url": "https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Valse Delle Vigne",
+      "url": "https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj"
     },
     {
       "album": {

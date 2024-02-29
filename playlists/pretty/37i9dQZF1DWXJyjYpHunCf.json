@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Myles Smith",
-  "num_followers": 893840,
+  "num_followers": 894001,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTcyNzFlN2RmNDY3MWI2ZjY5OGJlMWZhNjUyYmFjNjkxOTViZjZi",
+  "snapshot_id": "MCwwNjc3NGVlNjVmOGY1ODZjNzQyYmFkNGU5NDFkZTYyOTM3OWViMTky",
   "tracks": [
     {
       "added_at": "2024-02-23 17:00:34",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -711,22 +711,18 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -747,18 +743,22 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
         "name": "Turn out fine",
         "url": "https://open.spotify.com/album/4LPDuEPmWtMfOj8argxDrI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 147607,
       "name": "Turn out fine",
       "url": "https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
         "name": "as good a reason",
         "url": "https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 169721,
       "name": "as good a reason",
       "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
         "name": "Finch",
         "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+        "name": "trees talk",
+        "url": "https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO"
       },
       "artists": [
         {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
         }
       ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+      "duration_ms": 184000,
+      "name": "trees talk",
+      "url": "https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -1315,6 +1331,22 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1335,18 +1367,18 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
+        "name": "jesus song (county line)",
+        "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
       },
       "artists": [
         {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
+      "duration_ms": 188576,
+      "name": "jesus song (county line)",
+      "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -1363,22 +1395,6 @@
       "duration_ms": 222739,
       "name": "drywall",
       "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
-        "name": "jesus song (county line)",
-        "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 188576,
-      "name": "jesus song (county line)",
-      "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -1411,22 +1427,6 @@
       "duration_ms": 215516,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
-        "name": "trees talk",
-        "url": "https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO"
-      },
-      "artists": [
-        {
-          "name": "gavn!",
-          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "trees talk",
-      "url": "https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 249825,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 249825,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": "2024-02-23 17:00:34",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-02-23 17:00:34",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2024-02-23 17:00:34",
-      "album": {
         "name": "Mom & Dad",
         "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 203683,
       "name": "Mom & Dad",
       "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
+    },
+    {
+      "added_at": "2024-02-23 17:00:34",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     }
   ],
   "unique_name": "Folk Pop",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,781 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,589 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 |
-| 2 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 |
+| 2 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 |
 | 3 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 |
 | 4 | [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 |
 | 5 | [Old Doll](https://open.spotify.com/track/1ROVIglc9HtF4v9q0AowOx) | [Bluerra\-sai](https://open.spotify.com/artist/3WciAVM3DxjIWwV3aSugVa) | [Old Doll](https://open.spotify.com/album/1GOpCUwzS3PRwWUHE8pPso) | 1:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [Best of Luck](https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Velocity \(Music from the Film\)](https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR) | 1:51 |
 | 80 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 
-Snapshot ID: `MCxjMzJjZjBhZGNhYmQ4NDNkMjk5NTcyMTNjYTU0OTVkOGQ1N2NlYzQw`
+Snapshot ID: `MCwzODkwYzgzY2Q0NWJlZDk5NzIzMjM3ZjZhY2NiNmUwOGQ3ODk3NTk0`

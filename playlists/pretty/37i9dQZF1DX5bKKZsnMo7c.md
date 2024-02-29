@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Jagwar Twin
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,727 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,040 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 4 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
 | 5 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 |
 | 6 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
-| 7 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
-| 8 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 |
-| 9 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 |
-| 10 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
-| 11 | [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 |
-| 12 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 |
-| 13 | [Oh No!](https://open.spotify.com/track/4sNwdacKyi2S26WrRtNama) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:02 |
-| 14 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
+| 7 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 |
+| 8 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
+| 9 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
+| 10 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 |
+| 11 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
+| 12 | [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 |
+| 13 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 |
+| 14 | [Oh No!](https://open.spotify.com/track/4sNwdacKyi2S26WrRtNama) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:02 |
 | 15 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 |
 | 16 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 17 | [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 64 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 |
 | 65 | [I / Me / Myself](https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 4:51 |
 
-Snapshot ID: `MCxkOTVjYTExMzZkNzhhNjA0MDMwODI3NjcyZGFkZTIzODYyNTI5ZjQ4`
+Snapshot ID: `MCw5ZmRjYjA2YmFkZWU5YzY2MzVkNjgyMWNlYzAwYTZmNzZmZTQyNDkz`

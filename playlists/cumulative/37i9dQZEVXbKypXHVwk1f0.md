@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,070 songs - 2 day 12 hr 11 min
+1,071 songs - 2 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-12-29 |
 | [Barco de Papel](https://open.spotify.com/track/4Xv8GKn2YSnIWYFyBJji3S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Barco de Papel](https://open.spotify.com/album/1teao9NhhnP8BsAJQKBy7l) | 2:54 | 2023-11-11 | 2023-12-01 |
 | [BATICANO](https://open.spotify.com/track/5qzLdvRViHUrRNdkpakG7C) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:16 | 2023-10-14 | 2023-10-24 |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-28 |  |
 | [BeBe](https://open.spotify.com/track/5ErzIyy0LikutXh8F7NUuH) | [Ferrillo](https://open.spotify.com/artist/4J1FnGr5MFc9SDRvylqomw) | [BeBe](https://open.spotify.com/album/22qIEYZXXobZ0KhiRypfbm) | 2:18 | 2023-09-07 | 2023-09-20 |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-04-19 | 2023-04-21 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-23 | 2021-10-07 |
@@ -318,7 +319,7 @@
 | [Explícito](https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:15 | 2021-03-27\* | 2021-07-04 |
 | [EXÓTICA](https://open.spotify.com/track/6EURkzSJVUaHiroDWZ99Gn) | [Reijy](https://open.spotify.com/artist/6794EDtkcLQ065dXVaOIIC), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw) | [EXÓTICA](https://open.spotify.com/album/3sKbXioVYyFLIOxT0cuYZD) | 2:50 | 2024-01-05 | 2024-01-07 |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-12 |
-| [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2024-02-24 |  |
+| [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2024-02-24 | 2024-02-29 |
 | [Falling Back](https://open.spotify.com/track/5zyZM1EiSqrniyqtprwxpv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:26 | 2022-06-18 | 2022-06-20 |
 | [Fallé](https://open.spotify.com/track/17QNUQmXh2ellzag2ECjN5) | [El Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Kaih](https://open.spotify.com/artist/3sGeO2VChykSevMMCoArDV), [Focking Rafita](https://open.spotify.com/artist/31ZeHgT3blkmKIIz8b2ZNM) | [Reset](https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf) | 4:04 | 2021-12-11 | 2021-12-12 |
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2021-03-27\* | 2021-07-04 |

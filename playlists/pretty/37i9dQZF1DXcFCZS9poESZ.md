@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,877 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,911 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 30 | [正調 おそ松節](https://open.spotify.com/track/6iq0zO56ijjOVpbcP44e3v) | [Takashi Hosokawa](https://open.spotify.com/artist/0Ap43v8UntUyEB5kLb7vac) | [芸道40年記念 細川たかし全集 心のこり〜艶歌船](https://open.spotify.com/album/4Y5hOPaaQBHbXJQsKyebom) | 3:42 |
 | 31 | [孤独の唄](https://open.spotify.com/track/3n1gQLCZ6TkshUJ1h1ez87) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [孤独の唄/ココロの唄](https://open.spotify.com/album/5jOlf9LpsChScfCs5pnxXA) | 3:45 |
 | 32 | [Step](https://open.spotify.com/track/68iZdH6Vo4z8B5nYQMPJrt) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Mashin Hero Wataru Music Collection](https://open.spotify.com/album/4fOUhLvHujVNMBmtLyMArX) | 4:17 |
-| 33 | [TRANSFORMAR ～トランスフォーマー～](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 |
+| 33 | [TRANSFORMER](https://open.spotify.com/track/0ynybWFbrkKDVevzmhaxTp) | [Satoko Shimonari](https://open.spotify.com/artist/69CRduhdZhgBVOhNOxzD5u) | [Nippon Television Anime Song Collection](https://open.spotify.com/album/6q92YsujqyNkZcG8YiD2dE) | 3:40 |
 | 34 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
 | 35 | [ニルスのふしぎな旅](https://open.spotify.com/track/1ox2VEg2wjLnc8l7Q6xGAf) | [Katsumi Kahashi](https://open.spotify.com/artist/6ESuChUdfvDtfNIhzQLmIP), [SSAAB](https://open.spotify.com/artist/2kL8Yf9VfmypuWZErTtZcL) | [ニルスのふしぎな旅 楽しいうたと音楽集](https://open.spotify.com/album/0c1fU2A9fyTVrxYwZJz8SP) | 3:17 |
 | 36 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 |
 
-Snapshot ID: `MCxmMzcxOWRmYTk3NjZhNzdiNjMzMTBlZjMyNzRiM2IzYWQxMGFhNmQz`
+Snapshot ID: `MCxiZDk3ZWI2MmQzZTY4MTM0ODRiMDNiMDEyZWE1ZDdkZmRlNDQyODI5`

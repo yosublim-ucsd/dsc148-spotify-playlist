@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: SZA
 
-5,041 songs - 11 day 0 hr 37 min
+5,042 songs - 11 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4324,7 +4324,8 @@
 | [This Is For The Ones](https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [This Is For The Ones](https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg) | 3:17 | 2023-04-20 | 2023-04-28 |
 | [This Is Madness](https://open.spotify.com/track/0UCJWiRdhnt1NlaTxWzj8U) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [This Is Madness](https://open.spotify.com/album/6q7NKVZQlZR2TVQ2ivjGfC) | 3:13 | 2024-01-18 | 2024-01-26 |
 | [This Is My Life](https://open.spotify.com/track/4jwIe7Y0OQNhmnOjKnU5dY) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [This Is My Life](https://open.spotify.com/album/5w5wu7fSeq7wCc7KcVQF4A) | 2:51 | 2023-04-27 | 2023-05-05 |
-| [This is the Day](https://open.spotify.com/track/6IgUZEGBvNXGXJEiTZyHfX) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [This is the Day](https://open.spotify.com/album/1r4AlpInKSHs6QsT1OG35N) | 3:14 | 2024-02-22 |  |
+| [This is the Day](https://open.spotify.com/track/6IgUZEGBvNXGXJEiTZyHfX) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [This is the Day](https://open.spotify.com/album/1r4AlpInKSHs6QsT1OG35N) | 3:14 | 2024-02-22 | 2024-02-29 |
+| [This is the Day](https://open.spotify.com/track/7gppRczEvp3bht0q6HuN38) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [This is the Day](https://open.spotify.com/album/1LXpXVOu5aWnlxoqCuVgRj) | 3:14 | 2024-02-22 |  |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-14 | 2023-09-22 |
 | [this is what losing someone feels like](https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what losing someone feels like](https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF) | 2:52 | 2023-03-17 | 2023-03-25 |
 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 | 2024-01-11 | 2024-01-19 |

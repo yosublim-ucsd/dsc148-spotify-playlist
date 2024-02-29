@@ -4,7 +4,7 @@
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-107 songs - 6 hr 14 min
+108 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 | 2022-06-16 |  |
 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 | 2022-06-16 |  |
 | [Finamente](https://open.spotify.com/track/4MvjzRyAgNHnoAhzJjsTdS) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Finamente](https://open.spotify.com/album/2VvzRKjM9avKipVbJXkfBm) | 2:43 | 2022-06-16 | 2022-07-28 |
-| [Fragilidad](https://open.spotify.com/track/6TxkKDCgfT0kHlBotILa38) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Diego Pozo \(El Ratón\)](https://open.spotify.com/artist/2Ji6kbZlZjHkgTEnUNekTB) | [Fragility](https://open.spotify.com/album/71qzXodHTFFE9lsGkicYMk) | 3:45 | 2022-06-16 |  |
+| [Fragilidad](https://open.spotify.com/track/0qO3wF3gsCifcKMyLOvmsj) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Diego Pozo \(El Ratón\)](https://open.spotify.com/artist/2Ji6kbZlZjHkgTEnUNekTB) | [The Andalusian Guitar](https://open.spotify.com/album/0cGGHz56jMAfOHMeDtlCaO) | 3:45 | 2024-01-16 |  |
+| [Fragilidad](https://open.spotify.com/track/6TxkKDCgfT0kHlBotILa38) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Diego Pozo \(El Ratón\)](https://open.spotify.com/artist/2Ji6kbZlZjHkgTEnUNekTB) | [Fragility](https://open.spotify.com/album/71qzXodHTFFE9lsGkicYMk) | 3:45 | 2022-06-16 | 2024-02-29 |
 | [From Green to Red](https://open.spotify.com/track/179Tb7NQo7RwDEKMbl3JzD) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [From Green to Red](https://open.spotify.com/album/7BWUbPO42m6UEir7C5yY7R) | 2:52 | 2022-07-21 | 2022-09-23 |
 | [Girl](https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX) | [Notis Mavroudis](https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK) | [The Beatles for Classical Guitar](https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD) | 2:45 | 2022-06-16 |  |
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2022-06-16 |  |

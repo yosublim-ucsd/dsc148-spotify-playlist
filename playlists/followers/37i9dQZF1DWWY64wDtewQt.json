@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 7625013,
+  "2024-02-29": 7630866,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -887,10 +887,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 76281,
       "name": "AREAMATE MIZ",
       "url": "https://open.spotify.com/track/2xIwyvnngUMIicY5S878bw"
+    },
+    {
+      "album": {
+        "name": "AREAMATE MIZ",
+        "url": "https://open.spotify.com/album/0VnjSeajDjzh2mRdWePGhN"
+      },
+      "artists": [
+        {
+          "name": "Anar",
+          "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76375,
+      "name": "AREAMATE MIZ",
+      "url": "https://open.spotify.com/track/6cDMNTlXoInwCg5Jo0Nd4F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from 21 Savage, Ye and Yeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,704,511 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,710,871 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
 | 50 | [Something Ether](https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 2:11 |
 
-Snapshot ID: `MCwyODczYWUyM2YyMGJhZGE0NWIzZWExOGU1ZmNlNjkwOWVhNmE4Mzcx`
+Snapshot ID: `MCxmNzcwZDViMmNhMjJhMzVmNzhmNDM2NTM2MDA4MzQ3ZmM4MmU0YjJi`

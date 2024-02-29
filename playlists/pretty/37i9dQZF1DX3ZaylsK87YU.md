@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,086 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,098 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 97 | [Rain](https://open.spotify.com/track/3nuCQCHTJfoJP6Ws2FczPS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 3:37 |
 | 98 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
 | 99 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
-| 100 | [Holy, Holy, Holy](https://open.spotify.com/track/4NTab2bmkCKaCB4F2qvDdg) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:50 |
+| 100 | [Abide With Me \[Mp Jones\]](https://open.spotify.com/track/3WIM3qKRu2OGenEq5OSke2) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [Wake Thy Slumbering Children: Indelible Grace V](https://open.spotify.com/album/1RMhj9PiOYUnhV4tmfJX99) | 4:04 |
 
-Snapshot ID: `MCwyOTMzMDNlMTUwOTUwOTg3YmViYzBmNDQ2MmFiNTU0MzAwYWFiODAw`
+Snapshot ID: `MCwyNzM4OTk0NGE4Y2Q0ODBkN2VmMmRmY2RmODVhOTI4OWQ3NTEzZTU1`

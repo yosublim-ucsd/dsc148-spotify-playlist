@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 463 likes - 217 songs - 8 hr 42 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 464 likes - 217 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Last Impressionist](https://open.spotify.com/track/7hxmsFWyyuI52tbJCNxruU) | [Mariposa](https://open.spotify.com/artist/2F7TJTonDywvUL3brkPO7g) | [The Last Impressionist](https://open.spotify.com/album/4qyThJug35v8OcYjHLO74U) | 2:06 |
-| 2 | [Escape](https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ) | 4:40 |
+| 2 | [Escape](https://open.spotify.com/track/7mrit86RvgFQtvERjWe04l) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/0L8QyZrZdViZB5etE3GD2D) | 4:40 |
 | 3 | [golden sunset](https://open.spotify.com/track/2K0xrK3IDOVAiQEoFcn7z6) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [golden sunset](https://open.spotify.com/album/21kqeomupEL6PUU7KW1mKv) | 2:48 |
 | 4 | [Idea 7](https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 2:30 |
 | 5 | [Her Blue Eyes](https://open.spotify.com/track/4K8DM0umPafXsYOnQTYWAw) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Her Blue Eyes](https://open.spotify.com/album/5Nx6GD4bBYEhtkqvsEDdRd) | 2:06 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 216 | [Pure Sky \(Piano\)](https://open.spotify.com/track/2POwmNePWWgbeyEFAp38pt) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:17 |
 | 217 | [ornaments](https://open.spotify.com/track/3yd42pzQLdP8iODgDdmd68) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [ornaments](https://open.spotify.com/album/2oGlaQrJBnHqTyEsjKkLzm) | 2:05 |
 
-Snapshot ID: `NDg0LDE1NmMwNzgyNWU4MDFkOWU1ZDgxYjRmYzhiMjczYWU5OTEyNmIxZjU=`
+Snapshot ID: `NDkwLDY2ZWE1MDlkODZjMWZjZDRjMWJjMzIzYjZlYTFkNzZmNGE4ZTJlNWE=`

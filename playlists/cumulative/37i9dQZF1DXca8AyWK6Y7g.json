@@ -6377,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Coming Of Age",
+      "url": "https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p"
+    },
+    {
+      "album": {
         "name": "Comingback",
         "url": "https://open.spotify.com/album/0EszwSv58sj1RPucFPI9Xa"
       },
@@ -23105,6 +23123,24 @@
     },
     {
       "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/1HVxIc8XOtdFhuIQZdTPx9"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
+    },
+    {
+      "album": {
         "name": "Not The 1975 (Acoustic)",
         "url": "https://open.spotify.com/album/56a8vWZVQQeEmh1G1SBM10"
       },
@@ -23152,7 +23188,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
@@ -32866,7 +32902,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 225266,
       "name": "There It Goes",
       "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"

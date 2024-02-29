@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 146806,
+  "2024-02-29": 146985,
   "date_first_scraped": "2022-07-19",
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
   "name": "Timeless Afro ",
@@ -767,7 +767,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 225933,
       "name": "Bumper To Bumper",
       "url": "https://open.spotify.com/track/0J3cH1cBxloV2cwQzvgnNS"
@@ -858,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
         "name": "Chingam (feat. Bisa Kdei)",
         "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
       },
@@ -873,7 +891,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
@@ -3775,7 +3793,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 198058,
       "name": "The Matter (feat. Wizkid)",
       "url": "https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k"

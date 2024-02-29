@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Jasmine Myra",
-  "num_followers": 307137,
+  "num_followers": 307188,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmJjOGViYmUzNDQ4Mzk3Y2IxZmU5M2Y5YjAzN2MwMWFjYzg0MzU1",
+  "snapshot_id": "MCw4ZDRlYWM4ZTE5YzkwN2Y0YjhjMTMwMDJjMzdlYTc3NGFhMTlhMWQ4",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 194440,
       "name": "No Confusion (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/1DkHcsvPvbfmEtKwDvmYmY"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -457,6 +457,26 @@
       "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
     },
     {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Outlines",
+        "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Time To Lose",
+      "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
       "added_at": "2024-02-02 13:50:02",
       "album": {
         "name": "Be Myself",
@@ -479,26 +499,6 @@
       "duration_ms": 227835,
       "name": "Be Myself",
       "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Outlines",
-        "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Time To Lose",
-      "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -697,36 +697,20 @@
       "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
     },
     {
-      "added_at": "2023-12-22 00:00:01",
+      "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Gift from the Trees",
-        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
+        "name": "Whatever You Want",
+        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
       },
       "artists": [
         {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 312438,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+      "duration_ms": 220552,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
     },
     {
       "added_at": "2024-02-16 00:00:00",
@@ -763,6 +747,38 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Gift from the Trees",
+        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Whatever You Want",
-        "url": "https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -859,38 +859,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
-      },
-      "artists": [
-        {
-          "name": "muva of Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        }
-      ],
-      "duration_ms": 176611,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -911,6 +879,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        }
+      ],
+      "duration_ms": 176611,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Next Spring",
         "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
       },
@@ -923,6 +907,38 @@
       "duration_ms": 224322,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -943,22 +959,6 @@
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1035,6 +1035,58 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Empty Flower",
+        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "duration_ms": 233122,
+      "name": "Empty Flower",
+      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
+    },
+    {
+      "added_at": "2024-02-02 13:50:02",
+      "album": {
+        "name": "Soar",
+        "url": "https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Uniri",
+          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        }
+      ],
+      "duration_ms": 154038,
+      "name": "Soar",
+      "url": "https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
@@ -1079,58 +1131,6 @@
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
-    },
-    {
-      "added_at": "2024-02-02 13:50:02",
-      "album": {
-        "name": "Soar",
-        "url": "https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu"
-      },
-      "artists": [
-        {
-          "name": "Chiminyo",
-          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
-        },
-        {
-          "name": "Uniri",
-          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
-        }
-      ],
-      "duration_ms": 154038,
-      "name": "Soar",
-      "url": "https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Empty Flower",
-        "url": "https://open.spotify.com/album/2zojXYQIdaoAqe2jXMDQHI"
-      },
-      "artists": [
-        {
-          "name": "Raquel Martins",
-          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
-        }
-      ],
-      "duration_ms": 233122,
-      "name": "Empty Flower",
-      "url": "https://open.spotify.com/track/0ZOs6TOQU3xW8F6dpaijSP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
         }
       ],
-      "duration_ms": 341200,
-      "name": "Love In Outer Space (feat. Nao)",
-      "url": "https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD"
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1261,8 +1257,28 @@
         }
       ],
       "duration_ms": 391640,
-      "name": "Lazy Days (feat. Emma-Jean Thackray) [Bluey Remix]",
+      "name": "Lazy Days (feat. Emma-Jean Thackray)",
       "url": "https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Love In Outer Space (feat. Nao)",
+      "url": "https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1287,22 +1303,6 @@
       "duration_ms": 235433,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
-      },
-      "artists": [
-        {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
-        }
-      ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
-      },
-      "artists": [
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+      },
+      "artists": [
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     }
   ],
   "unique_name": "Jazz UK",

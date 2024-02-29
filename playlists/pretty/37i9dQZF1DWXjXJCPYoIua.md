@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,427 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,553 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Hoy Brindare Por Ti](https://open.spotify.com/track/6xFUlsitSQGD3vwSoo06Ik) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Top 20 Éxitos](https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM) | 3:45 |
 | 100 | [Neighborhood Music](https://open.spotify.com/track/1R2cccY1X0AKX6TugUKeZ5) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Neighborhood Music](https://open.spotify.com/album/3TcZqHDaNIFCTogCqRTd4E) | 4:11 |
 
-Snapshot ID: `MCxjODgzODNlNTZkZDY1NTYyNTVhZTMwNTQyNzQ3YWRjYjVmNWY0ZjIy`
+Snapshot ID: `MCw1MGU1ZjAwZGMwYjgzM2M5ZmMzZTAyOWQwNjhhNmRkNTE3ZDE1Mjdk`

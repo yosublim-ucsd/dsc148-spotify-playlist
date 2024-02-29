@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-904 songs - 2 day 2 hr 46 min
+905 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-11-25 | 2023-12-03 |
 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2022-11-26 | 2023-02-12 |
 | [LAGUNA](https://open.spotify.com/track/0JLKzgJT62z3jNWsDt6znJ) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 4:06 | 2023-08-30 | 2023-09-02 |
-| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-12 |  |
+| [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-12 | 2024-02-29 |
 | [Las Flores de Tu Florero](https://open.spotify.com/track/4uO0NyK4WLuzfTGzc49X3x) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 2:54 | 2023-09-19 | 2023-09-21 |
 | [Las Jordan](https://open.spotify.com/track/0h1KYEHUbMRGJ5ubNubD3m) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:05 | 2022-11-25 | 2022-11-27 |
 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 | 2021-09-05 | 2022-03-06 |
@@ -859,6 +859,7 @@
 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 | 2022-08-02 | 2022-09-24 |
 | [V16](https://open.spotify.com/track/2QX7eHuJcD64acIvmBQeC7) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/0AOhyCpui1osblqrN7ilok) | 1:59 | 2022-09-12 | 2022-09-18 |
 | [V16](https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [V16](https://open.spotify.com/album/3n9q8bCGPtABazor6UhzlG) | 1:59 | 2022-09-23 | 2023-01-14 |
+| [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 | 2024-02-28 |  |
 | [Venga Pa' Acá](https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Venga Pa' Acá](https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu) | 2:45 | 2023-04-18 | 2024-02-03 |
 | [Vengo De La Brea](https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Vengo De La Brea](https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO) | 2:30 | 2023-03-14 | 2023-05-14 |
 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-05 | 2023-08-07 |

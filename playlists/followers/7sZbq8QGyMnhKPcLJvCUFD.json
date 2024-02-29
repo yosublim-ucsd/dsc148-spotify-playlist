@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 742032,
+  "2024-02-29": 742044,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -445,6 +445,24 @@
       "duration_ms": 188689,
       "name": "Annabelle's Tea Party",
       "url": "https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj"
+    },
+    {
+      "album": {
+        "name": "apart",
+        "url": "https://open.spotify.com/album/6KQ2yhVXzGlaajA8OctQq7"
+      },
+      "artists": [
+        {
+          "name": "sumu",
+          "url": "https://open.spotify.com/artist/0SkJYSbgi7TLXTShixp1AF"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142236,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0513aRXknqqlp96VbKLkL7"
     },
     {
       "album": {
@@ -9991,7 +10009,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 267934,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw"

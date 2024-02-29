@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,661 likes - 242 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,750 likes - 242 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 241 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 |
 | 242 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 |
 
-Snapshot ID: `MCxhZTllNTRlNTJiZWQ4Y2ZkNjgwYmE0Zjc2NWJlMWM4NGQxMDI0YTZl`
+Snapshot ID: `MCwyNzVkM2ViYTM5NWEwNTQzMzZmZjQ5MGZlYWJlNTNiMjRlYWQ4Y2My`

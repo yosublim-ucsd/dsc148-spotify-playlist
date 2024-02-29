@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-2,339 songs - 5 day 1 hr 28 min
+2,340 songs - 5 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [10 minutes](https://open.spotify.com/track/2EHcd7CEEFfkaf2XV2ba49) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [10 minutes](https://open.spotify.com/album/0ol1B23XBesTo8fCDPPLFq) | 2:32 | 2023-04-15 | 2023-04-20 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-25 | 2021-05-26 |
 | [100 KM/H](https://open.spotify.com/track/6hRGUrBdquldxkBmS53wju) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Rebell Army](https://open.spotify.com/album/3j6zDSNuJtpSu4Cd4BYH33) | 3:09 | 2022-01-22 | 2022-01-24 |
+| [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-28 |  |
 | [1000 Mal](https://open.spotify.com/track/3FkKvUfVnxmxdHrXwuI5vx) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Der Letzte macht das Licht aus \(Deluxe Edition\)](https://open.spotify.com/album/3eEayWvyXhGUxEjf7OUhVE) | 2:32 | 2023-09-30 | 2023-10-02 |
 | [100K](https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 1:56 | 2023-12-02 | 2023-12-04 |
 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 | 2023-04-22 | 2023-05-07 |
@@ -1856,7 +1857,7 @@
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2023-06-11 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |
-| [Shoki](https://open.spotify.com/track/3qoUCuvvdrewVE06JQGeMS) | [Don Xhoni](https://open.spotify.com/artist/2z6t0UGq0WAM8X6zDeXKXj) | [Shoki](https://open.spotify.com/album/5w9XbylPwiGaZsv02B9dKz) | 1:26 | 2024-02-24 |  |
+| [Shoki](https://open.spotify.com/track/3qoUCuvvdrewVE06JQGeMS) | [Don Xhoni](https://open.spotify.com/artist/2z6t0UGq0WAM8X6zDeXKXj) | [Shoki](https://open.spotify.com/album/5w9XbylPwiGaZsv02B9dKz) | 1:26 | 2024-02-24 | 2024-02-29 |
 | [Shonen](https://open.spotify.com/track/3Z8gDycWX48tv06vVRMQtg) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 2:33 | 2021-11-21 | 2021-11-28 |
 | [SHOOT](https://open.spotify.com/track/3plgMV8SGOfWFOALXY09vF) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [MR\. MISUNDERSTOOD](https://open.spotify.com/album/5toHkr2eL5jOjJ6GuOQTET) | 2:39 | 2023-05-13 | 2023-05-15 |
 | [SHOOT](https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SHOOT](https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL) | 2:39 | 2023-03-25 | 2023-04-14 |

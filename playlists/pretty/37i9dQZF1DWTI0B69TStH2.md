@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4gh7DVwvptUXnKdHUpTsZ9">Franek Warzywa</a>, <a href="spotify:artist:1ceZGV3Fa3QfceeyiSQA4c">Młody Budda</a>  \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,763 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,777 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [LEKARSTWO NA BEZSENNOŚĆ](https://open.spotify.com/track/63WjK4HmxoyzSwp9GiLf3i) | [SUGARMATES](https://open.spotify.com/artist/3ULFy2SBPwYZMxw7zRbW4y), [adomalie](https://open.spotify.com/artist/76NJBpkGBlls3eJ1Yx7tir), [Lørenc](https://open.spotify.com/artist/4ISgm3ZMtDo9WdSv3IFK6a), [UTL](https://open.spotify.com/artist/4yWXJaxWoTKLzR86teHy1Y) | [CUKIERKOWI KUMPLE](https://open.spotify.com/album/6IK6ASza9NV3zwXWrIz4R9) | 2:45 |
 | 100 | [Konstelacje](https://open.spotify.com/track/7drJf1OVF3LP90qR4veWzJ) | [Zespół Myśli Niespokojnych](https://open.spotify.com/artist/1xmiJvPrpE06ylaR5IxkYj) | [Konstelacje](https://open.spotify.com/album/11f9zBJdXfB6KVZJK6PlTS) | 7:01 |
 
-Snapshot ID: `MCwxY2YzNmFkYmM0ZDdjMmYxMWU2YzcxOTAyYmIwOWU4NmVkMGM3NWU5`
+Snapshot ID: `MCxkOTdmYzMxZGZiZjA2NWNhYjRmZGIyN2Q4Y2MwOTQ3ZDU0ZTNjOTNk`

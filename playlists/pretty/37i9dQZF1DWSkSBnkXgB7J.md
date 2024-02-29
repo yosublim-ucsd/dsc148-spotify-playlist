@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,809 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,818 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 31 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 |
 | 32 | [Ayam](https://open.spotify.com/track/0QKS9BuMqsfSyVRP2vWvzO) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ayam](https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd) | 3:05 |
 | 33 | [Square One](https://open.spotify.com/track/2eicDRS52ZAT2LRuYzqkna) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Zii](https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl) | [Square One](https://open.spotify.com/album/1Vi1fKEfFBLHY09a6QAOqq) | 3:03 |
-| 34 | [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 |
+| 34 | [LOVE DOCTOR](https://open.spotify.com/track/3cyW7qRBsH3S95gP1IuXmS) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/3aCQHE7XZbTczZvUwRKqza) | 2:01 |
 | 35 | [Hiya Hiya](https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/79IFajmgcokKaytvnRFomI) | 3:37 |
 | 36 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 |
 | 37 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 | 50 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 |
 
-Snapshot ID: `MCxhOThkNmRhMDNlMDhjMTliNzY0MmMwYjc2YTE5OWUwNGMwMTZhMGVl`
+Snapshot ID: `MCwyY2IzOTkxZmUyZmU5MDBkZWJmNDhkMWFhY2M5YTQ3YjkwMzc2ODUz`

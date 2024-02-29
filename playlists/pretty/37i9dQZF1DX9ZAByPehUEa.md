@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,815 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,889 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 43 | [Disco Ibiza](https://open.spotify.com/track/4BWQmlez4Ggvi3tAeTnYv0) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Disco Ibiza](https://open.spotify.com/album/5ddfp6JhTWKDV9wuxpDbpB) | 2:59 |
 | 44 | [Oh Honey](https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/6hZAewOMwwk45SDM0Jcb8I) | 2:29 |
 | 45 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
-| 46 | [Electric Energy](https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Electric Energy](https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9) | 3:16 |
-| 47 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
+| 46 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
+| 47 | [Electric Energy](https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Electric Energy](https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9) | 3:16 |
 | 48 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 |
 | 49 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 50 | [Let Me Love U](https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/62nvVdhCk001EdiodfzunA) | 3:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 71 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
 | 72 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 73 | [Rooftop](https://open.spotify.com/track/4H9BRNgZ8Zt4O12FGwdnoV) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 3:19 |
-| 74 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 |
-| 75 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 |
+| 74 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 |
+| 75 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 |
 
-Snapshot ID: `MCwwNDAyYzIyOWViOGIxZjM3OTY5ZGMxNWM2OGQwNmU1MDQ5Y2Q5YjAz`
+Snapshot ID: `MCw4YThmNDZhNzA4MjU3N2RjYTZlMTFmZDkzYWU1MmExNDVjOGMyNGI2`

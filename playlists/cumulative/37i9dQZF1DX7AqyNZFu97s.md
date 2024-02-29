@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: LANDEL\. Artwork: Isu Kim
 
-1,641 songs - 3 day 15 hr 36 min
+1,642 songs - 3 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,7 +945,7 @@
 | [Mamacita](https://open.spotify.com/track/23k7Dfo1b7wd9qDW5cbDRF) | [Etch](https://open.spotify.com/artist/7az4a2Yqkfi1cpEnzVdwgk), [Donaghy](https://open.spotify.com/artist/0wQlqAqjoKseUPq0f1sUWV) | [Mamacita](https://open.spotify.com/album/7Gtd4VfBcBRgU475HsyLqJ) | 4:09 | 2022-03-02 | 2022-03-17 |
 | [Man of the Year](https://open.spotify.com/track/4DXWBEtQFaDrjsJee1TQX1) | [Jeorge II](https://open.spotify.com/artist/5fM9asFPJ7skVt3GHrryM0), [DIEM](https://open.spotify.com/artist/0PKfJD2b6bEmTfN1Nq2VZO) | [Man of the Year](https://open.spotify.com/album/6IMDIlEjFkEtQhHFHZsyDO) | 3:14 | 2023-07-04 | 2023-08-09 |
 | [MANIC PIXIE DREAM BOY](https://open.spotify.com/track/3T99pTSG50ydk5NWrWb8t4) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/12RQXbb8aSYoEXkEHEfoVf) | 2:03 | 2022-05-25 | 2022-07-28 |
-| [Mannequin](https://open.spotify.com/track/3MPdPrAI2rKY5uY9qbSOtm) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR) | [Mannequin](https://open.spotify.com/album/0A2YH0PzqR41SvYx7h7pem) | 2:25 | 2024-02-07 |  |
+| [Mannequin](https://open.spotify.com/track/3MPdPrAI2rKY5uY9qbSOtm) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR) | [Mannequin](https://open.spotify.com/album/0A2YH0PzqR41SvYx7h7pem) | 2:25 | 2024-02-07 | 2024-02-29 |
 | [Mantra](https://open.spotify.com/track/2Dz6gemycfaKd5sAzvgQfh) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [Taliwhoah](https://open.spotify.com/artist/69SXADQsOhdGkhPGslLhBT) | [Mantra](https://open.spotify.com/album/7AUvw2JDLDMKj2SytE0LBv) | 4:01 | 2022-03-08 | 2022-03-09 |
 | [Marathon](https://open.spotify.com/track/04uxkv2qNQqCqC7uswQHrJ) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [We Speak of Tides](https://open.spotify.com/album/2PQlgNup9w07uItcHGcdPi) | 2:52 | 2022-03-08 | 2022-03-09 |
 | [MARSEILLE](https://open.spotify.com/track/1eMrcRN3T77SoUegyXk2AL) | [Ashley Iman](https://open.spotify.com/artist/7EtQAZo28sS3vNwbHrOmqx) | [MARSEILLE](https://open.spotify.com/album/029CiYAWGIirCotkjWU0aV) | 2:05 | 2023-11-29 | 2024-01-03 |
@@ -1284,6 +1284,7 @@
 | [Secret Chord](https://open.spotify.com/track/5RZUs98MXE8WjgFfgvCYaq) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Secret Chord](https://open.spotify.com/album/6SuSspnmXGDJJawEHYmrb3) | 3:59 | 2023-07-04 | 2023-08-09 |
 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 | 2023-03-09 | 2023-04-27 |
 | [See It Through](https://open.spotify.com/track/6ulc6gwAFUBEhCd5BCF6yh) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [See It Through](https://open.spotify.com/album/3VpaTVUH3iMHLUJlRnQckw) | 3:11 | 2023-05-03 | 2023-06-14 |
+| [See the Patterns](https://open.spotify.com/track/54rKzUySpkE6LOoFniDc4e) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [See the Patterns](https://open.spotify.com/album/6OiXMsYRQaD0fCNwVEx6Xa) | 2:38 | 2024-02-28 |  |
 | [See You](https://open.spotify.com/track/3MIIOWKkWySNmVe0v8JYQs) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [See You](https://open.spotify.com/album/3jSx2lc7LRk5KqQ3eDWhBQ) | 3:52 | 2022-02-16 | 2022-04-07 |
 | [Sefton in the Summertime](https://open.spotify.com/track/0bz4B5C6ZtusODmKgRubhn) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sefton in the Summertime](https://open.spotify.com/album/3fJaGz6Iqb5Yd8mPvfSCKz) | 2:58 | 2022-02-09 | 2022-04-07 |
 | [Self Made](https://open.spotify.com/track/6TzZr61mw0MOz7QcRtl9Av) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Self Made](https://open.spotify.com/album/1RCUPTvbqRhiC2T1TDo395) | 2:40 | 2023-11-15 | 2024-01-24 |

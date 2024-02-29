@@ -4,7 +4,7 @@
 
 > Saca la estrella que llevas dentro.
 
-259 songs - 17 hr 4 min
+260 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Experiencia Religiosa](https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 5:32 | 2022-07-26 |  |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2021-12-09 |  |
 | [Frío, Frío \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Frío, Frío \(En Vivo Estadio Olímpico De República Dominicana\)](https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S) | 3:55 | 2021-12-09 |  |
-| [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 | 2021-12-09 |  |
+| [Fuego en el Fuego](https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre \(Spanish Version\)](https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf) | 4:00 | 2021-12-09 | 2024-02-29 |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 | 2022-12-29 |  |
 | [Hasta Que Me Olvides \- En Vivo](https://open.spotify.com/track/1JNYMz4hu58DkPLIt201Cv) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 4:25 | 2021-12-09 | 2022-12-30 |
 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 | 2022-08-31 |  |
@@ -219,6 +219,7 @@
 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 | 2021-12-09 |  |
 | [Shabadabada](https://open.spotify.com/track/0v5lV9xxdEumQ2jKf5CBVp) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 3:55 | 2021-12-09 | 2024-02-27 |
 | [Si Lo Nuestro No Está Bien](https://open.spotify.com/track/2i6cnBFX6i1Ah7rbFRKMNG) | [Toño Navarrete](https://open.spotify.com/artist/4emJE8pEXiUGhK8IAYzwrS), [Samantha Grey](https://open.spotify.com/artist/5ktc0iT7SjPPlOzbkRRKsg) | [Si Lo Nuestro No Está Bien](https://open.spotify.com/album/4AIp5TYgUXvwqX88zGMRUD) | 2:56 | 2022-08-31 | 2022-11-12 |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/1fhusBTFmHeB6BxVsvj2lN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [e5](https://open.spotify.com/album/3gsFcX5tOaiy7dsSjtnTFp) | 4:46 | 2023-10-06 |  |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2022-07-26 | 2024-02-24 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0ucO4Rk8C11zRrIyndTEZw) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Antología \(80 Clásicos\)](https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG) | 4:49 | 2021-12-09 | 2022-07-29 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Momento Retro vol\. I](https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT) | 4:49 | 2022-08-31 | 2022-11-13 |

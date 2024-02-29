@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,907 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,908 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 42 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 |
 | 43 | [Dove \(I'll Be Loving You\)](https://open.spotify.com/track/2YCesiSx9IgzW37uDAgtJ9) | [Moony](https://open.spotify.com/artist/1FXHK05nyBt3fmMYfQljRi) | [Dove \(I'll Be Loving You\)](https://open.spotify.com/album/6F27aWciswrYu0ZRZKGdaR) | 4:03 |
 | 44 | [SI QUIERES](https://open.spotify.com/track/5D4dCLzLPENujlx7fXLLP4) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [SI QUIERES](https://open.spotify.com/album/10abBenjM5Q4ZLGsq3qNnS) | 2:15 |
-| 45 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 45 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
 | 46 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 47 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 | 48 | [Heavy Like Lead](https://open.spotify.com/track/7xLFFvpk9ntQRNzQnflX5X) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Est\. 2003](https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ) | 3:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 50 | [Airborne Ashes \- Eartheater & Aleksandir Remix](https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [Airborne Ashes \(Eartheater & Aleksandir Remix\)](https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E) | 4:29 |
 | 51 | [Atmosféra](https://open.spotify.com/track/3sPjpqGIsdKJv3It9OHl27) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Atmosféra](https://open.spotify.com/album/4mjNdqhKn35mF7XzOlDgwl) | 6:04 |
 
-Snapshot ID: `MCwxNjIwZWYwMDUwMjcwOThjMTViYjI3YWFkNjJmNWI5MWU5NWRiNzQy`
+Snapshot ID: `MCw0Yjc3ZjZiNGQxMTMwNDY2NDAyYTk1OTY5ZTA5NmM4ZjUzYmU5MWMw`

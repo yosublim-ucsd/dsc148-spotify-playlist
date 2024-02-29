@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-191 songs - 8 hr 30 min
+192 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Can´t Get It out of My Mind](https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x) | 2:52 | 2022-07-05 | 2023-04-13 |
 | [Can´t Get It Out of My Mind](https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/4E35ZgomU7H1ktEB1GtWba) | 2:52 | 2022-05-06 | 2022-07-29 |
 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 | 2022-05-06 | 2023-02-13 |
+| [Chalk It Up to the Blues](https://open.spotify.com/track/3veOm1JuHx16oeIj7VtCYT) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/15FgIXbNJWM7IHUl3MZTfI) | 3:12 | 2023-10-27 |  |
 | [Chantilly Lace](https://open.spotify.com/track/25hrRL7AzlYSLtttKIoY5l) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [The Big Bopper's Greatest Hits](https://open.spotify.com/album/3TQUtTuwtG9vDtRprrifqC) | 2:21 | 2022-05-06 | 2022-06-10 |
 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2022-07-05 |  |
 | [Checkered Flag](https://open.spotify.com/track/1KWpWBABJT2glaEEuyICIx) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Checkered Flag](https://open.spotify.com/album/3iHXkPhhKnv84UDbYjFRwA) | 4:05 | 2022-05-06 | 2022-07-29 |
@@ -77,7 +78,7 @@
 | [Gotta Lot Of Rhythm In My Soul](https://open.spotify.com/track/7aZiLidYjoelX6E3nfpDM7) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Rockabilly Rhythms](https://open.spotify.com/album/5KOnQUm8IXW6egsGtk2qZN) | 2:21 | 2022-05-06 | 2022-07-22 |
 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 | 2022-05-06 |  |
 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 | 2022-05-06 |  |
-| [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 | 2022-07-05 |  |
+| [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 | 2022-07-05 | 2024-02-29 |
 | [Hey Rosalie](https://open.spotify.com/track/19PkDncNBx7csrF34P1FMz) | [Micke Muster](https://open.spotify.com/artist/50IjTMuVpPObIVxS7VZena) | [Rock'n'Roll Super Collection volym 1](https://open.spotify.com/album/6m4y90C1Tp1AhqFXt0uubp) | 3:22 | 2022-05-06 | 2022-07-05 |
 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 | 2022-05-06 |  |
 | [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 | 2022-05-06 | 2023-07-28 |

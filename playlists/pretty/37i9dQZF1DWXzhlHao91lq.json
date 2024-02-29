@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71475,
+  "num_followers": 71487,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2E3MGU5OThjM2YzYzIwZmE1ZTRhODc4ZmU0NzJiZTNkZTczZTBk",
+  "snapshot_id": "MCxlN2ZhNzZiOGU1ODQ5OGM0N2NlOWI2OGYzZjVlODdmYzI5ZTlmYjJl",
   "tracks": [
     {
       "added_at": "2024-02-26 01:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-02-26 01:00:00",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
-    },
-    {
-      "added_at": "2024-02-26 01:00:00",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 253531,
       "name": "Beautiful People Beautiful Problems (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6"
+    },
+    {
+      "added_at": "2024-02-26 01:00:00",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2024-02-26 01:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-02-26 01:00:00",
       "album": {
-        "name": "our generation",
-        "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
+        "name": "Love Adolescent",
+        "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
         }
       ],
-      "duration_ms": 237780,
-      "name": "Soul Mate",
-      "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
+      "duration_ms": 263633,
+      "name": "The Simple Things",
+      "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
     },
     {
       "added_at": "2024-02-26 01:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-02-26 01:00:00",
       "album": {
-        "name": "Love Adolescent",
-        "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
+        "name": "our generation",
+        "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
       },
       "artists": [
         {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
         }
       ],
-      "duration_ms": 263633,
-      "name": "The Simple Things",
-      "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
+      "duration_ms": 237780,
+      "name": "Soul Mate",
+      "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
     },
     {
       "added_at": "2024-02-26 01:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-02-26 01:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
-    },
-    {
-      "added_at": "2024-02-26 01:00:00",
-      "album": {
         "name": "I Make Sparks",
         "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 218573,
       "name": "I Make Sparks",
       "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+    },
+    {
+      "added_at": "2024-02-26 01:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
     },
     {
       "added_at": "2024-02-26 01:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-02-26 01:00:00",
       "album": {
-        "name": "Fingertips",
-        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Settle",
-      "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
-    },
-    {
-      "added_at": "2024-02-26 01:00:00",
-      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2024-02-26 01:00:00",
+      "album": {
+        "name": "Fingertips",
+        "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Settle",
+      "url": "https://open.spotify.com/track/1G576qOKq0CdSGvSmHD4pz"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

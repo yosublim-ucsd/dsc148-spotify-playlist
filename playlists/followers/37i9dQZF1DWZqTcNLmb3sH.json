@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 57125,
+  "2024-02-29": 57128,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -18297,7 +18297,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 136498,
       "name": "Noorupayi Mix (from \"Bheema\")",
       "url": "https://open.spotify.com/track/4i7R72wfnWLsQLaPJ9gfxR"
@@ -25093,6 +25093,32 @@
       "duration_ms": 266785,
       "name": "Yaaru Yaaru - From \"Nimmellara Aashirvada \"",
       "url": "https://open.spotify.com/track/0U9so7ube4YJdIHgvBRq20"
+    },
+    {
+      "album": {
+        "name": "Yaav Kannu Chucchitho Yamanige (From \"HanuMan\") [Kannada]",
+        "url": "https://open.spotify.com/album/7nL9OFoVTlOX8lRB973KTy"
+      },
+      "artists": [
+        {
+          "name": "Krishna Saurabh Surampalli",
+          "url": "https://open.spotify.com/artist/0tykRfpBauzwKTzwR5YCfW"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "K Kalyan",
+          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Yaav Kannu Chucchitho Yamanige (From \"HanuMan\") [Kannada]",
+      "url": "https://open.spotify.com/track/1uZVsdUqh1i0N0zcuMZ3H7"
     },
     {
       "album": {

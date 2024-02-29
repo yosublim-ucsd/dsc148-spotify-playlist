@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 
 > <a href="spotify:artist:4Bv3GYUzNM11yYGQslJOkp">Mr\. ID</a>'s favorite tracks\. Updated regularly\. Curated by Mr\. ID\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,078 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,101 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 | 49 | [After You](https://open.spotify.com/track/74bfHdLcObe6vc0DWZ61W1) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:27 |
 | 50 | [Banfora](https://open.spotify.com/track/6cQb8XhgNO6ZldfKAO5Qkq) | [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI) | [Deep Worlds](https://open.spotify.com/album/7MTHy8MwHNsrqeMzGZBvNp) | 7:26 |
 
-Snapshot ID: `MCwzNjU5OGY2NWQzNjgwMmZmMTE3MWZhN2JiNzY0ZDU0YTE2YjZhMDMx`
+Snapshot ID: `MCxlMmFjZjYyODhhNTVlNzkwODg2OWUwYTVlZGRmZDZkNWU0MTI2ZTU0`

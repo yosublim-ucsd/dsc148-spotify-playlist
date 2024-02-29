@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,977 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,983 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 29 | [Evergreen Rag \(1915 \- James Scott\)](https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm) | [Scott Kirby](https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM) | [Grace And Beauty \- Ragtime Classics](https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz) | 3:00 |
 | 30 | [Grace and Beauty](https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ) | [James Scott](https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ), [Brian Dykstra](https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY) | [Ragtime Classics, 1901\-1919](https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b) | 3:25 |
 | 31 | [A Breeze from Alabama](https://open.spotify.com/track/0CU9oRq6jUw5WE0fN7Epdn) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Alessandro Simonetto](https://open.spotify.com/artist/0xFkYOINLkXFgPAAAa9Pwk) | [Joplin: Rags & Waltzes](https://open.spotify.com/album/0ewUAHaISymm0ywE1FdAKX) | 4:12 |
-| 32 | [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 3:23 |
-| 33 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
+| 32 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
+| 33 | [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 3:23 |
 | 34 | [American Beauty Rag](https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [100 Years of Ragtime](https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR) | 3:29 |
 | 35 | [The Nonpareil](https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 1:25 |
 | 36 | [Great Scott Rag](https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 | 50 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 
-Snapshot ID: `MCwzYWMwMjg0ZTcyNjU1ZjFkMTJjNmM5MGVhMjQ1M2NmNDQ0Y2YzOTc5`
+Snapshot ID: `MCxhMjQ4MjAxMGQzMjRmMTA0ODVlNGEyZGQ1ODUwZTE2OGVjNTZjM2Ey`

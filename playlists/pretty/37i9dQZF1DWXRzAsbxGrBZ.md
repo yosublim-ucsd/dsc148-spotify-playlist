@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,157 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,237 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 36 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 |
 | 37 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
 | 38 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 |
-| 39 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 |
-| 40 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
+| 39 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
+| 40 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 |
 | 41 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
 | 42 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
-| 43 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 |
-| 44 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 |
+| 43 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 |
+| 44 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 |
 | 45 | [Mend It \- Stimming Remix](https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq) | [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Mend It / Your Eyes Remixes](https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL) | 8:38 |
-| 46 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
-| 47 | [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 |
+| 46 | [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 |
+| 47 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 | 48 | [Little Me \- Extended Mix](https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn) | 7:17 |
-| 49 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
-| 50 | [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 |
+| 49 | [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 |
+| 50 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
 
-Snapshot ID: `MCxjYjI2ODc2Nzc1NWZmZGJhYThlYzVkZDI2YzFkYjMzM2Q5ZTk4ZWZm`
+Snapshot ID: `MCwwZjliZjNmZjlhMGUyOGY4NzFjNWY3ZDVlZjA1MWIyNzE2ODhjNjMx`

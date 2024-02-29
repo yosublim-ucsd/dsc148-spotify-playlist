@@ -1,12 +1,12 @@
 {
   "description": "songs voor je playlist! #fyp",
-  "num_followers": 26996,
+  "num_followers": 27062,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjgxMDJmNDA3N2QzZTNiYTMzMmZiMDQ5N2QwZDRhZGU0ZDYzY2Mw",
+  "snapshot_id": "MCwyNzdkYThlNjBmMGEwOGNjYTczNjA4MTM0ZDAwMzZjNDcxYzUyNTA0",
   "tracks": [
     {
       "added_at": "2024-02-26 10:38:10",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-02-26 10:38:10",
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-02-26 10:38:10",
+      "album": {
         "name": "Stukje Van Mij",
         "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
-    },
-    {
-      "added_at": "2024-02-26 10:38:10",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2024-02-26 10:38:10",

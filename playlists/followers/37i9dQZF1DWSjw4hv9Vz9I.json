@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 130843,
+  "2024-02-29": 130896,
   "date_first_scraped": "2024-01-30",
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
   "name": "Retro Road Trip",
@@ -65,7 +65,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 203488,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6Vbv1NYbnegCxzWx1hC65b"

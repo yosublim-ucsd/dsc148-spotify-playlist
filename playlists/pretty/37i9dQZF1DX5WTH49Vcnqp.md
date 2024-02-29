@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,458 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,472 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [I'm Fine](https://open.spotify.com/track/5AoK7RPofkpTnMItx4MgtW) | [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [I'm Fine](https://open.spotify.com/album/49WnEBeYHobCEcwk68JgbD) | 2:02 |
 | 80 | [Survivor](https://open.spotify.com/track/6LduKPr8tiHg0sNk6hHOvL) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/08pAfyf7MaZumnHQ2yzOU6) | 2:11 |
 
-Snapshot ID: `MCwxMjVlMzIyMzM2YTM3MjMxMmYyMTk0OWZlMjY5MGYyMDhjZDhlNTY1`
+Snapshot ID: `MCwyNWM5MmEzN2NkMWE5MDVkMGQ1NmZlY2ZiMTQyNmY2NGI5YWUyMzFk`

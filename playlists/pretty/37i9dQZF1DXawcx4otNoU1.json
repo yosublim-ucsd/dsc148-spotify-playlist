@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 500959,
+  "num_followers": 500999,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTQwN2ZlODVmM2RiZDQ4ZTFjNWQyNTE3ZTVhMjM1MDU1OTkzZTFl",
+  "snapshot_id": "MCwyMDNlYTkxOGVkNmVlODJlNGYxMmQxM2NhOTQ1ZTFkNWI3ZTA1MzFi",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 206421,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Know-It-All (Deluxe)",
-        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Sebastian Kole",
-          "url": "https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Know-It-All (Deluxe)",
+        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Sebastian Kole",
+          "url": "https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Bridge Back to Your Heart",
-        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
-      },
-      "artists": [
-        {
-          "name": "The Beach",
-          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
-        }
-      ],
-      "duration_ms": 261279,
-      "name": "Bridge Back to Your Heart",
-      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Bridge Back to Your Heart",
+        "url": "https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA"
+      },
+      "artists": [
+        {
+          "name": "The Beach",
+          "url": "https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO"
+        }
+      ],
+      "duration_ms": 261279,
+      "name": "Bridge Back to Your Heart",
+      "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Song For A Friend",
+        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
+      },
+      "artists": [
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 236478,
+      "name": "Song For A Friend",
+      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "everytime we fall",
         "url": "https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 189497,
       "name": "everytime we fall",
       "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Song For A Friend",
-        "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
-      },
-      "artists": [
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 236478,
-      "name": "Song For A Friend",
-      "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
     }
   ],
   "unique_name": "Spooning",

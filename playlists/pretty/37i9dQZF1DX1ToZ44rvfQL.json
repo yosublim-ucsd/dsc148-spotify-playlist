@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 458447,
+  "num_followers": 458570,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWZmY2I1YThjNzY4MTVlNDk5ZGE0YWQ2MGNiOTA0ZDFjY2VkNzcz",
+  "snapshot_id": "MCxlY2NjYzEyY2ZhMzM2NDlkYzFmOTA1NjhlOTMwMDQxNWFiOTU1ZjQw",
   "tracks": [
     {
       "added_at": "2024-02-22 22:07:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-02-22 22:07:47",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
-        "name": "Hijos Del Culo",
-        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Toco Y Me Voy",
-      "url": "https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176173,
       "name": "Esa Estrella Era Mi Lujo",
       "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
+        "name": "Hijos Del Culo",
+        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Toco Y Me Voy",
+      "url": "https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV"
     },
     {
       "added_at": "2024-02-22 22:07:47",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2024-02-22 22:07:47",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
-        "name": "Pericos & Friends",
-        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "The Original Wailers",
-          "url": "https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW"
-        }
-      ],
-      "duration_ms": 233267,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 252818,
       "name": "Astros",
       "url": "https://open.spotify.com/track/6iVP8SnhHnFNy7WYrIw1JB"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
+        "name": "Pericos & Friends",
+        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "The Original Wailers",
+          "url": "https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW"
+        }
+      ],
+      "duration_ms": 233267,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
     },
     {
       "added_at": "2024-02-22 22:07:47",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
         "name": "El camino de la libertad",
         "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 220001,
       "name": "Encendedor",
       "url": "https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2024-02-22 22:07:47",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
-        "name": "Aunque Cueste Ver El Sol",
-        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Verte Re\u00edr",
-      "url": "https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
         "name": "Vol I",
         "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 266786,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Verte Re\u00edr",
+      "url": "https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk"
     },
     {
       "added_at": "2024-02-22 22:07:47",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-02-22 22:07:47",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
-    },
-    {
-      "added_at": "2024-02-22 22:07:47",
-      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 256385,
       "name": "Ruleta",
       "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
+    },
+    {
+      "added_at": "2024-02-22 22:07:47",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Llenos De Magia",
+      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2024-02-22 22:07:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,922 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,962 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 9 | [Weather Report](https://open.spotify.com/track/2PqKhhwvTagEwlueJYwXa1) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Cultural Things](https://open.spotify.com/album/0oAZsRHJCvTBgfIIKPQmDO) | 2:25 |
 | 10 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
 | 11 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
-| 12 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
-| 13 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
-| 14 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
-| 15 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 |
+| 12 | [Little Boy Blue](https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn) | [Pat Kelly](https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi) | [The Vintage Series](https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD) | 2:46 |
+| 13 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
+| 14 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 |
+| 15 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
 | 16 | [True True True](https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials \(Platinum Edition\)](https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh) | 2:15 |
 | 17 | [In the Summertime](https://open.spotify.com/track/5l3HpuhW2UTa13ouM1ugug) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [The Big Hits](https://open.spotify.com/album/12lWmChSdOo8lMY5kXM17k) | 2:33 |
 | 18 | [Judge Dread](https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Prince Buster \- Fabulous Greatest Hits \[Diamond Range\]](https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc) | 3:38 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 38 | [Bye, Bye, Bye](https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [A Day Will Come \(Reggae Fever Picks 1963\-72\)](https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6) | 2:47 |
 | 39 | [Baba Boom Time](https://open.spotify.com/track/7aPjIs1vrygEAGgODAo6Ca) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Celebrating Jamaica 50: The History of Reggae](https://open.spotify.com/album/5EeBMrKxZEkVcr00cNgZM2) | 3:00 |
 | 40 | [A.B.C\. Rocksteady](https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9) | [Gladstone Anderson](https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Glad Sounds](https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT) | 2:12 |
-| 41 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 |
-| 42 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 |
+| 41 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 |
+| 42 | [That Wonderful Sound](https://open.spotify.com/track/46JFegy0KkJNXhZK4BPOrB) | [Dobby Dobson](https://open.spotify.com/artist/5xYXtdpxl2wwzMBSqvgpM0) | [The Vintage Series: Dobby Dobson](https://open.spotify.com/album/3D66zjhBWUvpoYGiBjZrm0) | 3:24 |
 | 43 | [It's All in the Game](https://open.spotify.com/track/4Nb43yyzlpANYmNrjxykKx) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [The Best Of...](https://open.spotify.com/album/1tpw4tscpRu4w2tfvZKlX3) | 2:31 |
 | 44 | [Queen Majesty](https://open.spotify.com/track/7mavHEgkrNLqIzlA5wxd5n) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [The Ultimate Collection, Vol\. 1](https://open.spotify.com/album/3OzRkr3Hra8KdXKWcXe2o5) | 3:31 |
 | 45 | [Rukumbine](https://open.spotify.com/track/6rz9vltqGd9sVgdSCQpeoV) | [Bobby Aitken](https://open.spotify.com/artist/0XdmNCnL70Uw9QJ0wFypv6) | [Classic Hits from Treasure Isle](https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Never Found a Girl](https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ) | 3:53 |
 | 50 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 |
 
-Snapshot ID: `MCw4YjE0NjQwYjY3YTVlNzAyNGNkMWVhNzBiNGEzNjNhOTJmNDE1Zjll`
+Snapshot ID: `MCwzNThiNjI3ODU1YmZkM2NkMWY0NmFiZjM3YWFjMGFmZDJhZDNiYTQ1`

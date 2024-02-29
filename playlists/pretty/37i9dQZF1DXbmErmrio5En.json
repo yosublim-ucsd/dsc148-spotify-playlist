@@ -1,12 +1,12 @@
 {
   "description": "saturation, distortion, feedBack. ft. bixby",
-  "num_followers": 36182,
+  "num_followers": 36239,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODlhMWI2OGFhM2I5MGZhNmY1NjE4Zjg4ZjQ4NWU5YjBjNGY0YWY4",
+  "snapshot_id": "MCxiMjEzOWIwNzM3OTBmODRlNjUwNGE2ZDZjMmVkMGJiMWFlY2VkZWY5",
   "tracks": [
     {
       "added_at": "2024-02-27 22:05:45",
@@ -139,26 +139,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "digital crush",
-        "url": "https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd"
+        "name": "the Rake (can\u2019t complain)",
+        "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
       },
       "artists": [
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Ouse",
-          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
-        },
-        {
-          "name": "Ryan Librada",
-          "url": "https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 159060,
-      "name": "digital crush",
-      "url": "https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55"
+      "duration_ms": 181714,
+      "name": "the Rake (can\u2019t complain)",
+      "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
     },
     {
       "added_at": "2024-02-16 16:45:57",
@@ -199,18 +191,26 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "the Rake (can\u2019t complain)",
-        "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
+        "name": "digital crush",
+        "url": "https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ouse",
+          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
+        },
+        {
+          "name": "Ryan Librada",
+          "url": "https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7"
         }
       ],
-      "duration_ms": 181714,
-      "name": "the Rake (can\u2019t complain)",
-      "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
+      "duration_ms": 159060,
+      "name": "digital crush",
+      "url": "https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55"
     },
     {
       "added_at": "2024-02-16 16:45:57",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 181915,
       "name": "A LA CARTE (feat. brakence)",
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 168221,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/18eOqwpYQ4zzSmx1csIBZD"
     },
     {
-      "added_at": "2024-02-14 20:46:47",
-      "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 180033,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
-    },
-    {
       "added_at": "2024-02-13 14:25:05",
       "album": {
         "name": "GORE",
@@ -379,6 +363,22 @@
       "duration_ms": 148678,
       "name": "unpredictable thinGs",
       "url": "https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR"
+    },
+    {
+      "added_at": "2024-02-14 20:46:47",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 180033,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "gluttony",
         "url": "https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 84480,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/7KbzSmMnizGMv73yXiqZyz"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "NOISE T.V",
-        "url": "https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS"
-      },
-      "artists": [
-        {
-          "name": "LIL DUSTY G",
-          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "YELLOW NOISE",
-      "url": "https://open.spotify.com/track/41oClmFa1qJUCON9DD4SBg"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "Sick Sad Obsession",
         "url": "https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 123642,
       "name": "Borderline Personality",
       "url": "https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "NOISE T.V",
+        "url": "https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS"
+      },
+      "artists": [
+        {
+          "name": "LIL DUSTY G",
+          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "YELLOW NOISE",
+      "url": "https://open.spotify.com/track/41oClmFa1qJUCON9DD4SBg"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "STARCROSSED",
+        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "duration_ms": 172256,
+      "name": "STARCROSSED",
+      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "I Saw U",
         "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "for the hell of it",
-        "url": "https://open.spotify.com/album/5tuRJA0jYlArO69f7lhCCK"
-      },
-      "artists": [
-        {
-          "name": "Zac Greer",
-          "url": "https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz"
-        }
-      ],
-      "duration_ms": 117299,
-      "name": "loser",
-      "url": "https://open.spotify.com/track/07FL8cDV9O80vETGlPbTrn"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "heart attack",
         "url": "https://open.spotify.com/album/1bIFXVDg0VGmasvfKyw2da"
       },
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "for the hell of it",
+        "url": "https://open.spotify.com/album/5tuRJA0jYlArO69f7lhCCK"
+      },
+      "artists": [
+        {
+          "name": "Zac Greer",
+          "url": "https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz"
+        }
+      ],
+      "duration_ms": 117299,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/07FL8cDV9O80vETGlPbTrn"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "stuck. run. sink. die. the end.",
         "url": "https://open.spotify.com/album/77Vn3DDWatnu93qk2c0CoE"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 153600,
       "name": "the end.",
       "url": "https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "STARCROSSED",
-        "url": "https://open.spotify.com/album/4juZSFXIo15KVgXnPeoVJp"
-      },
-      "artists": [
-        {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
-        }
-      ],
-      "duration_ms": 172256,
-      "name": "STARCROSSED",
-      "url": "https://open.spotify.com/track/35wWGaFCexpJAglVUgjTcL"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "love actually",
-        "url": "https://open.spotify.com/album/1fUur5inyyEv2409GWO4SF"
+        "name": "toler",
+        "url": "https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI"
       },
       "artists": [
         {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
-        },
-        {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
         }
       ],
-      "duration_ms": 137142,
-      "name": "love actually",
-      "url": "https://open.spotify.com/track/3gAKZ4Oc2u5wXsQVor2ytS"
+      "duration_ms": 105004,
+      "name": "toler",
+      "url": "https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1391,18 +1387,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "toler",
-        "url": "https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI"
+        "name": "love actually",
+        "url": "https://open.spotify.com/album/1fUur5inyyEv2409GWO4SF"
       },
       "artists": [
         {
-          "name": "kaido",
-          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        },
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
         }
       ],
-      "duration_ms": 105004,
-      "name": "toler",
-      "url": "https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS"
+      "duration_ms": 137142,
+      "name": "love actually",
+      "url": "https://open.spotify.com/track/3gAKZ4Oc2u5wXsQVor2ytS"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "got a lot on my chest",
+        "url": "https://open.spotify.com/album/6bJFj5RuYm8bIkedqu6KBI"
+      },
+      "artists": [
+        {
+          "name": "tmdistant",
+          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
+        }
+      ],
+      "duration_ms": 128223,
+      "name": "got a lot on my chest",
+      "url": "https://open.spotify.com/track/5GIGi4vYjRjWx5uwaRnRzA"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "try",
         "url": "https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 260930,
       "name": "i guess i'm alone",
       "url": "https://open.spotify.com/track/4pPoPhIm07Agr5yj0t7g56"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "got a lot on my chest",
-        "url": "https://open.spotify.com/album/6bJFj5RuYm8bIkedqu6KBI"
-      },
-      "artists": [
-        {
-          "name": "tmdistant",
-          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
-        }
-      ],
-      "duration_ms": 128223,
-      "name": "got a lot on my chest",
-      "url": "https://open.spotify.com/track/5GIGi4vYjRjWx5uwaRnRzA"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
+        "name": "Prelude To Cupid",
+        "url": "https://open.spotify.com/album/0MrMikCJXVv8txn6gyTO3u"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 100114,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/2pJavDqKkQvhrVv7RAc8yd"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
         "name": "down in flames",
         "url": "https://open.spotify.com/album/0oi0hXy5EOuXw3rfZqoEsI"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 182424,
       "name": "tightrope",
       "url": "https://open.spotify.com/track/2ZTkvoAr64FFlNa0A37ZPk"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "Prelude To Cupid",
-        "url": "https://open.spotify.com/album/0MrMikCJXVv8txn6gyTO3u"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 100114,
-      "name": "With U",
-      "url": "https://open.spotify.com/track/2pJavDqKkQvhrVv7RAc8yd"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "get it together !",
-        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "get it together !",
-      "url": "https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm"
-    },
-    {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
         "name": "GO! (feat. BENKRO)",
         "url": "https://open.spotify.com/album/0D8SmNwhP1DmoN2cOvOaE9"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 171971,
       "name": "GO! (feat. BENKRO)",
       "url": "https://open.spotify.com/track/6tVghhzof1GBVNWTpJLaZV"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "get it together !",
+        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "get it together !",
+      "url": "https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -2077,22 +2077,6 @@
       "url": "https://open.spotify.com/track/2pLieFj49thsxTBBquLEz9"
     },
     {
-      "added_at": "2024-02-13 14:25:05",
-      "album": {
-        "name": "better off dead",
-        "url": "https://open.spotify.com/album/00N0Z98MyHDseMugQdNYKd"
-      },
-      "artists": [
-        {
-          "name": "familypet",
-          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "better off dead",
-      "url": "https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN"
-    },
-    {
       "added_at": "2024-02-16 16:45:57",
       "album": {
         "name": "save the moment",
@@ -2111,6 +2095,22 @@
       "duration_ms": 237333,
       "name": "save the moment",
       "url": "https://open.spotify.com/track/02i4JamlRdngS1J98lS3Tk"
+    },
+    {
+      "added_at": "2024-02-13 14:25:05",
+      "album": {
+        "name": "better off dead",
+        "url": "https://open.spotify.com/album/00N0Z98MyHDseMugQdNYKd"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "better off dead",
+      "url": "https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN"
     },
     {
       "added_at": "2024-02-13 14:25:05",
@@ -2227,8 +2227,8 @@
     {
       "added_at": "2024-02-13 14:25:05",
       "album": {
-        "name": "get it together !",
-        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
+        "name": "harry houdini",
+        "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
       },
       "artists": [
         {
@@ -2238,7 +2238,7 @@
       ],
       "duration_ms": 214615,
       "name": "the life and death of a dog",
-      "url": "https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY"
+      "url": "https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX"
     },
     {
       "added_at": "2024-02-13 14:25:05",

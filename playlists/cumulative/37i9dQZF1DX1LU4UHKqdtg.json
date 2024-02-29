@@ -16275,6 +16275,24 @@
     },
     {
       "album": {
+        "name": "WISH",
+        "url": "https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "WISH - Japanese Ver.",
+      "url": "https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI"
+    },
+    {
+      "album": {
         "name": "With UNIVERSE",
         "url": "https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI"
       },

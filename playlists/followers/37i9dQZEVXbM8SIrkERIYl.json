@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 212219,
+  "2024-02-29": 212229,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - New Zealand.",
   "name": "Top 50 - New Zealand",
@@ -753,7 +753,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -4369,7 +4369,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 237000,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
@@ -6471,7 +6471,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
@@ -9971,7 +9971,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 252680,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"

@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-303 songs - 19 hr 59 min
+304 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Midnight](https://open.spotify.com/track/4cUJTkMh4JVO5hpZqW6Ywx) | [Koero](https://open.spotify.com/artist/6VZEf3IWsYZBUsDJOkU7Qe) | [Midnight](https://open.spotify.com/album/11AjG2WoyYYrH76ZQoRgkx) | 4:08 | 2021-08-05 | 2022-07-29 |
 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 | 2021-08-05 | 2023-01-08 |
 | [Milo's Breeze](https://open.spotify.com/track/2Iad2uYF42TsNJyPHRDAOJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milo's Journey](https://open.spotify.com/album/2HCniE0c6Gggdy1eW4DNdw) | 4:22 | 2021-08-05 | 2022-06-23 |
-| [Minimal \- Dj Koze Remix](https://open.spotify.com/track/7zSDTiE5xmuXlCz7mfYhlE) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Minimal](https://open.spotify.com/album/55yKmNclMIb7WaDrT0bqbD) | 6:07 | 2023-07-13 |  |
+| [Minimal \- Dj Koze Remix](https://open.spotify.com/track/7zSDTiE5xmuXlCz7mfYhlE) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Minimal](https://open.spotify.com/album/55yKmNclMIb7WaDrT0bqbD) | 6:07 | 2023-07-13 | 2024-02-29 |
 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 | 2021-08-05 | 2023-05-31 |
 | [Mirage](https://open.spotify.com/track/4lPq7yzD0FW8HUWQ61Puvv) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Mirage](https://open.spotify.com/album/3638ZiUtBJSBzSTjNkXv5h) | 3:37 | 2021-08-05 | 2022-07-29 |
 | [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 | 2023-05-30 |  |
@@ -214,6 +214,7 @@
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2023-05-30 |  |
 | [Psicomagia](https://open.spotify.com/track/1BDfGMy4SK2OaZhX522zB6) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Psicomagia](https://open.spotify.com/album/0htTcwRP2A5J33zOqtkgNV) | 3:10 | 2023-05-14 | 2023-05-30 |
 | [Push It Up](https://open.spotify.com/track/5h5PYUY5NCeCPLvPixTgVl) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 3:24 | 2023-05-14 | 2023-05-30 |
+| [Pussy Power \- DESIREE Remix](https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Pussy Power \(Desiree Remix\)](https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur) | 5:57 | 2024-02-28 |  |
 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 | 2023-06-22 |  |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-06-22 | 2023-09-28 |
 | [Restless Bones](https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Restless Bones](https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9) | 2:25 | 2023-05-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 919039,
+  "num_followers": 919116,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmRjNDY3NjE2NWI1MTY5MWU0Mjc2NWU0NDBjNzI2M2ZlYzNhOTZj",
+  "snapshot_id": "MCxlZjc1ODk5NGUwZjU4NGRiYzMwZDFlNTVmYjNiMjdkMGRlZjA0OWZj",
   "tracks": [
     {
       "added_at": "2023-11-30 18:27:42",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 105500,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Cold Heart (Acoustic)",
         "url": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 157868,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "La Vie En Rose",
-        "url": "https://open.spotify.com/album/3rU947MaPxzKjSSbx4cQjg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 105500,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/0VxocBntP1XTZRsR9ZURPS"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Naked (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Ouvindo",
+          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Naked - Acoustic Version",
-      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+      "duration_ms": 217935,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
+        "name": "Naked (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
       "artists": [
         {
-          "name": "Ouvindo",
-          "url": "https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 217935,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
+      "duration_ms": 230440,
+      "name": "Naked - Acoustic Version",
+      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "All The Little Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "It Aint me (Acoustic)",
-        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+        "name": "All The Little Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 192545,
-      "name": "It Aint me - Acoustic",
-      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+      "duration_ms": 266626,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1147,6 +1131,22 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "It Aint me (Acoustic)",
+        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint me - Acoustic",
+      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Too Much To Ask (Acoustic)",
+        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 221598,
+      "name": "Too Much To Ask - Acoustic",
+      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Too Much To Ask (Acoustic)",
-        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 221598,
-      "name": "Too Much To Ask - Acoustic",
-      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Acoustic Favourites",
         "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
+        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
         }
       ],
-      "duration_ms": 198000,
-      "name": "U Remind Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
       "artists": [
         {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+      "duration_ms": 198000,
+      "name": "U Remind Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1583,6 +1567,22 @@
       "duration_ms": 141142,
       "name": "Havana - Acoustic",
       "url": "https://open.spotify.com/track/0P2HFqXUhqvdZ2bS8doDjR"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 178202,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Architect (Deluxe)",
-        "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
-      },
-      "artists": [
-        {
-          "name": "Wallis Bird",
-          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "RAWsession - 5.25.10",
         "url": "https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 266813,
       "name": "Why Georgia - RAWsession",
       "url": "https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Architect (Deluxe)",
+        "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
     },
     {
       "added_at": "2023-11-30 18:27:42",

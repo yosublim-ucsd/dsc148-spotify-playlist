@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57125,
+  "num_followers": 57128,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTUyZjRkMTNmNzAwZDg3Y2NiZjQ5MzhiZmZiOTg3NDUyMWM1MWMy",
+  "snapshot_id": "MCxkZmIwMGY4MWVlM2RlZDRkYTJmZWFlNzI4MDFkNzAyMTkzYjRjZTI5",
   "tracks": [
     {
       "added_at": "2024-02-16 09:14:10",
@@ -81,6 +81,26 @@
       "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
     },
     {
+      "added_at": "2024-01-30 12:16:19",
+      "album": {
+        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 262725,
+      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
+    {
       "added_at": "2024-02-22 10:15:57",
       "album": {
         "name": "Paapa Santhosha (From \"Bachelor Party\")",
@@ -129,24 +149,48 @@
       "url": "https://open.spotify.com/track/1uZVsdUqh1i0N0zcuMZ3H7"
     },
     {
-      "added_at": "2024-01-30 12:16:19",
+      "added_at": "2024-02-28 15:41:59",
       "album": {
-        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
-        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
+        "name": "Bramayugam - Kannada",
+        "url": "https://open.spotify.com/album/3fFTTlMbK4lfeeBIV1Pssi"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Christo Xavier",
+          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
         },
         {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        },
+        {
+          "name": "Sayanth S",
+          "url": "https://open.spotify.com/artist/7ImKOVIYXQFPwQHBNdejsy"
         }
       ],
-      "duration_ms": 262725,
-      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
-      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+      "duration_ms": 282549,
+      "name": "The Age Of Madness - Kannada",
+      "url": "https://open.spotify.com/track/5yICKMOnrZq4HybPhmwJLJ"
+    },
+    {
+      "added_at": "2024-02-28 15:42:23",
+      "album": {
+        "name": "Bramayugam - Kannada",
+        "url": "https://open.spotify.com/album/3fFTTlMbK4lfeeBIV1Pssi"
+      },
+      "artists": [
+        {
+          "name": "Christo Xavier",
+          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "duration_ms": 188526,
+      "name": "Bhoomiya Maalika",
+      "url": "https://open.spotify.com/track/3xWT4oe7AojLkPM1Jo6FvG"
     },
     {
       "added_at": "2024-02-26 11:54:15",
@@ -1273,26 +1317,6 @@
       "url": "https://open.spotify.com/track/58ORbd6adFpA1nhnCLiD4M"
     },
     {
-      "added_at": "2024-01-22 08:42:35",
-      "album": {
-        "name": "Preethiya Maye (From \"Cicada\")",
-        "url": "https://open.spotify.com/album/1Jsjpd7MwSz0gleVFxcRFZ"
-      },
-      "artists": [
-        {
-          "name": "Anila Rajeev",
-          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
-        },
-        {
-          "name": "Sreejith Edavana",
-          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
-        }
-      ],
-      "duration_ms": 116515,
-      "name": "Preethiya Maye (From \"Cicada\")",
-      "url": "https://open.spotify.com/track/3Cn8oH0ECkHGvlqObtYuZO"
-    },
-    {
       "added_at": "2024-01-19 12:46:26",
       "album": {
         "name": "Gunu Gunugu (from \"Ondu Sarala Prema Kathe\")",
@@ -1471,26 +1495,6 @@
       "duration_ms": 236999,
       "name": "Peg Song",
       "url": "https://open.spotify.com/track/1y2ZQXSzAzPF1CQUPX9wdG"
-    },
-    {
-      "added_at": "2024-01-18 12:01:46",
-      "album": {
-        "name": "Theme of Suppliers (from \"Supplier Shankara\" )",
-        "url": "https://open.spotify.com/album/1WtLsGy4cjWZB4eYo5Ccli"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "R B Bharath",
-          "url": "https://open.spotify.com/artist/43lwYNl4rr3EB3agrwPtGI"
-        }
-      ],
-      "duration_ms": 216931,
-      "name": "Theme of Suppliers (from \"Supplier Shankara\" )",
-      "url": "https://open.spotify.com/track/7gdSOUGy3FdnC4OsqkdH6X"
     },
     {
       "added_at": "2024-01-03 06:27:07",

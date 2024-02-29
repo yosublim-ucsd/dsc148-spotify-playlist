@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 95480,
+  "2024-02-29": 95531,
   "date_first_scraped": "2023-06-30",
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
   "name": "This Is PARTYNEXTDOOR",
@@ -910,6 +910,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163438,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/1bgpUVB4gPYYNpMBLeyiid"
+    },
+    {
+      "album": {
         "name": "That's What I Like (PARTYNEXTDOOR Remix)",
         "url": "https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5"
       },
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 240700,
       "name": "You've Been Missed",
       "url": "https://open.spotify.com/track/21w7eTmB3r5LFSyvCUQRO4"

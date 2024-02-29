@@ -12411,6 +12411,24 @@
     },
     {
       "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/5pOhVfE6GwH6HwnTU8WZTs"
+      },
+      "artists": [
+        {
+          "name": "Low Lions",
+          "url": "https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146299,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/7kqy1v6tydmrfwrnJLMuaa"
+    },
+    {
+      "album": {
         "name": "Shine with Me",
         "url": "https://open.spotify.com/album/6rKFLUK5GjsoyhpW8JS35i"
       },
@@ -13232,7 +13250,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 143866,
       "name": "Spoiler Alert",
       "url": "https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9"

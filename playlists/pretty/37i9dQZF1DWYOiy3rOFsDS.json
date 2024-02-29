@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 532199,
+  "num_followers": 532289,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2E2NTIwODk2ZDAyYWY4OWVkYzExYjdiODI5ZjQzZjcxNzE2Zjg4",
+  "snapshot_id": "MCw4NjBjMjZhZTY5NGIxNWU1N2U3ZDBhY2I0NzMwYTM1ZTM1NzcyZTYy",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Secreto de Amor",
+      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 188626,
       "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Secreto de Amor",
-      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "duration_ms": 248208,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 244711,
       "name": "B\u00e9same mucho",
       "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
-      },
-      "artists": [
-        {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        }
-      ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1487,6 +1467,22 @@
       "duration_ms": 193130,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1559,22 +1555,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Te Ofrezco",
-        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "Te Ofrezco",
-      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Keep\u00b4n Love",
         "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
       },
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Noche Sensacional",
         "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
         "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 138960,
       "name": "Sabor a Mi - En Vivo",
       "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "Lo Mismo Que Usted",
+      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
     },
     {
       "added_at": "2024-02-16 06:00:00",

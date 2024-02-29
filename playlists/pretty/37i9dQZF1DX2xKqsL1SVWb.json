@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Sebasti\u00e1n Romero en portada.",
-  "num_followers": 98201,
+  "num_followers": 98213,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzdhYzZiNDRmZDBlZmY0ZGMwNGIyZDQzOTE0M2M4OTU3ZDdjYTk0",
+  "snapshot_id": "MCw2MjUxYzM0MDhiMmY2ZjdhNDNkOWUxZjk2ZjE1N2ExZWQ4ZWNiMTNm",
   "tracks": [
     {
       "added_at": "2023-12-08 20:40:26",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Giallo",
+        "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Quince Mil D\u00edas",
+      "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "ZAFIRO (feat. Pablo Hurtado)",
         "url": "https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 233625,
       "name": "ZAFIRO (feat. Pablo Hurtado)",
       "url": "https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Giallo",
-        "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Quince Mil D\u00edas",
-      "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Af\u00e9rrate a la Vida",
         "url": "https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 171290,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 186748,
-      "name": "Que no me encuentre",
-      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Todo Lo Que Hay",
         "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 169441,
       "name": "Todo Lo Que Hay",
       "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "mejor me voy",
+        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "mejor me voy",
+      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Amanecer",
         "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "mejor me voy",
-        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "mejor me voy",
-      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
     },
     {
       "added_at": "2023-12-08 20:40:26",

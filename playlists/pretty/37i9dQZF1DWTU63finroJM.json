@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
-  "num_followers": 59162,
+  "num_followers": 59176,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjg0MjQ1M2I1YWIyY2EzY2RmYjljM2VkYWQ5ZTMxYjFjOTFlZDAy",
+  "snapshot_id": "MCwwNTFjMmYxYzYwMmU4YWE3ZmFlZGE4ZjBjMWVlMDg1NDAzZDdkNTg1",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "GIAYPHUT",
-        "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
-      },
-      "artists": [
-        {
-          "name": "kidsai",
-          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "GIAYPHUT",
-      "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
-    },
-    {
       "added_at": "2023-09-15 09:08:00",
       "album": {
         "name": "vier aufnahmen",
@@ -439,6 +423,22 @@
       "duration_ms": 145063,
       "name": "\\ sympathisch",
       "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "GIAYPHUT",
+        "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "GIAYPHUT",
+      "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
     },
     {
       "added_at": "2023-10-27 10:47:14",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
     },
     {
+      "added_at": "2024-02-02 14:58:23",
+      "album": {
+        "name": "Normalde",
+        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
+      },
+      "artists": [
+        {
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Normalde",
+      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
+    },
+    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "If You Said So (feat. Wxrdie & 2Pillz)",
@@ -669,20 +685,20 @@
       "url": "https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0"
     },
     {
-      "added_at": "2024-02-02 14:58:23",
+      "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Normalde",
-        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
+        "name": "\u5931\u7d04\u5df4\u9ece",
+        "url": "https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4"
       },
       "artists": [
         {
-          "name": "Ege Can Sal",
-          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+          "name": "Jeffrey \u9b4f\u6d5a\u7b19",
+          "url": "https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Normalde",
-      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
+      "duration_ms": 222314,
+      "name": "\u5931\u7d04\u5df4\u9ece",
+      "url": "https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -705,20 +721,20 @@
       "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
+      "added_at": "2024-02-26 08:17:01",
       "album": {
-        "name": "\u5931\u7d04\u5df4\u9ece",
-        "url": "https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4"
+        "name": "CAN YOU UNDERSTAND ME?",
+        "url": "https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh"
       },
       "artists": [
         {
-          "name": "Jeffrey \u9b4f\u6d5a\u7b19",
-          "url": "https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf"
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
         }
       ],
-      "duration_ms": 222314,
-      "name": "\u5931\u7d04\u5df4\u9ece",
-      "url": "https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9"
+      "duration_ms": 208907,
+      "name": "CAN YOU UNDERSTAND ME?",
+      "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -739,22 +755,6 @@
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2024-02-26 08:17:01",
-      "album": {
-        "name": "CAN YOU UNDERSTAND ME?",
-        "url": "https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 208907,
-      "name": "CAN YOU UNDERSTAND ME?",
-      "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
+    },
+    {
       "added_at": "2024-01-26 06:00:00",
       "album": {
         "name": "Combo",
@@ -821,20 +837,20 @@
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
     },
     {
-      "added_at": "2024-02-09 06:00:00",
+      "added_at": "2024-02-26 08:17:01",
       "album": {
-        "name": "LOSTWITHOUTMARIA",
-        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+        "name": "B\u00fcy\u00fcklere Ninniler",
+        "url": "https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T"
       },
       "artists": [
         {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
         }
       ],
-      "duration_ms": 154104,
-      "name": "LOSTWITHOUTMARIA",
-      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
+      "duration_ms": 197869,
+      "name": "Yaln\u0131zl\u0131k Bana Kalan",
+      "url": "https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV"
     },
     {
       "added_at": "2024-01-12 06:00:00",
@@ -885,6 +901,22 @@
       "url": "https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX"
     },
     {
+      "added_at": "2024-02-26 08:17:01",
+      "album": {
+        "name": "Belki Bi' G\u00fcn Anlars\u0131n",
+        "url": "https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6yleyken B\u00f6yle",
+          "url": "https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH"
+        }
+      ],
+      "duration_ms": 145107,
+      "name": "Belki Bi' G\u00fcn Anlars\u0131n",
+      "url": "https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa"
+    },
+    {
       "added_at": "2024-02-09 06:00:00",
       "album": {
         "name": "RECHERCHE&DESTRUCTION",
@@ -915,22 +947,6 @@
       "duration_ms": 197712,
       "name": "Discord-disco",
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
-    },
-    {
-      "added_at": "2024-02-26 08:17:01",
-      "album": {
-        "name": "B\u00fcy\u00fcklere Ninniler",
-        "url": "https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T"
-      },
-      "artists": [
-        {
-          "name": "Paptircem",
-          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
-        }
-      ],
-      "duration_ms": 197869,
-      "name": "Yaln\u0131zl\u0131k Bana Kalan",
-      "url": "https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -1013,22 +1029,6 @@
       "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
     },
     {
-      "added_at": "2024-02-26 08:17:01",
-      "album": {
-        "name": "Belki Bi' G\u00fcn Anlars\u0131n",
-        "url": "https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6yleyken B\u00f6yle",
-          "url": "https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH"
-        }
-      ],
-      "duration_ms": 145107,
-      "name": "Belki Bi' G\u00fcn Anlars\u0131n",
-      "url": "https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa"
-    },
-    {
       "added_at": "2023-12-07 06:00:00",
       "album": {
         "name": "Bazaar",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
     },
     {
-      "added_at": "2023-11-23 06:00:00",
-      "album": {
-        "name": "VENERE",
-        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "VENERE",
-      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
-    },
-    {
       "added_at": "2024-01-12 06:00:00",
       "album": {
         "name": "tradition",
@@ -1123,6 +1107,22 @@
       "duration_ms": 204032,
       "name": "35.mm",
       "url": "https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1"
+    },
+    {
+      "added_at": "2023-11-23 06:00:00",
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "added_at": "2024-02-02 09:24:46",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V"
     },
     {
-      "added_at": "2023-12-07 06:00:00",
-      "album": {
-        "name": "Two Moon",
-        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 203700,
-      "name": "Super Ball",
-      "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
-    },
-    {
       "added_at": "2024-02-02 09:24:46",
       "album": {
         "name": "We Are The River",
@@ -1243,6 +1227,22 @@
       "duration_ms": 190129,
       "name": "We Are The River",
       "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
+    },
+    {
+      "added_at": "2023-12-07 06:00:00",
+      "album": {
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203700,
+      "name": "Super Ball",
+      "url": "https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ"
     },
     {
       "added_at": "2023-09-01 09:20:13",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
     },
     {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "duration_ms": 187775,
+      "name": "LDN GRLS - Gboyega's Theme",
+      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
+    },
+    {
       "added_at": "2023-11-23 06:00:00",
       "album": {
         "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
@@ -1415,22 +1431,6 @@
       "duration_ms": 130602,
       "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/0FgAvsLPS7v8UMxswvyFSR"
-      },
-      "artists": [
-        {
-          "name": "Love Remain",
-          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
-        }
-      ],
-      "duration_ms": 187775,
-      "name": "LDN GRLS - Gboyega's Theme",
-      "url": "https://open.spotify.com/track/2M9s7A9yAItvJmTid957Be"
     },
     {
       "added_at": "2023-12-01 06:29:10",
@@ -1713,22 +1713,6 @@
       "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
     },
     {
-      "added_at": "2024-02-02 09:24:46",
-      "album": {
-        "name": "i told you we're going home",
-        "url": "https://open.spotify.com/album/7lQFXgZOtx6qbPT6Wg0SQW"
-      },
-      "artists": [
-        {
-          "name": "jupiterkid",
-          "url": "https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U"
-        }
-      ],
-      "duration_ms": 202541,
-      "name": "twentyfour",
-      "url": "https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80"
-    },
-    {
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "HAPPY ACCIDENTS VOL. 1",
@@ -1743,6 +1727,22 @@
       "duration_ms": 192453,
       "name": "SHOWER MUSIC",
       "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
+    },
+    {
+      "added_at": "2024-02-02 09:24:46",
+      "album": {
+        "name": "i told you we're going home",
+        "url": "https://open.spotify.com/album/7lQFXgZOtx6qbPT6Wg0SQW"
+      },
+      "artists": [
+        {
+          "name": "jupiterkid",
+          "url": "https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U"
+        }
+      ],
+      "duration_ms": 202541,
+      "name": "twentyfour",
+      "url": "https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -1763,6 +1763,22 @@
       "duration_ms": 215080,
       "name": "Una Cumbia Triste",
       "url": "https://open.spotify.com/track/0aZTEC8uIFXLJpkYRby45Y"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "The Whole Story",
+        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Beautiful Everything",
+      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1787,22 +1803,6 @@
       "duration_ms": 236708,
       "name": "Ignorant (feat. Puri, Landon Cube) - Spotify Singles",
       "url": "https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "The Whole Story",
-        "url": "https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Beautiful Everything",
-      "url": "https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1"
     },
     {
       "added_at": "2023-12-07 06:00:00",

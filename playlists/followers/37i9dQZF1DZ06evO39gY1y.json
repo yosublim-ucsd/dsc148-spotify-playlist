@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 217545,
+  "2024-02-29": 217655,
   "date_first_scraped": "2023-11-11",
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
   "name": "This Is Charles Ans",
@@ -327,7 +327,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 208564,
       "name": "El Tiempo Cura",
       "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 144629,
       "name": "Mil Escalas",
       "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"

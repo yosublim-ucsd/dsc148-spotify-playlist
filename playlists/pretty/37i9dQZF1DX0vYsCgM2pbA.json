@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 134929,
+  "num_followers": 134942,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWNhNWEyM2UyMDhlNGI3ZDZkOTRkYTNlNDMxNjI5NTEyZTVlMzNh",
+  "snapshot_id": "MCwwNTM5M2MxYTk3ZjA0ZDBkZjcwYTkzODBlNWUzYmU2MmVjYTUwZTA3",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -747,22 +747,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
       "artists": [
         {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -783,18 +779,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
         }
       ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+      "duration_ms": 206250,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
     },
     {
       "added_at": "2024-02-01 13:01:25",

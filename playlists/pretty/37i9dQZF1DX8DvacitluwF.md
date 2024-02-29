@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri?si=oMYbNZWYTia2d9nEsblHdQ">Mars Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,724 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,738 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 72 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 73 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 |
 
-Snapshot ID: `MCw3YmM3MzNkMDBjNDhiMDQyODBiYTY5ZDU5MTlhMDA4ZjMxOWJiNmY4`
+Snapshot ID: `MCxmNDBhNmIwYjljZGU4ZTk3NjcxM2QxMzRmMGQ2MjExMjU3OTFkMDg3`

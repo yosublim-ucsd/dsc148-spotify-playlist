@@ -700,7 +700,7 @@
     {
       "album": {
         "name": "ENTP",
-        "url": "https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt"
+        "url": "https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u"
       },
       "artists": [
         {
@@ -719,6 +719,32 @@
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 121894,
+      "name": "ENTP",
+      "url": "https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB"
+    },
+    {
+      "album": {
+        "name": "ENTP",
+        "url": "https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt"
+      },
+      "artists": [
+        {
+          "name": "Sadajyo",
+          "url": "https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L"
+        },
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt"
+        },
+        {
+          "name": "Jeff Loik",
+          "url": "https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-29",
       "duration_ms": 121894,
       "name": "ENTP",
       "url": "https://open.spotify.com/track/6igeqg948vsEYv5sKvIfvt"

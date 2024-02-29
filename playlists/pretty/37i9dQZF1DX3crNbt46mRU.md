@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Luca Hänni, Chiara Castelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,365 likes - 94 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,368 likes - 94 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 93 | [Das Gefühl ist tot.](https://open.spotify.com/track/4RAViCdTdo0m1D1Gxao7wz) | [Balbina](https://open.spotify.com/artist/4C1nbe81muNg5KuFNh6kxZ) | [Das Gefühl ist tot.](https://open.spotify.com/album/2n4CSejHdev4E2jx3Q4bor) | 4:11 |
 | 94 | [I'm Not Bitter](https://open.spotify.com/track/4EgPDbIlPXbD9WNuveifEp) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I'm Not Bitter / Outside](https://open.spotify.com/album/2oEN0rseRFx41NZf7qs61O) | 3:10 |
 
-Snapshot ID: `MCw3MjU2ZWZiYjE0YzhmZmE4MzY4ZTBkYTViM2Y0ODlkMTc4NTI5YjRi`
+Snapshot ID: `MCw0OTMwNTAzOThhMWIxZjA1ZmRkZGRkZTYyMjVhMjQwZTBiMjY1MGU5`

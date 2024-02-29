@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,949 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,956 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 26 | [Ei8ht Mile \(feat\. Aitch\)](https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Ei8ht Mile](https://open.spotify.com/album/4C3UTxhLUXd9WiiKQpZ2FN) | 2:56 |
 | 27 | [On Deck](https://open.spotify.com/track/34YkG2pMNOldalZtevHztN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [On Deck](https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd) | 2:59 |
 | 28 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
-| 29 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
+| 29 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
 | 30 | [Crypto Price](https://open.spotify.com/track/0GlNBy7uuYyc8zvr4grPVS) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:58 |
 | 31 | [Block 6 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/7esgTfwtLhISeKP7GgTsSP) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Block 6](https://open.spotify.com/artist/4greawD4iPVecLHKENer73), [Lucii](https://open.spotify.com/artist/3aa1GMnXua8XTpaTcozfKR) | [Block 6 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/5nyybgL9emIvbudSnVbyAm) | 3:25 |
 | 32 | [18HUNNA \(feat\. Dave\)](https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Music x Road](https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S) | 3:09 |
 | 33 | [Bringing It Back](https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bringing It Back](https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7) | 3:10 |
-| 34 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
+| 34 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
 | 35 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
 | 36 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
 | 37 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 | 50 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 
-Snapshot ID: `MCxlNDRhMWMxMGI1YjJlN2ZmOWU0NzUwM2NmYWQxODE3NzUxODRiYmFl`
+Snapshot ID: `MCw3NmQ2YjUwNTk2ZWIyNTk0YjEzZjVmNTU2OThmYTI4M2I4YTNhMDU2`

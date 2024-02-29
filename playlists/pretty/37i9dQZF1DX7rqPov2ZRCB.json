@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 119,
+  "num_followers": 126,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmRlMDc5MzE0ZTMwNGMxYWJhMWExYzIxODFhZWViZjFlMTEyZjU3",
+  "snapshot_id": "MCw3MzViMmYyOTk1MzBkNTg2YmM0MGQ3ODRiMzZjMTliNzQ0MjUzODc0",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -511,22 +511,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "!Ultramerengue!",
-        "url": "https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg"
-      },
-      "artists": [
-        {
-          "name": "Francisco Ulloa",
-          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Canto de Hacha",
-      "url": "https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Abrete",
         "url": "https://open.spotify.com/album/5C3lLZkbzYvUOFj6LQl6O7"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "!Ultramerengue!",
+        "url": "https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg"
+      },
+      "artists": [
+        {
+          "name": "Francisco Ulloa",
+          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Canto de Hacha",
+      "url": "https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "From Santo Domingo: Live!",
         "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
+        "name": "Merengues Tipicos Que Hicieron Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z"
       },
       "artists": [
         {
-          "name": "Blas Duran",
-          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
+          "name": "El Ciego De Nagua",
+          "url": "https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY"
         }
       ],
-      "duration_ms": 234707,
-      "name": "Sal\u00f3n de Belleza",
-      "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
+      "duration_ms": 276493,
+      "name": "Diente de Oro",
+      "url": "https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -611,18 +611,34 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Merengues Tipicos Que Hicieron Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj"
       },
       "artists": [
         {
-          "name": "El Ciego De Nagua",
-          "url": "https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY"
+          "name": "Blas Duran",
+          "url": "https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb"
         }
       ],
-      "duration_ms": 276493,
-      "name": "Diente de Oro",
-      "url": "https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P"
+      "duration_ms": 234707,
+      "name": "Sal\u00f3n de Belleza",
+      "url": "https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "A Otro Nivel",
+        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+      },
+      "artists": [
+        {
+          "name": "Rikar2nes",
+          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+        }
+      ],
+      "duration_ms": 256625,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -659,30 +675,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Merengues Con el Alma",
-        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
-      },
-      "artists": [
-        {
-          "name": "Trio Reynoso",
-          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
-        },
-        {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
-        },
-        {
-          "name": "Miguel Santana",
-          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
-        }
-      ],
-      "duration_ms": 151044,
-      "name": "Juanita Morel",
-      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "60 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
       },
@@ -715,18 +707,26 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "A Otro Nivel",
-        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+        "name": "Merengues Con el Alma",
+        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
       },
       "artists": [
         {
-          "name": "Rikar2nes",
-          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+          "name": "Trio Reynoso",
+          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
+        },
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        },
+        {
+          "name": "Miguel Santana",
+          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
         }
       ],
-      "duration_ms": 256625,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
+      "duration_ms": 151044,
+      "name": "Juanita Morel",
+      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -763,6 +763,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "A Otro Nivel",
+        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+      },
+      "artists": [
+        {
+          "name": "Rikar2nes",
+          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+        }
+      ],
+      "duration_ms": 279474,
+      "name": "Ya No Creo en Ti",
+      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "El Contentoso!",
         "url": "https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC"
       },
@@ -795,34 +811,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "A Otro Nivel",
-        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+        "name": "Suena Estupido Pero No Lo Es",
+        "url": "https://open.spotify.com/album/6gzPIuJ3oFt6wtjqQLOVrx"
       },
       "artists": [
         {
-          "name": "Rikar2nes",
-          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+          "name": "Tulile",
+          "url": "https://open.spotify.com/artist/6bTDDuLBAc970gDKmysb9h"
         }
       ],
-      "duration_ms": 279474,
-      "name": "Ya No Creo en Ti",
-      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Los Numero 1 Bachata y Merengue Tipico",
-        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
-      },
-      "artists": [
-        {
-          "name": "El Cieguito De Nagua",
-          "url": "https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "El Diente de Oro",
-      "url": "https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO"
+      "duration_ms": 236717,
+      "name": "Kiri Kra",
+      "url": "https://open.spotify.com/track/61vd4QaA1nBa5mu7gcw2R1"
     },
     {
       "added_at": "2019-09-09 17:49:24",

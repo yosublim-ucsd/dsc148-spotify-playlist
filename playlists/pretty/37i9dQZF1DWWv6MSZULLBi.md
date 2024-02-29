@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Shaina Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,545 likes - 103 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,558 likes - 103 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 77 | [Heart Shaped Locket](https://open.spotify.com/track/5oaThEaulai5NDF9I0kz1T) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Keepsakes](https://open.spotify.com/album/5saWLgRVHZoGDtopmWkyMv) | 3:09 |
 | 78 | [Flowers on the Fire Escape](https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/2QOpujXPtpuOIbieP3eSS9) | 3:56 |
 | 79 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
-| 80 | [Never Fucked Up Twice](https://open.spotify.com/track/7h3qZvtmI5QfBjV7ETdFOY) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Very High / Never Fucked Up Twice](https://open.spotify.com/album/4tib35VzWbmYxb9SOAqUrV) | 2:33 |
+| 80 | [Never Fucked Up Twice \[Feat\. Bully\]](https://open.spotify.com/track/4e0IISG309PUJCDWER9Sbn) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [My Friends Are Having A Hard Time](https://open.spotify.com/album/6QHDyA3r5IrgwQzyWlpr3h) | 2:33 |
 | 81 | [Hadsel](https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Hadsel](https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA) | 4:54 |
 | 82 | [Hollow](https://open.spotify.com/track/0Amqo9CK8mGpCcpAGnrbxP) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Dweller](https://open.spotify.com/album/7tviOf20Ri2MUssHhwTx2l) | 3:56 |
 | 83 | [Saturn Returning](https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Saturn Returning](https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA) | 2:47 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 102 | [I'm Around](https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I'm Around](https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS) | 3:20 |
 | 103 | [Honest Mistake](https://open.spotify.com/track/7I5lWaa5IhmZ9e2C1CNMeh) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Honest Mistake](https://open.spotify.com/album/6UDL0OtfOKN5aEqFwfenl4) | 3:32 |
 
-Snapshot ID: `MCxiODBhNzdkNTQ5OWVmNDBhNWQwZDQ2N2E1OWZmMmMzZDljNTRiZDJi`
+Snapshot ID: `MCwxMGMyY2JjY2MyODJlNzc1NzVlMGY5MTdjZmIwZjdhYmZmMmE3NDBk`

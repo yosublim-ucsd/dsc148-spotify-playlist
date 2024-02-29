@@ -1475,6 +1475,36 @@
     },
     {
       "album": {
+        "name": "Guntur Kaaram (Tamil)",
+        "url": "https://open.spotify.com/album/6uSCeFSBleiltMou95hJJg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/15Z6MWPrXCZD0TwlA36BeH"
+        },
+        {
+          "name": "Ninsy",
+          "url": "https://open.spotify.com/artist/4xRZnTBoafsKYfHMgb2Dut"
+        },
+        {
+          "name": "Naveen",
+          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257756,
+      "name": "Madthapetti",
+      "url": "https://open.spotify.com/track/6wGWoPqztBH2UfIKsgZXHD"
+    },
+    {
+      "album": {
         "name": "Eeswaran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf"
       },

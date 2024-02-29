@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: BE:FIRST
 
-152 songs - 8 hr 51 min
+153 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [WHITE SNOW](https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [WHITE SNOW](https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY) | 4:05 | 2023-11-23 | 2023-11-29 |
 | [Winter Land](https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Winter Land](https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6) | 3:20 | 2024-01-16 | 2024-02-01 |
 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 | 2023-11-23 | 2024-01-03 |
+| [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 | 2024-02-27 |  |
 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 | 2024-01-19 |  |
 | [YO MA SUNSHINE](https://open.spotify.com/track/5B70iJSr2BaCm1WJvBo2fS) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [YO MA SUNSHINE](https://open.spotify.com/album/4hBZeFNtTuGX89VFdsHevj) | 3:20 | 2024-02-09 | 2024-02-21 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 |  |

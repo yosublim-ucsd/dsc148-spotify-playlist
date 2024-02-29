@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,765 likes - 102 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,964 likes - 102 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 89 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 |
 | 90 | [Sounds of the Bowl](https://open.spotify.com/track/5rcYxWqLkv7GzhXncvb0hM) | [Satorio](https://open.spotify.com/artist/54dz2oZHyoh9ZmfldoKogN) | [Crystal Bowls & Tibetan Singing Bowls](https://open.spotify.com/album/0cJhl9uqOjDbSSLzJWi1KE) | 8:10 |
 | 91 | [Deep Wood Gong](https://open.spotify.com/track/7MrfjHEkZ18jovUQbnkl5o) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 4:09 |
-| 92 | [Clear Light](https://open.spotify.com/track/1NhS1qT1I92D7NwOXMOD7Z) | [Henry Wolff](https://open.spotify.com/artist/5P9GOBmioOd73PEbC1iGRT), [Drew Gladstone](https://open.spotify.com/artist/4pPu2Gh6iguBzvVeqKMmnf), [Nancy Hennings](https://open.spotify.com/artist/4uVd6sNdsHHgPknM4EZQnT) | [Tibetan Bells](https://open.spotify.com/album/0VU4keMlWkYomkOpVJJtCT) | 4:02 |
+| 92 | [Clear Light](https://open.spotify.com/track/1NhS1qT1I92D7NwOXMOD7Z) | [Drew Gladstone](https://open.spotify.com/artist/4pPu2Gh6iguBzvVeqKMmnf), [Nancy Hennings](https://open.spotify.com/artist/4uVd6sNdsHHgPknM4EZQnT), [Henry Wolff](https://open.spotify.com/artist/5P9GOBmioOd73PEbC1iGRT) | [Tibetan Bells](https://open.spotify.com/album/0VU4keMlWkYomkOpVJJtCT) | 4:02 |
 | 93 | [Gong Bath](https://open.spotify.com/track/1KtfudvuPrxLde8ROI7zBS) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Sonic Cosmogony](https://open.spotify.com/album/01tZd33aBB1HKNv2pSjf5E) | 5:27 |
 | 94 | [Spiritual Exercises](https://open.spotify.com/track/35NnGaTbwlgZoK1IZZ8gfI) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:03 |
 | 95 | [Tibetan Bowl Meditation](https://open.spotify.com/track/2Vh8dAhsAWDjX651xHGKwt) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:37 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 101 | [Lullaby](https://open.spotify.com/track/5vjsIox5BJAP1YIERBLdfn) | [Alain Presencer](https://open.spotify.com/artist/1TFojWUtNPFxCm61M7TJMT) | [Singing Bowls of Tibet](https://open.spotify.com/album/1Xm1grJslIgHqR3hqe3FQk) | 2:48 |
 | 102 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 |
 
-Snapshot ID: `MCw3OTZjNzAxMzhkOWU1ZGRhOGJlY2EyNGM4ZmQ0ZDYwMzhlN2IzZWM0`
+Snapshot ID: `MCwxNjMyYjcxYmNlZmZjMGVkY2JlYWUxMGU1MmZkNDMwZWJiNmJmYmRj`

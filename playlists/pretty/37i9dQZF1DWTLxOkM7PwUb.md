@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,583 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,623 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 68 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 |
 | 69 | [A fuego \- Bizarrap Remix](https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [A fuego \(Bizarrap Remix\)](https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap) | 3:59 |
 | 70 | [Mi Llamada \(Remix\)](https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Mi Llamada \(Remix\)](https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA) | 6:54 |
-| 71 | [LA PRIMERA VEZ](https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [MORDIENDO EL BOZAL](https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w) | 3:17 |
-| 72 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
+| 71 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
+| 72 | [LA PRIMERA VEZ](https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [MORDIENDO EL BOZAL](https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w) | 3:17 |
 | 73 | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo) | 3:14 |
 | 74 | [C14TORCE IV](https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE IV](https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY) | 2:53 |
 | 75 | [DESPUES QUE TE PERDI](https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [DESPUES QUE TE PERDI](https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 | 100 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 |
 
-Snapshot ID: `MCxlMWE3NTMzYTQzZDRhMzE1ODZjOGE5NmQ1ZjBkZDljZDFkYzVhODYx`
+Snapshot ID: `MCxjMzc5NjQyMjY1OTExNjg2NjMxYWVkMjFlNTIxZjY0OTlhMzFjMDdh`

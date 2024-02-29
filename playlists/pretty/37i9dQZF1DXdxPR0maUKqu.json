@@ -1,12 +1,12 @@
 {
   "description": "\u7406\u7531\u306e\u306a\u3044\u7126\u308a\u3001\u82db\u7acb\u3061\u3002\u308f\u3051\u3082\u306a\u304f\u53eb\u3073\u305f\u304f\u306a\u308b\u3002\u601d\u6625\u671f\u3092\u904e\u3054\u3059\u5168\u3066\u306e\u30c6\u30a3\u30fc\u30f3\u306b\u8d08\u308b\u3001\u5e30\u308a\u9053\u306e\u5fdc\u63f4\u6b4c\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 69672,
+  "num_followers": 69691,
   "original_name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODdmYjI4NjJkMzU2NmIzMDc5MWI4ZTgxNzE3MmI0NmNmODE1Y2M1",
+  "snapshot_id": "MCw0OGRmYjBhZDk1MGY3MDBlODNkZjEzMjcxNTM1YWEyMjQ3M2M2MDg2",
   "tracks": [
     {
       "added_at": "2024-02-27 15:00:00",
@@ -75,8 +75,8 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "\u3053\u306e\u9577\u3044\u65c5\u306e\u4e2d\u3067",
-        "url": "https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa"
+        "name": "Along the long journey",
+        "url": "https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb"
       },
       "artists": [
         {
@@ -85,8 +85,8 @@
         }
       ],
       "duration_ms": 245076,
-      "name": "\u3053\u306e\u9577\u3044\u65c5\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb"
+      "name": "Along the long journey",
+      "url": "https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2024-02-27 15:00:00",
       "album": {
-        "name": "\u5929\u4f7f\u3060\u3063\u305f\u3058\u3083\u306a\u3044\u304b",
-        "url": "https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj"
+        "name": "Tenshi datta janaika",
+        "url": "https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x"
       },
       "artists": [
         {
@@ -777,8 +777,8 @@
         }
       ],
       "duration_ms": 206373,
-      "name": "\u30e9\u30f3\u30c9\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp"
+      "name": "Laundry",
+      "url": "https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x"
     },
     {
       "added_at": "2024-02-27 15:00:00",
@@ -800,7 +800,7 @@
       "added_at": "2024-02-27 15:00:00",
       "album": {
         "name": "Heart Beat",
-        "url": "https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU"
+        "url": "https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu"
       },
       "artists": [
         {
@@ -810,7 +810,7 @@
       ],
       "duration_ms": 293306,
       "name": "Heart Beat",
-      "url": "https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3"
+      "url": "https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl"
     }
   ],
   "unique_name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",

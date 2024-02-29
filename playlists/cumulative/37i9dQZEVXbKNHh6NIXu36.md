@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,965 songs - 4 day 2 hr 31 min
+1,967 songs - 4 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Bunte Pille 💊](https://open.spotify.com/track/1bc29WF3xHcXUQAcO0csAs) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [LOVELINE EP 💔](https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC) | 2:30 | 2023-11-04 | 2023-11-06 |
 | [Burn](https://open.spotify.com/track/0QwKxajohg1rAMMmv1AWe1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:37 | 2021-12-12 | 2021-12-13 |
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2024-02-12 | 2024-02-16 |
-| [BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 1:51 | 2024-02-15 |  |
+| [BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 1:51 | 2024-02-15 | 2024-02-29 |
 | [BUSINESS STRAIGHT](https://open.spotify.com/track/5Cb7uEN2BM9t0Y5FjEq9ga) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [BUSINESS STRAIGHT](https://open.spotify.com/album/6zOaTkMG61UOgHnmbDat53) | 2:04 | 2024-01-20 | 2024-02-10 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-06-11 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
@@ -569,6 +569,7 @@
 | [Euforija](https://open.spotify.com/track/179RlsezyrYKDp9vsyTe5L) | [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [Euforija](https://open.spotify.com/album/6XEjoRy2wNZN84yoIAO3oW) | 1:53 | 2021-10-22 | 2021-11-04 |
 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 | 2023-05-15 | 2023-05-17 |
 | [EUPHORIA](https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [EUPHORIA](https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77) | 2:18 | 2023-07-15 | 2023-07-17 |
+| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-02-28 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2022-11-01 | 2022-11-03 |
 | [Everywhere \(feat\. Sophie Hunger\)](https://open.spotify.com/track/3tclrcMq55RBexbs0hg77O) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:09 | 2022-10-01 | 2022-10-03 |
 | [Ewa Zina](https://open.spotify.com/track/6bwKe4LzFLvoXRYtHpims4) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Ewa Zina](https://open.spotify.com/album/0T7Tgbd6oN5KSofV69PPnB) | 2:31 | 2023-02-04 | 2023-02-06 |
@@ -1507,6 +1508,7 @@
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-11-05 |
 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-10-14 | 2023-10-16 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-06-09 |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-02-28 |  |
 | [Scheine zählen](https://open.spotify.com/track/52Y1KkbSO4LI9MTCvZhP9Y) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:47 | 2023-08-26 | 2023-11-26 |
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-19 | 2023-08-21 |
 | [SCHIESSEN \(feat\. Kontra K\)](https://open.spotify.com/track/4FoyKLZg6CYzWDUCGsukHt) | [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [SCHIESSEN \(feat\. Kontra K\)](https://open.spotify.com/album/42GXVqBTBRjiRibDByIc1e) | 2:45 | 2021-05-30 | 2021-05-31 |
@@ -1971,7 +1973,7 @@
 | [À la Carte](https://open.spotify.com/track/4RzIPi5kcw5gYAd07I8NDz) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [À la Carte](https://open.spotify.com/album/3YMJFnqN6SU0F6fWNPhFvY) | 3:01 | 2023-12-23 | 2024-02-13 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-17 |
 | [Über Nacht](https://open.spotify.com/track/4OmctphA94w1uwOEl7hD0q) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Zukunft 1 & 2](https://open.spotify.com/album/6npdmy45COickvaNIV5obJ) | 2:42 | 2021-10-03 | 2021-10-05 |
-| [„glücklich“](https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [„glücklich“](https://open.spotify.com/album/3WwkJn0W4ZRLKkxeOBx4U8) | 2:44 | 2024-02-24 |  |
+| [„glücklich“](https://open.spotify.com/track/4WC4kyZnG7TxklAKBKUaK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [„glücklich“](https://open.spotify.com/album/3WwkJn0W4ZRLKkxeOBx4U8) | 2:44 | 2024-02-24 | 2024-02-29 |
 | [„Hahaha“](https://open.spotify.com/track/3d6qirAvHEpdM6Ky5OKFQ8) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [„Hahaha“](https://open.spotify.com/album/0SDmMQMIeuKkkMFvNZhOCb) | 2:07 | 2021-11-14 | 2021-11-14 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

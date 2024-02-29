@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,865 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,900 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 47 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
 | 48 | [Kon Halave Limdi \- Reprise](https://open.spotify.com/track/5BhOC3r1Cc7hGj1S4ik5c2) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Kon Halave Limdi \(Reprise\)](https://open.spotify.com/album/5tyRG2a7FMXAVr39NmOYKS) | 3:58 |
 | 49 | [Rain Dance \(Barsan Laagi\)](https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Haritha Raj](https://open.spotify.com/artist/2dVodnLDTczyG2msjEqrqA) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:16 |
-| 50 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
+| 50 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 |
 
-Snapshot ID: `MCw0ODkxN2QwZjQyYTU1OTcyZjQyNGY2MThhMWI1YzMxZWQ1NTJkNjc1`
+Snapshot ID: `MCw4MDdiODY3YTlkMjAzNGZkM2JkZDhmZTA3MTI2MDNmODQ2M2YyNjRk`

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-281 songs - 16 hr 0 min
+282 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 | 2023-12-12 |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 | 2023-09-21 |
+| [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-02-28 |  |
 | [Chehra 2.0](https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 4:07 | 2023-10-06 | 2023-11-22 |
 | [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 | 2023-07-04 |
 | [Chhora Kyun](https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw) | [SURAJJ](https://open.spotify.com/artist/4yzeHzQ6XvpEq2FR1b6l4S) | [Chhora Kyun](https://open.spotify.com/album/72LLod1dP7uQjLYIBpOn3d) | 3:54 | 2023-07-24 | 2023-09-22 |
@@ -284,7 +285,7 @@
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-21 |
 | [Yahi Sach Hai](https://open.spotify.com/track/3dpvuS1Kow72xFcThRX3X9) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [Yahi Sach Hai](https://open.spotify.com/album/0dQUjoVuziFkNaoeDMR1RA) | 6:14 | 2023-06-19 | 2023-07-07 |
 | [Ye Sama](https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv) | [Muzaffer](https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm) | [Ye Sama](https://open.spotify.com/album/57VlJwy79d6s3pkCcqsvvn) | 3:23 | 2023-05-17 | 2023-06-24 |
-| [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 |  |
+| [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 | 2024-02-29 |
 | [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 | 2023-12-07 |
 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 | 2023-12-01 |  |
 | [Yeh Shaam \- Piano Version](https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 3:55 | 2024-01-19 |  |

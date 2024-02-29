@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-140 songs - 13 hr 56 min
+141 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-10-06 |  |
 | [Nuke](https://open.spotify.com/track/2wYlRSjDLTmSMcLSbqigsI) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/3DevhUgrKtw53hNSxJhgkY) | 5:45 | 2023-10-06 |  |
 | [On My Own](https://open.spotify.com/track/4oR1pt0eXqGjrJRgzwdqkD) | [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [On My Own](https://open.spotify.com/album/6s3cZJUBzEe4IRdFHXWRrY) | 6:50 | 2023-10-06 |  |
-| [One Mind \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/2Jzo3rKFqgAAWSJ4aLE1kX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [One Mind \(Jerome Isma\-Ae Remix\)](https://open.spotify.com/album/68Fxs0bqGVNudd2gISplaK) | 3:47 | 2023-03-27 |  |
+| [One Mind \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/2Jzo3rKFqgAAWSJ4aLE1kX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [One Mind \(Jerome Isma\-Ae Remix\)](https://open.spotify.com/album/68Fxs0bqGVNudd2gISplaK) | 3:47 | 2023-03-27 | 2024-02-29 |
+| [One Mind \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5jA1gioaR5rmcaWTA9AjBD) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [One Mind \(Jerome Isma\-ae Remix\)](https://open.spotify.com/album/3vxxjhWC51cxRVqSP12hvl) | 3:47 | 2023-10-06 |  |
 | [Otherdisco](https://open.spotify.com/track/2XcqzuUxFftszDDr4FQSlZ) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Otherdisco](https://open.spotify.com/album/3WeCDuUATWu7T1pQIpoWkF) | 6:02 | 2023-03-27 |  |
 | [Paradiesvogel](https://open.spotify.com/track/4cakjwAhq3M3kSYGs4noT2) | [Tocadisco](https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe) | [Paradiesvogel EP](https://open.spotify.com/album/4mNvGFRQZL5ouaBsIPjWoz) | 7:27 | 2022-07-23 | 2023-10-07 |
 | [Phonogene](https://open.spotify.com/track/79q4IDQiMnIUbNQNHCmMjA) | [Guido Cusani](https://open.spotify.com/artist/4mDZCUzA1j7a38Um1YpN1s) | [Phonogene](https://open.spotify.com/album/1tiYcSQtgxF6ZVwrNywmju) | 7:28 | 2022-07-23 | 2023-10-07 |

@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: Teikoku Kissa\(帝国喫茶\)　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,331 songs - 3 day 11 hr 28 min
+1,334 songs - 3 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [All the best to you](https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [All the best to you](https://open.spotify.com/album/712xvsOZfCsT6WqU3Uo0y7) | 4:36 | 2023-09-20 | 2023-10-13 |
 | [All the best to you](https://open.spotify.com/track/11mjDfy7LLfPCKw8HH1NwA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [All the best to you](https://open.spotify.com/album/3M97FptKdqBzgXtzg64ALJ) | 4:36 | 2023-09-20 | 2023-09-21 |
 | [Alone](https://open.spotify.com/track/72OWeSElexd0PQCsJJsx8c) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Alone](https://open.spotify.com/album/0iRBUigZih92BXcPofuy5h) | 3:12 | 2023-04-25 | 2023-05-26 |
+| [Along the long journey](https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Along the long journey](https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb) | 4:05 | 2024-02-28 |  |
 | [Amateras](https://open.spotify.com/track/3d3stxYuh7C03hbqGP5iSo) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Amateras](https://open.spotify.com/album/0T5x4ZdEfiDPF2bE66Fzv4) | 4:12 | 2024-02-28 |  |
 | [Ammonite](https://open.spotify.com/track/1BuXgUwI7GM44ZjuqRDDjI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Ammolite](https://open.spotify.com/album/4TelhTcG92OqIhegkAFu9w) | 4:04 | 2023-09-05 | 2023-10-06 |
 | [and](https://open.spotify.com/track/0XmaSIhZAwrHEoOyQuW2TF) | [Bentham](https://open.spotify.com/artist/0H2jVxlNYBooHvrB3J8RGu) | [and](https://open.spotify.com/album/0YG9XCu9mKNg8EE96CRRH1) | 3:59 | 2023-07-11 | 2023-08-23 |
@@ -299,7 +300,8 @@
 | [I Say No](https://open.spotify.com/track/2yRFTBM5biL3TfJ8HPnf7D) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [I Say No](https://open.spotify.com/album/3NVbXwZeXJqftrmXA3llNj) | 3:27 | 2023-06-20 | 2023-08-04 |
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-16 | 2023-04-12 |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 | 2023-06-07 |
-| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-28 |  |
+| [IAI](https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo) | 3:03 | 2024-02-28 |  |
+| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-28 | 2024-02-29 |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-07 |
 | [Ikki](https://open.spotify.com/track/0qvJGTLxTcwKAODkm3k6k0) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Ikki](https://open.spotify.com/album/57QYSkgg5gqybUe1ZyKFlv) | 3:13 | 2024-01-04 | 2024-02-07 |
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Ima Wo Ikirunoda.](https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y) | 4:34 | 2023-01-13 | 2023-02-01 |
@@ -353,6 +355,7 @@
 | [LAST PARADISE](https://open.spotify.com/track/3TSQBufd7cUzhn7WKy5DWd) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:40 | 2023-07-11 | 2023-07-13 |
 | [LAST PARADISE](https://open.spotify.com/track/5SfXOoYk181gFxteYvmGSo) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:40 | 2023-07-11 | 2023-09-22 |
 | [Last Supper](https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Last Supper](https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu) | 3:20 | 2023-11-21 | 2023-12-27 |
+| [Laundry](https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Tenshi datta janaika](https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x) | 3:26 | 2024-02-28 |  |
 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 | 2023-04-05 |
 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 | 2023-08-15 | 2023-09-20 |
@@ -757,7 +760,7 @@
 | [ことほぎ](https://open.spotify.com/track/5bNzSOlYpTNdTm5aZMgi8F) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ことほぎ](https://open.spotify.com/album/04muYXXquLz6xuOgh89zZv) | 3:21 | 2023-04-25 | 2023-06-30 |
 | [このままじゃ](https://open.spotify.com/track/2HIp2q3CAjJTxSsVfEKlni) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [SPIRAL](https://open.spotify.com/album/3YS2w784zqJBCAVGbsubJW) | 4:33 | 2023-03-14 | 2023-03-25 |
 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 | 2024-01-23 |  |
-| [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-28 |  |
+| [この長い旅の中で](https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [この長い旅の中で](https://open.spotify.com/album/3dlzBxgrZRZIaSboFyTloa) | 4:05 | 2024-02-28 | 2024-02-29 |
 | [さくら色](https://open.spotify.com/track/5A7ERS6fFumxylYQehLAWS) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [わたしのノクターン](https://open.spotify.com/album/21f4jp3g8EpGOxtboyQ62R) | 3:52 | 2023-01-24 | 2023-01-26 |
 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 | 2023-12-03 | 2024-01-17 |
 | [さびしくなかった](https://open.spotify.com/track/5fWSVyq6kagKHex5EHBO85) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 4:30 | 2023-05-23 | 2023-07-05 |
@@ -1010,7 +1013,7 @@
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2023-09-26 | 2023-09-28 |
 | [ラブソングがいらない君へ](https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ラブソングがいらない君へ](https://open.spotify.com/album/5CaIpCc1HiuulQWhhbtIDv) | 3:43 | 2024-01-16 | 2024-01-18 |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
-| [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-28 |  |
+| [ランドリー](https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [天使だったじゃないか](https://open.spotify.com/album/2EfOlEm3EVfDX5XBw6baFj) | 3:26 | 2024-02-28 | 2024-02-29 |
 | [ランドルート](https://open.spotify.com/track/47tKkpSAFzzn3uHxiHbqpZ) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [ランドルート](https://open.spotify.com/album/4eb6mUK9phvO6Jcn1CIcEo) | 3:07 | 2023-07-04 | 2023-07-06 |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-07 | 2023-09-21 |
 | [リカ](https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [FANFARE \(Deluxe Version\)](https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT) | 3:38 | 2023-09-20 | 2024-02-28 |

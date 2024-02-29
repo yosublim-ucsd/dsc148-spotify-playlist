@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Bad Bunny",
-  "num_followers": 10151,
+  "num_followers": 10175,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTBjNmVlZWJhOWQ4MDgxYWYyNjhjNWZiNjA0YjllZjRmYTNkYzg4",
+  "snapshot_id": "MCxkOGE3YjZiNzU2MDY4ZTI3NDczOGNiYjc4YWQ0OTg1MGFmNDQwMzZh",
   "tracks": [
     {
       "added_at": "2023-10-19 21:46:14",
@@ -127,26 +127,6 @@
     {
       "added_at": "2023-10-19 21:46:14",
       "album": {
-        "name": "Netflixxx",
-        "url": "https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 219007,
-      "name": "Netflixxx",
-      "url": "https://open.spotify.com/track/4WDSPCfr60K0HI7YYhEHKu"
-    },
-    {
-      "added_at": "2023-10-19 21:46:14",
-      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "added_at": "2023-10-19 21:46:14",
+      "album": {
+        "name": "Netflixxx",
+        "url": "https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 219007,
+      "name": "Netflixxx",
+      "url": "https://open.spotify.com/track/4WDSPCfr60K0HI7YYhEHKu"
     },
     {
       "added_at": "2023-10-19 21:46:14",

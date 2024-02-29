@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,740 songs - 3 day 20 hr 11 min
+1,741 songs - 3 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Ancolie](https://open.spotify.com/track/4QZ8biWCuhYgQTkRgJF9vo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:10 | 2021-03-27 | 2021-03-29 |
 | [Angle mort](https://open.spotify.com/track/1s5VDexKohgvhplbdpYKBk) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:09 | 2022-01-29 | 2022-01-31 |
 | [Ani Kuni \- Edit](https://open.spotify.com/track/0Ae5IeIdyaIzp43cdXXtZc) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 2:49 | 2021-07-10 | 2021-10-06 |
-| [Animal](https://open.spotify.com/track/1H0pRoGBLCkgNqMaoXvva5) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:37 | 2024-02-17 |  |
+| [Animal](https://open.spotify.com/track/1H0pRoGBLCkgNqMaoXvva5) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:37 | 2024-02-17 | 2024-02-29 |
 | [Anonymat](https://open.spotify.com/track/4rQo9XZQXP7n9VaXRKQVU7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:43 | 2021-03-27 | 2021-03-29 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-09-22 | 2024-01-17 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-09-12 | 2023-05-04 |
@@ -1680,6 +1680,7 @@
 | [Vrai / Faux](https://open.spotify.com/track/7c8hPeNvH3bWnQPqaVBIst) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:55 | 2021-11-14 | 2021-11-20 |
 | [Vroum Vroum](https://open.spotify.com/track/6sRPU30pj9A6G1pBXqzQkM) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Vroum Vroum](https://open.spotify.com/album/0cPGWnwGhDm4SAV8h2Ot6l) | 3:06 | 2021-03-27 | 2021-06-13 |
 | [Vroum Vroum](https://open.spotify.com/track/1TmuaS1lnCUf7yCLk2hwDT) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Dernier souffle](https://open.spotify.com/album/0pMvd6rQonhDJT4ELR9GJE) | 3:06 | 2021-06-13 | 2021-07-25 |
+| [Vulgaire](https://open.spotify.com/track/77Yu4sCHueO0bSJZZ5Dx31) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 1:22 | 2024-02-28 |  |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2021-12-05 | 2022-12-04 |
 | [VVV](https://open.spotify.com/track/0Q1ZthgaRH9sLIHHDrzX4X) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ULTRA](https://open.spotify.com/album/6BpbeB9VUpEBID5maQ8sHl) | 2:55 | 2021-03-27\* | 2021-03-27 |
 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 | 2021-12-05 | 2022-05-27 |

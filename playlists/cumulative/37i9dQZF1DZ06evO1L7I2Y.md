@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-36 songs - 2 hr 3 min
+37 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Stephen King](https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2SixEfADecvtERCCUXwQej) | 2:44 | 2024-01-05 |  |
 | [Stephen King](https://open.spotify.com/track/6vM1FPqGxt1sQlI2ScEkfy) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2mKT9CA3s1pt9NMQNW7EV8) | 2:44 | 2023-12-30 | 2024-01-06 |
 | [Stop Time](https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [40˚.40](https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2) | 2:39 | 2023-12-30 |  |
+| [Tanto Faz](https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Tanto Faz](https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B) | 3:35 | 2024-02-28 |  |
 | [Teve uma garota](https://open.spotify.com/track/1ObqgVJGDGfwnbyeeLax4K) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:48 | 2024-01-02 | 2024-01-11 |
 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 | 2023-12-30 |  |
 

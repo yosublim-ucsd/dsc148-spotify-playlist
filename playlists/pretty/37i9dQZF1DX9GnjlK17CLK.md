@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,504 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,652 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 59 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
 | 60 | [You Don't Love Me](https://open.spotify.com/track/5VGPp0EyyQqUKbtEDxMmUe) | [Willie Cobbs](https://open.spotify.com/artist/3r48J3gAlltGN7xQad6J0Q) | [Fernwood Rhythm 'N' Blues From Memphis](https://open.spotify.com/album/6qqJGRcDQjmfiIxNcyvEsh) | 2:36 |
 
-Snapshot ID: `MCxkY2Q1ZTZhYzVmN2IyOTZhYjNhMTcwNmIzZTc4OGU2ZWNmYjI3MTkx`
+Snapshot ID: `MCw4Y2ZhZDA1OTc4MWMzZGMwNmVmNDkwYTlhNzdiZTRhZjBiZWY0YmFl`

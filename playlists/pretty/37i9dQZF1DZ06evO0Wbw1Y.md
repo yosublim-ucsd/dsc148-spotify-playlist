@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,192 likes - 41 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,200 likes - 41 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 10 | [Ya Te Perdoné](https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Te Perdoné](https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG) | 3:41 |
 | 11 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 |
 | 12 | [Prometo Olvidarte](https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:38 |
-| 13 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 |
+| 13 | [Besos En La Herida \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:34 |
 | 14 | [Te Dejo Entrar](https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Te Dejo Entrar](https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp) | 3:12 |
 | 15 | [Apaga Y Vámonos](https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:28 |
 | 16 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
-| 17 | [Besos En La Herida \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:34 |
+| 17 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 |
 | 18 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 |
 | 19 | [Volverte a Oír](https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:42 |
 | 20 | [Yo Te Quiero Más](https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Yo Te Quiero Más](https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz) | 2:57 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 40 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
 | 41 | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR) | 3:03 |
 
-Snapshot ID: `Mjg0ODM5MjMsMDAwMDAwMDBiZGYxMDIwMWEzMTFkNTgxODliMWI4MTVjNTVhNTA4Ng==`
+Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDA5MDc1YzZhMWU4NjVmOWY0MmI5M2I5NjZhNjdiNjNkZA==`

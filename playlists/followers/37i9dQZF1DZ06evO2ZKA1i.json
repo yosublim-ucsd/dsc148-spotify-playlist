@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 283692,
+  "2024-02-29": 283745,
   "date_first_scraped": "2022-09-18",
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
   "name": "This Is Deep Purple",
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 278826,
       "name": "Under The Gun",
       "url": "https://open.spotify.com/track/3tWcr1XvZumZ8a6MenaEq3"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 235960,
       "name": "Wasted Sunsets",
       "url": "https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU"

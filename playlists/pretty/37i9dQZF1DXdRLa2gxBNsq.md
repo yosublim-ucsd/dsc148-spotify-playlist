@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,307 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,341 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 83 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 84 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 85 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
-| 86 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
-| 87 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
-| 88 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 |
+| 86 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 |
+| 87 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
+| 88 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 |
 
-Snapshot ID: `MCwzMjY1MGY2NDlhZGVlYmFjY2FjN2ZkODE1ZjdhYzc1ZjBiZGQ1MmJj`
+Snapshot ID: `MCxhMzhjODFiNmVjMzQxMDcwMmY5NGY4ZDIzZjYwYWVkNzQyMzUzYWMw`

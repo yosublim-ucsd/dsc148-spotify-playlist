@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 398150,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"

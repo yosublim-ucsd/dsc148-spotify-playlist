@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-93 songs - 5 hr 52 min
+94 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Tobe! GUNDAM](https://open.spotify.com/track/3aCxcbgfyNEde7l1zOFr97) | [Kou Ikeda](https://open.spotify.com/artist/1cK45E2ZB2IHyyUfC0eim8), [Feeling Free](https://open.spotify.com/artist/1JbNaQwAJWS3XUO3iV7yKK), [Music Creation](https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2) | [Tobe! GUNDAM](https://open.spotify.com/album/0KvKfTF2UudEyBlifDNYWU) | 2:45 | 2022-06-21 |  |
 | [Touch](https://open.spotify.com/track/1YgsafBW9O7vhTjeeSuapN) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/19XENSrORBPh2v5EVAOtI1) | 3:13 | 2022-06-21 |  |
 | [Touch](https://open.spotify.com/track/4aFneI3IWBoVUQAVQq3DBt) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/7xPNqHgWm3mNT859JSRy8I) | 3:14 | 2022-06-21 | 2022-11-14 |
-| [TRANSFORMAR ～トランスフォーマー～](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 | 2021-10-07 |  |
+| [TRANSFORMAR ～トランスフォーマー～](https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO) | [下成佐登子](https://open.spotify.com/artist/6wUc7IOOkKB2WJhZL1wmvy) | [日本テレビ 懐かしのアニメソング集](https://open.spotify.com/album/5m3o3dKcH1JpkzkXnVUtqT) | 3:40 | 2021-10-07 | 2024-02-29 |
+| [TRANSFORMER](https://open.spotify.com/track/0ynybWFbrkKDVevzmhaxTp) | [Satoko Shimonari](https://open.spotify.com/artist/69CRduhdZhgBVOhNOxzD5u) | [Nippon Television Anime Song Collection](https://open.spotify.com/album/6q92YsujqyNkZcG8YiD2dE) | 3:40 | 2022-06-21 |  |
 | [Ushiroyubi Sasare Gumi](https://open.spotify.com/track/00DIQnX8LllF7OWKGuawqI) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | ["Ushiroyubi Sasare Gumi + Ushirogami Hikare Tai" Singles Complete](https://open.spotify.com/album/6wUPyUGeOSrAd4P2cYgJhk) | 4:21 | 2022-06-21 |  |
 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 | 2022-06-21 |  |
 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/3a4GHXjh3U6FWsINJtk2zD) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [E\-Area + Single Collection](https://open.spotify.com/album/35x04d6gCX2LJ9EDGrjA0J) | 3:22 | 2022-06-21 | 2022-11-13 |

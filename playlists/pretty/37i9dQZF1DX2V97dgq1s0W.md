@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Jaz Karis & Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,743 likes - 81 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,849 likes - 81 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 80 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 |
 | 81 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 
-Snapshot ID: `MCwyZjY5NmZmNGQwMDNlMWI0OTNhODQ1ZDIyZTA5MmI1MzZiOTYwMmJk`
+Snapshot ID: `MCwwMDExZTQ4ZDNhYjVlNTdmN2Y3MTBlYjQ1MzgxZjUwZTc3NDhlZWQx`

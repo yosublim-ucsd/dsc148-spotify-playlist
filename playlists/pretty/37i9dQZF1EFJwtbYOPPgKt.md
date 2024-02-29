@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 49 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
 | 50 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 
-Snapshot ID: `Mjg0ODQ3NjAsMDAwMDAwMDBlYTdkNDEyMjc0NGI4OThlNzU5ZmVjMWNkNjhjNTlmOA==`
+Snapshot ID: `Mjg0ODYyMDAsMDAwMDAwMDA1MTI0YjMwMDUwZTI0Y2I3OGIyMTVhNzExNjkyYTA2Ng==`

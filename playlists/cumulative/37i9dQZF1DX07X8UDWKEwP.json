@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
@@ -4730,6 +4730,28 @@
       "duration_ms": 202360,
       "name": "ORGULLO",
       "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
+    },
+    {
+      "album": {
+        "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267130,
+      "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
+      "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
     },
     {
       "album": {

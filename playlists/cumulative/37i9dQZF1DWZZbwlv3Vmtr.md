@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-892 songs - 1 day 10 hr 42 min
+893 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Shape](https://open.spotify.com/track/5teLw6UBWsDFgcK8U94qKL) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Shape](https://open.spotify.com/album/24JwjgSiYN4aUv08jbFC5C) | 1:48 | 2022-11-11 | 2022-12-14 |
 | [Shapes](https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Kairoh](https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2) | [Shapes](https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3) | 2:20 | 2023-04-03 | 2023-09-29 |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
+| [Shine Again](https://open.spotify.com/track/7kqy1v6tydmrfwrnJLMuaa) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Shine Again](https://open.spotify.com/album/5pOhVfE6GwH6HwnTU8WZTs) | 2:26 | 2024-02-23 |  |
 | [Shine with Me](https://open.spotify.com/track/35h2Ko0ci9Dt4RazCs46w5) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Shine with Me](https://open.spotify.com/album/6rKFLUK5GjsoyhpW8JS35i) | 4:45 | 2024-02-02 |  |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2022-04-15 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2022-04-15 | 2022-08-12 |
@@ -704,7 +705,7 @@
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-11 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-04-15 | 2022-05-14 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
-| [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 |  |
+| [Spoiler Alert](https://open.spotify.com/track/3Yabo5fHrlueQUfOtjxTU9) | [Chetco Effect](https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7) | [Spoiler Alert](https://open.spotify.com/album/50Ymg0VYsiVGcU8TBpukRm) | 2:23 | 2023-07-19 | 2024-02-29 |
 | [Spring Magic](https://open.spotify.com/track/3UNpc4XLwtOrJeb2GYrNkI) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Spring Magic](https://open.spotify.com/album/53eqZjWTXiRPVSPKWlkW15) | 2:42 | 2022-06-24 | 2022-09-24 |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2022-04-15 | 2022-06-10 |
 | [Stagnant](https://open.spotify.com/track/1tr7DYuOJfmscDtKvCmaWa) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Glass Haus](https://open.spotify.com/album/6BAtqPkVlnt0kvwSDFBDpT) | 2:14 | 2022-04-15 | 2023-11-24 |

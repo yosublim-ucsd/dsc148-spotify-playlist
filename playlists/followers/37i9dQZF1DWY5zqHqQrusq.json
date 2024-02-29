@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 7658,
+  "2024-02-29": 7668,
   "date_first_scraped": "2022-11-16",
   "description": "Chill, take a long walk and clear your mind",
   "name": "Barefoot and Free",
@@ -529,10 +529,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 176500,
       "name": "Kitanda Baridi",
       "url": "https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5"
+    },
+    {
+      "album": {
+        "name": "Kitanda Baridi",
+        "url": "https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI"
+      },
+      "artists": [
+        {
+          "name": "Nasibi",
+          "url": "https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Kitanda Baridi",
+      "url": "https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx"
     },
     {
       "album": {

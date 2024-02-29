@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 2050,
+  "2024-02-29": 2055,
   "date_first_scraped": "2023-12-14",
   "description": "Music from \"YU\u2606YU\u2606HAKUSHO\" series. \u5b9f\u5199\u5316\u3082\u8a71\u984c\u306e\u4eba\u6c17\u30a2\u30cb\u30e1\u300c\u5e7d\u2606\u904a\u2606\u767d\u66f8\u300d\u4e3b\u984c\u6b4c\u3001\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30bd\u30f3\u30b0\u3068\u4eba\u6c17\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3092\u4e00\u6c17\u306b\u304a\u5c4a\u3051\uff01\u00a9Y.T.90-94/P,S",
   "name": "YU\u2606YU\u2606HAKUSHO \u5e7d\u2606\u904a\u2606\u767d\u66f8",
@@ -90,6 +90,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Music Battle Edition 2",
+        "url": "https://open.spotify.com/album/5XU1hy1Y2Zi9AqjE50YaGI"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Kuwabara(CV:Shigeru Chiba)",
+          "url": "https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317960,
+      "name": "Dachi",
+      "url": "https://open.spotify.com/track/0gcEceZ8t9iWXXXc5gD2p2"
+    },
+    {
+      "album": {
         "name": "Yu Yu Hakusho - Collective Songs -",
         "url": "https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4"
       },
@@ -101,7 +119,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 318333,
       "name": "Dachi",
       "url": "https://open.spotify.com/track/3GqDwEa0Svly6ACCJtIpVZ"
@@ -1160,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Original Soundtrack Vol.2 Makai no Tobira Hen",
+        "url": "https://open.spotify.com/album/3YjyiPZG79gyQGaxnFQaai"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Honma",
+          "url": "https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236613,
+      "name": "Yusuke Power Up!",
+      "url": "https://open.spotify.com/track/2VjUI6jSJXWohU4OgIqcMW"
+    },
+    {
+      "album": {
         "name": "\u5e7d\u2606\u904a\u2606\u767d\u66f8 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d0\u30c8\u30eb\u7de82",
         "url": "https://open.spotify.com/album/1VlSaoBHc9eUATnUKjGCJy"
       },
@@ -1409,7 +1445,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 236613,
       "name": "\u5e7d\u52a9\u30d1\u30ef\u30fc\u30a2\u30c3\u30d7!",
       "url": "https://open.spotify.com/track/5WH89dniVjsSZEACH6VrEt"

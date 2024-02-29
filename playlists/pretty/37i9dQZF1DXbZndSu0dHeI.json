@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 208571,
+  "num_followers": 208681,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzRhNGFiMWQxNDExY2FjM2Y5Zjk0OWQyNTc5YWM3OGEyY2E5ODJi",
+  "snapshot_id": "MCxmYTQ1NjQ0YzhhZDlkYmM3YTZjNmM4ZDZlYjhmNzlhNGE5NzQ0NjU0",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -805,20 +805,20 @@
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
-      "added_at": "2024-02-21 11:44:23",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -837,20 +837,20 @@
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2024-02-21 11:44:23",
       "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
+      "duration_ms": 235872,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 289800,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 235872,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU"
     },
     {
       "added_at": "2024-02-21 11:44:23",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Inner World Peace",
@@ -1305,20 +1289,36 @@
       "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
+      "added_at": "2024-02-21 11:36:35",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
         }
       ],
-      "duration_ms": 241168,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx"
+    },
+    {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-02-03 00:30:16",
       "album": {
-        "name": "Wisecrack",
-        "url": "https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT"
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
       },
       "artists": [
         {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 296129,
-      "name": "Coolest fucking bitch in town",
-      "url": "https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ"
+      "duration_ms": 241168,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

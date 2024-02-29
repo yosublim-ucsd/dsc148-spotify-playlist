@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 2846,
+  "2024-02-29": 2847,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6\">Mariah Carey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Mariah Carey",
@@ -2778,6 +2778,24 @@
     },
     {
       "album": {
+        "name": "The Rarities",
+        "url": "https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Loverboy - Firecracker - Original Version, 2001",
+      "url": "https://open.spotify.com/track/0g7ri4rS3G1Bu76aBvWMtE"
+    },
+    {
+      "album": {
         "name": "Charmbracelet",
         "url": "https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu"
       },
@@ -5017,6 +5035,28 @@
       "duration_ms": 237600,
       "name": "X-Girlfriend",
       "url": "https://open.spotify.com/track/5bswESpm0TJQpR8vLdCh6x"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and? (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361"
     },
     {
       "album": {

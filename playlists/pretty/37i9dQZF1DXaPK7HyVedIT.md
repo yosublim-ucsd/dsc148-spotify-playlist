@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,646 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,701 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 19 | [DEEPER](https://open.spotify.com/track/1BxtUxsBmTxUOdH2f1LVXx) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [DEEPER](https://open.spotify.com/album/4xft6Pa0NAhIAJTJzccqHZ) | 3:48 |
 | 20 | [Tudum](https://open.spotify.com/track/5fSJFW86f6OZcmgjSlvZnS) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Tudum](https://open.spotify.com/album/1wnOlrxHzAER2yIrhBO0ag) | 2:29 |
 | 21 | [Don't Know Why](https://open.spotify.com/track/5lfy2MdhB3VA9c4680fY0j) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Don't Know Why](https://open.spotify.com/album/3OfIf2Iv2M2SaXcpdtJH8i) | 2:32 |
-| 22 | [2 Much 2 Handle \(Cheyenne Giles Remix\)](https://open.spotify.com/track/5PRprahs97yR5uwQkpgz4L) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 3:07 |
+| 22 | [2 Much 2 Handle \(Cheyenne Giles Remix\)](https://open.spotify.com/track/5RHPVQCHefm78e7yjJRdQP) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/73RBjRZjJms5q8X0BHnP9g) | 3:07 |
 | 23 | [Woof Woof](https://open.spotify.com/track/5tGEjWtqMOJqoybZGK0Yto) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Woof Woof](https://open.spotify.com/album/2Tan9ldkwsKljbiCN4MHOW) | 3:46 |
 | 24 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 |
 | 25 | [Ridin' Dirty](https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [NXNJAS](https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [Ridin' Dirty](https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 64 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 65 | [Speak Up \- Slow Motion, Duarte Remix](https://open.spotify.com/track/2zgaqDf1CttaQa7BRPgJpI) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Speak Up \(Slow Motion, Duarte Remix\)](https://open.spotify.com/album/5mS4lf4iTrTdwxiCIgdI3Q) | 4:18 |
 
-Snapshot ID: `MCw1YTQ5ZjU5NTBmMTYxZTM5MDY3MDY2YTZiMjJlMGE1NTZmOWY4NWY3`
+Snapshot ID: `MCxkNDM1M2Y5MTRkYmM1Nzk5ZThkZDE5MjlhOThjZTcxY2QyMTJlNWQx`

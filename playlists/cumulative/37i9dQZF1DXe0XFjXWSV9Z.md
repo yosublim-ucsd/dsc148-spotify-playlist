@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-131 songs - 8 hr 10 min
+132 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,11 @@
 | [Cumbia Psicodelica \(Dub\)](https://open.spotify.com/track/09V3pHWcxfC2Cf00loUtWj) | [Agrupacion Ilegal Los Imparciales](https://open.spotify.com/artist/60NkGg5tp5ElDdKNfhJbMT) | [Media Hora de Cumbia](https://open.spotify.com/album/3jV7I7oR1eRf71cU8VN3PP) | 4:57 | 2021-10-20 |  |
 | [Cumbia Triste](https://open.spotify.com/track/2NagSRAuRKhczwC1hUhtB1) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 3:51 | 2022-06-02 |  |
 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 | 2021-10-20 | 2023-10-06 |
+| [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 | 2021-10-20 |  |
 | [Danza Del Millonario](https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Canibalismo](https://open.spotify.com/album/4QR28XDfACXN16nfQDWLRp) | 3:51 | 2021-10-20 |  |
 | [Desaparecer](https://open.spotify.com/track/5bqVSvkVpqq9UavaeDpIgP) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Quién Es Quién](https://open.spotify.com/album/7irXgfKsuVDuAoZl7pxx2Q) | 4:39 | 2021-10-20 | 2023-12-21 |
 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 | 2022-04-09 |  |
-| [Echo en Mexico](https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 4:17 | 2021-10-20 | 2024-02-28 |
+| [Echo en Mexico](https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 4:17 | 2021-10-20 |  |
 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 | 2021-10-20 |  |
 | [El Bicho](https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:49 | 2021-10-20 |  |
 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 | 2021-10-20 |  |
@@ -97,13 +98,13 @@
 | [Mientras Unos Mueren](https://open.spotify.com/track/4Au25kOuJcI84LrekAcikd) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 3:44 | 2021-10-20 | 2023-10-06 |
 | [Mil Versiones](https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Mil Versiones](https://open.spotify.com/album/5icUeEDMPIULprCFm2hnh7) | 2:25 | 2021-10-20 |  |
 | [Ninfa de la Villa](https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:09 | 2021-10-20 |  |
-| [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 | 2021-10-20 |  |
+| [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 | 2021-10-20 | 2024-02-29 |
 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 | 2021-10-20 |  |
 | [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 | 2021-10-20 | 2024-01-16 |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 |  |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 |  |
-| [OVNI Cumbia](https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [OVNI Cumbia](https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP) | 3:46 | 2023-09-25 |  |
+| [OVNI Cumbia](https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [OVNI Cumbia](https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP) | 3:46 | 2023-09-25 | 2024-02-29 |
 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2021-10-20 |  |
 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 | 2021-10-20 |  |
 | [Paso Palante](https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:05 | 2021-10-20 | 2023-09-26 |

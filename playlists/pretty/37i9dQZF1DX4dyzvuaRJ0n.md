@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Chris Lake & FISHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,899,522 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,899,763 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 58 | [buttons!](https://open.spotify.com/track/5ekfEEnkAHxrn2KNvyZg7E) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [buttons!](https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo) | 3:59 |
 | 59 | [Cutting Loose](https://open.spotify.com/track/6n34hL7CBdTVeekAeprHow) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Cutting Loose](https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF) | 3:04 |
 | 60 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 |
-| 61 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/31g7JATEtYU3uIJBQAc2cW) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 4:41 |
+| 61 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 |
 | 62 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 |
 | 63 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 |
 | 64 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [how2fly](https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG) | 4:01 |
 | 75 | [Me Me Me](https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Me Me Me EP](https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y) | 5:38 |
 
-Snapshot ID: `MCwxNGE0M2UzZDRkZjVjYjBiOTNjZjZkMTZjY2I3MGRhNjNjNDg4NjZh`
+Snapshot ID: `MCwwZGFlNDdhOWI4ZTI3YWQ1NjdiNzdkNTFlNGQ2YTgxZGQxMjhjNWYz`

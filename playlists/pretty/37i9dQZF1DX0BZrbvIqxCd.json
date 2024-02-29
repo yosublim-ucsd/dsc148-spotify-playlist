@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544719,
+  "num_followers": 544774,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDA3ZWY2MTYzMThmOWQxMWZjYTRmMmMzYzRmZmZkMTRlOTVkZGM3",
+  "snapshot_id": "MCxmMWM4YjhmY2FiNjNhOGFmMmQ2MWVlNmJhYTY3MTBjNmYxMzVlMzg5",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "When Your Heart Stops Beating",
         "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -867,22 +867,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Rented World",
-        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I Don't Wanna Be An Asshole Anymore",
-      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "She's A God",
         "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 200330,
       "name": "She's A God",
       "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Rented World",
+        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I Don't Wanna Be An Asshole Anymore",
+      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "Happy Judgement Day",
-      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Blow in the Wind",
         "url": "https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 150573,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213010,
+      "name": "Happy Judgement Day",
+      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1341,20 +1341,24 @@
       "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
+      "added_at": "2021-07-08 22:59:55",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV"
       },
       "artists": [
         {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        },
+        {
+          "name": "Joe Talbot",
+          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
         }
       ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
+      "duration_ms": 164485,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1405,24 +1409,20 @@
       "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
       "artists": [
         {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
-        },
-        {
-          "name": "Joe Talbot",
-          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 164485,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
     },
     {
       "added_at": "2020-11-20 21:27:18",

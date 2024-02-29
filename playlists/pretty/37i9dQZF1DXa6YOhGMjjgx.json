@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 471967,
+  "num_followers": 471971,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3",
+  "snapshot_id": "MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Centipede",
         "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "STATUES (v2)",
-        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
-      },
-      "artists": [
-        {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
-        }
-      ],
-      "duration_ms": 293354,
-      "name": "STATUES (v2)",
-      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "STATUES (v2)",
+        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 293354,
+      "name": "STATUES (v2)",
+      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
-      "album": {
-        "name": "KILLJOY",
-        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
-    },
-    {
       "added_at": "2023-09-08 20:23:35",
       "album": {
         "name": "More Than This",
@@ -883,6 +867,22 @@
       "duration_ms": 176119,
       "name": "Make A Dime",
       "url": "https://open.spotify.com/track/5BEuayJZNsTDcjJEnUiLsN"
+    },
+    {
+      "added_at": "2023-10-05 15:20:21",
+      "album": {
+        "name": "KILLJOY",
+        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "i heard they found you face down inside your living room",
         "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 164826,
       "name": "Applause",
       "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Rafters",
         "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 229637,
       "name": "Rafters",
       "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2023-09-08 20:23:35",

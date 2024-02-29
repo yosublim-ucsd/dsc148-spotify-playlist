@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 39545,
+  "2024-02-29": 39560,
   "date_first_scraped": "2022-06-02",
   "description": "Be inspired and let the music heal your soul and uplift your spirits.",
   "name": "Sing His Praises",
@@ -453,10 +453,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 250976,
       "name": "Far Greater Love",
       "url": "https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj"
+    },
+    {
+      "album": {
+        "name": "Far Greater Love",
+        "url": "https://open.spotify.com/album/3ueRjNm3iHHUEc4Gd48xLu"
+      },
+      "artists": [
+        {
+          "name": "Arman Ferrer",
+          "url": "https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7"
+        },
+        {
+          "name": "Toto Sorioso",
+          "url": "https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250976,
+      "name": "Far Greater Love",
+      "url": "https://open.spotify.com/track/1kAT4F1NJDWbqtnfrc5T0O"
     },
     {
       "album": {
@@ -923,6 +945,24 @@
     {
       "album": {
         "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
+        "url": "https://open.spotify.com/album/2sHBVvktlFbQbiggZ2kT39"
+      },
+      "artists": [
+        {
+          "name": "Floyd Tena",
+          "url": "https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255915,
+      "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
+      "url": "https://open.spotify.com/track/62DGHbXNczniQqp0W8Qs0E"
+    },
+    {
+      "album": {
+        "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
         "url": "https://open.spotify.com/album/3ATRZ1qXdv6WPhWAvrDGVw"
       },
       "artists": [
@@ -933,7 +973,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 255915,
       "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
       "url": "https://open.spotify.com/track/6AYoOKOpxa6j7OaGZoGWkZ"
@@ -1775,6 +1815,24 @@
     {
       "album": {
         "name": "Showers of Love",
+        "url": "https://open.spotify.com/album/2lQyXHEwJzJ3mZlIIeOUUG"
+      },
+      "artists": [
+        {
+          "name": "Zid Yarcia",
+          "url": "https://open.spotify.com/artist/2jOoGnvtJSkXrK0Ffcfcu0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253044,
+      "name": "Showers of Love",
+      "url": "https://open.spotify.com/track/4wfFQ0Z2XrKngqkeVadmcq"
+    },
+    {
+      "album": {
+        "name": "Showers of Love",
         "url": "https://open.spotify.com/album/49Ednnj5rYeNJZgucYCTne"
       },
       "artists": [
@@ -1785,7 +1843,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 253044,
       "name": "Showers of Love",
       "url": "https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3"

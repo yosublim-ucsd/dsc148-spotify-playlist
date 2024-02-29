@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,588 likes - 70 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,613 likes - 70 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 5 | [Save My Life](https://open.spotify.com/track/1qlDfQfqMVgAIX3bGSr5EJ) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f) | [Save My Life](https://open.spotify.com/album/6YZT6tRvHJ6jGFSKVbg5tF) | 2:50 |
 | 6 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 |
 | 7 | [Indlela](https://open.spotify.com/track/1OM5jg270V0MJAWViprzUf) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN), [Nkuli Keys](https://open.spotify.com/artist/4ZM10RQ54AoqOqicXrIGmp) | [Indlela](https://open.spotify.com/album/5ApLWvuBwx6btiU1V0uIbl) | 6:54 |
-| 8 | [Swing Boat](https://open.spotify.com/track/597JMOaqGsplMsinzKHvfa) | [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Double Trouble](https://open.spotify.com/album/1HlWvnj5RfxdMjnvoBykB0) | 6:39 |
+| 8 | [Swing Boat](https://open.spotify.com/track/003RbweFDpPqQwBs9fuRA3) | [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Double Trouble](https://open.spotify.com/album/5OKzcz6a0tvvfTDelD11sZ) | 6:39 |
 | 9 | [High Places](https://open.spotify.com/track/3KfDSBOaumGB0Oqzcz9ora) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Circles EP](https://open.spotify.com/album/7z9Lzvmgfayv3gIdRlANdw) | 4:20 |
 | 10 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
 | 11 | [Lost In This Moment](https://open.spotify.com/track/3XYyUSEnO94851A0pTW28X) | [Lorenzo Dada](https://open.spotify.com/artist/3hCDIGOzWc69NzrNZGC9C1) | [Lost In This Moment](https://open.spotify.com/album/2NvbXEm18qJ4aSjKj5KeZQ) | 5:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 69 | [Wake And Return \- Acoustic Version](https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra: Acoustic](https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb) | 2:57 |
 | 70 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6LIkCbYCsPO1mfrmn4DXDQ) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:01 |
 
-Snapshot ID: `MCxkOThlNWQ3YzVkMDYwNjMzZWQ5ODQ2NTc4OGEzZDIzODZjM2NjNjYy`
+Snapshot ID: `MCw4MGQxNjUzOThjOWI4NDAwMDJlZmNkNDdhNjY1MGE2NTEzYWU1ZmU0`

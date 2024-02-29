@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-370 songs - 1 day 0 hr 1 min
+371 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bet Ain't Worth the Hand](https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:05 | 2023-06-27 |  |
 | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws) | 4:13 | 2023-01-09 | 2023-06-28 |
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-01-09 | 2023-06-28 |
-| [Beware](https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 3:09 | 2023-06-27 |  |
+| [Beware](https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 3:09 | 2023-06-27 | 2024-02-29 |
 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 | 2023-01-09 |  |
 | [Black Gold](https://open.spotify.com/track/3j30NMimTbUCiLx0LphpLQ) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Radio Music Society](https://open.spotify.com/album/0GRy0tSYoSbtuOziEDnDnZ) | 5:16 | 2023-08-15 |  |
 | [Blood Is Thicker Than Water](https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:21 | 2023-01-09 | 2023-06-28 |
@@ -66,6 +66,7 @@
 | [Cherish \- Single Version](https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:58 | 2023-01-09 |  |
 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 | 2023-06-27 |  |
 | [City of the Angels](https://open.spotify.com/track/7yokzOJMDlz8WdZz92j33G) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Naked & Warm](https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY) | 10:44 | 2023-01-09 |  |
+| [Clean Up America](https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk) | [Z.Z\. Hill](https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp) | [The Complete Hill Records Collection/United Artists Recordings, 1972\-1975](https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu) | 3:01 | 2023-08-15 |  |
 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 | 2023-06-27 |  |
 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 | 2023-01-09 | 2023-06-28 |
 | [Come into My Life \(Radio Mix\)](https://open.spotify.com/track/0cpTfK32V7XdCoOkPJI2kO) | [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Come into My Life: The Very Best of Joyce Sims](https://open.spotify.com/album/73n6TRu2pLwThwpXZiIxdP) | 3:47 | 2023-01-09 | 2023-06-28 |

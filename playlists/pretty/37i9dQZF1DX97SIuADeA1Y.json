@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 333595,
+  "num_followers": 333660,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGE2MzQ0MDhjYjNkYzBkYTkwNGFiMmNjNTk3Y2YxMzhkZmY2MjNj",
+  "snapshot_id": "MCxkMzE4NmJlMWIzZmMwYmM3YWQxZDQwZDI1ODNlOGI2YmM0ODIzZmY3",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "ONESOLO",
-          "url": "https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 156093,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "ONESOLO",
+          "url": "https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     },
     {
       "added_at": "2023-12-01 11:00:00",

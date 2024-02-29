@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Irene Del Rosario en portada. ",
-  "num_followers": 131141,
+  "num_followers": 131157,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzAzOGRjYzFlYzI5OTRhY2QxYzhlMTRhODlkYTQ2YWFkY2JkOTBl",
+  "snapshot_id": "MCxhNjdmYjdmZTU1NGExMjM2NTRlMTZkODAyYjNlOTc5NmQ3OTRjMTVj",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "\u00bfTiempo Para Qu\u00e9?",
-        "url": "https://open.spotify.com/album/0vFdLZhONSz29O1XxA1MEd"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 205778,
-      "name": "\u00bfTiempo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2d3uKiGuZp67y9FfgTTSUc"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "\u00bfTiempo Para Qu\u00e9?",
+        "url": "https://open.spotify.com/album/0vFdLZhONSz29O1XxA1MEd"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 205778,
+      "name": "\u00bfTiempo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2d3uKiGuZp67y9FfgTTSUc"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Para No Pensar en Ti",
+        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209702,
+      "name": "Para No Pensar en Ti",
+      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 157607,
       "name": "Magia",
       "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Para No Pensar en Ti",
-        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar en Ti",
-      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "NO HAY NADA M\u00c1S",
+        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
+      },
+      "artists": [
+        {
+          "name": "ARRIOLA",
+          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
+        }
+      ],
+      "duration_ms": 150891,
+      "name": "EL CHAPUL\u00cdN",
+      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "MALAMANTE (en carne viva)",
         "url": "https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 200546,
       "name": "MALAMANTE (en carne viva)",
       "url": "https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "NO HAY NADA M\u00c1S",
-        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
-      },
-      "artists": [
-        {
-          "name": "ARRIOLA",
-          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
-        }
-      ],
-      "duration_ms": 150891,
-      "name": "EL CHAPUL\u00cdN",
-      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
     },
     {
       "added_at": "2024-02-23 06:00:00",

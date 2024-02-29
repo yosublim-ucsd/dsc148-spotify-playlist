@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 479570,
+  "2024-02-29": 479880,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - India.",
   "name": "Top 50 - India",
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 241668,
       "name": "Ajab Si (From \"Om Shanti Om\")",
       "url": "https://open.spotify.com/track/2RgvvnMwtP0R2OkVZmFvnV"
@@ -3365,6 +3365,24 @@
       "duration_ms": 208250,
       "name": "Chor",
       "url": "https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT"
+    },
+    {
+      "album": {
+        "name": "Chor",
+        "url": "https://open.spotify.com/album/39noVgiQirYCWfBIrBzP30"
+      },
+      "artists": [
+        {
+          "name": "Justh",
+          "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Chor",
+      "url": "https://open.spotify.com/track/53gdHIMmv3XubECRLL6R62"
     },
     {
       "album": {
@@ -5999,7 +6017,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
@@ -15431,7 +15449,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -15891,7 +15909,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 174730,
       "name": "Still Rollin",
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
@@ -17495,7 +17513,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
@@ -17937,7 +17955,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 216214,
       "name": "Unakku Thaan - From \"Chithha\"",
       "url": "https://open.spotify.com/track/4H1FLy4H7nS9wy9gg9JeFQ"
@@ -18593,7 +18611,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

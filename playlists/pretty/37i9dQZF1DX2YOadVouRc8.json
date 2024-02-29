@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 22337,
+  "num_followers": 22355,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDk3NzI5N2RlMmYzOWE0NjRmZDRkZDU0MWY4MzVlYzcyOGEyNzcx",
+  "snapshot_id": "MCw3MTRiMWZlYThlYjA0YjAxNDJhOTRjM2Y4NTQ0NTc5MzQxMzg5YjJh",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -563,22 +563,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
       "artists": [
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+      "duration_ms": 163685,
+      "name": "Wrong Person (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -599,22 +599,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 163685,
-      "name": "Wrong Person (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
+      "duration_ms": 200869,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Wrist On Freeze",
         "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 187500,
       "name": "Wrist On Freeze",
       "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 166271,
+      "name": "imagine (feat. Aitch)",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "No Shame",
         "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 186586,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 166271,
-      "name": "imagine (feat. Aitch)",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1283,26 +1283,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Breakfast in Lagos",
-        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },
       "artists": [
         {
-          "name": "Sholz",
-          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Valentino Rose",
-          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Fire Wood",
-      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1327,22 +1323,26 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+        "name": "Breakfast in Lagos",
+        "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67"
         },
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
         }
       ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+      "duration_ms": 141176,
+      "name": "Fire Wood",
+      "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "I Dey Slide",
         "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 151724,
       "name": "Troubling",
       "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
       "added_at": "2024-02-23 00:00:00",

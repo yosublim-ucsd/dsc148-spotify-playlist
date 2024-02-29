@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Velvet Trip\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,185 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,223 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 84 | [Movies](https://open.spotify.com/track/6MVpC6ETNiNj6CNtpO4BCz) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Movies](https://open.spotify.com/album/4KnDMKPK9lA84JHcRR5uR0) | 2:54 |
 | 85 | [Awake](https://open.spotify.com/track/38Y0NFSYYePTXeuZcgIron) | [Julia Wallace](https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp) | [Awake](https://open.spotify.com/album/6Nr1qfwLB8jxRN2pTwNXb5) | 4:22 |
 
-Snapshot ID: `MCxjODY0ZmQxMmNjY2Q0YzZhNTM3YTZkMGNkMTZjMTk5NDMxMWI3YWE4`
+Snapshot ID: `MCwyN2FiMDUwNDYyMzJlMDE1ODFkYzM4NzRlNjYwNGY0OGQ5NTQ2NDI1`

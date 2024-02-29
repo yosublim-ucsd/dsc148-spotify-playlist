@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 238712,
+  "num_followers": 238797,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGMwZGQ0MDY3YWI2ZjU4NTI1YmUxODVjNjVhMzAwMDY3NzM0OTUy",
+  "snapshot_id": "MCw1MGFkNGQ4ODc0OTBlMThmMmRiYmZiNjZkMWYyZGFmYjg5NTBjNmZl",
   "tracks": [
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Zinda Banda (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Zinda Banda (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
-    },
-    {
-      "added_at": "2023-12-21 04:47:58",
-      "album": {
         "name": "Dil Se (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
       },
@@ -1103,22 +1083,22 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+        "name": "Zinda Banda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 459266,
-      "name": "Baazigar O Baazigar",
-      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
+      "duration_ms": 264000,
+      "name": "Zinda Banda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
     },
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1139,6 +1119,26 @@
       "duration_ms": 389386,
       "name": "Kitaben Bahut Si",
       "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
+    },
+    {
+      "added_at": "2023-12-21 04:47:58",
+      "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 459266,
+      "name": "Baazigar O Baazigar",
+      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
     },
     {
       "added_at": "2023-12-21 04:47:58",

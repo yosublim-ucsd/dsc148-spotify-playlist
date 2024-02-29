@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-805 songs - 1 day 23 hr 34 min
+806 songs - 1 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Boss](https://open.spotify.com/track/4xqUroNrreYU2CobUl84NH) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Boss](https://open.spotify.com/album/1ITsvXJZiUbOQGEfdGdMXv) | 4:02 | 2021-06-11 | 2021-09-11 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-19 | 2023-03-28 |
 | [boyfriend material](https://open.spotify.com/track/4Ef7cEjeHhh7vYBzmPq4oE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:30 | 2022-05-21 | 2022-05-23 |
-| [Bread and Better \(feat\. 姜濤 & Gentle Bones\)](https://open.spotify.com/track/60B3iJlgBZBSbiw7rP49PS) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Bread and Better \(feat\. 姜濤 & Gentle Bones\)](https://open.spotify.com/album/5Auuj50jZELJGtmV2mndGG) | 2:54 | 2024-02-01 |  |
+| [Bread and Better \(feat\. 姜濤 & Gentle Bones\)](https://open.spotify.com/track/60B3iJlgBZBSbiw7rP49PS) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Bread and Better \(feat\. 姜濤 & Gentle Bones\)](https://open.spotify.com/album/5Auuj50jZELJGtmV2mndGG) | 2:54 | 2024-02-01 | 2024-02-29 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-22 | 2021-07-09 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-09-01 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
@@ -263,6 +263,7 @@
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2021-10-17 |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 | 2022-04-16 | 2022-05-28 |
+| [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-02-28 |  |
 | [Loser](https://open.spotify.com/track/5MGYY2USzSzFFrJe2Nul7Q) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Loser](https://open.spotify.com/album/6hxA2XnQbjGb6dt4F28CPA) | 4:13 | 2021-08-29 | 2022-02-20 |
 | [Lost at first sight](https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Lost at first sight](https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5) | 4:04 | 2024-02-15 |  |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-21 |

@@ -1,13 +1,29 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 2000939,
+  "num_followers": 2001176,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWQzNWVjMWZlY2M5NDhlMDM5Y2QxZTNmOWE3YzUyMmYzMjdmOTE2",
+  "snapshot_id": "MCxlZmE5ZGIwN2M4OTE2NmU1ZmViMjI1NjI0ODUyNWYwMzE1MDg4ZjJi",
   "tracks": [
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+    },
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
@@ -27,18 +43,18 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -67,22 +83,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "Buttercup",
-      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Subway Songs",
-        "url": "https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN"
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
       "artists": [
         {
-          "name": "Rebounder",
-          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Japanese Posters",
-      "url": "https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu"
+      "duration_ms": 226610,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1071,6 +1055,22 @@
       "duration_ms": 271854,
       "name": "A Kiss",
       "url": "https://open.spotify.com/track/7b4iOHMngSAFhgN120hbWB"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Subway Songs",
+        "url": "https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Japanese Posters",
+      "url": "https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I'm in Love",
-        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 196724,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
-    },
-    {
       "added_at": "2023-12-01 18:55:07",
       "album": {
         "name": "Insomnia",
@@ -1379,6 +1363,22 @@
       "duration_ms": 192135,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 196724,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Great Big Blue",
-        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 247280,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "All Out of Good Days",
         "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 153514,
       "name": "Wish We Could Be Friends",
       "url": "https://open.spotify.com/track/0pIGVspjZpNrKNcwvYW16P"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1785,20 +1785,20 @@
       "url": "https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "Love To Walk Away",
-        "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
+        "name": "What's Your Motive (Deluxe)",
+        "url": "https://open.spotify.com/album/6vGYaKO6jHEXl6YCu5FYjp"
       },
       "artists": [
         {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+          "name": "The Hails",
+          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
         }
       ],
-      "duration_ms": 127474,
-      "name": "Love To Walk Away",
-      "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
+      "duration_ms": 159212,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4ABxROGzabee4HvqzH8sSn"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1817,20 +1817,20 @@
       "url": "https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG"
     },
     {
-      "added_at": "2023-12-01 18:55:07",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "What's Your Motive (Deluxe)",
-        "url": "https://open.spotify.com/album/6vGYaKO6jHEXl6YCu5FYjp"
+        "name": "Love To Walk Away",
+        "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
       },
       "artists": [
         {
-          "name": "The Hails",
-          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
         }
       ],
-      "duration_ms": 159212,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4ABxROGzabee4HvqzH8sSn"
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1865,38 +1865,6 @@
       "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
-        "name": "Orca",
-        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 279691,
-      "name": "Post Humorous",
-      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "The Place That Makes Me Happy",
@@ -1915,6 +1883,38 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 279691,
+      "name": "Post Humorous",
+      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
         "name": "Sundays",
         "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
       },
@@ -1927,22 +1927,6 @@
       "duration_ms": 169133,
       "name": "Like the Sun",
       "url": "https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Millionaires",
-        "url": "https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 180694,
-      "name": "Millionaires",
-      "url": "https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -1959,6 +1943,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Millionaires",
+        "url": "https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 180694,
+      "name": "Millionaires",
+      "url": "https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "I Don't Want to Talk",
-        "url": "https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "I Don't Want to Talk",
-      "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Headful of Sugar",
         "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
       },
@@ -2111,22 +2095,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Weird",
         "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
       },
@@ -2139,6 +2107,38 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "I Don't Want to Talk",
+        "url": "https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "I Don't Want to Talk",
+      "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
-      "added_at": "2023-12-01 18:55:07",
-      "album": {
         "name": "Time Will Wait For No One",
         "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 214493,
       "name": "Just Before The Morning",
       "url": "https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ"
+    },
+    {
+      "added_at": "2023-12-01 18:55:07",
+      "album": {
+        "name": "New Order T-Shirt",
+        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "New Order T-Shirt",
+      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
       "added_at": "2023-12-01 18:55:07",
@@ -2451,18 +2451,18 @@
     {
       "added_at": "2023-12-01 18:55:07",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+        "name": "You Are Who You Hang Out With",
+        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
         }
       ],
-      "duration_ms": 208426,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
+      "duration_ms": 198226,
+      "name": "Not Joking",
+      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
     }
   ],
   "unique_name": "Feel-Good Indie Rock",

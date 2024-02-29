@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: gins&melodies
 
-116 songs - 6 hr 27 min
+118 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Atin\-Atin Lang](https://open.spotify.com/track/77vQ9j2ZdxiAd8sFArDAEX) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Atin\-Atin Lang](https://open.spotify.com/album/1QcUcqYEgnQppd7UhU2MNW) | 3:17 | 2023-09-20 |  |
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 |  |
 | [Bad Type](https://open.spotify.com/track/1Nf8lo7CKSJLGHi4uT8EvL) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Guns and Roses](https://open.spotify.com/album/5P3G3lpZQ5ZJvLEC4Gyodh) | 3:07 | 2023-12-06 | 2024-02-15 |
-| [BAI NA BAI](https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV) | [Jae Bourgeoisie](https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na), [Izey Bleu](https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t) | [BAI NA BAI](https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD) | 2:35 | 2023-11-08 |  |
+| [BAI NA BAI](https://open.spotify.com/track/5OvRmSitjggIYxAcgWnImV) | [Jae Bourgeoisie](https://open.spotify.com/artist/7Mm8pIdZHREtl0HYRuD9Na), [Izey Bleu](https://open.spotify.com/artist/1rWxNB88AktiJTvy876e8t) | [BAI NA BAI](https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD) | 2:35 | 2023-11-08 | 2024-02-29 |
 | [BLING](https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [BLING](https://open.spotify.com/album/4BEXEaGEDL1nUQIR0a3tat) | 2:28 | 2023-12-13 | 2024-02-22 |
 | [Blue Dreams](https://open.spotify.com/track/5pVvdDwAZxmUAJQt3XHwnG) | [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Blue Dreams](https://open.spotify.com/album/4i465DRqEPPqTS1nSRhPRG) | 3:49 | 2024-01-24 |  |
 | [BMW](https://open.spotify.com/track/7C9Knp9FzLY6RwgktmW9Ge) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Heartbreak SZN 2](https://open.spotify.com/album/4DMjaQksbK2Ccrevh7Qy1B) | 2:48 | 2023-09-20 | 2024-02-22 |
@@ -44,7 +44,7 @@
 | [EMPILIGHT](https://open.spotify.com/track/6liHmUVmfhbXFG45ybCr96) | [Jonas Dichoso](https://open.spotify.com/artist/6Owr8RDbHYlbDwh1EMzEVS) | [EMPILIGHT](https://open.spotify.com/album/1KDtgR9GpE4cHonerqkrPn) | 3:19 | 2023-09-20 | 2023-11-02 |
 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 | 2023-12-20 |  |
 | [Fetty](https://open.spotify.com/track/1O26SjawSDVCpikl9nNUyp) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Fetty](https://open.spotify.com/album/6H8VIr3GCleqBUGRalNd6H) | 3:26 | 2023-09-20 | 2024-02-08 |
-| [Flyshit](https://open.spotify.com/track/25zFVqeiwRuHK9M8bPsZm1) | [LON Daniel](https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Flyshit](https://open.spotify.com/album/4O1ELZTOr8Ofh4TyVN4MT0) | 2:21 | 2023-12-06 |  |
+| [Flyshit](https://open.spotify.com/track/25zFVqeiwRuHK9M8bPsZm1) | [LON Daniel](https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Flyshit](https://open.spotify.com/album/4O1ELZTOr8Ofh4TyVN4MT0) | 2:21 | 2023-12-06 | 2024-02-29 |
 | [Flyshit](https://open.spotify.com/track/3NQpu0tBPbIcmN3MlY2Dlx) | [LON Daniel](https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Flyshit](https://open.spotify.com/album/3NLlRiJZVzSS1read9nb7w) | 2:21 | 2023-10-18 | 2023-12-09 |
 | [fouronezerothree](https://open.spotify.com/track/3JdfX2AGZRuZvrDIaLCRyP) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [fouronezerothree](https://open.spotify.com/album/7z5Din6w8cPFqHR4OwpOxz) | 2:45 | 2023-10-18 | 2023-11-11 |
 | [FREESTYLE](https://open.spotify.com/track/6a9c4NKoIdrugAs9fmWuSg) | [lmaobdy](https://open.spotify.com/artist/3CJhyHQgAStaSWNEVGgr8E), [Osidemafia, Xanny Warhol](https://open.spotify.com/artist/5i2iMEr9KYjnf6BxITukQq) | [FREESTYLE](https://open.spotify.com/album/0gb4iHpvS2Vc1HoCw0tt2m) | 3:50 | 2023-10-11 | 2023-12-09 |
@@ -101,6 +101,8 @@
 | [Rapstar](https://open.spotify.com/track/6Rv8Ltr2MuAIM3LHF4L8qs) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Rapstar](https://open.spotify.com/album/7IrCcwvtv03sTMD5PvHDkv) | 3:39 | 2023-09-20 |  |
 | [RAW](https://open.spotify.com/track/6YK6D1wwSEK2DfAC6HXR2m) | [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [RAW](https://open.spotify.com/album/775RKE5HoZQlRqLlukngVI) | 2:03 | 2023-11-08 | 2023-12-21 |
 | [Sabak Daddy](https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg) | [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Sabak Daddy](https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi) | 2:13 | 2023-09-20 | 2023-10-05 |
+| [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 |  |
+| [Section Y](https://open.spotify.com/track/5W6KCJ0pUFQgFyMrBYqKbw) | [NPS](https://open.spotify.com/artist/4xvIpBKhlz4aKtZvSc2Rc2), [Nickname](https://open.spotify.com/artist/2wqOlT40J9tTBJwagecwvp) | [Section Y](https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb) | 6:57 | 2024-02-28 |  |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-09-20 | 2023-10-19 |
 | [SHOT PUNO](https://open.spotify.com/track/6GhAvK6k8gZxw0qF0sSTzy) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [SHOT PUNO](https://open.spotify.com/album/7aTs7EIyn4UnEySAMaEl5I) | 3:26 | 2023-12-13 | 2024-02-01 |
 | [Silly Hoes](https://open.spotify.com/track/7jaW3zW1UquUY4I2j7OoAZ) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Silly Hoes](https://open.spotify.com/album/5FFcOsqb6a7g8rIXYh2BrM) | 2:59 | 2023-09-20 |  |

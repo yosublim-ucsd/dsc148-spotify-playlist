@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27505,
+  "num_followers": 27517,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGQ5NDlhMGJmMWU4NTAwYzllNDY5NGY3Zjc3OWRjZjM0YTYxMjIz",
+  "snapshot_id": "MCw1MDY4OTEwNmQzM2QyZWY4N2E0NWY2Nzk0ZTViZjk1MDIyY2NlNDNi",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "SILENT HILLS",
-        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "EXTEND",
-      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "BLIND",
         "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 148120,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "SILENT HILLS",
+        "url": "https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "EXTEND",
+      "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Dum av dej",
-        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
-      },
-      "artists": [
-        {
-          "name": "Naod",
-          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Dum av dej",
-      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "BLANCO",
         "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 135004,
       "name": "BLANCO",
       "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Dum av dej",
+        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Dum av dej",
+      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Best\u00e4mda Kliv",
         "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 123169,
       "name": "K\u00e4nslokall",
       "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -963,6 +963,22 @@
       "duration_ms": 152932,
       "name": "Gangster V\u00e4rld",
       "url": "https://open.spotify.com/track/5tSRpvyQVqT3Ck97yNCVv8"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Zinah",
-        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 116500,
-      "name": "Zinah",
-      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Cuando Menos Lo Espera",
         "url": "https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC"
       },
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 137861,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
     },
     {
       "added_at": "2024-02-22 23:00:00",

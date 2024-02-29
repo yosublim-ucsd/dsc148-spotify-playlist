@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Beba, Fabri Fibra, Mace, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,413 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,493 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 29 | [SUPERLOVE](https://open.spotify.com/track/2aqh4OfpCqTovhIERXKejR) | [erresolo](https://open.spotify.com/artist/0lw8IVoA8vYLLzjVxpsa5w) | [SUPERLOVE](https://open.spotify.com/album/5Ve0rqlGD58bDbxd9JVIMf) | 2:34 |
 | 30 | [oroscopo](https://open.spotify.com/track/5TzNhjzqFiaa0QQnLE8Uc0) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [oroscopo](https://open.spotify.com/album/4lytDsWXraNGoL6b1OMBUN) | 2:40 |
 | 31 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
-| 32 | [TR\*P \(feat\. Sgribaz\)](https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [TR\*P \(feat\. Sgribaz\)](https://open.spotify.com/album/2GNB3C5SBcUYn0ylMX4M5b) | 2:32 |
+| 32 | [TR\*P](https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [TR\*P](https://open.spotify.com/album/2GNB3C5SBcUYn0ylMX4M5b) | 2:32 |
 | 33 | [Karma](https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye) | [Karma](https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y) | 2:37 |
 | 34 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 3:11 |
 | 35 | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/track/1azrb8z0x7CvdchfvJX4oR) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/album/6DFq4pWC0H3MvmwR99Ke5V) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [LUNGA VITA AI RE](https://open.spotify.com/track/330qUuctHh9ficSKNwgMnY) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [LUNGA VITA AI RE](https://open.spotify.com/album/0SO48murpsipxQx7y0MKY0) | 3:17 |
 | 100 | [IN NOSTRO NOME \(feat\. 22simba\)](https://open.spotify.com/track/4DqRQiZQbKoCFLfdA2JEc3) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [IN NOSTRO NOME \(feat\. 22simba\)](https://open.spotify.com/album/1iw8Z1UFEDm0m2Dmk2dflc) | 3:22 |
 
-Snapshot ID: `MCwzNTMyMTQxMzMyMjE5Y2IzMjhjOGNjODBlNGZkN2QyYTI3MDk1NTkx`
+Snapshot ID: `MCw3NTE0N2QyZDM4YWZhYjQ0YTYzNzM1ZDdiZDM2ZDZhOTJmODA1ODUx`

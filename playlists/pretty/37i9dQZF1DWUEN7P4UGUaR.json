@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: MOGMusic",
-  "num_followers": 8851,
+  "num_followers": 8864,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGJlMTg0MGU4MGRmYWRmMTZiMDU5ZDcwYTIxNjVlZmNiOTI3NGI0",
+  "snapshot_id": "MCw1MTlmODczNzA1MThjODY1MGM5ZmVlMzk1MTExNTM4ZTA1MDdhOTlh",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
+      },
+      "artists": [
+        {
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "duration_ms": 146779,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Mile (I Know)",
         "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 781930,
       "name": "Deeper Medley",
       "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
-      },
-      "artists": [
-        {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        }
-      ],
-      "duration_ms": 146779,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
     },
     {
       "added_at": "2024-02-23 00:00:00",

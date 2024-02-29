@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 121634,
+  "num_followers": 121688,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjZmNTY2NGE5Yjk2MjE1NTk4OGE4ZTEwMTM2ZTRlZWQ5ZTM5ZDgx",
+  "snapshot_id": "MCw3YWU5NWZiMzIxM2ZjOTRhNzkzM2M0Y2VmZDZkY2ZjNzA2MzdlZmEy",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Ante Tus Pies",
-        "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
-      },
-      "artists": [
-        {
-          "name": "Pablo Caldarelli",
-          "url": "https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 212968,
-      "name": "Ante Tus Pies",
-      "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 242432,
       "name": "Eternamente Amor",
       "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Ante Tus Pies",
+        "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Caldarelli",
+          "url": "https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 212968,
+      "name": "Ante Tus Pies",
+      "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+        "name": "Mi Resurgimiento",
+        "url": "https://open.spotify.com/album/5XKayUtzWsWH4VEciBqhEg"
       },
       "artists": [
         {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+          "name": "Daniel Sierra",
+          "url": "https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
         }
       ],
-      "duration_ms": 274200,
-      "name": "La Biblia",
-      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
+      "duration_ms": 195459,
+      "name": "Dependo de Ti",
+      "url": "https://open.spotify.com/track/0OTp7O27Oz1hpBAPpAJVTe"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -855,18 +859,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Fragments Of Heaven",
-        "url": "https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 242244,
-      "name": "Forever Endless Love",
-      "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+      "duration_ms": 274200,
+      "name": "La Biblia",
+      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
     }
   ],
   "unique_name": "Baila Con Dios",

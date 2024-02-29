@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2024
 
-576 songs - 1 day 14 hr 39 min
+577 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,8 @@
 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 | 2019-03-11 | 2023-05-31 |
 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 | 2019-03-11 | 2024-02-28 |
 | [Stolen Car](https://open.spotify.com/track/2UbP7JjlBgmiPmkUkR7eSF) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Central Reservation](https://open.spotify.com/album/6j7rYlihEMA63TyKLUH4nC) | 5:25 | 2019-03-11 | 2023-05-31 |
-| [Strange Again](https://open.spotify.com/track/6lD1TYaeih2vdmKrbyjhCm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG) | 2:55 | 2024-02-12 |  |
+| [Strange Again](https://open.spotify.com/track/65SdiBtL7vyqw5HU1xfT0i) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/6gsiRBHrsMLSRmNrp0IjDN) | 2:55 | 2024-02-12 |  |
+| [Strange Again](https://open.spotify.com/track/6lD1TYaeih2vdmKrbyjhCm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG) | 2:55 | 2024-02-12 | 2024-02-29 |
 | [Strange Machines](https://open.spotify.com/track/51m9kUkrbufdmMl4ZBHcgR) | [The Gathering](https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX) | [Mandylion](https://open.spotify.com/album/1cj2JuqUGbFVOja7XOVV4O) | 6:04 | 2019-03-11 | 2023-05-31 |
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2022-03-03 |  |
 | [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 | 2019-03-11 | 2023-05-31 |

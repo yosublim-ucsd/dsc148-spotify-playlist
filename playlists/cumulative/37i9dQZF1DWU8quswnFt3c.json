@@ -17714,10 +17714,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 289640,
       "name": "Mulher",
       "url": "https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u"
+    },
+    {
+      "album": {
+        "name": "Ao Mar",
+        "url": "https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289640,
+      "name": "Mulher",
+      "url": "https://open.spotify.com/track/6rp587rqWb8bw4cUmzBdw3"
     },
     {
       "album": {

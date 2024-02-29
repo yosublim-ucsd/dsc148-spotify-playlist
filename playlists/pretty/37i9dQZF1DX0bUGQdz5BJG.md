@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Michael Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,994 likes - 201 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,021 likes - 201 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 157 | [When I Grow Up](https://open.spotify.com/track/0aXdOKE2ISlEAEZIvUpjQy) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [When I Grow Up](https://open.spotify.com/album/4Ax2267OifhWCZUz38dMWw) | 3:45 |
 | 158 | [Right Round Here](https://open.spotify.com/track/77F3Qyv91XIFIi7oRfifEW) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Right Round Here](https://open.spotify.com/album/4SLw8BaJIjqGnPnxAQpqYk) | 2:39 |
 | 159 | [Two of Us](https://open.spotify.com/track/4SBF12nxiWZhQCwC7EGFiR) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Two of Us](https://open.spotify.com/album/6hBCrISl057IRjVjlghx5P) | 3:14 |
-| 160 | [Neon Baby](https://open.spotify.com/track/3IvwEUE0iznUH3jHPxB8Fi) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Boots On](https://open.spotify.com/album/1wEjzKyHfBVPAFNqSTRyLk) | 3:33 |
+| 160 | [Neon Baby](https://open.spotify.com/track/7BBHNcw2tNeQ0LVWss0FyY) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Neon Baby](https://open.spotify.com/album/5fFepyQ6UZReG9ulezciua) | 3:32 |
 | 161 | [Small Town Talk](https://open.spotify.com/track/0Z14bJr4amSEQKubSWO2Qj) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Small Town Talk](https://open.spotify.com/album/7GWj2Zp8gaf6AL58qekZy8) | 3:44 |
 | 162 | [Ain't About You](https://open.spotify.com/track/62is7SX2lJw6b8o6DMdVVk) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Ain't About You](https://open.spotify.com/album/0Wd7pXZflxgojTmUS5vE5g) | 4:17 |
 | 163 | [All to Yourself](https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [All to Yourself](https://open.spotify.com/album/47KkcsloezADjw8jRxqV8O) | 2:57 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 200 | [She Makes The Sad Songs](https://open.spotify.com/track/3fenVIOHiV6LYZZNRWWQQO) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [She Makes The Sad Songs](https://open.spotify.com/album/1xR6P7g8NKAdB0z5lPW453) | 3:44 |
 | 201 | [Counterfeit](https://open.spotify.com/track/2TooRcNf7awyRJrO7XPric) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Crying In My Car](https://open.spotify.com/album/7bxTHB08eaMZvvkWywQbdF) | 2:45 |
 
-Snapshot ID: `MCxkOGRhMmRkOWM4N2EzZWNiYjU2MjVhN2UwMDA4ZTVlZDEzYzYzYjg5`
+Snapshot ID: `MCwyOTk2OGEwMGY3ZThkZTI3NTJlMmQ1MGUzZmMxZmE0MTk0MjgxYTcy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Santa Fe Klan, Peso Pluma, y Duki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,746 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,780 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 36 | [Arriba Bebé](https://open.spotify.com/track/5O6zjm4Doz7kiEAgTDPjUO) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Arriba Bebé](https://open.spotify.com/album/5HWsXjTnWT9DmbMYStM5KF) | 1:12 |
 | 37 | [Relação Errada \- Ao Vivo](https://open.spotify.com/track/7wthqJFd8mVZQ8Cns645AZ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4y4bh5j6I004Zly5yNV1ii) | 2:53 |
 | 38 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 |
-| 39 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [juhn](https://open.spotify.com/artist/4h3wVsJDhbn23uUNp1ZrFS) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 |
+| 39 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 |
 | 40 | [Bebesita](https://open.spotify.com/track/0f18D2YJtXmVqoGmlq7nFK) | [DJ Dali](https://open.spotify.com/artist/5bX9aZQtBSyca4E8iO08TH), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Bebesita](https://open.spotify.com/album/3pHMcSphLsIbWo3HqCr41D) | 3:17 |
 | 41 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 |
 | 42 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 |
 | 50 | [El Castillo De La Pureza](https://open.spotify.com/track/7vOGeCyclXHCgAxC7IyTyi) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Castillo De La Pureza](https://open.spotify.com/album/0wn1xgrHkSxTG8dsH7qvnd) | 4:41 |
 
-Snapshot ID: `MCwwZWYxNjliOTJjNGE0YmY4NzQ0YjFhODk1MjE4MDE4NTE4MzRmM2E0`
+Snapshot ID: `MCw3ZTcxZWRmOTk2ZmQ5YWY4MWQ2OTc2OWVmNzJjYjYwN2QxYmE0NGRh`

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 20096,
+  "2024-02-29": 20124,
   "date_first_scraped": "2023-07-25",
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
   "name": "Marathi Workout",
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Koligeet Mashup 3",
+        "url": "https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8"
+      },
+      "artists": [
+        {
+          "name": "Crown J",
+          "url": "https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Koligeet Mashup 3",
+      "url": "https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1"
+    },
+    {
+      "album": {
         "name": "Ajay - Atul Hits",
         "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
       },
@@ -905,7 +923,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 190250,
       "name": "Michi Mazavyalo",
       "url": "https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K"

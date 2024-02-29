@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 16923,
+  "2024-02-29": 16944,
   "date_first_scraped": "2022-11-25",
   "description": "Heavy beats for midnight drifting in Tokyo.",
   "name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 145445,
       "name": "Motown Man",
       "url": "https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o"
@@ -1781,6 +1781,24 @@
       "duration_ms": 161746,
       "name": "Reach",
       "url": "https://open.spotify.com/track/5F5W0KSTnU7KtqSXo2ietC"
+    },
+    {
+      "album": {
+        "name": "Rental Gold Tesla",
+        "url": "https://open.spotify.com/album/0pfyM76zqYelvBcfKQQ6Zz"
+      },
+      "artists": [
+        {
+          "name": "SHO",
+          "url": "https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Rental Gold Tesla",
+      "url": "https://open.spotify.com/track/57c39ZELVgjZ3BavaMMTgS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 89224,
+  "num_followers": 89240,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjQ4ZjI2NGY5OGFkZDAxN2JjYTc3ZmNiZmM4NTE0NmI2MGFkNjJi",
+  "snapshot_id": "MCwyYmNhNmZiNjMyNWNkMjlkNGUwMjEyZWRmZTJmNzExNTc5OTVjNzkx",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Into The Groove",
         "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 396190,
       "name": "Into The Groove - Extended Mix",
       "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
-      },
-      "artists": [
-        {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Best of Techno (Compilation Tracks)",
-        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Throw",
-      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "The Blueprint EP",
         "url": "https://open.spotify.com/album/5Hol3dzXCzMHZ7Tx7LKrbV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 337462,
       "name": "Chroma Light",
       "url": "https://open.spotify.com/track/5CiCxQ4pUAFG396mSxT72x"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Best of Techno (Compilation Tracks)",
+        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Throw",
+      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -783,6 +783,38 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "The Sound / How To Play Our Music",
         "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
@@ -807,38 +839,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
-      },
-      "artists": [
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        }
-      ],
-      "duration_ms": 400579,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
         }
       ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+      "duration_ms": 400579,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
     },
     {
       "added_at": "2023-10-26 20:41:14",

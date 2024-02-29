@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
-  "num_followers": 346015,
+  "num_followers": 346079,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjhiMGNiMGM0MjJiMDc1MWJiZTY0ZDYxNzM1MmRmZjM2YWFlZmUx",
+  "snapshot_id": "MCw0ZWJlNDcxZDYwNGI3NDg3YjQ0YmFhNWRlOTVkMzFmMzZmMWFmMjdj",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Quero Voc\u00ea",
+        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
+      },
+      "artists": [
+        {
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 149517,
+      "name": "Quero Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Quero Voc\u00ea",
-        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
-      },
-      "artists": [
-        {
-          "name": "Alm\u00e9rio",
-          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 149517,
-      "name": "Quero Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
         "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 177099,
       "name": "Um, Dois, Tr\u00eas",
       "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1424,12 +1424,12 @@
       },
       "artists": [
         {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        },
-        {
           "name": "Belle Lune",
           "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
+        },
+        {
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
         }
       ],
       "duration_ms": 178867,
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Aqui em Casa (Ep 02)",
-        "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        },
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 234405,
-      "name": "Aqui em Casa",
-      "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Aqui em Casa (Ep 02)",
+        "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 234405,
+      "name": "Aqui em Casa",
+      "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
     },
     {
       "added_at": "2024-01-19 03:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 1889964,
+  "2024-02-29": 1890070,
   "date_first_scraped": "2021-12-21",
   "description": "Soothing, minimalist ambient for deep sleep.",
   "name": "Deep Sleep",
@@ -39,6 +39,24 @@
       "duration_ms": 183122,
       "name": "417 Hz Emotions",
       "url": "https://open.spotify.com/track/0Syp5KfQ3fbv5cViaIVYv4"
+    },
+    {
+      "album": {
+        "name": "528 Hz Astral Flux",
+        "url": "https://open.spotify.com/album/02ZWlhIvqRw8FdwlmgXJIr"
+      },
+      "artists": [
+        {
+          "name": "Sage Tranquility Hz",
+          "url": "https://open.spotify.com/artist/4Hjn3TNiu6uNl4CVIJIC46"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "528 Hz Astral Flux",
+      "url": "https://open.spotify.com/track/6KzPzPhuqJoNWKh5toD7Ub"
     },
     {
       "album": {
@@ -114,6 +132,24 @@
     },
     {
       "album": {
+        "name": "A Moment of Clarity",
+        "url": "https://open.spotify.com/album/4SfDI2W8BnSgE5Uxv4HZjP"
+      },
+      "artists": [
+        {
+          "name": "Rnwy Lites",
+          "url": "https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "A Moment of Clarity",
+      "url": "https://open.spotify.com/track/6LIwVWBsQKxv1GlEBBt6t4"
+    },
+    {
+      "album": {
         "name": "A Neutral Place",
         "url": "https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho"
       },
@@ -147,6 +183,24 @@
       "duration_ms": 216923,
       "name": "A Night Full Of Stars",
       "url": "https://open.spotify.com/track/550zqNehla4IUSDFgMNDYB"
+    },
+    {
+      "album": {
+        "name": "A quiet dawn",
+        "url": "https://open.spotify.com/album/4JRaZmlNVX28v4rQZ73qBX"
+      },
+      "artists": [
+        {
+          "name": "Lulu Helensworth",
+          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143624,
+      "name": "A quiet dawn",
+      "url": "https://open.spotify.com/track/1LTYXEgC5nQCHXdpN7Q7CC"
     },
     {
       "album": {
@@ -510,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Anastasia",
+        "url": "https://open.spotify.com/album/73XRp1m47i2pM8GDlcwDWo"
+      },
+      "artists": [
+        {
+          "name": "Sim One Say",
+          "url": "https://open.spotify.com/artist/1Q2ef9yLO1whzfYFTtbd1x"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176575,
+      "name": "Anastasia",
+      "url": "https://open.spotify.com/track/3FPEFHpZgPUu91PVRlqp45"
+    },
+    {
+      "album": {
         "name": "Anatomy of Change",
         "url": "https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69"
       },
@@ -834,6 +906,24 @@
     },
     {
       "album": {
+        "name": "Astral Whispers",
+        "url": "https://open.spotify.com/album/4gzWuQiERXIqGqgxdXdJS8"
+      },
+      "artists": [
+        {
+          "name": "Imperial Atlas",
+          "url": "https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158967,
+      "name": "Astral Whispers",
+      "url": "https://open.spotify.com/track/1VZQxvQXgbRhYhS1XJYnIA"
+    },
+    {
+      "album": {
         "name": "Entering Dreamland",
         "url": "https://open.spotify.com/album/0w6WmSVjZstlSJaAvab2Sd"
       },
@@ -867,7 +957,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 140718,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/7soXJiUOLUjQXBrU3ubC1W"
@@ -907,6 +997,24 @@
       "duration_ms": 153299,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1bDXm0xFUqZioZdZfqGbMh"
+      },
+      "artists": [
+        {
+          "name": "Sophie Emitt",
+          "url": "https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3BQOuoVG2PsO8QUY0PndWV"
     },
     {
       "album": {
@@ -3034,6 +3142,24 @@
     },
     {
       "album": {
+        "name": "Enchanted Twilight",
+        "url": "https://open.spotify.com/album/3Stp2UVAUbJuMrhJsj3jrD"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Nexus",
+          "url": "https://open.spotify.com/artist/2n6EstH6raQHsVPAz4zIYI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162845,
+      "name": "Enchanted Twilight",
+      "url": "https://open.spotify.com/track/6oHJlzLp4vt0W9DQENDtin"
+    },
+    {
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA"
       },
@@ -3344,6 +3470,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Reverie",
+        "url": "https://open.spotify.com/album/3c3hn6REyBVwFO4KUN885o"
+      },
+      "artists": [
+        {
+          "name": "Soundscapes Syndicate",
+          "url": "https://open.spotify.com/artist/2fTdgIKmpCVxDFSQOriiHp"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168826,
+      "name": "Ethereal Reverie",
+      "url": "https://open.spotify.com/track/1H0XcscTDkJM6ScRnvLp9d"
+    },
+    {
+      "album": {
         "name": "Europa",
         "url": "https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t"
       },
@@ -3413,6 +3557,42 @@
       "duration_ms": 193602,
       "name": "Fading",
       "url": "https://open.spotify.com/track/2pZ3K8qHHflxXkBqSVbunE"
+    },
+    {
+      "album": {
+        "name": "Falling Blue Stars",
+        "url": "https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js"
+      },
+      "artists": [
+        {
+          "name": "Sal Lastra",
+          "url": "https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Falling Blue Stars",
+      "url": "https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw"
+    },
+    {
+      "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139501,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea"
     },
     {
       "album": {
@@ -3589,7 +3769,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 185274,
       "name": "Flying Away",
       "url": "https://open.spotify.com/track/505RGkIHxks1JwyFVbVwu1"
@@ -4640,6 +4820,24 @@
     },
     {
       "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/04JepUP4qgznvDlSSJRpIW"
+      },
+      "artists": [
+        {
+          "name": "Nile Kaufman",
+          "url": "https://open.spotify.com/artist/2pyrI3SOsUuA1iiVe62WU4"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157496,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/5Y1r6CkIaDofFsZwRp8mqV"
+    },
+    {
+      "album": {
         "name": "Intentional Tones",
         "url": "https://open.spotify.com/album/0tN7o38dUJZRW4h83vl63A"
       },
@@ -5036,6 +5234,24 @@
     },
     {
       "album": {
+        "name": "Lazy Day",
+        "url": "https://open.spotify.com/album/2tUw2L7aIETEh9UegbTLwS"
+      },
+      "artists": [
+        {
+          "name": "Le Code",
+          "url": "https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Lazy Day",
+      "url": "https://open.spotify.com/track/5UKNlerIjVt1DKTFvVuCsv"
+    },
+    {
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/7JF9wKUHdFIRxazAFUOMMX"
       },
@@ -5065,7 +5281,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 173728,
       "name": "Life Of Hope",
       "url": "https://open.spotify.com/track/1ZAODInOBbfSiuSQlWtFos"
@@ -5285,6 +5501,24 @@
       "duration_ms": 139548,
       "name": "Lorimor",
       "url": "https://open.spotify.com/track/4Dduhh8xWr0XCBoVJthchN"
+    },
+    {
+      "album": {
+        "name": "Lost in Reverie 528Hz",
+        "url": "https://open.spotify.com/album/6Ldg7YFtxeBl2I6HJP6WEQ"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195833,
+      "name": "Lost in Reverie 528Hz",
+      "url": "https://open.spotify.com/track/4A7FPAkSrDVPzlDD3j6Krr"
     },
     {
       "album": {
@@ -5537,6 +5771,24 @@
       "duration_ms": 200487,
       "name": "Mare Stellatum",
       "url": "https://open.spotify.com/track/4KClWnNQ7ysoSELMkd6UzX"
+    },
+    {
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/5HhWqXSCWyEZ0pH9sARTJd"
+      },
+      "artists": [
+        {
+          "name": "Vishal Casey",
+          "url": "https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110512,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/3ujHTODltPdLOH5ssrNQkX"
     },
     {
       "album": {
@@ -6062,6 +6314,24 @@
     },
     {
       "album": {
+        "name": "New Direction",
+        "url": "https://open.spotify.com/album/3T1ZHFSkQrYR3MSzt2YkUM"
+      },
+      "artists": [
+        {
+          "name": "Solitudes",
+          "url": "https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "New Direction",
+      "url": "https://open.spotify.com/track/5x4JxwFNs0f897CvwPjEZb"
+    },
+    {
+      "album": {
         "name": "New Dreams",
         "url": "https://open.spotify.com/album/2nRvp3oKkkOH6IvbcGZzLY"
       },
@@ -6473,6 +6743,24 @@
       "duration_ms": 168000,
       "name": "Open Heart",
       "url": "https://open.spotify.com/track/7meCshsWEYqEIsyDz02Wwr"
+    },
+    {
+      "album": {
+        "name": "New Directions",
+        "url": "https://open.spotify.com/album/0u5DOcmCHAiXpGTfgmMUfN"
+      },
+      "artists": [
+        {
+          "name": "Map Of My Mind",
+          "url": "https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Opposite Corners",
+      "url": "https://open.spotify.com/track/3PgIwEucvwrY3bMeYP6cS5"
     },
     {
       "album": {
@@ -7499,6 +7787,24 @@
       "duration_ms": 168111,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
+    },
+    {
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/04WSalQGFQqfV4tJwqc1UL"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/2aBoghvCufyqQtoH5kaRPo"
     },
     {
       "album": {
@@ -9032,6 +9338,24 @@
     },
     {
       "album": {
+        "name": "The Searching Mind",
+        "url": "https://open.spotify.com/album/7kbqP0XONQcJm2Bw985mHn"
+      },
+      "artists": [
+        {
+          "name": "Suraj Ives",
+          "url": "https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203718,
+      "name": "The Searching Mind",
+      "url": "https://open.spotify.com/track/4kr9gd3vK8IQw3783OeuIk"
+    },
+    {
+      "album": {
         "name": "The Source",
         "url": "https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL"
       },
@@ -9173,6 +9497,24 @@
       "duration_ms": 206426,
       "name": "Tirana Wolves",
       "url": "https://open.spotify.com/track/6RsZg0rFSlLWqy5AKiny95"
+    },
+    {
+      "album": {
+        "name": "To Let Go",
+        "url": "https://open.spotify.com/album/5tHIt7x4MIwv9xJ8a73gzG"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "To Let Go",
+      "url": "https://open.spotify.com/track/5jlmqNLDg7DHD3RBtX57JK"
     },
     {
       "album": {
@@ -9464,6 +9806,50 @@
     },
     {
       "album": {
+        "name": "Viaje a la Serenidad Interior",
+        "url": "https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH"
+      },
+      "artists": [
+        {
+          "name": "Siame",
+          "url": "https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        },
+        {
+          "name": "Sleeping Eye",
+          "url": "https://open.spotify.com/artist/7dMgnhd87CgdkOoh9V5p1t"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129485,
+      "name": "Viaje a la Serenidad Interior",
+      "url": "https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/1qxPnzyY4QJ04MyIQ60xAm"
+      },
+      "artists": [
+        {
+          "name": "Helios Relaxing Space",
+          "url": "https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465000,
+      "name": "Vibrational Feeling",
+      "url": "https://open.spotify.com/track/2cEFXCkHlUL2ZF3fr7jvZ4"
+    },
+    {
+      "album": {
         "name": "Vie Tafare",
         "url": "https://open.spotify.com/album/0QPRNkpCzDPMjbCwQCgMSM"
       },
@@ -9569,6 +9955,24 @@
       "duration_ms": 180450,
       "name": "Vivant",
       "url": "https://open.spotify.com/track/52M7KlhS6rvTnDs5dTpRY8"
+    },
+    {
+      "album": {
+        "name": "Beyond the Sunrise",
+        "url": "https://open.spotify.com/album/7yR28ZTUP4Kg3ob20qYRcs"
+      },
+      "artists": [
+        {
+          "name": "Carl Borden",
+          "url": "https://open.spotify.com/artist/191IVNBGVBToo7fHB4LHaS"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278639,
+      "name": "Walk with Me (A Beautiful Journey)",
+      "url": "https://open.spotify.com/track/695Ck5SYVFtgey5l0FY1Fh"
     },
     {
       "album": {

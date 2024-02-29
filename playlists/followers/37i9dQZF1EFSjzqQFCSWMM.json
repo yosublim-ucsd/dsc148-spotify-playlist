@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 62,
+  "2024-02-29": 62,
   "date_first_scraped": "2023-12-14",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM\">Bijan Amir</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Bijan Amir",
@@ -1477,6 +1477,24 @@
       "duration_ms": 138925,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb"
+    },
+    {
+      "album": {
+        "name": "MP3+WAV",
+        "url": "https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172542,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY"
     },
     {
       "album": {

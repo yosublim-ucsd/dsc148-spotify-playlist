@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 903688,
+  "num_followers": 903652,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzQ0ZWIxY2UwM2ZlZDEwZDBhN2U1NDE5YzkzMTQ1MWM0MGRkMjMw",
+  "snapshot_id": "MCwxNzI4YzQ3NDEzOGRkZWRlZTRmZWIyMDdkMzkwNjEzZWRkMjY0MTRj",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -363,30 +363,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt"
-      },
-      "artists": [
-        {
-          "name": "Dhvani Bhanushali",
-          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-        },
-        {
-          "name": "Sunny M.R.",
-          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
-        },
-        {
-          "name": "Youngveer",
-          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 177000,
       "name": "Scoot",
       "url": "https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5HQX1XxtrTDVMUnf9okqVt"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3TgC7pFFpyzq0OK0M7bJ6y"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Ao Mar",
-        "url": "https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL"
-      },
-      "artists": [
-        {
-          "name": "\u00c3o",
-          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
-        }
-      ],
-      "duration_ms": 289640,
-      "name": "Mulher",
-      "url": "https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "mother luna",
         "url": "https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "Ao Mar",
+        "url": "https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "duration_ms": 289640,
+      "name": "Mulher",
+      "url": "https://open.spotify.com/track/6rp587rqWb8bw4cUmzBdw3"
     }
   ],
   "unique_name": "EQUAL Global",

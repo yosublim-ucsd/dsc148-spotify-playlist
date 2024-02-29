@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Humbe",
-  "num_followers": 283661,
+  "num_followers": 283741,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmQwNWMyZDM3N2NmYjJmZmU5YjlhNjk3YjlmOWQ4OWM0ZmFiNWE3",
+  "snapshot_id": "MCwyYjViMWFjMDBlZDI1NjBjNmMwYWQ4NzI0OGExYjdmOWVlOTJjZWEx",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "tiroteAo",
-        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 153403,
-      "name": "tiroteAo",
-      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Chistes Malos",
         "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "tiroteAo",
+        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 153403,
+      "name": "tiroteAo",
+      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Que La Detengan",
         "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 143265,
       "name": "Que La Detengan",
       "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "fuimos amigos",
-        "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "fuimos amigos",
-      "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "El Disfraz",
         "url": "https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+        "name": "fuimos amigos",
+        "url": "https://open.spotify.com/album/0BUtNIpF14nZatEGITDsXr"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+      "duration_ms": 168750,
+      "name": "fuimos amigos",
+      "url": "https://open.spotify.com/track/52T4reGBKaHkDkTNt9YEGo"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Cositas Sucias",
+        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Cositas Sucias",
+      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "en el pasado",
         "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Cositas Sucias",
-        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Cositas Sucias",
-      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Argumentos",
         "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 188405,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/4DyVhH4VtUcl42sNJgp0wr"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 247015,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Milanoche",
         "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 247015,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Rosita Sakura",
         "url": "https://open.spotify.com/album/4FUcl9yeddUzRuIWh1eeAK"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "FIKSION",
-        "url": "https://open.spotify.com/album/5Iwojy7kNFRvrwEZ5vBOYc"
+        "name": "no quiero olvidarte",
+        "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
       "artists": [
         {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 178756,
-      "name": "FIKSION",
-      "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
+      "duration_ms": 230049,
+      "name": "no quiero olvidarte",
+      "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
     }
   ],
   "unique_name": "el nuevo pop",

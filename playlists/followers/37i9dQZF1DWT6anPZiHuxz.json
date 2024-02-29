@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 500470,
+  "2024-02-29": 500541,
   "date_first_scraped": "2022-09-23",
   "description": "Chasing that runner's high",
   "name": "Running Club",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB"
@@ -3805,6 +3805,28 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "We Are One (feat. Bryn Christopher)",
+        "url": "https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202916,
+      "name": "We Are One (feat. Bryn Christopher)",
+      "url": "https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke"
     },
     {
       "album": {

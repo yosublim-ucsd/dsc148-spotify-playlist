@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TWICE
 
-922 songs - 2 day 2 hr 14 min
+923 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,6 +873,7 @@
 | [Wing Wing](https://open.spotify.com/track/1uKI4JKUIUJC0aXJqKCl6y) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Wing Wing](https://open.spotify.com/album/4SJ6tb6ajzNrmLY5w92XyD) | 3:15 | 2022-08-03 | 2022-09-07 |
 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 | 2023-12-07 |  |
 | [Wish](https://open.spotify.com/track/32rfwDhSWTWp5xAIa36B72) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [Wish](https://open.spotify.com/album/2CEtkvdTUlrdXn93Whpzr2) | 3:00 | 2024-01-25 |  |
+| [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 | 2024-02-27 |  |
 | [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 | 2023-10-12 | 2023-10-18 |
 | [With You](https://open.spotify.com/track/0O53SxVLSJ7v2xWOwZiS9w) | [B/ue](https://open.spotify.com/artist/6Hcc2Fny1noBc4YGVMQTze) | [With You](https://open.spotify.com/album/2Nw4hG9JHeAaj8AkFSBPYG) | 3:15 | 2021-12-23 | 2022-01-22 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-02 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-660 songs - 1 day 3 hr 58 min
+662 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Dianthus](https://open.spotify.com/track/5BzjvgbKD4J7qr6Qq3LN0Q) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Dianthus](https://open.spotify.com/album/7M847xnmEPmIyAIXiXTKJv) | 3:51 | 2022-07-15 | 2022-10-29 |
 | [Die Wanderbiene](https://open.spotify.com/track/45m0JU1iR7C5hJ0kPh86F2) | [Felix Trapp](https://open.spotify.com/artist/2hLNTVEFdpDyQrTMTousC6) | [Die Wanderbiene](https://open.spotify.com/album/2FbEevKy2zwnMLb4d7h1IY) | 3:09 | 2022-07-15 | 2023-04-22 |
 | [Different Ways of Losing You](https://open.spotify.com/track/7kWNxTQ5ZIHhLAkHTllHGO) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Different Ways of Losing You](https://open.spotify.com/album/5uKt8albwbbam6MBWkvhEo) | 2:40 | 2023-04-21 |  |
+| [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 | 2024-02-23 |  |
 | [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2023-04-21 | 2023-08-26 |
 | [Don't Be Shy](https://open.spotify.com/track/5RmX0yhb5eeLI9QUawpnHp) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Don't Be Shy](https://open.spotify.com/album/3CbgkGlLHbAvU8I8L9IBcu) | 3:53 | 2022-07-15 | 2022-10-29 |
 | [Don't Save Me Yet](https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Don't Save Me Yet](https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN) | 3:06 | 2022-07-15 | 2023-04-22 |
@@ -177,7 +178,7 @@
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-04-22 |
 | [Día Fácil](https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Día Fácil](https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb) | 3:01 | 2023-01-06 | 2023-04-22 |
 | [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2023-04-21 | 2024-01-19 |
-| [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2023-04-21 |  |
+| [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2023-04-21 | 2024-02-29 |
 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 | 2022-07-15 | 2023-04-22 |
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2023-04-21 | 2024-01-07 |
@@ -464,7 +465,7 @@
 | [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2023-04-21 | 2023-11-05 |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 |  |
 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 | 2023-11-22 |
-| [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2023-04-21 |  |
+| [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2023-04-21 | 2024-02-29 |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-04-21 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2023-04-21 |  |
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2023-04-21 | 2023-06-09 |
@@ -653,6 +654,7 @@
 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2023-04-21 | 2023-11-30 |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 |  |
 | [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-04-21 | 2023-08-26 |
+| [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-02-23 |  |
 | [Winter Escape](https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 2:49 | 2022-07-15 | 2022-10-07 |
 | [Winter In Tarifa](https://open.spotify.com/track/1sgGFGC1iftGshE6fH03yL) | [Álvaro Mondo Fernández](https://open.spotify.com/artist/2V18SFrY5UqNXeFLJZlYX9) | [Winter In Tarifa](https://open.spotify.com/album/52S7cB4WieRJMibAj4w2Cv) | 2:05 | 2023-04-21 | 2023-05-13 |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-04-21 |  |

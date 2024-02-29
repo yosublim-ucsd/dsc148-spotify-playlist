@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 114260,
+  "num_followers": 114302,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2Q4MDk3ZTYwMTBmZjgxNDJkZWM4NWU3YTY1N2ZlOGVlMjU2NDRl",
+  "snapshot_id": "MCw4ZTcyNDMxMTJmOTllZWRmODk2ZDQzOGRkNWZlODQwNTIxYjgyNTUz",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Fatal Fantassy",
-        "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
       "artists": [
         {
-          "name": "Dj Joe",
-          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
+          "name": "Lito y Polaco",
+          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
         }
       ],
-      "duration_ms": 172434,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
+      "duration_ms": 177640,
+      "name": "Maniatica Sexual",
+      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+        "name": "Fatal Fantassy",
+        "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
       },
       "artists": [
         {
-          "name": "Lito y Polaco",
-          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+          "name": "Dj Joe",
+          "url": "https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Maniatica Sexual",
-      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
+      "duration_ms": 172434,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Pers\u00edgueme",
-      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 114093,
       "name": "Sientela",
       "url": "https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
+      },
+      "artists": [
+        {
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Pers\u00edgueme",
+      "url": "https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r"
     },
     {
       "added_at": "2021-12-20 17:02:25",

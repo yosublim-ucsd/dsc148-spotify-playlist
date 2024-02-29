@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 431786,
+  "2024-02-29": 431824,
   "date_first_scraped": "2020-10-13",
   "description": "glaivepilled",
   "name": "hyperpop",
@@ -38166,25 +38166,7 @@
     },
     {
       "album": {
-        "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
-        "url": "https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "date_added": "2022-10-28",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
-      "duration_ms": 149691,
-      "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
-      "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
-    },
-    {
-      "album": {
-        "name": "where\u2019s my head at _",
+        "name": "where's my head at _",
         "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
       },
       "artists": [
@@ -38201,8 +38183,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152822,
-      "name": "where\u2019s my head at _",
+      "name": "where's my head at _",
       "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
+    },
+    {
+      "album": {
+        "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
+        "url": "https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 149691,
+      "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
+      "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
     },
     {
       "album": {

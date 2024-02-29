@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-296 songs - 16 hr 44 min
+297 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [By Daylight](https://open.spotify.com/track/2oSGJGvygj2kAr0flE4fmM) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [City Life](https://open.spotify.com/album/2i47kGSyOtZQA7kckmakTO) | 2:38 | 2022-07-19 |  |
 | [Call Of The Sea](https://open.spotify.com/track/19eQWCG7R2ue0tdkXoW1zN) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Celtic Chillout](https://open.spotify.com/album/3dUxLZPlSWVYHgJ8HVmtZH) | 5:00 | 2022-06-29 |  |
 | [Carousel](https://open.spotify.com/track/30ykZqam6zAwBhE2gz0kxB) | [Peppermoth](https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih) | [Glimmer Tide](https://open.spotify.com/album/4G2srZ65v02HfzENrB9wdr) | 4:10 | 2022-06-29 | 2023-11-22 |
+| [Celestial Serenity](https://open.spotify.com/track/10qAwjxWsZCrnHwrHcxJh9) | [Elysia Adler](https://open.spotify.com/artist/2h1JbJb38it4V14TTHwkha) | [Celestial Serenity](https://open.spotify.com/album/2uO2aY0fJuJwA1fglKA6Aw) | 3:02 | 2024-02-22 |  |
 | [Cherry Blossom Petals Fall Like Heavy Snow](https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Forgotten Hill](https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf) | 5:21 | 2022-06-29 |  |
 | [Chysis](https://open.spotify.com/track/4amtIW0nNo9rCbXaaSjNWq) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Chysis](https://open.spotify.com/album/0drvxNZQIE3XamUrN7yhA5) | 6:24 | 2022-07-19 |  |
 | [Chysis](https://open.spotify.com/track/6mYwBPBDXp6US3zyYgpvHY) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Chysis](https://open.spotify.com/album/27jkNII5NNORpvfdzkD9Wd) | 6:24 | 2022-06-29 | 2022-07-29 |
@@ -123,7 +124,7 @@
 | [Genetic Waves](https://open.spotify.com/track/67dgZaF5Jw38my0ch6npwA) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Wake Me Softly](https://open.spotify.com/album/6ARc0MH301kItHchIEZJST) | 6:04 | 2022-06-29 |  |
 | [Gentle Caress](https://open.spotify.com/track/1jdDQ30GtvIFNYzwJnVvzx) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:35 | 2023-03-30 |  |
 | [Hace](https://open.spotify.com/track/0bue1JgHGIHZS8ld6dTgwL) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Couloir](https://open.spotify.com/album/7ksdXmAXYDCxW6oqcqTHFM) | 2:49 | 2022-06-29 | 2022-07-29 |
-| [Hace](https://open.spotify.com/track/4LQZvoUJwDfKSuQn48fkVC) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Couloir](https://open.spotify.com/album/1CzbO0sIwCd4GUflDYpavN) | 2:49 | 2023-06-02 |  |
+| [Hace](https://open.spotify.com/track/4LQZvoUJwDfKSuQn48fkVC) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Couloir](https://open.spotify.com/album/1CzbO0sIwCd4GUflDYpavN) | 2:49 | 2023-06-02 | 2024-02-29 |
 | [Harmony](https://open.spotify.com/track/1LoSMWEPpmlqqM0vRdB9gv) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Harmony](https://open.spotify.com/album/6rsFfeuO56zebh3BbZGoQ1) | 2:39 | 2022-07-19 |  |
 | [Harmony](https://open.spotify.com/track/1QOjjaBWJzxd4KLzVkGnL2) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Harmony](https://open.spotify.com/album/75rmL6hmaHE2mbXAo1gs7C) | 2:39 | 2022-06-29 | 2022-07-29 |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2022-06-29 |  |

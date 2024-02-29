@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-780 songs - 1 day 21 hr 22 min
+781 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,7 @@
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy) | 3:11 | 2022-04-06 | 2023-01-29 |
 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 | 2023-02-04 | 2023-02-25 |
 | [بوغاتي](https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [بوغاتي](https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7) | 2:34 | 2022-03-24 | 2022-04-17 |
-| [بوم تش](https://open.spotify.com/track/6S6nYPaoZSmXbcbw6pVMvR) | [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48), [كلوشه](https://open.spotify.com/artist/57JzLjScfw2AbQCjCPgvX8) | [بوم تش](https://open.spotify.com/album/6zkkH7fiLnyoKkrqZEpU6L) | 5:11 | 2024-01-19 |  |
+| [بوم تش](https://open.spotify.com/track/6S6nYPaoZSmXbcbw6pVMvR) | [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48), [كلوشه](https://open.spotify.com/artist/57JzLjScfw2AbQCjCPgvX8) | [بوم تش](https://open.spotify.com/album/6zkkH7fiLnyoKkrqZEpU6L) | 5:11 | 2024-01-19 | 2024-02-29 |
 | [بونجور هلعب جولة وطفو النور](https://open.spotify.com/track/2X6nInxASivyRpPPNToiD0) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [بونجور هلعب جولة وطفو النور](https://open.spotify.com/album/7HF3n8vA2aCNJH0UpZWECf) | 5:55 | 2024-01-01 |  |
 | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/track/0rkDJCTNLBr97RVyi77z7S) | [Raouf Morsy](https://open.spotify.com/artist/4Me8b17cDKOf8pMkdnH0Hy) | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/album/0yZqqqqkKC8lqEI6pbk3m6) | 3:29 | 2024-01-21 | 2024-01-23 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
@@ -779,6 +779,7 @@
 | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/track/6YXMo6FHDrTLG0ksd9vWeP) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/album/2o4PSrpaRP4yvaAtB5HPL5) | 4:10 | 2023-05-24 | 2023-05-26 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-10-22 | 2024-02-28 |
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-04 | 2023-05-05 |
+| [ومعاك](https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [ومعاك](https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10) | 3:55 | 2024-02-28 |  |
 | [وهي ذكريات](https://open.spotify.com/track/4bya2rNB4cyEkLNYqGJRwv) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [الليله](https://open.spotify.com/album/2oLhDl2bOeU1Ph56u7UyjC) | 3:18 | 2023-10-27 |  |
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-03-01 | 2022-03-07 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-22 | 2022-05-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Kırık Pena Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,084 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,087 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/track/5sYbtAXL5NSzNbzXa2D5fk) | [Thieves on the Overpass](https://open.spotify.com/artist/1J7Qxvd5r2VbamNI8sayEG) | [Dağ Zirvesinde Gemi Enkazı](https://open.spotify.com/album/39unU0lEyeOjTSm17eLW4e) | 4:01 |
 | 50 | [Güneş Gözlerin](https://open.spotify.com/track/7BbYcOXOggdxJlLltk7sxb) | [Tavşantepe](https://open.spotify.com/artist/1dYJEhfbw5p707fONQlOam) | [Güneş Gözlerin](https://open.spotify.com/album/7qQUGttiFbulAOKQQFIF0A) | 3:59 |
 
-Snapshot ID: `MCxkYTNlM2M2NGQwNjk4MDdjZmYxOGU2NDUxNTkzOWY0ZDY3ZTM2MTY4`
+Snapshot ID: `MCwwNGQzZjc0M2Y4ZDg5NDkzOGFhNTk3NzcxYzMyZGNiOTg2ZTk3NmFm`

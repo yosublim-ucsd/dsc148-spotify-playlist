@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time. Cover: C\u00e9line Dion and Taylor Swift ",
-  "num_followers": 1732707,
+  "num_followers": 1732875,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWRiMDc4ZTFhYWM3Y2UxZGM5MDYyNTNhYmFkNGMwNDZlMDA0YzJm",
+  "snapshot_id": "MCxkZDk4MmU4NjA2NjYwMjk5Y2JjMDE5ZmU5MDhlZDQyNzA0ZTc3OTkz",
   "tracks": [
     {
       "added_at": "2024-02-05 05:16:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-05 05:16:14",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
-    },
-    {
-      "added_at": "2024-02-05 05:16:14",
-      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "added_at": "2024-02-05 05:16:14",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
     },
     {
       "added_at": "2024-02-05 05:16:14",

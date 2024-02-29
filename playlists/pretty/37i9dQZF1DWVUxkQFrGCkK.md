@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > warming up for ibz szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,057 likes - 214 songs - 15 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,267 likes - 214 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 27 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
 | 28 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 |
 | 29 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
-| 30 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/31g7JATEtYU3uIJBQAc2cW) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 4:41 |
+| 30 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 |
 | 31 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
 | 32 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 |
 | 33 | [Dollar $hort \- Blank Sense Remix](https://open.spotify.com/track/7jivmDV4po63ctjWWbMqNa) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort \(Remixes\)](https://open.spotify.com/album/6cJqDVDPXmcGVKenYEXDev) | 3:18 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 213 | [Freekazoid \- Ruff Mix](https://open.spotify.com/track/4ICacB65QM2k0ET6oGeF4n) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Freekazoid](https://open.spotify.com/album/1LJYdPsBqkqZZRa5wnonsK) | 5:47 |
 | 214 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
-Snapshot ID: `MCwwMjk4N2RjNWY4NzkyZDBjZjEwYzdhYmFiMzc0MDZkNWJjNTlkNTc4`
+Snapshot ID: `MCxjNWYwNmY4YTllN2JmYjZiNGMxY2M0OTVhZTgwOWNjMzNlNWNhNjMx`

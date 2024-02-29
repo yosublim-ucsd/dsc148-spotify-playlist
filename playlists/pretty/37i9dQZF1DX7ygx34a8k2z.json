@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 207295,
+  "num_followers": 207553,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTZiNGYzNzQxOWQ3ZjA4ZDllZDJiOWQzMDZhM2EyMzNiMmRiZGI3",
+  "snapshot_id": "MCw0MzE0ZWIyMGZlNTkwZDUxZGUwNTFkMWJlMzZiMmVmMDgzMjEzNzk5",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Mellow Gold",
-        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 236533,
       "name": "Only Happy When It Rains",
       "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 318373,
-      "name": "Autumn Sweater",
-      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+      "duration_ms": 182386,
+      "name": "Music When The Lights Go Out",
+      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 182386,
-      "name": "Music When The Lights Go Out",
-      "url": "https://open.spotify.com/track/3cU9b4vb5yzyM12RXJ1k3s"
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
     },
     {
       "added_at": "2024-02-07 18:19:28",

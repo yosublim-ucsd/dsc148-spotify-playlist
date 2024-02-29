@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 828586,
+  "num_followers": 829038,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzMwNGFiODMxNzViZDZmZmY0NThiNjFkNjk5OWEyNWU3YTM2OGRk",
+  "snapshot_id": "MCwwOWMzM2ZhNzg5NTAzMDZlN2FhMjUxMzlhY2QyYjRhMWVhNjQzNWE1",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Kiss It Better (Dance Remix)",
+        "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Kiss It Better - R3hab Remix",
+      "url": "https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 226875,
       "name": "Sweet but Psycho - Morgan Page Dance Remix",
       "url": "https://open.spotify.com/track/1gwwks3lIsvJq5pDJ82fKK"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Kiss It Better (Dance Remix)",
-        "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Kiss It Better - R3hab Remix",
-      "url": "https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -771,26 +771,6 @@
       "duration_ms": 252933,
       "name": "Something Just Like This - Alesso Remix",
       "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -915,6 +895,26 @@
       "duration_ms": 195453,
       "name": "Wet - Remix",
       "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "One Kiss (with Dua Lipa) [Remixes]",
         "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 281266,
       "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Kings & Queens (The Remixes)",
+        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Kings & Queens - MOTi Remix",
+      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Rain On Me (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 238048,
       "name": "Rain On Me - Purple Disco Machine Remix - Edit",
       "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Kings & Queens (The Remixes)",
-        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Kings & Queens - MOTi Remix",
-      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Easier (Seeb Remix)",
-        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
+        "name": "Love Myself (Remixes)",
+        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         },
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "Ian Spurrier",
+          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
         }
       ],
-      "duration_ms": 165767,
-      "name": "Easier - Seeb Remix",
-      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
+      "duration_ms": 221720,
+      "name": "Love Myself - KREAM Remix",
+      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Love Myself (Remixes)",
-        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
+        "name": "Easier (Seeb Remix)",
+        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         },
         {
-          "name": "Ian Spurrier",
-          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         }
       ],
-      "duration_ms": 221720,
-      "name": "Love Myself - KREAM Remix",
-      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
+      "duration_ms": 165767,
+      "name": "Easier - Seeb Remix",
+      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1343,6 +1343,30 @@
       "duration_ms": 233902,
       "name": "What About Us - Cash Cash Remix",
       "url": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Happier (Remixes)",
+        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
+      },
+      "artists": [
+        {
+          "name": "SPENCE",
+          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Happier - Breathe Carolina Remix",
+      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1391,30 +1415,6 @@
       "duration_ms": 183344,
       "name": "I Know You (feat. Bastille) - Vigiland Remix",
       "url": "https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Happier (Remixes)",
-        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
-      },
-      "artists": [
-        {
-          "name": "SPENCE",
-          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Happier - Breathe Carolina Remix",
-      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Hurts So Good (Remixes)",
+        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Hurts So Good - Broiler Remix",
+      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Happy Now (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6NjkiK78KEOoE8FLDKdtDS"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 189268,
       "name": "Happy Now - R3HAB Remix",
       "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Hurts So Good (Remixes)",
-        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Hurts So Good - Broiler Remix",
-      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2027,26 +2027,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "First Time (Remixes)",
-        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
+        "name": "September Song (Remixes)",
+        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Mark Ralph",
+          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
         }
       ],
-      "duration_ms": 173440,
-      "name": "First Time - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
+      "duration_ms": 215030,
+      "name": "September Song - Indian Summer Mix",
+      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2075,22 +2071,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "September Song (Remixes)",
-        "url": "https://open.spotify.com/album/2Gq7KJ5yRicUfoDL4LR3K1"
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Mark Ralph",
-          "url": "https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 215030,
-      "name": "September Song - Indian Summer Mix",
-      "url": "https://open.spotify.com/track/1d33rv3YwKEoc7rtTVWCqt"
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     },
     {
       "added_at": "2023-07-03 13:15:34",

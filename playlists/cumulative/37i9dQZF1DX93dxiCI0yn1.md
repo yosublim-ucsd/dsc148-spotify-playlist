@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-126 songs - 6 hr 8 min
+127 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Dojo](https://open.spotify.com/track/1I9Q59UZaSNWA2DeWdDh4c) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Dojo](https://open.spotify.com/album/6O1Iz6hmm73qvBjFoBYZZw) | 2:19 | 2024-01-30 |  |
 | [Dojo](https://open.spotify.com/track/6jTJ2td7rnayXgtQ31QrQo) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Dojo](https://open.spotify.com/album/4MbUwhqauyjV9V6lKJ4eSq) | 2:19 | 2024-01-30 | 2024-02-01 |
 | [Don't like summer](https://open.spotify.com/track/7uSk16r78Ejl0f7ZxqJzdH) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Don't like summer](https://open.spotify.com/album/3apAwF4afRBWwmRJtpVGYU) | 2:33 | 2023-10-24 |  |
-| [ENTP](https://open.spotify.com/track/6igeqg948vsEYv5sKvIfvt) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt) | 2:01 | 2024-02-27 |  |
+| [ENTP](https://open.spotify.com/track/0beiy2vUUzpc9TsfCuhOLB) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/25abs1n4crwVKrM8SjwP1u) | 2:01 | 2024-02-27 |  |
+| [ENTP](https://open.spotify.com/track/6igeqg948vsEYv5sKvIfvt) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Spada](https://open.spotify.com/artist/7wgxskXXAiYMnL2fVQgrGt), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [ENTP](https://open.spotify.com/album/2ka6rAgcvpqfGJQKx6oWDt) | 2:01 | 2024-02-27 | 2024-02-29 |
 | [febris](https://open.spotify.com/track/5Cz3D5zAzQa2ZrFnhc3q0s) | [JIROW WONDA](https://open.spotify.com/artist/12203Jb7IJuZD6yj6bgVi5) | [febris](https://open.spotify.com/album/2qHVJRyuzYcLRUJ7ippENn) | 2:21 | 2023-10-24 |  |
 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 | 2023-10-24 |  |
 | [FLIGHT MODE](https://open.spotify.com/track/6gjj1HaeCQzBVqg6EE3PFD) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [WHOOPEE LAND](https://open.spotify.com/album/0hue9kuX7nULpylyGYvMDS) | 2:29 | 2023-10-24 | 2024-02-21 |

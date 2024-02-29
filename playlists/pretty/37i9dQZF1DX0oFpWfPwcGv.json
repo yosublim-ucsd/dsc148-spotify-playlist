@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 59861,
+  "num_followers": 59898,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjcwYjg0YTBiNWYwMDVhZTI0MTA0YTExODQ3ZmVlYTJjNDA0NmVi",
+  "snapshot_id": "MCwwYWQ0ZmRlZmUwYjIyOWJjZDA4YjJmMzhhN2Y5YjNiZmI3NjhhMTk5",
   "tracks": [
     {
       "added_at": "2024-02-12 15:00:21",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "King Of The World",
-        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
-      },
-      "artists": [
-        {
-          "name": "Sheila",
-          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "King Of The World",
+        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 230967,
       "name": "Can You Feel It - 7\" Version",
       "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2024-02-12 15:00:21",

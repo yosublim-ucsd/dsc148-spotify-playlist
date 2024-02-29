@@ -17386,7 +17386,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 145020,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/3MPdPrAI2rKY5uY9qbSOtm"
@@ -23658,6 +23658,24 @@
       "duration_ms": 191707,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/6ulc6gwAFUBEhCd5BCF6yh"
+    },
+    {
+      "album": {
+        "name": "See the Patterns",
+        "url": "https://open.spotify.com/album/6OiXMsYRQaD0fCNwVEx6Xa"
+      },
+      "artists": [
+        {
+          "name": "nikhil",
+          "url": "https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "See the Patterns",
+      "url": "https://open.spotify.com/track/54rKzUySpkE6LOoFniDc4e"
     },
     {
       "album": {

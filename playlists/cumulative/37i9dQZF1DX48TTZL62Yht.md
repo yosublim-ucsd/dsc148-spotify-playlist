@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: <a href="spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ">Gunna</a>
 
-714 songs - 1 day 12 hr 54 min
+715 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-11-08 | 2023-12-23 |
 | [fast \(Remix\) \[feat\. Offset & A Boogie Wit da Hoodie\]](https://open.spotify.com/track/2xKQj6P0TgxBVaRiojP2s2) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [fast \(Remix\) \[feat\. Offset & A Boogie Wit da Hoodie\]](https://open.spotify.com/album/5tBiYfpUVEht2Fk5rarNFl) | 2:40 | 2022-04-01 | 2022-04-21 |
 | [Faucet Failure](https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:25 | 2022-04-01 | 2022-08-05 |
+| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-02-28 |  |
 | [Feel It Now](https://open.spotify.com/track/2TkZXves3fg88cG7WTYL3C) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Feel It Now](https://open.spotify.com/album/5fx7uyCasWxrfb8BPwB4zR) | 3:08 | 2022-04-01 | 2022-04-16 |
 | [Feelin' Like Tunechi](https://open.spotify.com/track/4HTY26kzdGCKJF1EqcRd2J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Trust Fund Babies](https://open.spotify.com/album/2gDny6NDG26azxuTbtNxgq) | 3:06 | 2022-01-07 | 2022-07-28 |
 | [Feelin' Peachy](https://open.spotify.com/track/6z0GOxuc3tQHNI806lWezu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Happy Birthday Kodak](https://open.spotify.com/album/52Buhte2zLFUEdbQFVsxNd) | 3:11 | 2022-04-01 | 2022-04-25 |
@@ -441,7 +442,7 @@
 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 | 2023-06-16 |  |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2022-03-11 | 2022-07-19 |
 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 | 2022-07-28 | 2022-09-30 |
-| [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2024-02-23 |  |
+| [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2024-02-23 | 2024-02-29 |
 | [OKAY \(feat\. Vory\)](https://open.spotify.com/track/65UMCdooEyQ6dQHmbgwEVS) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [OKAY](https://open.spotify.com/album/5B7pNKgmdLGj1PJsyKwhGA) | 3:30 | 2022-01-07 | 2022-07-29 |
 | [On a Roll](https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [On a Roll](https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI) | 2:27 | 2022-04-29 | 2022-05-03 |
 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 | 2022-01-07 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-317 songs - 15 hr 5 min
+318 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Jatt Naal Yaari](https://open.spotify.com/track/2P3foCzLxJPobVTVzQGIQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jatt Naal Yaari](https://open.spotify.com/album/6q2iZjYKWC4gNHfb6C6cHr) | 3:00 | 2023-03-29 | 2023-04-25 |
 | [Jatta Ve](https://open.spotify.com/track/7oWnaeVhCW0cqypHaOOJ1u) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Guri Singh](https://open.spotify.com/artist/4tHWvy5DmCGSp8oIzFalUH) | [Jatta Ve](https://open.spotify.com/album/3eRh8KRPybLy4wDDnUnYBi) | 2:52 | 2023-05-09 | 2023-05-27 |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-03-29 |  |
-| [Jawani](https://open.spotify.com/track/6gxKi4gPXcvG52gsRogOIS) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:36 | 2023-11-07 |  |
+| [Jawani](https://open.spotify.com/track/6gxKi4gPXcvG52gsRogOIS) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Villain](https://open.spotify.com/album/5tS0ZaJl2qopJ4ghermqUS) | 2:36 | 2023-11-07 | 2024-02-29 |
 | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/track/1KmyApvwFh2hlka9tRtOAQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/album/4EiQxvP9hSNKZOv77dJetJ) | 3:22 | 2023-06-13 | 2023-11-08 |
 | [Jhoonte](https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Jhoonte](https://open.spotify.com/album/0MXIzksYo12EZKYQiGC8KT) | 2:30 | 2023-04-03 | 2023-04-21 |
 | [Jithon Marji Puchli](https://open.spotify.com/track/3CUCtrH1gxtvdlHVBoS2A2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Luxury](https://open.spotify.com/album/2FyyQsfCgLxlWK2etDRUle) | 4:23 | 2023-06-13 | 2023-09-30 |
@@ -266,6 +266,7 @@
 | [Sher Jatt](https://open.spotify.com/track/5rhKSzzT9Y7yBGcdmU0j82) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Nav Garhiwala](https://open.spotify.com/artist/2ZP4fYUwJqNeeAWlYuYzDH) | [Sher Jatt](https://open.spotify.com/album/4wKOpjJooFss9cVWYTnvnM) | 3:01 | 2023-10-06 |  |
 | [Shkeeni](https://open.spotify.com/track/5gdC8ta2mYqeIKlhEJ7P4r) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Shkeeni](https://open.spotify.com/album/4BEpixmSWX6KvC1t0MZnG2) | 2:24 | 2023-12-06 | 2024-01-06 |
 | [Shohrat](https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Shohrat](https://open.spotify.com/album/67gVqqexjN9khVmggJsLg5) | 3:39 | 2023-03-29 |  |
+| [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/track/2700UzxCsjDddJ8VSXy897) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Short Name Jatt Da Blackia \(From "Blackia 2"\)](https://open.spotify.com/album/1tCqmDuBM1V3O9XFyWHrVy) | 2:49 | 2024-02-28 |  |
 | [Shortie](https://open.spotify.com/track/2cZ2xCQL2Zgp9KMq8zERY1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Nakeeta](https://open.spotify.com/artist/0uSiLWLgqqR7SUL00iz0iZ), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:49 | 2023-07-27 | 2023-09-12 |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-20 | 2023-07-01 |
 | [Silicone](https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/7o8vQPQ3JQVz3g2hjvmC2u) | 3:26 | 2023-06-30 |  |

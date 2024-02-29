@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 173822,
       "name": "Carola (Live)",
       "url": "https://open.spotify.com/track/4DaC0h77cp8NWHtTW8ECEo"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 228211,
       "name": "El Cicl\u00f3n (Live)",
       "url": "https://open.spotify.com/track/5LhlhZaOJVIYJWOGTiIp8u"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 216711,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
@@ -1014,6 +1014,24 @@
       "duration_ms": 237586,
       "name": "En Silencio Te Amar\u00e9",
       "url": "https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4"
+    },
+    {
+      "album": {
+        "name": "El Burro Le\u00f1ero",
+        "url": "https://open.spotify.com/album/2YlM4ylMqp7rzXpsE9lXJJ"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233038,
+      "name": "Entre Rejas",
+      "url": "https://open.spotify.com/track/1jBGM9PNMIZCe46WQ3i4ZB"
     },
     {
       "album": {
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 210208,
       "name": "Golpe Con Golpe",
       "url": "https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 219980,
       "name": "La Colegiada (Live)",
       "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 220504,
       "name": "Ojitos Hechiceros (Live)",
       "url": "https://open.spotify.com/track/5ux1midcVSDCZCuOTlU5Uy"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 244506,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 243024,
       "name": "Tabaco Y Ron (Live)",
       "url": "https://open.spotify.com/track/24RO2HsK6v0mH8EqplKR9u"

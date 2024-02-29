@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-1,441 songs - 3 day 15 hr 31 min
+1,442 songs - 3 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [i.d.m.](https://open.spotify.com/track/6F9a1oxY5q5oV0tIoioH7u) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [i.d.m.](https://open.spotify.com/album/0LEBJBoWkx8DuUqdlvguHy) | 3:03 | 2022-08-30 | 2022-12-14 |
 | [ia](https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/3hfq2hcMkXGUl6tewG5yQT) | 4:14 | 2022-07-28 | 2022-08-10 |
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
-| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 |  |
+| [IAI](https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo) | 3:03 | 2024-02-27 |  |
+| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-12 | 2023-02-17 |
 | [Ima Ni Muchusa \-Hooked on Now\-](https://open.spotify.com/track/6hA0jCjXVkz1ScvcPnBaQk) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Ima Ni Muchusa \-Hooked on Now\-](https://open.spotify.com/album/6mGnSY6WxNxnR6VC9lu5c5) | 2:55 | 2022-09-08 | 2022-10-05 |
 | [Imperfection](https://open.spotify.com/track/0yhd8yWyOhAc1beip5G0sm) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [Imperfection](https://open.spotify.com/album/547HGOx1RVJqsD6mp7241Z) | 3:16 | 2023-11-07 | 2023-12-06 |

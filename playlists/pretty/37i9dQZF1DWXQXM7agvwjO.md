@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: flu \(Phillipines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,251 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,314 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 15 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 |
 | 16 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
 | 17 | [Coming Home Isn't Easy \(feat\. Phum Viphurit\)](https://open.spotify.com/track/3BcNAUgEbT22O0K0DkUGFi) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Coming Home Isn't Easy \(feat\. Phum Viphurit\)](https://open.spotify.com/album/1jzXPiCE938LMWgUlJ20PA) | 3:10 |
-| 18 | [Breakup Never Felt So Good](https://open.spotify.com/track/50m4RCFL1hNROtgyiaZZh4) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Breakup Never Felt So Good](https://open.spotify.com/album/5rxzoj1VmwVReuZPEPc9aW) | 3:08 |
+| 18 | [love you soul <3](https://open.spotify.com/track/1Ch4Uwouu50i3hExy8EvTN) | [minisoul](https://open.spotify.com/artist/7quyOUEWaBIlVop7ODr3OK) | [minisoul \#1](https://open.spotify.com/album/5rnLcuibCnG3ZYNHytbn68) | 2:22 |
 | 19 | [Enough For Me](https://open.spotify.com/track/4m9HmldJ0OaaBkvSIFeODT) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Enough For Me](https://open.spotify.com/album/4CA3OcPU9rJP6gV0uF9tTW) | 3:18 |
 | 20 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 |
 | 21 | [Honeymoon](https://open.spotify.com/track/6lbV4fjdidtNPvjo0sGDZr) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeymoon](https://open.spotify.com/album/1Ux3c9n4YtI45ZvBZmllhs) | 3:17 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 91 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 92 | [venus](https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza) | 4:10 |
 | 93 | [ฟ้ามืดทีไร](https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ฟ้ามืดทีไร](https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss) | 4:38 |
-| 94 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
-| 95 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
+| 94 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
+| 95 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
 | 96 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 |
-| 97 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
-| 98 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 |
-| 99 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
-| 100 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 |
+| 97 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 |
+| 98 | [Breakup Never Felt So Good](https://open.spotify.com/track/50m4RCFL1hNROtgyiaZZh4) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Breakup Never Felt So Good](https://open.spotify.com/album/5rxzoj1VmwVReuZPEPc9aW) | 3:08 |
+| 99 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
+| 100 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
 
-Snapshot ID: `MCxlMzRjZTlmMzVmMWJhOWUyYWJlZGY0MzdlN2E4NTExZWE2NGU0YjFi`
+Snapshot ID: `MCw4M2VhNGI4Mzg2M2U1ZWVjN2MwNDgwNGJjNDgzNjVmYzM2ZDQxODg4`

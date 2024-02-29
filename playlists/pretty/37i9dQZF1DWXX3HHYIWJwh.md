@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,481 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,492 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 35 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
 | 36 | [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 |
 | 37 | [Hypothetically](https://open.spotify.com/track/75bCi1IBr1ot7uMSFMTUad) | [SHŌJO](https://open.spotify.com/artist/6UHps917v3QGDMJ0HkiBO0), [Lisa Remar](https://open.spotify.com/artist/71Pw9VanbUtPzvO0XiO9im) | [Hypothetically](https://open.spotify.com/album/1xBgzEANBKR6AhYDva26Bg) | 2:47 |
-| 38 | [MVP](https://open.spotify.com/track/6czqkAzWPJDynXFiJSSlw8) | [Takanori Iwata](https://open.spotify.com/artist/2cD2ndst4zaoaoNldSXhMH) | [MVP](https://open.spotify.com/album/63Ode5ZKMSYId6hWzHfY5k) | 3:19 |
+| 38 | [Nemo](https://open.spotify.com/track/7pv8pecHsyLltcAIkMgONT) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [SUKI](https://open.spotify.com/album/5FtdjnKZr1DPSFCPQQiQeR) | 3:07 |
 | 39 | [ムーピー・ゲーム](https://open.spotify.com/track/5mIiw5oitPi3f0UUQuOFac) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [ムーピー・ゲーム](https://open.spotify.com/album/4BClbOCfFJOawt5SgWVLdm) | 2:58 |
 | 40 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 41 | [TWINKLE WINK](https://open.spotify.com/track/6v17C5vQYvslhsK9y8y4ys) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [TWINKLE WINK](https://open.spotify.com/album/0wvGfRqHQswN9wb7RGtKkn) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 49 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 50 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 
-Snapshot ID: `MCwwOWI5OGNhZTQyNDA5ZTM2ZjNjODRmYjdjZTgxYjEzMTQzNDc1YzM2`
+Snapshot ID: `MCwxZDcyYmM3ZTg2MzMyMWJmMjQ2ZmU5ODk5NjRhMmZjYjkxNWZhMWY1`

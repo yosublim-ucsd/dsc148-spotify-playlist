@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 70734,
+  "num_followers": 70769,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRmYmVhYjQ0ODg4OTdjYTBlOTU4ZTUyZTUxZWE4MWNkZTBkMmVl",
+  "snapshot_id": "MCw1NzIyNTg5YzlmZDRlNTBhMGQwMzFhMGQ4ZjhmN2RkYzI1ZWZiZDE5",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -379,8 +379,8 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/6PntwdcQ98hWY6cwugRJMw"
+        "name": "Game Of Hate",
+        "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
       },
       "artists": [
         {
@@ -392,13 +392,13 @@
           "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
         },
         {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
         }
       ],
-      "duration_ms": 185214,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/4DKSnd7K0T9C7xnhIfeRnB"
+      "duration_ms": 180571,
+      "name": "Game Of Hate",
+      "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -483,8 +483,8 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Game Of Hate",
-        "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/6PntwdcQ98hWY6cwugRJMw"
       },
       "artists": [
         {
@@ -496,13 +496,13 @@
           "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
         },
         {
-          "name": "Barber",
-          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
         }
       ],
-      "duration_ms": 180571,
-      "name": "Game Of Hate",
-      "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+      "duration_ms": 185214,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/4DKSnd7K0T9C7xnhIfeRnB"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 195600,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Dirty Thoughts",
-        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        }
-      ],
-      "duration_ms": 158421,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 195000,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "duration_ms": 158421,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "PURSUIT",
-        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "PURSUIT",
-      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 171789,
       "name": "Fight Them All",
       "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "PURSUIT",
+        "url": "https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "PURSUIT",
+      "url": "https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Birds Of Prey",
         "url": "https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 185846,
       "name": "Birds Of Prey",
       "url": "https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "Outta Here",
-      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 208000,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
-      },
-      "artists": [
-        {
-          "name": "Lem-X",
-          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Wake Up Now",
-      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Beastmode",
         "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 241333,
       "name": "Beastmode",
       "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
+      },
+      "artists": [
+        {
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
     },
     {
       "added_at": "2024-02-15 23:00:00",

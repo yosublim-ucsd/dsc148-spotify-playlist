@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 19010,
+  "2024-02-29": 19012,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0\">Julia Michaels</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Julia Michaels",
@@ -3153,6 +3153,24 @@
       "duration_ms": 241074,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/6qRvw8yM3fOPbI2OxRcT09"
+    },
+    {
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "album": {

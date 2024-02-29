@@ -4337,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Bonds (Cello Version)",
+        "url": "https://open.spotify.com/album/1VEg5ZCrVsuhhTymFbBe3a"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60782,
+      "name": "Bonds - Cello Version",
+      "url": "https://open.spotify.com/track/4byXSP3ajtN8MNqgo8Cd3O"
+    },
+    {
+      "album": {
         "name": "Rising Light",
         "url": "https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be"
       },

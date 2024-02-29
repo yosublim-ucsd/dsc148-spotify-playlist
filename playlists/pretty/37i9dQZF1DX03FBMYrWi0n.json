@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
-  "num_followers": 4168,
+  "num_followers": 4175,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWI2MTNlYTkzNmJjZDRkMzBjYjdmODA5ZjFhNTE0YzAyM2QzYWYz",
+  "snapshot_id": "MCxhNjdhNzliMmIxOTlhYzgzMGJmODYxZmVkMDAwYjhjYmZkOWE3Mzgz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Aire de plastique",
         "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
       },
@@ -419,18 +403,34 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sainte-Col\u00e8re",
-        "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 155982,
-      "name": "Fant\u00f4mes",
-      "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "mile \u200eend (kiss ur friends)",
+        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "\u200echerry \u200estems",
+      "url": "https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "mile \u200eend (kiss ur friends)",
-        "url": "https://open.spotify.com/album/04EpaHiU3NdHePUCmxKyzJ"
+        "name": "Sainte-Col\u00e8re",
+        "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
       },
       "artists": [
         {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
         }
       ],
-      "duration_ms": 142222,
-      "name": "\u200echerry \u200estems",
-      "url": "https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy"
+      "duration_ms": 155982,
+      "name": "Fant\u00f4mes",
+      "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 223849,
       "name": "Comfort, Edge",
       "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+        "name": "Temp\u00eate",
+        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
       "artists": [
         {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Temp\u00eate",
-        "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
       "artists": [
         {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
         }
       ],
-      "duration_ms": 209680,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Razz",
-        "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
+        "name": "Combien \u00e7a co\u00fbte",
+        "url": "https://open.spotify.com/album/7x5T9OWipIP0Rp6P6SSYNM"
       },
       "artists": [
         {
-          "name": "Ev Bird",
-          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 155380,
-      "name": "Razz",
-      "url": "https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v"
+      "duration_ms": 163978,
+      "name": "Combien \u00e7a co\u00fbte",
+      "url": "https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Combien \u00e7a co\u00fbte",
-        "url": "https://open.spotify.com/album/7x5T9OWipIP0Rp6P6SSYNM"
+        "name": "Razz",
+        "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
       },
       "artists": [
         {
-          "name": "pataugeoire",
-          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
-        },
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
         }
       ],
-      "duration_ms": 163978,
-      "name": "Combien \u00e7a co\u00fbte",
-      "url": "https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK"
+      "duration_ms": 155380,
+      "name": "Razz",
+      "url": "https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v"
     }
   ],
   "unique_name": "ALT_QC",

@@ -4,7 +4,7 @@
 
 > Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.
 
-105 songs - 7 hr 41 min
+106 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,10 @@
 | [Barcelona Nights](https://open.spotify.com/track/2rJY1HlLcOXsQYMPUnhQxa) | [Ottmar Liebert](https://open.spotify.com/artist/1AhYnfs5mzb3ennyLFXlYD) | [Barcelona Nights: The Best Of Ottmar Liebert Volume One](https://open.spotify.com/album/0o91xvgRJz0ZLb5cCPzFo8) | 4:06 | 2022-01-21 |  |
 | [Buleria de Manuel](https://open.spotify.com/track/3LVBA3pqKNcNFyWOVjQOlI) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [El Chachi](https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R) | [Gypsy Rumba Flamenco](https://open.spotify.com/album/4SKgLW5QhafMeJocwxAleS) | 3:54 | 2022-01-21 |  |
 | [Buleria de Manuel](https://open.spotify.com/track/4fuHwoGTmKKJOq2gZHOQit) | [Manuel Lopez\-Ruiz](https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo), [El Chachi](https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R) | [Gypsy Rumba Flamenco](https://open.spotify.com/album/7dIgGhYPjc6AC9tT8a5wfj) | 3:54 | 2022-01-21 | 2022-07-29 |
+| [Bulerías de Jerez](https://open.spotify.com/track/1PGdB5KIGyDqhBoYvPh62s) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/59u4o1MpJ3aCZ1dRO7xIWU) | 4:24 | 2022-08-30 |  |
 | [Bulerías de Jerez](https://open.spotify.com/track/2NmNk7wMSJxyxUv1RuQYno) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/2xb8HjC4SXUB46MWJXvDHc) | 4:24 | 2022-01-21 | 2022-07-29 |
 | [Bulerías de Jerez](https://open.spotify.com/track/4FPOEn0Cw8cmEu4sxo7uRI) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/68aC5vlZj8hH3BjgiZgLn6) | 4:24 | 2022-08-30 | 2022-11-13 |
-| [Bulerías de Jerez](https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/3JGbQd6AttYZuvkl1GdGxt) | 4:24 | 2022-01-21 |  |
+| [Bulerías de Jerez](https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56) | [Jesús Méndez](https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB) | [Voz del Alba](https://open.spotify.com/album/3JGbQd6AttYZuvkl1GdGxt) | 4:24 | 2022-01-21 | 2024-02-29 |
 | [Bumblebeat](https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Mosaico](https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba) | 4:34 | 2022-01-21 |  |
 | [Cal y Arena](https://open.spotify.com/track/0goLhjfcuuCuc8AwMEGCov) | [Vasco Hernandez](https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM), [Vanesa Lledo](https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP), [Diego el Gavi](https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9), [Mariano Martos](https://open.spotify.com/artist/4IJDMdZIPM7TrCRqG1mbxM), [Violeta Barrio](https://open.spotify.com/artist/312QqHYy6WuciQQCuWsguB), [Joao Balao](https://open.spotify.com/artist/2KZpjZrljn55KF40jzoqMr), [Carlos Mil\-Homens](https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T) | [Flamenco Passion](https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK) | 3:31 | 2022-01-21 | 2022-07-29 |
 | [Cal y Arena \(Lime and Sand\)](https://open.spotify.com/track/0ztlNAjWEX2n6EwU47nAWQ) | [Vasco Hernandez](https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM), [Vanesa Lledo](https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP), [Diego el Gavi](https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9), [Mariano Martos](https://open.spotify.com/artist/4IJDMdZIPM7TrCRqG1mbxM), [Violeta Barrio](https://open.spotify.com/artist/312QqHYy6WuciQQCuWsguB), [Joao Balao](https://open.spotify.com/artist/2KZpjZrljn55KF40jzoqMr), [Carlos Mil\-Homens](https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T) | [Luz De Otra Manera](https://open.spotify.com/album/6TVAcRyDCNLiE8Twv9JHq3) | 3:31 | 2022-01-21 |  |

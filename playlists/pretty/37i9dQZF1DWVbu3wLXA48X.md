@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,210 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,215 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 |
 | 85 | [Follow Through \- Live](https://open.spotify.com/track/4UZ99247TMJabvsyAFRIHN) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Live In London](https://open.spotify.com/album/51CY8OpXGch76u6R5xlGHy) | 4:10 |
 
-Snapshot ID: `MCwyMmZhODUwYmNkMWQwNWFkNWQ5ZTI1YTljMzU4YmZmZjgyZjk4NTky`
+Snapshot ID: `MCxjMjM3ZTY0NGNlMTFkZjA5ZTZmOGRlMzBhMzNlNWEzZWI2YWZkZTI1`

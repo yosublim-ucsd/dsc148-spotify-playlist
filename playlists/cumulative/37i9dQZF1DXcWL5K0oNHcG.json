@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Lawrence Fields Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Jasmine Myra. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -4490,6 +4490,36 @@
       "duration_ms": 368734,
       "name": "Clay - Original Mix",
       "url": "https://open.spotify.com/track/3pRhHDOsDxWcWXrW5YTgxd"
+    },
+    {
+      "album": {
+        "name": "PSA",
+        "url": "https://open.spotify.com/album/759qx30YELpUI8WKhI9A39"
+      },
+      "artists": [
+        {
+          "name": "PSA Trio",
+          "url": "https://open.spotify.com/artist/2bNZBhqkQQmGNxi0Ww4wLM"
+        },
+        {
+          "name": "Pritesh Walia",
+          "url": "https://open.spotify.com/artist/0ORfsDblQJojstbMvfoZnl"
+        },
+        {
+          "name": "Sharik Hasan",
+          "url": "https://open.spotify.com/artist/723zFnKxUYnvhZSBTYs8Gy"
+        },
+        {
+          "name": "Avery Logan",
+          "url": "https://open.spotify.com/artist/0XNVyuqqrcWl8QjppNiXNs"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Cliff Dunes",
+      "url": "https://open.spotify.com/track/1CuS7IbOOGvajoiK11lLMD"
     },
     {
       "album": {
@@ -9141,6 +9171,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/1O2hShZVzgvvZgEUV4ssER"
+      },
+      "artists": [
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4sWb33DsxhA4nR0LGmLjs7"
+    },
+    {
+      "album": {
         "name": "Gnosis",
         "url": "https://open.spotify.com/album/43Rj8nGeb04BXnKd3ke5wb"
       },
@@ -12148,7 +12196,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 218973,
       "name": "Kanagawa",
       "url": "https://open.spotify.com/track/0fYh7joPUTpUlR4bVRm31N"
@@ -13723,6 +13771,24 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/68Ok7N3VOqSTSkUqzLQM3t"
+      },
+      "artists": [
+        {
+          "name": "mystery tea.",
+          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217873,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/5rpzaxhWcVvXVtrrpjvme1"
+    },
+    {
+      "album": {
         "name": "Callisto",
         "url": "https://open.spotify.com/album/3H3grs4rYynO2osDOZbT55"
       },
@@ -13734,7 +13800,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 149680,
       "name": "Luck Is The Best Answer",
       "url": "https://open.spotify.com/track/76xxv58VXHVOdAUqMcze2A"
@@ -14244,6 +14310,28 @@
       "duration_ms": 243058,
       "name": "Maurice",
       "url": "https://open.spotify.com/track/5x3R65K1vpFrdtorg5oD9D"
+    },
+    {
+      "album": {
+        "name": "Meanderings (Trio Version)",
+        "url": "https://open.spotify.com/album/2nwyV36ACKFTD8w41FN1tS"
+      },
+      "artists": [
+        {
+          "name": "Andy Feldman",
+          "url": "https://open.spotify.com/artist/3rnRik46TfCZnejgHgnCRQ"
+        },
+        {
+          "name": "Franky Freedom",
+          "url": "https://open.spotify.com/artist/45UoCk1PoUUOmZcb9xzsbk"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262956,
+      "name": "Meanderings - Trio Version",
+      "url": "https://open.spotify.com/track/05DtZ7RYPPB9enBHPrEM9a"
     },
     {
       "album": {
@@ -15446,7 +15534,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 272113,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/66A3w6W20wVYW2327l60EB"
@@ -15836,6 +15924,24 @@
       "duration_ms": 536320,
       "name": "New Possibilites - Live",
       "url": "https://open.spotify.com/track/0AhMl0dutlYqpNKGS0ZezO"
+    },
+    {
+      "album": {
+        "name": "Nguinya Mulema",
+        "url": "https://open.spotify.com/album/317Z4PKLlx0Et61qpiaHvT"
+      },
+      "artists": [
+        {
+          "name": "Monsieur M\u00c2L\u00c2",
+          "url": "https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281708,
+      "name": "Nguinya Mulema",
+      "url": "https://open.spotify.com/track/3rjMaIg9VeSOjOCrzHyrm4"
     },
     {
       "album": {
@@ -19223,6 +19329,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431293,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
+    },
+    {
+      "album": {
         "name": "Rising Part I",
         "url": "https://open.spotify.com/album/20sAV3PpnRN0KSHTKAmxFX"
       },
@@ -22049,6 +22173,40 @@
     },
     {
       "album": {
+        "name": "Sun Streak",
+        "url": "https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ratner",
+          "url": "https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K"
+        },
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        },
+        {
+          "name": "Luca Mendoza",
+          "url": "https://open.spotify.com/artist/0MlFh2Z71UaY9oeWx2peKq"
+        },
+        {
+          "name": "Benjamin Ring",
+          "url": "https://open.spotify.com/artist/3p7Y0v6WeIkL3wO2xn2Dv8"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435280,
+      "name": "Sun Streak",
+      "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/72N3dhIJxKQOB1slMju979"
       },
@@ -24632,7 +24790,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 452501,
       "name": "To the Surface",
       "url": "https://open.spotify.com/track/7GE2BYSVUI6jgYTcl9ndIy"
@@ -25178,6 +25336,28 @@
       "duration_ms": 220500,
       "name": "Typewriter",
       "url": "https://open.spotify.com/track/3pFpV6eYUs3j5SLnE61kdO"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3ria da Pedra M\u00e3e",
+        "url": "https://open.spotify.com/album/1tBJitRLX7cKyAABYs7rz1"
+      },
+      "artists": [
+        {
+          "name": "Bardino",
+          "url": "https://open.spotify.com/artist/2r22BWyVwsYIe2KzlqxgDA"
+        },
+        {
+          "name": "AZAR AZAR",
+          "url": "https://open.spotify.com/artist/6GFmBP1RHXajw2Va32VxE8"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387798,
+      "name": "T\u00edlia",
+      "url": "https://open.spotify.com/track/3B656MJNdDYPCOF3zhiKvS"
     },
     {
       "album": {
@@ -25762,6 +25942,24 @@
       "duration_ms": 232048,
       "name": "Vista Ahead",
       "url": "https://open.spotify.com/track/6VbahJdYLLtV3uhQYyq0Fl"
+    },
+    {
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
       "album": {

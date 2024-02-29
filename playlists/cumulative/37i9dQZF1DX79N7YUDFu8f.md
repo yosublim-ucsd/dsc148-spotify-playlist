@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-219 songs - 13 hr 2 min
+220 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 | 2023-02-23 |  |
 | [Joe](https://open.spotify.com/track/43Hd4eUPRzrramyZOQh0JG) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/0cW3C8VF3sHOevQOvsTFr4) | 3:12 | 2021-11-24 | 2022-07-29 |
 | [Joe](https://open.spotify.com/track/7kO4G9gASA6xwUGcqRzoLF) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/3ulX2huBgCgMUhgHbYTevv) | 3:12 | 2022-11-03 | 2022-11-13 |
-| [Joe](https://open.spotify.com/track/0uLrfjlCV5eCQcEwwmz8uX) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Julius](https://open.spotify.com/album/10bl29X1V0NlDr4erbugC4) | 3:12 | 2022-06-03 |  |
+| [Joe](https://open.spotify.com/track/0uLrfjlCV5eCQcEwwmz8uX) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Julius](https://open.spotify.com/album/10bl29X1V0NlDr4erbugC4) | 3:12 | 2022-06-03 | 2024-02-29 |
+| [Joe](https://open.spotify.com/track/0i0mZXrow7o2YGilwgpoMH) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Julius](https://open.spotify.com/album/1JbwsTZGM1aeGbgdj6FdbS) | 3:12 | 2024-02-15 |  |
 | [Just Come Home](https://open.spotify.com/track/1k35C50wOx6bpMMFfQFv9O) | [The Starlings](https://open.spotify.com/artist/1eWulCragj6PpUGCgMt6M8) | [Just Come Home](https://open.spotify.com/album/26hzd1T6i4e6zvxaTyy9yp) | 3:23 | 2022-02-11 |  |
 | [Just Tell Him It's Over \- Acoustic](https://open.spotify.com/track/1WV6hBQhyC6PAE7ey7YjXc) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Brooklyn Sessions](https://open.spotify.com/album/1GNZp65P7xWcRfzRfbP1Mj) | 3:01 | 2021-11-24 |  |
 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 | 2023-02-09 |  |

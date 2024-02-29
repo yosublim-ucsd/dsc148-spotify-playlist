@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 48764,
+  "num_followers": 48781,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmMwNjczMzk1MzNmNWJkYmEwOTYzNTRlZDExOWQ2OTkyNzk5MDdi",
+  "snapshot_id": "MCxiZTNmYWYyNjY4Yzc1MDEzMTM0ZTY2ZTYwMGNlYjFjM2ZhMjNmMGEx",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Helen Humes",
-        "url": "https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl"
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
       "artists": [
         {
-          "name": "Helen Humes",
-          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 136546,
-      "name": "Real Fine Daddy",
-      "url": "https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU"
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "Presenting Helen Humes",
+        "url": "https://open.spotify.com/album/7dU3bNHJgHR1YHcUi5NgAl"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+      "duration_ms": 136546,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/6ZFkzS4x0VBL4VwthOydrU"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 154933,
       "name": "Nervous Man Nervous",
       "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",

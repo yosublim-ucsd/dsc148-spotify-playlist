@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-289 songs - 15 hr 40 min
+290 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 | 2024-01-27 |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
-| [Dosthi](https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Dosthi](https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8) | 2:50 | 2023-09-20 |  |
+| [Dosthi](https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Dosthi](https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8) | 2:50 | 2023-09-20 | 2024-02-29 |
 | [E Antara](https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6) | [Puornausri D](https://open.spotify.com/artist/4CmS8ZU3EGQDw0dJ7APSsy), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [E Antara](https://open.spotify.com/album/5yFyCO1TBQ8drF3u8kOQW5) | 2:36 | 2024-01-31 |  |
 | [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 | 2024-01-09 |
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 | 2023-09-30 |
@@ -123,6 +123,7 @@
 | [Kanasella \- Female Version](https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanasella \- Female Version](https://open.spotify.com/album/1WNn6I7B7eFbqzZCYDGbRf) | 4:28 | 2023-07-05 | 2023-07-25 |
 | [Kanasina Doni](https://open.spotify.com/track/75Ra0OjXkUkfhA49fgJWhx) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kanasina Doni](https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k) | 4:02 | 2023-06-22 | 2023-07-11 |
 | [Kanasina Lokadi](https://open.spotify.com/track/0i7L9gNz2EmHtFv9LrPGXD) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Kanasina Lokadi](https://open.spotify.com/album/3TluwCQVpKR7DBG5zFMdTr) | 2:11 | 2023-01-17 | 2023-06-08 |
+| [Kanasu \- Acoustic](https://open.spotify.com/track/435LmYdGM9arSf3sk3AfJX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kanasu \- Acoustic](https://open.spotify.com/album/6d7xKad7KwKf339s20T8Zr) | 3:26 | 2024-02-28 |  |
 | [Kanchana](https://open.spotify.com/track/5k3rN09gDr1nr22wBR42zm) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [shi om](https://open.spotify.com/artist/1E6vRpChFEVeD8sl19ZEkX) | [Kanchana](https://open.spotify.com/album/6BUwtDXUkPp7yP3uplAvU7) | 4:20 | 2022-12-15 | 2023-08-17 |
 | [Kanmaniye](https://open.spotify.com/track/34R3HbV4JtHmDALFBubr7G) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanmaniye](https://open.spotify.com/album/3nMc1lXmEmhpgE1KDZ3Wgq) | 1:32 | 2023-06-19 | 2023-07-05 |
 | [Kanmaniye](https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ), [Chaithra Ganiga](https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK) | [Kanmaniye](https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL) | 4:29 | 2023-08-05 | 2024-02-01 |

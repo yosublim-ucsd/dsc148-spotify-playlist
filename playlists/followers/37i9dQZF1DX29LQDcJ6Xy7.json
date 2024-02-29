@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 318141,
+  "2024-02-29": 318258,
   "date_first_scraped": "2022-07-19",
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
   "name": "Industrial Metal",
@@ -3705,6 +3705,24 @@
     {
       "album": {
         "name": "Die H\u00f6lle muss warten",
+        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
+      },
+      "artists": [
+        {
+          "name": "Eisbrecher",
+          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Verr\u00fcckt",
+      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+    },
+    {
+      "album": {
+        "name": "Die H\u00f6lle muss warten",
         "url": "https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp"
       },
       "artists": [
@@ -3719,24 +3737,6 @@
       "duration_ms": 201293,
       "name": "Verr\u00fcckt",
       "url": "https://open.spotify.com/track/7AbeYC9dss7l0YtQz9fWy0"
-    },
-    {
-      "album": {
-        "name": "Die H\u00f6lle muss warten",
-        "url": "https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r"
-      },
-      "artists": [
-        {
-          "name": "Eisbrecher",
-          "url": "https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao"
-        }
-      ],
-      "date_added": "2022-07-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201293,
-      "name": "Verr\u00fcckt - Original Version",
-      "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
     },
     {
       "album": {

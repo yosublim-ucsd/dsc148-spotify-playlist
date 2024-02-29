@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 36182,
+  "2024-02-29": 36239,
   "date_first_scraped": "2022-12-06",
   "description": "saturation, distortion, feedBack. ft. bixby",
   "name": "feedBack",
@@ -731,7 +731,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 133143,
       "name": "Blurt",
       "url": "https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd"
@@ -1919,6 +1919,24 @@
       "duration_ms": 84480,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/7KbzSmMnizGMv73yXiqZyz"
+    },
+    {
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113385,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
     },
     {
       "album": {
@@ -5513,7 +5531,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 132187,
       "name": "Sierra Echo X-Ray",
       "url": "https://open.spotify.com/track/1hTjFQkvcfUfPN2vPDDn5J"
@@ -6254,6 +6272,24 @@
     },
     {
       "album": {
+        "name": "get it together !",
+        "url": "https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "the life and death of a dog",
+      "url": "https://open.spotify.com/track/0iPIwaPqrR2Q1OgAOMDvoY"
+    },
+    {
+      "album": {
         "name": "the life and death of a dog",
         "url": "https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb"
       },
@@ -6265,7 +6301,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 214615,
       "name": "the life and death of a dog",
       "url": "https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b"

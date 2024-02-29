@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 3655094,
+  "2024-02-29": 3655278,
   "date_first_scraped": "2019-05-26",
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
   "name": "Brain Food",
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 250542,
       "name": "Bergschrund",
       "url": "https://open.spotify.com/track/4XAGu6WFwsbGl5zRPmPgkg"
@@ -7132,6 +7132,28 @@
     },
     {
       "album": {
+        "name": "i was only temporary",
+        "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98621,
+      "name": "i was only temporary",
+      "url": "https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT"
+    },
+    {
+      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/5O2HECZW7nWOhLjudwxm0S"
       },
@@ -11589,7 +11611,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 132631,
       "name": "rainbow song",
       "url": "https://open.spotify.com/track/2y7z3SBPKKfROdIy68k8nV"
@@ -16467,7 +16489,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 216000,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Aruma
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,077 likes - 65 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,380 likes - 65 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 64 | [Talalu Sakit](https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 5:15 |
 | 65 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCwwMWQ1Yzg0M2NhY2NjZjg3N2QxYzBkYTk1MzE2ZjAyZGRhZDUxMTM4`
+Snapshot ID: `MCxlZWNlMDg0ZGI3NjJhMDU3YmI5OTVmYTBmMDdkYjU3ZGQzZjg3ZDQz`

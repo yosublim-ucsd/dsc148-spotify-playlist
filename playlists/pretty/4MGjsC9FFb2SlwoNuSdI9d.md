@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 
 > Shake up your day at the office with this mix\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_OfficeMusic\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 32,365 likes - 123 songs - 6 hr 34 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 32,380 likes - 123 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

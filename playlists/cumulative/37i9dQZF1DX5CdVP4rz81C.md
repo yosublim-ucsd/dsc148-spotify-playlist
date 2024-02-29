@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Michael Marcagi
 
-1,565 songs - 3 day 10 hr 15 min
+1,566 songs - 3 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1295,7 +1295,8 @@
 | [Strangers](https://open.spotify.com/track/3DmPgG92yg1svfjBkAyE84) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Strangers](https://open.spotify.com/album/62SHkxkmWb3tFt4260moa9) | 2:16 | 2020-10-13\* | 2021-02-06 |
 | [strawberry cheesecake](https://open.spotify.com/track/4bh2jy0vLIrXE1Cnq2u8gG) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [strawberry cheesecake](https://open.spotify.com/album/2Iyj7AAgMDMutkGHhc8tF8) | 2:20 | 2021-08-14 | 2021-09-25 |
 | [Streetlights](https://open.spotify.com/track/6cGkQYb6mL94n3yqznS3NY) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Streetlights](https://open.spotify.com/album/0HIgez8EJFsHgY6LkXNoSM) | 2:48 | 2021-05-08 | 2021-06-12 |
-| [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-04 |  |
+| [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/0YNbCCep4pGK70IXnXJJAV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:33 | 2023-12-01 |  |
+| [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-04 | 2024-02-29 |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 |  |
 | [Stronger](https://open.spotify.com/track/41sWa3QT3Aeh3jtDvywpLV) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Stronger](https://open.spotify.com/album/2WEy1qUokBNd6OYq0jmsGZ) | 3:24 | 2020-10-16 | 2021-02-12 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/0CrPeAu34XUs6Kkc7ND6mH) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/3SIdK8k610Oigb8nRWoe9P) | 2:34 | 2021-08-07 | 2021-08-28 |

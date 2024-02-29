@@ -4918,7 +4918,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 186697,
       "name": "HIP",
       "url": "https://open.spotify.com/track/6Cqr2UM51ENT2P4c6GAIIa"
@@ -9699,24 +9699,6 @@
     },
     {
       "album": {
-        "name": "Lots of Love",
-        "url": "https://open.spotify.com/album/3RvBl6rKAc0y0SsRjR4MqE"
-      },
-      "artists": [
-        {
-          "name": "HONG JIN YOUNG",
-          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
-        }
-      ],
-      "date_added": "2022-04-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231408,
-      "name": "Rain of Tears",
-      "url": "https://open.spotify.com/track/0WhAtc9mYzrQUPyF3gnOpw"
-    },
-    {
-      "album": {
         "name": "Love call center PART21",
         "url": "https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ"
       },
@@ -10070,13 +10052,13 @@
       },
       "artists": [
         {
-          "name": "Hong Jin Young",
+          "name": "HONG JIN YOUNG",
           "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
         }
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 197195,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw"
@@ -11966,7 +11948,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 212211,
       "name": "Thumb Up",
       "url": "https://open.spotify.com/track/3UpDEwkdjWdNb2gKchoNsy"
@@ -13234,7 +13216,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 235520,
       "name": "Wind road",
       "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
@@ -14524,6 +14506,24 @@
       "duration_ms": 213132,
       "name": "\ub204\ub098\uac00 \ub531\uc774\uc57c",
       "url": "https://open.spotify.com/track/47cVdAl9r8eelDg2HfX4la"
+    },
+    {
+      "album": {
+        "name": "Lots of Love",
+        "url": "https://open.spotify.com/album/3RvBl6rKAc0y0SsRjR4MqE"
+      },
+      "artists": [
+        {
+          "name": "HONG JIN YOUNG",
+          "url": "https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231408,
+      "name": "\ub208\ubb3c\ube44",
+      "url": "https://open.spotify.com/track/0WhAtc9mYzrQUPyF3gnOpw"
     },
     {
       "album": {

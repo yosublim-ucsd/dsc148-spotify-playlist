@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 305058,
+  "num_followers": 305222,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTgyMjRhNmU4ZTNmMWJkZGY5YzYzZDIzZDk3Y2JjNWNmODU0MWU4",
+  "snapshot_id": "MCwxYjYwNTNlMmFiZjdlZGY0YzI5ZTgyN2E5ZTUxMWNmYWNhZDY0MTE1",
   "tracks": [
     {
       "added_at": "2024-02-22 17:38:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
         "name": "My Name Is Tokyo",
         "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 172216,
       "name": "My Name Is Tokyo",
       "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
-        "name": "Dle Yaman (116 Deep Mix)",
-        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 438674,
-      "name": "Dle Yaman (116 Deep Mix)",
-      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -823,30 +823,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
-        }
-      ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 244878,
       "name": "Ederlezi (feat. Dikanda)",
       "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+        }
+      ],
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -967,30 +967,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Dj Iljano",
-          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
-        },
-        {
-          "name": "Kristian Gusho",
-          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Dj Iljano",
+          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+        },
+        {
+          "name": "Kristian Gusho",
+          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 166416,
       "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
       "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 129145,
       "name": "MIRAN",
       "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1243,6 +1243,26 @@
       "duration_ms": 323720,
       "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
       "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Sophonisbe",
+        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
+      },
+      "artists": [
+        {
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        },
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        }
+      ],
+      "duration_ms": 396428,
+      "name": "Sophonisbe - Sahale Remix",
+      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Sophonisbe",
-        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        },
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        }
-      ],
-      "duration_ms": 396428,
-      "name": "Sophonisbe - Sahale Remix",
-      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
         }
       ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1395,22 +1411,6 @@
       "duration_ms": 381818,
       "name": "Souq",
       "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "Anatolian Vibe",
         "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Alchemist EP",
-        "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
+        "name": "Viraha",
+        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
       },
       "artists": [
         {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
-        },
-        {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
         }
       ],
-      "duration_ms": 515120,
-      "name": "Alchemist",
-      "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
+      "duration_ms": 171534,
+      "name": "Viraha",
+      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
     },
     {
       "added_at": "2024-02-22 17:38:56",
@@ -1855,22 +1851,6 @@
     {
       "added_at": "2024-02-22 17:38:56",
       "album": {
-        "name": "Viraha",
-        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 171534,
-      "name": "Viraha",
-      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
-    },
-    {
-      "added_at": "2024-02-22 17:38:56",
-      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2024-02-22 17:38:56",
+      "album": {
+        "name": "Alchemist EP",
+        "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
+      },
+      "artists": [
+        {
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "duration_ms": 515120,
+      "name": "Alchemist",
+      "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
     },
     {
       "added_at": "2024-02-22 17:38:56",

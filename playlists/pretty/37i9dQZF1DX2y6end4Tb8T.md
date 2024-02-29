@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,469 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,494 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 87 | [Value](https://open.spotify.com/track/7im3jaJBEYivH5JKXMh1Yy) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Value](https://open.spotify.com/album/5k4FGcPa9XZN2IqSPBYICI) | 2:47 |
 | 88 | [AIRDROP](https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AWITA](https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe) | 3:01 |
 | 89 | [SHUT UP](https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SHUT UP](https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO) | 2:50 |
-| 90 | [Pal De Pesos](https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 3:09 |
-| 91 | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/track/6zAXl7WqhGuOuTDkPDKQ7P) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/album/1GC8fGddUiXsLtvmvWspd6) | 2:37 |
+| 90 | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/track/6zAXl7WqhGuOuTDkPDKQ7P) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Double G \(feat\. Pop Smoke\)](https://open.spotify.com/album/1GC8fGddUiXsLtvmvWspd6) | 2:37 |
+| 91 | [Pal De Pesos](https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 3:09 |
 | 92 | [Spicy \(feat\. J Balvin, YG, Tyga & Post Malone\) \- Remix](https://open.spotify.com/track/4Ae2ORKCPbA8L67WWFmVEV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Spicy \(feat\. J Balvin, YG, Tyga & Post Malone\) \[Remix\]](https://open.spotify.com/album/201QACb6tzkZ2raEN7DkXZ) | 3:41 |
 | 93 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 |
 | 94 | [Baller](https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 |
 | 100 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
 
-Snapshot ID: `MCxhNmJiZGJiNTgwNDYwNDgyYTNiNjU4NjZkOTA1NzllY2I1MWE1OWZk`
+Snapshot ID: `MCw3YmUzODI5N2FkMTNiYTEzZDE4YmY1NThiZjhlOTk5MmI2NjI5Mzcy`

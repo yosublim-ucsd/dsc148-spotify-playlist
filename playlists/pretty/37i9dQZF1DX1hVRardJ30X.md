@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Residente
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,286 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,309 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 11 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 |
 | 12 | [KATY PERRY](https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [KATY PERRY](https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t) | 2:35 |
 | 13 | [BYK](https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Santana the Golden Boy](https://open.spotify.com/artist/7w2wcIXdCu7lfY4h5jbbrv), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [BYK](https://open.spotify.com/album/5deurIxzSAsbzN8oyzPSLC) | 3:40 |
-| 14 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [juhn](https://open.spotify.com/artist/4h3wVsJDhbn23uUNp1ZrFS) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 |
+| 14 | [Amor Con Rabia](https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Amor Con Rabia](https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e) | 3:18 |
 | 15 | [Dejalos que hablen](https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Dejalos que hablen](https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv) | 2:55 |
 | 16 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
 | 17 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [PALOMINO](https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [PALOMINO](https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ) | 2:21 |
 | 52 | [alchémie](https://open.spotify.com/track/23Wf7ZJr7O9YX9AICeFwh7) | [tulengua](https://open.spotify.com/artist/2rXUN5oxetpexWoqyMYUhu) | [alchémie](https://open.spotify.com/album/5KFnis2HI8oA5MScaiFMYj) | 3:50 |
 
-Snapshot ID: `MCxmODg4ZjBhYmZmYmZiMDEzMDc3YjBiNTA3NDkwZmZlZWQ2YWE5YzM3`
+Snapshot ID: `MCxiMjBkNjk5YThkZWI1Y2JkYjk0MmVjM2U5ZWM0OWFmYmNjNTM2NzZh`

@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 314854,
+  "num_followers": 315242,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdjZDE3YjdlYjQ3YTE2NDE3MTc1YzcyYmFmMTliZjdkNjgyM2E3",
+  "snapshot_id": "MCwxZWY0ZmY0YzBhN2U2ZWRhMDE0YmRmZmFkODU2YjMwOGFhNjllYTEz",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love (7\" Mix)",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
       "artists": [
         {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 270373,
-      "name": "What Is Love (7\" Mix)",
-      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -531,22 +547,6 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Poison (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
-      },
-      "artists": [
-        {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Space Jam (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Free - The Strictly Collection",
-        "url": "https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT"
+        "name": "Poison (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
       "artists": [
         {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
         }
       ],
-      "duration_ms": 353360,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV"
+      "duration_ms": 261866,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1095,6 +1079,22 @@
       "duration_ms": 223535,
       "name": "Dreamer - Janice Robinson Vocal",
       "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Free - The Strictly Collection",
+        "url": "https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT"
+      },
+      "artists": [
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 353360,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0kqatfl1V116n4U2gKZQuV"
     },
     {
       "added_at": "2023-03-10 23:34:06",

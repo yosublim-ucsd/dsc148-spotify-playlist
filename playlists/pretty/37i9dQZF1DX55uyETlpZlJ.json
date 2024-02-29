@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23148,
+  "num_followers": 23151,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTlmY2U3ODI3ZDA3OTllZmVlMDBiNWFmN2ZmYjY5ODZhNTZkNWQ2",
+  "snapshot_id": "MCwyNWRmYzRlNzQzMjhiNTA1NWVlN2JjNzE4OTFhMjE3MTQ1NWY5NWQ2",
   "tracks": [
     {
       "added_at": "2024-02-01 11:11:53",
@@ -39,6 +39,22 @@
       "duration_ms": 178285,
       "name": "Ee Pattanakke Yenagide",
       "url": "https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb"
+    },
+    {
+      "added_at": "2024-02-28 15:40:48",
+      "album": {
+        "name": "Kanasu - Acoustic",
+        "url": "https://open.spotify.com/album/6d7xKad7KwKf339s20T8Zr"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Kanasu - Acoustic",
+      "url": "https://open.spotify.com/track/435LmYdGM9arSf3sk3AfJX"
     },
     {
       "added_at": "2023-11-29 11:23:26",
@@ -1251,26 +1267,6 @@
       "duration_ms": 217068,
       "name": "By2Love",
       "url": "https://open.spotify.com/track/5c67FvlkSg8LdX1asdzxR2"
-    },
-    {
-      "added_at": "2023-09-20 12:58:41",
-      "album": {
-        "name": "Dosthi",
-        "url": "https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8"
-      },
-      "artists": [
-        {
-          "name": "Kishore Vishwakarma",
-          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
-        },
-        {
-          "name": "Vishwajeet Deshpande",
-          "url": "https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Dosthi",
-      "url": "https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai"
     },
     {
       "added_at": "2023-09-04 07:21:46",

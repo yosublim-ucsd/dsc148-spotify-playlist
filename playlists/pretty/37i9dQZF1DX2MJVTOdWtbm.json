@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior Zamora",
-  "num_followers": 113520,
+  "num_followers": 113548,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTYwZGU5NzlhMzM1YjYxNTZmYzgwM2I5MjY4MDNkYmUwZGY4Mzcy",
+  "snapshot_id": "MCwxNjM5MGE4ZDU1Yzk0YTIzMDIzOTQzZWMzMGU4Y2U5MjY2ODM5ZDE0",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
         {
           "name": "Tiago PZK",
           "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -227,22 +231,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
       "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
         {
           "name": "Tiago PZK",
           "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
+        "name": "Labios de Vainilla",
+        "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "OPYI",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
         }
       ],
-      "duration_ms": 253150,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+      "duration_ms": 186500,
+      "name": "Parece un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -631,22 +635,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Labios de Vainilla",
-        "url": "https://open.spotify.com/album/46VuvNSBHEzy3fbIIAapKl"
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
       "artists": [
         {
-          "name": "OPYI",
-          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Parece un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
+      "duration_ms": 253150,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+      "duration_ms": 158819,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1063,6 +1063,22 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Satus",
-        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 158819,
-      "name": "Aqu\u00ed Sigo",
-      "url": "https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Ser Feliz",
         "url": "https://open.spotify.com/album/2G2RGCle7gV0mmKvP3ohOS"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
       "artists": [
         {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+      "duration_ms": 149379,
+      "name": "Imagin\u00e1ndote",
+      "url": "https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Satus",
-        "url": "https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe"
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 149379,
-      "name": "Imagin\u00e1ndote",
-      "url": "https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz"
+      "duration_ms": 214080,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1379,26 +1399,6 @@
       "duration_ms": 170000,
       "name": "Camino a Neptuno",
       "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/0VqA0mhqEslQXl5GZd1J9O"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1455,6 +1455,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "1vezmas",
         "url": "https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1"
       },
@@ -1491,34 +1523,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
+        "name": "Algod\u00f3n",
+        "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
       },
       "artists": [
         {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+      "duration_ms": 172186,
+      "name": "Algod\u00f3n",
+      "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Algod\u00f3n",
-        "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Algod\u00f3n",
-      "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "m\u00e9todos.",
-        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
+        "name": "5 A.M.",
+        "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
       },
       "artists": [
         {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        },
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
         }
       ],
-      "duration_ms": 207659,
-      "name": "ando chiple <\\3",
-      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+      "duration_ms": 182442,
+      "name": "5 A.M.",
+      "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
     }
   ],
   "unique_name": "Latin R&B",

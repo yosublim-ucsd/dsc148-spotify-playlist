@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Japa, Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,924 likes - 76 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,947 likes - 76 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 12 | [Sheik](https://open.spotify.com/track/70bkR2CMwu5wzZ2jOR2v9c) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Vict44](https://open.spotify.com/artist/6yfGQa1eKsWCAgKwHLEzKy), [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn), [Jeall](https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt), [GG](https://open.spotify.com/artist/4XX1N3ZVgiaubtX30g0YCE) | [Sheik](https://open.spotify.com/album/627S5FPSXJIpSVMBFQFpXy) | 2:43 |
 | 13 | [Foragido](https://open.spotify.com/track/5lzozMoomZNhvKRoqNVg3t) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU) | [Foragido](https://open.spotify.com/album/3UoWqSV4Ut6qIz4Hq6xBG3) | 2:18 |
 | 14 | [Plantão](https://open.spotify.com/track/5Syzq2Y6fG9SXEWCcqDhiO) | [Corleone](https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb), [LEGO](https://open.spotify.com/artist/5zVTZX70Tsu7hDbxdRmmbR), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB) | [Plantão](https://open.spotify.com/album/7d673G8jt2JjO4ltR2aCSF) | 2:04 |
-| 15 | [Guerreiro de Fé](https://open.spotify.com/track/5bjUthJEzE7mCwHHDBsqFn) | [MC Du Red](https://open.spotify.com/artist/7KSmBoFVVDxBl5ZqwI4zjo) | [Subterfúgio](https://open.spotify.com/album/63eWuDJVVOOk76F2eRKJYs) | 3:37 |
+| 15 | [Guerreiro de Fé](https://open.spotify.com/track/5bjUthJEzE7mCwHHDBsqFn) | [MC Du Red](https://open.spotify.com/artist/7KSmBoFVVDxBl5ZqwI4zjo), [Mc Vitinho Vibe](https://open.spotify.com/artist/0wdYbC934qJx8cpC6FmEAm) | [Subterfúgio](https://open.spotify.com/album/63eWuDJVVOOk76F2eRKJYs) | 3:37 |
 | 16 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 17 | [3beck em 1min](https://open.spotify.com/track/14L3EgbISdlJFd5ep4rgGw) | [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [1\-800WRLD](https://open.spotify.com/artist/279jm5uJdkabH3QdQu4eF7) | [3beck em 1min](https://open.spotify.com/album/2LE6sMgqEhkEA5KWeKfh54) | 1:39 |
 | 18 | [Bola Outro \- Feat\. Brocasito](https://open.spotify.com/track/4ES3qh8IU3tQfe4ZmZvWdi) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [O Bagulho É Trap II](https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX) | 3:12 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Foco no Progresso](https://open.spotify.com/track/3glmPb4pOJm0M3hxOr4er1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [JKZ](https://open.spotify.com/artist/1Gn8eEXtOWHA7XU8wEWXOb) | [Foco no Progresso](https://open.spotify.com/album/1AyVu6lZh1dQTEnt9C4PmK) | 3:34 |
 | 76 | [Pique Faroeste](https://open.spotify.com/track/2PXgo8kyGDrvsrrxTpwWCj) | [Yamashita](https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw), [Ventu075](https://open.spotify.com/artist/0CMaseo8fq9V9CKn0h2zqf) | [Pique Faroeste](https://open.spotify.com/album/1ineQBcXlsSHlwlC4jJwZN) | 2:26 |
 
-Snapshot ID: `MCxjYzQ3MzcxZTNiNWNhZGJjZTA4MTlkMmU0NDQzZDk1MjYwZGQ4MjEy`
+Snapshot ID: `MCwxZGM4OTg2ZDE3MzZiNTlkZTM0MGMyOTI3MzVkYTg2YjE2YWY3MDAx`

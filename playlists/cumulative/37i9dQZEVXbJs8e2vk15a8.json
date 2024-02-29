@@ -6797,6 +6797,24 @@
     },
     {
       "album": {
+        "name": "Bocelli (Remastered)",
+        "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250983,
+      "name": "Con te partir\u00f2",
+      "url": "https://open.spotify.com/track/7zrpoAJte9o12TzawqgdD0"
+    },
+    {
+      "album": {
         "name": "Con To (feat. Flow Nasty)",
         "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
       },
@@ -10839,6 +10857,28 @@
     },
     {
       "album": {
+        "name": "S\u00ec (Deluxe)",
+        "url": "https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/3iOqivy61CFqjcvAbcAU9u"
+    },
+    {
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -11002,7 +11042,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 186015,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/0fgSjEdxn4kjS8yxPTGWpA"
@@ -15394,7 +15434,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 153786,
       "name": "KE LA CASTIGUEN",
       "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
@@ -17194,6 +17234,32 @@
       "duration_ms": 370666,
       "name": "LOKOTRON REMIX",
       "url": "https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj"
+    },
+    {
+      "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua"
+      },
+      "artists": [
+        {
+          "name": "Jedis",
+          "url": "https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN"
+        },
+        {
+          "name": "Gote",
+          "url": "https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal"
+        },
+        {
+          "name": "Nolep",
+          "url": "https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278425,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs"
     },
     {
       "album": {
@@ -19714,7 +19780,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 194885,
       "name": "Mi Otra Mitad (Remix)",
       "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
@@ -25674,6 +25740,24 @@
       "duration_ms": 124969,
       "name": "Por Ti Jalo Gatillo",
       "url": "https://open.spotify.com/track/61xa5UP0WKT6iKhEqzFa4j"
+    },
+    {
+      "album": {
+        "name": "Romanza (Spanish Version)",
+        "url": "https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "Por Ti Volar\u00e9 - Spanish Version",
+      "url": "https://open.spotify.com/track/71euJYgH9L0f42i09ssMN9"
     },
     {
       "album": {
@@ -32460,7 +32544,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 136672,
       "name": "Tu Eres Fuego Mami",
       "url": "https://open.spotify.com/track/1uhRbdeVEjKA1hK9MmJre4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Bnkr44 in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,843 likes - 76 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,854 likes - 76 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 75 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 76 | [TI HO PORTATO LA LUNA](https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [TI HO PORTATO LA LUNA](https://open.spotify.com/album/7h8cDINcwdo0bzhG35aVMJ) | 2:51 |
 
-Snapshot ID: `MCw1OGFlMmVmMTgzMzViZThkMTZkMzI0MTQ1MDc5MWMxODU1NTczZTZh`
+Snapshot ID: `MCxhNzRjNDE5YWVkOTE0YTE5OTE4YzM3NGQ0ZjU2ZmYyMWVhOTE0ODlj`

@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 751772,
+  "2024-02-29": 751770,
   "date_first_scraped": "2021-12-30",
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Mica Sotera & Los Otros D\u00edas.",
   "name": "Mixto",
@@ -3497,7 +3497,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 203396,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc"
@@ -7241,6 +7241,28 @@
       "duration_ms": 354534,
       "name": "Merengue Pa' Cintura",
       "url": "https://open.spotify.com/track/2uKEXlmNA5udK76QrH5tSe"
+    },
+    {
+      "album": {
+        "name": "Observation I: Metamorphosis",
+        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188584,
+      "name": "Metamorphosis (with Ambar Lucid)",
+      "url": "https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms"
     },
     {
       "album": {

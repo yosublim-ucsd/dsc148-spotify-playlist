@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 145567,
+  "num_followers": 145645,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWI2MjU1ZDVhYjcyMTM5ZTNkYTIxZjgxNDRhNTM5OGMxNzVhNGM1",
+  "snapshot_id": "MCwyZWM3NjBiYmFmMDUxM2EwZDU3ZTAwZDMxMjA1NjFjNzFhOTgxZGJl",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 186849,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 168827,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Hidden",
         "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 168000,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
       },
       "artists": [
         {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+          "name": "Safemode",
+          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
         }
       ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+      "duration_ms": 266503,
+      "name": "This Is Not the End",
+      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
       "artists": [
         {
-          "name": "Safemode",
-          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
         }
       ],
-      "duration_ms": 266503,
-      "name": "This Is Not the End",
-      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 225840,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Death Stare",
+        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
+      },
+      "artists": [
+        {
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+        }
+      ],
+      "duration_ms": 248972,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 254866,
       "name": "Balconies",
       "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
-      },
-      "artists": [
-        {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
-        }
-      ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
+      },
+      "artists": [
+        {
+          "name": "Danger Scene",
+          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
+        }
+      ],
+      "duration_ms": 246286,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
-      },
-      "artists": [
-        {
-          "name": "Danger Scene",
-          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
-        }
-      ],
-      "duration_ms": 246286,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Rise to the Call",
-        "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 227486,
-      "name": "Rise to the Call",
-      "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Last Day Rising",
         "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 220140,
       "name": "Strong Enough to Live (Acoustic)",
       "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Rise to the Call",
+        "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Rise to the Call",
+      "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
     },
     {
       "added_at": "2023-11-17 22:08:15",

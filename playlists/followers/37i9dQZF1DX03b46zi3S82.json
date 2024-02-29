@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 346389,
+  "2024-02-29": 346513,
   "date_first_scraped": "2022-01-17",
   "description": "Calm piano music for sleeping.",
   "name": "Sleepy Piano",
@@ -1393,6 +1393,24 @@
       "duration_ms": 131483,
       "name": "Derri\u00e8re le carreau ferm\u00e9",
       "url": "https://open.spotify.com/track/659EQJMW0XdMy1aLN4Kcxo"
+    },
+    {
+      "album": {
+        "name": "Desire paths",
+        "url": "https://open.spotify.com/album/4Y19aC7T5QTSBiWBPALRFV"
+      },
+      "artists": [
+        {
+          "name": "Finn Lenoir",
+          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163088,
+      "name": "Desire paths",
+      "url": "https://open.spotify.com/track/1dNGTCMHimoPSJj9fPtN5D"
     },
     {
       "album": {
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 175093,
       "name": "Judith",
       "url": "https://open.spotify.com/track/7jZ3B5pFQUy1CUgC0GIzyb"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 220000,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 193624,
       "name": "Largo",
       "url": "https://open.spotify.com/track/5rRK6mamdef3a6eWz14vzU"
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 159500,
       "name": "Le soleil brille",
       "url": "https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2"
@@ -3457,7 +3475,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 130267,
       "name": "Mass",
       "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
@@ -4257,7 +4275,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 169312,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/17jvo4FD4s17STVTrf099y"
@@ -5233,7 +5251,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 153600,
       "name": "Spring Birds",
       "url": "https://open.spotify.com/track/3efzwxRNuLl9WFB6FQ30M6"
@@ -5611,7 +5629,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 158750,
       "name": "The Sky",
       "url": "https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm"
@@ -5939,6 +5957,24 @@
       "duration_ms": 108730,
       "name": "Us",
       "url": "https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK"
+    },
+    {
+      "album": {
+        "name": "Valse Delle Vigne",
+        "url": "https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Valse Delle Vigne",
+      "url": "https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj"
     },
     {
       "album": {

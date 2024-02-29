@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,983 likes - 63 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,007 likes - 63 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 42 | [Differente](https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:20 |
 | 43 | [Du & Jeg](https://open.spotify.com/track/574DlRMtD2Nv9kWHQevej3) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:53 |
 | 44 | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/album/19VwYofnlTp22my1SUbVeR) | 2:39 |
-| 45 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 |
+| 45 | [MASKINEN](https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk) | 2:13 |
 | 46 | [Uwawe](https://open.spotify.com/track/3BzCCqPqIsheyW4DyLM1ut) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Uwawe](https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy) | 2:19 |
 | 47 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 |
 | 48 | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO) | [Pooyandeh](https://open.spotify.com/artist/5UMWdEM0A0J6h27FgaICOS), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV) | 2:43 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 62 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 |
 | 63 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 |
 
-Snapshot ID: `MCxhZjZiNjliZDk3ZjNkM2VmZTQ2MGEwYzlhYmJkNTY2ZWEwYWQ0YWQ2`
+Snapshot ID: `MCwyOGU4ZjgxNGJhN2Q2ODE2YjI4MDFmODQ5M2VjNjgyMTE5ZWIwMGQx`

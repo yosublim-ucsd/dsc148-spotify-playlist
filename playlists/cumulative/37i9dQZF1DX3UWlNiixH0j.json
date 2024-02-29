@@ -6776,6 +6776,24 @@
     {
       "album": {
         "name": "IAI",
+        "url": "https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "IAI",
+      "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
+    },
+    {
+      "album": {
+        "name": "IAI",
         "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
       },
       "artists": [
@@ -6786,7 +6804,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
@@ -8272,6 +8290,24 @@
       "duration_ms": 227000,
       "name": "Lonely star",
       "url": "https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Lonely star",
+      "url": "https://open.spotify.com/track/3RB4JDN3ctAJOgd01vpjDi"
     },
     {
       "album": {
@@ -11238,6 +11274,24 @@
     {
       "album": {
         "name": "Poison",
+        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
+    },
+    {
+      "album": {
+        "name": "Poison",
         "url": "https://open.spotify.com/album/6ufhXSV3u4M9vSyKnsEBSX"
       },
       "artists": [
@@ -11248,7 +11302,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 172653,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2tHA1slw78Hu2xmWtRwzSp"
@@ -15048,7 +15102,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 153853,
       "name": "The Yonder",
       "url": "https://open.spotify.com/track/3vxcTeFdHXeBzBq59sovEj"

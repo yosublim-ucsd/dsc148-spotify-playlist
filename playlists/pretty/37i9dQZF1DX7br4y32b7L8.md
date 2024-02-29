@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,996 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,062 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 9 | [Kenia](https://open.spotify.com/track/2X7rF1czlF3xh2V6oI92Qc) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Kenia](https://open.spotify.com/album/4Otz9RP2y3GE0CXaV2Vyf4) | 3:32 |
 | 10 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 11 | [Liegen Voor De Rechter](https://open.spotify.com/track/2bicgbzwgGJerEkAPv8D3s) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Liegen Voor De Rechter](https://open.spotify.com/album/4rYCqwqNchRfLJevz3Rw9W) | 3:27 |
-| 12 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
-| 13 | [Japan](https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [YUKI JADE](https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC) | [Japan](https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz) | 2:08 |
-| 14 | [Seks](https://open.spotify.com/track/2640GpoXtZt6czG9WbZkXL) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Sociale Zaken](https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR) | 3:23 |
-| 15 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
-| 16 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 |
-| 17 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
-| 18 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
+| 12 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
+| 13 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 |
+| 14 | [Japan](https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA) | [Crazy Jack](https://open.spotify.com/artist/5DrOI7Hq3HNpD909jIPHVL), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [YUKI JADE](https://open.spotify.com/artist/390TEc5VdoYZ4dH3xo4ONC) | [Japan](https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz) | 2:08 |
+| 15 | [Seks](https://open.spotify.com/track/2640GpoXtZt6czG9WbZkXL) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Sociale Zaken](https://open.spotify.com/album/5LpJ2fRNAoRocRx3rwp3PR) | 3:23 |
+| 16 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 17 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 |
+| 18 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 19 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
 | 20 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 21 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 59 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 60 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 
-Snapshot ID: `MCxhYjgxMDJmNDA3N2QzZTNiYTMzMmZiMDQ5N2QwZDRhZGU0ZDYzY2Mw`
+Snapshot ID: `MCwyNzdkYThlNjBmMGEwOGNjYTczNjA4MTM0ZDAwMzZjNDcxYzUyNTA0`

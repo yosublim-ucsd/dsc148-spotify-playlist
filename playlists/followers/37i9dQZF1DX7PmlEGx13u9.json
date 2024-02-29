@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 51517,
+  "2024-02-29": 51546,
   "date_first_scraped": "2023-10-22",
   "description": "Certified R&B Hits. Cover: \u00c4yaana, Tamera & Bellah",
   "name": "Certi: R&B",
@@ -123,6 +123,28 @@
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+    },
+    {
+      "album": {
+        "name": "Attached",
+        "url": "https://open.spotify.com/album/2CKJJ6Tzi3MnqKWRkblieJ"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Attached",
+      "url": "https://open.spotify.com/track/7csdGDOTzwnSNw6jEzXgHL"
     },
     {
       "album": {
@@ -461,7 +483,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 169247,
       "name": "Girlfriend (London Girls Mix)",
       "url": "https://open.spotify.com/track/2MdH4OGyLqNz8N0KYzoqOZ"

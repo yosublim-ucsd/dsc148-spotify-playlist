@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring KU\u010cKA & Flume",
-  "num_followers": 765268,
+  "num_followers": 765275,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWJiMTAwMDA4ZjRlZjBjYmFhYzZkYTRmOGY0OWQzZjg3MjQ3YmQx",
+  "snapshot_id": "MCxmZjk5MGVlOTk0ZDBiMDA2MjFhYmRlZDJmYmZkNDllOTJjYTM2ZWRh",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Rushing Back (feat. Vera Blue)",
         "url": "https://open.spotify.com/album/29OgoLRPAWEYSWgwkemiHT"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 231663,
       "name": "Rushing Back (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Selfish Soul (ODESZA Remix)",
-        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        },
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Selfish Soul - ODESZA Remix",
-      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Selfish Soul (ODESZA Remix)",
+        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Selfish Soul - ODESZA Remix",
+      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Swing King",
-        "url": "https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Swing King",
-      "url": "https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Swing King",
+        "url": "https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Swing King",
+      "url": "https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Dream You Better",
-        "url": "https://open.spotify.com/album/6SfPzaGnGXjjKRcZenPQw1"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 113860,
-      "name": "Dream You Better",
-      "url": "https://open.spotify.com/track/1Uf8Ux9W0uDdTppbTE3NP9"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "How High",
         "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 192834,
       "name": "How High",
       "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Dream You Better",
+        "url": "https://open.spotify.com/album/6SfPzaGnGXjjKRcZenPQw1"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 113860,
+      "name": "Dream You Better",
+      "url": "https://open.spotify.com/track/1Uf8Ux9W0uDdTppbTE3NP9"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 221772,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
-      },
-      "artists": [
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 209341,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Small Sanctuary (nimino Remix)",
-        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 252187,
-      "name": "Small Sanctuary - nimino Remix",
-      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2SMHHkfwPVK8wLpmuY1BPK"
       },
@@ -1807,6 +1787,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
       },
@@ -1819,22 +1819,6 @@
       "duration_ms": 224204,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Sd-2",
-        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "pullmecloser",
         "url": "https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2"
       },
@@ -1875,26 +1875,6 @@
       "duration_ms": 150909,
       "name": "pullmecloser",
       "url": "https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Backfoot",
-        "url": "https://open.spotify.com/album/6KiTXmpSEETdiBl0UCrCoX"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Pirra",
-          "url": "https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M"
-        }
-      ],
-      "duration_ms": 202394,
-      "name": "Backfoot",
-      "url": "https://open.spotify.com/track/1ZXVS31c6cqq9t7Ah6sLwz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1935,26 +1915,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Exodia",
-        "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
+        "name": "i'm hurting ! (deja-vu..)",
+        "url": "https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh"
       },
       "artists": [
         {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        },
-        {
-          "name": "Sublab",
-          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
         }
       ],
-      "duration_ms": 175357,
-      "name": "Exodia",
-      "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+      "duration_ms": 176680,
+      "name": "i'm hurting ! (deja-vu..)",
+      "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Backfoot",
+        "url": "https://open.spotify.com/album/6KiTXmpSEETdiBl0UCrCoX"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Pirra",
+          "url": "https://open.spotify.com/artist/3wPGh0biziAGs3SlOkgZ5M"
+        }
+      ],
+      "duration_ms": 202394,
+      "name": "Backfoot",
+      "url": "https://open.spotify.com/track/1ZXVS31c6cqq9t7Ah6sLwz"
     }
   ],
   "unique_name": "creamy",

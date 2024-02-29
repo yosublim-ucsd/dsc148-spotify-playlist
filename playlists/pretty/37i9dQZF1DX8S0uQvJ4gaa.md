@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,228 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,675 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 94 | [Drunk and Hungover](https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 3:04 |
 | 95 | [3 Feet Tall](https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [3 Feet Tall](https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ) | 3:42 |
 | 96 | [Checking In](https://open.spotify.com/track/18hClnXvRu2j0BjYpfPX5B) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Checking In \(From the Inspired By Soundtrack "Unsung Hero"\)](https://open.spotify.com/album/5pc39dpKoqqIibRMtvrPyr) | 3:15 |
-| 97 | [Heels Over Head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Heels Over Head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
+| 97 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
 | 98 | [Sunshine Shine](https://open.spotify.com/track/2467Nxi5K1DUUj7eRg1i64) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Sunshine Shine](https://open.spotify.com/album/7u7pAvJ12lZqTHFhyOaKml) | 3:01 |
 | 99 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
 | 100 | [Breaking My Heart](https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Breaking My Heart](https://open.spotify.com/album/6JPhvVl0yTlDB1MoUNFea1) | 3:40 |
 
-Snapshot ID: `MCwyZDdiNzU0OThiZDQzMzQ5MWRjNDM5MjMwMDkyZmU2NjIzOWYyMGQ3`
+Snapshot ID: `MCxmMzJlM2U0ZjFlNGE0NGM1OTM4YTk2NmE3Zjg3YWM1ZWE4ZWQ4MzEz`

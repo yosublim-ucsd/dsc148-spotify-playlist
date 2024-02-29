@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,342 songs - 3 day 10 hr 7 min
+1,345 songs - 3 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [CHILLIN \(feat\. Daichi Yamamoto\)](https://open.spotify.com/track/41tQErMclr6VBRAIsjAuhj) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [CROWS](https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd) | 2:50 | 2022-12-08 | 2023-01-11 |
 | [Choice](https://open.spotify.com/track/14vLQiD5BPqGUo72cJ3ONE) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Choice](https://open.spotify.com/album/1EuDLCs4gaDRUugmdzfRb4) | 3:51 | 2023-06-06 | 2023-06-08 |
 | [Choice](https://open.spotify.com/track/16av5XEj9HsVrdfbuicXF5) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Choice](https://open.spotify.com/album/47L62WQ7xaNkV45eLqB1Yr) | 3:51 | 2023-06-07 | 2023-06-14 |
-| [choose me \- RE: i\-dep ver.](https://open.spotify.com/track/2n7iGBwJPoTmf6mRHwfEFf) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [choose me \(RE: i\-dep ver.\)](https://open.spotify.com/album/4Rn0wpOtLKESTGddTJJg2v) | 4:03 | 2024-02-27 |  |
+| [choose me \- RE: i\-dep ver.](https://open.spotify.com/track/0R2Iie16VglcSk6cXeZ41N) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [choose me \(RE: i\-dep ver.\)](https://open.spotify.com/album/1qSDX5wHcO4BkDKjShvdx3) | 4:03 | 2024-02-27 |  |
+| [choose me \- RE: i\-dep ver.](https://open.spotify.com/track/2n7iGBwJPoTmf6mRHwfEFf) | [i\-dep](https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr) | [choose me \(RE: i\-dep ver.\)](https://open.spotify.com/album/4Rn0wpOtLKESTGddTJJg2v) | 4:03 | 2024-02-27 | 2024-02-29 |
 | [chord](https://open.spotify.com/track/1XyBpaXQaxWZeOqBCmi72A) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [chord](https://open.spotify.com/album/55bJN6zduydHGYN0IT1srE) | 3:36 | 2022-11-29 | 2022-12-07 |
 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 | 2022-11-22 | 2023-01-25 |
 | [Chu Chu Song](https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Chu Chu Song](https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb) | 2:54 | 2022-09-08 | 2022-10-26 |
@@ -419,7 +420,8 @@
 | [I'd hate 2 B a girl like U](https://open.spotify.com/track/4yIYZWlm2JGAtRgZjrlQQ8) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [I'd hate 2 B a girl like U](https://open.spotify.com/album/5NAdN7o2xwKnPSOozOqPzc) | 3:09 | 2023-05-30 | 2023-06-07 |
 | [I'm With You](https://open.spotify.com/track/2K4goyAH4A39JmYjS2tTTB) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm With You](https://open.spotify.com/album/2tMEEwOIKUwiSOLd1V3T7X) | 3:05 | 2022-07-27 | 2022-09-09 |
 | [I.W.S.P](https://open.spotify.com/track/4JAP7z3MSFFcSiW66Lr9J3) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [I.W.S.P](https://open.spotify.com/album/4ik3vEY9isnVmH3wfdnsfN) | 4:12 | 2023-09-12 | 2023-10-04 |
-| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 |  |
+| [IAI](https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo) | 3:03 | 2024-02-27 |  |
+| [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-27 | 2024-02-29 |
 | [ID](https://open.spotify.com/track/5iH6liPFQKRDP1u0fF7Xi2) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3BN4zSpeSiesTiYE5XsDxL) | 4:41 | 2022-12-15 | 2022-12-17 |
 | [ID](https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [ID](https://open.spotify.com/album/3v1UEzXlDSSkrcqSAd6GiI) | 4:41 | 2022-12-15 | 2022-12-28 |
 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 | 2023-05-25 | 2023-10-25 |
@@ -558,7 +560,8 @@
 | [Miragesong](https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Miragesong](https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt) | 4:45 | 2022-12-06 | 2023-02-10 |
 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 | 2022-10-27 | 2023-04-19 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-23 | 2023-04-19 |
-| [mirrors](https://open.spotify.com/track/23BxzhKlsUM0M6601eEoQu) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [mirrors](https://open.spotify.com/album/2q0X4FKoZdTONf0FVvzRO4) | 3:25 | 2024-02-27 |  |
+| [mirrors](https://open.spotify.com/track/23BxzhKlsUM0M6601eEoQu) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [mirrors](https://open.spotify.com/album/2q0X4FKoZdTONf0FVvzRO4) | 3:25 | 2024-02-27 | 2024-02-29 |
+| [mirrors](https://open.spotify.com/track/3T5naKF4mDr1P0sQpRzszn) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [mirrors](https://open.spotify.com/album/5qLzhuMXWuUh7K8OG5KSYS) | 3:25 | 2024-02-27 |  |
 | [miso soup](https://open.spotify.com/track/65NrPJ8A0BRqIxpc56hdNm) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [miso soup](https://open.spotify.com/album/3KwmdELYtxMl2UdiBSFDwL) | 3:46 | 2023-12-05 | 2023-12-13 |
 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 | 2023-07-18 | 2024-02-14 |
 | [missing summer \- Hugh Keice　Remix \- Korean Ver.](https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Hugh Keice](https://open.spotify.com/artist/74w143cx7ODBg7fiKC23aO) | [missing summer \(Hugh Keice　Remix \- Korean Ver.\)](https://open.spotify.com/album/1YZXtuwz8Ohy0WcMKR93Wg) | 3:37 | 2023-09-14 | 2023-10-04 |

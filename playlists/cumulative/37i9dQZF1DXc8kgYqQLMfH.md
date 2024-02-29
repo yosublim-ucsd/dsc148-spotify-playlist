@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,131 songs - 1 day 18 hr 53 min
+1,132 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [dandelion](https://open.spotify.com/track/5qBExpe9npzMiDNTm9WtGQ) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [dandelion](https://open.spotify.com/album/29awjnX2dm9AYbMSCQTvQe) | 2:04 | 2023-04-03 |  |
 | [Dawn to Dusk](https://open.spotify.com/track/7MUw4bxQfYoans7ZncHCFk) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [A Weekend in the Woods](https://open.spotify.com/album/77YOdqJfx29tJehsUHDIuk) | 2:23 | 2022-10-28 | 2023-10-06 |
 | [daydream](https://open.spotify.com/track/1u1V8O1tVy9FVJHjj3PdmV) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [daydream](https://open.spotify.com/album/7BSoLkoXvPu5nKjVGfPVmO) | 2:10 | 2023-03-24 |  |
-| [Daydreaming](https://open.spotify.com/track/4ul0cUhwgISLz2ktt0ydZ3) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Daydreaming](https://open.spotify.com/album/0vTXjr2nBXyDUp4aQWtS2e) | 2:15 | 2023-01-20 | 2024-01-14 |
+| [Daydreaming](https://open.spotify.com/track/4ul0cUhwgISLz2ktt0ydZ3) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Daydreaming](https://open.spotify.com/album/0vTXjr2nBXyDUp4aQWtS2e) | 2:15 | 2023-01-20 |  |
 | [Daydreams](https://open.spotify.com/track/1I6iZmlHDMAqqRVN0osX9b) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Max Merseny](https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u) | [Daydreams](https://open.spotify.com/album/4vXK0iBdHtyGNGRgwAADVN) | 2:24 | 2023-09-22 |  |
 | [Daydreamy](https://open.spotify.com/track/7hHvFQt0XkkKNnVtqFTHFo) | [James Jock Greinder](https://open.spotify.com/artist/2pTJOkH2SbQ4YbneLCWV3O) | [Daydreamy](https://open.spotify.com/album/0Jhhe6OakHh1wpOIJ8ydKG) | 2:43 | 2023-01-06 | 2023-05-20 |
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2023-02-17 |  |
@@ -617,7 +617,7 @@
 | [Meditation](https://open.spotify.com/track/7MnDyrWn3Dj9qpcDM3QTdO) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Meditation](https://open.spotify.com/album/0NqsqLK6jSuRo8GuhrlwiT) | 1:22 | 2022-12-09 |  |
 | [meet](https://open.spotify.com/track/6SlJOOHQDkUERNJOb2zo1Q) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [meet](https://open.spotify.com/album/2hFyV6uy0qOzuv1nIRqDax) | 2:02 | 2023-02-07 |  |
 | [Meeting Up At Night](https://open.spotify.com/track/1VSqMBcvU4vsgtcyBBGyag) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Meeting Up At Night](https://open.spotify.com/album/6u5bkANy5hqUH9s2riEFXN) | 2:57 | 2022-07-01 | 2023-09-22 |
-| [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 |  |
+| [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 | 2024-02-29 |
 | [mellow](https://open.spotify.com/track/6NQifrTw9bIazUX9oGfSsa) | [shogani](https://open.spotify.com/artist/0y76RS7R6xSSztxu7QfvN0) | [mellow](https://open.spotify.com/album/5hrFU6NdaH8oCAOZAy7wP0) | 2:07 | 2021-11-10 | 2022-10-29 |
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-02 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2023-09-29 |  |
@@ -791,7 +791,7 @@
 | [Popcorn Harvest](https://open.spotify.com/track/0CYzr54h1vtNkxh107m0HI) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Popcorn Harvest](https://open.spotify.com/album/329thzZNqZjgNtQyptMxKu) | 2:37 | 2021-11-10 | 2022-04-08 |
 | [Portugal](https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Portugal](https://open.spotify.com/album/5MmjBiPS7LyXxUidGRXgLm) | 1:57 | 2023-05-19 | 2023-10-13 |
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2021-11-10 | 2022-10-29 |
-| [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 |  |
+| [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 | 2024-02-29 |
 | [present](https://open.spotify.com/track/2ygHOivjzwJjy4ItsjweHv) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [present](https://open.spotify.com/album/5Qf3SwYMlSK7DDsFYffaso) | 3:02 | 2022-06-17 | 2023-09-22 |
 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 |  |
 | [Pretty Machine](https://open.spotify.com/track/4meg3qbldu4dlTv5e6hWsj) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pretty Machine](https://open.spotify.com/album/5EQ08AeGmReXRD17x2ybJc) | 2:05 | 2023-02-07 |  |
@@ -883,6 +883,7 @@
 | [simple things](https://open.spotify.com/track/1CJM6Gfherzr42RxVX5ThN) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [simple things](https://open.spotify.com/album/71oWQEjhHfLBxiGS6ivQmj) | 3:12 | 2023-05-19 | 2023-07-22 |
 | [simple things](https://open.spotify.com/track/5dCx5QAg5BV7lTM5SGAoNr) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [A journey to recovery](https://open.spotify.com/album/6irBGY6ICtVY3pSSW7UeU6) | 3:12 | 2023-07-13 | 2023-10-06 |
 | [Simulated Dreams](https://open.spotify.com/track/6wVZttXiGvLabOLuMrK5cE) | [Restl3ss](https://open.spotify.com/artist/01ycQSPdw38BZhDhjOdZNt) | [Simulated Dreams](https://open.spotify.com/album/1I0wWUfPg3Bwb3ujGucFS4) | 1:46 | 2022-10-01 | 2023-12-09 |
+| [Sinus](https://open.spotify.com/track/6Pnlt5r39c2dBRiy31kxiW) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Sinus](https://open.spotify.com/album/3RG6Us1GoKfqsPzTzPp5Ib) | 3:14 | 2024-02-26 |  |
 | [Six In The Rain](https://open.spotify.com/track/3J5qczCznbmlyOE3mW4GMb) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Six In The Rain](https://open.spotify.com/album/3pPtW1IGXHBfp4vHsmomKV) | 2:13 | 2022-10-28 | 2023-09-29 |
 | [Skate Home](https://open.spotify.com/track/5s27VHZCHUhdn2KNQnBhnx) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Kayba](https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Skate Home](https://open.spotify.com/album/0xPJ5W6eqtlgMbC8x1ZREe) | 2:22 | 2022-07-08 | 2022-10-29 |
 | [Skies](https://open.spotify.com/track/7uDD3cLmiA15RHOaV5SkoR) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Sohma](https://open.spotify.com/artist/6SdnUpAVCNtgWvn4riBwZE) | [Phases](https://open.spotify.com/album/4HrSuPGNpBWYMai0p76YHr) | 2:29 | 2022-07-29 | 2022-11-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 145516,
+  "num_followers": 145850,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGI3NTUwM2EwMDQ4ODc4OTE4MDMyZThlY2MyMGU5OThlMGFhODcy",
+  "snapshot_id": "MCw3M2E4Zjg0NjMxMjUzNTYwYmMxNDg1YjgzNTJhN2JlMTBhMThkMjc0",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -243,18 +243,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+        "name": "Yo Love (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+      "duration_ms": 143830,
+      "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -279,26 +287,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Yo Love (From \"Queen & Slim: The Soundtrack\")",
-        "url": "https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1"
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 143830,
-      "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 315598,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 315598,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Heart Don't Stand a Chance",
+      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Heart Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 266934,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG"
       },
@@ -711,6 +695,42 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 266934,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "None Of Your Concern",
         "url": "https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 262213,
       "name": "None Of Your Concern",
       "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "How You Want It?",
-        "url": "https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "King Combs",
-          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "How You Want It?",
-      "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -771,22 +771,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+        "name": "How You Want It?",
+        "url": "https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff"
       },
       "artists": [
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         },
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
         }
       ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+      "duration_ms": 222213,
+      "name": "How You Want It?",
+      "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204592,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 266560,
       "name": "So Good",
       "url": "https://open.spotify.com/track/7ybd52CorRfQz6aueDDHU0"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "People Come And Go",
-        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 154076,
-      "name": "People Come And Go",
-      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Square 1",
         "url": "https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Kool Aid",
-        "url": "https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C"
+        "name": "People Come And Go",
+        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
         }
       ],
-      "duration_ms": 155157,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ"
+      "duration_ms": 154076,
+      "name": "People Come And Go",
+      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
+        "name": "Kool Aid",
+        "url": "https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 195572,
-      "name": "21",
-      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
+      "duration_ms": 155157,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 176619,
       "name": "You Got The Body",
       "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
     },
     {
       "added_at": "2023-10-19 22:00:00",

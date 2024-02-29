@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,184 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,208 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 101 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
 | 102 | [Sexy After Dark](https://open.spotify.com/track/4bsmxYIlAsApRfvopNMFdb) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [See You Next Time](https://open.spotify.com/album/0k6hyzG6ntUuTVxiQIWpol) | 3:50 |
 
-Snapshot ID: `MCw5YzI0ZDBiMzU1MzI3NDZiMjBhMDg1NWIxNzhhOWMxZmU1MzhhMmYw`
+Snapshot ID: `MCwxNDc3YmI4NjNhYzlkYzVmYjAwZDNlZTZlYmMwZmI4YzhiMWJjMTdh`

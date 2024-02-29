@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 137936,
+  "num_followers": 137986,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjE3YTgyZDAwZGE4NzIzY2JjMjUyYjdhYjk3ZjA1OTIwN2UwMmU2",
+  "snapshot_id": "MCw3ZDEyY2NlODQzYjBiMWEyNDFlY2QwYjM1MmJlOTZkN2FjZTUxN2E3",
   "tracks": [
     {
       "added_at": "2023-10-13 15:01:06",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
-        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
+        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 215847,
-      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
+      "duration_ms": 191664,
+      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
     },
     {
       "added_at": "2023-10-13 15:01:06",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-10-13 15:01:06",
       "album": {
-        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
+        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 191664,
-      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
+      "duration_ms": 215847,
+      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
     },
     {
       "added_at": "2023-10-13 15:01:06",

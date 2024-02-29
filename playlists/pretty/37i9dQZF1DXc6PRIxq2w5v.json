@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Brunno Ramos, 2metro, BIG THE KIID",
-  "num_followers": 163728,
+  "num_followers": 163820,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh",
+  "snapshot_id": "MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz",
   "tracks": [
     {
       "added_at": "2024-01-05 13:31:22",
@@ -991,18 +991,30 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Deus \u00e9 Bom",
-        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/3abfGJFzmLauIG9MMgKVCj"
       },
       "artists": [
         {
-          "name": "Krawk",
-          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "Crissy",
+          "url": "https://open.spotify.com/artist/2k1ggJ7C5gZvEKOyfjgduC"
+        },
+        {
+          "name": "Xandr\u00ea",
+          "url": "https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6"
+        },
+        {
+          "name": "Blessbls",
+          "url": "https://open.spotify.com/artist/3ZgYOtWHGSmkJuq503UMtN"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Deus \u00e9 Bom",
-      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
+      "duration_ms": 212000,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/1y1CYkm1NQ8porSxBVK4B1"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1039,30 +1051,18 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/3abfGJFzmLauIG9MMgKVCj"
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
       },
       "artists": [
         {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "Crissy",
-          "url": "https://open.spotify.com/artist/2k1ggJ7C5gZvEKOyfjgduC"
-        },
-        {
-          "name": "Xandr\u00ea",
-          "url": "https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6"
-        },
-        {
-          "name": "Blessbls",
-          "url": "https://open.spotify.com/artist/3ZgYOtWHGSmkJuq503UMtN"
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/1y1CYkm1NQ8porSxBVK4B1"
+      "duration_ms": 220000,
+      "name": "Deus \u00e9 Bom",
+      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
+        "name": "eu vi",
+        "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "eu vi",
+      "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-01-05 13:31:22",
       "album": {
-        "name": "eu vi",
-        "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "eu vi",
-      "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
         "name": "Nome Sobre Todo Nome",
         "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
       },
@@ -1219,6 +1219,30 @@
       "duration_ms": 133624,
       "name": "Nome Sobre Todo Nome",
       "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2024-01-05 13:31:22",
+      "album": {
+        "name": "Doming\u00e3o",
+        "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
+      },
+      "artists": [
+        {
+          "name": "Kael",
+          "url": "https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 143114,
+      "name": "Doming\u00e3o",
+      "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
     },
     {
       "added_at": "2024-01-05 13:31:22",
@@ -1247,30 +1271,6 @@
       "duration_ms": 146400,
       "name": "A Gl\u00f3ria da Segunda Casa",
       "url": "https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ"
-    },
-    {
-      "added_at": "2024-01-05 13:31:22",
-      "album": {
-        "name": "Doming\u00e3o",
-        "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
-      },
-      "artists": [
-        {
-          "name": "Kael",
-          "url": "https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 143114,
-      "name": "Doming\u00e3o",
-      "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
     },
     {
       "added_at": "2024-01-05 13:31:22",

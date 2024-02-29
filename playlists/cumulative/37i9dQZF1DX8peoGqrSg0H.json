@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "I Got That Magic",
+        "url": "https://open.spotify.com/album/6diTZb076jdj8JTtumIoT4"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205894,
+      "name": "I Got That Magic",
+      "url": "https://open.spotify.com/track/1bSjf9p0HSAeZmrT2vF41w"
+    },
+    {
+      "album": {
         "name": "I'll Do It How You Like It",
         "url": "https://open.spotify.com/album/5jJ39vXfSuJl5x13eh1Ne6"
       },
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 159645,
       "name": "\u0e1b\u0e34\u0e4a\u0e07\u0e44\u0e1b\u0e1b\u0e48\u0e30 (So Bright Baby)",
       "url": "https://open.spotify.com/track/382vyfu2u0M8D8ixdoHsd2"

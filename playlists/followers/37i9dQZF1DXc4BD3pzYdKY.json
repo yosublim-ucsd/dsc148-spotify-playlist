@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 149602,
+  "2024-02-29": 149695,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:7jyr9Co4MKL1iWML1G7vch\">Zauntee</a>",
   "name": "The Flow",
@@ -743,6 +743,28 @@
       "duration_ms": 175522,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/66Qz1284tEvO6GPfQVTlZc"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
+      },
+      "artists": [
+        {
+          "name": "Bryson Gray",
+          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
     },
     {
       "album": {
@@ -18789,7 +18811,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 195500,
       "name": "VINE",
       "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"

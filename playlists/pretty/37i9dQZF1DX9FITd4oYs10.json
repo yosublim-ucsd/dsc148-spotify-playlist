@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17896,
+  "num_followers": 17898,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDQ5ODI3MTRhODZlZTdkYzhkYzk0MWJiMjNkMTU5M2FkMGM1YzBj",
+  "snapshot_id": "MCxmMDAyMTk3NjE1YmVmN2M2NDBhZWFiN2U0ZTYzNzdiMDQyYjYyMTNj",
   "tracks": [
     {
       "added_at": "2024-02-23 18:00:29",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Nao Sei Mais",
         "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 145185,
       "name": "Nao Sei Mais",
       "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -759,30 +759,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Bonde da Madrugada pt. 2",
         "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 237065,
       "name": "Olhares",
       "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 354310,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
-      },
-      "artists": [
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+      "duration_ms": 354310,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

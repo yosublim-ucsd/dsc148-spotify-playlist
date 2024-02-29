@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 406238,
+  "num_followers": 406340,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Y1MjAzMDM5NGMzOGE5YmI0MTRkM2FhMTU3ODE2MzY0ZGVkZjg3",
+  "snapshot_id": "MCxhNjUwMmJlZTM0OGVlMDdlNWExNzlmZWIyMjhlZDQzNWExNzc5NDhj",
   "tracks": [
     {
       "added_at": "2024-02-22 05:36:01",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Calm Wind",
-        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
-      },
-      "artists": [
-        {
-          "name": "Elfrieda",
-          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
-        }
-      ],
-      "duration_ms": 140102,
-      "name": "Calm Wind",
-      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Fall a hundred times",
         "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
       },
@@ -191,18 +175,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "land in sight",
-        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
       },
       "artists": [
         {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
         }
       ],
-      "duration_ms": 200550,
-      "name": "land in sight",
-      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -219,6 +203,22 @@
       "duration_ms": 150000,
       "name": "Schutter",
       "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "land in sight",
+        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "land in sight",
+      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Saying Things",
-        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Fremont",
-          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Saying Things",
-      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Hearts of Desire",
         "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Saying Things",
+        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Fremont",
+          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Saying Things",
+      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Astray",
-        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
-      },
-      "artists": [
-        {
-          "name": "Simon Vouet",
-          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
-        }
-      ],
-      "duration_ms": 120941,
-      "name": "Astray",
-      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Ode to Vivian (Rework)",
         "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 96624,
       "name": "Ode to Vivian - Rework",
       "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Astray",
+        "url": "https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2"
+      },
+      "artists": [
+        {
+          "name": "Simon Vouet",
+          "url": "https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b"
+        }
+      ],
+      "duration_ms": 120941,
+      "name": "Astray",
+      "url": "https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 199166,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Linn Hope",
+          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Dancing Dreams",
         "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+        "name": "Arbor",
+        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
       },
       "artists": [
         {
-          "name": "Linn Hope",
-          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
         }
       ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
+      "duration_ms": 155500,
+      "name": "Arbor",
+      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
-      },
-      "artists": [
-        {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Arbor",
-        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
       "artists": [
         {
-          "name": "Samuel Kees",
-          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Arbor",
-      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Moment of Solace",
-        "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
-      },
-      "artists": [
-        {
-          "name": "Eva Starr",
-          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Moment of Solace",
-      "url": "https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Grand Canyon",
         "url": "https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ"
       },
@@ -1135,6 +1119,38 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
+        "name": "Moment of Solace",
+        "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Moment of Solace",
+      "url": "https://open.spotify.com/track/3bDLjjjT1TNLUI7wnJ8uPW"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "The swan",
+        "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "The swan",
+      "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
         "name": "Onward",
         "url": "https://open.spotify.com/album/5KO6U6HtIH8sK9sOJmJt2i"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 129250,
       "name": "To New Beginnings",
       "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
-        "name": "The swan",
-        "url": "https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu"
-      },
-      "artists": [
-        {
-          "name": "Ava Cerasoli",
-          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "The swan",
-      "url": "https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "A Gentle Sunlight",
         "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "added_at": "2024-02-22 05:36:01",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-22 05:36:01",
       "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
-    },
-    {
-      "added_at": "2024-02-22 05:36:01",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2024-02-22 05:36:01",
+      "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2024-02-22 05:36:01",

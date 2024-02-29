@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 8785,
+  "num_followers": 8796,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzVlZjA0NWFmYjNlMmY5M2M0ZTFkYmQwODVjZWEyYzUwMTUyMjIz",
+  "snapshot_id": "MCw3MGYxZDg0OGQ1ZGRiZDU2NTlkNzU1NDEzYjFhNDY0YzU5NDJkYjQx",
   "tracks": [
     {
       "added_at": "2024-02-15 16:22:36",
@@ -131,18 +131,22 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+        "name": "Palmwine Music 2",
+        "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Flash",
+          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
         }
       ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+      "duration_ms": 255157,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -211,22 +215,18 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Palmwine Music 2",
-        "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
       },
       "artists": [
         {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Flash",
-          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 255157,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "WINNY",
-        "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
-      },
-      "artists": [
-        {
-          "name": "Winny",
-          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Operation",
-      "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
         "name": "Still II",
         "url": "https://open.spotify.com/album/4suYeq2z1bGkU9AftrlMU7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 129955,
       "name": "Still II",
       "url": "https://open.spotify.com/track/7fVEkRuAjRlEWd6GPSdSuP"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
+        "name": "WINNY",
+        "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Operation",
+      "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
+        "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Amaa Rae",
+          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
-        "name": "Insert Project Name",
-        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Amaa Rae",
-          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
     },
     {
       "added_at": "2024-02-15 16:22:36",

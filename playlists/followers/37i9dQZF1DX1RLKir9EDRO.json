@@ -1,5 +1,5 @@
 {
-  "2024-02-28": 33084,
+  "2024-02-29": 33087,
   "date_first_scraped": "2022-01-09",
   "description": "Ba\u011f\u0131ms\u0131z yerli sahneden en taze ke\u015fifler. Kapak: K\u0131r\u0131k Pena \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
@@ -352,6 +352,24 @@
     },
     {
       "album": {
+        "name": "Ankara'dan Vazge\u00e7tim",
+        "url": "https://open.spotify.com/album/3jLuGlFwYkSDnHix5QWBfr"
+      },
+      "artists": [
+        {
+          "name": "Denizalt\u0131",
+          "url": "https://open.spotify.com/artist/38nKwTEK9oRyUcAJeibB9D"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265543,
+      "name": "Ankara'dan Vazge\u00e7tim",
+      "url": "https://open.spotify.com/track/7bBurRsbTYFEIVetraTXIX"
+    },
+    {
+      "album": {
         "name": "Anla",
         "url": "https://open.spotify.com/album/6iDAyfRIwchuTp4UohJlTd"
       },
@@ -602,7 +620,7 @@
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 127846,
+      "duration_ms": 97727,
       "name": "ASAB\u0130",
       "url": "https://open.spotify.com/track/0nJTjm6dQqGiKfzkPSvCnR"
     },
@@ -1053,6 +1071,24 @@
       "duration_ms": 141644,
       "name": "Ba\u015fkas\u0131 Yok",
       "url": "https://open.spotify.com/track/66hC60dCmLh8hxIbuPqLzw"
+    },
+    {
+      "album": {
+        "name": "Ba\u015fkas\u0131n\u0131",
+        "url": "https://open.spotify.com/album/6IzQyf5kpAjgNS7zYyGK48"
+      },
+      "artists": [
+        {
+          "name": "Ezheran",
+          "url": "https://open.spotify.com/artist/1RTKRY9VxzrORdZDcyckfD"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193216,
+      "name": "Ba\u015fkas\u0131n\u0131",
+      "url": "https://open.spotify.com/track/3x6AyaAlTrFlyp6xj6DgSq"
     },
     {
       "album": {
@@ -2205,7 +2241,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 153500,
       "name": "Cevaps\u0131z \u00c7a\u011fr\u0131",
       "url": "https://open.spotify.com/track/228g9hAzqo5B12nfz6VXfF"
@@ -2223,7 +2259,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 208000,
       "name": "Control",
       "url": "https://open.spotify.com/track/0Gg7GGHZHVov9a6UmuQN6N"
@@ -4790,6 +4826,24 @@
     },
     {
       "album": {
+        "name": "\u0130nsanlar\u0131 \u00c7\u00f6z",
+        "url": "https://open.spotify.com/album/1vyyzpxUjYUb3kZmtGzlDJ"
+      },
+      "artists": [
+        {
+          "name": "Plaj",
+          "url": "https://open.spotify.com/artist/6WVyN7Oth3CHp5HWFSDqQm"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239216,
+      "name": "\u0130nsanlar\u0131 \u00c7\u00f6z",
+      "url": "https://open.spotify.com/track/2Je8em0Xw6Y9Ne3VDlQDZT"
+    },
+    {
+      "album": {
         "name": "\u0130pin Ucu",
         "url": "https://open.spotify.com/album/2a28kVpzmhUwSllmzQJCOv"
       },
@@ -4859,6 +4913,42 @@
       "duration_ms": 172983,
       "name": "\u0130T\u0130NAYLA",
       "url": "https://open.spotify.com/track/5TGjpNY37OfEQVdLDHTet8"
+    },
+    {
+      "album": {
+        "name": "\u0130\u00e7ine Kapan\u0131k",
+        "url": "https://open.spotify.com/album/2iP090wIiyyJzCAcsZVFhJ"
+      },
+      "artists": [
+        {
+          "name": "Vesvas",
+          "url": "https://open.spotify.com/artist/2uXkRRy7mAYdQ3TuYCSruj"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "\u0130\u00e7ine Kapan\u0131k",
+      "url": "https://open.spotify.com/track/7IxfBSFvzt4eHRNSy65nr3"
+    },
+    {
+      "album": {
+        "name": "K.",
+        "url": "https://open.spotify.com/album/36X2IYWMnAOncdtaBdcuj4"
+      },
+      "artists": [
+        {
+          "name": "Ay\u015fe Bet\u00fcl",
+          "url": "https://open.spotify.com/artist/1wIRBDyxpwh24UQL8qrnW7"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/3OQqIeK6vr2twbG2MrzJqq"
     },
     {
       "album": {
@@ -6518,6 +6608,24 @@
     },
     {
       "album": {
+        "name": "Nehir",
+        "url": "https://open.spotify.com/album/7xTGktsuwXc5baMNYfyWlp"
+      },
+      "artists": [
+        {
+          "name": "Bo\u015f Kemikler",
+          "url": "https://open.spotify.com/artist/0u1eo6iWHJ0v2jJGBKxLlE"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246688,
+      "name": "Nehir",
+      "url": "https://open.spotify.com/track/0w10LIkDlsVcRdKJW2GkMc"
+    },
+    {
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7BO05csS0NIhkVsIqOaXDL"
       },
@@ -7541,7 +7649,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 165116,
       "name": "Saklansam",
       "url": "https://open.spotify.com/track/7xciSinDQE6JaloHHjGwRE"
@@ -7797,6 +7905,24 @@
       "duration_ms": 192063,
       "name": "Sen Bana Bakma",
       "url": "https://open.spotify.com/track/6fksVocvgVwHemeJRNaEcC"
+    },
+    {
+      "album": {
+        "name": "Sen Gel",
+        "url": "https://open.spotify.com/album/2Bbe0W6s6ZQUvr8MoQcYaP"
+      },
+      "artists": [
+        {
+          "name": "Elzem",
+          "url": "https://open.spotify.com/artist/4hDxJ81InVXPpU5YMQlgTf"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "Sen Gel",
+      "url": "https://open.spotify.com/track/1LUqcPsdTWBdd0fKNbIQVO"
     },
     {
       "album": {
@@ -8973,7 +9099,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 266250,
       "name": "U\u00e7urum",
       "url": "https://open.spotify.com/track/0pDm91ZgxasMh6XqDkyK4j"
@@ -8991,7 +9117,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 144000,
       "name": "Vah\u015fi Bat\u0131 - Sen de Gidersen",
       "url": "https://open.spotify.com/track/02bU70DDBBpddDUFX7enPW"
@@ -10339,7 +10465,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-28",
       "duration_ms": 211800,
       "name": "\u00c7ok Sev Beni",
       "url": "https://open.spotify.com/track/2mAe2gZ1qS4if5O377zFeC"

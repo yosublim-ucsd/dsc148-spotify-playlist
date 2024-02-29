@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 84906,
+  "num_followers": 84950,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTdlMTQ1ODY5YmRjZTU4ZWRiNzQ3MDk3NDhjYzYyODhjNjY3OTg2",
+  "snapshot_id": "MCwxYzVhYWRmOWFhODI1ZjcxMjk0ZWYyNWQxOGQ2YzkxZjRmNDNlZDNj",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Hawke",
-          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "We Come Running",
-      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Youngblood Hawke",
+          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
+      "duration_ms": 247506,
+      "name": "We Come Running",
+      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1207,6 +1191,22 @@
       "duration_ms": 222973,
       "name": "Doused",
       "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Moon Holiday",
+          "url": "https://open.spotify.com/artist/5HAqdulyJZF8EPKIvPMRTy"
+        }
+      ],
+      "duration_ms": 213883,
+      "name": "Insane feat. Moon Holiday",
+      "url": "https://open.spotify.com/track/7gqKkrzG5OV1CLViOaXSay"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1RHlOUoinOK5WZconLM6lp"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 223840,
       "name": "Forest Whitaker",
       "url": "https://open.spotify.com/track/5S67wnJOMjuySVEu4ssCof"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Flume",
-        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Moon Holiday",
-          "url": "https://open.spotify.com/artist/5HAqdulyJZF8EPKIvPMRTy"
-        }
-      ],
-      "duration_ms": 213883,
-      "name": "Insane feat. Moon Holiday",
-      "url": "https://open.spotify.com/track/7gqKkrzG5OV1CLViOaXSay"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Every Single Night",
-      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Synthetica (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 236413,
       "name": "Breathing Underwater",
       "url": "https://open.spotify.com/track/1KZjU7csKHOLRiRPBWZIJS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Every Single Night",
+      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1467,38 +1467,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "I Belong In Your Arms",
-      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Flume",
         "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
       },
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "I Belong In Your Arms",
+      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Beacon",
         "url": "https://open.spotify.com/album/6Vl6axAAimJLEvRu7pOsuv"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 251453,
       "name": "Next Year",
       "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2022-05-19 08:11:23",
