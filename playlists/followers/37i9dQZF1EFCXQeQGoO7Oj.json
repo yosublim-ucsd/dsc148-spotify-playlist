@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 115523,
+  "2024-03-01": 115524,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS\">Max Martin</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Max Martin",
@@ -383,7 +383,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 385074,
-      "name": "Admit It (u don't want 2)",
+      "name": "Admit It (u dont want 2)",
       "url": "https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc"
     },
     {
@@ -6601,7 +6601,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 184008,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/0sCtwhWN9uRVi4W0D5omrq"

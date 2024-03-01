@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 207768,
+  "2024-03-01": 207892,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Chezile",
   "name": "Fresh Finds Indie",
@@ -805,7 +805,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 181000,
       "name": "A Stitch In Time",
       "url": "https://open.spotify.com/track/3B66jk36KF24lpTAVukU9T"
@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177254,
+      "name": "Alone At Last",
+      "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
+    },
+    {
+      "album": {
         "name": "Alphamale",
         "url": "https://open.spotify.com/album/6xAxbY22ClrcbdF4H6fMhJ"
       },
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 258181,
       "name": "as it should be",
       "url": "https://open.spotify.com/track/5yL2yJczalyRCDSeasbUrS"
@@ -3046,6 +3064,24 @@
     },
     {
       "album": {
+        "name": "backseat",
+        "url": "https://open.spotify.com/album/3IOA0OXQ2kkFWT3HKF016w"
+      },
+      "artists": [
+        {
+          "name": "WESLEE",
+          "url": "https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174865,
+      "name": "backseat",
+      "url": "https://open.spotify.com/track/68CijBYyD89CISS4vDLAaq"
+    },
+    {
+      "album": {
         "name": "Backseat Baby",
         "url": "https://open.spotify.com/album/7k5RJiHIhdvTlfjk88gFS2"
       },
@@ -3079,6 +3115,24 @@
       "duration_ms": 182669,
       "name": "Backstreet Snow",
       "url": "https://open.spotify.com/track/3JvBS2qOm8pvDEYW70qeGS"
+    },
+    {
+      "album": {
+        "name": "backup, cash out",
+        "url": "https://open.spotify.com/album/6UX2tNKKoldjLIuQ9YxaXU"
+      },
+      "artists": [
+        {
+          "name": "fyoum",
+          "url": "https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195576,
+      "name": "backup, cash out",
+      "url": "https://open.spotify.com/track/37RdWcTw7Y99za5MJ7jnOe"
     },
     {
       "album": {
@@ -3295,7 +3349,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 292000,
       "name": "Baggage",
       "url": "https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS"
@@ -4571,6 +4625,28 @@
       "duration_ms": 152000,
       "name": "Bloody Kisses",
       "url": "https://open.spotify.com/track/3UmoLlwTRXFBXogohJo2zC"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1zxRFq7X9b8KWPWgezaawi"
+      },
+      "artists": [
+        {
+          "name": "Benja",
+          "url": "https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid"
+        },
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174014,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0VMnW6D7qcU88JNKA81lbJ"
     },
     {
       "album": {
@@ -7392,6 +7468,24 @@
     },
     {
       "album": {
+        "name": "Computer Love",
+        "url": "https://open.spotify.com/album/56BloPLPzJUc0L81RcDwaY"
+      },
+      "artists": [
+        {
+          "name": "Sarah Meth",
+          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/1a8GO5CTwoQAz2Rhal9vls"
+    },
+    {
+      "album": {
         "name": "Concrete Walls",
         "url": "https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r"
       },
@@ -9561,7 +9655,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 168227,
       "name": "Don't",
       "url": "https://open.spotify.com/track/10RehYr3Ci6jeCwwzlwtvC"
@@ -9951,6 +10045,24 @@
       "duration_ms": 193730,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/1BSiJhiUchIkDeWz0H4qAC"
+    },
+    {
+      "album": {
+        "name": "Dreamt",
+        "url": "https://open.spotify.com/album/0TDItPfDRGQuV1Szs52Y18"
+      },
+      "artists": [
+        {
+          "name": "Twice Eyes",
+          "url": "https://open.spotify.com/artist/1Vnla1zhuG8GGOyomO8i1q"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "Dreamt",
+      "url": "https://open.spotify.com/track/6EVRm9emcGEV2vi88dh80q"
     },
     {
       "album": {
@@ -11573,6 +11685,24 @@
       "duration_ms": 223548,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/2pVxGsIBL1BYfeRPx5CY86"
+    },
+    {
+      "album": {
+        "name": "Fibbs",
+        "url": "https://open.spotify.com/album/5luLw5YlLKlA2P8WR30b9l"
+      },
+      "artists": [
+        {
+          "name": "No Windows",
+          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208042,
+      "name": "Fibbs",
+      "url": "https://open.spotify.com/track/4WySzY2FX8WtsElUwxyagE"
     },
     {
       "album": {
@@ -13514,6 +13644,24 @@
     },
     {
       "album": {
+        "name": "Mother Engine",
+        "url": "https://open.spotify.com/album/6nzUNhv2m52ETJKp67PLZ2"
+      },
+      "artists": [
+        {
+          "name": "Amiture",
+          "url": "https://open.spotify.com/artist/6QQTD1fhcLGGHtMBHi5n3v"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233573,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4kjQHsISSXI4pnIVH4WvPn"
+    },
+    {
+      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/0s4TWfMrNVHqVEEr1lRoJi"
       },
@@ -14559,7 +14707,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 226198,
       "name": "halo on the interstate",
       "url": "https://open.spotify.com/track/3ZeGhZwG9yXecJK0B8WvMA"
@@ -16667,7 +16815,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 220676,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
@@ -18969,7 +19117,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 193826,
       "name": "Jona",
       "url": "https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5"
@@ -22608,6 +22756,24 @@
     },
     {
       "album": {
+        "name": "Mind & Body",
+        "url": "https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY"
+      },
+      "artists": [
+        {
+          "name": "Tol\u00fc Makay",
+          "url": "https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176849,
+      "name": "Mind & Body",
+      "url": "https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p"
+    },
+    {
+      "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
@@ -23233,6 +23399,28 @@
       "duration_ms": 291634,
       "name": "Mostly Me",
       "url": "https://open.spotify.com/track/2wChV41hj2LCV3ohMARUEf"
+    },
+    {
+      "album": {
+        "name": "mostpreciousblood",
+        "url": "https://open.spotify.com/album/78bqzWbjalslY5lUsn6IgB"
+      },
+      "artists": [
+        {
+          "name": "Salt+",
+          "url": "https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape"
+        },
+        {
+          "name": "Michellita",
+          "url": "https://open.spotify.com/artist/3Ktdps9fAIHCpVDS1W5Q3g"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188511,
+      "name": "mostpreciousblood",
+      "url": "https://open.spotify.com/track/4M8od0IJz9DiwZ3Dj2CxSQ"
     },
     {
       "album": {
@@ -26117,7 +26305,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 215051,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4R72B4EGt4kELioQhvJfcy"
@@ -26967,7 +27155,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 157260,
       "name": "pickups",
       "url": "https://open.spotify.com/track/25zWk512TDKBrqyBzywXpK"
@@ -28608,6 +28796,24 @@
     },
     {
       "album": {
+        "name": "JULIA",
+        "url": "https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m"
+      },
+      "artists": [
+        {
+          "name": "Juice Webster",
+          "url": "https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245891,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/4XaagD7R1HqT3tu5wGoxdT"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/5HgaPk5hbYfOftuJpVcdrv"
       },
@@ -29107,7 +29313,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 251253,
       "name": "Rosy Glasses",
       "url": "https://open.spotify.com/track/5gIktkrlYS6UFjiUeDYjG9"
@@ -29327,7 +29533,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 255003,
       "name": "Running",
       "url": "https://open.spotify.com/track/44l2NbA8lMwFMNNB3rWTqI"
@@ -30029,7 +30235,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 202910,
       "name": "Screwdriver",
       "url": "https://open.spotify.com/track/7DlxlzEqL01TZlQkZaeyyY"
@@ -30047,7 +30253,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 225160,
       "name": "Sea Sick",
       "url": "https://open.spotify.com/track/1S2s9TeQTwqvtiQ5CsPMes"
@@ -34024,6 +34230,24 @@
     },
     {
       "album": {
+        "name": "sway",
+        "url": "https://open.spotify.com/album/5WAigjDSeooWIyiPLb1ra2"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108300,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/503gLddG5seJR59iM2BLi7"
+    },
+    {
+      "album": {
         "name": "sweaterback",
         "url": "https://open.spotify.com/album/2YVdt9Pq1ULT9gDXhj61ia"
       },
@@ -34071,7 +34295,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 179049,
       "name": "Sweet N Low",
       "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
@@ -34681,6 +34905,24 @@
       "duration_ms": 168571,
       "name": "TEMPLE OF THE DRAGON",
       "url": "https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8"
+    },
+    {
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1G6sjX1SKZuie8PV47QHU7"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191439,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7"
     },
     {
       "album": {

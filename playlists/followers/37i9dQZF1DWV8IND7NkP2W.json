@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 430024,
+  "2024-03-01": 430024,
   "date_first_scraped": "2021-12-29",
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
   "name": "Road Trip To Tokyo",
@@ -3733,7 +3733,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 166764,
       "name": "Ferris Parade",
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
@@ -7709,10 +7709,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 174578,
       "name": "Moon Walk",
       "url": "https://open.spotify.com/track/3YwotDcCJreaemW9Zb2PP8"
+    },
+    {
+      "album": {
+        "name": "Moon Walk",
+        "url": "https://open.spotify.com/album/4SDIMh7yv7kXXkN4cbTENh"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174578,
+      "name": "Moon Walk",
+      "url": "https://open.spotify.com/track/79R8D7F0PEmy4nuaD7kqwd"
     },
     {
       "album": {
@@ -8535,7 +8553,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 155760,
       "name": "NIGHT RIDER",
       "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"

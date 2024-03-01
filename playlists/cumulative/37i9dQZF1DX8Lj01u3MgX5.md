@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-78 songs - 6 hr 45 min
+78 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 | 2020-04-13 |  |
 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 | 2020-04-13 |  |
 | [Head to Toe](https://open.spotify.com/track/5VzqFMyPERPObMOzZdELuK) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT) | [Spanish Fly](https://open.spotify.com/album/4wUtE8wSuDEyEHx5Pc6Rge) | 5:03 | 2020-04-13 |  |
-| [Hungry Like the Wolf](https://open.spotify.com/track/2HuHopKnnuGQEpGb0CssCs) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/2siHYnkgCUsilqW5UYjY1y) | 3:25 | 2020-04-13 |  |
+| [Hungry Like the Wolf](https://open.spotify.com/track/2HuHopKnnuGQEpGb0CssCs) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/2siHYnkgCUsilqW5UYjY1y) | 3:29 | 2020-04-13 |  |
 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 | 2020-04-13 |  |
 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 | 2020-04-13 |  |
 | [I Didn't Mean To Turn You On](https://open.spotify.com/track/7EejjSh1WDrm81z0u3Fhmk) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4) | [Fragile](https://open.spotify.com/album/6jb40W1fi6E9OMh9YBEzc1) | 7:03 | 2020-04-13 |  |

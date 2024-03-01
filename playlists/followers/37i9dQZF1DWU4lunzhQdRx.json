@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 143077,
+  "2024-03-01": 143236,
   "date_first_scraped": "2022-04-29",
   "description": "in our emo cowgirl era",
   "name": "sad girl country",
@@ -1308,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Matching Tattoos",
+        "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180181,
+      "name": "Matching Tattoos",
+      "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
+    },
+    {
+      "album": {
         "name": "Primrose",
         "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
       },
@@ -2140,7 +2158,7 @@
     },
     {
       "album": {
-        "name": "We Don't Fight Anymore",
+        "name": "we don't fight anymore",
         "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
       },
       "artists": [
@@ -2157,7 +2175,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220145,
-      "name": "We Don't Fight Anymore",
+      "name": "we don't fight anymore",
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
     },
     {
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 217807,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,595 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,619 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 2 | [Lonely Ones](https://open.spotify.com/track/6Mb0OgMvbb7FYQejZ6rusz) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:07 |
 | 3 | [The Most Beautiful Boy \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/54fap9q6JOH7xNJBEfJch6) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s), [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [IR Electronic 1](https://open.spotify.com/album/2tsMDUMO2QHIDWDMRgcvGU) | 3:03 |
 | 4 | [Overcome](https://open.spotify.com/track/3oeKrn90eVhCFJvsSq6PO0) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:07 |
-| 5 | [Ripe](https://open.spotify.com/track/3swlYCo5DAjff844G6Quwp) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Suck My Feminism \(Deluxe\)](https://open.spotify.com/album/3HlPPNOMttdO0a2ROodt7U) | 2:36 |
+| 5 | [Ripe](https://open.spotify.com/track/5cOJAACnd9jTsMEjjlWQS0) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Suck My Feminism \(Deluxe\)](https://open.spotify.com/album/5BBvEN7V7gj5qRKUZAzau4) | 2:36 |
 | 6 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
 | 7 | [I Wanna Be Someone Who's Loved \- from the Netflix Series "Young Royals"](https://open.spotify.com/track/4H2jEahDISrj6FDTwuPfb8) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [I Wanna Be Someone Who's Loved \(from the Netflix Series "Young Royals"\)](https://open.spotify.com/album/21nf5HWYr2ZwVHAob4OwI5) | 3:11 |
 | 8 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MCw3Y2E3MTI4NDBiYzk0YWVmZDg4NGY3ZjM2ZjE3ZjNlMGFkM2Y1M2Fh`
+Snapshot ID: `MCwzNjJkZTRlYmM4YmM4MzJlYWQ3NTQ4N2IzZDQwYmVlYWMwYzZhOTlh`

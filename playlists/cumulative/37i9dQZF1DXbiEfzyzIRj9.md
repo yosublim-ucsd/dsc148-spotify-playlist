@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Four Tet
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Fred again..
 
-613 songs - 1 day 22 hr 1 min
+614 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Space Woman](https://open.spotify.com/track/2dSjOKbiTTUrFCTsy9PBQ5) | [Powder](https://open.spotify.com/artist/4uODGAg149IxrHfQ9z8Hzr) | [Space Woman](https://open.spotify.com/album/2SM1lb9iT98PCVNwH3T4LM) | 1:53 | 2023-04-06 | 2023-07-28 |
 | [Sport Cut](https://open.spotify.com/track/29vU5LPbgEvbyooRCog9LA) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 2:56 | 2023-05-19 | 2023-08-18 |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-16 | 2023-06-09 |
+| [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-29 |  |
 | [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 | 2023-10-26 |  |
 | [Step By Step \- Amtrac Remix](https://open.spotify.com/track/34ylsV3aBInkVBplkiNL5a) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Step By Step Remixes](https://open.spotify.com/album/5H8qhibkvbDxg9YzM4SjFS) | 5:21 | 2023-06-09 | 2023-08-12 |
 | [Step to Me](https://open.spotify.com/track/1kLFIdN5DYCgcz2yT48faZ) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Love Hate EP](https://open.spotify.com/album/0HM6rVEvKh4B13jmsI1XxI) | 4:34 | 2023-12-07 | 2024-01-12 |
@@ -525,7 +526,7 @@
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-07 | 2023-12-16 |
 | [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 | 2023-09-09 |
 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 | 2024-01-18 |  |
-| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 |  |
+| [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 | 2024-03-01 |
 | [That's Right](https://open.spotify.com/track/7HtVDJEOCwT5sdVQnets6A) | [Shunichi Komazu](https://open.spotify.com/artist/12pmBFJ1S6dxyClYKSsusN), [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Zoe](https://open.spotify.com/artist/3BORdvvXzwjXCTGMztDqRY) | [That's Right](https://open.spotify.com/album/4KgNH3vjiuiyJuNXqGMTji) | 2:39 | 2023-04-27 | 2023-06-09 |
 | [That's Right \- Edit](https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [That's Right \(Edit\)](https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z) | 4:36 | 2023-10-05 | 2023-10-23 |
 | [The Answer \- Session Victim Remix](https://open.spotify.com/track/5K6M8FmreKwexv9mr81U8Z) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Krewcial](https://open.spotify.com/artist/7ilTDcIhOJ4YAPcDgZLad1), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Answer \(Session Victim Remix\)](https://open.spotify.com/album/4JJGlZtYQGvg3X9GAYo6W3) | 6:25 | 2023-06-29 | 2023-10-06 |

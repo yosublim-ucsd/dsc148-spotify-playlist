@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 115200,
       "name": "Baxa",
       "url": "https://open.spotify.com/track/3eMSoIzS6JiWF6W9LQzon4"
@@ -4058,7 +4058,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 147960,
       "name": "BONANZA",
       "url": "https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz"
@@ -6557,6 +6557,28 @@
     },
     {
       "album": {
+        "name": "Djungeln (feat. GULEED)",
+        "url": "https://open.spotify.com/album/3AqQnBtOK6HtW2gpyyD6pw"
+      },
+      "artists": [
+        {
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
+        },
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112301,
+      "name": "Djungeln (feat. GULEED)",
+      "url": "https://open.spotify.com/track/7ryxRAMzW1MEC1grNhcTHp"
+    },
+    {
+      "album": {
         "name": "DJ\u00c4VULEN ELLER JAG",
         "url": "https://open.spotify.com/album/1Qki2dmzBcOhtP4710WKLg"
       },
@@ -8658,7 +8680,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152275,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/4e3c7sCyBXsOE84AB6Hiig"
@@ -8788,7 +8810,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 123564,
       "name": "Fu*k You",
       "url": "https://open.spotify.com/track/02PQr1KaSbzwYUxO81Jbwl"
@@ -9250,7 +9272,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173131,
       "name": "Gas",
       "url": "https://open.spotify.com/track/77T996JlKleOyB1RAchTQr"
@@ -10204,7 +10226,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 151840,
       "name": "Gunshot",
       "url": "https://open.spotify.com/track/7sdMVS0bIh2nk4uMonMDGp"
@@ -11391,6 +11413,24 @@
     },
     {
       "album": {
+        "name": "Hur Som Helst",
+        "url": "https://open.spotify.com/album/7s7eQKeG8tRxmJFfseNrYR"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Hur Som Helst",
+      "url": "https://open.spotify.com/track/37nd3wVSymBnw7F75b5zYM"
+    },
+    {
+      "album": {
         "name": "HUVUDSTADEN",
         "url": "https://open.spotify.com/album/2GeeiWjEfEagfYSyDfgY9m"
       },
@@ -12012,6 +12052,24 @@
       "duration_ms": 194599,
       "name": "Inga \u00e4nglar (Na na na)",
       "url": "https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo"
+    },
+    {
+      "album": {
+        "name": "INGEN ANNAN",
+        "url": "https://open.spotify.com/album/7A170JHkGo9IGaTydd1txD"
+      },
+      "artists": [
+        {
+          "name": "Chyde",
+          "url": "https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118698,
+      "name": "INGEN ANNAN",
+      "url": "https://open.spotify.com/track/08MbwpTIhRmikedfJ4iyGI"
     },
     {
       "album": {
@@ -15714,7 +15772,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 160717,
       "name": "Ma Luv",
       "url": "https://open.spotify.com/track/3WqNXP1hDDDbYDZyM6WW3a"
@@ -16270,6 +16328,28 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "album": {
+        "name": "MARIJUANA",
+        "url": "https://open.spotify.com/album/4zc7yYdwEqphw8F9qq2cYV"
+      },
+      "artists": [
+        {
+          "name": "La Rosy",
+          "url": "https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133901,
+      "name": "MARIJUANA",
+      "url": "https://open.spotify.com/track/5ye6Si3ASRq9oNbeDUUKW2"
     },
     {
       "album": {
@@ -19233,6 +19313,24 @@
     },
     {
       "album": {
+        "name": "PAPAPA",
+        "url": "https://open.spotify.com/album/63Eipjl2g9hCda4rP6Si4r"
+      },
+      "artists": [
+        {
+          "name": "Chapo",
+          "url": "https://open.spotify.com/artist/0A2TLDRLEVG2aRIUPSBtNS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170753,
+      "name": "PAPAPA",
+      "url": "https://open.spotify.com/track/6A0Wfspn6zvSBOfRYUPWbE"
+    },
+    {
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea"
       },
@@ -19638,6 +19736,24 @@
       "duration_ms": 145312,
       "name": "PEPPAR ELLER LIME",
       "url": "https://open.spotify.com/track/0cv6NvAnGQZ52E9C6QVbaN"
+    },
+    {
+      "album": {
+        "name": "PERSON I N\u00d6DEN",
+        "url": "https://open.spotify.com/album/4UmXu9AfcluB1B2UvrmbSd"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140243,
+      "name": "PERSON I N\u00d6DEN",
+      "url": "https://open.spotify.com/track/0n2qnn5LOpxXNeTyj7YDYK"
     },
     {
       "album": {
@@ -21342,7 +21458,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 143500,
       "name": "Se & L\u00e4r",
       "url": "https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf"
@@ -21862,6 +21978,24 @@
       "duration_ms": 149538,
       "name": "SKIMMA",
       "url": "https://open.spotify.com/track/1ZYZksZeWLbTc2vfIlA4Uh"
+    },
+    {
+      "album": {
+        "name": "Skitz/Face ID",
+        "url": "https://open.spotify.com/album/0aqHbgEnvWltvYclkRj2aa"
+      },
+      "artists": [
+        {
+          "name": "Jiggz",
+          "url": "https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129196,
+      "name": "Skitz/Face ID",
+      "url": "https://open.spotify.com/track/2vkuGMrfovItY96pmT5Dq8"
     },
     {
       "album": {
@@ -23664,7 +23798,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 145320,
       "name": "TA MIG HEM",
       "url": "https://open.spotify.com/track/3XhCPd4wTYCjj3Y43R13FN"
@@ -24294,6 +24428,24 @@
       "duration_ms": 187951,
       "name": "Tiden st\u00e5r still",
       "url": "https://open.spotify.com/track/6b7eEsw09Ib8JT6YYKi9mT"
+    },
+    {
+      "album": {
+        "name": "TIGHT",
+        "url": "https://open.spotify.com/album/3tTPUggZxwyoejg49uA1FF"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132932,
+      "name": "TIGHT",
+      "url": "https://open.spotify.com/track/1IN5IPcqQUg7cFklNZ0Q41"
     },
     {
       "album": {
@@ -26510,6 +26662,24 @@
       "duration_ms": 185379,
       "name": "V\u00c4LKOMMEN TILL S\u00d6DRA",
       "url": "https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE"
+    },
+    {
+      "album": {
+        "name": "V\u00e4n till en v\u00e4n",
+        "url": "https://open.spotify.com/album/6gNZOCDHR1bE4BkSIuAbjD"
+      },
+      "artists": [
+        {
+          "name": "FGZ",
+          "url": "https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "V\u00e4n till en v\u00e4n",
+      "url": "https://open.spotify.com/track/0kVeiWhkvfnwfCwcMXBCmb"
     },
     {
       "album": {

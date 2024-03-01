@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=C9\-23PBuSF2oV6zMlS553A">Ebuka Songs</a>
 
-410 songs - 1 day 11 hr 33 min
+411 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2018-10-01 | 2023-04-01 |
 | [Miracles \- Acoustic](https://open.spotify.com/track/4XDdJZpUECwugZjR9IULnJ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Miracles](https://open.spotify.com/album/0CsD3Bep6RQez7Dhqg8urZ) | 3:08 | 2023-03-31 | 2023-06-09 |
 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 | 2023-03-31 | 2023-04-28 |
-| [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 | 2023-06-23 |  |
+| [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 | 2023-06-23 | 2024-03-01 |
 | [Mon ami](https://open.spotify.com/track/1oF5GGhDR8gwhqAyKHaJZY) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [1er amour](https://open.spotify.com/album/0fqCEJ1f2Hdb1rJMtROfS5) | 2:44 | 2023-04-07 | 2023-09-01 |
 | [More Than a Song \- Live](https://open.spotify.com/track/0dzxARoS1ba8g01fzqU4Ob) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [More Than a Song \(Live\)](https://open.spotify.com/album/6603NDkKT3gyBk2qS94ad5) | 6:09 | 2023-06-05 | 2023-06-23 |
 | [Morning Devotion/Amapiano Praise \- Live](https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Morning Devotion/Amapiano Praise \(Live\)](https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5) | 13:26 | 2023-07-14 |  |
@@ -283,6 +283,7 @@
 | [One on One \(Live\)](https://open.spotify.com/track/5Vw55KLsNKIxcAznPUhxzh) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [One on One \(Live\)](https://open.spotify.com/album/1xDKfCWAviCVKuk7hjaUeH) | 13:14 | 2021-11-26 | 2023-04-01 |
 | [One Touch](https://open.spotify.com/track/1SLryXRbuk9wORWjz5Ld1M) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [One Touch](https://open.spotify.com/album/2CbnjHnWy6fZAZx3eyMtzU) | 2:19 | 2023-06-16 | 2023-06-23 |
 | [Only](https://open.spotify.com/track/2i07f4lpIzbJBsP9xC8Nlk) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [The ONLY \(Ep\)](https://open.spotify.com/album/5shWxKWUY5ezc2na9YKVF0) | 2:39 | 2023-08-25 | 2023-09-01 |
+| [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 |  |
 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 | 2020-01-14 | 2023-04-14 |
 | [Over Do](https://open.spotify.com/track/0fzFmrC0PyypWGBpLplUgC) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS) | [Over Do](https://open.spotify.com/album/4SMc8MSi1ZxN8uto4g8lXC) | 3:09 | 2023-06-09 | 2023-06-23 |
 | [Overdose](https://open.spotify.com/track/0oU05VhUd1HCUi516jZdIG) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [A mose](https://open.spotify.com/artist/01bQLjy2Y6N10bDEJsQGEb) | [Overdose](https://open.spotify.com/album/7jWmVpXUDxch6dO9DkP1tu) | 3:09 | 2023-05-05 | 2023-06-02 |

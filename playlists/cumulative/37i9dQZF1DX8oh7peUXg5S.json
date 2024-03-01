@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Jorge Drexler.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179754,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
@@ -2424,6 +2424,28 @@
       "duration_ms": 206746,
       "name": "La Puerta Violeta - ACOUSTIC HOME sessions",
       "url": "https://open.spotify.com/track/47bKCfiZD9WQXR92mvSBsR"
+    },
+    {
+      "album": {
+        "name": "La saeta (En Directo)",
+        "url": "https://open.spotify.com/album/248ms1gkrDf8FGRZTgI2gL"
+      },
+      "artists": [
+        {
+          "name": "Carmen Linares",
+          "url": "https://open.spotify.com/artist/5nJo9d4dYPQ9MiimCUdOhI"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266748,
+      "name": "La saeta - En Directo",
+      "url": "https://open.spotify.com/track/2JRNVKJOMGsso4M8SzL3h2"
     },
     {
       "album": {
@@ -2815,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Me Haces Sentir",
+        "url": "https://open.spotify.com/album/1qpIGwMU9Wt6RzMnmeaAjY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191038,
+      "name": "Me Haces Sentir",
+      "url": "https://open.spotify.com/track/4ywBpjRtlyKNl6peJiwQlV"
+    },
+    {
+      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -3102,7 +3146,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 137046,
       "name": "Nana Urgente para Palestina",
       "url": "https://open.spotify.com/track/21VWBL9S3ZJwE98loBLasD"
@@ -3798,7 +3842,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 213467,
       "name": "Que pasen cosas",
       "url": "https://open.spotify.com/track/2mAtcBJOmHHg0QCsB4S797"
@@ -4242,6 +4286,28 @@
       "duration_ms": 207617,
       "name": "SENCILLO",
       "url": "https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6"
+    },
+    {
+      "album": {
+        "name": "Si me voy",
+        "url": "https://open.spotify.com/album/7FWjbEy8PeDbtL7reRo4Fu"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262111,
+      "name": "Si me voy",
+      "url": "https://open.spotify.com/track/0zOsk2b1IHRyAQfV8vzjtv"
     },
     {
       "album": {
@@ -4812,7 +4878,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 279336,
       "name": "Todo ocurri\u00f3 de pie",
       "url": "https://open.spotify.com/track/63l8okgvybzixVYIhcLcig"
@@ -4972,7 +5038,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 308333,
       "name": "Un Solo Corazo\u0301n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"

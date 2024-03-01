@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative\. Cover: Muzi
 
-128 songs - 6 hr 32 min
+129 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Mixed Feelings\(Sped Up\)](https://open.spotify.com/track/5n9rG2h1q6jTRPVNlbDP4j) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Mixed Feelings\(Sped Up\)](https://open.spotify.com/album/7H2ysjNHkcYNC8qcM06IIO) | 2:22 | 2023-06-08 | 2023-07-08 |
 | [MOVE ALONG](https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [MOVE ALONG](https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx) | 2:59 | 2023-06-26 |  |
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2023-03-30 | 2023-06-09 |
-| [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 | 2023-11-03 |  |
+| [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 | 2023-11-03 | 2024-03-01 |
+| [no more love](https://open.spotify.com/track/6TniiopBO54fiDn8AhxsYg) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [hard to be real in a world so fake](https://open.spotify.com/album/5x7JV3dbSfyVRtYCBwmxI8) | 2:53 | 2024-02-23 |  |
 | [No Place Like Home](https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [No Place Like Home](https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9) | 2:43 | 2023-05-11 | 2023-07-08 |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-03-30 |  |
 | [Nu Riddim](https://open.spotify.com/track/3KW6KJKinwAszaajAHOSQF) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Love Drunk](https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo) | 3:09 | 2023-03-30 | 2023-05-12 |

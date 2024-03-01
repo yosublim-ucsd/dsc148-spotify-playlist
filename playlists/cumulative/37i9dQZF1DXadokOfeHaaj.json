@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "album": {
         "name": "Innerlight EP",
         "url": "https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 242943,
       "name": "Is This Where It Ends",
       "url": "https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T"
@@ -989,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Mind the gap",
+        "url": "https://open.spotify.com/album/3dHA39Jh9zC6GK8EdiuTv8"
+      },
+      "artists": [
+        {
+          "name": "Nikonn",
+          "url": "https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246312,
+      "name": "Mind the gap",
+      "url": "https://open.spotify.com/track/0sgjifApyLtCKDyDRAEiUN"
+    },
+    {
+      "album": {
         "name": "Mister Magic",
         "url": "https://open.spotify.com/album/6rdKSNASXtIfyMcfsc35JD"
       },
@@ -1022,6 +1058,28 @@
       "duration_ms": 272093,
       "name": "Mr Blue",
       "url": "https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ"
+    },
+    {
+      "album": {
+        "name": "New World (Flow)",
+        "url": "https://open.spotify.com/album/7mqb47mEFEIcVYJmiZUlKk"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323785,
+      "name": "New World (Flow)",
+      "url": "https://open.spotify.com/track/3EYkvUWZoysixyAYDDxsbA"
     },
     {
       "album": {
@@ -1546,7 +1604,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 214681,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy"
@@ -1792,7 +1850,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 240869,
       "name": "We Could Start a War (Le Boom Remix)",
       "url": "https://open.spotify.com/track/2YfiKA1LQqzNQSBbMzbYwT"

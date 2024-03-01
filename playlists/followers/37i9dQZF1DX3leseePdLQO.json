@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 10348,
+  "2024-03-01": 10367,
   "date_first_scraped": "2023-04-05",
   "description": "Pop para refrescarte los d\u00edas, featuring KAROL G & Ti\u00ebsto.",
   "name": "Crema Pop",
@@ -2344,6 +2344,24 @@
     },
     {
       "album": {
+        "name": "Patadas De Ahogado",
+        "url": "https://open.spotify.com/album/7y2Tb1mkNXSmtrQID2gC56"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Patadas De Ahogado",
+      "url": "https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
       },
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 166535,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"

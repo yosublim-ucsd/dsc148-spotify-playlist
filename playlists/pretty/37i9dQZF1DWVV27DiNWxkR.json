@@ -1,12 +1,12 @@
 {
   "description": "The premier alternative melancholia playlist, featuring Billie Eilish.",
-  "num_followers": 1725987,
+  "num_followers": 1726678,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmZkNjAwMzRiZjEyZTcwOWYxYjkzM2VjNDY0NmZlMmU4MTA2ZDIw",
+  "snapshot_id": "MCw4YzZmM2RkYmU2Y2NiODY1NWRjMjMwZTVjZTYwY2EzN2EwYTI1NTg5",
   "tracks": [
     {
       "added_at": "2024-02-12 21:24:22",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
     },
     {
+      "added_at": "2024-02-29 17:08:43",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
       "added_at": "2024-02-12 21:24:22",
       "album": {
         "name": "Ruined",
@@ -363,6 +379,22 @@
       "duration_ms": 361175,
       "name": "Lover, You Should\u2019ve Come Over",
       "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
+    },
+    {
+      "added_at": "2024-02-29 17:08:43",
+      "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
     },
     {
       "added_at": "2024-02-12 21:24:22",
@@ -1507,22 +1539,6 @@
     {
       "added_at": "2024-02-12 21:24:22",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
-    },
-    {
-      "added_at": "2024-02-12 21:24:22",
-      "album": {
         "name": "Joker & Rainbow",
         "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2024-02-12 21:24:22",
       "album": {
-        "name": "Kill Her Freak Out",
-        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Kill Her Freak Out",
-      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
-    },
-    {
-      "added_at": "2024-02-12 21:24:22",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -1791,22 +1791,6 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
-    },
-    {
-      "added_at": "2024-02-12 21:24:22",
-      "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/5KYKojZe2Kx6lRcUdvNTkp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "caroline",
-      "url": "https://open.spotify.com/track/73Moxwjn2ElzQBIMstG2ga"
     },
     {
       "added_at": "2024-02-12 21:24:22",
@@ -1919,6 +1903,22 @@
       "duration_ms": 213973,
       "name": "Painkillers",
       "url": "https://open.spotify.com/track/6fc51JZVE0Yijdi6RuoLFv"
+    },
+    {
+      "added_at": "2024-02-12 21:24:22",
+      "album": {
+        "name": "Kill Her Freak Out",
+        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Kill Her Freak Out",
+      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
     },
     {
       "added_at": "2024-02-12 21:24:22",

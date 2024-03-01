@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 15538,
+  "num_followers": 15570,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzA3YzQ5NWQxZmM3ZjVjZGE3ZWMwZjNjYzg1MTdlZTgyZDcwNzI4",
+  "snapshot_id": "MCwyMWZlODA4MjIzYTQ0Yjc2MTFlNGUyY2Q3OTdiOThiNmRmNDVhY2M4",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 155224,
       "name": "45 (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
     },
     {
       "added_at": "2022-10-01 20:31:11",

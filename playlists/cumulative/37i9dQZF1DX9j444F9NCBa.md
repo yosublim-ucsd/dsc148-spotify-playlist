@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-569 songs - 1 day 4 hr 57 min
+574 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Careless Whisper](https://open.spotify.com/track/3WpgHSVHeSPJXRLSYDJ2kW) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers II](https://open.spotify.com/album/5oIcVw7vCzKHtvxTIcLA7d) | 3:12 | 2023-06-08 | 2023-08-11 |
 | [Careless Whisper](https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Careless Whisper](https://open.spotify.com/album/1G3CLxTyCl5K1TlzCMoYTA) | 2:57 | 2024-02-09 |  |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
+| [Cecilia](https://open.spotify.com/track/4QEHrBuiDhHKkRqW0qGPbg) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Cecilia](https://open.spotify.com/album/6bnw4Rj4lvfRhV3TjYWChK) | 2:07 | 2024-03-01 |  |
 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 |  |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 |  |
 | [Chasing cars](https://open.spotify.com/track/2mZRkIWQS1hqjLeCOFOoOL) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:40 | 2022-12-02 | 2023-04-14 |
@@ -235,6 +236,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [How Deep Is Your Love](https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD) | 2:55 | 2023-02-24 | 2023-03-25 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [How Do I Say Goodbye](https://open.spotify.com/album/5tZJNmEUhVKBSyCeKL2JGi) | 2:39 | 2023-02-24 |  |
 | [How I'm Feeling Now](https://open.spotify.com/track/38yPSIgn1Hc9kgTQZW7leV) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [How I'm Feeling Now](https://open.spotify.com/album/1F5EScGxpNeJhHrrmUrqbk) | 4:14 | 2023-04-14 |  |
+| [How to Save a Life](https://open.spotify.com/track/5vOoUZTg0E7tBwlX0ur4H3) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [How to Save a Life](https://open.spotify.com/album/1sPVuzxswCjBnWrtpruh77) | 2:47 | 2024-03-01 |  |
 | [Hungry Heart](https://open.spotify.com/track/7546Slt3mB42vU0JVG1K0a) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Hungry Heart](https://open.spotify.com/album/1qG0q30RBXj5Z5C7vvM6S3) | 2:15 | 2023-11-17 |  |
 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3WIu5NaDdoGCuYJS6QyQuA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:40 | 2022-10-14 | 2023-04-13 |
 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3vbMwZ0NXsJ1dGMNEfr9ar) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:40 | 2023-03-24 | 2023-06-03 |
@@ -356,6 +358,7 @@
 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 | 2023-04-14 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/0rPLpzCJKIwMkM5GHZNm4F) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [Nothing Compares 2 U](https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF) | 3:13 | 2022-01-21 | 2023-04-29 |
 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
+| [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0tSC38lQ2G9GKYZJ0C4WEM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Nothing's Gonna Change My Love for You](https://open.spotify.com/album/0jFZAaQyoXkD0Orn05x8OU) | 3:10 | 2024-03-01 |  |
 | [Now And Then](https://open.spotify.com/track/2WUT10GOf1uEd0iG42aR7t) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Now And Then](https://open.spotify.com/album/4fCRBbwtAJmOXxJQMLmGie) | 3:08 | 2023-12-08 |  |
 | [Numb \- Piano](https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:10 | 2022-10-14 | 2023-04-12 |
 | [Numb \- Piano](https://open.spotify.com/track/5AYOA5nvtsFxEteyELq2Ki) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:10 | 2023-03-24 | 2023-06-03 |
@@ -469,6 +472,7 @@
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-01-21 |  |
 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 | 2022-05-02 |  |
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-04-28 | 2023-06-23 |
+| [The Less I Know The Better](https://open.spotify.com/track/6HE9YNHRBJT8h3kUzvP0Z3) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [The Less I Know The Better](https://open.spotify.com/album/1JtRrVJ2utPz0qLt3zDrvG) | 2:44 | 2024-03-01 |  |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 | 2023-06-03 |
 | [The Path of the Wind](https://open.spotify.com/track/12Ij9SbpofEHe5uOjYrjJo) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [The Path of the Wind](https://open.spotify.com/album/0WCAk84CLdkrJTCc77pESJ) | 1:42 | 2024-01-05 | 2024-02-21 |
@@ -493,6 +497,7 @@
 | [Thinking Out Loud \(Piano\)](https://open.spotify.com/track/0o60tWNfPJARY7bPJP22iN) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Bedtime Piano Covers](https://open.spotify.com/album/1ic5hhMXaAgJQpntgFLSsi) | 4:15 | 2022-01-21 | 2023-03-18 |
 | [This City](https://open.spotify.com/track/0QVfPQkh2Ivm9C2WlmD0xT) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:30 | 2022-01-21 | 2022-12-02 |
 | [This I Promise You \- Piano Version](https://open.spotify.com/track/1S6ml085sYS4rrHgTrsR90) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 4:14 | 2022-12-02 | 2023-06-03 |
+| [This Love](https://open.spotify.com/track/6ik3mIWucIdsumQ4KInGQA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [This Love](https://open.spotify.com/album/1MlQf9ogBxdFDmwIqUpols) | 2:32 | 2024-03-01 |  |
 | [Through The Fire](https://open.spotify.com/track/7E59DQ6k27g52Av9z4KEe6) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Through The Fire](https://open.spotify.com/album/6VMNvH3uJxczSKgqI3SOFJ) | 3:22 | 2023-10-06 |  |
 | [Time After Time](https://open.spotify.com/track/65zEpvMz472JlzqnskNhn1) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Time After Time](https://open.spotify.com/album/23WDOySnRgaPm2bSVL1TQE) | 2:17 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/2wjMv9svLp1NmaBk5OLhGD) | [Clairetone](https://open.spotify.com/artist/5WUeyUXg7LtVFvkR9awzRv) | [Time After Time](https://open.spotify.com/album/6cjrLvyi1OzHrgioiMY3IN) | 3:12 | 2022-10-14 | 2023-06-03 |

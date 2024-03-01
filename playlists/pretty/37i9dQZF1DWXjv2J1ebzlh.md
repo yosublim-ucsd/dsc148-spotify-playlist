@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,352 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,375 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -594,7 +594,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 584 | [Eu Sou Como Você É](https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Lô Borges](https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I) | 3:03 |
 | 585 | [Gole Yakh](https://open.spotify.com/track/1C8RHwk3q455M7hpihnzJJ) | [Kourosh Yaghmaei](https://open.spotify.com/artist/6hKJvRsiSIyjIBv9usxkhh) | [Back From The Brink: Pre\-Revolution Psychedelic Rock From Iran: 1973\-1979](https://open.spotify.com/album/03Ewp6nI2gEGIwPzIWDlj4) | 5:06 |
 | 586 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
-| 587 | [E Ma S'eka](https://open.spotify.com/track/3TknxlHK3AVZYN5EYt9Njb) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1), [His Easy Life Top Beats](https://open.spotify.com/artist/3erX3GyM88T7TJ67eSn6XW) | [Nigeria 70 \- Sweet Times: Afro\-Funk, Highlife & Juju from 1970s Lagos](https://open.spotify.com/album/6Md7Px2lT7kYkKAUq6AMqW) | 3:04 |
+| 587 | [E Ma S'eka](https://open.spotify.com/track/0PIYTzPh2aJoMUwpDFl5ia) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1), [His Easy Life Top Beats](https://open.spotify.com/artist/3erX3GyM88T7TJ67eSn6XW) | [Nigeria 70 \- Sweet Times: Afro\-Funk, Highlife & Juju from 1970s Lagos](https://open.spotify.com/album/5sspzBDWIIQHVqB0I0dx9S) | 3:04 |
 | 588 | [Djal Bai Si Camin](https://open.spotify.com/track/2DJl2LQ5YMtzGEGFYdN1U9) | [António dos Santos](https://open.spotify.com/artist/2o2ADjRCEAkByBSrzncXXc) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 7:20 |
 | 589 | [Que Bandeira](https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:29 |
 | 590 | [Mal Élevé](https://open.spotify.com/track/79jn9hQP9u1uobtxIWDw43) | [Raoul Guillaume Et Son Groupe](https://open.spotify.com/artist/5oNgVj96yALgbbdNXgz7df) | [Haiti Direct \- Big Band, Mini Jazz & Twoubadou Sounds, 1960\-1978](https://open.spotify.com/album/3JIX1Ua9b5UPPsk5ovVg6m) | 3:30 |
@@ -628,7 +628,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 618 | [Pagibig Na Lubus\-Lubos](https://open.spotify.com/track/1102GcvwzSanCp1q5Z0zdH) | [Celeste Legaspi](https://open.spotify.com/artist/20gOeXI8NLUKdSr9Z4YeD6) | [Celeste, Vol\. 1 \(Vicor 40th Anniversary Collection\)](https://open.spotify.com/album/70tjmqisOQapLl4ZocebQq) | 2:51 |
 | 619 | [Antes pouco que nenhum](https://open.spotify.com/track/4ZiQSEpUxsEsuiCaQ01DwK) | [Franko Xavier](https://open.spotify.com/artist/3GtCXGWBa6wIurBTFQ4ujV) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:05 |
 | 620 | [L'enfant samba](https://open.spotify.com/track/5uM2TbV57PabdmqUTJa1pG) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 3:06 |
-| 621 | [Onyame](https://open.spotify.com/track/0W7tPPs5iF3uM23zntn7oD) | [Ashanti Afrika Jah](https://open.spotify.com/artist/5B8Lh7Zg4nNsVqPnez1lNH) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 |
+| 621 | [Onyame](https://open.spotify.com/track/0Ql1QFq2IRLaEdoPMFnOud) | [Ashanti Afrika Jah](https://open.spotify.com/artist/5B8Lh7Zg4nNsVqPnez1lNH) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 |
 | 622 | [Novos Planos Para O Verão](https://open.spotify.com/track/56Od1JMUoUngxdb3Ut4tDL) | [Os Diagonais](https://open.spotify.com/artist/631Axvs8RTgglKNacgkQ5w) | [Cada Um Na Sua](https://open.spotify.com/album/5Qyb6850mSnxAZ99W0wmzW) | 2:42 |
 | 623 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 624 | [Simple Song](https://open.spotify.com/track/1TSL5m2IBYQU9lyVyiHCw6) | [Zebra](https://open.spotify.com/artist/5pZz2HoA0qpucy3anZGCJH) | [Simple Song](https://open.spotify.com/album/36MfLU1IGYxyzvIOcNGO4Z) | 3:14 |
@@ -1114,7 +1114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1104 | [Nega de Obluae](https://open.spotify.com/track/1XuX636OyGJ1pA70FzgX2f) | [Wando](https://open.spotify.com/artist/0GYeIu5i1MOyHuXKrmiqdQ) | [Brazilian Beats 2 \(Mr\. Bongo presents\)](https://open.spotify.com/album/4DMWbYrHlFeZVpv8EGMZXb) | 3:50 |
 | 1105 | [Dansakoni](https://open.spotify.com/track/5OtZ6fidRTpFZu0IzI0RVw) | [Peter Power](https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh) | [Afro Damba](https://open.spotify.com/album/3nwO2bf9tdn6fWqxNr3Age) | 6:28 |
 | 1106 | [Blackman's Word \(aka Black Man's Pride\)](https://open.spotify.com/track/4yiICPDc9s9ONtJZouvKc1) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:49 |
-| 1107 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
+| 1107 | [You Are My Heart](https://open.spotify.com/track/0niAkwpNApzAyUSPoAzxXT) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI) | 3:13 |
 | 1108 | [El Nuevo Barretto \- Remastered 2024](https://open.spotify.com/track/0LvXLNnE9ccYFJk8oXGQYo) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid \(Remastered 2024\)](https://open.spotify.com/album/3kQsESiGYJUbu44Ulmm8VL) | 5:53 |
 | 1109 | [Viola Fora De Moda](https://open.spotify.com/track/2gOwA32FKNEPrV4Gf2AULE) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Missa Breve](https://open.spotify.com/album/25P9ANRNnjvVAwCJVOPT4A) | 2:50 |
 | 1110 | [Tetero](https://open.spotify.com/track/4xh8q9DCUTEjjgw5gdRxty) | [Cumbia Moderna De Soledad](https://open.spotify.com/artist/1Nj0wAt4djA9oQbEB7pISM) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:09 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

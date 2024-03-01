@@ -4,7 +4,7 @@
 
 > Favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-3,035 songs - 7 day 4 hr 53 min
+3,038 songs - 7 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Alone](https://open.spotify.com/track/1TIQiShPaf3psTxLGhBQbp) | [Phil Augusta Jackson](https://open.spotify.com/artist/26zR0V6xellmEACi9PU0av) | [Alone](https://open.spotify.com/album/54hRL3s5H6wBojAQEVhSIm) | 3:12 | 2020-07-18 | 2020-08-02 |
 | [Alone](https://open.spotify.com/track/6njgjWcwgOQMVDDGudk54K) | [Rapslin](https://open.spotify.com/artist/3DYaGgKjjo5fzECFD7VpLW) | [Alone](https://open.spotify.com/album/1WJMVvnsu94BYe6VLJLNQO) | 2:24 | 2023-07-07 | 2023-07-18 |
 | [Alone Like Me](https://open.spotify.com/track/4HnbVHbV2e0i20rdcejLGv) | [Dunebug](https://open.spotify.com/artist/1iiK0QtfNdRSKaHb7Zrlmg) | [Alone Like Me](https://open.spotify.com/album/6yfPmipJMhakDv6qL6TuzI) | 3:06 | 2020-11-27 | 2020-12-12 |
+| [Alone Time](https://open.spotify.com/track/0YuY9HjYEtDsrJdy0cbYIb) | [Misty Drinx](https://open.spotify.com/artist/559o8HtOOixk4WwPgZpVSX) | [Alone Time](https://open.spotify.com/album/6i6SzsQih0wTtOYnyfC50o) | 5:24 | 2024-02-29 |  |
 | [ALONE.](https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz) | [Jason King](https://open.spotify.com/artist/24B1phNS2i8lriJnsS2IAW) | [ALONE.](https://open.spotify.com/album/1ZCGQzZX4ZwKHhzqsUfPW2) | 2:40 | 2022-03-04 | 2022-03-26 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2020-08-20 | 2023-02-12 |
 | [ALREADY](https://open.spotify.com/track/1TSinFFcDJJzR6ErO81Y3c) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 3:43 | 2023-07-21 | 2023-08-28 |
@@ -706,6 +707,7 @@
 | [Disease](https://open.spotify.com/track/3d1W39Pd0yvRfnsUJf8IzV) | [Enrose](https://open.spotify.com/artist/7EqFDFVWkQEtzEwCVwtqcN) | [Disease](https://open.spotify.com/album/4gUlGewIWMgAu64UAbEPvA) | 3:20 | 2022-09-22 | 2022-10-09 |
 | [Disguise](https://open.spotify.com/track/7JFsWb7Hz7bqJS2BnM1FuC) | [K.K.](https://open.spotify.com/artist/3PQxqn5ALBERvhCNx8JSPw) | [Disguise](https://open.spotify.com/album/72u481IXlI8FbGI3omQeCx) | 2:55 | 2020-08-02 | 2020-08-20 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-07-12 | 2021-11-19 |
+| [Distractions](https://open.spotify.com/track/3HXvfZz5jwVY1jMS4WjaQ6) | [Ms\. Jesso](https://open.spotify.com/artist/7Ilc61qxkIiL8JwuMxWBEA) | [Distractions](https://open.spotify.com/album/1NVEj4PpxuARqIOPFlvfhk) | 3:24 | 2024-02-29 |  |
 | [Diva](https://open.spotify.com/track/2N4Fs1jeggmilxMi0cyrRu) | [Qasim](https://open.spotify.com/artist/611DiraGc9sy6b10CKFOIW) | [Diva](https://open.spotify.com/album/4yuj3HTE9wo6uq9TViyRWK) | 3:00 | 2021-11-25 | 2021-12-18 |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2024-01-21 | 2024-01-29 |
 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 | 2022-09-16 | 2022-10-04 |
@@ -1823,7 +1825,7 @@
 | [Naive](https://open.spotify.com/track/5WdSpGWXZcnNltBQ41VeAu) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Naive](https://open.spotify.com/album/0MjOlVxgFPXwxCxK86ZclQ) | 2:56 | 2020-06-07 | 2020-07-02 |
 | [Naive \(Drama Remix\) \[Extended Mix\]](https://open.spotify.com/track/3Ec7omiCQOQbh3TxLsDKgC) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Naive \(Drama Remix\) \- EP](https://open.spotify.com/album/3fYz0lDyNcvBZrW9R2F4TP) | 4:42 | 2020-06-29 | 2020-07-13 |
 | [Naked](https://open.spotify.com/track/4DdyL8uIFdnxa6KmTJb17s) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [Naked](https://open.spotify.com/album/5rbQVnwWaBg854ZSuNJr5k) | 3:34 | 2021-06-26 | 2021-07-11 |
-| [Nana](https://open.spotify.com/track/3s5BFU2hJyXDJMaiBDrPsZ) | [Jenva](https://open.spotify.com/artist/4uF42Z3U3gdQIwrDzZPvT3), [Tee J](https://open.spotify.com/artist/2KC4q2DkXcvCtx4jMEuck8) | [Lord Jenva](https://open.spotify.com/album/3zUiwmCEeRU8EdXrX1qm6i) | 2:22 | 2024-02-22 |  |
+| [Nana](https://open.spotify.com/track/3s5BFU2hJyXDJMaiBDrPsZ) | [Jenva](https://open.spotify.com/artist/4uF42Z3U3gdQIwrDzZPvT3), [Tee J](https://open.spotify.com/artist/2KC4q2DkXcvCtx4jMEuck8) | [Lord Jenva](https://open.spotify.com/album/3zUiwmCEeRU8EdXrX1qm6i) | 2:22 | 2024-02-22 | 2024-03-01 |
 | [Navegando](https://open.spotify.com/track/5Ol7OY8VLAmwP8OeKTUzzh) | [Will Kano](https://open.spotify.com/artist/1CD8S1tlrCCCJbm4dokem3) | [Party King](https://open.spotify.com/album/2OuLdErybwLlZImvi8k911) | 2:49 | 2022-09-16 | 2022-10-04 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-12 |
 | [Need A Little Time](https://open.spotify.com/track/38O0SN9P3sC0UFLsgLqLju) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2) | 3:58 | 2021-08-28 | 2021-09-11 |
@@ -2682,6 +2684,7 @@
 | [Time Fly By](https://open.spotify.com/track/7tOj7X95GbrYvayIZlWyYu) | [Elephant Motel](https://open.spotify.com/artist/0AYoGyLwbupLIZWNHbHHA8) | [Feeling Alright](https://open.spotify.com/album/26Fk2l62DFiO1Npi5lOU8V) | 2:54 | 2022-10-07 | 2022-10-30 |
 | [Time for me](https://open.spotify.com/track/3jqdqKeFApBhchK3L76e9i) | [Turestrl](https://open.spotify.com/artist/3mepMVgbkl0Q2TMmvVweXz) | [Time for me](https://open.spotify.com/album/27lgGQowropzot54kCNBBi) | 2:41 | 2023-12-15 | 2024-01-02 |
 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-11-05 | 2021-11-21 |
+| [Time Goes By](https://open.spotify.com/track/1KFPSpqW4FY8CymMg5vdri) | [Vince O'Brien](https://open.spotify.com/artist/2k54BvTF6w4iIk3Iia0KJ2) | [Time Goes By](https://open.spotify.com/album/6oJi9ttaZV1L6c79KgQsKs) | 3:46 | 2024-02-29 |  |
 | [time with u](https://open.spotify.com/track/1f7ww7TfsQI9E5pfPtGIvs) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [time with u](https://open.spotify.com/album/1tVh41SOFeDI2oDT0jPXBX) | 2:37 | 2024-01-05 | 2024-01-23 |
 | [Times Are Past \(Radio Edit\)](https://open.spotify.com/track/00PvNdpAdIRRbavoZ84ADz) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Times Are Past \(Radio Edit\)](https://open.spotify.com/album/5g6NLE1WHgytwzZlmBRNxT) | 3:07 | 2020-09-10 | 2020-09-24 |
 | [Times Like These](https://open.spotify.com/track/2DCdc1G6U5FjMjBidkEzKf) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Times Like These](https://open.spotify.com/album/5CPB4lLqjZExhI34qGzp1I) | 3:19 | 2022-01-04 | 2022-01-15 |

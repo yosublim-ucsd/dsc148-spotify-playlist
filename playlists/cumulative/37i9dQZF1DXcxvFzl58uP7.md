@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-924 songs - 1 day 23 hr 58 min
+925 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -927,7 +927,8 @@
 | [Your Best Friend](https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Your Best Friend](https://open.spotify.com/album/1dXDp9G7LPACrw2H3tOtxA) | 3:02 | 2021-05-10 | 2021-08-20 |
 | [Your Loving](https://open.spotify.com/track/556b0qVFXcn1eXz1JYXHKg) | [Will Davila](https://open.spotify.com/artist/0FnzSFJMSyEiKiv7tAxv24) | [Your Loving](https://open.spotify.com/album/2a0F4m1Rv2525HzRJnpHeu) | 3:25 | 2019-07-30\* | 2021-05-25 |
 | [Your Own](https://open.spotify.com/track/3axNvNVXW11vfhQrNdbCOV) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Forever & Ever](https://open.spotify.com/album/7MEH4LcjNvaLRMh27yxABB) | 2:57 | 2019-07-30\* | 2022-04-17 |
-| [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY) | 3:42 | 2023-09-22 |  |
+| [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/3hRjZ5I7UzVSWqCNKwoarG) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:42 | 2024-01-12 |  |
+| [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY) | 3:42 | 2023-09-22 | 2024-03-01 |
 | [You’re here that’s the thing](https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:18 | 2022-09-14 | 2022-12-15 |
 | [yr face](https://open.spotify.com/track/4droTj7wxmaPFhaJ1fI3D4) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [smile when i see you smile](https://open.spotify.com/album/3itgAEBDUiltgKcFabiH52) | 4:35 | 2021-03-19 | 2021-08-15 |
 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-04-08 | 2022-07-29 |

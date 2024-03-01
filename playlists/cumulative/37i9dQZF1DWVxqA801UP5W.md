@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: Tate McRae
 
-106 songs - 5 hr 44 min
+107 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 | 2023-09-04 |  |
 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 | 2022-06-20 | 2024-01-06 |
 | [Hate Me \- R3HAB Remix](https://open.spotify.com/track/3iJeF2izF1QcpCgUc97BLl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hate Me \(R3HAB Remix\)](https://open.spotify.com/album/6e6RVFWdZaoTiLAZOCMnps) | 3:23 | 2022-06-20 | 2023-09-05 |
+| [Heart Still Beating \- Ian Asher Remix](https://open.spotify.com/track/2C0Upltkg2wT3HnkxT5XEB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Heart Still Beating \(Ian Asher Remix\)](https://open.spotify.com/album/4kyXCVgRPN3K3RC6lQdfWM) | 3:12 | 2024-02-22 |  |
 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/3k2FCI9rzGEvXnjP0BEZzp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 4:03 | 2023-04-12 | 2023-04-19 |
 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 4:03 | 2023-04-12 |  |
 | [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue) | 4:03 | 2022-06-20 | 2023-04-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Teejay",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 120000,
       "name": "Gyal Dem Want",
       "url": "https://open.spotify.com/track/2MwKezRKfovT1yMsdRmKYO"
@@ -3507,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "JUS",
+        "url": "https://open.spotify.com/album/5lxklSpAs4XKZ1ahNB9tWs"
+      },
+      "artists": [
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150220,
+      "name": "JUS",
+      "url": "https://open.spotify.com/track/2Kt4ULa9FC5tC4azqF97uD"
+    },
+    {
+      "album": {
         "name": "Kant\u00e9",
         "url": "https://open.spotify.com/album/57KYdGY8AjOqHx88nERWeR"
       },
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 125217,
       "name": "Ladilaf\u00e9",
       "url": "https://open.spotify.com/track/33F13lqbuq5XLeNJ2vqvdr"
@@ -3802,6 +3820,28 @@
       "duration_ms": 172388,
       "name": "Laisse tomber",
       "url": "https://open.spotify.com/track/1oAGCEm3nBKzCMlUSJq9a5"
+    },
+    {
+      "album": {
+        "name": "LAMBIS",
+        "url": "https://open.spotify.com/album/6MyxUeCGFj2GNEktSg8Bil"
+      },
+      "artists": [
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        },
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123956,
+      "name": "LAMBIS",
+      "url": "https://open.spotify.com/track/5bV24BrLl43oewdVtu1jAa"
     },
     {
       "album": {
@@ -4279,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Mi Body Yeah",
+        "url": "https://open.spotify.com/album/0imiSqJXbVtHwepWwk0K5z"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142833,
+      "name": "Mi Body Yeah",
+      "url": "https://open.spotify.com/track/6YXC9jXQ76j7BPdG67yCsW"
+    },
+    {
+      "album": {
         "name": "MI MAS LA (Karata)",
         "url": "https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM"
       },
@@ -4678,7 +4736,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 127826,
       "name": "Night Gown",
       "url": "https://open.spotify.com/track/3S7FiiGtWszlNExNbYvEix"
@@ -4800,6 +4858,36 @@
       "duration_ms": 206896,
       "name": "No Wata",
       "url": "https://open.spotify.com/track/6m27Jfn6T5jqSOf00d4Flf"
+    },
+    {
+      "album": {
+        "name": "Noumonss",
+        "url": "https://open.spotify.com/album/3ysP4qS9NNIWdGnzqSfnUJ"
+      },
+      "artists": [
+        {
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
+        },
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Marginal",
+          "url": "https://open.spotify.com/artist/3WbS1ppPV9QmsO29NG28fG"
+        },
+        {
+          "name": "KILLI",
+          "url": "https://open.spotify.com/artist/2VHuInTKPsBGsCDFn5WkxW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240119,
+      "name": "Noumonss",
+      "url": "https://open.spotify.com/track/7ay0AQpTnJaJUKrhAGFkJ4"
     },
     {
       "album": {
@@ -5554,7 +5642,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 223746,
       "name": "R.O.D.R Ruff on DI Road",
       "url": "https://open.spotify.com/track/6EBuEdDjd87vuwaV6kS7HF"
@@ -7084,7 +7172,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 182986,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO"

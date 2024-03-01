@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-225 songs - 1 day 18 hr 15 min
+226 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [T.D.D LEGEND](https://open.spotify.com/track/3baggMyfPltTqJsNInQsVu) | [ヒプノシスマイク \-D.R.B\- \(The Dirty Dawg\)](https://open.spotify.com/artist/6zxwWMAn61LG88YKWGCZJG) | [Enter the Hypnosis Microphone](https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j) | 5:19 | 2022-06-09 |  |
 | [The Champion](https://open.spotify.com/track/2oNkpkAXnOPkWkUTWmLCON) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [The Champion](https://open.spotify.com/album/5NaVkZdqTT4MrWqg3bq0DD) | 3:49 | 2022-06-09 | 2022-07-29 |
 | [The Champion](https://open.spotify.com/track/4wGsmReTJuirobf8pzOxO8) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [The Champion/T.D.D LEGEND](https://open.spotify.com/album/1x2bL3EPuwQx0u4vTpPT5C) | 3:49 | 2022-07-14 |  |
+| [The Tribe of BATTLE EMCEEZ](https://open.spotify.com/track/55A8GNfFQjiqptWJH2QdZp) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(\-New Encounter\- All Cast\)](https://open.spotify.com/artist/2RxZhtR225ZNvep2qASyGV) | [The Tribe of BATTLE EMCEEZ](https://open.spotify.com/album/0dPpDpASvooYsrQ0M07ZDZ) | 8:41 | 2024-02-29 |  |
 | [TOMOSHIBI](https://open.spotify.com/track/0AvuG9bctCClebU8xOjSa8) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Bad Ass Temple VS 麻天狼』](https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa) | 5:12 | 2022-06-09 |  |
 | [Tragic Transistor](https://open.spotify.com/track/63VoKS9ZgCDoNpayR3FMbE) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(白膠木簓\)](https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G) | [あゝオオサカdreamin'night](https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX) | 3:48 | 2022-06-09 |  |
 | [Uncrushable](https://open.spotify.com/track/26MsKj93KMXhDXlKK8rwPD) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(入間銃兎\)](https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o) | [MAD TRIGGER CREW \-Before The 2nd D.R.B\-](https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk) | 3:09 | 2022-06-09 |  |

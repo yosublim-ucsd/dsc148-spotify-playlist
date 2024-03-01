@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 109902,
+  "num_followers": 109984,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDc2N2VmZmI1YWUzOTg2NGI4NGY0ZjA2M2Y5ODBhNjQ5MmVlOWE5",
+  "snapshot_id": "MCw2NTc4ZWEzNzllNzc3MTE4ZWQ3NzNlOGNmOWExNzE3ZjY3Mzg4OTFj",
   "tracks": [
     {
       "added_at": "2022-10-14 00:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1Z83BApqk19O0J3QAMRqaR"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Come With Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1Ht4NJdY8adMsW540P5vG0"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "#willpower (Deluxe)",
         "url": "https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 279026,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/7IohFKIwrb75c4XaqX7WWo"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1Z83BApqk19O0J3QAMRqaR"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Come With Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1Ht4NJdY8adMsW540P5vG0"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "The Veldt",
-        "url": "https://open.spotify.com/album/4CtxUSFc4vrtTxtmQLo8aZ"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "The Veldt - Radio Edit",
-      "url": "https://open.spotify.com/track/5sGIgGkeYiiWdN0NVYJZ0I"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Year of Summer",
         "url": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 174400,
       "name": "Year Of Summer - Radio Edit",
       "url": "https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "The Veldt",
+        "url": "https://open.spotify.com/album/4CtxUSFc4vrtTxtmQLo8aZ"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "The Veldt - Radio Edit",
+      "url": "https://open.spotify.com/track/5sGIgGkeYiiWdN0NVYJZ0I"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "My Life Is a Party",
+        "url": "https://open.spotify.com/album/0GKpUIgQxhMX7dAdRGfatQ"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 192751,
+      "name": "My Life Is a Party - Radio Edit",
+      "url": "https://open.spotify.com/track/6h7otZE1lZfWkynZKUcCqq"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Trumpsta (Djuro Remix) (feat. Treyy G)",
         "url": "https://open.spotify.com/album/1Ke4W881lN57tDGU9mRIaG"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 258519,
       "name": "Trumpsta (feat. Treyy G) - Djuro Remix",
       "url": "https://open.spotify.com/track/6KYQ4rsd4yg5B5iHgKxZqm"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "My Life Is a Party",
-        "url": "https://open.spotify.com/album/0GKpUIgQxhMX7dAdRGfatQ"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 192751,
-      "name": "My Life Is a Party - Radio Edit",
-      "url": "https://open.spotify.com/track/6h7otZE1lZfWkynZKUcCqq"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -887,26 +887,6 @@
       "duration_ms": 286346,
       "name": "Paradise - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "> album title goes here <",
-        "url": "https://open.spotify.com/album/0fz9O5VLlPN6gxypI3Pobx"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Gerard Way",
-          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Professional Griefers - Vocal Mix",
-      "url": "https://open.spotify.com/track/173GdOjbjznHLmgcIVJ5Wr"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -971,6 +951,26 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "> album title goes here <",
+        "url": "https://open.spotify.com/album/0fz9O5VLlPN6gxypI3Pobx"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Professional Griefers - Vocal Mix",
+      "url": "https://open.spotify.com/track/173GdOjbjznHLmgcIVJ5Wr"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Midnight City (Eric Prydz Private Remix)",
         "url": "https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU"
       },
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Dirty Bass",
+        "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "Cover Drive",
+          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "DJ Central Groove Vol, 15",
         "url": "https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c"
       },
@@ -1039,6 +1059,30 @@
       "duration_ms": 194840,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Diamonds (Remixes)",
+        "url": "https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Lee Dagger",
+          "url": "https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC"
+        },
+        {
+          "name": "Marc Jackson Burrows",
+          "url": "https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Diamonds - The Bimbo Jones Vocal Edit",
+      "url": "https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1087,30 +1131,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Diamonds (Remixes)",
-        "url": "https://open.spotify.com/album/5VViXjruVTgTp1eY2i0Yzp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Lee Dagger",
-          "url": "https://open.spotify.com/artist/7hEDdJUgflzNOt4ow0OnuC"
-        },
-        {
-          "name": "Marc Jackson Burrows",
-          "url": "https://open.spotify.com/artist/3IoIRHbV0weqdZmN6ewOtH"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Diamonds - The Bimbo Jones Vocal Edit",
-      "url": "https://open.spotify.com/track/5VlyxtjCKSk2ETp1D3W0GX"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "Get It Started (feat. Shakira)",
         "url": "https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 202500,
       "name": "Kick out the Epic Motherfucker",
       "url": "https://open.spotify.com/track/2FvbZDwZPpGc0JqINP7WV7"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "Dirty Bass",
-        "url": "https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe"
-      },
-      "artists": [
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "Cover Drive",
-          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq"
     },
     {
       "added_at": "2022-10-14 00:00:00",

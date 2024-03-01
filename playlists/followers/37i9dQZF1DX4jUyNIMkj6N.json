@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 199307,
+  "2024-03-01": 199339,
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
@@ -1884,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Honey In The Waves",
+        "url": "https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256548,
+      "name": "Honey In The Waves",
+      "url": "https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df"
+    },
+    {
+      "album": {
         "name": "Set The House on Fire",
         "url": "https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP"
       },
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 213106,
       "name": "Magic Stone",
       "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
@@ -2555,6 +2573,24 @@
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/7cVEYErqPGBbREe2kjdVTk"
+      },
+      "artists": [
+        {
+          "name": "Blind Molly",
+          "url": "https://open.spotify.com/artist/3XPVCbkmaBGNWEb4UANfov"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7sTMoF6SPBuT2SCqgSQsLw"
     },
     {
       "album": {
@@ -2681,7 +2717,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 197366,
       "name": "Mycelium",
       "url": "https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6"

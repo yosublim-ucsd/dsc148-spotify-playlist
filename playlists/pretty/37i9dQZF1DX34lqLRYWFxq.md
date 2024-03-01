@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,098 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,099 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 | 100 | [Hated](https://open.spotify.com/track/0cJL0kn2i96yYwAklbGudP) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Hated](https://open.spotify.com/album/1kwvbU0CtOAFkzaug8szjI) | 3:09 |
 
-Snapshot ID: `MCwzNjkwZmYzYzY5YTM1OGUwZmNlY2IwZGQ1ZDVjMGFkNTM2NmZhNTQ1`
+Snapshot ID: `MCw1NTE5OThiN2Q4ODg0Y2U1N2M1YWQ2Njc1ZmM0NTlkNjI4ZjI2OTBm`

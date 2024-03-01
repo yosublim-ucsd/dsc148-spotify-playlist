@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,800 likes - 126 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,817 likes - 126 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 125 | [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 |
 | 126 | [HOUSEPARTY](https://open.spotify.com/track/6hRU08A4e8iUUJlcVJ24br) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/39oky69khpuWAuadskGlKI) | 2:27 |
 
-Snapshot ID: `MCwwZTQ0MzA2NzhkZWJjZTY2NDc3NjU3ZGRhYWQ1MjRmZWQ5MDhjYTRl`
+Snapshot ID: `MCxlZTA5MmQ4YmM3MTE1YWZmNTk0OGFjNThiZjRlMWE0MzkyMGEwODhh`

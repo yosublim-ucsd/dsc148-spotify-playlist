@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 31491,
+  "num_followers": 31664,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjAyMjdkNjllODdkN2UxNGQ3MGM1MDU5YWQwMzkwY2ZlMzg3NGEx",
+  "snapshot_id": "MCxmZDg5ZDAzZTUxODcxZmZlMDg0YTdlOTBkOTE3ZTdlNTcwNzhkMTk0",
   "tracks": [
     {
       "added_at": "2024-02-06 14:07:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Open Windows",
-        "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
-      },
-      "artists": [
-        {
-          "name": "Leonore Baldwin",
-          "url": "https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Open Windows",
-      "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Masterwort",
         "url": "https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 122694,
       "name": "Masterwort",
       "url": "https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Open Windows",
+        "url": "https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7"
+      },
+      "artists": [
+        {
+          "name": "Leonore Baldwin",
+          "url": "https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Open Windows",
+      "url": "https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Rhizome",
-        "url": "https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt"
-      },
-      "artists": [
-        {
-          "name": "Cierna Sobre Ti",
-          "url": "https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9"
-        }
-      ],
-      "duration_ms": 128250,
-      "name": "Rhizome",
-      "url": "https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 149884,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Rhizome",
+        "url": "https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt"
+      },
+      "artists": [
+        {
+          "name": "Cierna Sobre Ti",
+          "url": "https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9"
+        }
+      ],
+      "duration_ms": 128250,
+      "name": "Rhizome",
+      "url": "https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Above The Sea",
-        "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
-      },
-      "artists": [
-        {
-          "name": "Hans Westerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Above The Sea",
-      "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "A Cottage in a Storm",
         "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 135000,
       "name": "Rainy Day Alone",
       "url": "https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Above The Sea",
+        "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
+      },
+      "artists": [
+        {
+          "name": "Hans Westerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Above The Sea",
+      "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr"
-      },
-      "artists": [
-        {
-          "name": "En Sollozos",
-          "url": "https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "The Darker Hours",
         "url": "https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 179500,
       "name": "The Darker Hours",
       "url": "https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr"
+      },
+      "artists": [
+        {
+          "name": "En Sollozos",
+          "url": "https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -852,25 +852,9 @@
           "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
         }
       ],
-      "duration_ms": 165501,
-      "name": "New Lakes",
-      "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa"
-      },
-      "artists": [
-        {
-          "name": "Odette Pineda",
-          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
-        }
-      ],
-      "duration_ms": 187035,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
+      "duration_ms": 140181,
+      "name": "Mellow Spring",
+      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -891,6 +875,38 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa"
+      },
+      "artists": [
+        {
+          "name": "Odette Pineda",
+          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
+        }
+      ],
+      "duration_ms": 187035,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Cosmic Major",
+        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Cosmic Major",
+      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "Dasik\u00f3 Plankt\u00f3n",
         "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 210000,
       "name": "Dasik\u00f3 Plankt\u00f3n",
       "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Morning on a STHLM Island",
-        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
-      },
-      "artists": [
-        {
-          "name": "The Gustaf",
-          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
-        }
-      ],
-      "duration_ms": 168374,
-      "name": "Morning on a STHLM Island",
-      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Cosmic Major",
-        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
+        "name": "Morning on a STHLM Island",
+        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
       },
       "artists": [
         {
-          "name": "Solarixo",
-          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+          "name": "The Gustaf",
+          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Cosmic Major",
-      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
+      "duration_ms": 168374,
+      "name": "Morning on a STHLM Island",
+      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
         }
       ],
-      "duration_ms": 140181,
-      "name": "Mellow Spring",
-      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
+      "duration_ms": 165501,
+      "name": "New Lakes",
+      "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "At Dawn",
-        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
-      },
-      "artists": [
-        {
-          "name": "Logan Collier",
-          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
-        }
-      ],
-      "duration_ms": 152272,
-      "name": "Rays of Sunshine",
-      "url": "https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "By The Window",
-        "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Holmes",
-          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "By The Window",
-      "url": "https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Harp For The Forest",
         "url": "https://open.spotify.com/album/3fbbRbIaWZTH3WSIUUMG7o"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 130807,
       "name": "New Roads",
       "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
+      },
+      "artists": [
+        {
+          "name": "Logan Collier",
+          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
+        }
+      ],
+      "duration_ms": 152272,
+      "name": "Rays of Sunshine",
+      "url": "https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "By The Window",
+        "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Holmes",
+          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "By The Window",
+      "url": "https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "At Dawn",
-        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
-      },
-      "artists": [
-        {
-          "name": "Logan Collier",
-          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
-        }
-      ],
-      "duration_ms": 159709,
-      "name": "Bayou",
-      "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Sara's Dream",
         "url": "https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Mystic Nature",
-        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
       "artists": [
         {
-          "name": "Dawe Natauk",
-          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+          "name": "Logan Collier",
+          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
         }
       ],
-      "duration_ms": 202789,
-      "name": "Mystic Nature",
-      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
+      "duration_ms": 159709,
+      "name": "Bayou",
+      "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1287,6 +1271,22 @@
       "duration_ms": 129750,
       "name": "Evening meditation",
       "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/7eyodgyWN4cgXKGyIYYyq8"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/6tZqBZ52QjlSwA6T25QoLu"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
         "name": "Noche De Oto\u00f1o",
         "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 136250,
       "name": "Morning Calm",
       "url": "https://open.spotify.com/track/1XMu12aUx68QKvgSfkGU8C"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/7eyodgyWN4cgXKGyIYYyq8"
-      },
-      "artists": [
-        {
-          "name": "Lovisa Gulli",
-          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/6tZqBZ52QjlSwA6T25QoLu"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Relaxing Dreams",
-        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "Relaxing Dreams",
-      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Giardino Di Corde",
         "url": "https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR"
       },
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Above all",
-        "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
-      },
-      "artists": [
-        {
-          "name": "Henrietta Patrick",
-          "url": "https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Above all",
-      "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Winter Lake",
         "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
       },
@@ -1595,18 +1563,34 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Seranade Of The Silver Falls",
-        "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
+        "name": "Relaxing Dreams",
+        "url": "https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4"
       },
       "artists": [
         {
-          "name": "No Pude Detenerme",
-          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
         }
       ],
-      "duration_ms": 137250,
-      "name": "Seranade Of The Silver Falls",
-      "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
+      "duration_ms": 281904,
+      "name": "Relaxing Dreams",
+      "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Above all",
+        "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
+      },
+      "artists": [
+        {
+          "name": "Henrietta Patrick",
+          "url": "https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Above all",
+      "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1623,6 +1607,22 @@
       "duration_ms": 240460,
       "name": "Nonversations",
       "url": "https://open.spotify.com/track/29LiGEmCwtgvIATHl9kpwY"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Seranade Of The Silver Falls",
+        "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
+      },
+      "artists": [
+        {
+          "name": "No Pude Detenerme",
+          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Seranade Of The Silver Falls",
+      "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Noruega",
-        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
-      },
-      "artists": [
-        {
-          "name": "Mam\u00e1 Valiente",
-          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
-        }
-      ],
-      "duration_ms": 225019,
-      "name": "Noruega",
-      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Carnelian Vibrancy",
         "url": "https://open.spotify.com/album/0JS8NdxL920Xqe3xFuQ2m6"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 168500,
       "name": "Alheimur Nature",
       "url": "https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Noruega",
+        "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
+      },
+      "artists": [
+        {
+          "name": "Mam\u00e1 Valiente",
+          "url": "https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV"
+        }
+      ],
+      "duration_ms": 225019,
+      "name": "Noruega",
+      "url": "https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN"
     },
     {
       "added_at": "2024-02-06 14:07:11",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-02-06 14:07:11",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/16S959NluCJSWVpybU2jb8"
-      },
-      "artists": [
-        {
-          "name": "The Lagoon",
-          "url": "https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA"
-        }
-      ],
-      "duration_ms": 231341,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF"
-    },
-    {
-      "added_at": "2024-02-06 14:07:11",
-      "album": {
         "name": "Ocean Birds",
         "url": "https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 188333,
       "name": "Ocean Birds",
       "url": "https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ"
+    },
+    {
+      "added_at": "2024-02-06 14:07:11",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/16S959NluCJSWVpybU2jb8"
+      },
+      "artists": [
+        {
+          "name": "The Lagoon",
+          "url": "https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA"
+        }
+      ],
+      "duration_ms": 231341,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF"
     },
     {
       "added_at": "2024-02-06 14:07:11",

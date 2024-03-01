@@ -4,7 +4,7 @@
 
 > Ouve estas extrarodinárias artistas, como Marisa Liz, com o volume no máximo.
 
-721 songs - 1 day 16 hr 3 min
+722 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Coração de Pedra](https://open.spotify.com/track/3YHkxbE7bRGdGVSIEXgooD) | [MARA](https://open.spotify.com/artist/5F9mvejx8ps76oWYpjbHtJ) | [Coração de Pedra](https://open.spotify.com/album/5tKiYumWylU32f3ky8FpYb) | 3:24 | 2022-03-08 | 2023-02-03 |
 | [coração em jejum](https://open.spotify.com/track/7hY93IGHkI4hKYwnMbbhQS) | [Capital Da Bulgária](https://open.spotify.com/artist/2UJGmrsRtfv442IVFpttfs) | [coração em jejum](https://open.spotify.com/album/77dZ3O4Amt0V1BsbWBiTBC) | 4:02 | 2023-04-04 | 2023-06-07 |
 | [corpo](https://open.spotify.com/track/3fuHc0H1Ro3JAyOk7PaBC6) | [Alda](https://open.spotify.com/artist/4CjRGRc2YUoFVRhx8i6UzH) | [corpo](https://open.spotify.com/album/3R2LfgE13V737t44VstBz6) | 4:07 | 2023-04-04 | 2023-05-03 |
+| [Cortar Os Impulsos](https://open.spotify.com/track/3adpzbfo6FgMS4lSbv8QES) | [Filipa Vieira](https://open.spotify.com/artist/6SWm4eOGQeFUZtkkS7v51Q) | [Sabe Deus](https://open.spotify.com/album/44ERVDv4hWZwAcnefIXKsp) | 3:13 | 2024-02-07 |  |
 | [Crazy](https://open.spotify.com/track/19e21C0yahBRWumYiswU5L) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [Crazy](https://open.spotify.com/album/6py4NiY9lCuGUhEyn4TzsF) | 3:02 | 2022-05-03 | 2022-07-06 |
 | [Cristaliza](https://open.spotify.com/track/6wS8IWbQbDDs9ptDrSMnc9) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [Cristaliza](https://open.spotify.com/album/0sEnAdwWB1sfW9tYz88Tjn) | 3:00 | 2023-10-03 | 2023-11-30 |
 | [Cuidar de Ti](https://open.spotify.com/track/1pIXv1RZCCdA8zmYfl8OJ9) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Cuidar de Ti](https://open.spotify.com/album/3974OhapvBm1hq3a8nvevD) | 3:39 | 2023-08-01 | 2023-09-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 204340,
+  "num_followers": 204441,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTgzNDUxNWI5MmJiODkyYzVhYjIyMDZmMmIzMDc3YjM5NDY1NGVi",
+  "snapshot_id": "MCw5YTIwNjJmYWI5OGE1NmU0NGZhYmZlYzY0ODEwOWZiODg2MzFkZGQ3",
   "tracks": [
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
-      },
-      "artists": [
-        {
-          "name": "Corrupt (UK)",
-          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
-        },
-        {
-          "name": "GAWP",
-          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
+      },
+      "artists": [
+        {
+          "name": "Corrupt (UK)",
+          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
+        },
+        {
+          "name": "GAWP",
+          "url": "https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb"
+        }
+      ],
+      "duration_ms": 181418,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
       },
@@ -1275,22 +1255,6 @@
       "duration_ms": 232888,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
-    },
-    {
-      "added_at": "2024-02-23 11:13:46",
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1315,18 +1279,54 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
         }
       ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
+    },
+    {
+      "added_at": "2024-02-23 11:13:46",
+      "album": {
+        "name": "Don't You Know",
+        "url": "https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 215282,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
     },
     {
       "added_at": "2024-02-23 11:13:46",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-02-23 11:13:46",
       "album": {
-        "name": "Don't You Know",
-        "url": "https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw"
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
       },
       "artists": [
         {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 215282,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
     }
   ],
   "unique_name": "Bassline Bangers",

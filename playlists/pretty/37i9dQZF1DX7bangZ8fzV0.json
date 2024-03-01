@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO?si=5ujO3UdcT7ixUp5Mnk8eug\">Robbie Wessels</a>  ",
-  "num_followers": 96563,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=OVlLJqsvQHiKL_jQzlI8Fw\">Die Piesangskille</a>  ",
+  "num_followers": 96624,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2Y1MjAyZTkwMjYxMDAzMTdmOWU4ZTY4YzNhNGFhMDcxMjQ2N2Fh",
+  "snapshot_id": "MCwxYTdlNzI0ZTNiMzk5NmIzZTYwODlhMzgxNmJiMDA5ZjZkZGQ5OTQ3",
   "tracks": [
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+    },
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
-        "name": "Elke Troep",
-        "url": "https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4"
-      },
-      "artists": [
-        {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
-        }
-      ],
-      "duration_ms": 228319,
-      "name": "Elke Troep",
-      "url": "https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Soen Soos Wat Jy Dans",
@@ -119,22 +119,6 @@
       "duration_ms": 227999,
       "name": "Helemal",
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "OASE",
-        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 197479,
-      "name": "OASE",
-      "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -271,6 +255,38 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Elke Troep",
+        "url": "https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "duration_ms": 228319,
+      "name": "Elke Troep",
+      "url": "https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Asseblief",
         "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 174254,
       "name": "Laatnag Gedagtes",
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 197479,
+      "name": "OASE",
+      "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
@@ -395,38 +411,6 @@
       "duration_ms": 238615,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Kalahari Ferrari",
-        "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 202348,
-      "name": "Kalahari Ferrari",
-      "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Stoutgat",
-        "url": "https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw"
-      },
-      "artists": [
-        {
-          "name": "Jay",
-          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
-        }
-      ],
-      "duration_ms": 190796,
-      "name": "Stoutgat",
-      "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -447,18 +431,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Vlam In Die Wind",
-        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
+        "name": "Stoutgat",
+        "url": "https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
         }
       ],
-      "duration_ms": 205237,
-      "name": "Vlam In Die Wind",
-      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+      "duration_ms": 190796,
+      "name": "Stoutgat",
+      "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Vlam In Die Wind",
+        "url": "https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Vlam In Die Wind",
+      "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Neem My Op Vlerke (SENSASIE Remix)",
         "url": "https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 202648,
       "name": "Neem My Op Vlerke - SENSASIE Remix",
       "url": "https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Kalahari Ferrari",
+        "url": "https://open.spotify.com/album/1LJsNPxIxUHF7ESMu6ttXP"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 202348,
+      "name": "Kalahari Ferrari",
+      "url": "https://open.spotify.com/track/5M4Vqy5cw969eZ0MF1J8Je"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -1139,6 +1155,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Hand Aan Hand",
+        "url": "https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 238668,
+      "name": "Hand Aan Hand",
+      "url": "https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Hey Sonneblom",
         "url": "https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e"
       },
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hand Aan Hand",
-        "url": "https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y"
-      },
-      "artists": [
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
-        }
-      ],
-      "duration_ms": 238668,
-      "name": "Hand Aan Hand",
-      "url": "https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Afrikaans is Groot Vol. 14",
         "url": "https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 196223,
       "name": "Dina",
       "url": "https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Swaeltjies",
-        "url": "https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "Jou Lippe",
-      "url": "https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o"
     },
     {
       "added_at": "2024-02-15 22:00:00",

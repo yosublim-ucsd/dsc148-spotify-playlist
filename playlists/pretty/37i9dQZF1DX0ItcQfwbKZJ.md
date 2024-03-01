@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,543 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,604 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 23 | [Nobody's Bulletproof](https://open.spotify.com/track/0UHrUsw3yg6hUDHMw2E6yL) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq) | 3:10 |
 | 24 | [Atomic Bomb \- William Onyeabor vs\. Hot Chip](https://open.spotify.com/track/6G2M6vvToPz12ghZpeJSGe) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [What?!](https://open.spotify.com/album/5K9nDeTEcoMBakMd7KvtCZ) | 7:16 |
 | 25 | [Kilimanjaro](https://open.spotify.com/track/6k6JSwl4Xs9goFC8VZ098l) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [Flight of The Ancients](https://open.spotify.com/album/5XGRiFmZOsCy6ZqRFG5d6t) | 6:26 |
-| 26 | [African Dialects](https://open.spotify.com/track/6wzaQuyl0USnmocC6MK5CD) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 |
+| 26 | [African Dialects](https://open.spotify.com/track/1hRzxcMFu232RXugU8WfiA) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI) | 4:56 |
 | 27 | [Ephra](https://open.spotify.com/track/3ALHP8Zlt4eDfUdqUKCxbW) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq) | 3:05 |
 | 28 | [Go Je Je](https://open.spotify.com/track/1dDFysERIfgY3zxVpkCTLI) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Government Magic](https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO) | 6:38 |
 | 29 | [Dog eat dog](https://open.spotify.com/track/1keL9AYEQKlL5K99Y1lsOT) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Under Burning Skies](https://open.spotify.com/album/0Tcgg3Q69nFfRpHjA4Aa23) | 7:05 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `MCxjZTczMDVjOWRiN2VkNjk5ZThhYTZkYzIwZDVlZjcwZWU1MmIxZTlj`
+Snapshot ID: `MCxkZDRhZjVlOTVmZWY1NzI5NTQxNWI4YjI1MDg2YTU5NjJkOTcyYmVk`

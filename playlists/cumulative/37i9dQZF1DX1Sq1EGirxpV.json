@@ -1005,24 +1005,6 @@
     },
     {
       "album": {
-        "name": "Someone's playlist #5",
-        "url": "https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "date_added": "2023-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292800,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3ix0pg2CqztyynmigM72se"
-    },
-    {
-      "album": {
         "name": "Not Others (Original Soundtrack)",
         "url": "https://open.spotify.com/album/12cxiuVovMSmz999itEWLa"
       },
@@ -1284,6 +1266,24 @@
       "duration_ms": 225071,
       "name": "\ub098\ub97c \ub3cc\uc544\ubd10",
       "url": "https://open.spotify.com/track/3T92e7pbfXFmeOmuGRUneg"
+    },
+    {
+      "album": {
+        "name": "Someone's playlist #5",
+        "url": "https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "\ub367\uce60",
+      "url": "https://open.spotify.com/track/3ix0pg2CqztyynmigM72se"
     },
     {
       "album": {

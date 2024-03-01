@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-85 songs - 8 hr 9 min
+86 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Africa Is Home](https://open.spotify.com/track/6dhk1SvZFRECnpAs1D7a4o) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/7gErJQ1bmcxZdALOof56Yk) | 8:56 | 2022-09-26 |  |
 | [Africa Will Be Great Again](https://open.spotify.com/track/3tByzh69xblgCQMxbCE2ZM) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/4D4pbycsZl6eUNIeudPJON) | 4:47 | 2019-08-09 | 2023-09-22 |
 | [Africa Will Be Great Again](https://open.spotify.com/track/5g9OyUzyCsfXoXj8Rgdhzo) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/46KJmojXzbfwKzoUCWXAF2) | 4:47 | 2022-09-26 |  |
+| [African Dialects](https://open.spotify.com/track/1hRzxcMFu232RXugU8WfiA) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI) | 4:56 | 2022-09-26 |  |
 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 | 2019-08-09 | 2022-07-29 |
-| [African Dialects](https://open.spotify.com/track/6wzaQuyl0USnmocC6MK5CD) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 | 2019-08-09 |  |
+| [African Dialects](https://open.spotify.com/track/6wzaQuyl0USnmocC6MK5CD) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 | 2019-08-09 | 2024-03-01 |
 | [Afrofunk Revolution](https://open.spotify.com/track/4rlp9tyP0TSx0wvTaK92dv) | [IFÁ](https://open.spotify.com/artist/0fHVExoTqJ6HFt3p4l10R8), [Okwei V\. Odili](https://open.spotify.com/artist/7eAsGkJpYRgpHVXzW64YLn) | [IFÁ Afrobeat + Okwei V\. Odili](https://open.spotify.com/album/2MV4gX4pZ0KSl8zOE5WKVQ) | 5:12 | 2019-08-09 |  |
 | [Afrofunk Revolution](https://open.spotify.com/track/4Syt5mkKGdgerYPEF619nR) | [IFÁ Afrobeat](https://open.spotify.com/artist/4pYEqZf2r4JE3umcqjaWTs), [Okwei Odili](https://open.spotify.com/artist/5OdxK676ZaZCWKWcUGtomc) | [IFÁ Afrobeat + Okwei V Odili](https://open.spotify.com/album/34HNh5WDJ3VBjWqztPb0U3) | 5:12 | 2019-08-09 | 2022-07-29 |
 | [Alabeke](https://open.spotify.com/track/51WXp19Xrhqk36KyqxWYgu) | [Don Satch](https://open.spotify.com/artist/0DG4kQQrHB5rWwz1cQ0Rqu), [and His Atomic Dance Band of Aba](https://open.spotify.com/artist/3zSsXf9i0QRMEErGzer7Di) | [Alabeke](https://open.spotify.com/album/5Lq1mbNk3UoiYk0TVX0Zum) | 4:36 | 2019-08-09 |  |

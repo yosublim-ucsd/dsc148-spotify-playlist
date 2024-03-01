@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-159 songs - 8 hr 18 min
+160 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 | 2022-10-07 |  |
 | [Little Road to Bethlehem](https://open.spotify.com/track/122NEAKQMTs9o19ghyz5L9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/0NQLT0pT4KrGEQTQbr2QnB) | 2:49 | 2021-12-17 | 2023-06-01 |
 | [Little Road to Bethlehem](https://open.spotify.com/track/61BGiilYVYNXqwx8hgHwF5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/7st3j23d7T5dGL3qNuhJMw) | 2:49 | 2022-12-22 |  |
-| [Little Saint Nick](https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Acoustic Christmas](https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN) | 3:11 | 2022-09-23 |  |
+| [Little Saint Nick](https://open.spotify.com/track/3ItP1jSko3LeUUKOqdWoEW) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Christmas Pop Hits](https://open.spotify.com/album/1YNdKcDUQ8SxZhH8k3WFXf) | 3:11 | 2023-12-19 |  |
+| [Little Saint Nick](https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Acoustic Christmas](https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN) | 3:11 | 2022-09-23 | 2024-03-01 |
 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 | 2022-09-23 |  |
 | [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 | 2022-10-07 | 2023-09-22 |
 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2023-09-15 | 2023-09-29 |

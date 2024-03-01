@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "midday walks",
+        "url": "https://open.spotify.com/album/16zVhoL5I0dzAVFwpBd2Tn"
+      },
+      "artists": [
+        {
+          "name": "With All Respect",
+          "url": "https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125522,
+      "name": "midday walks",
+      "url": "https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB"
+    },
+    {
+      "album": {
         "name": "midnight",
         "url": "https://open.spotify.com/album/4e08g8EbIj7THGU4R1eV6K"
       },
@@ -7648,6 +7666,42 @@
       "duration_ms": 134506,
       "name": "summertime",
       "url": "https://open.spotify.com/track/4ufMIn7ee8xlsAePOf22r8"
+    },
+    {
+      "album": {
+        "name": "Sun Birds",
+        "url": "https://open.spotify.com/album/7haBZcNYafGXQEO4OmlHRW"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "Sun Birds",
+      "url": "https://open.spotify.com/track/7MEdM8vQdjBPWcEklEpxTC"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/1mYw4GjZIdZMsguUOHn5tW"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135879,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3fI33pGId8m2csuVaVwIl6"
     },
     {
       "album": {

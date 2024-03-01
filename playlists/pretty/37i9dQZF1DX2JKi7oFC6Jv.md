@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,719 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,727 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
 | 24 | [Head, Shoulders, Kneez & Toez \- Radio Edit](https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ) | [K.I.G](https://open.spotify.com/artist/5urltEzdvmWz8tl1J4reSj) | [Head, Shoulders, Kneez & Toez](https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv) | 3:32 |
 | 25 | [Migraine Skank \- Main Mix](https://open.spotify.com/track/54KCXjzkieeuv6L0fzL0CG) | [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy) | [Migraine Skank](https://open.spotify.com/album/6RhGWsbhsG19udkx5UotWT) | 3:06 |
-| 26 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
+| 26 | [Are You Gunna Bang Doe?](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
-| 28 | [Are You Gunna Bang Doe?](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
+| 28 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
 | 29 | [Timbao](https://open.spotify.com/track/1jbha5KqgpV5qH4A4kZDnu) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/3bKvBimZKZhXnnpfTT9awr) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/5nlOnRGgf46AmVzyAPDPyh) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [3 x 2 EP](https://open.spotify.com/album/4dvYDMor2bCeiyQh7hK4dJ) | 5:08 |
 | 31 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 57 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
 | 58 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |
 | 59 | [Don't Panic](https://open.spotify.com/track/6Xcem9wf3z6U2HIFmsQgxH) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR) | [Don't Panic](https://open.spotify.com/album/0qC2J401k1gPRdroCS5x2c) | 8:48 |
-| 60 | [I'm Fly \- DJ Version](https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [I'm Fly](https://open.spotify.com/album/3xwYsxgBdRhr4sJ1H0XDuf) | 4:08 |
+| 60 | [Muhammad Ali \- Original Mix](https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Lady Lykez](https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw) | [Drmtrk II](https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID) | 2:24 |
 
-Snapshot ID: `MCxhMjZjY2QxZmNiYjc1MDViNzM5MTljMjBkMTY0NjRhZTI0YTgyNGQy`
+Snapshot ID: `MCwxYTVhOTU3ZmQ3ZDM4N2E2ZmFjMzYyNjkxOWZmMTMxODMyMGMzZGRk`

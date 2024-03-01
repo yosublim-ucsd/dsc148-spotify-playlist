@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 480956,
+  "2024-03-01": 481144,
   "date_first_scraped": "2022-04-14",
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
   "name": "Trip Hop",
@@ -1320,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "London Funk Allstars",
+          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285933,
+      "name": "Listen To The Beat",
+      "url": "https://open.spotify.com/track/5ZoMXcVfs32XbLhinsl54S"
+    },
+    {
+      "album": {
         "name": "London Funk Volume 1",
         "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
       },
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 384960,
       "name": "Mugen - In the Morning",
       "url": "https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc"

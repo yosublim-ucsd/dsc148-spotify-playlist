@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 6370,
+  "2024-03-01": 6375,
   "date_first_scraped": "2022-01-02",
   "description": "A Spotify program to promote exciting artists! RADAR BNLX:  Roxy Dekker (cover) Kids With Buns en Siggy & D1ns.",
   "name": "RADAR BNLX",
@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Dawn of the Freak",
+        "url": "https://open.spotify.com/album/30hYMe8HUStB6y0pB0lJCd"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3EJ7h1f0Nvvnpt1mRNCcOz"
+    },
+    {
+      "album": {
         "name": "Dawn Of The Freak",
         "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
       },
@@ -415,7 +433,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 285000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"

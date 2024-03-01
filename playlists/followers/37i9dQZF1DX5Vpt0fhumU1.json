@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 121658,
+  "2024-03-01": 121711,
   "date_first_scraped": "2022-05-01",
   "description": "Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.",
   "name": "Spanish Tapas Bar",
@@ -639,6 +639,24 @@
     {
       "album": {
         "name": "Voz del Alba",
+        "url": "https://open.spotify.com/album/59u4o1MpJ3aCZ1dRO7xIWU"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Buler\u00edas de Jerez",
+      "url": "https://open.spotify.com/track/1PGdB5KIGyDqhBoYvPh62s"
+    },
+    {
+      "album": {
+        "name": "Voz del Alba",
         "url": "https://open.spotify.com/album/2xb8HjC4SXUB46MWJXvDHc"
       },
       "artists": [
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 264906,
       "name": "Buler\u00edas de Jerez",
       "url": "https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56"

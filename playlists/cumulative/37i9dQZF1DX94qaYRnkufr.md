@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch DJ and producer</a>.
 
-119 songs - 7 hr 11 min
+120 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Backlash \- Martin Garrix Radio Edit](https://open.spotify.com/track/1g99YoPWqouj3VYbUh8H2g) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Backlash \(Martin Garrix Edit\)](https://open.spotify.com/album/3VcOjUlRbGsrR3z3muJoWH) | 2:52 | 2022-07-28 |  |
 | [BFAM \- Extended Mix](https://open.spotify.com/track/3NmT1r2J5LsbG73XwvzKgj) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BFAM \(Extended Mix\)](https://open.spotify.com/album/2uqP5zXWdJ3tmDO9WkxOks) | 5:18 | 2022-07-28 |  |
 | [BFAM \- Original Mix](https://open.spotify.com/track/0GBm0i9OlIlxQGx8fCNzoN) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [disco:wax Presents: Spinnin' Records Volume 13](https://open.spotify.com/album/3TbvPN8Y1ehxo0DCUGtVw1) | 5:18 | 2021-12-09 | 2022-07-29 |
+| [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 | 2024-02-29 |  |
 | [Boomerang](https://open.spotify.com/track/6Gw2dHX6FsQcIuiWxe0vWk) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM) | [Boomerang](https://open.spotify.com/album/5DDLXhG7fa8crZcSNlsxuw) | 3:15 | 2021-12-09 |  |
 | [Bouncybob](https://open.spotify.com/track/7ekejMr4jz8UZOthhMVMKn) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Bouncybob](https://open.spotify.com/album/2O5qqcBlfr5LYlvu9Kf9jU) | 4:11 | 2022-07-28 |  |
 | [Bouncybob \(feat\. Justin Mylo & Mesto\)](https://open.spotify.com/track/0MyfJah9XRKoF68chrxVmZ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Bouncybob \(feat\. Justin Mylo & Mesto\)](https://open.spotify.com/album/0r2CYC1JLU7EyYEJeKBdJM) | 4:11 | 2021-12-09 | 2022-07-29 |

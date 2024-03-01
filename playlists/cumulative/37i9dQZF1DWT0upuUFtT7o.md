@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-2,236 songs - 5 day 2 hr 24 min
+2,237 songs - 5 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-12-01 | 2022-01-13 |
 | [23rd Street](https://open.spotify.com/track/2aaiBUwcWHkAgpn1UNNHFc) | [Companion](https://open.spotify.com/artist/3xsRxXPgnP6NdckQPo1doE) | [Second Day Of Spring](https://open.spotify.com/album/0z5stKBwZ19uFVrixkTbus) | 3:03 | 2022-06-29 | 2022-08-04 |
 | [3\-2\-Wake Up](https://open.spotify.com/track/7n4BWIL8UhenxMJNpzO3J6) | [Darkbird](https://open.spotify.com/artist/0iiltWiiNfnJEh1sUL3bWk) | [3\-2\-Wake Up](https://open.spotify.com/album/4iNZNabgsBvw83PK0GhLjP) | 3:49 | 2022-02-09 | 2022-03-10 |
+| [3.5](https://open.spotify.com/track/0m6USdLwwWVRB8Ei1GSO58) | [Oliver Keane](https://open.spotify.com/artist/5ZkAOoZPehfyH4V00NYVb8) | [3.5](https://open.spotify.com/album/37MQWJV9JqW9evfkYlZ2Fe) | 3:23 | 2024-02-29 |  |
 | [33](https://open.spotify.com/track/3FrmL447hSBsw5SFNxU5bH) | [Gabby's World](https://open.spotify.com/artist/37px0xIkqWfzGRK5QbTIRu) | [33](https://open.spotify.com/album/1MpAXYeVl9cBsm75QWIMkI) | 4:30 | 2023-04-12 | 2023-05-18 |
 | [4737 Jefferson](https://open.spotify.com/track/3QtsttVVr6FHdeNulglh15) | [Alien Eyelid](https://open.spotify.com/artist/75GJnidAzq7t14Vv8Fv1Y9) | [4737 Jefferson](https://open.spotify.com/album/6jBQT8Y8Zbi4iI5yqll1CE) | 3:36 | 2023-04-05 | 2023-04-27 |
 | [4am](https://open.spotify.com/track/3DLhIFONTMbC70Pim6wFX7) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [4am](https://open.spotify.com/album/6gg9pFAiI2Ddo0RmVvMwbT) | 3:13 | 2022-02-22 | 2023-01-12 |

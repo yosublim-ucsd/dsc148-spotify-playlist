@@ -4,7 +4,7 @@
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-34 songs - 2 hr 12 min
+40 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,12 @@
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2024-02-01 |  |
 | [Horizon 2003](https://open.spotify.com/track/0d8Eg72yZBf7ojJ26QbkrK) | [國府田マリ子](https://open.spotify.com/artist/2zWZbDh3WpGrALfJb5CgSj) | [My Best Friend 3](https://open.spotify.com/album/2LfcYSsLK1nY31TQd3vAr6) | 5:22 | 2024-02-01 |  |
 | [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 | 2024-02-01 |  |
+| [KING SUPER LIVE 2024 内田雄馬 スペシャルメッセージ！](https://open.spotify.com/track/5RiEthKXC2PiuKlVqA2J6H) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [KING SUPER LIVE 2024 内田雄馬 スペシャルメッセージ！](https://open.spotify.com/album/2lujVBAPrXGvEcWMuO0XTj) | 2:16 | 2024-02-29 |  |
+| [KING SUPER LIVE 2024 宮野真守 スペシャルメッセージ！](https://open.spotify.com/track/1UCDJxviA6BmBsuwq7Nfql) | [宮野真守](https://open.spotify.com/artist/2wmWOyjETOwI0iVIZSjiJQ) | [KING SUPER LIVE 2024 宮野真守 スペシャルメッセージ！](https://open.spotify.com/album/27HnxxkZoRj1AQwTND4xpO) | 2:00 | 2024-02-29 |  |
+| [KING SUPER LIVE 2024 椎名へきる スペシャルメッセージ！](https://open.spotify.com/track/27Pgr7PULdZDIDce9f2bN1) | [椎名へきる](https://open.spotify.com/artist/4qHRI8wwzwWuOvHis883tu) | [KING SUPER LIVE 2024 椎名へきる スペシャルメッセージ！](https://open.spotify.com/album/4GjS3cAS3uLRc0ntgd7pbr) | 1:04 | 2024-02-29 |  |
+| [KING SUPER LIVE 2024 水樹奈々 スペシャルメッセージ！](https://open.spotify.com/track/5L6sNGIPvGE9gChpeBgOJw) | [水樹奈々](https://open.spotify.com/artist/6g73Ki1WjJXYbMxnNrUHt5) | [KING SUPER LIVE 2024 水樹奈々 スペシャルメッセージ！](https://open.spotify.com/album/1Hv5sUsrDkWBZkHpqYuRQF) | 2:00 | 2024-02-29 |  |
+| [KING SUPER LIVE 2024 水瀬いのり スペシャルメッセージ！](https://open.spotify.com/track/0ydwg6K6qb1mICXhxpXeMt) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [KING SUPER LIVE 2024 水瀬いのり スペシャルメッセージ！](https://open.spotify.com/album/1EEwKcHGedXOZHj9c5e6PA) | 1:23 | 2024-02-29 |  |
+| [KING SUPER LIVE 2024angela スペシャルメッセージ！](https://open.spotify.com/track/6j1qJBS60V8T11By9cYNQo) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [KING SUPER LIVE 2024 angela スペシャルメッセージ！](https://open.spotify.com/album/7geFAPsYkqnjk2pG5FGFmf) | 1:40 | 2024-02-29 |  |
 | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/track/6PXtQia2OqJtH2H9N03YG1) | [RISE（Extreme Hearts）葉山陽和役　野口瑠璃子](https://open.spotify.com/artist/6hhlKgWCQeLPXZgcdvQ6Bi) | [KING SUPER LIVE 2024　RISE（Extreme Hearts）葉山陽和役・野口瑠璃子　スペシャルメッセージ！](https://open.spotify.com/album/3xeWasd9ESalVLqht4r1L0) | 1:43 | 2024-02-01 |  |
 | [KING SUPER LIVE 2024　saji　スペシャルメッセージ！](https://open.spotify.com/track/64ykUkmZKMkuxVSGrk1Go5) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [KING SUPER LIVE 2024　saji　スペシャルメッセージ！](https://open.spotify.com/album/2dDolzmSxaMtxXf7t8Vd6p) | 2:19 | 2024-02-01 |  |
 | [KING SUPER LIVE 2024　七海ひろき　スペシャルメッセージ！](https://open.spotify.com/track/3XDbsRh15QQZMZTSYxnUYH) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [KING SUPER LIVE 2024　七海ひろき　スペシャルメッセージ！](https://open.spotify.com/album/6FyJpzhHwz4o9ppoS4kNtR) | 1:28 | 2024-02-01 |  |

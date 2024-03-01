@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,500 likes - 192 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,473 likes - 192 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 135 | [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/track/7bJplW3g1hYRS5XIzYXxOG) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/album/3SxxeUmQRDHn2Yq5Xp0Kxx) | 3:38 |
 | 136 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 |
 | 137 | [Maybe You Still Call It Christmas](https://open.spotify.com/track/4uwq84CoIOJqFKODyXmrtT) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [Maybe You Still Call It Christmas](https://open.spotify.com/album/610J4ZpPEY6rtjaX8l0L6i) | 3:35 |
-| 138 | [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 |
+| 138 | [Give Love This Year](https://open.spotify.com/track/3h7LxHg3iDpwxOhqgDgZTd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Perfect Holiday](https://open.spotify.com/album/4ud1Hq1ipI8D2xBcuS9Ipj) | 3:06 |
 | 139 | [omg it's xmas](https://open.spotify.com/track/7E05rUhHiwYXbenTTnA1ng) | [Ballsy](https://open.spotify.com/artist/34lmpkdBqPIkBKumps331b) | [omg it's xmas](https://open.spotify.com/album/72MTuESZXxK1eQcNo5Choe) | 3:21 |
 | 140 | [Wonderful Christmastime](https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Like A Child](https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9) | 2:52 |
 | 141 | [christmas lights](https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [christmas lights](https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV) | 4:28 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 191 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 192 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCxiMDkwYmI1N2MxYjY2MTFiNGQ1NDRjYWUxYTFhOTZiYzkwYTlkMjYx`
+Snapshot ID: `MCwxMmU2M2EzZTFkODBkZjg2OGM4NWVlNTUyMzY0NTg1MmQ3YjZjYmRi`

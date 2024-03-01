@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-414 songs - 1 day 6 hr 35 min
+416 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2023-07-10 |  |
 | [Mario Miguel](https://open.spotify.com/track/0fkjBZ4EO2OSsWUufd2chx) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Mario Miguel](https://open.spotify.com/album/15xLvUZmh6Lz6WvHh3h3PK) | 3:36 | 2023-07-10 |  |
 | [Medcezir](https://open.spotify.com/track/1Pd3EASeP8JwbySp3cjN1H) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 4:33 | 2023-07-10 |  |
+| [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 | 2024-02-29 |  |
 | [Mentira](https://open.spotify.com/track/59hH7GJFrSd5v9FwgSZEw8) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 4:37 | 2023-07-10 |  |
 | [Milambi](https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Milambi](https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q) | 3:13 | 2023-07-10 |  |
 | [Milonga de Aquí](https://open.spotify.com/track/0t0NucYqOHXcGPEyl0UICO) | [SES](https://open.spotify.com/artist/7kl9fNjRfts7jD4Y7ypfNF) | [Co xenio Destrozado](https://open.spotify.com/album/3lcZgYHj8GaKm2MuhbaKxj) | 4:20 | 2023-07-10 |  |
@@ -329,7 +330,7 @@
 | [Sakla Beni](https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/0LBQVMsur8H3i3mwKkXV20) | 4:40 | 2023-07-10 |  |
 | [Samba de Verão](https://open.spotify.com/track/4ZxCL1QHcscbhxVDpkpoI7) | [Bahia Bahia Bahia](https://open.spotify.com/artist/5MbdV2ChR2UTRO6yczv6gj) | [A Rã EP](https://open.spotify.com/album/304Bab3sFlZCbt76DhqXh2) | 3:15 | 2023-07-10 |  |
 | [Samba Malató](https://open.spotify.com/track/67XnVq3LNc4nByje3F2kOL) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Oilando](https://open.spotify.com/album/2jsOKtBQHgnOzVXjdOmGn0) | 3:25 | 2023-07-10 |  |
-| [Santa Sofia](https://open.spotify.com/track/5Of1TpUNx9vwu3ktigxt38) | [Desmadre Orkesta](https://open.spotify.com/artist/2raoGXptT9COV1Iv1nVFYk) | [Santa Sofia](https://open.spotify.com/album/4ilzlculu8nJHuZscovQnT) | 3:08 | 2023-11-13 |  |
+| [Santa Sofia](https://open.spotify.com/track/5Of1TpUNx9vwu3ktigxt38) | [Desmadre Orkesta](https://open.spotify.com/artist/2raoGXptT9COV1Iv1nVFYk) | [Santa Sofia](https://open.spotify.com/album/4ilzlculu8nJHuZscovQnT) | 3:08 | 2023-11-13 | 2024-03-01 |
 | [Santé](https://open.spotify.com/track/3vXnuFnC5RhPGwsFi0ORcI) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Santé](https://open.spotify.com/album/5ZbmaYVO7Pg5TAGRQXleI5) | 3:10 | 2023-07-10 |  |
 | [Saùde](https://open.spotify.com/track/0eiLjsux480qRTmDnNRJJg) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K), [Tibau Tavares](https://open.spotify.com/artist/68nqiiRYrs28v1JAQfM0A9) | [Tibau](https://open.spotify.com/album/7p8X1wJrhRZzO0R3BFyrrJ) | 4:35 | 2023-07-10 |  |
 | [Si Te Contara \(If I Told You\)](https://open.spotify.com/track/3ualr3pvN65rhjN2PqSE6j) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Dos lágrimas](https://open.spotify.com/album/7c9foQ4zPGCwQoX6avMpJC) | 3:16 | 2023-07-10 |  |
@@ -385,7 +386,8 @@
 | [Toi et moi](https://open.spotify.com/track/6sqHch1ddfynzm0SCzJ2ZX) | [Bernard Lavilliers](https://open.spotify.com/artist/20YtJDRaSzJREUlVvNfYB3) | [Toi et moi](https://open.spotify.com/album/27QNGtpRVIG0SCG5zkqM0y) | 3:54 | 2023-07-10 | 2024-01-11 |
 | [Tongo Barra](https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:33 | 2023-07-10 |  |
 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 | 2023-09-25 |  |
-| [Tres Hermanos](https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Tres Hermanos](https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4) | 3:21 | 2023-07-10 |  |
+| [Tres Hermanos](https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Tres Hermanos](https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4) | 3:21 | 2023-07-10 | 2024-03-01 |
+| [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2024-02-29 |  |
 | [Trocitos de Madera](https://open.spotify.com/track/3DdAqXVMsW6D42ZyFImvUy) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH) | 4:35 | 2023-07-10 |  |
 | [Trust In Me](https://open.spotify.com/track/6htqZpvuPZGybVtNgmJj8J) | [Susheela Raman](https://open.spotify.com/artist/3uSVvh3bPDq5XMTHElgfC2) | [Salt Rain](https://open.spotify.com/album/2oCSrobEfBAwDBwRMJ7UWY) | 3:24 | 2023-07-10 |  |
 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 | 2023-07-10 |  |

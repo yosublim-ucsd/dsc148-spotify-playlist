@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1333111,
+  "num_followers": 1333587,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjRhODFhYzMzYzZkMDg4NmY3MTdiNzE5ZGY1NThjODVlMTEzOTZi",
+  "snapshot_id": "MCxlMmNmYzNiOTJiMzZkMWEyNDViZWMzNjg5YmE1YjA3ZDA2NDg4Zjhi",
   "tracks": [
     {
       "added_at": "2024-01-02 10:36:29",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Stone Sour",
+        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
       },
       "artists": [
         {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 210480,
-      "name": "To Be With You - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
+      "duration_ms": 240400,
+      "name": "Bother",
+      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Stone Sour",
-        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Bother",
-      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
+      "duration_ms": 210480,
+      "name": "To Be With You - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -815,7 +815,7 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Firehouse",
+        "name": "Firehouse (2024 Remaster)",
         "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
       "artists": [
@@ -824,8 +824,8 @@
           "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Love of a Lifetime",
+      "duration_ms": 285937,
+      "name": "Love of a Lifetime (2024 Remaster)",
       "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
     },
     {
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 235066,
       "name": "In a Darkened Room",
       "url": "https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Tooth and Nail",
         "url": "https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 260680,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/48BCVjId3c06exwZ5jc4zm"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 271173,
-      "name": "Ohne dich",
-      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
+      "duration_ms": 348760,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/0MifhDugHOql4oMAea1Ont"
     }
   ],
   "unique_name": "Heavy Ballads",

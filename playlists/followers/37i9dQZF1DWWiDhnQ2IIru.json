@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 3029704,
+  "2024-03-01": 3030253,
   "date_first_scraped": "2021-12-21",
   "description": "Hit the road to the soundtrack of these seventies classics.",
   "name": "70s Road Trip",
@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Tap Root Manuscript",
+        "url": "https://open.spotify.com/album/0WGnkp386fyXfTvKwTIVRO"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Cracklin' Rosie - Single Version",
+      "url": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
+    },
+    {
+      "album": {
         "name": "Labour of Lust",
         "url": "https://open.spotify.com/album/2jYBS1ktXvUxW7GfKtdWI2"
       },
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"

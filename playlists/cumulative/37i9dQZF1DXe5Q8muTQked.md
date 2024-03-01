@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-676 songs - 1 day 17 hr 30 min
+677 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Can't Help Falling In Love \- Recorded Live at Daytrotter](https://open.spotify.com/track/5GBWQszdw6PtAN0Negzut6) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/7o2VLivg95UduHjTMTIEIf) | 3:13 | 2021-10-20 | 2022-07-28 |
 | [Can't Nobody Love You](https://open.spotify.com/track/2o6sXX0llloUkaUm9DEbLY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:16 | 2022-06-10 | 2022-10-14 |
 | [Can't Nobody Love You](https://open.spotify.com/track/5Q08lzb2Uj4X9VVDGmUebR) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw) | 2:16 | 2022-06-10 | 2024-01-18 |
+| [Can't Nobody Love You](https://open.spotify.com/track/0sbBYPII5ZMditx4u3vodY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ) | 2:16 | 2023-10-23 |  |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2021-10-20 |  |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-10-20 | 2022-07-29 |
 | [Can’t Help Falling In Love \- Live At Daytrotter](https://open.spotify.com/track/2nOkNoBuQdo5HH0Ls1zXxS) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 3:13 | 2022-06-10 |  |
@@ -270,7 +271,7 @@
 | [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 |  |
 | [Hide Away \- Acoustic Version](https://open.spotify.com/track/0UCsrU37XWdbddPCTRG4Pj) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Hide Away](https://open.spotify.com/album/2nluaXCp3OtbaBcEW0UbqO) | 3:31 | 2021-10-20 | 2022-05-29 |
 | [High and Dry](https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [High and Dry](https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2) | 4:09 | 2021-10-20 |  |
-| [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-10 |  |
+| [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-10 | 2024-03-01 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2021-10-20 | 2022-07-29 |
 | [Higher Love \(feat\. Grace Grundy\) \- Acoustic Mix](https://open.spotify.com/track/58TkTrSQarID5TRsBTubvG) | [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Higher Love \(feat\. Grace Grundy\) \[Acoustic Mix\]](https://open.spotify.com/album/2xeejaxxkBAo6ZpYwDjwAP) | 2:38 | 2021-10-20 | 2022-07-29 |
 | [Ho Hey](https://open.spotify.com/track/2BwRvOaG8JdpX3F5LqiLHo) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [The Music Of Nashville Original Soundtrack Volume 2](https://open.spotify.com/album/2Q8nxuKZsr2Yaz20BmAHQT) | 2:06 | 2021-10-20 | 2022-07-19 |

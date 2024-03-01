@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, French Montana, Lil Durk and more\. Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,475 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,694 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Ten to One](https://open.spotify.com/track/1ESCQ50WCdzkF7qrJbnvmw) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [Ten to One](https://open.spotify.com/album/2lvXnYTptSVCxPcyxkUTDE) | 1:38 |
 | 50 | [One Time](https://open.spotify.com/track/5lwrwzSvekTG9ArVdvVCqQ) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [DJ RELLYRELL](https://open.spotify.com/artist/2ZhgI73DhMmguqiE6Uc2J3), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [One Time](https://open.spotify.com/album/75EvjgIfC7TvkGI9FVpkEV) | 3:34 |
 
-Snapshot ID: `MCw4MGYwOTI4YjdlZmE3M2Y0ZmE1ZWM4MjEwM2ZlNDg4ZmU0ZTRkNDA5`
+Snapshot ID: `MCw5MzEzYzljOTQzZjM1NDk1NTNmZjRiZTdmNjMwMWMzMWVjNDkzN2Uy`

@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8228,
+  "num_followers": 8227,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw",
+  "snapshot_id": "MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Nasce Jesus",
-      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Cl\u00e1ssicos",
         "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 220788,
       "name": "Maravilhoso \u00c9 / Rei dos Reis",
       "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Nasce Jesus",
+      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
     },
     {
       "added_at": "2023-12-22 03:00:00",

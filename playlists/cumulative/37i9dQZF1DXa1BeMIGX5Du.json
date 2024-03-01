@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226740,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ"
+    },
+    {
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 272640,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
@@ -1269,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Future Ghosts",
+        "url": "https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208010,
+      "name": "Future Ghosts",
+      "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
+    },
+    {
+      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
@@ -2197,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+    },
+    {
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
       },
@@ -2216,6 +2270,24 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
+    },
+    {
+      "album": {
+        "name": "Nothing More",
+        "url": "https://open.spotify.com/album/7LofkA7qMKLxQa4MyhVcCw"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "Nothing More",
+      "url": "https://open.spotify.com/track/0uPmNY3fvKCo5FMU6jTHeu"
     },
     {
       "album": {
@@ -2476,6 +2548,24 @@
       "duration_ms": 272346,
       "name": "San Luis",
       "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    {
+      "album": {
+        "name": "Scared To Start (Sun Mountain Sessions)",
+        "url": "https://open.spotify.com/album/2qO3jeAQVCgoECuwTOohmw"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178005,
+      "name": "Scared To Start - Sun Mountain Sessions",
+      "url": "https://open.spotify.com/track/0xVwILVFkJ1JECDhRUQB57"
     },
     {
       "album": {
@@ -3033,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "The Place",
+        "url": "https://open.spotify.com/album/1OJt8Hf9hpPIl9WC6X0rYy"
+      },
+      "artists": [
+        {
+          "name": "Jess Locke",
+          "url": "https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231053,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/7dSqkh6ga2uw7TlmSeeN9x"
+    },
+    {
+      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
@@ -3189,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -3240,6 +3366,24 @@
       "duration_ms": 186635,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/31Y9yVkcT70JjKs3A2eR36"
+    },
+    {
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
       "album": {
@@ -3608,7 +3752,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 221217,
       "name": "You Don't Lie",
       "url": "https://open.spotify.com/track/6xN2yS7wTE2e96QhzdcE3m"

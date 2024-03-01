@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217515,
+  "num_followers": 217540,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmRlZTY2ZjFiNjYwZDg0MWNmNzk2YTgyNTg3OWM4ZGJjODk5NGRh",
+  "snapshot_id": "MCxjYTViMmIxM2UxZjM1MTQwOTliNjgxNzY1Y2Y3MDVlZTQ3YTU2YmYx",
   "tracks": [
     {
       "added_at": "2024-02-27 13:54:42",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Narrative",
-        "url": "https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH"
-      },
-      "artists": [
-        {
-          "name": "Emma Richter",
-          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Narrative",
-      "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 139952,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Narrative",
+        "url": "https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH"
+      },
+      "artists": [
+        {
+          "name": "Emma Richter",
+          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Narrative",
+      "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Erz\u00e4hlung",
-        "url": "https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb"
-      },
-      "artists": [
-        {
-          "name": "Christian Menke",
-          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Erz\u00e4hlung",
-      "url": "https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Daffodils",
         "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 192000,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Erz\u00e4hlung",
+        "url": "https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb"
+      },
+      "artists": [
+        {
+          "name": "Christian Menke",
+          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Erz\u00e4hlung",
+      "url": "https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Elevation",
-        "url": "https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4"
-      },
-      "artists": [
-        {
-          "name": "Celine Hayes",
-          "url": "https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG"
-        }
-      ],
-      "duration_ms": 200843,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Whatever is left",
         "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 123628,
       "name": "Whatever is left",
       "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4"
+      },
+      "artists": [
+        {
+          "name": "Celine Hayes",
+          "url": "https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -359,6 +359,22 @@
       "duration_ms": 146967,
       "name": "Countless",
       "url": "https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Smile in the wind",
+        "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 125603,
+      "name": "Smile in the wind",
+      "url": "https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Smile in the wind",
-        "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
-      },
-      "artists": [
-        {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
-        }
-      ],
-      "duration_ms": 125603,
-      "name": "Smile in the wind",
-      "url": "https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "The Lights Around the Shore",
         "url": "https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Garden Of Dreams",
-        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00f3ki",
-          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Garden Of Dreams",
-      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 137000,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Garden Of Dreams",
+        "url": "https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f3ki",
+          "url": "https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Garden Of Dreams",
+      "url": "https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
+        "name": "Toivoa",
+        "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 121732,
+      "name": "Toivoa",
+      "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
         "name": "Fading Embers",
         "url": "https://open.spotify.com/album/67QrN8t6R2s5wydrWNg62g"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Toivoa",
-        "url": "https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug"
+        "name": "Incision In The Silence",
+        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
       },
       "artists": [
         {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
         }
       ],
-      "duration_ms": 121732,
-      "name": "Toivoa",
-      "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
+      "duration_ms": 129563,
+      "name": "Incision In The Silence",
+      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -907,22 +923,6 @@
       "duration_ms": 162921,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
-        "name": "Incision In The Silence",
-        "url": "https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN"
-      },
-      "artists": [
-        {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
-        }
-      ],
-      "duration_ms": 129563,
-      "name": "Incision In The Silence",
-      "url": "https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE"
-      },
-      "artists": [
-        {
-          "name": "Emma Richter",
-          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Morning Dance",
         "url": "https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE"
       },
       "artists": [
         {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+          "name": "Emma Richter",
+          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
         }
       ],
-      "duration_ms": 124500,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
+      "duration_ms": 156000,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1179,6 +1163,22 @@
       "duration_ms": 157159,
       "name": "Thirst",
       "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Night Solace",
-        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "Night Solace",
-      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Pyramidale",
         "url": "https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Fallen Leaves",
-        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
+        "name": "Night Solace",
+        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
       },
       "artists": [
         {
-          "name": "V\u00edgi Seaghdh",
-          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
         }
       ],
-      "duration_ms": 157626,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
+      "duration_ms": 161469,
+      "name": "Night Solace",
+      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1339,6 +1323,22 @@
       "duration_ms": 122159,
       "name": "Just Passing By",
       "url": "https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Fallen Leaves",
+        "url": "https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb"
+      },
+      "artists": [
+        {
+          "name": "V\u00edgi Seaghdh",
+          "url": "https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Into the unknown",
-        "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
-      },
-      "artists": [
-        {
-          "name": "Yuko Kimura",
-          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
-        }
-      ],
-      "duration_ms": 128022,
-      "name": "Into the unknown",
-      "url": "https://open.spotify.com/track/5NNEawn7c5bOVf2hveDZnr"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Del Mar",
         "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Into the unknown",
+        "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
+      },
+      "artists": [
+        {
+          "name": "Yuko Kimura",
+          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
+        }
+      ],
+      "duration_ms": 128022,
+      "name": "Into the unknown",
+      "url": "https://open.spotify.com/track/5NNEawn7c5bOVf2hveDZnr"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
-        "name": "Lugn",
-        "url": "https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Lugn",
-      "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
         "name": "Danse avec moi",
         "url": "https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-02-27 13:54:42",
       "album": {
+        "name": "Lugn",
+        "url": "https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Lugn",
+      "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
         "name": "Woman traveling alone",
         "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 126396,
       "name": "Woman traveling alone",
       "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
+    },
+    {
+      "added_at": "2024-02-27 13:54:42",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
     },
     {
       "added_at": "2024-02-27 13:54:42",
@@ -1595,22 +1611,6 @@
       "duration_ms": 125624,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR"
-    },
-    {
-      "added_at": "2024-02-27 13:54:42",
-      "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
-      },
-      "artists": [
-        {
-          "name": "Algot Brooke",
-          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
-        }
-      ],
-      "duration_ms": 174426,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
     }
   ],
   "unique_name": "Foco no Estudo",

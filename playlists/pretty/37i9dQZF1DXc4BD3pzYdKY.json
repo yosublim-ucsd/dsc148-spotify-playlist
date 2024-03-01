@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:7jyr9Co4MKL1iWML1G7vch\">Zauntee</a>",
-  "num_followers": 149695,
+  "num_followers": 149761,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmJlYjgyMTg5ZjgyMWE0ZDhhZGIwZDdlNjU5ZjA1MTk3ZTdkMmZh",
+  "snapshot_id": "MCw4NDBmNDRmNWJmY2Y0MmJkZmEyNDEyMTIxMDdmYzIyNDk5MDhhYjM5",
   "tracks": [
     {
       "added_at": "2024-02-23 09:44:29",
@@ -479,6 +479,30 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Strongest",
+        "url": "https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Errol Allen",
+          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "duration_ms": 191021,
+      "name": "Strongest",
+      "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Talk & Do",
         "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 220704,
       "name": "Standby",
       "url": "https://open.spotify.com/track/1LidB9TgQhzwiBVJQuKVwo"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Strongest",
-        "url": "https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q"
-      },
-      "artists": [
-        {
-          "name": "DizzyEight",
-          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
-        },
-        {
-          "name": "Errol Allen",
-          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
-        },
-        {
-          "name": "Musicality",
-          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
-        }
-      ],
-      "duration_ms": 191021,
-      "name": "Strongest",
-      "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/2PrGDmCg9YstrYMAzTUmJK"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 167038,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5L8AE3fSYDlxaHjyP6FMA9"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "UH HUH",
-        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "UH HUH",
-      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Bought By The Blood",
         "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 143448,
       "name": "Bought By The Blood",
       "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "UH HUH",
+        "url": "https://open.spotify.com/album/5XVwW33gOcLb5Qsdh25gBu"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "UH HUH",
+      "url": "https://open.spotify.com/track/2lw0LISAPRDO0ieFCXmZUy"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "I REMEMBER",
+        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 109730,
+      "name": "I REMEMBER",
+      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "IN MY ROOM",
         "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 173788,
       "name": "IN MY ROOM",
       "url": "https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "I REMEMBER",
-        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 109730,
-      "name": "I REMEMBER",
-      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "hollow",
-        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        }
-      ],
-      "duration_ms": 152031,
-      "name": "hollow",
-      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Summer TKE",
         "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 175280,
       "name": "Price",
       "url": "https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "hollow",
+        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        }
+      ],
+      "duration_ms": 152031,
+      "name": "hollow",
+      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Check Me Out",
+        "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
+      },
+      "artists": [
+        {
+          "name": "Caleb McCoy",
+          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
+        }
+      ],
+      "duration_ms": 167727,
+      "name": "Check Me Out",
+      "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/05EE4iCaUFejExwC1xY7gr"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 175558,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0kXufwWYE2M1qB2xWalZRv"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Check Me Out",
-        "url": "https://open.spotify.com/album/6Izr5b1DXvk9JDfQDjuAmQ"
-      },
-      "artists": [
-        {
-          "name": "Caleb McCoy",
-          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
-        }
-      ],
-      "duration_ms": 167727,
-      "name": "Check Me Out",
-      "url": "https://open.spotify.com/track/5nZ5pAW5UI3SGGnYSjKZCt"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1299,34 +1299,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4"
-      },
-      "artists": [
-        {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        },
-        {
-          "name": "Deyah",
-          "url": "https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb"
-        },
-        {
-          "name": "Joel Baker",
-          "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
-        },
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "For A Reason",
         "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
       },
@@ -1359,6 +1331,34 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/4d7wBapxvrLYS1OzPQ7WL4"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Deyah",
+          "url": "https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb"
+        },
+        {
+          "name": "Joel Baker",
+          "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
+        },
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp"
       },
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Problematic",
-        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
-      },
-      "artists": [
-        {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
-        }
-      ],
-      "duration_ms": 174421,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/7G0esvWTtqyussJ1KWkuTp"
       },
@@ -1431,18 +1399,18 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "REASON",
-        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
+        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
       },
       "artists": [
         {
-          "name": "J Vessel",
-          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
         }
       ],
-      "duration_ms": 193596,
-      "name": "REASON",
-      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
+      "duration_ms": 102857,
+      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1467,34 +1435,34 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "anxiety.",
-        "url": "https://open.spotify.com/album/3mklPRz6lx1WdPd0cbn6WX"
+        "name": "Problematic",
+        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
       },
       "artists": [
         {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
         }
       ],
-      "duration_ms": 147310,
-      "name": "anxiety.",
-      "url": "https://open.spotify.com/track/5sWZIXPGLEK5vHTnH6ttYg"
+      "duration_ms": 174421,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
     },
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "J Vessel",
+          "url": "https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp"
         }
       ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+      "duration_ms": 193596,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1515,6 +1483,58 @@
       "duration_ms": 135254,
       "name": "Young",
       "url": "https://open.spotify.com/track/0btKdBYx71IgwCTVAg8v3E"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "anxiety.",
+        "url": "https://open.spotify.com/album/3mklPRz6lx1WdPd0cbn6WX"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "anxiety.",
+      "url": "https://open.spotify.com/track/5sWZIXPGLEK5vHTnH6ttYg"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
+      },
+      "artists": [
+        {
+          "name": "Bryson Gray",
+          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1591,42 +1611,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/5EVL8WwIapteEq99UjlJnj"
-      },
-      "artists": [
-        {
-          "name": "Bryson Gray",
-          "url": "https://open.spotify.com/artist/66pGC6EHiiLr7Ce6twM5bk"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "All Yours",
-      "url": "https://open.spotify.com/track/0wKC7y3mxlZf4JQv3mOIqg"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Lines Drawn",
-        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "Lines Drawn",
-      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Blood On The Doors",
         "url": "https://open.spotify.com/album/6922R5qYxTzzkEvQ3O4XEA"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 186920,
       "name": "I Got Time Today",
       "url": "https://open.spotify.com/track/2d1D16AjKX5L63mMYjAf4j"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Lines Drawn",
+        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Lines Drawn",
+      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "VINE",
+        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "VINE",
+      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "They Wanna Know",
         "url": "https://open.spotify.com/album/7wOqXGEdaHIchDQMFabp6E"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 147692,
       "name": "They Wanna Know",
       "url": "https://open.spotify.com/track/0jBFFc8gspsHfpkKORCDkC"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "VINE",
-        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "VINE",
-      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
     }
   ],
   "unique_name": "The Flow",

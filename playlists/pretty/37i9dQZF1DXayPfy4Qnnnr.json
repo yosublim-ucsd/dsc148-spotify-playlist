@@ -1,12 +1,12 @@
 {
   "description": "Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie-le bien fort, use tes cordes vocales !",
-  "num_followers": 45632,
+  "num_followers": 45674,
   "original_name": "Motiv\u00e9s ! Motiv\u00e9s !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzViYjUzOTJkMWM1NGRiY2Q5ZGMwMTNkZTY5YzJiYmUzYmZjOTY4",
+  "snapshot_id": "MCw3ZTQ1ZTkyMmE1OGYyODVhMWY0YzViMzU2MmU4ZjEzYzZiZmMzMzM1",
   "tracks": [
     {
       "added_at": "2023-10-06 17:05:31",
@@ -219,18 +219,22 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "\u00c7a sent la bi\u00e8re",
-        "url": "https://open.spotify.com/album/4jiVmehxYLlZCjHHzK33wW"
+        "name": "Stupeflip",
+        "url": "https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a"
       },
       "artists": [
         {
-          "name": "Les Croquants",
-          "url": "https://open.spotify.com/artist/44tWbf1N3hZlP5bswGsn3g"
+          "name": "Stupeflip",
+          "url": "https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai"
+        },
+        {
+          "name": "Jacno",
+          "url": "https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m"
         }
       ],
-      "duration_ms": 181920,
-      "name": "Mon amant de St Jean",
-      "url": "https://open.spotify.com/track/14d5gJKVmRqhWw2HWNmWuW"
+      "duration_ms": 196920,
+      "name": "Je fume pu d'shit",
+      "url": "https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F"
     },
     {
       "added_at": "2023-10-06 17:05:31",
@@ -267,22 +271,18 @@
     {
       "added_at": "2023-10-06 17:05:31",
       "album": {
-        "name": "Stupeflip",
-        "url": "https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a"
+        "name": "\u00c7a sent la bi\u00e8re",
+        "url": "https://open.spotify.com/album/4jiVmehxYLlZCjHHzK33wW"
       },
       "artists": [
         {
-          "name": "Stupeflip",
-          "url": "https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai"
-        },
-        {
-          "name": "Jacno",
-          "url": "https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m"
+          "name": "Les Croquants",
+          "url": "https://open.spotify.com/artist/44tWbf1N3hZlP5bswGsn3g"
         }
       ],
-      "duration_ms": 196920,
-      "name": "Je fume pu d'shit",
-      "url": "https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F"
+      "duration_ms": 181920,
+      "name": "Mon amant de St Jean",
+      "url": "https://open.spotify.com/track/14d5gJKVmRqhWw2HWNmWuW"
     },
     {
       "added_at": "2023-10-06 17:05:31",

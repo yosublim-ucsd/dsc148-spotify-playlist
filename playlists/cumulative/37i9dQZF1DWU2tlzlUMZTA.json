@@ -351,6 +351,32 @@
     },
     {
       "album": {
+        "name": "Aisa Main Shaitaan (From \"Shaitaan\")",
+        "url": "https://open.spotify.com/album/15LYhlJkpFPfawIzewbdJ9"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178803,
+      "name": "Aisa Main Shaitaan - From \"Shaitaan\"",
+      "url": "https://open.spotify.com/track/6wGaAGXlxv4ENR2PE1T74E"
+    },
+    {
+      "album": {
         "name": "Asli Action Chaalu (Theme Song) [From \"An Action Hero\"]",
         "url": "https://open.spotify.com/album/6prkYvbRtR03unSG5w15EP"
       },

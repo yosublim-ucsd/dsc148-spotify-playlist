@@ -4,12 +4,12 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-1,145 songs - 2 day 12 hr 30 min
+1,146 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 | 2023-04-28 | 2023-07-15 |
-| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2024-02-23 |  |
+| [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2024-02-23 | 2024-03-01 |
 | [10 for 10](https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Halloween Mixtape](https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy) | 2:17 | 2022-08-22 | 2023-07-15 |
 | [128](https://open.spotify.com/track/3Ql7vVPnQkBBAaIa5Dmcqr) | [Exit](https://open.spotify.com/artist/3jOKYfOuCZf19meuwqMUmj) | [128](https://open.spotify.com/album/6bZjXmiTSfpgjcb0AJx475) | 3:09 | 2021-12-10 | 2022-07-10 |
 | [19](https://open.spotify.com/track/52UhKglatE25UoP4iS7Vg2) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Race Car Blues](https://open.spotify.com/album/3G7Er0cgLsRJdfxrM7o2sa) | 3:24 | 2021-12-10 | 2022-06-30 |
@@ -692,6 +692,7 @@
 | [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 | 2022-11-04 | 2023-04-11 |
 | [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2022-07-08 | 2022-10-31 |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-12-10 | 2022-07-29 |
+| [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 | 2024-02-23 |  |
 | [No Shoes in the Coffee Shop \(Or Socks\)](https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 3:20 | 2023-05-12 | 2023-09-23 |
 | [Nomu](https://open.spotify.com/track/4vLqMaYufCNrk4D2DA3mja) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Nomu](https://open.spotify.com/album/0B4NOE3I9keouma91iRaLx) | 2:47 | 2021-12-10 | 2022-05-20 |
 | [Normal \(Acoustic\)](https://open.spotify.com/track/2gbDhXquxmfOEDhOyWaZrc) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder \(Deluxe\)](https://open.spotify.com/album/3GsklSgrjsGXpon2kSFT5J) | 4:33 | 2022-11-04 | 2023-04-12 |

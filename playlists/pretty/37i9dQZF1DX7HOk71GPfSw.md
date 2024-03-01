@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,824 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,856 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [buffalo '66](https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [the end](https://open.spotify.com/album/3yAtabXHQMk1uJ9tqaCDDL) | 2:36 |
 | 100 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
 
-Snapshot ID: `MCwzZmRkYjE4OGQxMzY1Nzk3OGNiMTg1NGY5MWM5NGNiODkzNTljNzIx`
+Snapshot ID: `MCwxM2Q4NDczZDNkNjA5NTg2MzhiYjUzY2QyMTkzMDc4Zjc0ZmQ2ZTNm`

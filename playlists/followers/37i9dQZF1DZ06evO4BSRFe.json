@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 56494,
+  "2024-03-01": 56518,
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
   "name": "This Is Banda Machos",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 201666,
       "name": "A prueba de balas",
       "url": "https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 159106,
       "name": "La Ni\u00f1a Fresa",
       "url": "https://open.spotify.com/track/0epRYG4Km0dpf2HqAADKqt"

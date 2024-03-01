@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 74036,
+  "2024-03-01": 74051,
   "date_first_scraped": "2022-06-02",
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 211181,
       "name": "Dos Hojas Sin Rumbo",
       "url": "https://open.spotify.com/track/3uLPwbEVinsPoM1XAeMOIh"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 138226,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"

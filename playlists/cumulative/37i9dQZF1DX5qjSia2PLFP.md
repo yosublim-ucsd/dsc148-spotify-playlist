@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-722 songs - 1 day 10 hr 22 min
+723 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Get The Gat](https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Get The Gat](https://open.spotify.com/album/48THGiijGql0YItnekn1C8) | 2:12 | 2022-12-16 | 2023-04-16 |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-05-06 | 2022-08-13 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2022-05-12 | 2022-08-20 |
+| [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-02-23 |  |
 | [Girlfriend](https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Girlfriend](https://open.spotify.com/album/48MblNhpA4tKaIxlev3VvE) | 2:49 | 2023-06-24 | 2023-09-16 |
 | [Gloves](https://open.spotify.com/track/6k1gqRBg66PEEcAxyGjuyT) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [UNBOXED](https://open.spotify.com/album/32rtIPEj2JkLqRDzpGRNR9) | 3:42 | 2023-10-06 | 2024-02-17 |
 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 | 2023-08-18 | 2023-11-04 |

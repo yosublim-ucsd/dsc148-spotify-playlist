@@ -4,7 +4,7 @@
 
 > 
 
-629 songs - 1 day 5 hr 37 min
+630 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Slipping Into Darkness](https://open.spotify.com/track/1E9jnRS7TRaJtmBf7NzQWn) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 4:16 | 2023-03-26 | 2023-12-14 |
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2022-07-13 | 2023-05-09 |
 | [Smoke Strong](https://open.spotify.com/track/4ysh4U8WPIuKS8Ff1ttSaS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:15 | 2022-08-15 |  |
+| [Smooktobër](https://open.spotify.com/track/3K1SLqfHyHsLA0oxKpUsYf) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:55 | 2024-02-29 |  |
 | [Snotty Rock!](https://open.spotify.com/track/3PiH2mknilvIyEQaUgqZ3M) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 2:08 | 2022-10-28 | 2023-05-09 |
 | [Snotty Run!](https://open.spotify.com/track/5hLQyZcmPXrWsCcmvG1iuT) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:46 | 2022-10-24 | 2023-12-14 |
 | [So Messy](https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR) | [GOONIE](https://open.spotify.com/artist/2Z8HHweJsQ0WDusmOsqozg) | [So Messy](https://open.spotify.com/album/5pcdj525dihZGZFEvwIVVe) | 2:02 | 2023-02-28 | 2023-12-14 |

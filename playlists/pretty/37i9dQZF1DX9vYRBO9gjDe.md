@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。2月27日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,188 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,241 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [CHEERS](https://open.spotify.com/track/3VfcTMAgdty9VYOgeuyqiN) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:18 |
 | 50 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 |
 
-Snapshot ID: `MCw0NTEwMDVlNDliZmE4OWY5ZTM2MGFiNGY1OGY1NmVhMGZmMGNhZjRj`
+Snapshot ID: `MCw4MTY3ODQ0ZThiNWVkZTVlMjQxMGUwYzdjNjlmNDIxYzk3MjIxOTNk`

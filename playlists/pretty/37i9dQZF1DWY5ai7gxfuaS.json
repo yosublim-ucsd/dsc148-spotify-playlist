@@ -1,12 +1,12 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 279227,
+  "num_followers": 279315,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGFkM2UyOTgyZTI2YTlkZmZlZmUyYjdmYjdkYTllYTE3ZGRjZWE0",
+  "snapshot_id": "MCxkZjEzMTY5YTk1ZDVjMGU1NWM5NWQwYmJjMmQ0ZjU4ZjViOTkxOGVk",
   "tracks": [
     {
       "added_at": "2023-12-07 20:09:02",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "DOWN (feat. Malevolence)",
-        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        },
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        }
-      ],
-      "duration_ms": 234549,
-      "name": "DOWN (feat. Malevolence)",
-      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -239,42 +219,22 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Cheers To Goodbye (feat. Spencer Charnas)",
-        "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
+        "name": "DOWN (feat. Malevolence)",
+        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
         },
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Spencer Charnas",
-          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 226861,
-      "name": "Cheers To Goodbye (feat. Spencer Charnas)",
-      "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 164797,
-      "name": "Dear Diary,",
-      "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
+      "duration_ms": 234549,
+      "name": "DOWN (feat. Malevolence)",
+      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -299,6 +259,46 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 164797,
+      "name": "Dear Diary,",
+      "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Cheers To Goodbye (feat. Spencer Charnas)",
+        "url": "https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Spencer Charnas",
+          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
+        }
+      ],
+      "duration_ms": 226861,
+      "name": "Cheers To Goodbye (feat. Spencer Charnas)",
+      "url": "https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
-      },
-      "artists": [
-        {
-          "name": "Kim Dracula",
-          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/53Qn747V1G16yJvN363RZA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Full Spectrum",
         "url": "https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 461306,
       "name": "Love in the Time of Pestilence",
       "url": "https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Blood Year",
-        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
-      },
-      "artists": [
-        {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
-        }
-      ],
-      "duration_ms": 393026,
-      "name": "Arluck",
-      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "RedZone / Dead or Alive",
         "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 227706,
       "name": "RedZone",
       "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Blood Year",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+      },
+      "artists": [
+        {
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Arluck",
+      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "overstimulation brain porridge",
-        "url": "https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn"
-      },
-      "artists": [
-        {
-          "name": "Sepha.",
-          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
-        }
-      ],
-      "duration_ms": 261206,
-      "name": "be no one",
-      "url": "https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Flowers of Evil",
         "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "overstimulation brain porridge",
+        "url": "https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "be no one",
+      "url": "https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "BLOODSUCKERS",
-        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Bloodsuckers",
-      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 147200,
       "name": "saw BONES",
       "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "BLOODSUCKERS",
+        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Bloodsuckers",
+      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 204848,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
-      },
-      "artists": [
-        {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
-        }
-      ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "FUCK WITH A WITCH 2",
         "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 90491,
       "name": "FUCK WITH A WITCH 2",
       "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2023-12-07 20:09:02",

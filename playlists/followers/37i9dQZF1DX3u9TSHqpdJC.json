@@ -1,7 +1,7 @@
 {
-  "2024-02-29": 206329,
+  "2024-03-01": 206417,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Gabi Sklar. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: liza. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3498,6 +3498,24 @@
     },
     {
       "album": {
+        "name": "Asking",
+        "url": "https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM"
+      },
+      "artists": [
+        {
+          "name": "Trinity Lake",
+          "url": "https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233048,
+      "name": "Asking",
+      "url": "https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ"
+    },
+    {
+      "album": {
         "name": "Aspen",
         "url": "https://open.spotify.com/album/6W65yS9yoxwWTkGZcwZ0l4"
       },
@@ -3675,6 +3693,24 @@
       "duration_ms": 153139,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0xlaISUmqoct2M06S2bBJz"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5eApGsISMBKROb2gICEUiT"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201141,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7DKhGCTA1lGdZCLrsnJVr9"
     },
     {
       "album": {
@@ -7903,7 +7939,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 189280,
       "name": "Built To Be Bad",
       "url": "https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb"
@@ -15463,7 +15499,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 159806,
       "name": "Ego Rush",
       "url": "https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta"
@@ -15499,7 +15535,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 190851,
       "name": "Egocentric",
       "url": "https://open.spotify.com/track/3N43TUERvQtxQsNA5FFvPT"
@@ -15775,6 +15811,24 @@
       "duration_ms": 180000,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3"
+    },
+    {
+      "album": {
+        "name": "emotional capacity",
+        "url": "https://open.spotify.com/album/3RMN6pSEmOx2Z1ZtA6qnLn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Thompson",
+          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "emotional capacity",
+      "url": "https://open.spotify.com/track/3tTuteumUYWfrwyYRlJ8WQ"
     },
     {
       "album": {
@@ -20194,6 +20248,24 @@
     },
     {
       "album": {
+        "name": "Girl Friend",
+        "url": "https://open.spotify.com/album/1j9FQh3VXAUBQDRdUmztIX"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179729,
+      "name": "Girl Friend",
+      "url": "https://open.spotify.com/track/3FDJSVSr1znwkNjHRugwCM"
+    },
+    {
+      "album": {
         "name": "Girl I Used To Be",
         "url": "https://open.spotify.com/album/3fxBLDnqu8xes8FztnDNgo"
       },
@@ -21621,6 +21693,24 @@
       "duration_ms": 196363,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/5ChkIZqZnDQw4QevMyWAjA"
+    },
+    {
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3P4R1LZ3ziyw7jx72Mwo2m"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/51BFG5O2CPUNxE9WIXoZcv"
     },
     {
       "album": {
@@ -26467,6 +26557,24 @@
       "duration_ms": 168621,
       "name": "I Wanted to Keep You",
       "url": "https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28"
+    },
+    {
+      "album": {
+        "name": "I Will Let You Go",
+        "url": "https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV"
+      },
+      "artists": [
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173107,
+      "name": "I Will Let You Go",
+      "url": "https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm"
     },
     {
       "album": {
@@ -34479,7 +34587,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 187360,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/66eI6rLF6effvC5JDNy3OL"
@@ -35227,6 +35335,24 @@
       "duration_ms": 157110,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/0qrl23FYoJ6aqwYFqs2H17"
+    },
+    {
+      "album": {
+        "name": "Mind & Body",
+        "url": "https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY"
+      },
+      "artists": [
+        {
+          "name": "Tol\u00fc Makay",
+          "url": "https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176849,
+      "name": "Mind & Body",
+      "url": "https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p"
     },
     {
       "album": {
@@ -36614,6 +36740,24 @@
     },
     {
       "album": {
+        "name": "my mother's daughter",
+        "url": "https://open.spotify.com/album/3q6IHexiOr3cc2BI3z2UzO"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209712,
+      "name": "my mother's daughter",
+      "url": "https://open.spotify.com/track/0StDtkDKpEyFok25poMZqP"
+    },
+    {
+      "album": {
         "name": "My Person",
         "url": "https://open.spotify.com/album/0hCFjworN4bxpXRH2GBQR5"
       },
@@ -37555,6 +37699,24 @@
       "duration_ms": 165327,
       "name": "Niceboysweetgirl",
       "url": "https://open.spotify.com/track/3H7MgEOUtS9nQXuMAhzVCj"
+    },
+    {
+      "album": {
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/0bHfEkKRZTYDu2kaLzNcA0"
+      },
+      "artists": [
+        {
+          "name": "Margo Raats",
+          "url": "https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209805,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/5j041p2jGJrjPNm8k94Ngn"
     },
     {
       "album": {
@@ -43004,6 +43166,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/72DtUhetWJEOs6uigQZnkc"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3lEBEtiL4YVAKiGoU4MrT6"
+    },
+    {
+      "album": {
         "name": "Rain In California",
         "url": "https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z"
       },
@@ -44065,6 +44245,24 @@
       "duration_ms": 225600,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2OxorM1EAEHLLOFbsZFREo"
+      },
+      "artists": [
+        {
+          "name": "Obeeyay",
+          "url": "https://open.spotify.com/artist/16CbxK4vGxHUHFD47SJh16"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152041,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3HZgQNLNcrIYQZOO10lxZX"
     },
     {
       "album": {
@@ -50977,7 +51175,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 139906,
       "name": "SUPERNOVA",
       "url": "https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ"
@@ -52523,7 +52721,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 207600,
       "name": "tetherball",
       "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
@@ -52809,6 +53007,24 @@
       "duration_ms": 209389,
       "name": "The Afterlove",
       "url": "https://open.spotify.com/track/3sdrR0EFMVYweJi7lZPjez"
+    },
+    {
+      "album": {
+        "name": "THE ARSONIST & THE SUPERMODEL",
+        "url": "https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk"
+      },
+      "artists": [
+        {
+          "name": "liza",
+          "url": "https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132903,
+      "name": "THE ARSONIST & THE SUPERMODEL",
+      "url": "https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt"
     },
     {
       "album": {
@@ -53367,7 +53583,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 152435,
       "name": "the mom song",
       "url": "https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV"
@@ -54478,6 +54694,24 @@
     },
     {
       "album": {
+        "name": "Tiptoe",
+        "url": "https://open.spotify.com/album/1gIpp0BMS8oaOimgp33Npp"
+      },
+      "artists": [
+        {
+          "name": "Lauren Presley",
+          "url": "https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158374,
+      "name": "Tiptoe",
+      "url": "https://open.spotify.com/track/1sS3SE3s7XQ2UgU4WIg40q"
+    },
+    {
+      "album": {
         "name": "Tiramisu",
         "url": "https://open.spotify.com/album/5Gbi7suDc5WCEr8esD6cvH"
       },
@@ -54568,6 +54802,24 @@
     },
     {
       "album": {
+        "name": "title",
+        "url": "https://open.spotify.com/album/48OZ3oyA9a2fQNGDyYk1D2"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128130,
+      "name": "title",
+      "url": "https://open.spotify.com/track/4csL3fDiVG2Y4B4bGi2BuL"
+    },
+    {
+      "album": {
         "name": "To Hell With You",
         "url": "https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe"
       },
@@ -54579,7 +54831,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 231333,
       "name": "To Hell With You",
       "url": "https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7"
@@ -55559,7 +55811,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 198760,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB"

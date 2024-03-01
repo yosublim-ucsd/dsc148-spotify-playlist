@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-650 songs - 19 hr 29 min
+657 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Always With Me](https://open.spotify.com/track/5rTrf5rdwWWbQCcQO1FZHE) | [Mio Niño](https://open.spotify.com/artist/6fQXNz8OKXCDBLdTepU6un) | [The Sun And The Moon](https://open.spotify.com/album/37WU53dkBC0QYdYNRb7FMU) | 2:03 | 2023-02-10 |  |
 | [Amazing You](https://open.spotify.com/track/22YqoKWvHpQkMAkWregmHG) | [Florian Faerber](https://open.spotify.com/artist/0WajMfwxqxEpvc8X2cK1P2) | [Amazing You](https://open.spotify.com/album/27uh20VjjNEmbO3V88yJbN) | 1:43 | 2022-09-02 |  |
 | [An Angel Goes To Bed](https://open.spotify.com/track/1EOBqDXmXYQ1OK6Orubc9n) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [An Angel Goes To Bed](https://open.spotify.com/album/0tr1zoOkTNWhw30jm2Nyhs) | 2:00 | 2022-02-10 |  |
+| [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 | 2024-03-01 |  |
 | [Another Day Just Went By](https://open.spotify.com/track/6XBcvVAJZGhzSCR4Aot9H0) | [Liddy Hall](https://open.spotify.com/artist/6tV5JzvoZR29ZRF1JkF2VY) | [Another Day Just Went By](https://open.spotify.com/album/4IXByBPpvCVL5p2P5XXGQn) | 1:33 | 2022-02-10 | 2023-01-13 |
 | [Apples And Bananas](https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Apples And Bananas](https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE) | 1:31 | 2022-02-10 |  |
 | [Are You Sleeping](https://open.spotify.com/track/2hQDbKTMtR7Gls1EdnJr16) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Are You Sleeping](https://open.spotify.com/album/1ZQk3XygrXVMMMO9fiMAsx) | 1:25 | 2022-07-29 | 2024-02-09 |
@@ -65,6 +66,7 @@
 | [Baby Paint](https://open.spotify.com/track/6oIeSpgh2j8XBoyaVk38PE) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Baby Paint](https://open.spotify.com/album/1DXqCMnGcgP6da7Romzt6t) | 2:05 | 2022-12-23 |  |
 | [Baby Runway](https://open.spotify.com/track/622MUzx4doeLxvukoJsSRb) | [Rebecca Harland](https://open.spotify.com/artist/3ZmFjCJlv8hWPhq0Rl9d7k) | [Teddy and Turtle](https://open.spotify.com/album/5z88ANBJ5TLUfalIBe4hlm) | 1:38 | 2022-02-10 |  |
 | [Baby Shark](https://open.spotify.com/track/0P9Rp4qsr2jsgHjMTp8x3m) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Camptown Races](https://open.spotify.com/album/1fC2JLhUcyVOWSJrexxD8L) | 1:37 | 2022-05-16 | 2023-05-12 |
+| [Baby shark](https://open.spotify.com/track/3L5NdDhcagFkwLcMpbTDHK) | [Sarah Bainscroft](https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF) | [Baby shark](https://open.spotify.com/album/5vLfJKN5JC2Ipf7oXXXh4r) | 1:35 | 2024-03-01 |  |
 | [Baby's First Dance](https://open.spotify.com/track/1cLvdb4NxiH6J8E9TEvaAy) | [Sophie Marling](https://open.spotify.com/artist/3GPp8tfkfcdVt01Nr8dkAB) | [A Bedtime Smile](https://open.spotify.com/album/7jArIkZyJHSZqzN0nvt4Di) | 2:09 | 2022-02-10 | 2023-04-07 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2022-02-10 | 2022-06-09 |
 | [Bathtub Bubbles](https://open.spotify.com/track/1S6J09BrtlBvNrVrsCcetX) | [Calista Barrett](https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih) | [Bathtub Bubbles](https://open.spotify.com/album/5rX74hWYklaDCznJWE40Bs) | 1:28 | 2022-02-10 |  |
@@ -153,6 +155,7 @@
 | [Dream Of A Garden](https://open.spotify.com/track/7qpqftu6IeKt0ATZDoqZPo) | [Rosie Stein](https://open.spotify.com/artist/5tWsDEKMacjeSXYAfg5KX7) | [Dream Of A Garden](https://open.spotify.com/album/5qu7BAxvDBHuNfXJieTOkp) | 1:32 | 2022-02-10 |  |
 | [Dream Time](https://open.spotify.com/track/4ZRCedGgRihP3QkJuqDMOW) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Dream Time](https://open.spotify.com/album/5L1AFKWXBh2dZ8NHoNL2Jg) | 2:20 | 2024-01-05 |  |
 | [Dreaming of Sweets](https://open.spotify.com/track/5D2Zmru1BUGleQnRyJ2FB7) | [David Thomas Wright](https://open.spotify.com/artist/2fi8z3z3pnSr7ZnGneQWE2) | [Dreaming of Sweets](https://open.spotify.com/album/4xR10UOpMUHnWAPUivHOFM) | 2:11 | 2022-02-10 |  |
+| [Dreamland Promenade](https://open.spotify.com/track/03Qc20BWJ7ivcl3LMLEIeN) | [Teddy Gorbella](https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3) | [Dreamland Promenade](https://open.spotify.com/album/4IWC0KSY2PBDf8UFCScMo4) | 1:30 | 2024-03-01 |  |
 | [Dreams Of Spring](https://open.spotify.com/track/3XJXBc9hvWrN5E9h36jO6l) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Softly Spoken](https://open.spotify.com/album/2GCwj6sVXuuYXUsuEe6XQ4) | 3:53 | 2022-02-10 | 2022-10-08 |
 | [Dreamswing](https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM) | [Vincent Lundborg](https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A) | [Dreamswing](https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp) | 1:58 | 2024-01-05 |  |
 | [Dreamwalk](https://open.spotify.com/track/3hwQBfIcVL1eSnrIS3GgiM) | [Claude Jules](https://open.spotify.com/artist/10twoL9Dyh3maVzU0zGcAJ) | [Dreamwalk](https://open.spotify.com/album/2bteDLcHo3Y4b2pu95AAEf) | 1:41 | 2022-09-02 |  |
@@ -252,6 +255,7 @@
 | [How Big I Can Be](https://open.spotify.com/track/588UhdDUFWbKmNUMUXnp4Y) | [Maureen Dubose](https://open.spotify.com/artist/0LGtUk1yFtNM99TX7JS01N) | [How Big I Can Be](https://open.spotify.com/album/0wvBnlYgEEiMuiwlGmUlJA) | 1:26 | 2022-02-10 |  |
 | [How Lucky I Am](https://open.spotify.com/track/40FNjB66GuQn0X9amaFg3c) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [How Lucky I Am](https://open.spotify.com/album/7ukY8WjDFEuXmTPAtzcA0t) | 2:05 | 2022-02-10 |  |
 | [How Much Is That Doggie In the Window](https://open.spotify.com/track/38kmnBV7MrayOE59u6wozY) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Heart and Soul](https://open.spotify.com/album/46effNjzUb6VxwqnP16qHY) | 2:34 | 2022-06-08 | 2023-04-07 |
+| [How Much Is That Doggie In The Window?](https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [How Much Is That Doggie In The Window?](https://open.spotify.com/album/5Lb6JFr7virY0Pp3nROzbo) | 2:08 | 2024-03-01 |  |
 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 | 2023-08-10 |  |
 | [Hujedamej sånt barn han var](https://open.spotify.com/track/0B3aR4unKE3LmioY2GjSdK) | [Scarlet Patel](https://open.spotify.com/artist/6Iqj1M1NzaOzIE4d5vCcM4) | [Hujedamej sånt barn han var](https://open.spotify.com/album/0IYne0LhThS91Nf0eLAaBE) | 1:17 | 2023-02-10 | 2023-06-03 |
 | [Humpty Dumpty](https://open.spotify.com/track/5YtkuqzGtGMxxmHI7lwu8X) | [Prosper Harland](https://open.spotify.com/artist/4BQgplBqqabnALZP6eciPw) | [Humpty Dumpty](https://open.spotify.com/album/2ppKJjyJYrFZ1hNRlWCrzb) | 1:52 | 2022-02-10 | 2023-05-12 |
@@ -262,6 +266,7 @@
 | [Hush, hush](https://open.spotify.com/track/11qLsV7YR7mBmgVn5oPhZg) | [Fleurette Rose](https://open.spotify.com/artist/1zgCD2UYu2SrLVgSZGj6NA) | [Hush, hush](https://open.spotify.com/album/3IJuXYgwvrXBPUdaWCRvgA) | 1:18 | 2023-02-24 |  |
 | [Hymn](https://open.spotify.com/track/4FOhzTO7AErvRzEmI08qTv) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Amélie](https://open.spotify.com/album/49DC7zrTAsk81BJdFxrKJM) | 2:23 | 2022-02-10 | 2022-10-08 |
 | [Här dansar Herr Gurka](https://open.spotify.com/track/7poiYYtrLSWVehyDjid5W3) | [Elias Ståhle](https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV) | [Här dansar Herr Gurka](https://open.spotify.com/album/6BSVx8znWIZhFSPIURyhKH) | 1:13 | 2022-12-23 | 2023-03-18 |
+| [I Am A Tree](https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [I Am A Tree](https://open.spotify.com/album/2jXeI0F6ayYXySHl7DLZq4) | 1:15 | 2024-03-01 |  |
 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 | 2022-02-10 | 2022-10-29 |
 | [I Can Sing A Rainbow](https://open.spotify.com/track/4z34BTsWVB44l98BrafyHp) | [Tristian Fitzmaurice](https://open.spotify.com/artist/19kUkTgm6469j8Pp2BKyav) | [British Nursery Rhymes For Piano](https://open.spotify.com/album/7EyPOTXDK7WXasvrUCbUhy) | 1:58 | 2022-02-10 | 2022-09-23 |
 | [I drömmarnas land](https://open.spotify.com/track/4bp7iq0k2wMbeOl8f8HwkU) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [I drömmarnas land](https://open.spotify.com/album/1EbhNmd7YpD4pvYX7KhroR) | 1:53 | 2022-02-10 |  |
@@ -314,6 +319,7 @@
 | [Lavender's Blue](https://open.spotify.com/track/2fx4Zt7CaDEyShOuCqKSQF) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Mommy & Daddy Love You](https://open.spotify.com/album/2hzy2byPq9A9VPhooQ9OFo) | 1:28 | 2022-02-10 | 2023-02-10 |
 | [Lavender's Blue](https://open.spotify.com/track/04WO0f93EAAAVyu9Nh1uJB) | [Emmet April](https://open.spotify.com/artist/3Hx2KupJkTFnYSctvk83Iv) | [Lavender's Blue](https://open.spotify.com/album/170S6zTHVCCJMS7xJqoRf7) | 1:45 | 2022-02-10 | 2023-04-07 |
 | [Lavender's Blue](https://open.spotify.com/track/7LBz9droYdZnaCVHgDbqvo) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [Lavender's Blue](https://open.spotify.com/album/7syJVFFBJLoedz18nxr5RX) | 1:47 | 2022-12-23 |  |
+| [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lightly Row](https://open.spotify.com/track/1sacy8TpS19p2dvQAQ4Rwk) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Lightly Row](https://open.spotify.com/album/3gxVaMfXE1w67zbrzueuzU) | 1:22 | 2023-12-08 |  |
 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 | 2024-02-09 |  |
 | [Lights Out](https://open.spotify.com/track/1TFzBNWPnHtHhDhdyNI1eT) | [Lovisa Vonn](https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx) | [Lights Out](https://open.spotify.com/album/7iSn3y0F5JUJG9jMBvAofQ) | 2:00 | 2022-02-10 | 2023-03-18 |
@@ -498,6 +504,7 @@
 | [Sleep, My Little Friend](https://open.spotify.com/track/3qfyU34tCYJ4IJD1H8Qtxh) | [Gennie Voltera](https://open.spotify.com/artist/36B4hA2eDLLjGqOXncPXHw) | [Sleep, My Little Friend](https://open.spotify.com/album/1QZTBycQ3kWQHnboczhpQC) | 1:05 | 2022-02-10 | 2022-12-24 |
 | [Sleepover](https://open.spotify.com/track/1NfEpiH414ouf7SkjBYGT2) | [Penelope Hart](https://open.spotify.com/artist/4JMadQY9wcA6kcbvBvti27) | [Sleepover](https://open.spotify.com/album/4JuajeyLNsvCtgaWRmCw2r) | 1:46 | 2022-02-10 |  |
 | [Sleepy cat](https://open.spotify.com/track/66fw0XwehRbhQxnf96zttd) | [Elwood Alvey](https://open.spotify.com/artist/0Mk4uWIZoZD5P6qovECUEk) | [Sleepy cat](https://open.spotify.com/album/3Mqae6qvNur415aC8ID1d6) | 1:18 | 2022-02-10 |  |
+| [Sleepy Clouds](https://open.spotify.com/track/7fMrzJgBQSprNEV7iFI68u) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Sleepy Clouds](https://open.spotify.com/album/0iSkJupalfCNNeLEMjW1P2) | 1:11 | 2024-03-01 |  |
 | [Sleepy cows](https://open.spotify.com/track/1Nw8UbHoQWuZd7NZCEcgZV) | [Hartley Peter](https://open.spotify.com/artist/0wuQZyVvfkgYcB6o2lkT9v) | [Sleepy cows](https://open.spotify.com/album/20p0HVW2jOuavvqTZtHbUd) | 1:23 | 2022-02-10 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/2WPQXLUNLV0MpnLsXq216q) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleepy Eyes](https://open.spotify.com/album/4ORkajLhJ0JkLFom7hSBkf) | 2:21 | 2022-02-10 |  |
 | [Sleepy Little Bear](https://open.spotify.com/track/6dNLGNGdv38Dl8E9qeDkpW) | [Jim Meadows](https://open.spotify.com/artist/7IgL2zNU8WBeCaubX5bVTy) | [Sleepy Little Bear](https://open.spotify.com/album/5RFM84Bd0fPxhrLFnulQj6) | 1:26 | 2023-05-12 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 28057,
+  "2024-03-01": 28081,
   "date_first_scraped": "2023-10-15",
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Lara91k",
   "name": "Esto es Pop",
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 226466,
       "name": "Esperanza (feat. Agarrate Catalina)",
       "url": "https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ"
@@ -1813,6 +1813,28 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "album": {
+        "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
+        "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183786,
+      "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
+      "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
     },
     {
       "album": {

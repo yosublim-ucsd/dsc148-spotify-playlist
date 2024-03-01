@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 7630866,
+  "2024-03-01": 7636989,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -13961,6 +13961,24 @@
     {
       "album": {
         "name": "YUMMI",
+        "url": "https://open.spotify.com/album/00MNYTrWsx579GXa5zjvSq"
+      },
+      "artists": [
+        {
+          "name": "Dethron",
+          "url": "https://open.spotify.com/artist/7FbwfGxFIzEqx4NzINEALd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96595,
+      "name": "YUMMI",
+      "url": "https://open.spotify.com/track/6R08W2StMBo5PUwJts9epc"
+    },
+    {
+      "album": {
+        "name": "YUMMI",
         "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
       },
       "artists": [
@@ -13975,7 +13993,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 96278,
       "name": "YUMMI",
       "url": "https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR"

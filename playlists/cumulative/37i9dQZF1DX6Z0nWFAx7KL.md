@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-189 songs - 9 hr 27 min
+190 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dollar For A Dime](https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Dollar For A Dime](https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko) | 2:28 | 2023-09-07 |  |
 | [Don't Hide](https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Don't Hide](https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr) | 2:15 | 2023-12-21 | 2024-02-28 |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-12-17 | 2023-02-15 |
-| [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId), [CLGN](https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-09-15 |  |
+| [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId), [CLGN](https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 | 2022-09-15 | 2024-03-01 |
 | [Down To Earth](https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Down To Earth](https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr) | 3:00 | 2022-12-22 | 2023-05-27 |
 | [Downtown](https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Downtown](https://open.spotify.com/album/0JBjEAchOXgp5LzTd2kYyt) | 2:51 | 2022-09-15 | 2022-10-19 |
 | [Dreams](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Dreams](https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ) | 3:09 | 2023-06-01 |  |
@@ -139,6 +139,7 @@
 | [On My Mind](https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz) | [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45) | [On My Mind](https://open.spotify.com/album/6cAMfGFXHAACGRohy9ZQbS) | 2:35 | 2022-09-15 | 2023-01-21 |
 | [One Last Call](https://open.spotify.com/track/4JNzccE5ZScrztydSzruE1) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [One Last Call](https://open.spotify.com/album/6QSHLUdOOiWVjjt3KI30ei) | 2:38 | 2023-11-03 | 2023-12-11 |
 | [One More Night](https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [One More Night](https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y) | 2:12 | 2022-11-08 | 2022-11-24 |
+| [One Step](https://open.spotify.com/track/7LwW3ZHlFv7UPjlZ242qsq) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [One Step](https://open.spotify.com/album/3nsITA5Fj9RNf6yy8JUayF) | 4:15 | 2024-02-29 |  |
 | [Out Of Love](https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Out Of Love](https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW) | 2:35 | 2022-09-29 | 2023-04-13 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-15 | 2022-09-30 |
 | [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 | 2023-06-02 |

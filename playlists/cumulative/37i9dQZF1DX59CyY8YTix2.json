@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175699,
       "name": "17",
       "url": "https://open.spotify.com/track/1kGkbJkZTUKOpaq40DmO4X"
@@ -1512,6 +1512,24 @@
       "duration_ms": 289023,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/6BJrQLi6dCzxoaCtx4MV1s"
+    },
+    {
+      "album": {
+        "name": "beyond me",
+        "url": "https://open.spotify.com/album/1FCsYoLNYlgt4zYpJxEdkb"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u4e2d\u30b9\u30d4\u30ab",
+          "url": "https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324330,
+      "name": "beyond me",
+      "url": "https://open.spotify.com/track/0j0ChIGVD89gIH8wlUzXfY"
     },
     {
       "album": {
@@ -4068,6 +4086,24 @@
       "duration_ms": 190333,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/7KMMwN6c0gOnPcXPhhAcAi"
+    },
+    {
+      "album": {
+        "name": "8songs",
+        "url": "https://open.spotify.com/album/4YYTPCSSAd6xUtx7URacT3"
+      },
+      "artists": [
+        {
+          "name": "Forbear",
+          "url": "https://open.spotify.com/artist/2LaU8vZhn4592q8Yu0P8QO"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185670,
+      "name": "Glide Down",
+      "url": "https://open.spotify.com/track/6KtToYzkcTPGMHsbie0HmT"
     },
     {
       "album": {
@@ -15138,7 +15174,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 252613,
       "name": "\u3075\u305f\u308a",
       "url": "https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT"
@@ -19578,7 +19614,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 175369,
       "name": "\u30e1\u30a4\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb"
@@ -24574,7 +24610,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 228220,
       "name": "\u707c\u71b1\u306b\u3066\u7d14\u60c5(wii-wii-woo)",
       "url": "https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7"

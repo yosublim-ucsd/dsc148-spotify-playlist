@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 26845,
+  "2024-03-01": 26862,
   "date_first_scraped": "2022-08-06",
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
   "name": "This Is Larkin Poe",
@@ -705,7 +705,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 131052,
       "name": "Come on in My Kitchen",
       "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 131052,
       "name": "Come On In My Kitchen",
       "url": "https://open.spotify.com/track/4qaFnbqfIeIBSSFX9YNRe2"

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-765 songs - 1 day 8 hr 11 min
+766 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-05-27 |  |
 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 | 2022-05-27 | 2022-09-24 |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-09 | 2023-01-21 |
+| [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-02-27 |  |
 | [Bella Mysteria](https://open.spotify.com/track/11l9eh10V5tcMZGclZ7oF8) | [Ambrosi Lozano](https://open.spotify.com/artist/2exTaHqknUhcHbgpDFzBGe) | [Bella Mysteria](https://open.spotify.com/album/7qlgJyBRsex2GzGWyYlOwi) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Beneath](https://open.spotify.com/track/3Yk4gfSFT4i8k4vOWYX8rn) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Beneath](https://open.spotify.com/album/0mY3JvS5YLbfHgrtYXNwtl) | 2:19 | 2023-08-21 | 2023-11-07 |
 | [Between the Lines](https://open.spotify.com/track/7E59hHJ68v9vj6fZeFfqAK) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Between the Lines](https://open.spotify.com/album/20q0nU6A93tGx7ebWyHpUm) | 1:49 | 2023-03-13 | 2023-07-25 |
@@ -233,7 +234,7 @@
 | [Freedom](https://open.spotify.com/track/5PHIGFF2ikcf0lEGH5D9fZ) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Freedom](https://open.spotify.com/album/4ekcFTkZHjuLXCYMFxZ8Ug) | 2:16 | 2022-05-27 | 2022-09-24 |
 | [Frimærke](https://open.spotify.com/track/1WTagWjqB683U3RcPams59) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Frimærke](https://open.spotify.com/album/6fUjJxTzXZYPIURDgLm8PJ) | 2:17 | 2023-08-07 |  |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-05-27 | 2023-05-10 |
-| [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-05-27 |  |
+| [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-05-27 | 2024-03-01 |
 | [Frühlingserwachen](https://open.spotify.com/track/1L54P6yrhLNADvO50r5XbT) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Frühlingserwachen](https://open.spotify.com/album/5TfHigXqrAYvlx4JXjJlMS) | 2:20 | 2023-05-19 | 2023-11-17 |
 | [Fulfilled](https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM) | [Alejandro Seitz](https://open.spotify.com/artist/3uRK0WRR8JCS6mlkg3NHej) | [Fulfilled](https://open.spotify.com/album/750a4bHkMhjvPdSTbLxLWN) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-05-27 | 2023-01-03 |

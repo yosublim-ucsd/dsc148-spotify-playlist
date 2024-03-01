@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "YOU WILL KNOW MY NAME",
+        "url": "https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87"
+      },
+      "artists": [
+        {
+          "name": "Ess thee Legend",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO"
+    },
+    {
+      "album": {
         "name": "Bad4u",
         "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
       },
@@ -621,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5MilKSjkEUGyt5TgYomB8u"
+      },
+      "artists": [
+        {
+          "name": "H3riQ",
+          "url": "https://open.spotify.com/artist/1M2yyejVWWdV0rhGqKWgjz"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202473,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1dE9i3dl3lgZJIF5DwsBkj"
+    },
+    {
+      "album": {
         "name": "Nobody Gotta Know",
         "url": "https://open.spotify.com/album/5zFoqU21uLBJlZXq8EAL57"
       },
@@ -812,7 +848,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 115200,
       "name": "Stuck Inside",
       "url": "https://open.spotify.com/track/5l0YvtHzzyNPJ4rAiw9tYT"
@@ -900,7 +936,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 163422,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/4V9v5ehAQpFyZ3GQQhCGT7"

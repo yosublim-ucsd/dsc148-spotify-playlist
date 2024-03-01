@@ -280,10 +280,28 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 202266,
       "name": "En apesanteur - Single Version",
       "url": "https://open.spotify.com/track/51fnKEBEOLUxSoOad4jcA9"
+    },
+    {
+      "album": {
+        "name": "Calogero",
+        "url": "https://open.spotify.com/album/2azuPARdPpBStQS3JqF2r0"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "En apesanteur - Single Version",
+      "url": "https://open.spotify.com/track/07VyIZXNfVS13AbebQDQWy"
     },
     {
       "album": {

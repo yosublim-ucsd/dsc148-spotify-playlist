@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: Muzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,262 likes - 56 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,266 likes - 56 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 19 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 20 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 |
 | 21 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 |
-| 22 | [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 |
+| 22 | [no more love](https://open.spotify.com/track/6TniiopBO54fiDn8AhxsYg) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [hard to be real in a world so fake](https://open.spotify.com/album/5x7JV3dbSfyVRtYCBwmxI8) | 2:53 |
 | 23 | [Le Nna](https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx) | 2:35 |
 | 24 | [Care For You](https://open.spotify.com/track/1csqrGvXuxW1jU5TGWSolF) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/0N3BdFnOZ0SV2OMPb8GjiV) | 3:52 |
 | 25 | [Brasero](https://open.spotify.com/track/6NQhtmbhFzyqNKvhgtMulk) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz), [Lova Lova](https://open.spotify.com/artist/6pvXW87pGB0XovnUHo8xvC) | [Brasero](https://open.spotify.com/album/61IM2wtoBycfswgVDyk4cO) | 2:54 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 55 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
 | 56 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
 
-Snapshot ID: `MCw5NmVlZmJiNzRiNDczOGQxN2VjNzA3YjA0N2EwMzEyNWIxZTUwMDMx`
+Snapshot ID: `MCw5ODljNjI5NjhkNDFkMWM2ODJhMmYyNzY3MjlmM2Y1N2ZjYmUwZGI4`

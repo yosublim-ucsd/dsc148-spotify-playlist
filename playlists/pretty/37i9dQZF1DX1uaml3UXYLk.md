@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,776 likes - 178 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,844 likes - 178 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 11 | [Prophecy](https://open.spotify.com/track/56w9J0guGdjFT2kcHVaftv) | [M98000](https://open.spotify.com/artist/4vBonDnV2EATaCzSqtXtXy) | [Prophecy](https://open.spotify.com/album/24rY0yxqE3lVdhsvMAn7Oj) | 3:00 |
 | 12 | [Reserved For Two](https://open.spotify.com/track/6LS1Tx9asjgb4VG2xiGq4E) | [Evan St\. Claire](https://open.spotify.com/artist/4qfkE4RJJWv5UyCYxinfLy) | [Reserved For Two](https://open.spotify.com/album/3Vbot4UOBs6OLl7ADk73q0) | 2:13 |
 | 13 | [BLUE LIGHTS](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l) | [XO STHLM](https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK) | [BLUE LIGHTS](https://open.spotify.com/album/5VmppbYGqYcCdy0Oz0MAMc) | 2:21 |
-| 14 | [D N A](https://open.spotify.com/track/69f6p04wKzUe5WQVsfne99) | [Roberto Mazza](https://open.spotify.com/artist/2u3XtKYn13EPJtbRlCWyAN) | [D N A](https://open.spotify.com/album/2438Jv1Uxvjqkfrdj6179k) | 4:54 |
+| 14 | [D N A](https://open.spotify.com/track/69f6p04wKzUe5WQVsfne99) | [Roberto Mazza](https://open.spotify.com/artist/60GAAkvbZRSHCWI2uHwJdG) | [D N A](https://open.spotify.com/album/2438Jv1Uxvjqkfrdj6179k) | 4:54 |
 | 15 | [solastic breeze](https://open.spotify.com/track/5gZMmubNmIuHCT3dcFv5nW) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [solastic breeze](https://open.spotify.com/album/0usNXiN5J6gdT3LUcxl8Ic) | 2:24 |
 | 16 | [Empty Room](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Empty Room](https://open.spotify.com/album/1S4zdBRDvFyg30YDSzuZq8) | 2:11 |
 | 17 | [Monsieur](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m) | [Túnn](https://open.spotify.com/artist/7hfCTHwFBHdujO41a9RPXv) | [Monsieur](https://open.spotify.com/album/0YeuJQDS0j7EBNgrtNsSBr) | 2:58 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 177 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 |
 | 178 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 |
 
-Snapshot ID: `MCw3NTQ1NTA5YmFjYTI5ZmZhMTg4MGU3YTUxMGJjYjg0OTVjNWQ0MmVm`
+Snapshot ID: `MCw2MmI5NmU3ZDhkZjkyMjA1ZmNmYmJmM2Y2ZDk5NjA3ODEwYjJmZDlj`

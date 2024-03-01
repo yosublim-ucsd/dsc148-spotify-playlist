@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 227618,
       "name": "can't live without you",
       "url": "https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN"
@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "The Parades (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0DHG7ng7n1ozU9xbOVZSqE"
+      },
+      "artists": [
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288586,
+      "name": "Gesture of the Waves",
+      "url": "https://open.spotify.com/track/38X2tnfDn8eq2CpbJDGbVi"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
@@ -4296,7 +4314,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 109373,
       "name": "kani",
       "url": "https://open.spotify.com/track/6rpWwwoKYA0uX6uUqq2MbB"
@@ -5221,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159617,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
+    },
+    {
+      "album": {
         "name": "You're The Man",
         "url": "https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854"
       },
@@ -5380,7 +5416,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187056,
       "name": "Never Saw It Coming",
       "url": "https://open.spotify.com/track/25HpCBspDVXL1XigIDzLwF"
@@ -7619,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145841,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
+    },
+    {
+      "album": {
         "name": "Time Machine/Kazokuno Fukei",
         "url": "https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791"
       },
@@ -7710,6 +7764,24 @@
       "duration_ms": 330657,
       "name": "Too Bad (with Max Clarke of Cut Worms) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/6USd3imp91uPnvgBYRM2Kx"
+    },
+    {
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
     },
     {
       "album": {

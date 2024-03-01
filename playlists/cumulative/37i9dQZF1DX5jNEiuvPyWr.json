@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : mademoiselle lou",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 160030,
       "name": "AKANI",
       "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 238515,
       "name": "Anakin",
       "url": "https://open.spotify.com/track/6RjO7UcAuz6z7J8RZtm4qh"
@@ -1532,6 +1532,24 @@
       "duration_ms": 186666,
       "name": "D'une vie \u00e0 l'autre",
       "url": "https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB"
+    },
+    {
+      "album": {
+        "name": "DANS L'TRAP",
+        "url": "https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626"
+      },
+      "artists": [
+        {
+          "name": "AAMO",
+          "url": "https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171943,
+      "name": "DANS L'TRAP",
+      "url": "https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE"
     },
     {
       "album": {
@@ -3271,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "L.A",
+        "url": "https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113963,
+      "name": "L.A",
+      "url": "https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y"
+    },
+    {
+      "album": {
         "name": "La Fin",
         "url": "https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef"
       },
@@ -3492,7 +3528,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 200930,
       "name": "Le Nine",
       "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
@@ -4632,10 +4668,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 181786,
       "name": "PARLE EN WSH",
       "url": "https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5"
+    },
+    {
+      "album": {
+        "name": "Paro",
+        "url": "https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh"
+      },
+      "artists": [
+        {
+          "name": "HB VIZ",
+          "url": "https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164034,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO"
     },
     {
       "album": {
@@ -6518,6 +6572,28 @@
       "duration_ms": 194181,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+    },
+    {
+      "album": {
+        "name": "zeppelin",
+        "url": "https://open.spotify.com/album/0XAHLS9hIoTUtRbWPSESj7"
+      },
+      "artists": [
+        {
+          "name": "Sovajon",
+          "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
+        },
+        {
+          "name": "yuo",
+          "url": "https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "zeppelin",
+      "url": "https://open.spotify.com/track/72CrKgMTYBumZL48BUx6Y1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Lady Shaka",
+  "description": "a new world of alternative electronic music. Cover: Moktar",
   "name": "Portal",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 344000,
       "name": "Anda",
       "url": "https://open.spotify.com/track/610etRTkTe8TwReNIDEipU"
@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "album": {
         "name": "Brake Fluid",
         "url": "https://open.spotify.com/album/6y5cvZO6OK8UCRXPU5Cmmj"
       },
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 267111,
       "name": "Chez Moi (Waiting For You) - Edit",
       "url": "https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M"
@@ -2304,6 +2322,24 @@
       "duration_ms": 230074,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW"
+    },
+    {
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU"
+      },
+      "artists": [
+        {
+          "name": "TREKKIE TRAX CREW",
+          "url": "https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170267,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt"
     },
     {
       "album": {
@@ -3756,7 +3792,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 255882,
       "name": "Foxes",
       "url": "https://open.spotify.com/track/3WLckRK4Skgl9kl7DYTxxU"
@@ -4145,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Grow From Here",
+        "url": "https://open.spotify.com/album/6gk5cHwxpIPUigm57kJTSp"
+      },
+      "artists": [
+        {
+          "name": "Vida Sunshyne",
+          "url": "https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Grow From Here",
+      "url": "https://open.spotify.com/track/0zd6yHNZihyxehzmlUF6FC"
+    },
+    {
+      "album": {
         "name": "Grown On Me",
         "url": "https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH"
       },
@@ -4272,6 +4326,28 @@
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
+    },
+    {
+      "album": {
+        "name": "Haraka \"\u062d\u0631\u0643\u0629\"",
+        "url": "https://open.spotify.com/album/5vMEcdEtAvgDvOOnvLk1qV"
+      },
+      "artists": [
+        {
+          "name": "moktar",
+          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+        },
+        {
+          "name": "Saad El Soghayar",
+          "url": "https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301297,
+      "name": "Haraka \"\u062d\u0631\u0643\u0629\"",
+      "url": "https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2"
     },
     {
       "album": {
@@ -5314,7 +5390,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 283620,
       "name": "Let Yourself Go!",
       "url": "https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1"
@@ -5695,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Loves Love",
+        "url": "https://open.spotify.com/album/7xkfQzYFzlUcIADSNcHwsS"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325131,
+      "name": "Loves Love",
+      "url": "https://open.spotify.com/track/6qvNXEyOlTbJz6P2Vz20Cc"
+    },
+    {
+      "album": {
         "name": "Suzuka - EP",
         "url": "https://open.spotify.com/album/7prXyrzPr3WsWDe6LX5hUt"
       },
@@ -5710,6 +5804,24 @@
       "duration_ms": 304420,
       "name": "Lovin U",
       "url": "https://open.spotify.com/track/09gf71zsdEFlkgrTWkiVWM"
+    },
+    {
+      "album": {
+        "name": "Luna EP",
+        "url": "https://open.spotify.com/album/0DET8MfvJCKUs6l1ICACFG"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lazic",
+          "url": "https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259687,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2IA6VXnHBPEGFwSLQ3nDHo"
     },
     {
       "album": {
@@ -6580,7 +6692,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 140826,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq"
@@ -7094,7 +7206,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 403526,
       "name": "Pleasure - Original Vox Mix",
       "url": "https://open.spotify.com/track/0wGZ0gl1g04dAYFB0IeTji"
@@ -8649,6 +8761,32 @@
     },
     {
       "album": {
+        "name": "stayinit",
+        "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274925,
+      "name": "stayinit",
+      "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
       },
@@ -9404,7 +9542,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 228517,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/38XW0c5WhRj5a7dXMW6Pwk"
@@ -10818,7 +10956,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 341151,
       "name": "ZiGGY (DJ-Kicks)",
       "url": "https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e"

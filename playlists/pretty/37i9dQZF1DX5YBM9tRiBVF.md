@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [More](https://open.spotify.com/track/5EfBx6DlAHr3SyZEgAZXG4) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 5:07 |
+| 1 | [More](https://open.spotify.com/track/69XbXl9UYqVNVQf0J7UmQu) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo) | 5:07 |
 | 2 | [Blue](https://open.spotify.com/track/41CxUQUIoqnSI1G0tqXYqE) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Blue](https://open.spotify.com/album/5vnFIPnjUnNDSc8s5Ou5Az) | 4:07 |
 | 3 | [I Wish I Was The Moon](https://open.spotify.com/track/0x2s2YyudOmRu4Y0TwX8fY) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [I Wish I Was The Moon](https://open.spotify.com/album/6y8IS2k08fSN7uCgCzhY8D) | 3:03 |
 | 4 | [cut the bs \(runnin'\)](https://open.spotify.com/track/3ySAK5jbtzU9xY9TDAPfkz) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp), [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [cut the bs \(runnin'\)](https://open.spotify.com/album/5lZeKlw6V0g6vYVwVQ5vFo) | 2:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 39 | [Ma Place](https://open.spotify.com/track/63ssPpPDPiwnCObV9LaN4P) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Ma Place](https://open.spotify.com/album/1DzHMon7ERaE23QVJOP7qK) | 2:41 |
 | 40 | [Ceci n'est pas un cliché](https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Topical Dancer](https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz) | 3:46 |
 
-Snapshot ID: `MCw5NjM1MDA3Mjg4ZDM0Y2Y2NDJiM2M5YWZkODI1YzZkOTVmMzY3NDc3`
+Snapshot ID: `MCw4NGE2YmQ5NjA0Y2M4Y2YzMDZiMTlkMGVjYjdhMzQwNTJkY2IwNWJj`

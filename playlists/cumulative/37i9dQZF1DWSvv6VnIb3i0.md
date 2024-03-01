@@ -4,7 +4,7 @@
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-64 songs - 4 hr 7 min
+65 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Désolé pour hier soir](https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:39 | 2023-03-06 |  |
 | [Elle me contrôle](https://open.spotify.com/track/27kV1kvGUacbiRpf1VsQWe) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Lady Sweety](https://open.spotify.com/artist/0PAaEZtd88SWagBZrbRZT4) | [M\. Pokora](https://open.spotify.com/album/6JidpQNfJzopxZjqbak9TG) | 3:46 | 2023-03-06 |  |
 | [Elle me contrôle](https://open.spotify.com/track/38k9TH0Icrc4L68iICmWgd) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Sweety](https://open.spotify.com/artist/2rjn0MFHWBb46JOGo1yasB) | [Musique de lovers](https://open.spotify.com/album/1GbnWa1Jvt4p8FYRLZ1FKQ) | 3:46 | 2023-03-06 | 2023-11-16 |
-| [En apesanteur \- Single Version](https://open.spotify.com/track/51fnKEBEOLUxSoOad4jcA9) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Soirée années 2000](https://open.spotify.com/album/5903eFYEpguXwflIPO8DcX) | 3:22 | 2024-01-31 |  |
+| [En apesanteur \- Single Version](https://open.spotify.com/track/51fnKEBEOLUxSoOad4jcA9) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Soirée années 2000](https://open.spotify.com/album/5903eFYEpguXwflIPO8DcX) | 3:22 | 2024-01-31 | 2024-03-01 |
+| [En apesanteur \- Single Version](https://open.spotify.com/track/07VyIZXNfVS13AbebQDQWy) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Calogero](https://open.spotify.com/album/2azuPARdPpBStQS3JqF2r0) | 3:23 | 2024-01-31 |  |
 | [Entre nous](https://open.spotify.com/track/6j3MV6TuybbmOKwId3DEEG) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Entre Nous](https://open.spotify.com/album/5MJA6xu4PFwVEHP50VQ8DX) | 3:21 | 2023-03-06 |  |
 | [Et c'est parti..\. \(feat\. Smartzee\)](https://open.spotify.com/track/1zwJikF2MYUwqcVnqtGxVj) | [Nâdiya](https://open.spotify.com/artist/51Ynjynt1xi7KBXCXHNdyN), [Smartzee](https://open.spotify.com/artist/5WFBTlaQisdYnCZyezTrII) | [16/9](https://open.spotify.com/album/53CZGpxCw6x0Ug2CYBAp4n) | 3:50 | 2023-03-06 |  |
 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 | 2023-03-06 |  |

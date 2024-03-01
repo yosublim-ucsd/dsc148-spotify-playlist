@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 303080,
+  "num_followers": 303122,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTRlOGQxOGI1NWIyZmZiMTA5OTA5M2I3ZmZkOTAyOWFiOTFjZGQx",
+  "snapshot_id": "MCxmYzg5YjYzNDUyMjYwOWIxZmM1ZTg1MGY3NTBlMWI3NTI1NWYxOGRi",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Euphories",
-        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "What Are You So Afraid Of",
-      "url": "https://open.spotify.com/track/3KSJSi4vJedNzN32HpzGBM"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 327266,
       "name": "Lean Into Life",
       "url": "https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "What Are You So Afraid Of",
+      "url": "https://open.spotify.com/track/3KSJSi4vJedNzN32HpzGBM"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191072,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1137,58 +1137,6 @@
       "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Gloomy Girl",
-        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Gloomy Girl",
-      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Cellar",
-        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 245998,
-      "name": "Cellar",
-      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
-      },
-      "artists": [
-        {
-          "name": "trentem\u00f8ller",
-          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
-        },
-        {
-          "name": "Lisbet Fritze",
-          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
-        }
-      ],
-      "duration_ms": 259642,
-      "name": "No More Kissing In The Rain",
-      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
       "added_at": "2024-02-21 11:35:46",
       "album": {
         "name": "everything to die for",
@@ -1221,6 +1169,22 @@
       "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Cellar",
+        "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 245998,
+      "name": "Cellar",
+      "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
       "added_at": "2023-09-29 10:51:04",
       "album": {
         "name": "Lost In A Rush Of Emptiness",
@@ -1235,6 +1199,42 @@
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Gloomy Girl",
+        "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Gloomy Girl",
+      "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
+      },
+      "artists": [
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        },
+        {
+          "name": "Lisbet Fritze",
+          "url": "https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod"
+        }
+      ],
+      "duration_ms": 259642,
+      "name": "No More Kissing In The Rain",
+      "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
     },
     {
       "added_at": "2023-07-21 10:37:28",

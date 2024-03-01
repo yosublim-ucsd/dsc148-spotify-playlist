@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 214069,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w"
@@ -4607,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "I'd Love To Tell You",
+        "url": "https://open.spotify.com/album/6C4G6hclJ1guDNuD0YghrL"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158504,
+      "name": "I'd Love To Tell You",
+      "url": "https://open.spotify.com/track/3tqsyPmhM3yARbZARFTRKE"
+    },
+    {
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/2cFaOuix1b5Qh2ySuqy14Y"
       },
@@ -6880,7 +6898,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 170281,
       "name": "On the Rocks",
       "url": "https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h"
@@ -7704,6 +7722,24 @@
       "duration_ms": 178478,
       "name": "Say You Want Me",
       "url": "https://open.spotify.com/track/2xR9fWmh2iFbai7Lv7EQpr"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU"
     },
     {
       "album": {

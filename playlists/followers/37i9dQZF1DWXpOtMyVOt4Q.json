@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 256585,
+  "2024-03-01": 256624,
   "date_first_scraped": "2021-12-21",
   "description": "Chill tunes to soundtrack your gaming session.",
   "name": "Chill Gaming",
@@ -1763,6 +1763,24 @@
     {
       "album": {
         "name": "i watch the moon",
+        "url": "https://open.spotify.com/album/2bRBvE41VZfSaYjuFTczHX"
+      },
+      "artists": [
+        {
+          "name": "Flemish Bond",
+          "url": "https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "i watch the moon",
+      "url": "https://open.spotify.com/track/1kMwxNvErwIquLxKGdSE3r"
+    },
+    {
+      "album": {
+        "name": "i watch the moon",
         "url": "https://open.spotify.com/album/71mInbV0RMuAfEFznRyW8U"
       },
       "artists": [
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 105000,
       "name": "No Time Left",
       "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"

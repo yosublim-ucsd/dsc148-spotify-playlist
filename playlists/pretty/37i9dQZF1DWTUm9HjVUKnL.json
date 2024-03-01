@@ -1,13 +1,29 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 219071,
+  "num_followers": 219068,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWQzYWQ3ZTcwN2NkOGU3YmM4MWUxOTFhYTcwYmM4NmI4Y2RlMzM2",
+  "snapshot_id": "MCxmODQ4YWQwZGMyMzE3ZmFmNTFiNDE3N2JiZjc2ODliMWY5NWEzYjUz",
   "tracks": [
+    {
+      "added_at": "2024-02-29 14:30:32",
+      "album": {
+        "name": "I Hate You (2024) - Spotify Singles",
+        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "I Hate You (2024) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
+    },
     {
       "added_at": "2024-02-15 05:00:00",
       "album": {

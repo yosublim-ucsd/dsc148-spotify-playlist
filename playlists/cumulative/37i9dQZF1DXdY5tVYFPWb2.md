@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-790 songs - 2 day 3 hr 59 min
+791 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/3h17LvrGeu5QGVd1wC6lGX) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/4wiMHuITVjOFHhJPS7vtFv) | 3:38 | 2022-11-22 | 2022-11-30 |
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/6EBmpXG6b4RQU0I9OyBg4u) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/38qm33jlDmm0RPJ1PjO9M3) | 3:38 | 2022-11-22 | 2022-11-24 |
 | [Goodbye day](https://open.spotify.com/track/0MINGnzug0eQpY7IUxycYe) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [FREEDOM](https://open.spotify.com/album/0AyXD1nuTnpsKBlf3CCikN) | 3:37 | 2023-05-09 | 2023-05-17 |
-| [Groovy night](https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [Groovy night](https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e) | 4:28 | 2024-01-30 |  |
+| [Groovy night](https://open.spotify.com/track/6xj8bD4v3Z4U3SKbCs9Ekx) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [Groovy night](https://open.spotify.com/album/5TaPiVV8ESfPGkTn4gZy7e) | 4:28 | 2024-01-30 | 2024-03-01 |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-24 | 2023-11-11 |
 | [Harima Mukokyu Shokogun](https://open.spotify.com/track/5HkVN4yB2mxXYhKgZkjyxR) | [Thitta Henry](https://open.spotify.com/artist/1m5QjIs80kL67XCMc9eNMs) | [Harima Mukokyu Shokogun](https://open.spotify.com/album/0a3N59jEhslrwl0jchiwHu) | 3:07 | 2022-12-13 | 2023-01-11 |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2023-11-10 | 2023-12-14 |
@@ -626,6 +626,7 @@
 | [シンプル・ラブ feat\. 佐々木詩織](https://open.spotify.com/track/2mudoDEVfAtKFV4VNddaCC) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [佐々木詩織](https://open.spotify.com/artist/0Fs6az4macUnUxwgSvHsEI) | [シンプル・ラブ feat\. 佐々木詩織](https://open.spotify.com/album/0N8IGVQ6OvHYamqAGezZ3l) | 4:12 | 2023-04-04 | 2023-04-26 |
 | [スウィートインスピレーション \- feat\. 仮谷せいら](https://open.spotify.com/track/7sLGRcKrp4km7tCeQUgaWJ) | [アンニュイ・ホリデイ](https://open.spotify.com/artist/4bvnpQWFoBrNWySwtF8b3b), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [スウィートインスピレーション \(feat\. 仮谷せいら\)](https://open.spotify.com/album/0fpUZbFCy7eyvKQcycy8Uf) | 4:59 | 2022-11-15 | 2022-11-23 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-24 | 2022-07-27 |
+| [スターダスト](https://open.spotify.com/track/0OzrEXUFsOMbQtoIm39nj6) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [スターダスト](https://open.spotify.com/album/5T45dqv3Icqw1wLx3Ah9YV) | 3:30 | 2024-02-29 |  |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2023-01-17 |  |
 | [ズラかれ](https://open.spotify.com/track/2ojNegUZsjmLDC4g4TG3tv) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [City Poop](https://open.spotify.com/album/7tOhv2taU7PYphcUWE5kuO) | 3:04 | 2022-05-24 | 2022-07-28 |
 | [ソーダポップ](https://open.spotify.com/track/7JyF36LuFCh0xDyZEVbuY9) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [ソーダポップ](https://open.spotify.com/album/2ogIHpYUWjpnvzMvjxqOJG) | 2:55 | 2022-07-12 | 2022-07-20 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 185945,
+  "2024-03-01": 186009,
   "date_first_scraped": "2022-12-31",
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
   "name": "This Is Mot\u00f6rhead",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 193294,
       "name": "Climber (Demo)",
       "url": "https://open.spotify.com/track/65QBqRSfT0UH5YZPvJuNl7"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"

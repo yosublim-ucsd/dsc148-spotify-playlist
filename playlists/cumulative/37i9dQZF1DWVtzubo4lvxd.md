@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-252 songs - 9 hr 44 min
+253 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Laid Back](https://open.spotify.com/track/4obY44lU6QLfMvmVauZBsy) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [Laid Back](https://open.spotify.com/album/34LcvJd6aCAO5b5ElMWSrc) | 2:30 | 2022-04-15 | 2022-07-29 |
 | [Last Minute](https://open.spotify.com/track/0ajivWGaEclxYXd9OmTrFJ) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Last Minute](https://open.spotify.com/album/7BJlD7rEWrN0HpmK5F7CcC) | 1:36 | 2022-04-15 | 2022-07-29 |
 | [Leave My Home](https://open.spotify.com/track/3XnhFQRvNH5LyR9fBKjjh7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/17StXxDFzxjhcuCLM1Ih4b) | 3:41 | 2022-04-15 | 2022-07-28 |
+| [Leave My Home](https://open.spotify.com/track/7kMKUH92AiChpAN3dxLY5c) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/71y9TvXQwd3YN2UKH8FhaY) | 3:41 | 2022-04-15 |  |
 | [Leave My Home](https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP) | 3:41 | 2022-04-15 | 2024-02-14 |
 | [Like Silk](https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90), [Gudo Rewinds](https://open.spotify.com/artist/5t9Tf04Sbxfmj7vab2Z4Om) | [B\-Sides](https://open.spotify.com/album/2RMqKPkF3VYUlsUT5nl2AJ) | 2:04 | 2022-04-15 | 2024-02-11 |
 | [Lime](https://open.spotify.com/track/2oCzA1QslvSVEoBoV2Gmjp) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 2:55 | 2022-04-15 | 2022-07-29 |
@@ -171,7 +172,7 @@
 | [Rolling Papers](https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0) | 2:00 | 2022-04-15 | 2023-08-27 |
 | [Rolling Papers](https://open.spotify.com/track/7xMon6pxYKoVIgHdsTUGYr) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/31oMm25qyo4tG0l0Yzwz7Q) | 2:00 | 2022-04-15 |  |
 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 | 2022-04-15 | 2022-07-29 |
-| [Rosewood](https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Rosewood](https://open.spotify.com/album/2ezZOU3YpToebih7Rvzx6s) | 2:42 | 2022-04-15 |  |
+| [Rosewood](https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Rosewood](https://open.spotify.com/album/2ezZOU3YpToebih7Rvzx6s) | 2:42 | 2022-04-15 | 2024-03-01 |
 | [sand castles](https://open.spotify.com/track/5rBQIzDduJsmDbZ97gqWEW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/62MVvI7ZbnVde4NDB6mFhL) | 2:27 | 2022-04-15 | 2022-11-19 |
 | [sand castles](https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx) | 2:27 | 2022-04-15 |  |
 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 | 2022-04-15 |  |

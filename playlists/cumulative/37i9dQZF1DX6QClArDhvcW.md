@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-504 songs - 19 hr 5 min
+508 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [HouseShow](https://open.spotify.com/track/4MFkO5ggtN2Gf8qpFQd7sb) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT), [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER) | [HouseShow](https://open.spotify.com/album/6VcB7xJJKnkyeVDcl6yA9Y) | 1:58 | 2022-05-27 | 2022-08-19 |
 | [Howzit?](https://open.spotify.com/track/395eVmBVCjR3TY8eUrOVl4) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Howzit?](https://open.spotify.com/album/4pXcxfjsiBm0ZU8t5kFF9t) | 2:36 | 2023-09-08 |  |
 | [Hush](https://open.spotify.com/track/4AAxteXXwBqVchz26932uB) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Hush](https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay) | 2:24 | 2023-09-29 |  |
-| [Hush](https://open.spotify.com/track/0oVdYE1SsrvUKvtzemXJQ9) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:19 | 2023-02-24 |  |
+| [Hush](https://open.spotify.com/track/0oVdYE1SsrvUKvtzemXJQ9) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Puddles](https://open.spotify.com/album/682fPsl24jKYotLRveQUb7) | 2:19 | 2023-02-24 | 2024-03-01 |
 | [Hustle](https://open.spotify.com/track/2ItT6Kt0j6lsCQghaB8748) | [Ginnypig](https://open.spotify.com/artist/72bmvqzLz3X1XDJ0eZh61F) | [Hustle](https://open.spotify.com/album/36RbOMJiubjof1uj03ZwkG) | 2:24 | 2022-05-20 |  |
 | [i cannot believe my eyes](https://open.spotify.com/track/64ag5onD9UYygeni6UAIs6) | [skipweath](https://open.spotify.com/artist/74eByJRUsX1z9H2SvNgkfa) | [i cannot believe my eyes](https://open.spotify.com/album/7EQHbsS3gYzm223QQETZUn) | 2:33 | 2022-05-20 | 2022-09-17 |
 | [i moved yesterday](https://open.spotify.com/track/3tfgAy6ByGnENx1ioCvY8N) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [chio](https://open.spotify.com/artist/62yapIXWEg0Wx5zvYM4jLU) | [i moved yesterday](https://open.spotify.com/album/0apurRD8BbhrffPPGRDqjo) | 2:08 | 2022-05-20 |  |
@@ -256,6 +256,7 @@
 | [Maple](https://open.spotify.com/track/35JoXVdT9UjxPrrnralvTL) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Maple](https://open.spotify.com/album/05g58vC8XlX2niuDkz3TTq) | 1:25 | 2023-04-11 |  |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2022-05-20 | 2023-08-19 |
 | [Marathon](https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Marathon](https://open.spotify.com/album/23wibxrF7lAmBOCf5T6SOe) | 3:43 | 2023-09-22 | 2023-10-20 |
+| [marzipan shuffle](https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [marzipan shuffle](https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF) | 2:36 | 2024-03-01 |  |
 | [maskros](https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [maskros](https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM) | 3:03 | 2023-09-08 |  |
 | [matcha latte morning](https://open.spotify.com/track/6Y3x4QPZnE2oIOXnrkbkaD) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [matcha latte morning](https://open.spotify.com/album/6h6l5ezRCtPqcodHMCrDI3) | 2:06 | 2023-03-24 |  |
 | [Meadows](https://open.spotify.com/track/1JfFZNt2JY3hslCny4Nlnv) | [Groovetide](https://open.spotify.com/artist/1WPcKTIAEsxAnyAsfFWZE7) | [Meadows](https://open.spotify.com/album/2SsXBo5fCM1mpBrJfw1oWO) | 2:43 | 2023-01-13 |  |
@@ -354,6 +355,7 @@
 | [Riverside](https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Riverside](https://open.spotify.com/album/3w8j6o0sPdCDgUrYpLWYeZ) | 1:18 | 2022-05-20 | 2022-10-29 |
 | [Roads](https://open.spotify.com/track/08WS0U9E3nnBrDJ8gIjyI0) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Roads](https://open.spotify.com/album/7F96yKUVXqAIw0CCcFdCSp) | 2:05 | 2022-07-29 | 2022-09-09 |
 | [Roadtrip](https://open.spotify.com/track/7ANBtiZ4Kn8ELXsYI5AU6L) | [pnkcité](https://open.spotify.com/artist/1WJf7IlyrogjzPpGrINHHX), [meno](https://open.spotify.com/artist/3z4b0AED14N0xhEhW1nW10) | [Roadtrip](https://open.spotify.com/album/6RR6GzmS9NvnoH3COdpoeK) | 2:38 | 2023-01-20 | 2023-12-08 |
+| [rolling](https://open.spotify.com/track/6b0G1mrrgS9isDGFnd8yCd) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [rolling](https://open.spotify.com/album/0LMHOwkYVvz59LiHohbFtj) | 2:08 | 2024-03-01 |  |
 | [Romance](https://open.spotify.com/track/34KTQOmh4sANyx6QCpYaJg) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Romance](https://open.spotify.com/album/1JAaWsmBJkPF7pDS7nsUkt) | 1:59 | 2023-02-07 |  |
 | [Room Plant](https://open.spotify.com/track/7jyPQLKbfRIo2VOlr0Aepf) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Room Plant](https://open.spotify.com/album/7ISq9AgKctHdHPufspniwV) | 2:38 | 2022-05-20 | 2022-08-19 |
 | [Round and Round](https://open.spotify.com/track/3gYn7Jul0vLyATg45b5gcx) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Round and Round](https://open.spotify.com/album/1eQ9TkLrBoY5q0iFZJjc2L) | 2:17 | 2022-05-20 | 2023-08-30 |
@@ -397,6 +399,7 @@
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
 | [Spiralled](https://open.spotify.com/track/5B9WTReTZl8sY7f89lxlpq) | [Alf Bringström](https://open.spotify.com/artist/5pJjeqNUp7OHlqH3ocOO0K) | [Spiralled](https://open.spotify.com/album/7rDZ4eiOwrOAus161ojdRA) | 2:09 | 2023-06-09 |  |
 | [Spring Drinks](https://open.spotify.com/track/0La0wFhjcC4kHh6ZKVW8Ok) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Spring Drinks](https://open.spotify.com/album/3v4qgekRr64A3Haoq839rk) | 2:26 | 2023-07-17 |  |
+| [spring is coming](https://open.spotify.com/track/3S0NnkTIk3LbDoL8dUY1Tc) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [spring is coming](https://open.spotify.com/album/73luBiXIl3X7Gi3m1zskU7) | 3:12 | 2024-03-01 |  |
 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 | 2023-10-27 |  |
 | [Stratosphere](https://open.spotify.com/track/3LRo7CKUEhIC2oz2KDSGy1) | [Smiloh](https://open.spotify.com/artist/08Dx619VWxDcj0jTxrfHuT) | [Sunset](https://open.spotify.com/album/0JqlvMCAyTFr1Gw7YMF9dw) | 2:00 | 2023-03-24 |  |
 | [Strawberry Eyes](https://open.spotify.com/track/1qNXTnfYNVIoViIzfo5xMY) | [Shou Shou RAP](https://open.spotify.com/artist/6SfmuSNtjm5IDu55cm924s) | [Strawberry Eyes](https://open.spotify.com/album/6feM7FY0UodsfyOg9P6xd5) | 2:24 | 2023-08-18 |  |
@@ -430,6 +433,7 @@
 | [Take It or Leave It](https://open.spotify.com/track/7tAoeaOoVEizKJ67Xln5jX) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Take It or Leave It](https://open.spotify.com/album/40BGwehnsepICk24hRi5tq) | 2:39 | 2022-07-29 | 2022-09-09 |
 | [Take\-Off](https://open.spotify.com/track/43cjyflvrThmrtUxb4AhGd) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Ferge](https://open.spotify.com/artist/0U1ooChssjTDk8BMTYEfHy) | [Take\-Off](https://open.spotify.com/album/1U0n6WwRKpDDqhrGiRJi4A) | 1:45 | 2023-06-09 | 2023-11-17 |
 | [Tall Grass](https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Tall Grass](https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn) | 2:06 | 2022-05-20 |  |
+| [Tea](https://open.spotify.com/track/2a2Cu4OIJIhmlVCaSGkngS) | [Osian Lewis](https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs) | [Tea](https://open.spotify.com/album/2v9Ft3rcbvfKsnt8N0kSsK) | 2:10 | 2024-03-01 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |
 | [Tender Times](https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Tender Times](https://open.spotify.com/album/1ej8XQjJ9AxClxwCqyIZZp) | 2:41 | 2024-02-09 |  |
 | [That was Almost Real](https://open.spotify.com/track/4SDUbFWAMTFvrM4ze8HSo2) | [JIM](https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ) | [Dream](https://open.spotify.com/album/3yJjpqy1CDNTFSZwSyiRII) | 2:22 | 2023-06-09 | 2023-12-22 |

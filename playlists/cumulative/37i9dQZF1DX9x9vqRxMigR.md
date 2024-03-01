@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-656 songs - 1 day 18 hr 49 min
+657 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Nutshimit](https://open.spotify.com/track/5wM1FyGMbJ5Mkuy3ouo03g) | [Bon Débarras](https://open.spotify.com/artist/1U0fRRuyOoLOSDJdmI9OQf), [Joséphine Bacon](https://open.spotify.com/artist/1kxTMxIJ00x29Xb0UVA6QS) | [Repères](https://open.spotify.com/album/4U9j5in3e1aPLgfEmCYzeJ) | 5:15 | 2023-01-24 | 2024-01-04 |
 | [O amor te dá](https://open.spotify.com/track/1Uyg8kS8raUmS5tDYRRcsP) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Fragma](https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd) | 4:07 | 2021-02-23 | 2022-04-26 |
 | [O Death](https://open.spotify.com/track/0hBcnTQnRdxx6cutL5NCTY) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Basset EP](https://open.spotify.com/album/2gmdibaeAbb8ePc8elPKQF) | 4:03 | 2022-04-25 | 2023-01-25 |
+| [O Land](https://open.spotify.com/track/0nXcrvLHgPz2CrvBAjDqJJ) | [Phyllis Sinclair](https://open.spotify.com/artist/55KT2XpDNQJxMGmjbH5Mi8) | [Ghost Bones](https://open.spotify.com/album/2AHx2KlPX3QqcqcAH2y515) | 4:17 | 2024-02-15 |  |
 | [Ocean Eyes](https://open.spotify.com/track/2unzrbPY6eI23LJmCFtjiE) | [The Burney Sisters](https://open.spotify.com/artist/7f0YHd5aLgWGySiOnJaTPE) | [Ocean Eyes](https://open.spotify.com/album/1iGQgZ8s2jgQ8k3kGdS5eh) | 2:56 | 2023-01-24 | 2024-01-04 |
 | [Odana](https://open.spotify.com/track/2VYAndAi9YAFDutEeL4GoD) | [Mali Obomsawin](https://open.spotify.com/artist/4MQzIvdXOAdlGvBM2KKqp5) | [Sweet Tooth](https://open.spotify.com/album/3GwsljhQjuXixPXxDdRjkN) | 4:15 | 2023-01-24 | 2024-01-04 |
 | [Oh My Love](https://open.spotify.com/track/5IPMhQn9NmIMSRc9sQOkGK) | [The Small Glories](https://open.spotify.com/artist/6WFEkBDOFMbSLKZ1p6VJci) | [Assiniboine & The Red](https://open.spotify.com/album/1jicdWqK5ioetjr84Me8f1) | 3:20 | 2023-01-24 | 2024-01-04 |
@@ -557,7 +558,7 @@
 | [The Real Moon](https://open.spotify.com/track/5scymjbHZIZjUHdK2EHjay) | [Jennah Barry](https://open.spotify.com/artist/4mtHSX9bk35K4sQg8HAK6n) | [Holiday](https://open.spotify.com/album/6kAoPIXf5SsXBO7nyHNNu3) | 2:58 | 2021-02-23 | 2022-04-26 |
 | [The Ridge](https://open.spotify.com/track/3d158zti49Mvb0GMHUJsRW) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [The Ridge](https://open.spotify.com/album/0Khj7wOoFouCLBiZqZmu6i) | 5:06 | 2022-04-25 | 2023-01-25 |
 | [The Runner](https://open.spotify.com/track/5tb43sD7EAxbUCV2vuCMKG) | [Anna Smyrk](https://open.spotify.com/artist/646EQaPAp3sJOgg5QjEFAm) | [The Runner](https://open.spotify.com/album/4EAiH6dKII38S4tBUYHNMP) | 2:56 | 2024-01-03 |  |
-| [The Seventh Fire \- The Crossroad](https://open.spotify.com/track/59sA5IUXsjp7p070F4KdVX) | [Kim Moberg](https://open.spotify.com/artist/5pl1qse3bMrAXeA1kcM7Fl) | [The Seven Fires Prophecy Suite for Humanity](https://open.spotify.com/album/0ZlZ9pmPczSGrp5rijbYGa) | 4:38 | 2024-01-03 |  |
+| [The Seventh Fire \- The Crossroad](https://open.spotify.com/track/59sA5IUXsjp7p070F4KdVX) | [Kim Moberg](https://open.spotify.com/artist/5pl1qse3bMrAXeA1kcM7Fl) | [The Seven Fires Prophecy Suite for Humanity](https://open.spotify.com/album/0ZlZ9pmPczSGrp5rijbYGa) | 4:38 | 2024-01-03 | 2024-03-01 |
 | [The Spark](https://open.spotify.com/track/0CQhaGjXrqgOfCaVzF4zqV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/5jPgTebUcZ6KyqNmYEhP07) | 3:59 | 2021-02-23 | 2022-04-26 |
 | [The Stars Over Kinvara](https://open.spotify.com/track/7o6Cz0DuGvE0bZRsWFRXbw) | [Declan O'Rourke](https://open.spotify.com/artist/08YnZ1u94kQ47JW7wVUume) | [The Stars Over Kinvara](https://open.spotify.com/album/46B01D10367i5wSYR9fgJj) | 3:55 | 2021-02-23 | 2022-04-26 |
 | [The Time We Need to Decide](https://open.spotify.com/track/3A29TqGAdjb9cfRdLRL033) | [The Ocelots](https://open.spotify.com/artist/62aOuuT7lqJXkmMJcH8w1C) | [The Time We Need to Decide](https://open.spotify.com/album/2M8WeljN3U95qsX5tUNbB6) | 3:45 | 2022-04-25 | 2023-01-25 |

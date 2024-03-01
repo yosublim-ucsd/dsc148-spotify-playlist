@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-296 songs - 15 hr 12 min
+297 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 | 2023-06-16 |  |
 | [Tomorrow](https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [Gangi](https://open.spotify.com/artist/5Z0vJqhdSkVLPD5BbmMf08), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Tomorrow](https://open.spotify.com/album/1tWxL1uLXtjjdlZSdcIii7) | 3:00 | 2022-07-29 | 2023-07-15 |
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-21 | 2023-11-11 |
+| [Vibration](https://open.spotify.com/track/3mVgxiEBvMmO0Rms2VwAzY) | [Matt Ice](https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Vibration](https://open.spotify.com/album/5mC8vxcYv2yqlvuPWM3kRT) | 3:23 | 2024-02-29 |  |
 | [Wait For The Drums](https://open.spotify.com/track/08rvT9AMPKZiMeKcBXHGsu) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [LUSSO](https://open.spotify.com/artist/6hOrbqntEsgBVm4YstRyVR) | [Wait For The Drums](https://open.spotify.com/album/4TAdJPRokTsSUesMJcLqDb) | 2:50 | 2023-10-24 |  |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2023-11-21 |  |
 | [Want My Love](https://open.spotify.com/track/5xJOVWiVKSx5tCrjkVIAEv) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Want My Love](https://open.spotify.com/album/2OVkH4EP3i35f0lQDmSAHt) | 2:56 | 2023-09-18 |  |

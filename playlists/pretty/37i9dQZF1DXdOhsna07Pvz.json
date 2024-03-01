@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 69773,
+  "num_followers": 69844,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGZkZTBhOWFkMzdhMjMxMTk3MjY4YTFkYjhhNDBkMTM5OWI3MjAx",
+  "snapshot_id": "MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bebadosamba",
-        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Timoneiro",
-      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Um Corpo no Mundo",
         "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 389253,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/1RJJN0Q4lAwh13t2keNEFK"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Bebadosamba",
+        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Timoneiro",
+      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Conversa Fiada",
+        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 196810,
+      "name": "Conversa Fiada",
+      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 300000,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Conversa Fiada",
-        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 196810,
-      "name": "Conversa Fiada",
-      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Cad\u00ea Tereza",
-      "url": "https://open.spotify.com/track/2ZM9Ee68hmUuztCIdYVetd"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Pochete",
         "url": "https://open.spotify.com/album/3WLyLlxq0JJMAeiGPpge1S"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 235712,
       "name": "Pochete",
       "url": "https://open.spotify.com/track/3VOwZvqUNBLXsvIqxmjFJ2"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Cad\u00ea Tereza",
+      "url": "https://open.spotify.com/track/2ZM9Ee68hmUuztCIdYVetd"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Pequim",
         "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 198897,
       "name": "Pequim",
       "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",

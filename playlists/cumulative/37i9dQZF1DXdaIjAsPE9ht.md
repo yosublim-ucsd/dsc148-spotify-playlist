@@ -4,7 +4,7 @@
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-96 songs - 3 hr 40 min
+97 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Deep In Your Eyes](https://open.spotify.com/track/23m2DYLcVjo9G0V88VA4Yy) | [Bert](https://open.spotify.com/artist/3Zi91vuWAU6SUwcKDf8zDq) | [Lonely Days](https://open.spotify.com/album/1WWPSkbzJtZXYftyWfqQjS) | 2:12 | 2023-10-27 |  |
 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 | 2023-10-27 |  |
 | [Distance](https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Philip Somber](https://open.spotify.com/artist/3xJD9x3Dw6g4g5naFYe0qi) | [Forest Of Dreams](https://open.spotify.com/album/7GubKoMp9Lr1XqEtpspcZI) | 3:05 | 2023-10-27 |  |
+| [dozen](https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [dozen](https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw) | 2:02 | 2024-03-01 |  |
 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 | 2023-10-27 |  |
 | [dreary](https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae) | [Gnavis](https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp) | [diary 2018](https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA) | 2:04 | 2023-10-27 | 2023-12-14 |
 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 | 2023-10-27 |  |

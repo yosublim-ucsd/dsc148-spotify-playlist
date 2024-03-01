@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-258 songs - 16 hr 24 min
+259 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fusion](https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Rosa](https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU) | 5:07 | 2022-05-13 | 2023-08-25 |
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-05-13 |  |
 | [Goin' Home](https://open.spotify.com/track/1hvG8cR9V0XczIkL4SmuzN) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba](https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28) | 5:41 | 2022-05-13 | 2022-07-29 |
-| [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 | 2022-06-28 |  |
+| [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 | 2022-06-28 | 2024-03-01 |
 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 | 2022-06-28 | 2023-11-23 |
 | [Half The Perfect World](https://open.spotify.com/track/1kq4ocVnCIxl1ZwXrlPq2c) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux](https://open.spotify.com/album/1TRQHKr7uWu387QasBT7S5) | 4:22 | 2022-11-10 | 2022-11-12 |
 | [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-05-13 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [I didn't know what time it was](https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 4:10 | 2023-06-13 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 | 2022-05-13 |  |
 | [I Lead With My Heart](https://open.spotify.com/track/2BP8KIRvEvjcIeS8YwiE0F) | [The Brehms](https://open.spotify.com/artist/6MruOb7or9JyVL2MSkVlWQ) | [I Lead With My Heart](https://open.spotify.com/album/15zZ5BOFxosE8twXhNIOyq) | 3:59 | 2023-06-13 | 2023-12-17 |
+| [I Lead With My Heart](https://open.spotify.com/track/6FmnvOmaUvyfQXlp2H8jdL) | [The Brehms](https://open.spotify.com/artist/6MruOb7or9JyVL2MSkVlWQ) | [I Lead With My Heart](https://open.spotify.com/album/6uGlBzzK3Ms8Htqk4Wnnun) | 3:59 | 2024-02-23 |  |
 | [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-01-26 |  |
 | [I Mean To Say](https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [I Mean To Say](https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8) | 3:37 | 2023-12-22 |  |
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-05-13 |  |

@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Coca Puma
+> Il meglio dell'R&B italiano\. Cover: AINÈ
 
-479 songs - 23 hr 46 min
+482 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,8 @@
 | [fantasia](https://open.spotify.com/track/0yN25EpN0006BUnUEdO01L) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [fantasia](https://open.spotify.com/album/5kPW3P97lIDEzoajnkRV3P) | 3:15 | 2024-02-15 |  |
 | [Fantasma](https://open.spotify.com/track/5DTlezILqdaiyQmTyahTrk) | [Ale](https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX) | [Fantasma](https://open.spotify.com/album/4hOe683WF5YBF1S90jWQ5i) | 2:30 | 2024-02-15 |  |
 | [Fantasma](https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Fantasma](https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6) | 3:05 | 2022-05-26 | 2022-07-15 |
+| [Fatti d'aria](https://open.spotify.com/track/20iatI2WaswUmLlrzXw6sT) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6) | [Fatti d'aria](https://open.spotify.com/album/7fpugtPulAjH9kMEwmwixL) | 2:41 | 2024-02-29 |  |
+| [FATTI MALE](https://open.spotify.com/track/49MxfE9IRattxfhQ1YRchL) | [Etra](https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF) | [FATTI MALE](https://open.spotify.com/album/14Qq14QzGl9cEJHEPxM0T4) | 2:47 | 2024-02-29 |  |
 | [Favole](https://open.spotify.com/track/6x0zZolR37lU4nupnEfOJ0) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Favole](https://open.spotify.com/album/3aozojEXJ4fzpRBSgxwLiA) | 3:13 | 2024-02-22 |  |
 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 | 2023-03-23 | 2023-06-30 |
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 | 2022-07-29 |
@@ -330,7 +332,7 @@
 | [parole dette male](https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [parole dette male](https://open.spotify.com/album/2xfmbz3t4vbIQITzKJrmXd) | 3:06 | 2023-02-09 | 2023-09-15 |
 | [Pas pour toi](https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Pas pour toi](https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2) | 3:19 | 2022-06-30 | 2022-07-29 |
 | [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 | 2022-09-16 |
-| [Paura](https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Raffaele Sperati](https://open.spotify.com/artist/7MuokJ3qy2kSdX4WLGNKEW) | [Paura](https://open.spotify.com/album/5bJsrcAEowEmZ9Od83S9Cp) | 3:14 | 2022-07-17 |  |
+| [Paura](https://open.spotify.com/track/4j3Z9XCFxx24lj4v8Dzbea) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [Raffaele Sperati](https://open.spotify.com/artist/7MuokJ3qy2kSdX4WLGNKEW) | [Paura](https://open.spotify.com/album/5bJsrcAEowEmZ9Od83S9Cp) | 3:14 | 2022-07-17 | 2024-03-01 |
 | [Perdermi](https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Perdermi](https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1) | 2:57 | 2023-01-19 | 2023-03-31 |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-05-26 | 2023-04-28 |
 | [Pesca Noche](https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Ganoona](https://open.spotify.com/artist/5jlr1VBi2pwgLmexZIcQo7) | [Pesca Noche](https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206) | 3:03 | 2022-05-05 | 2022-07-15 |
@@ -379,6 +381,7 @@
 | [Sakira](https://open.spotify.com/track/7MxSR9qAAALy5ewin0QIdx) | [RAFFAELLI](https://open.spotify.com/artist/2I3PBscT1ZzrreQykk2A7R) | [Sakira](https://open.spotify.com/album/5svGHIiGpLTYtM6lfvqdKo) | 2:19 | 2023-11-16 | 2024-02-02 |
 | [Salvami](https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO) | [Yorker](https://open.spotify.com/artist/1DAM0oVo9LsvwegJRT6vI1), [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA) | [Una](https://open.spotify.com/album/79rdrnA3UclScuwb84ftLX) | 3:18 | 2022-07-14 | 2022-09-23 |
 | [salvare](https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [salvare](https://open.spotify.com/album/2YjaCfTIJi5ehsSPOIflxu) | 3:04 | 2022-09-22 | 2024-02-23 |
+| [Scappare \- Giugno](https://open.spotify.com/track/7ntdqyQyuyam0Q6xD4GGVe) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Scappare \- Giugno](https://open.spotify.com/album/68Pak8YhgqY50x8o6YJhuZ) | 2:46 | 2024-02-29 |  |
 | [Scarico](https://open.spotify.com/track/530IV2MJ20lxMvcwdg16uy) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Scarico](https://open.spotify.com/album/0DnCrCI9lCuKPrabhCgAxt) | 2:47 | 2023-04-06 | 2023-06-16 |
 | [Schiena](https://open.spotify.com/track/67VeNOM3isWCI8zGu949BD) | [Limo](https://open.spotify.com/artist/0jF3fDGxLXAQtrSDwzqdsa) | [Schiena](https://open.spotify.com/album/6u129fkm3vUPwOje9CIjP6) | 2:14 | 2023-03-30 | 2023-06-02 |
 | [SCINNE](https://open.spotify.com/track/6YXMopaQMquMzIp0QYTiLA) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SOLIDAGO](https://open.spotify.com/album/4krgtckMU7NY6UxCOqATyr) | 2:48 | 2023-01-12 | 2023-05-19 |
@@ -394,7 +397,7 @@
 | [Senza di me](https://open.spotify.com/track/7mBnEZdrqckJ6wQJtPm6hk) | [Gyuse](https://open.spotify.com/artist/6hj6eKlYId3xev1piRmEqr) | [Senza di me](https://open.spotify.com/album/2XoPsN6vqdB9Z8q1fijGEp) | 3:05 | 2023-09-14 | 2023-10-06 |
 | [Senza Te](https://open.spotify.com/track/1WBOwvRPgq6UqPTvXBHF4i) | [Auua](https://open.spotify.com/artist/2tnzSiqtkZbBZMshF406i9) | [Senza Te](https://open.spotify.com/album/3GmzaEJniZOLhoQCKoJYdP) | 2:51 | 2023-02-23 | 2023-05-12 |
 | [Senza te](https://open.spotify.com/track/0xaEoFkggmekGfQaTwuwk0) | [Claudiemme](https://open.spotify.com/artist/0rsPkjYrNx37GnqkIOeMPW) | [Senza te](https://open.spotify.com/album/3sRLsdqgQ2ewYQxlPI48nu) | 3:24 | 2022-05-05 | 2022-05-27 |
-| [Sere di seta](https://open.spotify.com/track/4HGgt8fZG3dNFk7XskuqZi) | [Isėne](https://open.spotify.com/artist/5Pnh1IokC2ujdi7qNOY0a4) | [Sere di seta](https://open.spotify.com/album/5QautQJY9d5M5IOUsdTKo6) | 3:18 | 2024-02-01 |  |
+| [Sere di seta](https://open.spotify.com/track/4HGgt8fZG3dNFk7XskuqZi) | [Isėne](https://open.spotify.com/artist/5Pnh1IokC2ujdi7qNOY0a4) | [Sere di seta](https://open.spotify.com/album/5QautQJY9d5M5IOUsdTKo6) | 3:18 | 2024-02-01 | 2024-03-01 |
 | [Sesto Senso](https://open.spotify.com/track/402WgUURAGH1QY4QXUPX9j) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Sesto Senso](https://open.spotify.com/album/4HpWgfWsraglBZqtbpdIbO) | 3:02 | 2022-11-24 | 2023-04-28 |
 | [Settembre](https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n) | [Cloud](https://open.spotify.com/artist/6dapSPLViSAWcyvccpRoCX) | [Settembre](https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC) | 2:38 | 2022-05-05 | 2022-07-29 |
 | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/track/3eQg7hoyTvnvH0yBbfnRqO) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SHIKORINA \(feat\. Sina Tekle\)](https://open.spotify.com/album/0kaKjVZXXqjLnIcBo5wxrG) | 2:03 | 2024-01-25 |  |
@@ -480,7 +483,7 @@
 | [Vivere](https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Vivere](https://open.spotify.com/album/6REfVvtABJIP3wVIvoyOEP) | 2:19 | 2023-09-28 | 2023-10-27 |
 | [Volevo Portarti Al Mare](https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Volevo Portarti Al Mare](https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV) | 3:17 | 2022-05-26 | 2023-04-14 |
 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 | 2023-06-15 | 2023-11-24 |
-| [VUOI DIRMI](https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [VUOI DIRMI](https://open.spotify.com/album/0b1qKcsDX2Y85mUoSkg2bh) | 3:02 | 2023-12-21 |  |
+| [VUOI DIRMI](https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [VUOI DIRMI](https://open.spotify.com/album/0b1qKcsDX2Y85mUoSkg2bh) | 3:02 | 2023-12-21 | 2024-03-01 |
 | [WHY U NAKED?](https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [WHY U NAKED?](https://open.spotify.com/album/6lzxkrJYYDItv1ASIKavBN) | 2:35 | 2022-10-27 | 2023-03-18 |
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 | 2022-11-11 |
 | [Yakuza](https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:43 | 2023-01-19 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : MDNS",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : YEAHRS",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 335696,
       "name": "A THOUSAND DREAMS AWAY",
       "url": "https://open.spotify.com/track/03VkCrbicuL4AMuOaO3e9p"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 201305,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW"
@@ -528,6 +528,24 @@
       "duration_ms": 305649,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/01jRRZ8ojker6VwHd75UZF"
+    },
+    {
+      "album": {
+        "name": "City Burns",
+        "url": "https://open.spotify.com/album/1tmS3vbx54sknEy8b8Z1Lt"
+      },
+      "artists": [
+        {
+          "name": "Parlor Snakes",
+          "url": "https://open.spotify.com/artist/3DZM5nb1bQ95thMQmFaWhG"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252615,
+      "name": "City Burns",
+      "url": "https://open.spotify.com/track/5rRhmnN2n7HO6j2PFFzdT0"
     },
     {
       "album": {
@@ -830,7 +848,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 187092,
       "name": "Full Speed Ahead",
       "url": "https://open.spotify.com/track/47Ze9JFgxEc0a9OS46D8X7"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 199852,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/4yXy1gffkPlOFDwmjqMVOi"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 256096,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
@@ -1068,10 +1086,28 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 253866,
       "name": "I Can't Be Yours",
       "url": "https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh"
+    },
+    {
+      "album": {
+        "name": "I Wish Myself To Be Happier",
+        "url": "https://open.spotify.com/album/2fCy7NJX4jcHE0XLzPOIrr"
+      },
+      "artists": [
+        {
+          "name": "Oakman",
+          "url": "https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135096,
+      "name": "I Wish Myself To Be Happier",
+      "url": "https://open.spotify.com/track/6fqORwQ9eGFYf9U96iXmBh"
     },
     {
       "album": {
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 231825,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/0h3K04iQP75lCuo6eWWgBc"
@@ -1201,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/6HnzYhHRAY1aUYwbNd8r6b"
+      },
+      "artists": [
+        {
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188918,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/7Mo2zhkWeVUb9ijJoITHNQ"
+    },
+    {
+      "album": {
         "name": "Joy Brings Me Down",
         "url": "https://open.spotify.com/album/3D4eXoW15Kti0ZkcY2WsEc"
       },
@@ -1270,6 +1324,24 @@
       "duration_ms": 222967,
       "name": "Knife Edge",
       "url": "https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV"
+    },
+    {
+      "album": {
+        "name": "Superspectives",
+        "url": "https://open.spotify.com/album/6OFWJChBYs4oF6f8V2V5Ow"
+      },
+      "artists": [
+        {
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Les gamins",
+      "url": "https://open.spotify.com/track/7zD8Y0vrXkI52xdOxTdFcX"
     },
     {
       "album": {
@@ -1446,10 +1518,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 182920,
       "name": "Murderer Mourns Again",
       "url": "https://open.spotify.com/track/5bkN0WswZkPMgivo1yzB2I"
+    },
+    {
+      "album": {
+        "name": "My Own God",
+        "url": "https://open.spotify.com/album/1hGgphPBFh3ZlFZ4wNLHub"
+      },
+      "artists": [
+        {
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195907,
+      "name": "My Own God",
+      "url": "https://open.spotify.com/track/5mN3tAaHPDl4JJEPJw8AEf"
     },
     {
       "album": {
@@ -1468,6 +1558,24 @@
       "duration_ms": 269242,
       "name": "Mysteryland",
       "url": "https://open.spotify.com/track/2He1zZLDLCNq3n3Diq1naW"
+    },
+    {
+      "album": {
+        "name": "M\u00e9andres",
+        "url": "https://open.spotify.com/album/6ABQGgLr013oap4hcMUFJB"
+      },
+      "artists": [
+        {
+          "name": "Birdstone",
+          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393368,
+      "name": "M\u00e9andres",
+      "url": "https://open.spotify.com/track/75GWeilFe8MSVqOyIxCyMO"
     },
     {
       "album": {
@@ -1540,6 +1648,24 @@
       "duration_ms": 132972,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ"
+    },
+    {
+      "album": {
+        "name": "Veil",
+        "url": "https://open.spotify.com/album/6dYxGuO3ak0MmLeXOT2mwz"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171107,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/6hGIEiT7X4ppUL3SQw76G6"
     },
     {
       "album": {
@@ -1644,7 +1770,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217626,
       "name": "Pop Sauvage",
       "url": "https://open.spotify.com/track/5l4tHgY9cdo9HTH0g09VGQ"
@@ -1698,7 +1824,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 206168,
       "name": "Proper Attitude",
       "url": "https://open.spotify.com/track/3EYdBbdwHuklcNxmtJbFAV"
@@ -1756,6 +1882,24 @@
       "duration_ms": 294911,
       "name": "Real Countdown",
       "url": "https://open.spotify.com/track/3UDDYFwQpb073iwaO7oDa4"
+    },
+    {
+      "album": {
+        "name": "Spiritual Sickness",
+        "url": "https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO"
+      },
+      "artists": [
+        {
+          "name": "YEAHRS",
+          "url": "https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Rebounds",
+      "url": "https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu"
     },
     {
       "album": {
@@ -2184,7 +2328,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 245312,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP"
@@ -2220,7 +2364,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 448151,
       "name": "Talking About Yourself",
       "url": "https://open.spotify.com/track/6EtBVM2yar5xDFf2BaGl0b"
@@ -2242,7 +2386,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 146944,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/3aFoPNxo45mjM6dStHBpf5"
@@ -2314,7 +2458,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 221898,
       "name": "The Everything",
       "url": "https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ"
@@ -2394,6 +2538,24 @@
       "duration_ms": 206186,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz"
+    },
+    {
+      "album": {
+        "name": "There's Nothing After",
+        "url": "https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb"
+      },
+      "artists": [
+        {
+          "name": "Moloch/Monolyth",
+          "url": "https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218053,
+      "name": "There's Nothing After",
+      "url": "https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI"
     },
     {
       "album": {

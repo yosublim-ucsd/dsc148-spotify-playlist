@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:6bSPrd8qTvWFk6e2NtZBbR">Assustador, Bizarro e Misterioso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,884 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,895 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw5MTA5NDg4ZmRkYTkzODEwMTE4OTgxN2Y3MjU2ZjhmMzc1YTQwNWUy`
+Snapshot ID: `MCwxYTJiNzhlYThhOTQ1MjQyZDk5OWMwZDUyNGNkN2E0MTVkZGU1ZWQ1`

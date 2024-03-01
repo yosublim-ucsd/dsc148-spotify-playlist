@@ -11938,6 +11938,28 @@
     {
       "album": {
         "name": "Nigeria 70 - Sweet Times: Afro-Funk, Highlife & Juju from 1970s Lagos",
+        "url": "https://open.spotify.com/album/5sspzBDWIIQHVqB0I0dx9S"
+      },
+      "artists": [
+        {
+          "name": "Bola Johnson",
+          "url": "https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1"
+        },
+        {
+          "name": "His Easy Life Top Beats",
+          "url": "https://open.spotify.com/artist/3erX3GyM88T7TJ67eSn6XW"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184515,
+      "name": "E Ma S'eka",
+      "url": "https://open.spotify.com/track/0PIYTzPh2aJoMUwpDFl5ia"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Sweet Times: Afro-Funk, Highlife & Juju from 1970s Lagos",
         "url": "https://open.spotify.com/album/6Md7Px2lT7kYkKAUq6AMqW"
       },
       "artists": [
@@ -11952,7 +11974,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184515,
       "name": "E Ma S'eka",
       "url": "https://open.spotify.com/track/3TknxlHK3AVZYN5EYt9Njb"
@@ -29274,7 +29296,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "Onyame",
       "url": "https://open.spotify.com/track/0Ql1QFq2IRLaEdoPMFnOud"
@@ -29292,7 +29314,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 296240,
       "name": "Onyame",
       "url": "https://open.spotify.com/track/0W7tPPs5iF3uM23zntn7oD"
@@ -40334,6 +40356,24 @@
     {
       "album": {
         "name": "Nigeria 70 - Lagos Jump",
+        "url": "https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI"
+      },
+      "artists": [
+        {
+          "name": "Rex Williams",
+          "url": "https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "You Are My Heart",
+      "url": "https://open.spotify.com/track/0niAkwpNApzAyUSPoAzxXT"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Lagos Jump",
         "url": "https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6"
       },
       "artists": [
@@ -40344,7 +40384,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193000,
       "name": "You Are My Heart",
       "url": "https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh"

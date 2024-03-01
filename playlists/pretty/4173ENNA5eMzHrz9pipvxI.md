@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Robin Schulz x KOPPY
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Don Diablo x Mearsy x RBZ
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,875 likes - 28 songs - 1 hr 19 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,876 likes - 28 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/3X9q2q2XTcMyGP7p76nGID) | 2:35 |
 | 2 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 |
 | 3 | [Physique \(feat\. RBZ\)](https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [RBZ](https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL) | [Physique \(feat\. RBZ\)](https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ) | 2:58 |
-| 4 | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l) | 2:44 |
+| 4 | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l) | 2:42 |
 | 5 | [We House U](https://open.spotify.com/track/15sHpP61Dht32ezVKBrtPg) | [PØP CULTUR](https://open.spotify.com/artist/7lxjUMVAHwmzzPATtuEB9m) | [We House U](https://open.spotify.com/album/1XU0Z54SlEYhHtRv4lLacl) | 2:47 |
 | 6 | [Freak In The Weekend](https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Freak In The Weekend](https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo) | 2:52 |
 | 7 | [Keep It Real](https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Keep It Real](https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w) | 2:22 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 27 | [Life’s Too Short \(feat\. Scarlett\)](https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6), [Chunky Dip](https://open.spotify.com/artist/1TmzgTXR9fUhmRuzIgnsV6), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Life’s Too Short \(feat\. Scarlett\)](https://open.spotify.com/album/3DR0BJBWLEO5Uq8baZu15B) | 2:23 |
 | 28 | [Rock My Body \(with Sash!\) \[NOYSE Remix\]](https://open.spotify.com/track/7pV8lSQ4OM6GyCciYXBdso) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with Sash!\) \[NOYSE Remix\]](https://open.spotify.com/album/4bCZIZSVSGu8TuJAswZ0L6) | 2:32 |
 
-Snapshot ID: `NzM4OCxhYWU4MTJmYTA5NjZhMDA2YWI5MmI4NmU0MzMwMzk2ZTgxNzliNTNh`
+Snapshot ID: `NzM5NiwyOTljNmYxMTRjZWEyMzg2OTYwOTNlNjhmMzkxZmQ2ZTcxYTM4ZGI2`

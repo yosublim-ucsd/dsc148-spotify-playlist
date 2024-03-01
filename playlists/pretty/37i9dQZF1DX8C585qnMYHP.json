@@ -1,18 +1,18 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Nathalie Joachim on cover. Artwork by Thami Nabil",
-  "num_followers": 153373,
+  "num_followers": 153438,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIwYWUxYjE4Y2NiODIxMmU0ZTQwODhiNDY4ODg1NWMyNjE2YTlj",
+  "snapshot_id": "MCw4YjJhMTIwOGFlMjgzNzZhN2ZmZWI3MmYyZDg3MzUxYTAwM2IzNjVj",
   "tracks": [
     {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Promises",
@@ -453,6 +437,22 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
       "added_at": "2023-09-15 05:54:20",
       "album": {
         "name": "Blue Angel Sparkling Silver",
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+        "name": "An Cnoc M\u00f3r",
+        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
       },
       "artists": [
         {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+          "name": "Moundabout",
+          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
         }
       ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+      "duration_ms": 515435,
+      "name": "Instinct, Eye and Mind",
+      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
     },
     {
       "added_at": "2023-08-02 14:55:57",
@@ -501,20 +501,20 @@
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "An Cnoc M\u00f3r",
-        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
       },
       "artists": [
         {
-          "name": "Moundabout",
-          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
         }
       ],
-      "duration_ms": 515435,
-      "name": "Instinct, Eye and Mind",
-      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2024-01-10 04:07:01",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
     },
     {
-      "added_at": "2024-01-10 20:04:58",
-      "album": {
-        "name": "Anthem For Those Who Know",
-        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Anthem For Those Who Know",
-      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "MY BLACK CAT",
@@ -913,20 +897,20 @@
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2024-01-10 20:04:58",
       "album": {
-        "name": "List I",
-        "url": "https://open.spotify.com/album/21H0lNFsFyEHovrfBlCmqH"
+        "name": "Anthem For Those Who Know",
+        "url": "https://open.spotify.com/album/0eON9IRmxIU8J3v87CdQ9p"
       },
       "artists": [
         {
-          "name": "Pejza\u017c",
-          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 234005,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/5O7IvPlQoTlxYLe76LNZYm"
+      "duration_ms": 200500,
+      "name": "Anthem For Those Who Know",
+      "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
     },
     {
       "added_at": "2023-09-15 05:54:20",
@@ -945,20 +929,36 @@
       "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
+      "added_at": "2024-01-10 04:24:05",
       "album": {
-        "name": "WIREPULLER",
-        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
+        "name": "List I",
+        "url": "https://open.spotify.com/album/21H0lNFsFyEHovrfBlCmqH"
       },
       "artists": [
         {
-          "name": "UURYDON",
-          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
+          "name": "Pejza\u017c",
+          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
         }
       ],
-      "duration_ms": 64591,
-      "name": "PEEPHOLE, Pt. 3",
-      "url": "https://open.spotify.com/track/064COVGnlYp0gbdjNJRwDI"
+      "duration_ms": 234005,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/5O7IvPlQoTlxYLe76LNZYm"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Huele a Fraude",
+        "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
+      },
+      "artists": [
+        {
+          "name": "Robert Ouyang Rusli",
+          "url": "https://open.spotify.com/artist/7HlECNrTc4ovaW1QLFs9vY"
+        }
+      ],
+      "duration_ms": 84180,
+      "name": "Monument to Possibilities",
+      "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Huele a Fraude",
-        "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
+        "name": "WIREPULLER",
+        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
       },
       "artists": [
         {
-          "name": "Robert Ouyang Rusli",
-          "url": "https://open.spotify.com/artist/7HlECNrTc4ovaW1QLFs9vY"
+          "name": "UURYDON",
+          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
         }
       ],
-      "duration_ms": 84180,
-      "name": "Monument to Possibilities",
-      "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
+      "duration_ms": 64591,
+      "name": "PEEPHOLE, Pt. 3",
+      "url": "https://open.spotify.com/track/064COVGnlYp0gbdjNJRwDI"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "QUANTA 1:11",
-        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 396071,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "My Noise Is Nothing",
@@ -1059,6 +1043,22 @@
       "duration_ms": 308841,
       "name": "My Noise Is Nothing",
       "url": "https://open.spotify.com/track/1izzRAv6eDzahDVryCP3dA"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "QUANTA 1:11",
+        "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 396071,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Toquei no Sol",
-        "url": "https://open.spotify.com/album/3q1hEZct2ZR75qQMbLTW1d"
-      },
-      "artists": [
-        {
-          "name": "Marlene Ribeiro",
-          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
-        }
-      ],
-      "duration_ms": 441840,
-      "name": "You Do It",
-      "url": "https://open.spotify.com/track/7J46lkQn2onLYyg4PtJEJk"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "The Blissful Sounds of Miracula",
         "url": "https://open.spotify.com/album/60Q7oEjfUHTkZXpx9CKZL9"
       },
@@ -1141,68 +1125,20 @@
       "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Hit With The Most",
-        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
-      },
-      "artists": [
-        {
-          "name": "RIBBON STAGE",
-          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
-        }
-      ],
-      "duration_ms": 105739,
-      "name": "Sulfate",
-      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
-    },
-    {
-      "added_at": "2024-01-10 04:07:01",
-      "album": {
-        "name": "if i'm not home : i'm not far away",
-        "url": "https://open.spotify.com/album/18SpelKdJeotuyD7glSGzs"
-      },
-      "artists": [
-        {
-          "name": "Surma",
-          "url": "https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": ": h\u00e9lo\u00efse",
-      "url": "https://open.spotify.com/track/2TRAd6kQmvRSJZMvZzuIRo"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Mata Hari",
-        "url": "https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm"
+        "name": "Toquei no Sol",
+        "url": "https://open.spotify.com/album/3q1hEZct2ZR75qQMbLTW1d"
       },
       "artists": [
         {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+          "name": "Marlene Ribeiro",
+          "url": "https://open.spotify.com/artist/68xgZvZAZc8Iqz9kZUDEDc"
         }
       ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
+      "duration_ms": 441840,
+      "name": "You Do It",
+      "url": "https://open.spotify.com/track/7J46lkQn2onLYyg4PtJEJk"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1223,22 +1159,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Moriah Plaza",
-        "url": "https://open.spotify.com/album/5QmjvkaaMPG3RH2hTETGwK"
-      },
-      "artists": [
-        {
-          "name": "Moriah Plaza",
-          "url": "https://open.spotify.com/artist/31ejpyhWMC2NZrhE3gTFQK"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Desendere\u00e7ada",
-      "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Systemic",
         "url": "https://open.spotify.com/album/0wKLTaJo6VxqhTXOgt9iFb"
       },
@@ -1251,6 +1171,86 @@
       "duration_ms": 292573,
       "name": "Blood Quantum",
       "url": "https://open.spotify.com/track/63T2H0pQvsxyVD1ou9xJuz"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Hit With The Most",
+        "url": "https://open.spotify.com/album/6xvzHDDnTzOROoE140BSbE"
+      },
+      "artists": [
+        {
+          "name": "RIBBON STAGE",
+          "url": "https://open.spotify.com/artist/4f7oDcY7sHQ69tiuRomYRZ"
+        }
+      ],
+      "duration_ms": 105739,
+      "name": "Sulfate",
+      "url": "https://open.spotify.com/track/0uhnXN1UiliphsVAcWKeCt"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Mata Hari",
+        "url": "https://open.spotify.com/album/7ClqenGVqCBqqT25x9vAjm"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/3UBiQTyckIvc3l4VcwQsgf"
+    },
+    {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "if i'm not home : i'm not far away",
+        "url": "https://open.spotify.com/album/18SpelKdJeotuyD7glSGzs"
+      },
+      "artists": [
+        {
+          "name": "Surma",
+          "url": "https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": ": h\u00e9lo\u00efse",
+      "url": "https://open.spotify.com/track/2TRAd6kQmvRSJZMvZzuIRo"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
+      },
+      "artists": [
+        {
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
+        }
+      ],
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Moriah Plaza",
+        "url": "https://open.spotify.com/album/5QmjvkaaMPG3RH2hTETGwK"
+      },
+      "artists": [
+        {
+          "name": "Moriah Plaza",
+          "url": "https://open.spotify.com/artist/31ejpyhWMC2NZrhE3gTFQK"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Desendere\u00e7ada",
+      "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
-      "album": {
-        "name": "Domestic Exile Collected Works 82-86",
-        "url": "https://open.spotify.com/album/1g1GeFpNUjIvrsgLWUZ1sr"
-      },
-      "artists": [
-        {
-          "name": "Daniele Ciullini",
-          "url": "https://open.spotify.com/artist/719Ffy8SoQrxmUF6Z9RNko"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Soft Marble",
-      "url": "https://open.spotify.com/track/4RW1HucI8LfZJJQAilxQXc"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Conversations in Ritual",
@@ -1459,6 +1443,22 @@
       "duration_ms": 313986,
       "name": "Rising",
       "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Domestic Exile Collected Works 82-86",
+        "url": "https://open.spotify.com/album/1g1GeFpNUjIvrsgLWUZ1sr"
+      },
+      "artists": [
+        {
+          "name": "Daniele Ciullini",
+          "url": "https://open.spotify.com/artist/719Ffy8SoQrxmUF6Z9RNko"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Soft Marble",
+      "url": "https://open.spotify.com/track/4RW1HucI8LfZJJQAilxQXc"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
-      },
-      "artists": [
-        {
-          "name": "Gardika Gigih",
-          "url": "https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Vision Leaks",
@@ -1531,6 +1515,22 @@
       "duration_ms": 330000,
       "name": "Kiss Your Skin",
       "url": "https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
+      },
+      "artists": [
+        {
+          "name": "Gardika Gigih",
+          "url": "https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 277273,
-      "name": "hit",
-      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "caldera",
         "url": "https://open.spotify.com/album/4wyDYSYCnGstIjNO52WlYB"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 131600,
       "name": "caldera",
       "url": "https://open.spotify.com/track/1yEiUh040BuVgk26EpVAcd"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 277273,
+      "name": "hit",
+      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -1645,22 +1645,6 @@
       "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
     },
     {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 303216,
-      "name": "humanus",
-      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
-    },
-    {
       "added_at": "2024-01-10 04:24:05",
       "album": {
         "name": "Rainbow Revisited",
@@ -1679,6 +1663,22 @@
       "duration_ms": 218586,
       "name": "Breath and Synth Experiment",
       "url": "https://open.spotify.com/track/5ewo7wEAO7K9DCFfo8CAow"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 303216,
+      "name": "humanus",
+      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

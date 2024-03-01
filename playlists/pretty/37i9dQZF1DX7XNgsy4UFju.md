@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Abby Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,837 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,839 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Bubblegum Dog](https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bubblegum Dog](https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z) | 4:21 |
 | 100 | [Knowing You](https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Knowing You](https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8) | 3:50 |
 
-Snapshot ID: `MCxjNWQ2NjhhZWI1YmJmMDk1MGEwMjVhYjRjZTcyYzNkMTMwMjU2ZjVh`
+Snapshot ID: `MCw2MjgxMzQwYmFmOGI1M2MzNDNmYmE1MmE1NDJkNjM4YWJjMzVmMWZh`

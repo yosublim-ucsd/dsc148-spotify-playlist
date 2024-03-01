@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 176293,
+  "2024-03-01": 176301,
   "date_first_scraped": "2022-05-09",
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
   "name": "San Valentino 2024",
@@ -1302,6 +1302,28 @@
     },
     {
       "album": {
+        "name": "S\u00ec (Deluxe)",
+        "url": "https://open.spotify.com/album/68ic1ZsRo0DIodoDYZXcM5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217224,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5ITi64nceMr4EgWfqmivd4"
+    },
+    {
+      "album": {
         "name": "Il bacio di Klimt",
         "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
       },
@@ -2349,7 +2371,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 336960,
       "name": "Mille giorni di te e di me",
       "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"

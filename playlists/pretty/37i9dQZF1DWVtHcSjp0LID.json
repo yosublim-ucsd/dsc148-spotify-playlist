@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 66894,
+  "num_followers": 66914,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4",
+  "snapshot_id": "MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
+      },
+      "artists": [
+        {
+          "name": "Holly North",
+          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
+        }
+      ],
+      "duration_ms": 250936,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "The Year After",
         "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 189677,
       "name": "Luscious Rain",
       "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
-      },
-      "artists": [
-        {
-          "name": "Holly North",
-          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
-        }
-      ],
-      "duration_ms": 250936,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
     },
     {
       "added_at": "2023-06-09 18:05:35",

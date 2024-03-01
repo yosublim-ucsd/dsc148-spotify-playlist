@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-481 songs - 20 hr 13 min
+483 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Feedback Loop](https://open.spotify.com/track/5zlcNIbJAbRtCFFmQQi6Qe) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [Feedback Loop](https://open.spotify.com/album/313KqTMx8BzQMsf1wK1LSt) | 3:17 | 2022-06-02 | 2023-01-06 |
 | [Fifth and Westerton](https://open.spotify.com/track/1z7c88CVgrgHeM5CLhyeo9) | [Foghouse](https://open.spotify.com/artist/5y6OTJwOgLR1dJu2Er9hBB) | [Roughly Human](https://open.spotify.com/album/3LU9iCseQ6hsGwBFLOdj2P) | 2:48 | 2022-03-14 | 2024-01-20 |
 | [Finneas](https://open.spotify.com/track/0afK4XhPxWkKvHnGYCE0AM) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Finneas](https://open.spotify.com/album/4avgzkt8pQTOdEpb8FBGSI) | 2:40 | 2022-09-01 | 2024-01-20 |
+| [fireflies](https://open.spotify.com/track/227z0kBpLGVr4YqaTeNCIU) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [fireflies](https://open.spotify.com/album/6iMYwdC0KQAuqn1YsFWCAR) | 2:08 | 2024-03-01 |  |
 | [fivepoints](https://open.spotify.com/track/6JhP2i78D1kDhV02AmburC) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [fivepoints](https://open.spotify.com/album/6tKuFzne8JIxuWdccituSc) | 2:03 | 2023-06-20 | 2024-01-20 |
 | [Floating Stones](https://open.spotify.com/track/0ZotW8k8AHAkFpkJjp7BZL) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Floating Stones](https://open.spotify.com/album/2eZZotBSXmgv3Bnoh4fKov) | 2:03 | 2024-01-19 |  |
 | [floaty](https://open.spotify.com/track/6K250yvOotlfeDRzUyFdIK) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [floaty](https://open.spotify.com/album/6u13flQo08XtfdftYWNjY7) | 2:18 | 2022-11-25 | 2024-01-20 |
@@ -300,6 +301,7 @@
 | [NYC Springtime](https://open.spotify.com/track/7cxy4O5Ya6lc1hRSey4kiy) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:01 | 2022-04-21 | 2023-01-25 |
 | [OK](https://open.spotify.com/track/004Df9CUYODSYGvvgPvcmy) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [OK](https://open.spotify.com/album/0QkdZUAw5HNiX9cujipQXe) | 2:08 | 2022-03-14 | 2022-10-26 |
 | [on the horizon](https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [on the horizon](https://open.spotify.com/album/5prWcKTBqdEkY1kSmRDe41) | 3:31 | 2024-01-19 |  |
+| [one with the cube](https://open.spotify.com/track/4rYpweh6x3xGOKejHZOFLp) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [one with the cube](https://open.spotify.com/album/6HSEIuuQtNFbkqExwuu23m) | 2:06 | 2024-03-01 |  |
 | [Orchard Swing](https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Orchard Swing](https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0) | 2:23 | 2024-01-19 |  |
 | [Osaka](https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Osaka](https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6) | 2:00 | 2023-06-20 | 2024-01-20 |
 | [Ox](https://open.spotify.com/track/32dBcJq0JvvfuT3vLB23ZB) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:20 | 2022-04-21 | 2024-01-20 |

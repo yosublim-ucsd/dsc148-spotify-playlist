@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-248 songs - 18 hr 21 min
+249 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Segara Bonny](https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:47 | 2021-12-30 | 2023-07-12 |
 | [Shecolata](https://open.spotify.com/track/2fd6l0ZnzcoxAkA8e8URtS) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Shecolata](https://open.spotify.com/album/36hOxzWm2uNQzLZrkLMidl) | 2:41 | 2021-12-16 | 2022-07-29 |
 | [Shed Helak](https://open.spotify.com/track/3t8njPwPoFpOHKe4Lja4qp) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Shed Helak](https://open.spotify.com/album/3z0FBFJFUUyxlcVYUaBcGC) | 2:13 | 2022-11-24 | 2023-05-13 |
+| [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 | 2024-02-29 |  |
 | [Sohab Fashosh](https://open.spotify.com/track/6est6D0K9z0XDcrLYNWF7k) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sohab Fashosh](https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4) | 3:36 | 2021-12-16 | 2022-12-21 |
 | [Taalan Aleina](https://open.spotify.com/track/0bIdj84kcikKQMjltR9Hbc) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Taalan Aleina](https://open.spotify.com/album/4qNBlXf4jgPTD9xLpx3EuG) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Tal2a](https://open.spotify.com/track/3h8gRGUJMqHH5YLodXPTgW) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Tal2a](https://open.spotify.com/album/3XxYC8L0nLwcgbtT5GYAB2) | 3:51 | 2021-12-16 |  |

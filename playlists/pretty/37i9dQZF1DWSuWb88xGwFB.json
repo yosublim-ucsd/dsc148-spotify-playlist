@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 33141,
+  "num_followers": 33152,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4",
+  "snapshot_id": "MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Unbe (Erick 'More' Mix)",
-      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Keep On Groovin'",
         "url": "https://open.spotify.com/album/3AYF0SeOzm9runBziVjooE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 463571,
       "name": "Keep On Groovin' (Pitch Disco Mix)",
       "url": "https://open.spotify.com/track/5hxBQdYP2DbrPNJ2zGByXk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Unbe (Erick 'More' Mix)",
+      "url": "https://open.spotify.com/track/5tDlZhntGKCwqFKJZXRYAv"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Asuca",
+        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca (Tribal Mix)",
+      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
         "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/0RuTllZKmylqbK2VUarJ9q"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 362659,
-      "name": "Indonesia (Sambal Badjak Mix)",
-      "url": "https://open.spotify.com/track/2xrKKLrq9bwJRpgS9Wwhpq"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
         "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
       },
@@ -615,18 +615,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Asuca",
-        "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/0RuTllZKmylqbK2VUarJ9q"
       },
       "artists": [
         {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
         }
       ],
-      "duration_ms": 356676,
-      "name": "Asuca (Tribal Mix)",
-      "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
+      "duration_ms": 362659,
+      "name": "Indonesia (Sambal Badjak Mix)",
+      "url": "https://open.spotify.com/track/2xrKKLrq9bwJRpgS9Wwhpq"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Rise from Your Grave",
+        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 396586,
+      "name": "Rise from Your Grave (Wild pitch mix)",
+      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -651,22 +667,6 @@
       "duration_ms": 493602,
       "name": "I Could Be This\u2026 (feat. Michael M) (Morel's That Mix)",
       "url": "https://open.spotify.com/track/6tGt0ZXAVCSueT4mX4du77"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Rise from Your Grave",
-        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 396586,
-      "name": "Rise from Your Grave (Wild pitch mix)",
-      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
+      },
+      "artists": [
+        {
+          "name": "James Roach",
+          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
+        }
+      ],
+      "duration_ms": 369461,
+      "name": "Special (Club Mix)",
+      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Tyler Moore Mary (Mixes)",
         "url": "https://open.spotify.com/album/0yLhyujDegVpusv5ILwz0S"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/2GR2SyVgjnJCDyCxajyCEB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
-      },
-      "artists": [
-        {
-          "name": "James Roach",
-          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
-        }
-      ],
-      "duration_ms": 369461,
-      "name": "Special (Club Mix)",
-      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -767,6 +767,22 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
       "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -815,22 +831,6 @@
       "duration_ms": 343720,
       "name": "Dance to the Rhythm",
       "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428757,
-      "name": "Boy (MK Deep Dub)",
-      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Stay Together",
         "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 777623,
       "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
       "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/0sJ8JoDLr9fnCfSKOKLRde"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428757,
+      "name": "Boy (MK Deep Dub)",
+      "url": "https://open.spotify.com/track/5ZHKVf10ApERLeNMdHEA4A"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 518960,
       "name": "In Da Clouds (Da Dub)",
       "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
-        }
-      ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
         "url": "https://open.spotify.com/album/4at8XY2nq3Ll6EF9FnuhG4"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 554971,
       "name": "The Sound (The Studio 54 Mix)",
       "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ],
+      "duration_ms": 334220,
+      "name": "We Can Make It (The \u2018I Believe' Dub)",
+      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",

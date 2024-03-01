@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Loredana Bertè
 
-904 songs - 1 day 21 hr 22 min
+905 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Body Nature](https://open.spotify.com/track/22kNwluPROspqBnMWL2c2R) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Body Nature](https://open.spotify.com/album/5U45CXFf3VEvHsI9ai8KWs) | 5:09 | 2021-12-07 | 2022-01-05 |
 | [Bollywood](https://open.spotify.com/track/4EHLJ94BRQBaTJRdGg247i) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Bollywood](https://open.spotify.com/album/5tCrwZeMJ0rIPJBKfKJWhk) | 3:03 | 2021-12-07 | 2022-01-05 |
 | [Bologna](https://open.spotify.com/track/71uQGQhBHe2G4waT2jNeDD) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [Bologna](https://open.spotify.com/album/2urphB9RKJGKO8a0Z8Au05) | 3:14 | 2023-02-09 | 2023-04-05 |
-| [Bondage \- la gola](https://open.spotify.com/track/7paR6tT20OtmdY4Qod8W4r) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Bondage \- la gola](https://open.spotify.com/album/4JpJJjFomLbmrjiMU4963B) | 3:01 | 2024-02-07 |  |
+| [Bondage \- la gola](https://open.spotify.com/track/6Rwx5hyEALw2Swk57ZYX1M) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Bondage \- la gola](https://open.spotify.com/album/5Xk43pNnNtK7vOZgVOeZlR) | 3:01 | 2024-02-07 |  |
+| [Bondage \- la gola](https://open.spotify.com/track/7paR6tT20OtmdY4Qod8W4r) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Bondage \- la gola](https://open.spotify.com/album/4JpJJjFomLbmrjiMU4963B) | 3:01 | 2024-02-07 | 2024-03-01 |
 | [bonsoir](https://open.spotify.com/track/5zjQHqAqDilQR0z1hOrJSo) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [bonsoir](https://open.spotify.com/album/7eOLSj4vYFZp15ruChiQiZ) | 3:19 | 2022-07-05 | 2022-09-07 |
 | [Booking](https://open.spotify.com/track/1bHn3lmd1v1PaU9h33evw8) | [Marsali](https://open.spotify.com/artist/4ZjCLAAoEz7HKwom0qkYM7) | [Booking](https://open.spotify.com/album/3RAwrWJz9SEdhqJyR9RvIP) | 2:50 | 2022-02-02 | 2022-03-08 |
 | [Bordeaux](https://open.spotify.com/track/6K4c1neXmVgj2qWOZTcGvi) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Bordeaux](https://open.spotify.com/album/1BwPqLtg1Ilkj2qLEgpPVB) | 2:49 | 2023-09-06 | 2023-11-08 |

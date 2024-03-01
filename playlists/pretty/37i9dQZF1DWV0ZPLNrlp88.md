@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,171 likes - 30 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,174 likes - 30 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 29 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 |
 | 30 | [Waskamono\-tachi](https://open.spotify.com/track/0sItKUr8bN2uDGXWf8cPjt) | [NOIMAGE](https://open.spotify.com/artist/5GJBpmB9qaeLx1zjvwuBFe) | [Waskamono\-tachi](https://open.spotify.com/album/43l0FCSrjbycyGwDcvpN59) | 3:20 |
 
-Snapshot ID: `MCxiZGVmZjZkYjI0OGNiYjUxMWY2NDgwYTcxNDA0MmJmOGRhYzNiZmE1`
+Snapshot ID: `MCw0ZGQzMjcwNTVmYjhmMzA5MzgyYmZjZjdlOTc1MTUzNjEyNzdjNDc5`

@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-281 songs - 19 hr 47 min
+282 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Desesperado \- English](https://open.spotify.com/track/7wfeopS60KsVchzRItCwVj) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Desesperado \(English\)](https://open.spotify.com/album/0OioYnPykdyEy9XZWSRLo4) | 2:52 | 2021-12-01 | 2022-12-01 |
 | [Destiny](https://open.spotify.com/track/7IsEmeIxbnqz1mExLs1fq5) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Destiny: Vol\. 1](https://open.spotify.com/album/0njnGUwGmixvpHzL01vxxC) | 2:39 | 2021-12-01 | 2022-12-01 |
 | [Dios en Casa](https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 4:52 | 2022-12-01 | 2023-12-09 |
-| [Dios Es Bueno](https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Vallenato Se Hizo En El Cielo](https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL) | 3:50 | 2023-11-29 |  |
+| [Dios Es Bueno](https://open.spotify.com/track/2aAXt6b25NvIXNaH7kj3pU) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Vallenato Se Hizo En El Cielo](https://open.spotify.com/album/0nL8AcKJG9UOm6ei1hknXA) | 3:50 | 2023-11-29 |  |
+| [Dios Es Bueno](https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Vallenato Se Hizo En El Cielo](https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL) | 3:50 | 2023-11-29 | 2024-03-01 |
 | [Don't Know If I Believe It](https://open.spotify.com/track/37esNn4HuVIq5vD56gh997) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [3 + 7](https://open.spotify.com/album/4Ms1ybUThDmDqEwl8s5oEX) | 4:51 | 2021-12-01 | 2022-12-01 |
 | [Don't Lose Heart](https://open.spotify.com/track/2RIjhcqCoUbl4D5y436PDy) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Don't Lose Heart](https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f) | 3:31 | 2023-11-29 |  |
 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 | 2021-12-01 | 2022-12-01 |

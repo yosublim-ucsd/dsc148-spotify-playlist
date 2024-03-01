@@ -1,12 +1,12 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Fame on Fire",
-  "num_followers": 351814,
+  "num_followers": 351974,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGRjYzk3YmU4Zjk2Mjk2MWViOGQ1YmM2MGQ0ZWU5ZTU0MzEzZTcz",
+  "snapshot_id": "MCw4M2U4MjJjN2Q1NDg3NzZkMGY0MDQyMTkwOThmYWYzYzJhYzYzM2Vj",
   "tracks": [
     {
       "added_at": "2024-02-24 05:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 238534,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "S!CK",
         "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Vengeance",
-        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 238534,
-      "name": "Vengeance",
-      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Knife",
-        "url": "https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 218214,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "She Reaches Out To She Reaches Out To She",
         "url": "https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 263432,
       "name": "House Of Self-Undoing",
       "url": "https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Knife",
+        "url": "https://open.spotify.com/album/0w4KpUcSpjvxkiccChtB2C"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 218214,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/4EziK2zE4fTvXi4obtunZh"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "Never Back Down",
+        "url": "https://open.spotify.com/album/0uNxVlXvWIWF2XoUx8QCNP"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hyles",
+          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
+        },
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Never Back Down",
+      "url": "https://open.spotify.com/track/60c68QO7eReWRNEHLLojBi"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "Dark & Beautiful Secrets",
         "url": "https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 180266,
       "name": "I Felt It All",
       "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Never Back Down",
-        "url": "https://open.spotify.com/album/0uNxVlXvWIWF2XoUx8QCNP"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hyles",
-          "url": "https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU"
-        },
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Never Back Down",
-      "url": "https://open.spotify.com/track/60c68QO7eReWRNEHLLojBi"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Won't Take Me Alive",
-        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Won't Take Me Alive",
-      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 316979,
       "name": "You And I",
       "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Won't Take Me Alive",
+        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Won't Take Me Alive",
+      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "The Mechanic",
         "url": "https://open.spotify.com/album/0ebgzc7Y3Pq5xXbaDWxLCE"
       },
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+        "name": "Some Bridges Are Better Off Burning",
+        "url": "https://open.spotify.com/album/4RecNVIK5rn6c2yiGWlvlr"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
         }
       ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
+      "duration_ms": 183428,
+      "name": "Some Bridges Are Better Off Burning",
+      "url": "https://open.spotify.com/track/0MmuEXjSgn7duSjyRBmggu"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Some Bridges Are Better Off Burning",
-        "url": "https://open.spotify.com/album/4RecNVIK5rn6c2yiGWlvlr"
-      },
-      "artists": [
-        {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Some Bridges Are Better Off Burning",
-      "url": "https://open.spotify.com/track/0MmuEXjSgn7duSjyRBmggu"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "Hunger Games",
         "url": "https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 216771,
       "name": "1987",
       "url": "https://open.spotify.com/track/3yn4cBZTTeCZf2sD70Mnes"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/0VeOTsnKfj6XALgO0MWMS2"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "duration_ms": 209672,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0qQgO4bGfJ3U6HTz84vqSW"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/0VeOTsnKfj6XALgO0MWMS2"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 209672,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0qQgO4bGfJ3U6HTz84vqSW"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "H8 MY SELF",
         "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
       },
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
+        "name": "10,000 Volts",
+        "url": "https://open.spotify.com/album/0D4zScGtR7jlMUGpJP9pYF"
+      },
+      "artists": [
+        {
+          "name": "Ace Frehley",
+          "url": "https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8"
+        }
+      ],
+      "duration_ms": 204378,
+      "name": "10,000 Volts",
+      "url": "https://open.spotify.com/track/4Nwb0EtFLdTDD1LYlWFeza"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
         "name": "Grande Rock Revisited",
         "url": "https://open.spotify.com/album/1RO4brwGqSyuvKeZXJemfM"
       },
@@ -1783,18 +1799,18 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "10,000 Volts",
-        "url": "https://open.spotify.com/album/0D4zScGtR7jlMUGpJP9pYF"
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
       },
       "artists": [
         {
-          "name": "Ace Frehley",
-          "url": "https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8"
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
         }
       ],
-      "duration_ms": 204378,
-      "name": "10,000 Volts",
-      "url": "https://open.spotify.com/track/4Nwb0EtFLdTDD1LYlWFeza"
+      "duration_ms": 291034,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "Terminal",
-        "url": "https://open.spotify.com/album/2gDvuxeDGq8m3vNnvA4MWx"
-      },
-      "artists": [
-        {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
-        }
-      ],
-      "duration_ms": 291034,
-      "name": "Terminal",
-      "url": "https://open.spotify.com/track/0tOvdClBu7Wf34Y9UqYPUn"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
         "name": "September Rain",
         "url": "https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 213874,
       "name": "September Rain",
       "url": "https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1867,22 +1883,6 @@
       "duration_ms": 167861,
       "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
       "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1915,6 +1915,22 @@
       "duration_ms": 154000,
       "name": "Strings",
       "url": "https://open.spotify.com/track/2SVVS94k30M3wgm7COhSsW"
+    },
+    {
+      "added_at": "2024-02-24 05:00:00",
+      "album": {
+        "name": "PALEHELL",
+        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "PALEHELL",
+      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1955,18 +1971,18 @@
     {
       "added_at": "2024-02-24 05:00:00",
       "album": {
-        "name": "PALEHELL",
-        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
+        "name": "Maybe In Another Life",
+        "url": "https://open.spotify.com/album/3VSUMjz2mL2kIrlLek00PL"
       },
       "artists": [
         {
-          "name": "Paledusk",
-          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
         }
       ],
-      "duration_ms": 221333,
-      "name": "PALEHELL",
-      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
+      "duration_ms": 230124,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/45MaH3A5xJUx3wIDRty2eV"
     },
     {
       "added_at": "2024-02-24 05:00:00",
@@ -1983,22 +1999,6 @@
       "duration_ms": 309888,
       "name": "War Pigs",
       "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
-    },
-    {
-      "added_at": "2024-02-24 05:00:00",
-      "album": {
-        "name": "Maybe In Another Life",
-        "url": "https://open.spotify.com/album/3VSUMjz2mL2kIrlLek00PL"
-      },
-      "artists": [
-        {
-          "name": "Bloom",
-          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/45MaH3A5xJUx3wIDRty2eV"
     },
     {
       "added_at": "2024-02-24 05:00:00",

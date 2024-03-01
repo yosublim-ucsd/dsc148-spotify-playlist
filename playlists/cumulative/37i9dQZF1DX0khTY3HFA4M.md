@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-715 songs - 1 day 3 hr 59 min
+720 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Aqvarium](https://open.spotify.com/track/2Tv9DKQQtwII9LsaQchvCh) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Nautiqua](https://open.spotify.com/album/67ucvjfI9g1XJPkH9NDyOJ) | 2:36 | 2023-01-13 | 2023-09-16 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2023-01-13 |  |
 | [As a friend](https://open.spotify.com/track/7bFqZel7uUPao8OU2SxazG) | [Boho Scottish](https://open.spotify.com/artist/0TudjISZ7XuF3WDYBYxXqx) | [Let´s Make A Wish](https://open.spotify.com/album/3AzgtFCVkJTL00DVJ8nujl) | 1:35 | 2023-01-13 |  |
+| [At Ease](https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [At Ease](https://open.spotify.com/album/3EPVotUCRpa0YRTfwsVehX) | 2:27 | 2024-03-01 |  |
 | [At The Station](https://open.spotify.com/track/23bJNVuFxa1T5OvD0SNqPF) | [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [At The Station](https://open.spotify.com/album/5q5XNAP0GtRrGCNTZlq0T3) | 2:14 | 2023-07-19 | 2023-10-27 |
 | [atmospheres](https://open.spotify.com/track/5Oxza8p0bfQ1uSPXEmSYGI) | [ponders](https://open.spotify.com/artist/58XtDX4Y4y7SADRSYBfzMr), [Mason Parks](https://open.spotify.com/artist/1ppPctMVAtXdP9m1MRVsVp) | [atmospheres](https://open.spotify.com/album/2NohzDISWGnM9Ft9UgyhPe) | 2:27 | 2023-01-13 |  |
 | [Autumn Love](https://open.spotify.com/track/2erA2PWWM0T3H2T2CO2x1T) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Autumn Love](https://open.spotify.com/album/1z920si07zqkdK2SlUByWF) | 2:15 | 2023-01-13 |  |
@@ -106,6 +107,7 @@
 | [Cheese cake express](https://open.spotify.com/track/4lYciP0rbVDIwXaqIYZTUk) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Cheese cake express](https://open.spotify.com/album/5j3BiFxAlTUJqrwDbsdZ1N) | 2:01 | 2023-01-13 |  |
 | [Cherry](https://open.spotify.com/track/1iLPXYTRKLtax4VzRdacYc) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Cherry](https://open.spotify.com/album/62bhvA7tO1UjPhiohaC5AQ) | 1:50 | 2023-01-13 | 2023-09-22 |
 | [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2024-02-23 |  |
+| [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 | 2024-03-01 |  |
 | [Cinema Breeze](https://open.spotify.com/track/2M3QHocFbQqwc6HyP5iRGK) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Cinema Breeze](https://open.spotify.com/album/2LRmPgyX8SUWppYRs3Uzxr) | 2:26 | 2023-01-13 | 2023-09-29 |
 | [Circle of Ours](https://open.spotify.com/track/57sd7qRHflTjWvcbTL9NnW) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Circle Of Ours](https://open.spotify.com/album/6DEf9pLBRcDGDCMBrcrTyh) | 2:17 | 2023-01-13 |  |
 | [city lights](https://open.spotify.com/track/5wbf6h3eYS2tiR0fCDDva5) | [Embassay](https://open.spotify.com/artist/7inQZsZhHZBxBN9CGZ3YXt) | [city lights](https://open.spotify.com/album/4oPlp5R6PaB7udvrdfalKP) | 2:20 | 2023-01-13 |  |
@@ -523,6 +525,7 @@
 | [Satellites](https://open.spotify.com/track/1ESZb823Uv9ezWplQpHadG) | [Cavement](https://open.spotify.com/artist/72v38PSKL8GSurLwsJW19j) | [Satellites](https://open.spotify.com/album/1z2KaAX8nMis2zAIaKRPt1) | 1:44 | 2023-01-20 |  |
 | [Satisfying](https://open.spotify.com/track/4w63bAIhUhrwF8naOpBpzH) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Satisfying](https://open.spotify.com/album/6DNw8LeOn3EfGByDmXOw8T) | 2:13 | 2023-01-13 |  |
 | [Sauce](https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7) | 2:48 | 2023-01-13 | 2023-09-29 |
+| [School Of Rytmus](https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [School Of Rytmus](https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f) | 2:25 | 2024-03-01 |  |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-22 |  |
 | [Searching For Peace](https://open.spotify.com/track/2ByfEKliMFRZt93gyFs8Hz) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Searching For Peace](https://open.spotify.com/album/1bN67GwLuc07W6pLkqBFlV) | 2:21 | 2023-01-13 |  |
 | [Secret Lake](https://open.spotify.com/track/3A3Ezz9QZ3YRcvsHLcWQLO) | [Potlatch](https://open.spotify.com/artist/5mk9bZgK156hL9mS64Y749) | [Secret Lake](https://open.spotify.com/album/6YWGJgGNyXT9UOKu6huWCl) | 2:29 | 2023-01-13 | 2023-09-22 |
@@ -533,6 +536,7 @@
 | [Serpentine](https://open.spotify.com/track/1QWb8gnKX6K2O1DsHwQWh7) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [Serpentine](https://open.spotify.com/album/5aFmEqYF0neylLFLdjZZAm) | 1:27 | 2023-01-13 | 2023-09-22 |
 | [Shades Of Groove](https://open.spotify.com/track/0rxKoqUnlNePLIP6lzeBxE) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Shades Of Groove](https://open.spotify.com/album/1q86UDMbp2LLSLa7aSC5al) | 2:44 | 2023-01-13 | 2023-10-20 |
 | [shadows](https://open.spotify.com/track/7mmRlhNSz8xxF2xcf5KpuV) | [Baila Sin Cesar](https://open.spotify.com/artist/0YERaAlqBjUVFTJevGHGcD) | [shadows](https://open.spotify.com/album/7fiFZ47E6Vq3NYCGeVwYnY) | 2:15 | 2023-01-13 | 2023-09-22 |
+| [Shallow Pockets](https://open.spotify.com/track/58LO5jXnxcJZAhZ28CJWKe) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Shallow Pockets](https://open.spotify.com/album/0oKQXprqD5ems9CnpZTMhM) | 2:25 | 2024-03-01 |  |
 | [Shapes](https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Kairoh](https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2) | [Shapes](https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3) | 2:20 | 2023-04-11 |  |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-09-08 |  |
 | [shifting](https://open.spotify.com/track/4RBH0Bm2Sd9iePcIkCFu7D) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [shifting](https://open.spotify.com/album/3CpXfzkNuboRdCctyRsjKo) | 2:11 | 2023-07-19 | 2023-09-29 |
@@ -719,6 +723,7 @@
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |
 | [You](https://open.spotify.com/track/3XRCQEEbMTDb6w41x2BXNn) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [You](https://open.spotify.com/album/6RXXi4q2BVlsaM3iIEVIGj) | 2:22 | 2023-01-13 | 2023-10-20 |
 | [Your Jacket Though](https://open.spotify.com/track/1uiK8qFJkHkC3OASMBPzvG) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Your Jacket Though](https://open.spotify.com/album/7FyNe1k7S2nSp34iszDkr2) | 2:58 | 2023-01-13 |  |
+| [Yuh](https://open.spotify.com/track/12fjRa5SiOoChXnqDDZOQY) | [Fred Can't Jump](https://open.spotify.com/artist/4J8VxBw15LkWir0tI2EqXL) | [Yuh](https://open.spotify.com/album/23mQw6YyrvrCkdCjvaTvpQ) | 2:21 | 2024-03-01 |  |
 | [Yuma](https://open.spotify.com/track/2E5sKdZ7nHxLKZ75jivjyG) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Yuma](https://open.spotify.com/album/0ccRzwB85dgm9zT0xOYSeQ) | 2:39 | 2023-09-04 | 2023-09-29 |
 | [Yumga](https://open.spotify.com/track/6qUrGPFOh5k3kA4Cxh2Xam) | [Sir\. Avalon](https://open.spotify.com/artist/5JG5qg4hQNjJBviObkprlq) | [Yumga](https://open.spotify.com/album/1eTFAemsC8rNP7GaQcigop) | 2:29 | 2023-01-13 | 2023-10-06 |
 | [zenopholy](https://open.spotify.com/track/4ZSXL5YKaiiHdeL7oKrnNg) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [zenopholy](https://open.spotify.com/album/6AdEsV9lIr9W4I4JQFZE6P) | 2:24 | 2023-01-13 |  |

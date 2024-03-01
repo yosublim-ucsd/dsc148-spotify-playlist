@@ -1,12 +1,12 @@
 {
   "description": "Top Sharqi hits right now. Cover: Kadim Al Sahir",
-  "num_followers": 59845,
+  "num_followers": 59889,
   "original_name": "Top Sharqi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjBmODFkMDJmZjhlZGYzNjkwZjRiZmQ0NmQzNWM3ZjU0YjBjYTM2",
+  "snapshot_id": "MCw0OTY4NjhiM2Q5YjE1ZGNkY2E4YWRjN2QwNDdjZDUxY2IzNzNlZTkz",
   "tracks": [
     {
       "added_at": "2024-02-23 08:44:09",
@@ -55,6 +55,26 @@
       "duration_ms": 199864,
       "name": "Bi Saraha",
       "url": "https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP"
+    },
+    {
+      "added_at": "2024-02-29 23:10:05",
+      "album": {
+        "name": "Khedi El Ghamrat",
+        "url": "https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        },
+        {
+          "name": "Marwan Khoury",
+          "url": "https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN"
+        }
+      ],
+      "duration_ms": 253124,
+      "name": "Khedi El Ghamrat",
+      "url": "https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9"
     },
     {
       "added_at": "2024-02-23 08:44:09",
@@ -655,22 +675,6 @@
       "duration_ms": 243559,
       "name": "Enti El Asas",
       "url": "https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t"
-    },
-    {
-      "added_at": "2024-02-23 08:44:09",
-      "album": {
-        "name": "Ghazaleh",
-        "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 155930,
-      "name": "Ghazaleh",
-      "url": "https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ"
     },
     {
       "added_at": "2024-02-23 08:44:09",

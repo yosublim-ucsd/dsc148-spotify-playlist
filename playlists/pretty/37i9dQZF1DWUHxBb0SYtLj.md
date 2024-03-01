@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Loredana Bertè
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,391 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,401 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 33 | [KITSUNE](https://open.spotify.com/track/1IIkLeJDhGSyYAbXB1553T) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [KITSUNE](https://open.spotify.com/album/5VTpBd41mhc3X8MOXmyVnd) | 2:13 |
 | 34 | [FARI ROTTI](https://open.spotify.com/track/2eNhIR2ww6YHethY7ZZQD8) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [FARI ROTTI](https://open.spotify.com/album/00WSFTYwU9U1m1OAuF0kkt) | 2:40 |
 | 35 | [Veleno Maledetto](https://open.spotify.com/track/71KbGQ9rR8oHJaxW1LhK4q) | [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH) | [Veleno Maledetto](https://open.spotify.com/album/7BpGVSbjObJdfgnephRkbs) | 2:50 |
-| 36 | [Bondage \- la gola](https://open.spotify.com/track/7paR6tT20OtmdY4Qod8W4r) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Bondage \- la gola](https://open.spotify.com/album/4JpJJjFomLbmrjiMU4963B) | 3:01 |
+| 36 | [Bondage \- la gola](https://open.spotify.com/track/6Rwx5hyEALw2Swk57ZYX1M) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Bondage \- la gola](https://open.spotify.com/album/5Xk43pNnNtK7vOZgVOeZlR) | 3:01 |
 | 37 | [Resta qui](https://open.spotify.com/track/6qGNR71s3xOmykV7m4sG6R) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [Resta qui](https://open.spotify.com/album/6LeJRwegrJr2ixJM3tfXKv) | 2:53 |
 | 38 | [TROPPO \(2Much\)](https://open.spotify.com/track/404XGGrSDwF4hb3xzdbUSc) | [PLATA](https://open.spotify.com/artist/0HEXJrFImu9YGNMHZB4NEi) | [TROPPO \(2Much\)](https://open.spotify.com/album/1Ettzdd0ZDQ3nM5TTtkjyd) | 2:43 |
 | 39 | [Frasi mai dette](https://open.spotify.com/track/1kcxeNQRYW8ttaEWoGDLPt) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Frasi mai dette](https://open.spotify.com/album/3S4XnXCd6EtsIDBHIFeydA) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Corona](https://open.spotify.com/track/4h0n6lMdF9vWrNTfiNUBD3) | [AuRORA](https://open.spotify.com/artist/4MNMNUDNnxNQyg8uHU0gQV), [iLL Papi](https://open.spotify.com/artist/1xFWY11ZQ1aBUIgIa7c7By) | [Corona](https://open.spotify.com/album/12Qg04jmiRAUwxLXtF5UjR) | 3:42 |
 | 50 | [Censura](https://open.spotify.com/track/1T1KvyxFWb2RB9tBKexrfA) | [Elex](https://open.spotify.com/artist/4j4Lzob5lrhowmGN5HKZWe) | [Censura](https://open.spotify.com/album/2T0YHycMgCWMWoMhXXbznt) | 2:49 |
 
-Snapshot ID: `MCw4OTllYTI4OWZhNTBjMWQ3MTNmMTBkNjcyM2IyNzEyMjBjYzZiZTVi`
+Snapshot ID: `MCw5YTBiZTMzZjgwY2EwMWZiMDA3MmJhNjRiOTRiNWFmOGI4ZWY5ZWNi`

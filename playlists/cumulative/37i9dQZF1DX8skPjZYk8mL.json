@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "ABC Song",
+        "url": "https://open.spotify.com/album/26COnZHGF6vpIIl6aVOtsV"
+      },
+      "artists": [
+        {
+          "name": "Singing Guitar",
+          "url": "https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102743,
+      "name": "ABC Song",
+      "url": "https://open.spotify.com/track/21LURtt0dELILmz9u99mWK"
+    },
+    {
+      "album": {
         "name": "Butterflies Forever",
         "url": "https://open.spotify.com/album/3aOopnGPgqmGWey9DfAH3D"
       },
@@ -794,6 +812,24 @@
       "duration_ms": 120874,
       "name": "An Angel Goes To Bed",
       "url": "https://open.spotify.com/track/1EOBqDXmXYQ1OK6Orubc9n"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79691,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS"
     },
     {
       "album": {
@@ -1298,6 +1334,24 @@
       "duration_ms": 98166,
       "name": "Baby Runway",
       "url": "https://open.spotify.com/track/622MUzx4doeLxvukoJsSRb"
+    },
+    {
+      "album": {
+        "name": "Baby shark",
+        "url": "https://open.spotify.com/album/5vLfJKN5JC2Ipf7oXXXh4r"
+      },
+      "artists": [
+        {
+          "name": "Sarah Bainscroft",
+          "url": "https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95374,
+      "name": "Baby shark",
+      "url": "https://open.spotify.com/track/3L5NdDhcagFkwLcMpbTDHK"
     },
     {
       "album": {
@@ -2608,7 +2662,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 118154,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/1DE5TG9kbk1EhFI8jbnynS"
@@ -3674,6 +3728,24 @@
       "duration_ms": 99224,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/13GKdhfHesxaGXTOS6y1Ui"
+    },
+    {
+      "album": {
+        "name": "Dreamland Promenade",
+        "url": "https://open.spotify.com/album/4IWC0KSY2PBDf8UFCScMo4"
+      },
+      "artists": [
+        {
+          "name": "Teddy Gorbella",
+          "url": "https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Dreamland Promenade",
+      "url": "https://open.spotify.com/track/03Qc20BWJ7ivcl3LMLEIeN"
     },
     {
       "album": {
@@ -5992,7 +6064,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 96750,
       "name": "Head Shoulders Knees and Toes",
       "url": "https://open.spotify.com/track/6L3jWWum4jr3UNz17UQPai"
@@ -6028,10 +6100,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 70960,
       "name": "Head, Shoulders, Knees & Toes",
       "url": "https://open.spotify.com/track/2dFPxWOCYFfmp9mvdg07v1"
+    },
+    {
+      "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/13z6pz63qQVqQXflynPRg0"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85000,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/5dgHVQChKN990KBnMeSKo3"
     },
     {
       "album": {
@@ -6086,6 +6176,24 @@
       "duration_ms": 108770,
       "name": "Heavenly Dreams",
       "url": "https://open.spotify.com/track/2V1aDmJ0YBUGipLpHLzQvB"
+    },
+    {
+      "album": {
+        "name": "Heavenly Melody",
+        "url": "https://open.spotify.com/album/2ziFX1RLnLitYmbEppUx9n"
+      },
+      "artists": [
+        {
+          "name": "Amy Roman",
+          "url": "https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81600,
+      "name": "Heavenly Melody",
+      "url": "https://open.spotify.com/track/3jVBk1cx8265VNDgqQqP6g"
     },
     {
       "album": {
@@ -6287,6 +6395,24 @@
     },
     {
       "album": {
+        "name": "How Much Is That Doggie In The Window?",
+        "url": "https://open.spotify.com/album/5Lb6JFr7virY0Pp3nROzbo"
+      },
+      "artists": [
+        {
+          "name": "Tom Abott",
+          "url": "https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "How Much Is That Doggie In The Window?",
+      "url": "https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1"
+    },
+    {
+      "album": {
         "name": "Hug me",
         "url": "https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu"
       },
@@ -6428,6 +6554,24 @@
       "duration_ms": 83320,
       "name": "H\u00e4r kommer Pippi L\u00e5ngstrump",
       "url": "https://open.spotify.com/track/6pPKsXco1LF5kG9BGaXocm"
+    },
+    {
+      "album": {
+        "name": "I Am A Tree",
+        "url": "https://open.spotify.com/album/2jXeI0F6ayYXySHl7DLZq4"
+      },
+      "artists": [
+        {
+          "name": "Alice Greye",
+          "url": "https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75565,
+      "name": "I Am A Tree",
+      "url": "https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN"
     },
     {
       "album": {
@@ -7742,6 +7886,24 @@
       "duration_ms": 121125,
       "name": "Le Fiacre - Guitar Version",
       "url": "https://open.spotify.com/track/6CUY3d2PJhIzR2V6MNkoSf"
+    },
+    {
+      "album": {
+        "name": "Left And Right",
+        "url": "https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1"
+      },
+      "artists": [
+        {
+          "name": "Francine Miller",
+          "url": "https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Left And Right",
+      "url": "https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr"
     },
     {
       "album": {
@@ -9329,6 +9491,24 @@
     },
     {
       "album": {
+        "name": "Music Box Lullaby",
+        "url": "https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N"
+      },
+      "artists": [
+        {
+          "name": "Etne Ski\u00f6ld",
+          "url": "https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85334,
+      "name": "Music Box Lullaby",
+      "url": "https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs"
+    },
+    {
+      "album": {
         "name": "My Baby Brother",
         "url": "https://open.spotify.com/album/7kS49Ln0lmwL9Ytozwpv67"
       },
@@ -10373,6 +10553,24 @@
     },
     {
       "album": {
+        "name": "Oh My Darling, Clementine",
+        "url": "https://open.spotify.com/album/5f3vdWw6khtrpGnYxjB3Hh"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137653,
+      "name": "Oh My Darling, Clementine",
+      "url": "https://open.spotify.com/track/3NctLByx0t5oaDaElVHM2j"
+    },
+    {
+      "album": {
         "name": "My Music Box",
         "url": "https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl"
       },
@@ -10910,6 +11108,24 @@
       "duration_ms": 78065,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV"
+    },
+    {
+      "album": {
+        "name": "Pop! Goes the Weasel",
+        "url": "https://open.spotify.com/album/76pWhtPUKI4MVWpc05Ykhh"
+      },
+      "artists": [
+        {
+          "name": "Aleeza May",
+          "url": "https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Pop! Goes the Weasel",
+      "url": "https://open.spotify.com/track/7amwRp4KIwmjbfGYpRzqjl"
     },
     {
       "album": {
@@ -12066,6 +12282,24 @@
     {
       "album": {
         "name": "Sleep Tight",
+        "url": "https://open.spotify.com/album/5Pywhre8CiDc7TeJrI1NFO"
+      },
+      "artists": [
+        {
+          "name": "Julia Zerrano",
+          "url": "https://open.spotify.com/artist/18VV4kqB6xgRj86VsETZyF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90057,
+      "name": "Sleep Tight",
+      "url": "https://open.spotify.com/track/1qnBlWiRl4xezxFcSBdCKS"
+    },
+    {
+      "album": {
+        "name": "Sleep Tight",
         "url": "https://open.spotify.com/album/2wyRwPa4bcxLlhMwRSpTwg"
       },
       "artists": [
@@ -12076,7 +12310,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 109044,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/3WYzdiuE5IViSiYn0eTfaU"
@@ -12299,6 +12533,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Woods",
+        "url": "https://open.spotify.com/album/0Mq2RsU8NGCcVidZ7MhKAD"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86426,
+      "name": "Sleeping Woods",
+      "url": "https://open.spotify.com/track/6pSNIn6VLzkJMmv7NL7mkF"
+    },
+    {
+      "album": {
         "name": "Sleepover",
         "url": "https://open.spotify.com/album/4JuajeyLNsvCtgaWRmCw2r"
       },
@@ -12368,6 +12620,24 @@
       "duration_ms": 82726,
       "name": "Sleepy Bells",
       "url": "https://open.spotify.com/track/08HHyYsAkYY1VIxgU0dbSG"
+    },
+    {
+      "album": {
+        "name": "Sleepy Clouds",
+        "url": "https://open.spotify.com/album/0iSkJupalfCNNeLEMjW1P2"
+      },
+      "artists": [
+        {
+          "name": "Petra Mogensen",
+          "url": "https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71257,
+      "name": "Sleepy Clouds",
+      "url": "https://open.spotify.com/track/7fMrzJgBQSprNEV7iFI68u"
     },
     {
       "album": {
@@ -13052,6 +13322,24 @@
       "duration_ms": 113124,
       "name": "Sov P\u00e5 Min Arm - Guitar Version",
       "url": "https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD"
+    },
+    {
+      "album": {
+        "name": "Spider On The Moon",
+        "url": "https://open.spotify.com/album/4l97q3ZyPwOA3DY6ZKfC3O"
+      },
+      "artists": [
+        {
+          "name": "Will Bloom",
+          "url": "https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "Spider On The Moon",
+      "url": "https://open.spotify.com/track/3CX4FUQOZIpWrVDS7kT15x"
     },
     {
       "album": {
@@ -14243,6 +14531,24 @@
     },
     {
       "album": {
+        "name": "The Little Cat",
+        "url": "https://open.spotify.com/album/2RWn4HqgszUr2WcRif6D2H"
+      },
+      "artists": [
+        {
+          "name": "Mischa Frey",
+          "url": "https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61419,
+      "name": "The Little Cat",
+      "url": "https://open.spotify.com/track/63T6RCOrxseQR7iVsf1ylb"
+    },
+    {
+      "album": {
         "name": "The Little Snail",
         "url": "https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p"
       },
@@ -14693,6 +14999,24 @@
     },
     {
       "album": {
+        "name": "The Willow Lullaby",
+        "url": "https://open.spotify.com/album/1FWgcYsQJiQ2Go4wTQA7fI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Griffiths",
+          "url": "https://open.spotify.com/artist/1iaN5x7M1F2j9R5y0bJ88J"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80431,
+      "name": "The Willow Lullaby",
+      "url": "https://open.spotify.com/track/4wbh6A0s8VpVLC1c7qhM1G"
+    },
+    {
+      "album": {
         "name": "The Wind And The Sun",
         "url": "https://open.spotify.com/album/4gMsViIbKUgBib6mRwRVfF"
       },
@@ -14866,7 +15190,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 134854,
       "name": "This Willow Lullaby",
       "url": "https://open.spotify.com/track/3xM1HE5Uba8Mzo13G7O0Bn"
@@ -16760,6 +17084,24 @@
       "duration_ms": 95937,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ"
+    },
+    {
+      "album": {
+        "name": "You Are Feeling Sleepy",
+        "url": "https://open.spotify.com/album/6K2t5rV4eSuFpkZA2ofwP5"
+      },
+      "artists": [
+        {
+          "name": "Amos Green",
+          "url": "https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87308,
+      "name": "You Are Feeling Sleepy",
+      "url": "https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt"
     },
     {
       "album": {

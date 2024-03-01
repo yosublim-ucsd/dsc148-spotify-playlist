@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Angelina Mango
+> ✨giovane✨pop✨z✨ Cover: Il Tre
 
-343 songs - 15 hr 50 min
+345 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [IL CORAGGIO DELLA PAURA](https://open.spotify.com/track/2XUsIKnMYTjGNRsloL1DHk) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:54 | 2023-09-14 | 2023-11-10 |
 | [Il meglio di me \(feat\. Nashley\)](https://open.spotify.com/track/1Fq5jm18up2C5yJaqSKb3C) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Il meglio di me \(feat\. Nashley\)](https://open.spotify.com/album/0a1OtqBBLzHf6h1qagBFKq) | 2:46 | 2023-05-25 | 2023-06-09 |
 | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/track/727b2Tqk054VaqdizPo2in) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/album/0BEUay4OiO1kmxSfhqREQQ) | 2:32 | 2023-10-26 | 2023-11-10 |
+| [il problema ero io](https://open.spotify.com/track/1IW2xjoKjXIRsWHAY6y2S8) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [il problema ero io](https://open.spotify.com/album/0ACp7I86LSwsRr4NCOMp16) | 2:30 | 2024-02-29 |  |
 | [INCOLMABILE](https://open.spotify.com/track/76Sybu8V1i5sp7Ew4pp4l8) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [INCOLMABILE](https://open.spotify.com/album/2SywZjY7wHMeGZRQmGC6VG) | 3:10 | 2023-11-30 | 2023-12-16 |
 | [Innamorato](https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:36 | 2023-04-13 |  |
 | [Io Non Lo So](https://open.spotify.com/track/2eHOxOoWWj0is98NlvUoqd) | [Romeo & Drill](https://open.spotify.com/artist/58R2c9Zopp6mfar9rKXbEm) | [Io Non Lo So](https://open.spotify.com/album/6idUEOKJZ3dkR1f1DrbNe1) | 2:29 | 2023-04-20 | 2023-05-19 |
@@ -218,7 +219,7 @@
 | [Non te l'ho detto mai](https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Non te l'ho detto mai](https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS) | 2:16 | 2023-11-16 | 2023-12-08 |
 | [Non Ti Levo Dalla Testa](https://open.spotify.com/track/0i03V0gL4bx2EaGg2KVjPP) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Scarabocchi](https://open.spotify.com/album/4Fo6Walba2hkPdQ5XMBG5m) | 2:44 | 2023-06-29 | 2023-07-21 |
 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-09-05 | 2023-09-22 |
-| [Non ti voglio più vedere](https://open.spotify.com/track/4wlfHVP0BJALiYR1EpUTtk) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Non ti voglio più vedere](https://open.spotify.com/album/6Md7blnVhuI5fsbVuVkKWD) | 2:46 | 2024-02-15 |  |
+| [Non ti voglio più vedere](https://open.spotify.com/track/4wlfHVP0BJALiYR1EpUTtk) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Non ti voglio più vedere](https://open.spotify.com/album/6Md7blnVhuI5fsbVuVkKWD) | 2:46 | 2024-02-15 | 2024-03-01 |
 | [Non è abbastanza](https://open.spotify.com/track/4pVl4rqimmJupO2B2aPfTb) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non è abbastanza](https://open.spotify.com/album/78Hk7mg4eWrYauEPYI8yIn) | 2:59 | 2024-01-04 | 2024-01-19 |
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 | 2023-06-09 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |
@@ -260,7 +261,7 @@
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2023-05-19 |
 | [Promesse \(from the original Netflix series "DI4RI"\)](https://open.spotify.com/track/1cSRzvNN1xMHpkgCBFAqIE) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Promesse \(from the original Netflix series "DI4RI"\)](https://open.spotify.com/album/2c3QzmZOHzb3T1Z0IQxBZM) | 2:26 | 2023-12-07 | 2024-01-12 |
 | [pum pum pum](https://open.spotify.com/track/7oS4wH2v1Yl8fAdKxBZL61) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [pum pum pum](https://open.spotify.com/album/2JWpXVDQrDkFHLGmBuHznT) | 2:33 | 2024-01-04 | 2024-02-02 |
-| [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 | 2024-01-18 |  |
+| [quando realizzi che non ti aveva capito](https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando realizzi che non ti aveva capito](https://open.spotify.com/album/1XZ2XLLCU20UJHFix4Wbiy) | 2:46 | 2024-01-18 | 2024-03-01 |
 | [Radar](https://open.spotify.com/track/3EdDWXSjgqazIp9G1VzK3S) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [Radar](https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ) | 2:21 | 2023-11-02 | 2023-11-17 |
 | [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 | 2024-02-15 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-26 | 2024-02-02 |
@@ -329,6 +330,7 @@
 | [Un po' di te](https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Un po' di te](https://open.spotify.com/album/1ayaxYovLmlTBMLMZjSA9M) | 2:07 | 2023-10-26 | 2024-01-05 |
 | [UN'ALTRA ORA](https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [UN'ALTRA ORA](https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ) | 2:55 | 2023-05-18 | 2023-09-22 |
 | [una canzone al giorno](https://open.spotify.com/track/6y9aoXQMdsJxPg2FIxdmdv) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [una canzone al giorno](https://open.spotify.com/album/1hw4MhXLRqFTaMJREQpTvn) | 2:31 | 2023-11-09 | 2023-11-24 |
+| [Una stella in cielo](https://open.spotify.com/track/5HyTee9UYav7DYngohVycc) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [ORA D'ARIA](https://open.spotify.com/album/3e3QTPyeIRp0lkTdbAWgxC) | 2:49 | 2024-02-29 |  |
 | [Unica](https://open.spotify.com/track/1dy9J9p6pWPmuxvi34A1As) | [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [Unica](https://open.spotify.com/album/1IBi8TeetLlAXP8sFOmW7i) | 2:21 | 2023-04-13 | 2023-05-05 |
 | [Unica Stronza](https://open.spotify.com/track/3Ilv72auWQ1GKbxxfnxDop) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [Unica Stronza](https://open.spotify.com/album/0bfWCcxp6wgKCPdFQpox0O) | 2:22 | 2024-01-18 |  |
 | [Un’altra Mania](https://open.spotify.com/track/1taGP4ykDbPVPqMt1wovJN) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Un’altra Mania](https://open.spotify.com/album/7yuIChBCoWVFzgM7ZbHPs1) | 2:36 | 2023-09-28 | 2023-10-13 |

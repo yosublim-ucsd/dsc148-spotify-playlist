@@ -1,29 +1,13 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0?si=tQN8O9JPSyCXmbNbUMMs_Q\">Umlungu The Rapper</a> & <a href=\"https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy?si=U-cG6Z0_TNu6lsKpLiOXHw\">Big Xhosa</a>",
-  "num_followers": 1406,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=000QE8w3TOigD6pbhwU2-A\">Ziggy4x</a> ",
+  "num_followers": 1408,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGU0Y2QzNGQ1YWY0NGFlNTIwNjIwZjA0Yjc0NzQ3YWI5OWJkYTI5",
+  "snapshot_id": "MCxmNmNjNWIwNWE1MDRiOTI3NWFjYjEzZGI1MGViMmI1NjM0NzhkN2Jh",
   "tracks": [
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
-        "name": "Dinge",
-        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
-      },
-      "artists": [
-        {
-          "name": "C.M.T",
-          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
-        }
-      ],
-      "duration_ms": 132478,
-      "name": "Dinge",
-      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
-    },
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
@@ -53,6 +37,26 @@
       "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
     },
     {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Nou Wat Nou",
+        "url": "https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        },
+        {
+          "name": "Bula B",
+          "url": "https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw"
+        }
+      ],
+      "duration_ms": 222809,
+      "name": "Nou Wat Nou",
+      "url": "https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Sundphazamisa",
@@ -71,6 +75,34 @@
       "duration_ms": 192296,
       "name": "Sundphazamisa",
       "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "BOSS NIGGAS ONLY V2",
+        "url": "https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd"
+      },
+      "artists": [
+        {
+          "name": "Boss Niggas Only",
+          "url": "https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq"
+        },
+        {
+          "name": "Jy Checkie",
+          "url": "https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst"
+        },
+        {
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a"
+        },
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Nigel Hulle",
+      "url": "https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -191,26 +223,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Da Money",
-        "url": "https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN"
-      },
-      "artists": [
-        {
-          "name": "Jossi-Boy",
-          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
-        },
-        {
-          "name": "Cee Jay Zondagh",
-          "url": "https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Da Money",
-      "url": "https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "JMHWB",
         "url": "https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO"
       },
@@ -247,6 +259,26 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Da Money",
+        "url": "https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN"
+      },
+      "artists": [
+        {
+          "name": "Jossi-Boy",
+          "url": "https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY"
+        },
+        {
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Da Money",
+      "url": "https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Ek Sal Nie Lieg Nie",
         "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
       },
@@ -279,6 +311,22 @@
       "duration_ms": 121208,
       "name": "Los Hom",
       "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Dinge",
+        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "duration_ms": 132478,
+      "name": "Dinge",
+      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -803,42 +851,6 @@
       "duration_ms": 206928,
       "name": "Op Dai",
       "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Wie",
-        "url": "https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk"
-      },
-      "artists": [
-        {
-          "name": "Young Midi",
-          "url": "https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4"
-        }
-      ],
-      "duration_ms": 117894,
-      "name": "Wie",
-      "url": "https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Jou Mase",
-        "url": "https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8"
-      },
-      "artists": [
-        {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
-        },
-        {
-          "name": "Bailomusiq",
-          "url": "https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm"
-        }
-      ],
-      "duration_ms": 184018,
-      "name": "Jou Mase",
-      "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
     },
     {
       "added_at": "2024-02-15 22:00:00",

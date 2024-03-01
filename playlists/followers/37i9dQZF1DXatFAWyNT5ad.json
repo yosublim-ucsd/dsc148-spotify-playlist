@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 134440,
+  "2024-03-01": 134517,
   "date_first_scraped": "2022-03-18",
   "description": "Let's mix it. Cover: Royal & the Serpent & GAYLE",
   "name": "Pop Rock",
@@ -833,7 +833,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 191539,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG"
@@ -5363,6 +5363,24 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
     },
     {
       "album": {

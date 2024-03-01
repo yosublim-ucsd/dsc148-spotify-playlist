@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Stormy
 
-382 songs - 19 hr 50 min
+383 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Gabaski](https://open.spotify.com/track/53O2RSGSBgy4LUpuOUntOm) | [Mansor Unknown](https://open.spotify.com/artist/5i7gYXv9p3H7bt0nsG4iGX), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Gabaski](https://open.spotify.com/album/30dy2vgOJfYVG9vMst5pck) | 2:39 | 2022-05-08 | 2022-10-04 |
 | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/track/0RkRvd3bccxgMYVU5PB8C7) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1), [Narcy](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg) | [Galbi Dalili \(feat\. Narcy\)](https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE) | 2:48 | 2022-05-08 | 2022-10-04 |
 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-10-04 | 2023-01-12 |
-| [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 | 2024-02-27 |  |
+| [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 | 2024-02-27 | 2024-03-01 |
 | [Gazra](https://open.spotify.com/track/1MfMQGqZwuYRMuiKHISLLB) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [Gazra](https://open.spotify.com/album/14ytgvdfVopFLzc8BLk5or) | 3:12 | 2022-05-08 | 2022-08-24 |
 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 | 2023-05-09 |  |
 | [Ghaba](https://open.spotify.com/track/45GbniNGdKE7vSgggfcBWl) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Ghaba](https://open.spotify.com/album/3dllHmcOIukOlPcbo5i6mJ) | 3:04 | 2022-05-08 | 2022-07-29 |
@@ -369,6 +369,7 @@
 | [سحمد](https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:17 | 2022-10-29 | 2023-02-09 |
 | [شبح](https://open.spotify.com/track/6qnmwdAV0EvhqUZcG39Guc) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [شبح](https://open.spotify.com/album/177r3dKhP8zt50lc3w46nq) | 3:21 | 2023-01-11 | 2023-03-01 |
 | [شكلو الحب ببلاش](https://open.spotify.com/track/5xCCHAbv3DlMcXEjr0f437) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [شكلو الحب ببلاش](https://open.spotify.com/album/5nlEYcUFoHZLphgZnLwKDK) | 2:40 | 2023-02-28 | 2023-06-01 |
+| [شنو يا صاحبي](https://open.spotify.com/track/1sbLYOyEE4U6Zxmv7XtTj0) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [شنو يا صاحبي](https://open.spotify.com/album/5aLLdNRnwoEUalcoiyzK2a) | 2:41 | 2024-02-29 |  |
 | [طارد](https://open.spotify.com/track/4rwYZgXizcP4Su8BPWQgPu) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [\(ديلوكس\) القمر و المحيط](https://open.spotify.com/album/3EpdIb7idWt3A13hPYPiJh) | 3:23 | 2022-05-08 | 2022-10-04 |
 | [طول الليل ٢ \(مع بو كلثوم\)](https://open.spotify.com/track/7qL85uiVsGDhh7sGBZRGbd) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [طول الليل ٢ \(مع بو كلثوم\)](https://open.spotify.com/album/0zenGS0ssNWLrIvuPXigk1) | 3:26 | 2022-05-08 | 2022-08-24 |
 | [ع الله الرزق](https://open.spotify.com/track/4DBVD4JZDjwIdhp6iy6rTi) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Chyno with a Why?](https://open.spotify.com/artist/6andpWdsNFMIOgxISRp14o), [Wardenclyph](https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h) | [ع الله الرزق](https://open.spotify.com/album/1JAgDihISYAnbuKMCtQfPA) | 2:47 | 2023-07-03 | 2023-09-19 |

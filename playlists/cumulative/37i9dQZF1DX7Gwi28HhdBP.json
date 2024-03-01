@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Shyaf Nafsk",
+        "url": "https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Sheba",
+          "url": "https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236590,
+      "name": "Shyaf Nafsk",
+      "url": "https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg"
+    },
+    {
+      "album": {
         "name": "Sohab Fashosh",
         "url": "https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4"
       },

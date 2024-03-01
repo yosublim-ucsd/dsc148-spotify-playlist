@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 281426,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 202049,
       "name": "Smile Again",
       "url": "https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r"
@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "TALKIN'",
+        "url": "https://open.spotify.com/album/6KaE7SAZv0WhVISS6eOaG6"
+      },
+      "artists": [
+        {
+          "name": "ONE N' ONLY",
+          "url": "https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "TALKIN'",
+      "url": "https://open.spotify.com/track/2BZcMGnMHydT4heylUMrrk"
+    },
+    {
+      "album": {
         "name": "Temperature (Prod. JP THE WAVY)",
         "url": "https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT"
       },
@@ -2242,6 +2260,24 @@
       "duration_ms": 173200,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT"
+    },
+    {
+      "album": {
+        "name": "THE FAR EAST COWBOYZ (E.P.)",
+        "url": "https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT"
+      },
+      "artists": [
+        {
+          "name": "EXILE THE SECOND",
+          "url": "https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "We are the best",
+      "url": "https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7"
     },
     {
       "album": {
@@ -2429,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30d7\u30c7\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/4EMfb42stEGsMlYKOA8Kot"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213012,
+      "name": "\u30a2\u30d7\u30c7\u30e9\u30a4\u30d5",
+      "url": "https://open.spotify.com/track/6jy7ZZFpfHsx9gUncP6W15"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
         "url": "https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d"
       },
@@ -2476,7 +2530,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 203855,
       "name": "\u30ac\u30fc\u30d9\u30e9",
       "url": "https://open.spotify.com/track/2YRmtXRIo66phllXOLOdlL"

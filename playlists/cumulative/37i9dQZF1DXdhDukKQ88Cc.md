@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
+> det største dk rap lige nu.\. <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a>,  <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Benny Jamz</a>, <a href="spotify:artist:3RYYha3CC7js2PHbcBHewt">ICEKIID</a> har ny musik ude 🔥
 
-134 songs - 5 hr 45 min
+137 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 | 2024-01-19 |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 | 2023-12-14 |
 | [Baggen](https://open.spotify.com/track/1I3SW3d0TGH1NWY0tfK4QH) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Baggen](https://open.spotify.com/album/1X7LxXRddLunOvIu3gXDTP) | 2:20 | 2023-11-10 | 2024-01-19 |
+| [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 | 2024-02-29 |  |
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 | 2024-01-19 |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
@@ -35,6 +36,7 @@
 | [Den Sidste](https://open.spotify.com/track/07X1mqPPTSMdtdN03rxMyu) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Den Sidste](https://open.spotify.com/album/3qsX0mf6RmJssERtAQSwua) | 2:25 | 2023-10-12 | 2023-11-11 |
 | [Differente](https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:20 | 2023-11-10 |  |
 | [DISCO FOMO](https://open.spotify.com/track/46dax66BvUDwO3b15Dc3ZH) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [DISCO FOMO](https://open.spotify.com/album/1uzvZpLr8jnwtlEjukbDT4) | 2:39 | 2023-10-06 | 2023-10-13 |
+| [DO YOU LOVE ME?](https://open.spotify.com/track/7k4SfOrgXvcgXCH2QzcfZq) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [DO YOU LOVE ME?](https://open.spotify.com/album/3Eu2ClmDJkAsMPYB8oylQd) | 2:22 | 2024-02-29 |  |
 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/track/1JknFyUyJ4c8pfOHcFNrzF) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/album/6fSe0DKpyUwXJQwPypQRbP) | 2:14 | 2023-11-10 |  |
 | [Du & Jeg](https://open.spotify.com/track/13FWeWAZ84LQQ1S4KNPWWe) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Du & Jeg](https://open.spotify.com/album/1JHGi1TfBtT4HSsEOflXhb) | 2:53 | 2023-11-10 | 2023-11-18 |
@@ -65,6 +67,7 @@
 | [Helwa \(feat\. PAY & Xabski\)](https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Ny Art](https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z) | 3:09 | 2023-09-21 | 2023-11-11 |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 | 2023-12-14 |
 | [hva status](https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 2:57 | 2023-09-21 | 2024-02-23 |
+| [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 | 2024-02-29 |  |
 | [Hverdagsting](https://open.spotify.com/track/1jfNg2O6NG0kqzKoVM6ZOi) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Hverdagsting](https://open.spotify.com/album/63Ry8S7K5yhxzBPHW3kgp4) | 3:10 | 2023-11-16 |  |
 | [Hygger Mig](https://open.spotify.com/track/1N4BSn8IL42uQqSi6M6Ojk) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Hygger Mig](https://open.spotify.com/album/42zloc0SgxSR9HSQa2EMyw) | 2:25 | 2024-02-15 |  |
 | [Højere](https://open.spotify.com/track/309pcsTV8a5NApBwPppZtx) | [Babyface Mo](https://open.spotify.com/artist/4HLdhkirMBFxuir7hgDtmf) | [Højere](https://open.spotify.com/album/7xtqMHOracguY7dbcQynRL) | 2:14 | 2023-12-08 | 2024-01-19 |

@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "MEDAL",
+        "url": "https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf"
+      },
+      "artists": [
+        {
+          "name": "Chandra Brar",
+          "url": "https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133043,
+      "name": "MEDAL",
+      "url": "https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
       },
@@ -995,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg"
+      },
+      "artists": [
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182762,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs"
+    },
+    {
+      "album": {
         "name": "Naveezy",
         "url": "https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT"
       },
@@ -1028,7 +1068,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 207272,
       "name": "Naam Sunuga",
       "url": "https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL"
@@ -1408,7 +1448,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 206257,
       "name": "Silicone",
       "url": "https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ"

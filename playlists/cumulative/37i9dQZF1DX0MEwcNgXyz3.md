@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-70 songs - 3 hr 51 min
+71 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Revenge](https://open.spotify.com/track/47GEdwG8Epe1254AnwKP4e) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:27 | 2022-11-01 |  |
 | [Revenge](https://open.spotify.com/track/6R2GToDZxJtArxQDwr4YK8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:27 | 2022-11-01 | 2022-11-17 |
 | [Revolution](https://open.spotify.com/track/7iceFyXQeIaDuIxIlJZrGB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:20 | 2022-11-01 |  |
-| [Ripe](https://open.spotify.com/track/3swlYCo5DAjff844G6Quwp) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Suck My Feminism \(Deluxe\)](https://open.spotify.com/album/3HlPPNOMttdO0a2ROodt7U) | 2:36 | 2022-11-01 |  |
+| [Ripe](https://open.spotify.com/track/3swlYCo5DAjff844G6Quwp) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Suck My Feminism \(Deluxe\)](https://open.spotify.com/album/3HlPPNOMttdO0a2ROodt7U) | 2:36 | 2022-11-01 | 2024-03-01 |
+| [Ripe](https://open.spotify.com/track/5cOJAACnd9jTsMEjjlWQS0) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Suck My Feminism \(Deluxe\)](https://open.spotify.com/album/5BBvEN7V7gj5qRKUZAzau4) | 2:36 | 2022-11-01 |  |
 | [Run Boy Run](https://open.spotify.com/track/26jIBBZgevyNUpPU2G2ru5) | [Snake City](https://open.spotify.com/artist/7sSkoIWGzQXQC3Pvex07KM) | [Run Boy Run](https://open.spotify.com/album/23xRDRYiptqM73T2t0lVX4) | 3:22 | 2022-11-01 |  |
 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 | 2022-11-01 |  |
 | [Sad Love](https://open.spotify.com/track/4x3pKqllzC0MfvCODPK5hS) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:25 | 2022-11-01 | 2022-11-17 |

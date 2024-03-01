@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 1193701,
+  "2024-03-01": 1193867,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Felguk, Watzgood",
   "name": "Dance Paradise",
@@ -77,10 +77,36 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 187857,
       "name": "2 Much 2 Handle (Cheyenne Giles Remix)",
       "url": "https://open.spotify.com/track/5PRprahs97yR5uwQkpgz4L"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST 2: Double Helix Remixed",
+        "url": "https://open.spotify.com/album/73RBjRZjJms5q8X0BHnP9g"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187857,
+      "name": "2 Much 2 Handle (Cheyenne Giles Remix)",
+      "url": "https://open.spotify.com/track/5RHPVQCHefm78e7yjJRdQP"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 400737,
+  "2024-03-01": 400787,
   "date_first_scraped": "2022-02-06",
   "description": "Dark, hard hitting pop. Cover: Allie X",
   "name": "SALT",
@@ -6188,6 +6188,24 @@
     },
     {
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/1fO1r3rTHIcF1s6pG8EGZs"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174847,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3qkKAfqOn7laGPeVicY1bX"
+    },
+    {
+      "album": {
         "name": "Maybe All the Rumours Are True",
         "url": "https://open.spotify.com/album/5bzK7vxzep2qDCOUxvXwAr"
       },
@@ -7643,6 +7661,24 @@
       "duration_ms": 141000,
       "name": "Puppy Luv <3",
       "url": "https://open.spotify.com/track/70a19sYodwy0NyVRAKoqK4"
+    },
+    {
+      "album": {
+        "name": "pure violence",
+        "url": "https://open.spotify.com/album/7fPsKJHOMQT11iNN2crFKu"
+      },
+      "artists": [
+        {
+          "name": "Ava Morse",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168877,
+      "name": "pure violence",
+      "url": "https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut"
     },
     {
       "album": {

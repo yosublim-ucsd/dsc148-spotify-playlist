@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Ghetts",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One",
   "name": "Rap UK",
   "tracks": [
     {
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 181333,
       "name": "BOSSED UP",
       "url": "https://open.spotify.com/track/77pqHfne6qBJ2i5ZRlsgyI"
@@ -8066,7 +8066,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184615,
       "name": "Cutlery",
       "url": "https://open.spotify.com/track/3agVaetMwVUmDOE8PGCYpz"
@@ -11162,6 +11162,28 @@
       "duration_ms": 156146,
       "name": "Exciting",
       "url": "https://open.spotify.com/track/3S7XptLRvV6bZrmrz7WhmA"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139680,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
     },
     {
       "album": {
@@ -15551,6 +15573,28 @@
     },
     {
       "album": {
+        "name": "IN THE WIND",
+        "url": "https://open.spotify.com/album/5eAlt6aAmJtkSzli7x4saM"
+      },
+      "artists": [
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "IN THE WIND",
+      "url": "https://open.spotify.com/track/5psjIIxm7HybOFEoV3JBmt"
+    },
+    {
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -15882,7 +15926,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 148456,
       "name": "IT'S ONLY YOU",
       "url": "https://open.spotify.com/track/066JufxuaAPBsT6raHbMEc"
@@ -17815,6 +17859,24 @@
     },
     {
       "album": {
+        "name": "Like Magic",
+        "url": "https://open.spotify.com/album/6FIcW7Eo6G85DEk6T6Uc8M"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188526,
+      "name": "Like Magic",
+      "url": "https://open.spotify.com/track/2r3usZIRwyBbn8pQEbu4tg"
+    },
+    {
+      "album": {
         "name": "Like Me",
         "url": "https://open.spotify.com/album/585IaYP3GRH5yiBW9gNOYf"
       },
@@ -19181,6 +19243,24 @@
     },
     {
       "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/5JBII4EQXygFX5dW0mvrZN"
+      },
+      "artists": [
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122670,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/266r66IHeCwkVx9i7UGAyw"
+    },
+    {
+      "album": {
         "name": "Martin's Sofa",
         "url": "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O"
       },
@@ -19570,7 +19650,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 148732,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/0j8auase4ewhmpNDHmfOnZ"
@@ -24268,7 +24348,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 175360,
       "name": "Pink Notes",
       "url": "https://open.spotify.com/track/2fm91v65aa2N5CCc2wOvHE"
@@ -26586,7 +26666,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 135173,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/0muFHLZj65WwIqGVYHnsPA"
@@ -28910,6 +28990,24 @@
       "duration_ms": 260192,
       "name": "Snowman/Scarecrow",
       "url": "https://open.spotify.com/track/71kepEy3H4NUVXoQMSN3LP"
+    },
+    {
+      "album": {
+        "name": "Socials",
+        "url": "https://open.spotify.com/album/3wIFD68W3eGHj0Yx5C8I4r"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165139,
+      "name": "Socials",
+      "url": "https://open.spotify.com/track/4lXM4G3waswwheaVOhKPKZ"
     },
     {
       "album": {
@@ -31803,6 +31901,32 @@
     },
     {
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207454,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "album": {
         "name": "Tony Soprano 2",
         "url": "https://open.spotify.com/album/5qStOG2kaV6pRmO5ThwuQ1"
       },
@@ -34648,6 +34772,28 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "album": {
+        "name": "Wonderkid",
+        "url": "https://open.spotify.com/album/6FhOcSkXbZFUF7ONRbE1nA"
+      },
+      "artists": [
+        {
+          "name": "Jordy",
+          "url": "https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Wonderkid",
+      "url": "https://open.spotify.com/track/7C4mpGALsYWPKemjWQig0s"
     },
     {
       "album": {

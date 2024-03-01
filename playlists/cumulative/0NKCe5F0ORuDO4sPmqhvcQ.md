@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-572 songs - 1 day 8 hr 10 min
+573 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-02 | 2022-01-08 |
 | [Psycho Bubblegum](https://open.spotify.com/track/4ri7J4V85t9huVJ3aqxvdR) | [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Psycho Bubblegum](https://open.spotify.com/album/2D9lGhQ0uAM5WMzUiWQIyP) | 1:58 | 2022-11-04 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 |  |
+| [rainonmyparade](https://open.spotify.com/track/7IQPEaJi04YGb0NrZnHMqh) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1) | [rainonmyparade](https://open.spotify.com/album/5kw8ltCF2M15RLZSMBqAjh) | 2:34 | 2024-03-01 |  |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 | 2022-07-01 | 2022-09-19 |
 | [Really Lovers](https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Really Lovers](https://open.spotify.com/album/6ZXsnuY4P6ZuIW3W1EBxBN) | 2:51 | 2022-07-13 | 2023-07-20 |

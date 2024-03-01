@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-228 songs - 12 hr 0 min
+229 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [11:11](https://open.spotify.com/track/0jaX10A3R9z6iMdVrq6Xiz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [11:11](https://open.spotify.com/album/7AeLzb0S0TzNqTCN5YPkoZ) | 3:43 | 2023-12-08 | 2024-01-20 |
 | [2023 FLOW](https://open.spotify.com/track/3BcqRnsndjbzXARO1cuQJT) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2023 FLOW](https://open.spotify.com/album/4OJpmHAuQ4O8bB7e2HTdDw) | 5:34 | 2023-03-29 | 2023-04-17 |
 | [36](https://open.spotify.com/track/24uSxern7HZJupb1fGqLuQ) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:58 | 2023-03-29 | 2023-04-17 |
+| [500 GRAMS](https://open.spotify.com/track/215PAiPALqLo3YAby27eGX) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [500 GRAMS](https://open.spotify.com/album/6JQPaS87dfS5mDJu3rEokw) | 3:40 | 2024-02-29 |  |
 | [808](https://open.spotify.com/track/5zq4bkV1NxcJ9pyZCXqE6l) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:09 | 2023-09-13 | 2023-10-28 |
 | [Aaj Kya Karu?](https://open.spotify.com/track/5fWTE8vJR97JJmqjyhGli4) | [Shuman](https://open.spotify.com/artist/37RVI9e6Cg0mE3QZ3aDcpd) | [Aaj Kya Karu?](https://open.spotify.com/album/33lk0F1GAKHxbKCGMAgZZl) | 3:02 | 2023-04-01 | 2023-04-17 |
 | [Aaropi](https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:14 | 2023-12-13 |  |
@@ -174,7 +175,7 @@
 | [Oh My God](https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Oh My God](https://open.spotify.com/album/5KOYQGntgYRosJlKfc5G26) | 2:46 | 2023-03-29 | 2024-01-09 |
 | [OK Report](https://open.spotify.com/track/1zX6pzlaHvuxnBxGfJqUi1) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [OK Report](https://open.spotify.com/album/1HEcrEyGSgO0mh2OFgBtTI) | 2:21 | 2024-02-01 |  |
 | [Online](https://open.spotify.com/track/5eJNm87J8KZswp9G8lpMCv) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Online](https://open.spotify.com/album/4ujgEUB3UANgxVK9LF7Ib9) | 2:46 | 2023-10-16 |  |
-| [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 | 2024-02-16 |  |
+| [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 | 2024-02-16 | 2024-03-01 |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-29 |  |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2023-12-15 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2023-03-29 | 2023-04-17 |

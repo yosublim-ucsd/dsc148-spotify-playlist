@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Werenoi au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "PLK au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1130,6 +1130,28 @@
       "duration_ms": 144416,
       "name": "Dans le R\u00e9seau",
       "url": "https://open.spotify.com/track/6D5R8LKkeTmQveLoUKrK0D"
+    },
+    {
+      "album": {
+        "name": "Dans un verre",
+        "url": "https://open.spotify.com/album/53JwVPrlNp7qpFlC5iT2x8"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177618,
+      "name": "Dans un verre",
+      "url": "https://open.spotify.com/track/4Cfp58HxOboMxAQ6x4vyVY"
     },
     {
       "album": {
@@ -2454,7 +2476,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"

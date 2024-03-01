@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,711 songs - 4 day 1 hr 35 min
+1,714 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Booth Lingerer Anthem](https://open.spotify.com/track/5DvFxs44qDbp3Ed3J8X9LG) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH) | [Booth Lingerer Anthem](https://open.spotify.com/album/3HsRkMpSYeVpYIhJvn3pFp) | 4:46 | 2022-05-29 | 2022-06-04 |
 | [Booze & Pills](https://open.spotify.com/track/4mtAJtZzd7wgjLNBpPv4IU) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Booze & Pills](https://open.spotify.com/album/2yiuvJoRA1fKm6b0bFNe8R) | 2:02 | 2022-10-08 | 2022-10-15 |
 | [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 | 2023-05-13 |
+| [Bounce](https://open.spotify.com/track/7a8vLTB8T2BxpSzV65wWh7) | [Mau Bacarreza](https://open.spotify.com/artist/6kX9eGc38GTq3cczPwceD5) | [Bounce](https://open.spotify.com/album/4ozh87seh5nbcxrAyGnuog) | 5:28 | 2024-02-29 |  |
 | [Bout That C \- Mason Collective Remix](https://open.spotify.com/track/0aakCki7Ak9saAlWgn0wpZ) | [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS) | [Bout That C EP](https://open.spotify.com/album/4HxEZuAsBVnDwK86KS6gun) | 5:52 | 2023-10-27 | 2023-11-04 |
 | [Break Me](https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Break Me](https://open.spotify.com/album/5pRertvO2FCoqev0BYRZ9E) | 3:24 | 2023-09-08 | 2024-01-28 |
 | [Breakout](https://open.spotify.com/track/5qXqZcf5Ku7CqTuSmhqYCT) | [Darren After](https://open.spotify.com/artist/1dQQLtxrDxFxoT5jxVtnr5) | [Breakout](https://open.spotify.com/album/1XW7wwtZwL0JBOMCn3fItZ) | 3:28 | 2022-08-05 | 2022-09-03 |
@@ -584,6 +585,7 @@
 | [Give It To Me](https://open.spotify.com/track/5gGxQDVMsSDk3GZv9wONQX) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Give It To Me](https://open.spotify.com/album/5pZSpQ8xYFlF66qrvuyhfd) | 2:57 | 2024-02-17 |  |
 | [Give Me](https://open.spotify.com/track/3hExDSZtj3jnfu8Xe825Mz) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr) | [Give Me](https://open.spotify.com/album/4YeCe0lyVTDwoBj5W9RvuI) | 2:35 | 2022-12-16 | 2023-01-07 |
 | [Give Me Love](https://open.spotify.com/track/553t424tQXyNUR0upGypCN) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf) | [Give Me Love](https://open.spotify.com/album/44kK4Bu1eFGWV1ixDMp5uz) | 2:49 | 2023-04-14 | 2023-04-22 |
+| [Give Me Some](https://open.spotify.com/track/71FtsQCuE8C2Gow0H0drnT) | [Estema](https://open.spotify.com/artist/3USNCZc9nEnR8WGjQg36K6) | [Mi Corazon / Give Me Some](https://open.spotify.com/album/0YLcU0JpWpWwV8aXQ13KEu) | 5:15 | 2024-02-29 |  |
 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 | 2023-12-13 | 2024-01-28 |
 | [Glitch](https://open.spotify.com/track/0sTov9ww1527jTeEVMqnkH) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Glitch](https://open.spotify.com/album/2qe8Xkm0zesMie1YnIshzD) | 2:18 | 2023-05-12 | 2023-05-20 |
 | [Glory](https://open.spotify.com/track/0E2Zruo7UTpSvk4UTqxJLN) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [Glory](https://open.spotify.com/album/0dcvWd9WVmchT4cHyBhkRd) | 3:39 | 2023-10-13 | 2023-10-28 |
@@ -1628,6 +1630,7 @@
 | [WE GETTIN](https://open.spotify.com/track/59EV5Y4XgfqnsIQYbOyafW) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [WE GETTIN](https://open.spotify.com/album/7HovQL5aC8rYW1kDLRJWDY) | 2:48 | 2024-02-15 | 2024-02-25 |
 | [We Go Deep](https://open.spotify.com/track/1GStadmmc2p5hHylPWtwFq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [We Go Deep](https://open.spotify.com/album/7tL2LdDFK4AtYcqlS5cRP4) | 3:07 | 2023-09-08 | 2023-09-16 |
 | [We Got The Fire](https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/2YvvywJmJkenbmYQAAkkzy) | 3:21 | 2022-09-21 | 2022-09-24 |
+| [We Got The Funk \- Streaming Edit](https://open.spotify.com/track/3sbbtMgDOAodpiMVGToymM) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [We Got The Funk](https://open.spotify.com/album/54XTJIg0CHd2K6pifarLjs) | 3:04 | 2024-02-29 |  |
 | [Weapon](https://open.spotify.com/track/2chLUwM4ofzZxhXIUcVl1P) | [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [Matheo Velez](https://open.spotify.com/artist/6MxFlTSSCQgopzNmiEsaxU) | [Weapon](https://open.spotify.com/album/41WivKU0HKTRVQt59MfTzq) | 2:30 | 2023-12-07 | 2024-01-21 |
 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 | 2023-11-03 | 2023-11-10 |
 | [Welcome](https://open.spotify.com/track/0iGWGCq5IcGjhyoY16FfRH) | [RAFA MOON](https://open.spotify.com/artist/4KNx3tce4EeLLjuYbNi9LD) | [Welcome](https://open.spotify.com/album/13elfZOEM1WNulyWofALHI) | 5:56 | 2023-12-04 | 2023-12-17 |

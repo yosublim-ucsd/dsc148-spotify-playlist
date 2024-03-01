@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 32423,
+  "2024-03-01": 32440,
   "date_first_scraped": "2022-09-17",
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
@@ -255,6 +255,24 @@
       "duration_ms": 302560,
       "name": "Cholito Pantal\u00f3n Blanco",
       "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301933,
+      "name": "Como Tus R\u00edos Te Recorren",
+      "url": "https://open.spotify.com/track/6IuNNLyAjwHFfXKAn8dwPq"
     },
     {
       "album": {
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 280000,
       "name": "Ma\u00f1ana Me Voy Pa'l Norte",
       "url": "https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4"

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,063 songs - 2 day 12 hr 45 min
+1,065 songs - 2 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Happiness](https://open.spotify.com/track/1eoLE3pztHTV9UL5muESxw) | [Nano](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Happiness](https://open.spotify.com/album/3JMDEQxkO3m9utSvlcn8hl) | 3:47 | 2022-06-09 | 2022-06-13 |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-07-28 | 2024-02-14 |
 | [hazama \- 新東京 Rearrange](https://open.spotify.com/track/4m4SjSDEpv7CcUvnpsjtLo) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [hazama \(新東京 Rearrange\)](https://open.spotify.com/album/4VfhXfCeToVA9gio1L4oCh) | 3:07 | 2022-08-16 | 2022-08-26 |
-| [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-26 |  |
+| [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-26 | 2024-03-01 |
 | [Heart Pie Dancehall](https://open.spotify.com/track/41aJ8bHDhV2kTw51biHvoq) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [Heart Pie Dancehall](https://open.spotify.com/album/61tTiO6FyVL5KunTKQAkbb) | 3:39 | 2024-02-28 |  |
 | [Heartache Machine Guns](https://open.spotify.com/track/46kyed97kxAjRLy3iFfvva) | [seeeeecun](https://open.spotify.com/artist/6fUe2NjfQbI4yxIFBwYFg8) | [Cry For Your Noble Heart](https://open.spotify.com/album/2w5Ryftkg3USzsuqPY7QV5) | 2:28 | 2022-09-14 | 2022-09-21 |
 | [Hex](https://open.spotify.com/track/7xaNU7mo5bEULPKg7vdxel) | [Utrecht](https://open.spotify.com/artist/5ygyzQomCHzWhbzPlI5TY0) | [Hex](https://open.spotify.com/album/2Mxu38mOSq5rknEr8xzw4e) | 4:07 | 2023-03-09 | 2023-03-15 |
@@ -267,6 +267,7 @@
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-07-28 | 2022-12-13 |
 | [Panorama](https://open.spotify.com/track/2azz82Oj5Mt9cEkKdn1JeV) | [KUJIRAGI](https://open.spotify.com/artist/4rG3x6s38W3SI4aS80gjnj) | [Panorama](https://open.spotify.com/album/5jW5xMD1W4H1VYJLwiQcVb) | 2:46 | 2023-11-29 | 2023-12-20 |
 | [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 | 2022-10-19 |
+| [patience](https://open.spotify.com/track/3wA12VBV95sARZdhYX1wb0) | [梟note](https://open.spotify.com/artist/2iWDK6SMyLQ9NTHp4RxUHW) | [patience](https://open.spotify.com/album/4e2SqTXP6vNORtnRFMKdCB) | 3:33 | 2024-02-29 |  |
 | [Penguin's Detour](https://open.spotify.com/track/0HrRw92cShhABjnqNWOi19) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Penguin's Detour](https://open.spotify.com/album/0PGYyFLnGsl3LguARVroW5) | 3:35 | 2022-06-09 | 2022-07-29 |
 | [PLAYer](https://open.spotify.com/track/77bzrrMdwLa7CDKu62l7jT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [黎\-ray\-](https://open.spotify.com/album/3ODHhgn1GAznuAHw4Mcdea) | 4:20 | 2022-07-12 | 2022-07-14 |
 | [POLYHEDRON](https://open.spotify.com/track/0BkHmtkFr9LiaI00bYJEmM) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [POLYHEDRON](https://open.spotify.com/album/2hkLGjl02N4Uji3i3eIx04) | 2:45 | 2023-12-19 | 2024-01-17 |
@@ -511,6 +512,7 @@
 | [イミテイション \(starring 珀\)](https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [イミテイション \(starring 珀\)](https://open.spotify.com/album/4npreCVmUEi2UeRSyEwUYK) | 2:49 | 2022-07-28 | 2022-08-17 |
 | [インゲル](https://open.spotify.com/track/2m8hm0c4w9DLv1EGrBFSHK) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [インゲル](https://open.spotify.com/album/5s0FkzwZoDVFTouIX4B9vZ) | 3:17 | 2022-09-27 | 2022-09-29 |
 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2022-11-09 | 2022-11-10 |
+| [インソムニア](https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [インソムニア](https://open.spotify.com/album/7qyxhd47y207CE2sayiHvO) | 3:24 | 2024-02-29 |  |
 | [イントロは終わり](https://open.spotify.com/track/0RDzaHslzMngPxTX84Xs6G) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [イントロは終わり](https://open.spotify.com/album/1FvFjiAeYqVF14pt6uWKme) | 2:58 | 2022-08-05 | 2022-08-19 |
 | [インナアチャイルド](https://open.spotify.com/track/2VviHaihEuSsYo6OOqxJ7m) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [インナアチャイルド](https://open.spotify.com/album/62EfA5beimUuWAijkPLY4H) | 3:55 | 2022-10-04 | 2022-11-18 |
 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 | 2022-07-28 | 2023-01-11 |
@@ -557,7 +559,7 @@
 | [ゴールデンシャドウ](https://open.spotify.com/track/7oFZ1uZufsIOX7oq1WahS7) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [ゴールデンシャドウ](https://open.spotify.com/album/7LEhBFywQs2qY5IG4PHgz9) | 4:55 | 2022-06-14 | 2022-06-17 |
 | [サイエンティスト](https://open.spotify.com/track/727sd1eBAh6qxMJd4oldam) | [SiN](https://open.spotify.com/artist/0Ch0JY4s74IMDbkUSobRh8) | [サイエンティスト](https://open.spotify.com/album/70XlpRn0XgrEDlw8L5MQdR) | 3:00 | 2022-06-28 | 2022-06-30 |
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 |  |
-| [サブカルチャー・ドール](https://open.spotify.com/track/4Rxsuz5E9CO6OjcU0Yfnry) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [サブカルチャー・ドール](https://open.spotify.com/album/3HqcBlwCoaLboQZTLBQHi5) | 3:26 | 2024-02-20 |  |
+| [サブカルチャー・ドール](https://open.spotify.com/track/4Rxsuz5E9CO6OjcU0Yfnry) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [サブカルチャー・ドール](https://open.spotify.com/album/3HqcBlwCoaLboQZTLBQHi5) | 3:26 | 2024-02-20 | 2024-03-01 |
 | [サルでも分かる](https://open.spotify.com/track/4P4B6xSfl7yiLPBeZ7oXJ6) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [サルでも分かる](https://open.spotify.com/album/0gaYSBWVqQOSI1720xQk6K) | 2:26 | 2023-10-24 | 2023-11-16 |
 | [ザネリ](https://open.spotify.com/track/57AFNCr0TyH5381WKKBRZj) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [NO BOY](https://open.spotify.com/album/2p3yNy4BREseGcs99m4StI) | 4:05 | 2022-06-09 | 2022-06-14 |
 | [シェルターボーイ](https://open.spotify.com/track/4ubh3Ka4W5Pa2FT0sFmqnq) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [シェルターボーイ](https://open.spotify.com/album/7rNJH3mwODVls81jGBoWrC) | 3:17 | 2023-04-11 | 2023-05-10 |

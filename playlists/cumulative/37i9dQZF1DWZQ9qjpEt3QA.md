@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-141 songs - 9 hr 34 min
+142 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [MOONLIGHT](https://open.spotify.com/track/3R65jxrYZy7oRvmrBnox7J) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [MOONLIGHT](https://open.spotify.com/album/2awLWuhPKSgSJWrqSSWS1j) | 4:45 | 2022-05-26 |  |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-05-26 |  |
 | [Mujyuryoku Fantasia](https://open.spotify.com/track/6ybC10sFcKQMi6TdC4Ejsv) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Summer Love Story](https://open.spotify.com/album/1rw8tou2EeehTwI6oGhsJV) | 4:57 | 2022-05-26 | 2023-02-17 |
+| [My Dear](https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 2:39 | 2024-02-29 |  |
 | [Nada Baru](https://open.spotify.com/track/1LhdXtrMe59OLXwl6hS4lx) | [FLQ](https://open.spotify.com/artist/0FtcckD9bgB13MyrCfmyTn), [Dian](https://open.spotify.com/artist/3zNHpA8FDAYtacSXZK4iB5) | [Untuk Kau](https://open.spotify.com/album/2TiWTQXhPKBEgIHcKJfLTw) | 3:39 | 2024-01-06 |  |
 | [Noisy Love](https://open.spotify.com/track/6FmPut7Qe0PIfdw4SLucPo) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Noisy Love](https://open.spotify.com/album/1Z7ZRVIIrML6E5wTxPXjrv) | 2:45 | 2023-10-19 |  |
 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 | 2022-05-26 |  |

@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6Y5zC3epMcAeNGs5lrcpaW"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150684,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/1p3b4nDHxGxm3K0nBuFrdR"
+    },
+    {
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 213500,
       "name": "Beredd",
       "url": "https://open.spotify.com/track/2eKwwemjhxoVlWts1OWnkh"
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 179751,
       "name": "Du och jag",
       "url": "https://open.spotify.com/track/4R9CJGuvKVUUfzGonJ1kwn"
@@ -4423,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Elvis, I Love You",
+        "url": "https://open.spotify.com/album/2NQATONmZBrOcpezJZyVh8"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223798,
+      "name": "Elvis, I Love You",
+      "url": "https://open.spotify.com/track/6hHSVn1e1Yqg9RVDMVACnE"
+    },
+    {
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/1MZOK8dBUuZISHLUPpVclr"
       },
@@ -4452,7 +4488,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 169043,
       "name": "Empati",
       "url": "https://open.spotify.com/track/0VtfW5epZbVcSXwB2M7unz"
@@ -10972,7 +11008,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 154155,
       "name": "Miles away",
       "url": "https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF"
@@ -11560,6 +11596,24 @@
       "duration_ms": 190871,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4Q9sJipq22mVAHpOnoWprj"
+    },
+    {
+      "album": {
+        "name": "Nej tack",
+        "url": "https://open.spotify.com/album/62QivIfT2Pc2XxEhVo93jL"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149123,
+      "name": "Nej tack",
+      "url": "https://open.spotify.com/track/68FwlFokEVkTWjq4VXh6kp"
     },
     {
       "album": {
@@ -12348,6 +12402,24 @@
       "duration_ms": 123600,
       "name": "om du skulle g\u00e5",
       "url": "https://open.spotify.com/track/2mrxW0pN3qTg6Wk0MRTWzF"
+    },
+    {
+      "album": {
+        "name": "om du skulle g\u00e5 (du gick)",
+        "url": "https://open.spotify.com/album/23edkwr3CSgipyhQR7o8tv"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129098,
+      "name": "om du skulle g\u00e5 (du gick)",
+      "url": "https://open.spotify.com/track/72i98bgPnpI1qrZLc7h6QY"
     },
     {
       "album": {
@@ -18065,6 +18137,24 @@
     },
     {
       "album": {
+        "name": "Vem e som dig",
+        "url": "https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Vem e som dig",
+      "url": "https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh"
+    },
+    {
+      "album": {
         "name": "VENUS",
         "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
@@ -19048,7 +19138,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 145429,
       "name": "With You",
       "url": "https://open.spotify.com/track/1a5b1Tu7wtgqDZJ9l1x3Cy"

@@ -1,7 +1,7 @@
 {
-  "2024-02-29": 518794,
+  "2024-03-01": 519055,
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Arabic hits all in one place. Cover:  Tamer Ashour",
+  "description": "The biggest Arabic hits all in one place. Cover:  AL SHAMI",
   "name": "Yalla ",
   "tracks": [
     {
@@ -4344,6 +4344,28 @@
     },
     {
       "album": {
+        "name": "Sabb Farhety",
+        "url": "https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        },
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302365,
+      "name": "Sabb Farhety",
+      "url": "https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro"
+    },
+    {
+      "album": {
         "name": "Sabok Fel Beit",
         "url": "https://open.spotify.com/album/3EroB4W63EzsReYPUq3W5r"
       },
@@ -4511,7 +4533,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 344883,
       "name": "Sandooq",
       "url": "https://open.spotify.com/track/4ttOChaYzhFiqncZzARrgg"
@@ -4547,7 +4569,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 194936,
       "name": "Sbabi",
       "url": "https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6"
@@ -5334,6 +5356,24 @@
     },
     {
       "album": {
+        "name": "Maa Alhob",
+        "url": "https://open.spotify.com/album/42Gtt3JjgqO4Kf148FesNn"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328937,
+      "name": "Ya Qalb",
+      "url": "https://open.spotify.com/track/145q7U7wSI5NbufneEFurm"
+    },
+    {
+      "album": {
         "name": "Ya Rab Tkoon Be Khair",
         "url": "https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV"
       },
@@ -5831,7 +5871,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 224800,
       "name": "\u0627\u0647\u064a \u0645\u0634\u064a\u062a",
       "url": "https://open.spotify.com/track/55AsAf4UgULhtMrr50SBRH"
@@ -6413,6 +6453,24 @@
       "duration_ms": 189913,
       "name": "\u0643\u062f\u0647 \u0643\u062f\u0647 \u0628\u0627\u064a\u0638\u0647",
       "url": "https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ"
+    },
+    {
+      "album": {
+        "name": "\u0641\u0624\u0627\u062f \u0639\u0628\u062f\u0627\u0644\u0648\u0627\u062d\u062f \u0662\u0660\u0662\u0664",
+        "url": "https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260888,
+      "name": "\u0643\u0644 \u0623\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s"
     },
     {
       "album": {

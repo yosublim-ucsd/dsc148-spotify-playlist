@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: anaïs
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,009 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,007 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,21 +21,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Mona Lisa](https://open.spotify.com/track/2KXwBWZVVDM6NhxY1oGFzr) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Mona Lisa](https://open.spotify.com/album/5nezFJN0Mh1ryvFJwPKwB5) | 2:58 |
 | 12 | [sie](https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [sie](https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08) | 2:30 |
 | 13 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 |
-| 14 | [find mich](https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [find mich](https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7) | 2:04 |
+| 14 | [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 |
 | 15 | [Golden Child](https://open.spotify.com/track/7zly5twd2G3tWW7facoUQB) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Golden Child](https://open.spotify.com/album/4ZxJonyYAqmrqTBa2FFRUt) | 7:06 |
 | 16 | [Satisfaction](https://open.spotify.com/track/6t83LKUuq89PAcpT45VE60) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90), [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Satisfaction](https://open.spotify.com/album/1xR4W0zwF5GsH3FHsswIxS) | 2:27 |
-| 17 | [Worst Poisons Taste the Sweetest](https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Worst Poisons Taste the Sweetest](https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW) | 6:17 |
+| 17 | [find mich](https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [find mich](https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7) | 2:04 |
 | 18 | [Mit Dir](https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h) | [MOLLY SUE](https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA) | [Mit Dir](https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO) | 2:25 |
 | 19 | [Kaiserschnitt \(feat\. Ava Ion\)](https://open.spotify.com/track/4piBK9ccPo1wo7tWM4KTJX) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Ava Ion](https://open.spotify.com/artist/4U2Nq8u4KncAY0jYKvUje2) | [Kaiserschnitt](https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH) | 3:10 |
-| 20 | [Like I Was Never Here](https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Like I Was Never Here](https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg) | 3:38 |
-| 21 | [Alle schauen](https://open.spotify.com/track/3sDHToggwdYQdRhpyXLMra) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Alle schauen](https://open.spotify.com/album/3AOj1hddMoKKy1JUvRsSUe) | 2:23 |
-| 22 | [Verliebt](https://open.spotify.com/track/46js6V1sFA6QwINdtO00r9) | [Nessa](https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0) | [Verliebt](https://open.spotify.com/album/3fF0G5h70G8Eng17dvBqHB) | 2:50 |
+| 20 | [Alle schauen](https://open.spotify.com/track/3sDHToggwdYQdRhpyXLMra) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Alle schauen](https://open.spotify.com/album/3AOj1hddMoKKy1JUvRsSUe) | 2:23 |
+| 21 | [Verliebt](https://open.spotify.com/track/46js6V1sFA6QwINdtO00r9) | [Nessa](https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0) | [Verliebt](https://open.spotify.com/album/3fF0G5h70G8Eng17dvBqHB) | 2:50 |
+| 22 | [Like I Was Never Here](https://open.spotify.com/track/6AgTZEc2plzPodX3u1RGEY) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Like I Was Never Here](https://open.spotify.com/album/6dMAhrIk1KGPNaQpZebYHg) | 3:38 |
 | 23 | [Oh mein Gott](https://open.spotify.com/track/4YBPf11XttGdZFOGEh4TQe) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs), [KazOnDaBeat](https://open.spotify.com/artist/7mnmr8BPHhEEYFwIHlclFt) | [Oh mein Gott](https://open.spotify.com/album/2ZEQ2MR5pkmxMmpf28ELl3) | 2:03 |
 | 24 | [Alleviate](https://open.spotify.com/track/4nS7z0zHSbDAnFDOesLKZk) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Alleviate](https://open.spotify.com/album/0us6ntJT79OYcy1tSggW0C) | 3:04 |
 | 25 | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez) | 2:58 |
 | 26 | [stop](https://open.spotify.com/track/6e11eeiUT3dUCoeg5OLvD5) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [stop](https://open.spotify.com/album/2Z9pZ4SzER5upYlOafaVA2) | 2:46 |
-| 27 | [Lovely](https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lovely](https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3) | 3:07 |
-| 28 | [nicht mal nihilist](https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [nicht mal nihilist](https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J) | 3:47 |
+| 27 | [nicht mal nihilist](https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [nicht mal nihilist](https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J) | 3:47 |
+| 28 | [Lovely](https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lovely](https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3) | 3:07 |
 | 29 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
 | 30 | [Gangster tanzen nicht](https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [AMY WINEHOUZE](https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n) | 2:36 |
 | 31 | [boys who go to therapy](https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boys who go to therapy](https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [The Table](https://open.spotify.com/track/1uKUzuw5liwEvTPzQ9r2Xp) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [The Table](https://open.spotify.com/album/4Szi6ifCX8FKxAxNOLQWWo) | 4:17 |
 | 50 | [Pity Party](https://open.spotify.com/track/39rdTlOcLXu0eAVcUNngde) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [Pity Party](https://open.spotify.com/album/3w5Tl20Q3AZaTgPK8XEyVG) | 3:57 |
 
-Snapshot ID: `MCxjZGE0MjkyNjE4MjE1ZjQ5ODhkOWEyMDg5YzM2OTA0ODdmMDJlOTE3`
+Snapshot ID: `MCwwYmZkODk0MWQ1MzIzZjMyZGIzMjE2YTEyMWE1ZjIxYTg1M2EyMjAz`

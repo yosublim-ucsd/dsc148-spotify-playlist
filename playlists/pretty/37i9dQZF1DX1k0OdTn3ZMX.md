@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with UnityTX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,155 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,317 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 43 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 |
 | 44 | [So Cold](https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [So Cold](https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8) | 3:41 |
 | 45 | [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 |
-| 46 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [Boskat](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 |
+| 46 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 |
 | 47 | [We Don't Miss](https://open.spotify.com/track/24w0yBt2JkLCF6BF9BtzJZ) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf) | [We Don't Miss](https://open.spotify.com/album/5q16xPQvDr58DiilQnfXf7) | 3:12 |
 | 48 | [Cut Loose](https://open.spotify.com/track/4Gv2T3L4aozxQqg0jCKSN4) | [Jynx](https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM) | [Cut Loose](https://open.spotify.com/album/6UpVFYuyMykPtwwE5ObuWr) | 3:15 |
 | 49 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 |
 | 50 | [It All Comes Down](https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY) | [Kaosis](https://open.spotify.com/artist/1G5YCahIziZdTa1YQkVSu7), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2), [SID](https://open.spotify.com/artist/0lXoanKv5FWNS0o73XTGgP) | [It All Comes Down](https://open.spotify.com/album/0TDbRYQYhtWJeXdNxNWoj8) | 4:54 |
 
-Snapshot ID: `MCw5MjBkNmNjNmQyNzk0N2ZhZTI2NjEwNWU4Yjc2ZGYwYjBmMjc4MjFk`
+Snapshot ID: `MCwwMzE1OTRkNmRkZmFhZTZkMmE4YTE1OTgyZDIwODM1OWUzNTk3MGMw`

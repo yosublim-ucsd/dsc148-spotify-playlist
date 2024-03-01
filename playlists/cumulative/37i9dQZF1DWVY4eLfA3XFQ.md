@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Walker & Royce\. 50% techno, 50% house
 
-1,482 songs - 3 day 12 hr 10 min
+1,483 songs - 3 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-23 | 2023-07-20 |
 | [Fuego \(VIP\)](https://open.spotify.com/track/6BXEWL3JzbTlEMefaRw1BM) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego \(VIP\)](https://open.spotify.com/album/4CAfJlVsnGypCwurPp5jTw) | 2:49 | 2022-12-09 | 2023-03-04 |
 | [Funk Accelerator](https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Funk Accelerator](https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl) | 3:52 | 2022-04-15 | 2022-05-07 |
-| [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 | 2023-11-17 |  |
+| [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 | 2023-11-17 | 2024-03-01 |
 | [Future](https://open.spotify.com/track/5tHokMQ1Hf1zmr6gQFe5ix) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Future](https://open.spotify.com/album/1bH1PACzw0Q1JkI6szxA4m) | 3:38 | 2022-07-22 | 2022-09-17 |
 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 | 2023-05-19 | 2023-12-16 |
 | [Gelato Dream](https://open.spotify.com/track/6T37xNJpgshMDpdrigh8eK) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Gelato Dream](https://open.spotify.com/album/4ORtIEkrRwL36U3dUB8GVj) | 4:58 | 2022-12-28 | 2023-01-06 |
@@ -664,6 +664,7 @@
 | [Kebali](https://open.spotify.com/track/7jBXtUxifBXcBZmK1hV0ap) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Sunnery James & Ryan Marciano present: The Tribe Vol\. Three](https://open.spotify.com/album/2VYiuRSAWChwOTf8R8kzDp) | 3:36 | 2021-12-10 | 2022-04-23 |
 | [Keep An Eye](https://open.spotify.com/track/1eeMkl1riLTme891ShjpiI) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Keep An Eye](https://open.spotify.com/album/3bkvIPn6rp9fmoHJpiAkOs) | 4:05 | 2022-05-13 | 2022-06-11 |
 | [Keep It Goin](https://open.spotify.com/track/3LvKz6clKRSGm2hfLOVixK) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Your Soul EP](https://open.spotify.com/album/7sTirjHMUMYwWivQKkEQWT) | 4:22 | 2022-04-08 | 2022-06-11 |
+| [Keep It Real](https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Keep It Real](https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w) | 2:22 | 2024-02-23 |  |
 | [Keloke](https://open.spotify.com/track/3yNYNsWY72kqDrVS3v8iB2) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Bla\-De](https://open.spotify.com/artist/1Xrr08n5RuyrzvLljE1HPa) | [Keloke](https://open.spotify.com/album/35fOnNwB24F4S9a339bh6N) | 2:52 | 2023-08-25 | 2023-11-18 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-22 | 2022-09-06 |
 | [Kick Drums](https://open.spotify.com/track/0tpw2iisVlCnG0QG8SCIG1) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Kick Drums](https://open.spotify.com/album/2bi3SgXvYcAfJyMnzEmscq) | 2:54 | 2023-03-31 | 2023-06-10 |

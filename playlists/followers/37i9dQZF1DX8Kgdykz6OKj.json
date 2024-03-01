@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 1245410,
+  "2024-03-01": 1245854,
   "date_first_scraped": "2021-12-31",
   "description": "Laid back cratedigger hip-hop from around the world.",
   "name": "Jazz Rap",
@@ -2856,6 +2856,24 @@
     },
     {
       "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/2DKdGv2hZHZkhsxDUehmUp"
       },
@@ -4719,7 +4737,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 136526,
       "name": "Midnight Schemes",
       "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"

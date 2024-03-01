@@ -2,7 +2,7 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Robin Schulz x KOPPY
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Don Diablo x Mearsy x RBZ
 
 1,240 songs - 2 day 11 hr 20 min
 
@@ -1022,7 +1022,7 @@
 | [Step Correct](https://open.spotify.com/track/6NlCfMAf2BUR8rLpnyYb0p) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Step Correct](https://open.spotify.com/album/6mWSOP4xoZPRMrNEXHt3Fd) | 2:33 | 2022-09-09 | 2022-09-17 |
 | [Stepping Up \(Burning\)](https://open.spotify.com/track/6vzCD9QpkYX0SNL3e82pWb) | [2Awake](https://open.spotify.com/artist/0eUzuZ1U6Ofl82Gwotjka3), [Krimsonn](https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU) | [Stepping Up \(Burning\)](https://open.spotify.com/album/696qP8bHRnii4chlltIXe3) | 2:18 | 2023-07-07 | 2023-07-21 |
 | [Still Cutting Shapes](https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Still Cutting Shapes](https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1) | 2:28 | 2023-07-27 | 2023-08-20 |
-| [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l) | 2:44 | 2024-02-23 |  |
+| [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Stompin' \(Friendly Fire Remix\)](https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l) | 2:42 | 2024-02-23 |  |
 | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda & EURI\]](https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [EURI](https://open.spotify.com/artist/0veabgheMC6NnyTEbFUI5u) | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda & EURI\]](https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc) | 3:11 | 2023-07-07 | 2023-07-21 |
 | [Stuck on You](https://open.spotify.com/track/3r5f85ArxmMSPnG8jsVJFs) | [TETSU](https://open.spotify.com/artist/2mXbDIQCneVeNKKMiiqUCj) | [Stuck on You](https://open.spotify.com/album/3U59gdOzRHA7eoNElFfzXm) | 2:54 | 2022-07-08 | 2022-07-23 |
 | [Suave](https://open.spotify.com/track/5XfJOhc3H1XXIcqReg8eQ2) | [Dennis Cartier](https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS), [Dylan Soares](https://open.spotify.com/artist/37KuhDG8ixnGZwtiPHzUEe) | [Suave](https://open.spotify.com/album/6liQP8Z2oGupwYcM8V5y6o) | 3:25 | 2023-07-13 | 2023-07-29 |

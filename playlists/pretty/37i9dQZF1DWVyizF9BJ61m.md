@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,221 likes - 47 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,356 likes - 47 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 44 | [Few Bana Zambia](https://open.spotify.com/track/7C112D2j1nPQyBXTWYhzbn) | [Five Revolutions](https://open.spotify.com/artist/7z7UoyBoUDLSbBD6hsCgNn) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:22 |
 | 45 | [Rough Rider](https://open.spotify.com/track/1v0UZjrgcnI9iBeVwOynkS) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:53 |
 | 46 | [In The Jungle \(Instrumental\)](https://open.spotify.com/track/4Maj54gxqVxtDkV7NVhuGA) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:08 |
-| 47 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
+| 47 | [You Are My Heart](https://open.spotify.com/track/0niAkwpNApzAyUSPoAzxXT) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI) | 3:13 |
 
-Snapshot ID: `MCwzNGNhYWZjZTA5NWJhODk0ZWQ0MTc2ZDgxODUyMzExMWYwN2FkNTZj`
+Snapshot ID: `MCxhMGRhMzBlMjNkNzc5MjdjMTg5YjVmOWE4YTc4YjQ3NjA3OWU0YWJl`

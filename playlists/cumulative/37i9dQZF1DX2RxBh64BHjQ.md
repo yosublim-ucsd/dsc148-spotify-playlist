@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-1,570 songs - 2 day 22 hr 30 min
+1,571 songs - 2 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [GFU!](https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [GFU!](https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA) | 1:22 | 2023-09-22 | 2023-10-07 |
 | [Ghetto & Ratchet \(with Jenn Carter\) \- Remix](https://open.spotify.com/track/1T4T1ht4F40NRwelsmQlW1) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Ghetto & Ratchet](https://open.spotify.com/album/7xwWcuyJ8VOVPFliDI3pGV) | 2:44 | 2023-10-06 | 2023-12-02 |
 | [giftbag](https://open.spotify.com/track/1xi2Knd4pP48wp0Jxy5Frk) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [giftbag](https://open.spotify.com/album/4GPhMblkfeLwJkTXDxaYBx) | 2:49 | 2023-03-24 | 2023-04-29 |
+| [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-02-23 |  |
 | [Girls Love Rod Wave](https://open.spotify.com/track/1scYWeRVHLNoKVT8DXKsOC) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Girls Love Rod Wave](https://open.spotify.com/album/7w1Dblp8TZl0JiU1OUGzkF) | 2:10 | 2022-02-18 | 2022-04-09 |
 | [glah glah](https://open.spotify.com/track/1vz1dpEEIq7b1qv3bvO4dU) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [glah glah](https://open.spotify.com/album/0KZmgS5yFdR1o650rkFrGM) | 1:54 | 2022-05-20 | 2022-07-09 |
 | [Gleecin \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/3MK1cTENZGGYtjuwBue1Va) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Quail Lane Baby](https://open.spotify.com/album/3wuXWLb7E0oy61UtBh5FvH) | 2:56 | 2022-10-28 | 2022-12-31 |

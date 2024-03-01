@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Planetary Vision / \u60d1\u661f\u306e\u30d3\u30b8\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/1K3cMdPAW2O4r7a8MzvtHd"
+      },
+      "artists": [
+        {
+          "name": "nubo",
+          "url": "https://open.spotify.com/artist/0RtoXCR1PcmkcM2iZ3d8L6"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "Esperanza / \u5e0c\u671b",
+      "url": "https://open.spotify.com/track/1DzMkx08Zq6aDDhsRDVnPb"
+    },
+    {
+      "album": {
         "name": "Une Collection Des Chainons II",
         "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
       },

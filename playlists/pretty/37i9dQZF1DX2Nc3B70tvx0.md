@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124,453 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,124,455 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 109 | [Sunday](https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Sunday / Medicine](https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1) | 3:20 |
 | 110 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
 
-Snapshot ID: `MCw2ODcwOTMyODFmOTIzMTI1M2ZmMWFlMmM5NjY3NDVhNDhiOTc0NzRi`
+Snapshot ID: `MCxjZjBjZjhmZjMwOGViNGYyMzFjYTcyNTMxNzAxOWZiYTlkNzUwMDg4`

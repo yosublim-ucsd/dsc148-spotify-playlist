@@ -1,13 +1,85 @@
 {
-  "description": "ur on the list bb \ud83e\ude90 featuring Erika de Casier",
-  "num_followers": 245597,
+  "description": "ur on the list bb \ud83e\ude90 featuring Charli XCX",
+  "num_followers": 245636,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQ2YzVkODQxY2U3MTMzYTcxYmRkZjM5NWU0NjI1NmYwMDQxZTY2",
+  "snapshot_id": "MCxkZmZhZjRlODRiOTdhNzBjOTUxNzkxNjZhM2M3ZGNiNTc1MmNlNTQy",
   "tracks": [
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Von dutch",
+        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "you'll come back",
+        "url": "https://open.spotify.com/album/6bnRPsX8Q4Vvx4bBGZi3IH"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 124686,
+      "name": "you'll come back",
+      "url": "https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "Wasting Time With You",
+        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
+      },
+      "artists": [
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        },
+        {
+          "name": "Triple Point",
+          "url": "https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Wasting Time with You",
+      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
+    },
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
@@ -27,6 +99,22 @@
       "duration_ms": 142362,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5Ee0r9PetOsxgEG5h9IyqL"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Go Ghost",
+        "url": "https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm"
+      },
+      "artists": [
+        {
+          "name": "Kissimjau",
+          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Go Ghost",
+      "url": "https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -65,62 +153,6 @@
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
     },
     {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "you'll come back",
-        "url": "https://open.spotify.com/album/6bnRPsX8Q4Vvx4bBGZi3IH"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124686,
-      "name": "you'll come back",
-      "url": "https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "Wasting Time With You",
-        "url": "https://open.spotify.com/album/1nADZ50z704vj7HtopGgXC"
-      },
-      "artists": [
-        {
-          "name": "Denham Audio",
-          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
-        },
-        {
-          "name": "Triple Point",
-          "url": "https://open.spotify.com/artist/4k2HXxbrXKfNyu9vBuKapQ"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Wasting Time with You",
-      "url": "https://open.spotify.com/track/1LRw2qwjFCwntxtUp2QPqi"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "iluv",
-        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "iluv",
-      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
-    },
-    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Britpop",
@@ -135,22 +167,6 @@
       "duration_ms": 202055,
       "name": "Britpop",
       "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Go Ghost",
-        "url": "https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm"
-      },
-      "artists": [
-        {
-          "name": "Kissimjau",
-          "url": "https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0"
-        }
-      ],
-      "duration_ms": 209490,
-      "name": "Go Ghost",
-      "url": "https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -171,6 +187,30 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
+        "name": "Need Somebody",
+        "url": "https://open.spotify.com/album/4zhjAZyG1fFbdPFdfo9tkv"
+      },
+      "artists": [
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        },
+        {
+          "name": "Jethro Heston",
+          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/0wdJefRAVWCkhlQXFCi8kx"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
         "name": "2special",
         "url": "https://open.spotify.com/album/1kh8wuqfLpIc7ZCVLKmoXu"
       },
@@ -183,6 +223,26 @@
       "duration_ms": 167248,
       "name": "2special",
       "url": "https://open.spotify.com/track/1vZASGXOGqi8OhOEaMPMpT"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Arintintin",
+        "url": "https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Arintintin",
+      "url": "https://open.spotify.com/track/0gExQivfnTQxzD85envbyy"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -211,6 +271,86 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
+        "name": "i'm hurting ! (deja-vu..)",
+        "url": "https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "i'm hurting ! (deja-vu..)",
+      "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "It's Only True",
+        "url": "https://open.spotify.com/album/7lMqUt8qan03Qz50U4bkLs"
+      },
+      "artists": [
+        {
+          "name": "Ollie Lishman",
+          "url": "https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0"
+        }
+      ],
+      "duration_ms": 180145,
+      "name": "It's Only True",
+      "url": "https://open.spotify.com/track/2LBJbL1wHC4BuUiSuH9j6u"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Seek Everything",
+        "url": "https://open.spotify.com/album/0E74Su86PyauXUPgAFG3Bm"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 173201,
+      "name": "Seek Everything",
+      "url": "https://open.spotify.com/track/4gVSIXTL67QoAmNXnu3rqF"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1O9rQTdcptzUsQ40xO7C9b"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 209674,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/2ToCF3zoUJoiOSVq7Mtaci"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -223,30 +363,6 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "Need Somebody",
-        "url": "https://open.spotify.com/album/4zhjAZyG1fFbdPFdfo9tkv"
-      },
-      "artists": [
-        {
-          "name": "GESES",
-          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        },
-        {
-          "name": "Jethro Heston",
-          "url": "https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj"
-        }
-      ],
-      "duration_ms": 141398,
-      "name": "Need Somebody",
-      "url": "https://open.spotify.com/track/0wdJefRAVWCkhlQXFCi8kx"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -289,72 +405,24 @@
       "url": "https://open.spotify.com/track/04Dko7XP8nPEMfwIJFVpES"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "Seek Everything",
-        "url": "https://open.spotify.com/album/0E74Su86PyauXUPgAFG3Bm"
+        "name": "FOREVER (Kareem Ali Remix)",
+        "url": "https://open.spotify.com/album/4ynBirhddBTm6AxefL8SNL"
       },
       "artists": [
         {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 173201,
-      "name": "Seek Everything",
-      "url": "https://open.spotify.com/track/4gVSIXTL67QoAmNXnu3rqF"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "i'm hurting ! (deja-vu..)",
-        "url": "https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "i'm hurting ! (deja-vu..)",
-      "url": "https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
-      },
-      "artists": [
-        {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Greatest Freak",
-        "url": "https://open.spotify.com/album/0mzJGorItozjx7DrFG1cL8"
-      },
-      "artists": [
-        {
-          "name": "Borai",
-          "url": "https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO"
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
         },
         {
-          "name": "dontforgettogohome",
-          "url": "https://open.spotify.com/artist/78M3HM3LIGxqDA1wSp8Nd4"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Greatest Freak",
-      "url": "https://open.spotify.com/track/6MHdS2184RW7ty0mL0xJQN"
+      "duration_ms": 212571,
+      "name": "FOREVER - Kareem Ali Remix",
+      "url": "https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -379,6 +447,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Greatest Freak",
+        "url": "https://open.spotify.com/album/0mzJGorItozjx7DrFG1cL8"
+      },
+      "artists": [
+        {
+          "name": "Borai",
+          "url": "https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO"
+        },
+        {
+          "name": "dontforgettogohome",
+          "url": "https://open.spotify.com/artist/78M3HM3LIGxqDA1wSp8Nd4"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Greatest Freak",
+      "url": "https://open.spotify.com/track/6MHdS2184RW7ty0mL0xJQN"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Near U",
         "url": "https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a"
       },
@@ -395,6 +483,38 @@
       "duration_ms": 272238,
       "name": "Near U",
       "url": "https://open.spotify.com/track/4HiM09OpjomBVXjdcWpejJ"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "losing control",
+        "url": "https://open.spotify.com/album/49nlNcQttSS80CyRhlD57A"
+      },
+      "artists": [
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "duration_ms": 281879,
+      "name": "losing control (can't escape)",
+      "url": "https://open.spotify.com/track/461QXcP6tY0DsFvpJddP9j"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -433,6 +553,22 @@
       "url": "https://open.spotify.com/track/0pB2IRloEdYo9F3qwcIAYy"
     },
     {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
+        "name": "ur love",
+        "url": "https://open.spotify.com/album/2xAFwmKEKu38oXQVBFlJyP"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "duration_ms": 154236,
+      "name": "ur love",
+      "url": "https://open.spotify.com/track/6hU9i9sAy9MLYmkpnTqrhi"
+    },
+    {
       "added_at": "2024-02-23 00:01:00",
       "album": {
         "name": "Across The Kuiper Belt",
@@ -449,28 +585,20 @@
       "url": "https://open.spotify.com/track/17TPAWKdutVufAbMptIwCH"
     },
     {
-      "added_at": "2024-01-29 10:31:32",
+      "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+        "name": "Blue Blood",
+        "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
       },
       "artists": [
         {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
         }
       ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+      "duration_ms": 154748,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -587,6 +715,30 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2024-01-29 10:31:32",
+      "album": {
         "name": "bluetooth",
         "url": "https://open.spotify.com/album/3xVATlIyBxFu2g97TJ1oui"
       },
@@ -607,22 +759,6 @@
       "duration_ms": 156235,
       "name": "bluetooth",
       "url": "https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "ur love",
-        "url": "https://open.spotify.com/album/2xAFwmKEKu38oXQVBFlJyP"
-      },
-      "artists": [
-        {
-          "name": "Ordley",
-          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
-        }
-      ],
-      "duration_ms": 154236,
-      "name": "ur love",
-      "url": "https://open.spotify.com/track/6hU9i9sAy9MLYmkpnTqrhi"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -667,22 +803,6 @@
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "anywhere but here",
-        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
-      },
-      "artists": [
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "anywhere but here",
-      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -855,22 +975,6 @@
       "duration_ms": 158300,
       "name": "We Can Go Always Go Back To Love",
       "url": "https://open.spotify.com/track/3wzbjzJFBSZeyYlpt8gVL6"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Blue Blood",
-        "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
-      },
-      "artists": [
-        {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
-        }
-      ],
-      "duration_ms": 154748,
-      "name": "Blue Blood",
-      "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -2231,26 +2335,6 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/6dfye3ycbZtzVg8smSW7Fs"
-      },
-      "artists": [
-        {
-          "name": "TOKYOPILL",
-          "url": "https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X"
-        },
-        {
-          "name": "CHR1SSY",
-          "url": "https://open.spotify.com/artist/21uX9Q97gJCfffa0rAuq99"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/2Sc3ifpiaD9fKVYA6cKwiB"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
         "name": "Tequila Sunrise",
         "url": "https://open.spotify.com/album/1bD0zluNh13BZUXw3CG3KU"
       },
@@ -2383,54 +2467,6 @@
     {
       "added_at": "2024-01-29 10:31:32",
       "album": {
-        "name": "Meteor",
-        "url": "https://open.spotify.com/album/5uozo9ZNHo3vI7x14cWzmW"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 171279,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/3q53rFJ6wnhLhm6W8VlA8P"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "BURNA FONE",
-        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "BURNA FONE",
-      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "Array",
-        "url": "https://open.spotify.com/album/3e9iO7RuGGNqhkiu2VPSLV"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Array",
-      "url": "https://open.spotify.com/track/1CG4BeMSNkPdzEieKWVuDH"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
         "name": "Lab (black balloons Remix)",
         "url": "https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os"
       },
@@ -2483,26 +2519,6 @@
       "duration_ms": 138877,
       "name": "should i text ruby?",
       "url": "https://open.spotify.com/track/7l4o6RvR2FHtyn5o1RMhwX"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "DRIP1",
-        "url": "https://open.spotify.com/album/1rW0fqsGHQXmLWZ0H9h5cH"
-      },
-      "artists": [
-        {
-          "name": "WTRGRL",
-          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
-        },
-        {
-          "name": "BABii",
-          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
-        }
-      ],
-      "duration_ms": 162384,
-      "name": "Heroine (BABii Remix)",
-      "url": "https://open.spotify.com/track/65aDLN9TrkfJqHknuk63dI"
     },
     {
       "added_at": "2024-01-29 10:31:32",
@@ -2683,22 +2699,6 @@
       "duration_ms": 339999,
       "name": "ULTRANCE",
       "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"
-    },
-    {
-      "added_at": "2024-01-29 10:31:32",
-      "album": {
-        "name": "Personal Protocol",
-        "url": "https://open.spotify.com/album/2ScwqDiRQMrGkthrrsumoW"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 123196,
-      "name": "COOL_DNB_SONG",
-      "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
     },
     {
       "added_at": "2024-01-29 10:31:32",

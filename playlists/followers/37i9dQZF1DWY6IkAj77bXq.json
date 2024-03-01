@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 68390,
+  "2024-03-01": 68429,
   "date_first_scraped": "2022-07-19",
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
   "name": "Sanaci\u00f3n Profunda",
@@ -888,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Embodied Awareness",
+        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Embodied Awareness",
+      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
+    },
+    {
+      "album": {
         "name": "Emerald Isles",
         "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
       },
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 181985,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"

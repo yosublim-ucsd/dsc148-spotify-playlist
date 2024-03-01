@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Platform, Peipper, Gino Mella, Marioo, Soge Culebra
+> Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
-363 songs - 20 hr 42 min
+365 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [As Long As You Know](https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [As Long As You Know](https://open.spotify.com/album/3BpM5KGAB2WAbMMVOvQYnk) | 3:17 | 2022-01-27 | 2022-08-19 |
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-05-19 |
 | [Asante](https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Asante](https://open.spotify.com/album/4aMXNnKrAnvfZjDgKGlwhC) | 4:07 | 2023-10-26 | 2024-01-19 |
-| [Asante](https://open.spotify.com/track/2F3k8A61aTbtXlL6NS4vay) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Asante](https://open.spotify.com/album/7JQJKv0wkk3YVTeUoOjKIC) | 4:42 | 2023-11-23 |  |
+| [Asante](https://open.spotify.com/track/2F3k8A61aTbtXlL6NS4vay) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Asante](https://open.spotify.com/album/7JQJKv0wkk3YVTeUoOjKIC) | 4:42 | 2023-11-23 | 2024-03-01 |
 | [Asante](https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Asante](https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi) | 3:24 | 2024-01-25 |  |
 | [Atakuoa Nani](https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Atakuoa Nani](https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk) | 3:11 | 2022-06-09 | 2022-09-23 |
 | [Attitude \(feat\. H Baba & Awilo Longomba\)](https://open.spotify.com/track/0g0hP1iIE9wndu2QySOnLj) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT), [H Baba](https://open.spotify.com/artist/2noAGWWAoNCEw8WdKhXx8D) | [Attitude \(feat\. H Baba & Awilo Longomba\)](https://open.spotify.com/album/3e5jWuAM4Tmfsz287xT5wE) | 4:44 | 2021-08-26 | 2022-02-05 |
@@ -53,6 +53,7 @@
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-12 |
 | [Comboraa](https://open.spotify.com/track/5tyXI0eHfeNeSpf1OQM55H) | [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Comboraa](https://open.spotify.com/album/0nGx68npium6L4Qth0a6Jv) | 3:50 | 2023-06-15 | 2023-09-08 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2023-02-24 |
+| [Daddy](https://open.spotify.com/track/4HU8Lq2LQZxiUTlkKXZzId) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Daddy](https://open.spotify.com/album/0hAbQ2yAopHo4xs4iw4mhi) | 3:22 | 2024-02-29 |  |
 | [Dah!](https://open.spotify.com/track/3TXlJ5pREGbzgm6kMurKPy) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Dah!](https://open.spotify.com/album/6TRD05CyMKYFv5BDlZWidL) | 2:59 | 2024-01-18 | 2024-02-02 |
 | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/track/4aiEer4vCjTyuRAVFAlmGD) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dah! \(feat\. Alikiba\)](https://open.spotify.com/album/3W0tL0BDQHyKP4Wjol9Ps6) | 3:08 | 2024-02-01 |  |
 | [Dala Dala](https://open.spotify.com/track/1Wq9d6BDdi31KQ5s1NPY1h) | [DreyGon](https://open.spotify.com/artist/78m9kxa7EfBk1LTYotuOp0) | [Dala Dala](https://open.spotify.com/album/2nM8op6H7Mfp6CSpKj2zh4) | 4:46 | 2023-01-12 | 2023-06-16 |
@@ -238,6 +239,7 @@
 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-05-19 | 2023-01-20 |
 | [Nisha Mpenda](https://open.spotify.com/track/1UQfdQIYiu4Ogj7SOWBTJf) | [Swallah Boy](https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX) | [Nisha Mpenda](https://open.spotify.com/album/0OzmP1AOTb9zZPHsr4mvm8) | 3:27 | 2022-08-26 | 2023-03-25 |
 | [Nishazama](https://open.spotify.com/track/3fG8h0OYj0mcPr1pY4a3xm) | [Marry G](https://open.spotify.com/artist/4a2pfrraFdyyLThW3OECWb) | [Nishazama](https://open.spotify.com/album/0aN6E9LOov8eZ6daNph6Sc) | 2:28 | 2022-07-14 | 2022-10-08 |
+| [Nisiulizwe](https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Nisiulizwe](https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv) | 3:09 | 2024-02-29 |  |
 | [Nitalia](https://open.spotify.com/track/0qLJfBbQLvgCBPSW4uGHfB) | [macb](https://open.spotify.com/artist/2OLLh3zh1ps2uj4ZbLLUQS), [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ) | [Nitalia](https://open.spotify.com/album/7kqrfkGS4YtIhjhImKhBBK) | 2:47 | 2023-07-27 | 2023-11-03 |
 | [Nitasema](https://open.spotify.com/track/0HSlAMhB61Bk9Y1wU6jyeZ) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nitasema](https://open.spotify.com/album/7knz9k6jkhssslzx6EhFZU) | 3:33 | 2023-01-26 | 2023-11-17 |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2021-06-25 | 2022-01-28 |
@@ -346,7 +348,7 @@
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2023-12-22 |
 | [Wababa](https://open.spotify.com/track/7xmRTGoMxsMyrFz9OB9EsD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wababa](https://open.spotify.com/album/3csfj7XdPGRcYPcGKVQtXL) | 4:33 | 2023-11-30 |  |
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
-| [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 |  |
+| [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 | 2024-03-01 |
 | [Wasiwasi](https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wasiwasi](https://open.spotify.com/album/72ObTTZXAXz1TIo3NQSbrz) | 3:56 | 2023-02-23 | 2023-07-14 |
 | [Watu Feki](https://open.spotify.com/track/43EczENfxxOy3nJBqKRcV2) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Watu Feki](https://open.spotify.com/album/3IQYzBMNVE9pEnZj2SWzKc) | 3:39 | 2023-08-10 |  |
 | [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 |  |

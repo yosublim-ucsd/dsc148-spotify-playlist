@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-418 songs - 20 hr 57 min
+419 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [shade](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [shade](https://open.spotify.com/album/4quQww8KbK6FVuv4EPwZP4) | 2:20 | 2022-08-12 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-05 |  |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2022-04-05 | 2022-07-29 |
-| [Silent Night](https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/5ALVrxBQN7xyMyeOF7DToQ) | 2:50 | 2022-10-28 |  |
+| [Silent Night](https://open.spotify.com/track/2ukFKTsfS4BNWuTlaNMNJr) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/4Tb62CXMnvRIAcZ0KaRa42) | 2:50 | 2024-02-27 |  |
+| [Silent Night](https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/5ALVrxBQN7xyMyeOF7DToQ) | 2:50 | 2022-10-28 | 2024-03-01 |
 | [Sima Deli](https://open.spotify.com/track/6CdVgngqmmLWvbPzPZ596U) | [Stockset](https://open.spotify.com/artist/2GsMlo9UOvZ2YcVoFtTOpt) | [Sima Deli](https://open.spotify.com/album/2ughtucDJA558sqUjSpcNM) | 2:15 | 2023-06-23 |  |
 | [SkyReach](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [SkyReach](https://open.spotify.com/album/4OK9S0Bz51bNBUnkbFuDmW) | 2:54 | 2023-03-03 |  |
 | [Sleep & Pluck](https://open.spotify.com/track/5PDibz01bDnKUlVd7VhNpE) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Sunlifter](https://open.spotify.com/album/21NSh7NcKTP3LVFXeGAfUA) | 2:56 | 2022-10-28 | 2023-09-02 |

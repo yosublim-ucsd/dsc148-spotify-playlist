@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 199203,
+  "2024-03-01": 199227,
   "date_first_scraped": "2023-08-09",
   "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta.",
   "name": "Trotamundos",
@@ -4294,6 +4294,28 @@
     },
     {
       "album": {
+        "name": "Hero (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4qVcrwcaOQjnQUlOi8043E"
+      },
+      "artists": [
+        {
+          "name": "Reshma",
+          "url": "https://open.spotify.com/artist/0xawOgbaKGtq7KSlrRWrWP"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388840,
+      "name": "Lambi Judaai",
+      "url": "https://open.spotify.com/track/6kSZ78RMntJz5hEH8p7YMj"
+    },
+    {
+      "album": {
         "name": "Sheesha Ho Ya Dil Ho - Dard Bhare Geet",
         "url": "https://open.spotify.com/album/2DzDY8wKuOYnX4q1Wtv4Fr"
       },
@@ -4967,7 +4989,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 211560,
       "name": "Mujer Luna",
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"

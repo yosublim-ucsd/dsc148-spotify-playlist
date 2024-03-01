@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-230 songs - 9 hr 17 min
+233 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,13 @@
 | [californication](https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [californication](https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU) | 2:07 | 2022-12-02 |  |
 | [Californication](https://open.spotify.com/track/2qPuqNzXKGJxUGix3Ot6ff) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 3\)](https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc) | 4:23 | 2022-09-02 |  |
 | [can't get you out of my head](https://open.spotify.com/track/0pMDDVEwKLJ0WaUK4BL4f2) | [amelia liz](https://open.spotify.com/artist/7N0txyqhJC7i8CPZQoWOVq) | [can't get you out of my head](https://open.spotify.com/album/5wox44PtCaRPxM1tMp1ozd) | 2:37 | 2023-03-01 |  |
+| [can't help falling in love](https://open.spotify.com/track/2GWiniyAg0uvV9HZD6obFK) | [Jack All](https://open.spotify.com/artist/4rtQc0T0U3nCqAV6BwmOO4) | [can't help falling in love](https://open.spotify.com/album/0D24yLapFTmwHXUVGn04eN) | 2:19 | 2024-03-01 |  |
 | [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/7yKsd3VFFd4RD5Io5c1LyR) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:01 | 2022-09-02 | 2023-12-21 |
 | [chandelier](https://open.spotify.com/track/25AjoIOjVfxe6kgE9ftvep) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [chandelier](https://open.spotify.com/album/7rd5lKApMDcncjp7ZBEoMQ) | 3:33 | 2023-01-06 |  |
 | [changes \- lofi](https://open.spotify.com/track/48c0IQHjMzz0ZVjObrCs9K) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [lofi chill vibes with 2Pac](https://open.spotify.com/album/5W1jGRoH27AASKghzZmt4Q) | 2:18 | 2023-08-21 | 2023-10-19 |
 | [Chasing Cars](https://open.spotify.com/track/1VOGwVCwqfCN57a1g1ZMSg) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/070uuSMrffZLnxkqseJehl) | 2:31 | 2022-09-02 | 2022-10-02 |
 | [Chasing Cars](https://open.spotify.com/track/2kGy10LaMDzVoSjB3t4xAq) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/0MvaTmVF5rnkSZlLLNfLzo) | 2:31 | 2022-09-30 | 2023-12-15 |
+| [Chasing Cars \- Lo\-Fi](https://open.spotify.com/track/21cliwsLqdzqfZNeOcyzQW) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Chasing Cars \(Lo\-Fi\)](https://open.spotify.com/album/7mKFOij7rL3mladzMppZwS) | 4:27 | 2024-03-01 |  |
 | [Children](https://open.spotify.com/track/7JcLj7YKRbjFnoMFHOPTi3) | [RetroBlend](https://open.spotify.com/artist/0RbBkpf8a8qyPt7hi8ouT7), [Vincent Lee](https://open.spotify.com/artist/0cuXND9aMsZhko0y3w8uxw), [2Bough](https://open.spotify.com/artist/5oie92RnkCpuSHGWiReZtq) | [Children](https://open.spotify.com/album/6geMwmmof8UzPHf1Sa601e) | 2:05 | 2023-08-28 |  |
 | [Circles](https://open.spotify.com/track/1D7pJ9CBEQa9O48kgB5acI) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 3:03 | 2022-09-02 | 2023-10-19 |
 | [Closer](https://open.spotify.com/track/2up6gzK4iCDRe03q15Ed1U) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD) | [Closer](https://open.spotify.com/album/7LqUb7JXODvXG8oL03pgyZ) | 1:30 | 2022-09-02 |  |
@@ -130,6 +132,7 @@
 | [love me like you do \- lofi](https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj) | [Jaden Christy](https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9), [its' okay](https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq) | [love me like you do \- lofi](https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD) | 1:39 | 2022-12-02 |  |
 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 | 2022-09-16 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/4zbDddvck9LUqoh1nojkVh) | [Dab Rosser](https://open.spotify.com/artist/1rIG28M0NJsbl5DDp6x8GA) | [Meet Me At Our Spot](https://open.spotify.com/album/5zu8UTGoKBr1NiJyfuJdGR) | 1:57 | 2022-10-28 |  |
+| [Motion Sickness \- Lo\-Fi](https://open.spotify.com/track/2IpAxomjfTw18xKhNe05UE) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [Avril 14th & Motion Sickness \(Lo\-Fi\)](https://open.spotify.com/album/1KUYdbhlq7HmfYmdOEvv8S) | 4:17 | 2024-03-01 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/45atCi3vYyXtz9ijskqGN5) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Mr\. Brightside](https://open.spotify.com/album/4P0Osalw7TaQLM0JKIyHOy) | 2:04 | 2022-09-02 | 2023-09-08 |
 | [my girl](https://open.spotify.com/track/2tmwtHHqbNYtZTMhGrINgW) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [my girl](https://open.spotify.com/album/00BGyfJc3D9WMFHrox5g86) | 1:32 | 2023-06-09 |  |
 | [My Love Mine All Mine \- Lo\-Fi](https://open.spotify.com/track/2jTF88RCLLIx5kVDXi2gPM) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [My Love Mine All Mine \(Lo\-Fi\)](https://open.spotify.com/album/1QnjnDG89CKI0eAc56VAWY) | 2:18 | 2024-02-09 |  |

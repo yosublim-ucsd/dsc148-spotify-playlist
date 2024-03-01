@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-262 songs - 6 hr 40 min
+267 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/1Xi43rmEBKu76psxcrsByb) | [Donny Barnum](https://open.spotify.com/artist/3Li2AnR0Kbhr3KT48Qkuk0) | [London Bridge](https://open.spotify.com/album/5YZNhNnVcmFD3Zhm09j180) | 1:10 | 2022-02-10 | 2022-09-23 |
 | [Heat Waves](https://open.spotify.com/track/4jv8JL4cIFlrhnUdZVThBA) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [Heat Waves](https://open.spotify.com/album/1N2A97dyrN8yieVTEli9iK) | 1:30 | 2022-02-10 | 2022-04-23 |
 | [Heavenly](https://open.spotify.com/track/5XXhfUgLW8gzhGVffzFQok) | [Chelsie Aston](https://open.spotify.com/artist/4YVSdK9kZz50Wb1ANeMqAo) | [Heavenly](https://open.spotify.com/album/4lFGG8PFQq7qu4McQaZkqo) | 0:57 | 2022-11-25 |  |
+| [Heavenly Melody](https://open.spotify.com/track/3jVBk1cx8265VNDgqQqP6g) | [Amy Roman](https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe) | [Heavenly Melody](https://open.spotify.com/album/2ziFX1RLnLitYmbEppUx9n) | 1:21 | 2024-03-01 |  |
 | [Hickory Dickory Dock](https://open.spotify.com/track/56evNyWznxLsCF6ZuWKTC7) | [Justin Tejedor](https://open.spotify.com/artist/5rF1iAOOglmQTg45bsmRu6) | [Hickory Dickory Dock](https://open.spotify.com/album/1O84ROEMIcfOMtj6tCS1my) | 1:31 | 2022-11-25 | 2023-05-19 |
 | [Hide and seek](https://open.spotify.com/track/5UJ8MXBy8QHCTi764Dzk1e) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [Hide and seek](https://open.spotify.com/album/2JI1bDmqusPLCzmmxygBid) | 1:23 | 2022-02-10 |  |
 | [Hide and Seek](https://open.spotify.com/track/2afuD9yMSnn0WStO5SdnuX) | [Romeo's Music Box](https://open.spotify.com/artist/09KF2faaPp2vPZYnrCftV6) | [Country Mornings](https://open.spotify.com/album/2zTZjB3D253xXYmDR4j4O6) | 1:59 | 2022-02-10 |  |
@@ -152,6 +153,7 @@
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 |  |
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
 | [Morning Serenade](https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [Morning Serenade](https://open.spotify.com/album/6WxSfGCxXh8UkdejvuCnDO) | 1:28 | 2023-10-06 |  |
+| [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 | 2024-03-01 |  |
 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 | 2023-05-19 |  |
 | [My Bedtime Fairytale](https://open.spotify.com/track/6g1ykf0HVQpZwnNolxNZrK) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:49 | 2022-02-10 | 2022-10-08 |
 | [My Big Red Lollipop](https://open.spotify.com/track/6YM1LT4Lky8LVGr3MnUzYd) | [Lucie Avila](https://open.spotify.com/artist/2FPmkspLV88EjMpP6XKnwv) | [My Big Red Lollipop](https://open.spotify.com/album/6mjHxtb2Vbc0naLmpbX2qS) | 1:23 | 2022-02-10 |  |
@@ -199,6 +201,7 @@
 | [Sleeping Angel](https://open.spotify.com/track/4HC4pGvGPUomA1m4409wrY) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Sleeping Angel](https://open.spotify.com/album/11yWjXDQZ2lpm4v0rInRwp) | 1:32 | 2023-11-17 |  |
 | [Sleeping On Cloud 9](https://open.spotify.com/track/1q1mOWrsNhTPvaCVq2jwjW) | [Torben Overgaard](https://open.spotify.com/artist/2wrZRfjoJ5N3f1WyYjbKXL) | [Sleeping On Cloud 9](https://open.spotify.com/album/1mr5gy4ZZ8uTL4t64v74bd) | 1:28 | 2022-07-01 |  |
 | [Sleeping Otters](https://open.spotify.com/track/5LH9wtbdbuFtNVfo6eag1x) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Sleeping Otters](https://open.spotify.com/album/0rBu8CY7PCFkdeLajMjwX8) | 1:35 | 2022-12-09 | 2023-05-19 |
+| [Sleeping Woods](https://open.spotify.com/track/6pSNIn6VLzkJMmv7NL7mkF) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Sleeping Woods](https://open.spotify.com/album/0Mq2RsU8NGCcVidZ7MhKAD) | 1:26 | 2024-03-01 |  |
 | [Sleepy Bells](https://open.spotify.com/track/08HHyYsAkYY1VIxgU0dbSG) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Sleepy Bells](https://open.spotify.com/album/2uh2fbK3oxjwMlZBSPpzl3) | 1:22 | 2024-01-19 |  |
 | [Slumberland Song](https://open.spotify.com/track/6ZytMjWT6QTqwRh0qHcILq) | [Gabriela Cooke](https://open.spotify.com/artist/3tP132moYZ0YFA6GpF6pSU) | [Slumberland Song](https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6) | 1:36 | 2022-02-10 | 2023-02-18 |
 | [Softly We Sleep](https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ) | [Ginny Love](https://open.spotify.com/artist/3M01IyD333mOOvDW4dA0eJ) | [Sleep Lullabies](https://open.spotify.com/album/3ThrtKNQFGuxyJbaxu5O4C) | 1:48 | 2022-02-10 |  |
@@ -206,6 +209,7 @@
 | [Somewhere over the rainbow](https://open.spotify.com/track/7xR4hSnxdNczhdckGAeqPE) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:48 | 2022-02-10 |  |
 | [Sommerferien min](https://open.spotify.com/track/30dqdGQgNnuOpYxP7uYEGE) | [Dagmar Eriksen](https://open.spotify.com/artist/60u6BdJPra6Nl3FRK1VOB8) | [Sommerferien min](https://open.spotify.com/album/0RjrzHSGv9IV8RZwdtg0KP) | 1:17 | 2022-06-10 | 2023-08-25 |
 | [Sov på min arm](https://open.spotify.com/track/2smLJRUAetmsOISjZORGtV) | [Chelsie Aston](https://open.spotify.com/artist/4YVSdK9kZz50Wb1ANeMqAo) | [Moon River](https://open.spotify.com/album/7pfGT84RKXXF1yGTdd1dIR) | 1:33 | 2023-02-17 | 2023-06-03 |
+| [Spider On The Moon](https://open.spotify.com/track/3CX4FUQOZIpWrVDS7kT15x) | [Will Bloom](https://open.spotify.com/artist/74NdmPNAoPSXNvG3DhNL0e) | [Spider On The Moon](https://open.spotify.com/album/4l97q3ZyPwOA3DY6ZKfC3O) | 2:12 | 2024-03-01 |  |
 | [Splashing in the Sun](https://open.spotify.com/track/5lL4d60LWLlGnM7MgT0NNn) | [Sara Oh](https://open.spotify.com/artist/2TIZ5af12SXGEKOfsVeAgM) | [Splashing in the Sun](https://open.spotify.com/album/4fY7Y6jqDSYdTGngRbpqjb) | 2:16 | 2022-02-10 |  |
 | [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-10 |  |
 | [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 |  |
@@ -231,6 +235,7 @@
 | [The Carousel](https://open.spotify.com/track/4RTdBnJYhV58DGrhCJy8Q2) | [Gobblis](https://open.spotify.com/artist/3YSmdEAelsfSIm4uArfV3O) | [The Carousel](https://open.spotify.com/album/3d14PkRC52xnekQ7C6QDTC) | 1:12 | 2022-02-10 | 2022-11-26 |
 | [The Fisherman](https://open.spotify.com/track/61ZWC8H3rJ5HP4mwt6CR3Y) | [Hannah Belstead](https://open.spotify.com/artist/1qRdZ3SW7xLqk4GszgtCK6) | [The Fisherman](https://open.spotify.com/album/1xGyvv3513BTEYFACrEdF2) | 1:16 | 2022-02-10 |  |
 | [The Happy Hat](https://open.spotify.com/track/1jEDV9nHECLsE9D9fRRZKt) | [Sienna Coleman](https://open.spotify.com/artist/1tfI0CE5R55GgLDVwWwQlD) | [Baby Babble](https://open.spotify.com/album/5kMCaH2YOp9u1PainquWjn) | 1:29 | 2022-02-10 |  |
+| [The Little Cat](https://open.spotify.com/track/63T6RCOrxseQR7iVsf1ylb) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [The Little Cat](https://open.spotify.com/album/2RWn4HqgszUr2WcRif6D2H) | 1:01 | 2024-03-01 |  |
 | [The Little Star](https://open.spotify.com/track/2jK3M0pInr6YaMmJZBKS8f) | [Paige Mercier](https://open.spotify.com/artist/2Fqoyakpw6y0FemMaXayce) | [The Little Star](https://open.spotify.com/album/3AvRG2VgTe93WHDKkpvW8O) | 1:16 | 2022-02-10 |  |
 | [The Little Turtle](https://open.spotify.com/track/1JyJ3uctO50xWO0nLX6kJr) | [Marcus Stillman](https://open.spotify.com/artist/4harlYKMPbSGXod94voGhU) | [The Little Turtle \(Music Box\)](https://open.spotify.com/album/1dLaciTBu1UKOksbcrPJkK) | 1:50 | 2022-02-10 |  |
 | [The Sleeping Waltz](https://open.spotify.com/track/3gV7QZL2TLxcqczvp3Mi6D) | [Drei malo](https://open.spotify.com/artist/1fB4LWGsh4lYCFImN1L4Ge) | [The Sleeping Waltz](https://open.spotify.com/album/6vgxJbxfXc2H3mWTJcc1dT) | 1:32 | 2022-02-10 | 2023-05-19 |

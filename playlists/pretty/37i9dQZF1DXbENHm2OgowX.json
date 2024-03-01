@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 169301,
+  "num_followers": 169558,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjRmMDdjMWEwYmJlMzUxMTE3N2YyNjZmZDg0NTI0N2M5MTVkMzcx",
+  "snapshot_id": "MCw4YWY3NWI2OWQ0NmIzMjQyOGQzNjMwMjI0ZjBmZjdlZGM5ZjA4ODg2",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Bardo Landscape",
-        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Bardo Landscape",
-      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Bardo Landscape",
+        "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Bardo Landscape",
+      "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Lie Beneath the Stars",
-        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
-      },
-      "artists": [
-        {
-          "name": "Rokkr",
-          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
-        }
-      ],
-      "duration_ms": 389530,
-      "name": "Lie Beneath the Stars",
-      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 417142,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Lie Beneath the Stars",
+        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
+      },
+      "artists": [
+        {
+          "name": "Rokkr",
+          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+        }
+      ],
+      "duration_ms": 389530,
+      "name": "Lie Beneath the Stars",
+      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
     },
     {
       "added_at": "2023-09-22 12:14:33",

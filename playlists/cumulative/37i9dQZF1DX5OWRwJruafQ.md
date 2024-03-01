@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-318 songs - 15 hr 8 min
+319 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Putt Jattan De](https://open.spotify.com/track/2n3HUcwbuJbG24fyPDZb8J) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Putt Jattan De](https://open.spotify.com/album/3Z4MbkKMCrrY9YW1fZOM4q) | 2:43 | 2024-02-09 |  |
 | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/0le7rsL6RS0cv3JRpPHim3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/7MNNv8dFXb563dcOpw4P4H) | 2:58 | 2023-04-15 | 2023-04-21 |
 | [Raid](https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH) | [Gurpreet Randhawa](https://open.spotify.com/artist/3uB5zQEcpSgthO42DwPcH9), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Raid](https://open.spotify.com/album/5ZkyLxGnYpG47sUsN2f4f8) | 2:16 | 2023-03-29 | 2023-04-21 |
+| [Rare](https://open.spotify.com/track/6UIeXd0oMQk5ZuC2PGDGgq) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Mood Mechanic](https://open.spotify.com/artist/1RrL9MD1idOnU0jUvorr9v) | [Rare](https://open.spotify.com/album/6kSqx59AZ9ETpqP5nLybcd) | 1:57 | 2024-02-29 |  |
 | [Rebel](https://open.spotify.com/track/55nyHIEC9uSC5nqgMGiZIe) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Chidiyan Da Chamba](https://open.spotify.com/album/7Dsgh4TMCBZW64jpsEGyIv) | 3:11 | 2023-10-20 | 2023-10-24 |
 | [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pav](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 | 2023-08-25 | 2023-10-05 |
 | [Royal](https://open.spotify.com/track/1ef21vkRkY1XdkhBHiHcLo) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Lafz](https://open.spotify.com/artist/3AFsfA31wg6nLvZwSKFszq) | [Beyond Belief](https://open.spotify.com/album/7oF59pfaoiCd29K5UzT0K4) | 2:34 | 2023-09-11 | 2023-10-20 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,342 likes - 225 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,430 likes - 225 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Time of Quiet Between the Storms](https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [A Time of Quiet Between the Storms / Harvester Attack \(from "Dune: Part Two"\)](https://open.spotify.com/album/31iFZsioqZFiA59rV3I4L7) | 4:21 |
+| 1 | [A Time of Quiet Between the Storms](https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 4:21 |
 | 2 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
 | 3 | [Felix Amica](https://open.spotify.com/track/2dtRoZSU49jCGS6wnuum5T) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:35 |
 | 4 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 224 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 225 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Jimmy Lavalle](https://open.spotify.com/artist/1W3i3D5iKgKH5Yg2XhXqby) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCw4ZTYwYTBhZmY0MGZhZjY0MjUzYzFkMjUwNDU0NTJmODE2OTkxYThi`
+Snapshot ID: `MCxjYjI1NmNhZWUxMzc3NjhmZTg4MGQ3NzZhZjA2Nzc4YmI2OTljMDcz`

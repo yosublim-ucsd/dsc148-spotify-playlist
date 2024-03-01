@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-541 songs - 20 hr 51 min
+543 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Amor na Praia](https://open.spotify.com/track/4DAkqKqpLl7KaFwQxxeHA0) | [De la Plante](https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD) | [Amor na Praia](https://open.spotify.com/album/0Bke9cR7fyutIivRHIbQZB) | 2:24 | 2022-09-02 | 2023-11-02 |
 | [Amore](https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Amore](https://open.spotify.com/album/5MEA9XtnI9AUg1axr8m8Gr) | 3:06 | 2022-10-14 |  |
 | [And All That Jazz](https://open.spotify.com/track/0FeZHrVcF4dJ664G38Qfb8) | [Sonic Park](https://open.spotify.com/artist/2y2VQ20ZdNjceBkKPaDF6B) | [Change Of Plans](https://open.spotify.com/album/4tMdzi2HQUG1lFtnfcmACK) | 2:38 | 2022-05-20 | 2022-07-01 |
+| [Antarta](https://open.spotify.com/track/708zYiRD3KF6a3DQnXmO6T) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Antarta](https://open.spotify.com/album/1JSFswlIzsldf6SobiCzxk) | 2:24 | 2024-03-01 |  |
 | [Apolloniz](https://open.spotify.com/track/0a2LxXM7I3nkbpz229aZeJ) | [A Monica](https://open.spotify.com/artist/6EyqcmMTxOuihJaiuJYW4y) | [Swimming Instructor](https://open.spotify.com/album/2YzhNxTnyOltLyF6AsiGHu) | 2:08 | 2022-05-20 | 2022-09-17 |
 | [Apples](https://open.spotify.com/track/6loGdnZ9mZQvvjXdb7lsp3) | [Mokezi](https://open.spotify.com/artist/3H4BXDh1utWbNJp32pTqIg) | [Apples](https://open.spotify.com/album/4ba6vbfLpTzcKX2AgeLWsd) | 1:49 | 2023-05-01 |  |
 | [Arraial Da Ajuda](https://open.spotify.com/track/7CFOFPykUPagxBUwa7D0AQ) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Arraial Da Ajuda](https://open.spotify.com/album/0Ok5qEMTp8NBbxvWWJFa3V) | 2:45 | 2022-07-22 |  |
@@ -120,6 +121,7 @@
 | [Cobblestone](https://open.spotify.com/track/66DEOiQSYkFl30qIcR5pbr) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Cobblestone](https://open.spotify.com/album/1jOQBeQ24Yn3hSLWgB9gAZ) | 1:40 | 2022-05-20 | 2023-01-07 |
 | [Coconut Cream Pie](https://open.spotify.com/track/134UJxY9MYew45PKg3dFSs) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Coconut Cream Pie](https://open.spotify.com/album/4ClteuvdIP6G7c801Q4K81) | 2:12 | 2023-06-15 | 2023-09-08 |
 | [Coffee Wave](https://open.spotify.com/track/6aNGqho5YSTVFtCj85GgfR) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Stuck In The Past](https://open.spotify.com/album/0sTlbpXZHzXzscvxAeNSfW) | 2:32 | 2023-05-01 | 2023-10-13 |
+| [cogumelo](https://open.spotify.com/track/5CZiLnNVWHIpqDn2Mf0OKt) | [is aí](https://open.spotify.com/artist/3NwIzHY8O3sZwL94phZWo2) | [cogumelo](https://open.spotify.com/album/52jIZBbZYYQ1CG9NEgbjdZ) | 2:21 | 2024-03-01 |  |
 | [Cold](https://open.spotify.com/track/4eXX8nK66Bl9Xx5wmmmKwV) | [Hallucination Orbit](https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO) | [Cold](https://open.spotify.com/album/0nYl18rnqfe2UzBE98mvmr) | 2:12 | 2022-05-20 | 2022-08-19 |
 | [Colinas Desde El Alba](https://open.spotify.com/track/6I5Sm9wrdGj7nvWhRv90du) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Colinas Desde El Alba](https://open.spotify.com/album/6AFCsm5CtiUULUoQkpV8hW) | 2:02 | 2022-06-24 | 2022-07-01 |
 | [Colours & Dust](https://open.spotify.com/track/6IoJ4Pttzc3DxFyZLWSjNj) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Colours & Dust](https://open.spotify.com/album/5yclX6BuTeOp2W1XcxlhzH) | 4:32 | 2023-03-13 | 2023-09-29 |

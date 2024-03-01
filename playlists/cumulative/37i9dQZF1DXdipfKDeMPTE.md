@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-585 songs - 22 hr 10 min
+588 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,10 +152,12 @@
 | [Down](https://open.spotify.com/track/0EUeyJYDnL0BsI4lgw68q5) | [Ateon](https://open.spotify.com/artist/0bMHm2og0EFDAI5qG7hRRa) | [Down](https://open.spotify.com/album/0I2APd9SlYxrxxv3YwJFfo) | 2:40 | 2022-09-09 | 2023-09-26 |
 | [Downpour](https://open.spotify.com/track/3xYK4PZRZ4SJlQ4d2KxyEL) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Downpour](https://open.spotify.com/album/6YktosI0Y0Iybi3u6QPC4n) | 2:39 | 2023-01-20 | 2023-10-01 |
 | [downtown](https://open.spotify.com/track/68o9Twi8HzTuGPcARJCt87) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [downtown](https://open.spotify.com/album/0fGrteHh6qlxoTO7kPv0J1) | 1:53 | 2023-01-06 | 2023-09-09 |
+| [dozen](https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [dozen](https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw) | 2:02 | 2024-03-01 |  |
 | [dr\. jyhkel](https://open.spotify.com/track/2rRgGBo9LusvTW9iFzxAqM) | [skylarks](https://open.spotify.com/artist/1d1Go2fDIrLgYVWCnrvKow) | [dr\. jyhkel](https://open.spotify.com/album/64SXdegWLZtEFAevppKenc) | 2:08 | 2022-05-20 | 2023-01-18 |
 | [Dream ON](https://open.spotify.com/track/6NLzpxi7PZH1K1tsLqpmeh) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Dream ON](https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU) | 1:47 | 2022-05-20 | 2022-09-17 |
 | [Drift](https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/6bmoUmUkCHbfKa4sb3iXEP) | 2:03 | 2022-05-20 | 2022-07-28 |
 | [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 | 2023-09-29 | 2023-11-18 |
+| [Drow\-Z](https://open.spotify.com/track/1IAGdL9gWU2YZ20dMCmTUT) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Drow\-Z](https://open.spotify.com/album/3PsQtnHRTwzcXTydoCWX7V) | 2:45 | 2024-03-01 |  |
 | [Drowsy Delight](https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq) | [Young Coyotes](https://open.spotify.com/artist/5OnbbH7EDelgJCRQO9BRov) | [Drowsy Delight](https://open.spotify.com/album/3w8L1yP27kRt2j3ccsFnd0) | 2:21 | 2023-09-22 |  |
 | [Dual Vision](https://open.spotify.com/track/07cDeLHLN5A9GxxsB3CBBK) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [Dual Vision](https://open.spotify.com/album/4BeynncF80zGwd82CP3p2C) | 1:25 | 2022-05-20 | 2023-01-18 |
 | [Dusk Till Dawn](https://open.spotify.com/track/5nyyuV2d4TMGrQ2bipvz1M) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU), [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz) | [Dusk Till Dawn](https://open.spotify.com/album/6TSTw3dOmkmMNqhA5TtUuU) | 2:12 | 2022-09-16 | 2023-12-14 |
@@ -505,6 +507,7 @@
 | [Summer Sleepy](https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Sleepy](https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC) | 2:00 | 2023-11-17 |  |
 | [Summertime Sangria](https://open.spotify.com/track/65WmN0rRJJo5CXosLkZBuE) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q), [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [Summertime Sangria](https://open.spotify.com/album/02Kt384yF4OiY627RTnKQU) | 2:21 | 2022-07-01 | 2023-01-20 |
 | [Sun\-Drenched](https://open.spotify.com/track/7siKUHMu8JmhDvZLInuDMd) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Sun\-Drenched](https://open.spotify.com/album/41DGf5KFsNow1BNG5CBjlb) | 2:16 | 2022-05-20 | 2022-06-10 |
+| [Sunday](https://open.spotify.com/track/3fI33pGId8m2csuVaVwIl6) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [Sunday](https://open.spotify.com/album/1mYw4GjZIdZMsguUOHn5tW) | 2:15 | 2024-03-01 |  |
 | [sunday afternoon tea](https://open.spotify.com/track/6dFt13csMtXDuLqjZdEqk7) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [sunday afternoon tea](https://open.spotify.com/album/5F3u2s9zK0InbrDTAEmeIX) | 2:20 | 2022-05-20 | 2023-01-18 |
 | [Sunday Sunset](https://open.spotify.com/track/6KI3tKEcW5NBMIWcHNlh0C) | [Mr\. Donsai](https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX) | [Sunday Sunset](https://open.spotify.com/album/5cLEuqhXzlO6z8reu4V2DD) | 1:40 | 2022-07-27 | 2023-10-06 |
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |

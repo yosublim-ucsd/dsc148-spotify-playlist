@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL?si=8zZ92xoZQpeQsFsyEoUR7A">The Big Hash</a>
+> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=nwL6vWByRbirHyq7\-245cw">Ziggy4x</a>
 
-687 songs - 1 day 13 hr 13 min
+689 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Deposit](https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | ["EHH Baby" The Big Bang Theory](https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo) | 2:08 | 2022-05-12 | 2022-10-22 |
 | [Di Shet'e](https://open.spotify.com/track/2viUI6XalkQsrRSxwxM2Jo) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Di Shet'e](https://open.spotify.com/album/4uXN8bVwKcvRodNJ4xTDsE) | 2:39 | 2022-10-31 | 2022-12-13 |
 | [Diamonds](https://open.spotify.com/track/5tlZjXxSeaaJEd4aYrHkHg) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Diamonds](https://open.spotify.com/album/7C9G1DbVHXdx7ndn2eNHeD) | 1:49 | 2023-04-27 | 2023-05-05 |
+| [Dinge](https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Dinge](https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB) | 2:12 | 2024-03-01 |  |
 | [Do I](https://open.spotify.com/track/1gP946Il5cA8KnRyBCIKn5) | [crownedYung](https://open.spotify.com/artist/0GtgdJ7DF3gH8f2029g1WW) | [Do I](https://open.spotify.com/album/4emmKhLLzHzADbs0e8jaE6) | 3:31 | 2023-08-31 | 2023-10-21 |
 | [Don Juliano](https://open.spotify.com/track/3uWnFQFj3uG65Vy1o3cDk2) | [JULEZUS](https://open.spotify.com/artist/3QmJD7L92VXiLz2uncynoz), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Don Juliano](https://open.spotify.com/album/6K7lIsCfuzQ25hzPgLSJgJ) | 2:03 | 2023-08-24 | 2023-10-21 |
 | [Don't Forget To Pray](https://open.spotify.com/track/6MQxRvB9paEB9iBAPhnshO) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55) | [Be Careful What You Wish For](https://open.spotify.com/album/3vEQ6xB8lxnWL9iaSRjHIn) | 3:25 | 2023-01-30 | 2023-02-28 |
@@ -192,6 +193,7 @@
 | [Eyes Closed](https://open.spotify.com/track/5qBQ8jRa1NL9lQXa7o59at) | [Kalliseni](https://open.spotify.com/artist/4IM0HLc9LGwxLKcXbEUZKx), [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6), [Yung Simmie](https://open.spotify.com/artist/44mzV1KxYq8i2S4LHZxQAp) | [Eyes Closed](https://open.spotify.com/album/3oU6BLBFicWlnWui9KbEFG) | 1:39 | 2022-01-20 | 2022-02-11 |
 | [Eyes On You](https://open.spotify.com/track/3DTjqXoV7U9LxJr6nlDbaq) | [Eccentric King](https://open.spotify.com/artist/5CYCc5XQbVPRC3kadV7dzp) | [Eyes On You](https://open.spotify.com/album/4yPNZAkwMDILF48C1jzXDo) | 3:00 | 2022-04-14 | 2022-07-15 |
 | [FACTS](https://open.spotify.com/track/2QuO7HB7xqRKtbslL1TeET) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [FACTS](https://open.spotify.com/album/3hw38HwRJeFzzq1Tg4hxV0) | 3:12 | 2022-09-15 | 2022-12-13 |
+| [FAITH](https://open.spotify.com/track/7aT29WUHb31MOBTK1Kpj50) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK), [Khalee G](https://open.spotify.com/artist/0huwXdgikYE0SPc3OpxoWz), [Saint Cielo](https://open.spotify.com/artist/2wu2K7slXGliclYBnoyO3F) | [FLY FOR MAGRIZA](https://open.spotify.com/album/5NhpcmGT5nmQyLVqquP0nk) | 4:41 | 2024-03-01 |  |
 | [Fall On Me](https://open.spotify.com/track/32U9T2dJoCdwTeUgjxB2MD) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB), [Mr Kamera](https://open.spotify.com/artist/4BGqdWZriOWooOfmXygFJt) | [Balance](https://open.spotify.com/album/2WlSIjEkZnpv0dlOSiXQ4c) | 3:45 | 2022-02-03 | 2022-02-18 |
 | [Fallen Angel](https://open.spotify.com/track/1T6m8bY04csDL3rvRlUlk1) | [THEBOYNAMEDSIMBA](https://open.spotify.com/artist/08l9goiuSlE8E5NVuhZPv1) | [Fallen Angel](https://open.spotify.com/album/1fitDUEXQQCVDg6IxwS30g) | 2:13 | 2022-04-14 | 2022-04-23 |
 | [fame](https://open.spotify.com/track/1ec7ZBFPtVFQsi9mLryik0) | [Amarii](https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY) | [From Bremersdorp With Love](https://open.spotify.com/album/4szU6hyRM7HVQnIgxRhcjT) | 2:46 | 2023-12-14 |  |

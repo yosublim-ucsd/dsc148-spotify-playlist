@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Buler\u00ed\u00e2 del aire acondi\u00e7ionao (feat. Miguelito Garc\u00eda) - Versi\u00f3n Maxi",
       "url": "https://open.spotify.com/track/0yV9em29PuD1roFpthc0aQ"
@@ -1174,7 +1174,7 @@
     {
       "album": {
         "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
       "artists": [
         {
@@ -1185,6 +1185,24 @@
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
+    },
+    {
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-01",
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 244800,
       "name": "Su S\u0131z\u0131yor",
       "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"

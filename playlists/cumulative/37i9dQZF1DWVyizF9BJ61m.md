@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-88 songs - 7 hr 19 min
+89 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 | 2019-03-22 |  |
 | [Ya Habibti \- Tommy T Remix](https://open.spotify.com/track/1hYgxWzno6oAs0wJMie83h) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [Tommy T](https://open.spotify.com/artist/7neF7fwkFK8Sz9Zp8iDwLE) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 5:26 | 2022-04-22 |  |
 | [You Are My Heart](https://open.spotify.com/track/0Ky98GMSlZQdctbAhU3I0Z) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 3:13 | 2019-03-22 | 2022-07-29 |
-| [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 | 2019-03-22 |  |
+| [You Are My Heart](https://open.spotify.com/track/0niAkwpNApzAyUSPoAzxXT) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/1J6WYt07yaUEVY5Uq6eFrI) | 3:13 | 2024-02-08 |  |
+| [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 | 2019-03-22 | 2024-03-01 |
 | [You Better Know](https://open.spotify.com/track/3eDKAKSjpTFVESPkMlfNXa) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:30 | 2019-03-22 |  |
 | [Zum Zum](https://open.spotify.com/track/56p5H8xnOPGDSMjIGjYmF0) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Chimera](https://open.spotify.com/album/1nqEB1PcVRdPTxHAlnZ2kN) | 5:16 | 2024-02-08 |  |
 

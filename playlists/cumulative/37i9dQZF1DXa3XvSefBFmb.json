@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Sabe Deus",
+        "url": "https://open.spotify.com/album/44ERVDv4hWZwAcnefIXKsp"
+      },
+      "artists": [
+        {
+          "name": "Filipa Vieira",
+          "url": "https://open.spotify.com/artist/6SWm4eOGQeFUZtkkS7v51Q"
+        }
+      ],
+      "date_added": "2024-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193147,
+      "name": "Cortar Os Impulsos",
+      "url": "https://open.spotify.com/track/3adpzbfo6FgMS4lSbv8QES"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/6py4NiY9lCuGUhEyn4TzsF"
       },

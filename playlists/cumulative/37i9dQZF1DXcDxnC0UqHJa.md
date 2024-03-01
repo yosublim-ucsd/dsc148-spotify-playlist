@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Norah Jones & Remi Wolf
 
-273 songs - 17 hr 30 min
+274 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-03 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-06-03 | 2023-05-13 |
 | [Gentle On My Mind](https://open.spotify.com/track/6zq5dLGKdvGoXn9FUvcJLC) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/7HLNwzaYWBgg9ttk1P7LyP) | 4:05 | 2021-12-13 | 2022-07-29 |
-| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 | 2024-02-24 |
+| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 |  |
 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 | 2022-06-03 |  |
 | [Go Your Own Way](https://open.spotify.com/track/3mxxAmuF5mRj3y6hoOaWnE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered Up With Flowers](https://open.spotify.com/album/7tWPIz3f0HUGmzZlCDxqLh) | 3:34 | 2022-01-21 | 2022-06-25 |
 | [God Only Knows](https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [God Only Knows](https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0) | 3:14 | 2021-12-13 | 2022-07-29 |
@@ -125,7 +125,7 @@
 | [Hey Me, Hey Mama](https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Hey Me, Hey Mama](https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC) | 3:30 | 2022-01-21 |  |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-12-13 | 2023-12-09 |
 | [High And Dry](https://open.spotify.com/track/7yttZmULyoii3eQ8fVZSrB) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/5h1gfBiPonoeyws7ONqFIV) | 3:52 | 2023-11-17 |  |
-| [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-03 |  |
+| [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-03 | 2024-03-01 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2022-01-21 | 2022-07-22 |
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:56 | 2021-12-13 |  |
 | [Hot Knife](https://open.spotify.com/track/4R4Ly8fyz89vGLr8dWfblY) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Fiona Apple](https://open.spotify.com/album/5vktfCTcDjO8o7fpQCUISC) | 2:23 | 2021-12-13 | 2022-07-29 |
@@ -267,7 +267,7 @@
 | [When The Party's Over](https://open.spotify.com/track/23wm1L965FPa1DXSnRGUqD) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [When The Party's Over](https://open.spotify.com/album/0odQrwp5nimkbEcOkbvcQX) | 2:50 | 2021-12-13 | 2022-07-25 |
 | [Where Gravity Is Dead](https://open.spotify.com/track/6ZrZfbH3BTVplVdxZrPm5i) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Where Gravity Is Dead](https://open.spotify.com/album/267d5LSzZszh3U2lQDzacs) | 3:33 | 2022-01-21 | 2022-07-20 |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-12-13 |  |
-| [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 | 2022-06-03 |  |
+| [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 | 2022-06-03 | 2024-03-01 |
 | [Will The Circle Be Unbroken](https://open.spotify.com/track/6bXVXxL9PbAUl0Zhz5lXTU) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Will The Circle Be Unbroken](https://open.spotify.com/album/4co3fekKkAONGfCwb4RC1Y) | 3:55 | 2022-01-14 | 2022-07-25 |
 | [Will the Circle Be Unbroken](https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:55 | 2022-06-03 |  |
 | [Wonderful \(Recorded Live at Kcsn, Los Angeles\)](https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Deluxe Edition\)](https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql) | 4:57 | 2021-12-13 | 2022-07-29 |
@@ -281,5 +281,6 @@
 | [You Turn Me On, I'm A Radio](https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [You Turn Me On, I'm A Radio](https://open.spotify.com/album/3POZ1VNpAUcGhfKbjVjUcQ) | 3:21 | 2021-12-13 | 2022-07-29 |
 | [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:21 | 2022-10-14 | 2023-05-01 |
 | [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:21 | 2023-06-23 |  |
+| [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/track/0U33bmLq4Qjrdwzz0uQiVJ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Your Song \(Vapor IKEA Commercial\)](https://open.spotify.com/album/1CVNCYg5s5bYeIbIUM4EUg) | 1:50 | 2024-02-02 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -2,7 +2,7 @@
 
 ### [RADAR Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX2TlTLxcIo6J)
 
-> From across the globe\. New Songwriters on the horizon\. Cover: <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>
+> Featuring Bill Maybury & new songwriters on the horizon from around the world\. Cover: <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>
 
 79 songs - 4 hr 8 min
 

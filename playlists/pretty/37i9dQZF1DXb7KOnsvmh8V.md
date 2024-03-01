@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,425 likes - 102 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,367 likes - 102 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 37 | [Blue Christmas \- Acoustic Version](https://open.spotify.com/track/4zuUC39UYTGdaCgZqK0HVe) | [Eliza May](https://open.spotify.com/artist/22iqZKWq4isF3MqNMZgCvm) | [Blue Christmas](https://open.spotify.com/album/0x6PqHT6iP3Kt5YebA85Zh) | 3:10 |
 | 38 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 |
 | 39 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 |
-| 40 | [Little Saint Nick](https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Acoustic Christmas](https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN) | 3:11 |
+| 40 | [Little Saint Nick](https://open.spotify.com/track/3ItP1jSko3LeUUKOqdWoEW) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Christmas Pop Hits](https://open.spotify.com/album/1YNdKcDUQ8SxZhH8k3WFXf) | 3:11 |
 | 41 | [O Come O Come Emmanuel](https://open.spotify.com/track/5JJFGM9oYDkEfG3bNAFyk4) | [Allie Peters](https://open.spotify.com/artist/7l02oACaptr9EPNWrOTOyv) | [O Come O Come Emmanuel](https://open.spotify.com/album/1fJaVLPYThL95uLSG7SoAl) | 2:28 |
 | 42 | [Jingle Bell Rock](https://open.spotify.com/track/37Hep4Mxnd5gTGfkmxiqIo) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Jingle Bell Rock](https://open.spotify.com/album/5dI9XqISbdfIxSWKfHZpyd) | 2:55 |
 | 43 | [Last Christmas](https://open.spotify.com/track/6bTev95WovVYs0JbQ8I6Vi) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:21 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 101 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
 | 102 | [Christmas Was Here \- Acoustic](https://open.spotify.com/track/4gwD6CSw69CzAKS3h9E95K) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/7oqCUVREr1pAvBMqvqzQZi) | 3:34 |
 
-Snapshot ID: `MCxlYjUzOWU5ODVmYzg4Y2FlMjQyZDczMzU1ZTk2MjgyNTU0Zjg2YmZm`
+Snapshot ID: `MCw5NGM1ZGRmNjFhZGY5NTNhMGNlOTcxZGY1ZGZjMTYzM2QwZTMxMzk4`

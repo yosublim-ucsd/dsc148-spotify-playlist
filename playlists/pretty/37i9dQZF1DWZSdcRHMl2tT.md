@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,454 likes - 254 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,516 likes - 254 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 136 | [Lakeswim](https://open.spotify.com/track/1hAUYakXQGSr6IvJ6uFll1) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Lakeswim](https://open.spotify.com/album/5hhSH0phuuah1ZTDnxCdar) | 2:35 |
 | 137 | [melt with you](https://open.spotify.com/track/2PaAxePigQ3wddWOXakh5y) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [melt with you](https://open.spotify.com/album/16C0uShYSHgzxVKNwdIMR5) | 2:24 |
 | 138 | [Floating](https://open.spotify.com/track/7trcNSGxT8x26jcv93YbiY) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Floating](https://open.spotify.com/album/2mBPlc7WO70IayqZj2fxo1) | 2:34 |
-| 139 | [Silent Night](https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/5ALVrxBQN7xyMyeOF7DToQ) | 2:50 |
+| 139 | [Silent Night](https://open.spotify.com/track/2ukFKTsfS4BNWuTlaNMNJr) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/4Tb62CXMnvRIAcZ0KaRa42) | 2:50 |
 | 140 | [teque](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [teque](https://open.spotify.com/album/4HsO0EPeFW6f4934ic9DDU) | 3:08 |
 | 141 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 |
 | 142 | [Lobby](https://open.spotify.com/track/2SYNph4RlGOSqW7h681G8D) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Lobby](https://open.spotify.com/album/53bhBGHmCq4XdN3lM785zZ) | 2:32 |
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 253 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 |
 | 254 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MCxjNTNhZTY5YjNhZmJhNjJlZGEwMDYzMmU4ZjE5OTkyODU5MDI3OWEz`
+Snapshot ID: `MCxmZTUyY2FkNDczNzk0ZmQ4YzEzZjFiMDI2OGY2NzlkNzY5Njk3MDM1`

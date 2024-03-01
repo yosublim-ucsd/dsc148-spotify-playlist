@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 68479,
+  "num_followers": 68497,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2IyNzdhZmJmMzNmNjFmNTgwZDI1ZTVkYmZkMmQyYmJkZmQzMDhl",
+  "snapshot_id": "MCwwNDQ2YTIwODEzOTBmNTFlODRiMjQwOWEwYjY4NWFmZjNmNGQ5YzE3",
   "tracks": [
     {
       "added_at": "2024-02-05 05:03:42",
@@ -523,26 +523,22 @@
     {
       "added_at": "2024-02-05 05:03:42",
       "album": {
-        "name": "Samjhe Na",
-        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
+        "name": "Maati Baani",
+        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
         },
         {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
         }
       ],
-      "duration_ms": 197277,
-      "name": "Samjhe Na",
-      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
+      "duration_ms": 273394,
+      "name": "Boondan Boondan (feat. Ankita Joshi)",
+      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
     },
     {
       "added_at": "2024-02-05 05:11:20",
@@ -567,22 +563,26 @@
     {
       "added_at": "2024-02-05 05:03:42",
       "album": {
-        "name": "Maati Baani",
-        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
+        "name": "Samjhe Na",
+        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
       },
       "artists": [
         {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         },
         {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
         }
       ],
-      "duration_ms": 273394,
-      "name": "Boondan Boondan (feat. Ankita Joshi)",
-      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
+      "duration_ms": 197277,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
     },
     {
       "added_at": "2024-02-05 05:03:42",
@@ -699,6 +699,38 @@
     {
       "added_at": "2024-02-05 05:03:42",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2024-02-05 05:03:42",
+      "album": {
+        "name": "Making Music",
+        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "duration_ms": 749466,
+      "name": "Making Music",
+      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
+    },
+    {
+      "added_at": "2024-02-05 05:03:42",
+      "album": {
         "name": "Jaa Kaga",
         "url": "https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1"
       },
@@ -739,38 +771,6 @@
       "duration_ms": 311186,
       "name": "Yariyaan",
       "url": "https://open.spotify.com/track/5DSFsWFoGi37SivNJAoTi4"
-    },
-    {
-      "added_at": "2024-02-05 05:03:42",
-      "album": {
-        "name": "Making Music",
-        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
-      },
-      "artists": [
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 749466,
-      "name": "Making Music",
-      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
-    },
-    {
-      "added_at": "2024-02-05 05:03:42",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2024-02-05 05:03:42",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-02-05 05:03:42",
       "album": {
-        "name": "Albela",
-        "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Rishabh Shankar",
-          "url": "https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Albela",
-      "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
-    },
-    {
-      "added_at": "2024-02-05 05:03:42",
-      "album": {
         "name": "In Other Words",
         "url": "https://open.spotify.com/album/0KruLNQDR6hriRFxMTFCwq"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 294855,
       "name": "Coming Home (feat. Akanksha Grover)",
       "url": "https://open.spotify.com/track/04NnuTb5FhhGcbnFqsMMMf"
+    },
+    {
+      "added_at": "2024-02-05 05:03:42",
+      "album": {
+        "name": "Albela",
+        "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Rishabh Shankar",
+          "url": "https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Albela",
+      "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
     },
     {
       "added_at": "2024-02-05 05:03:42",
@@ -1015,26 +1015,18 @@
     {
       "added_at": "2024-02-05 05:03:42",
       "album": {
-        "name": "Aaj Rang Hai",
-        "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
       },
       "artists": [
         {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Amrita Kak",
-          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
         }
       ],
-      "duration_ms": 205943,
-      "name": "Aaj Rang Hai",
-      "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     },
     {
       "added_at": "2024-02-05 05:03:42",

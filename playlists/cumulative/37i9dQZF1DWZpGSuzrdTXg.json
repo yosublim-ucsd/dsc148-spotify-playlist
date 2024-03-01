@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 198434,
       "name": "Autumn Love",
       "url": "https://open.spotify.com/track/236HZ8DhG7k0cXgem99oPP"
+    },
+    {
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/2NTUSfIlrjzhVvEoYb9BLK"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198434,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/6iBI0LmXBzcexTweRPjkPP"
     },
     {
       "album": {

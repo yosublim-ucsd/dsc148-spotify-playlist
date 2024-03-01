@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, 2metro, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,820 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,922 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 8 | [Céu](https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh) | 2:00 |
 | 9 | [Sobrenatural](https://open.spotify.com/track/2jpK1jHZpKNgemDB38gMuA) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Sobrenatural](https://open.spotify.com/album/47m7Wl5I37upam8SijwO8a) | 2:49 |
 | 10 | [O Pai Espera Você Voltar](https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Pai Espera Você Voltar](https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj) | 4:17 |
-| 11 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 |
-| 12 | [Fogo](https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fogo](https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63) | 2:40 |
+| 11 | [Fogo](https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fogo](https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63) | 2:40 |
+| 12 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 |
 | 13 | [Joquebede](https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede](https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb) | 2:49 |
 | 14 | [Ah Teu \(Sample: Naquela Mesa\)](https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ah Teu \(Sample: Naquela Mesa\)](https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv) | 2:45 |
 | 15 | [Hosana](https://open.spotify.com/track/1Q6Zk8VtV071NWfIyzzdHY) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Hosana](https://open.spotify.com/album/1I0VpGgH26ul84YeFjoH2r) | 4:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 85 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz`
+Snapshot ID: `MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh`

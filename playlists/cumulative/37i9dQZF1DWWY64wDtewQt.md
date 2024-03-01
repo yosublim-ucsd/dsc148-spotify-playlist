@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-693 songs - 1 day 2 hr 6 min
+694 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,8 +693,9 @@
 | [XEBU, PT\. 2](https://open.spotify.com/track/5P0OhLUoR6YiY4shxqEj4E) | [Cree+](https://open.spotify.com/artist/5zyatk5rWWeCj7Lcn5RV3u) | [XEBU, PT\. 2](https://open.spotify.com/album/3x8eiVRvamtYsnjfOcL3LN) | 2:42 | 2022-02-18 | 2022-04-05 |
 | [YOUR SMILE](https://open.spotify.com/track/1TDCt6qpnBhxGctJsgB1yg) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC), [SOLIZY](https://open.spotify.com/artist/3lgdHA23PP0zMKYkHvb87j) | [YOUR SMILE](https://open.spotify.com/album/05T8uOreFGlvKXpZ6GNday) | 2:26 | 2022-02-04 | 2022-06-11 |
 | [YUM YUM](https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:09 | 2023-07-21 |  |
-| [YUMMI](https://open.spotify.com/track/6R08W2StMBo5PUwJts9epc) | [Dethron](https://open.spotify.com/artist/7FbwfGxFIzEqx4NzINEALd) | [YUMMI](https://open.spotify.com/album/00MNYTrWsx579GXa5zjvSq) | 1:36 | 2023-10-13 |  |
+| [YUMMI](https://open.spotify.com/track/6R08W2StMBo5PUwJts9epc) | [Dethron](https://open.spotify.com/artist/7FbwfGxFIzEqx4NzINEALd) | [YUMMI](https://open.spotify.com/album/00MNYTrWsx579GXa5zjvSq) | 1:36 | 2023-10-13 | 2024-03-01 |
 | [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:36 | 2023-10-13 | 2024-02-29 |
+| [YUMMI](https://open.spotify.com/track/74ePdGLb9VnKpazKDUUz3a) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/5Fmb7HaEY0VdNRMIPvmMWR) | 1:36 | 2023-10-13 |  |
 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 | 2022-09-02 |  |
 | [Última Oportunidad](https://open.spotify.com/track/7pGYJmXcbTUvi44NfWTHNW) | [2upset2die](https://open.spotify.com/artist/2FKMAqbGxL3ovpvHhV0JSs), [KEMPERMANE](https://open.spotify.com/artist/4WxFcgkVJwMKBZEWUpdTcI) | [Última Oportunidad](https://open.spotify.com/album/47HIa7RkALEnFUGwixQcZz) | 2:08 | 2023-01-06 | 2023-05-06 |
 | [Валим боком](https://open.spotify.com/track/2fb35AD9XuQifYI3az0xRT) | [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Валим боком](https://open.spotify.com/album/7k5qrLNjZ9abIVNUes63yg) | 2:19 | 2022-02-04 | 2022-04-05 |

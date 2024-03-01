@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-372 songs - 1 day 2 hr 32 min
+373 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Joyas](https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Joyas](https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN) | 2:52 | 2022-09-15 | 2023-01-07 |
 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 | 2022-09-12 | 2023-04-15 |
 | [Keep Your Mind Free](https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W) | [Damon Locks](https://open.spotify.com/artist/6TlQM2KMbYG7xE7Zy1BMUy), [Black Monument Ensemble](https://open.spotify.com/artist/4UTQycdCDv5HBn2NdhOraF), [Ben LaMar Gay](https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR) | [NOW](https://open.spotify.com/album/42yBiH8auH9zsloOembHL0) | 5:54 | 2021-10-06 | 2023-01-03 |
-| [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 | 2024-01-29 |  |
+| [Ki moun ou ye](https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7) | 5:20 | 2024-01-29 |  |
+| [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 | 2024-01-29 | 2024-03-01 |
 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 | 2022-03-30 | 2022-08-14 |
 | [Knew You Better](https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [When We Knew Less](https://open.spotify.com/album/38XjHKpVkTU4RaTznhqln8) | 3:04 | 2022-08-13 | 2022-09-10 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-30 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Gwendoline",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Simia",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 200320,
       "name": "Adios",
       "url": "https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI"
+    },
+    {
+      "album": {
+        "name": "All eyes",
+        "url": "https://open.spotify.com/album/0r21wMAiDWP95fROuOsBH5"
+      },
+      "artists": [
+        {
+          "name": "Le Peuple de L'Herbe",
+          "url": "https://open.spotify.com/artist/3TQ7yQyNz2JvOXqiO5Tpz2"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181084,
+      "name": "All eyes",
+      "url": "https://open.spotify.com/track/2KxJwTGpHRiUdmAOgHuq4R"
     },
     {
       "album": {
@@ -186,6 +204,24 @@
       "duration_ms": 179826,
       "name": "Au Top",
       "url": "https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO"
+    },
+    {
+      "album": {
+        "name": "babyBB",
+        "url": "https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "babyBB",
+      "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
     },
     {
       "album": {
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 194601,
       "name": "La lune sera bleue",
       "url": "https://open.spotify.com/track/3FDriNpkSIjeNRDUafED2b"
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 163600,
       "name": "Le Pigeon",
       "url": "https://open.spotify.com/track/6dT08hM1qO8dx0HEWytgr6"
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 166500,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/1FNZ9bDeAOBDjgtAwoR2Nr"
@@ -2064,6 +2100,24 @@
       "duration_ms": 180000,
       "name": "The 360 Holes Bird",
       "url": "https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp"
+    },
+    {
+      "album": {
+        "name": "The Mouse Song",
+        "url": "https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "The Mouse Song",
+      "url": "https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx"
     },
     {
       "album": {

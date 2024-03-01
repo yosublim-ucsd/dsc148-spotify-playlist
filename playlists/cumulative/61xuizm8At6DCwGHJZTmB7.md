@@ -4,7 +4,7 @@
 
 > Praise His holy name for He Is Risen! Celebrate Easter 2024 by listening to the top Christian and Worship hits of 2024 including Abandoned, Who Else and Glorious Day! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Benjamin William Hastings</a>
 
-392 songs - 1 day 13 hr 55 min
+393 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Rest on Us](https://open.spotify.com/track/5eb1zSp4vkky4i3nN5xCzt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Move Your Heart](https://open.spotify.com/album/2rOZswj1Kdxl7mQgVeqjNq) | 5:37 | 2022-02-17 | 2022-04-06 |
 | [Resurrection Power \- Live](https://open.spotify.com/track/48lsCZVpfWHA5H5KCM34y4) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Resurrection Power \(Live\)](https://open.spotify.com/album/0lHvcs4Z9YkSLGzq6iPUdp) | 7:03 | 2023-12-01 |  |
 | [Resurrender \- Live](https://open.spotify.com/track/2yYsMsc5Ic7HZoOS3DbGMZ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 7:02 | 2022-02-17 | 2022-06-10 |
+| [Revelation Song](https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Just As I Am \(A Legacy Of Hymns And Worship\)](https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv) | 5:56 | 2024-02-29 |  |
 | [Revive My Soul](https://open.spotify.com/track/24k5KgPxbxUtzf074uwVQ4) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [REVIVE](https://open.spotify.com/album/3XAalHRYY1isgLgkclmdXv) | 5:15 | 2023-12-01 |  |
 | [Rise And Shine \- Live](https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Rise And Shine \(Live\)](https://open.spotify.com/album/2TsFi72UiFcwYAWuDx88Jb) | 9:21 | 2022-05-20 | 2023-04-15 |
 | [Rooftops \- Live](https://open.spotify.com/track/2NFYkgjUiiKgplnB7tgjoe) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Come Away \(Live\)](https://open.spotify.com/album/2L4TJGv4npQYBHpiU7tHMI) | 7:51 | 2022-05-27 | 2023-01-05 |

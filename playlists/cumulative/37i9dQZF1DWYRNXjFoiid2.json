@@ -1239,6 +1239,32 @@
     },
     {
       "album": {
+        "name": "Domino (Sped Up)",
+        "url": "https://open.spotify.com/album/2iEVHzP58I3iWZypuLqHqR"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197664,
+      "name": "Domino - Sped Up",
+      "url": "https://open.spotify.com/track/7I53PteWhM2E41k9sIjdRZ"
+    },
+    {
+      "album": {
         "name": "Don't Like Anybody",
         "url": "https://open.spotify.com/album/3vaIMrgZEsIipXunpjLA4B"
       },
@@ -5018,7 +5044,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 193526,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"

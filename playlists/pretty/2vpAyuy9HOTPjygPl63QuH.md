@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,145 likes - 46 songs - 2 hr 31 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 9,171 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 44 | [GUNZ.OUT](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
 | 45 | [The Afterhours](https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Afterhours](https://open.spotify.com/album/4LG0u43Eqo0FgZpq5SikRE) | 3:11 |
 | 46 | [Dunns](https://open.spotify.com/track/4H2PWJz2GDMpOMRUpkzAXl) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD) | [Dunns EP](https://open.spotify.com/album/1zOFzIsU07Qqr4AvIpZhw7) | 5:55 |
+| 47 | [We Got The Funk \- Streaming Edit](https://open.spotify.com/track/3sbbtMgDOAodpiMVGToymM) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [We Got The Funk](https://open.spotify.com/album/54XTJIg0CHd2K6pifarLjs) | 3:04 |
+| 48 | [Bounce](https://open.spotify.com/track/7a8vLTB8T2BxpSzV65wWh7) | [Mau Bacarreza](https://open.spotify.com/artist/6kX9eGc38GTq3cczPwceD5) | [Bounce](https://open.spotify.com/album/4ozh87seh5nbcxrAyGnuog) | 5:28 |
+| 49 | [Give Me Some](https://open.spotify.com/track/71FtsQCuE8C2Gow0H0drnT) | [Estema](https://open.spotify.com/artist/3USNCZc9nEnR8WGjQg36K6) | [Mi Corazon / Give Me Some](https://open.spotify.com/album/0YLcU0JpWpWwV8aXQ13KEu) | 5:15 |
 
-Snapshot ID: `ODQ2NCw0ZjUyY2RlNmZiNjA2MTAzYmM1NTcxYTRiNjA0ZDNmMzY0M2VmNzk3`
+Snapshot ID: `ODQ2Nyw5MzljYTRjM2ZlNzFhYzRmMzMyOTc3MDkwNWY2MWRjYzA3MzNkNjQ4`

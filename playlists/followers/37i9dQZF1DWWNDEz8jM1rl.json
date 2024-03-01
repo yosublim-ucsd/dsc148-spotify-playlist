@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 121688,
+  "2024-03-01": 121727,
   "date_first_scraped": "2022-09-15",
   "description": "\u00a1Vamos a bailar con Dios!",
   "name": "Baila Con Dios",
@@ -314,6 +314,28 @@
     },
     {
       "album": {
+        "name": "Mi Resurgimiento",
+        "url": "https://open.spotify.com/album/5XKayUtzWsWH4VEciBqhEg"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sierra",
+          "url": "https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Dependo de Ti",
+      "url": "https://open.spotify.com/track/0OTp7O27Oz1hpBAPpAJVTe"
+    },
+    {
+      "album": {
         "name": "Dependo de Ti",
         "url": "https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG"
       },
@@ -571,7 +593,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 242244,
       "name": "Forever Endless Love",
       "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"

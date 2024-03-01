@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Lendakaris Muertos.",
-  "num_followers": 102341,
+  "num_followers": 102372,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzhjODFiNmVjMzQxMDcwMmY5NGY4ZDIzZjYwYWVkNzQyMzUzYWMw",
+  "snapshot_id": "MCwzMjY1MGY2NDlhZGVlYmFjY2FjN2ZkODE1ZjdhYzc1ZjBiZGQ1MmJj",
   "tracks": [
     {
       "added_at": "2024-02-08 23:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Ay De Mi!",
-        "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
+        "name": "Tiempos Oscuros",
+        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
       },
       "artists": [
         {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 198135,
-      "name": "Tus Bragas",
-      "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
+      "duration_ms": 195600,
+      "name": "Piedra Contra Tijera",
+      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Tiempos Oscuros",
-        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
+        "name": "Ay De Mi!",
+        "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
       },
       "artists": [
         {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Piedra Contra Tijera",
-      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+      "duration_ms": 198135,
+      "name": "Tus Bragas",
+      "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
-      },
-      "artists": [
-        {
-          "name": "Los De Marras",
-          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Demasiados Enemigos",
         "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 267038,
       "name": "Adios Reina Mia",
       "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd"
+      },
+      "artists": [
+        {
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Enemigo Publico",
-      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Criatura",
         "url": "https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 206532,
       "name": "Killer",
       "url": "https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Enemigo Publico",
+      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Noche Molona",
-        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 178393,
-      "name": "Noche Molona",
-      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Noche Molona",
+        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Noche Molona",
+      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
       },
       "artists": [
         {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
         }
       ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+      "duration_ms": 227991,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG"
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
       "artists": [
         {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
         }
       ],
-      "duration_ms": 227991,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY"
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2024-02-08 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,701 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,867 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 64 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
 | 65 | [Speak Up \- Slow Motion, Duarte Remix](https://open.spotify.com/track/2zgaqDf1CttaQa7BRPgJpI) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Speak Up \(Slow Motion, Duarte Remix\)](https://open.spotify.com/album/5mS4lf4iTrTdwxiCIgdI3Q) | 4:18 |
 
-Snapshot ID: `MCxkNDM1M2Y5MTRkYmM1Nzk5ZThkZDE5MjlhOThjZTcxY2QyMTJlNWQx`
+Snapshot ID: `MCw1YTQ5ZjU5NTBmMTYxZTM5MDY3MDY2YTZiMjJlMGE1NTZmOWY4NWY3`

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 40104,
+  "num_followers": 40103,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTU1ODdiOGNhZWU3NTBkMmExYTVjNWQ3MTVmYWExMjJiMDBmMjQ0",
+  "snapshot_id": "MCwyOWIwMmZmZGU1NDEzZTRhMmIyOGViYzQ4ZTkzMzk1Y2YzYWJhYWRh",
   "tracks": [
     {
       "added_at": "2024-01-10 17:36:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "EST\u00c1S BUEN\u00cdSIMO",
-        "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "EST\u00c1S BUEN\u00cdSIMO",
-      "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 130470,
       "name": "Configuraciones Onduladas",
       "url": "https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "EST\u00c1S BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "EST\u00c1S BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Desaniversario",
-        "url": "https://open.spotify.com/album/222BIV6PsPK1iliAOnXqdx"
-      },
-      "artists": [
-        {
-          "name": "La China",
-          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
-        }
-      ],
-      "duration_ms": 158307,
-      "name": "Desaniversario",
-      "url": "https://open.spotify.com/track/41XoV9JteU1gs49l71pr4o"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Que poco saben de m\u00ed",
         "url": "https://open.spotify.com/album/1aqUCKeSXnMeAQnrAxq6SM"
       },
@@ -927,30 +911,18 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Revolea",
-        "url": "https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI"
+        "name": "Desaniversario",
+        "url": "https://open.spotify.com/album/222BIV6PsPK1iliAOnXqdx"
       },
       "artists": [
         {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "Ebhoni",
-          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
         }
       ],
-      "duration_ms": 233763,
-      "name": "Revolea",
-      "url": "https://open.spotify.com/track/2I8yKSM7fygPWvu8iWKW9r"
+      "duration_ms": 158307,
+      "name": "Desaniversario",
+      "url": "https://open.spotify.com/track/41XoV9JteU1gs49l71pr4o"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -975,6 +947,34 @@
       "duration_ms": 162843,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Revolea",
+        "url": "https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI"
+      },
+      "artists": [
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Ebhoni",
+          "url": "https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6"
+        }
+      ],
+      "duration_ms": 233763,
+      "name": "Revolea",
+      "url": "https://open.spotify.com/track/2I8yKSM7fygPWvu8iWKW9r"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Nasty Girl (feat. Ingratax)",
         "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 245538,
       "name": "Nasty Girl (feat. Ingratax)",
       "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Esa Musiquita (with Teresa Parodi)",
-      "url": "https://open.spotify.com/track/2Ez9mTUUoXZYpJmr6OFEUu"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "R\u00e1pido y Furioso",
         "url": "https://open.spotify.com/album/5TJxxdS6INtrFWCZY8sKgx"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Esa Musiquita (with Teresa Parodi)",
+      "url": "https://open.spotify.com/track/2Ez9mTUUoXZYpJmr6OFEUu"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "Cardo o Ceniza",
-        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Loter\u00eda",
         "url": "https://open.spotify.com/album/2Du3juhT7PsmLUllpoYlTa"
       },
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "El Final de Las Cosas",
-        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
+        "name": "Cardo o Ceniza",
+        "url": "https://open.spotify.com/album/4XCDcA8rqB76HB8CHOBnEl"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
         }
       ],
-      "duration_ms": 319807,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
+      "duration_ms": 183434,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/1A1LPso3Kd53HngSiSsNOo"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 72087,
+      "name": "NO EST\u00c1 EN EL SISTEMA",
+      "url": "https://open.spotify.com/track/00mNX8ubX0aVFok7B98EpV"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
+        "name": "El Final de Las Cosas",
+        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319807,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/7dHGMhXPRRFysGYVZv9bhM"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
         "name": "Estaciones",
         "url": "https://open.spotify.com/album/3FBhxKF1Q9a5dYT7UCznrH"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 178013,
       "name": "Viento Helado",
       "url": "https://open.spotify.com/track/2bWQKPzPvyxKZLvf69gXEK"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 72087,
-      "name": "NO EST\u00c1 EN EL SISTEMA",
-      "url": "https://open.spotify.com/track/00mNX8ubX0aVFok7B98EpV"
     },
     {
       "added_at": "2024-01-10 17:36:14",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-01-10 17:36:14",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
-    },
-    {
-      "added_at": "2024-01-10 17:36:14",
-      "album": {
         "name": "Hay que venir al Sur",
         "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 228000,
       "name": "Hay que venir al Sur",
       "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
+    },
+    {
+      "added_at": "2024-01-10 17:36:14",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2024-01-10 17:36:14",

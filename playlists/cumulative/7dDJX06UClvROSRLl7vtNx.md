@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-261 songs - 11 hr 29 min
+262 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Summer Is Infinite](https://open.spotify.com/track/3LIlH7TeQa5lMsCScn0WKi) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Summer Is Infinite](https://open.spotify.com/album/1GnZB4TCMFyc5FXojnuNoz) | 2:47 | 2023-09-22 |  |
 | [Summer Love](https://open.spotify.com/track/3cuoNCWAR8qyiMpecD1oK4) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz), [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [Sven Falk](https://open.spotify.com/artist/7sNMOYS4M4zt4ZluXwramz) | [Summer Love](https://open.spotify.com/album/1CjjhANuqR63nt2qLlG9qz) | 3:20 | 2023-09-22 | 2024-02-26 |
 | [Sunbeams](https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Sunbeams](https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY) | 2:27 | 2023-09-22 | 2023-12-30 |
+| [Sunny Days](https://open.spotify.com/track/2d6bwIQykrN8PR6q5TRVlO) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [Sunny Days](https://open.spotify.com/album/04INhjD81Xkvy2Pe5ivdjG) | 2:18 | 2024-02-29 |  |
 | [Sunset](https://open.spotify.com/track/3lq8LmjUXIUILkLkKnA7Hx) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Sunset](https://open.spotify.com/album/4fgIabBKiSNj40HdBfENQn) | 2:26 | 2023-09-22 | 2023-12-31 |
 | [Sunset](https://open.spotify.com/track/5DpNSz643RNngHsWSDllkZ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Sunset](https://open.spotify.com/album/3yK260qrSv3GNsxtHYjsHd) | 2:37 | 2024-01-14 |  |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2023-09-22 |  |

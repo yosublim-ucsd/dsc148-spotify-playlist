@@ -6295,6 +6295,28 @@
     },
     {
       "album": {
+        "name": "YELLOW CHEDDAR",
+        "url": "https://open.spotify.com/album/4ba8By2IRyafRsALbAaSX1"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/0mXCk7zW71BUg2SOo2CTHL"
+    },
+    {
+      "album": {
         "name": "Marmot",
         "url": "https://open.spotify.com/album/4nFJGNzMaehMhLng7f1P4F"
       },
@@ -8008,7 +8030,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 184000,
       "name": "PRADA",
       "url": "https://open.spotify.com/track/64gcGnra2d9fIgtfeIcRiv"
@@ -9146,7 +9168,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 246149,
       "name": "sotugyo",
       "url": "https://open.spotify.com/track/5Qy8wJBlfV8572Dzdj36xu"
@@ -10138,6 +10160,24 @@
       "duration_ms": 248146,
       "name": "Up2u",
       "url": "https://open.spotify.com/track/5hTxxr5qA1JkJmDikqfGIN"
+    },
+    {
+      "album": {
+        "name": "Usual Suspects",
+        "url": "https://open.spotify.com/album/2hcT0iEPdUuk6DbFSihgCJ"
+      },
+      "artists": [
+        {
+          "name": "Loota",
+          "url": "https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Usual Suspects",
+      "url": "https://open.spotify.com/track/312chzrFEnYftYjRnNLG4X"
     },
     {
       "album": {

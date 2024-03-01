@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,652 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,697 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 31 | [Aller Plus Haut](https://open.spotify.com/track/5qcSLeAHIEQTtzGOSjYI9u) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/7DmS2EqSpQNLaDOu0lUhlV) | 5:03 |
 | 32 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
 | 33 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 |
-| 34 | [En apesanteur \- Single Version](https://open.spotify.com/track/51fnKEBEOLUxSoOad4jcA9) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Soirée années 2000](https://open.spotify.com/album/5903eFYEpguXwflIPO8DcX) | 3:22 |
+| 34 | [En apesanteur \- Single Version](https://open.spotify.com/track/07VyIZXNfVS13AbebQDQWy) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Calogero](https://open.spotify.com/album/2azuPARdPpBStQS3JqF2r0) | 3:23 |
 | 35 | [La lettre](https://open.spotify.com/track/3GRSNZGISh570blCys6RZb) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Chansons d'amour](https://open.spotify.com/album/1WXVKrBH07tLN8SfRKQVgN) | 3:17 |
 | 36 | [Je suis un homme](https://open.spotify.com/track/33X8PxVlOvREs4URnDj9Fw) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Totem](https://open.spotify.com/album/2qgCOodXgN7d6Re5fT1Ezz) | 4:09 |
 | 37 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 99 | [Facile](https://open.spotify.com/track/5DPmVIialQzVljzeuBksmM) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [facile x fragile](https://open.spotify.com/album/2mesaoToZmTi98ujXsBZAt) | 4:06 |
 | 100 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
 
-Snapshot ID: `MCxhY2U4YmZmNjQwOTcyYjFmZDBkOGIzZjEzMWI1OWI3NzI4NWRkODU0`
+Snapshot ID: `MCwzNDIxNDU3ZmNhYzVhNTAxZGRkYjYxYjU0OGZhN2JjMjFlOWUzNmI5`

@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 114804,
+  "2024-03-01": 114930,
   "date_first_scraped": "2022-05-01",
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
   "name": "Taco Placero",
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 219980,
       "name": "La Colegiada (Live)",
       "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"

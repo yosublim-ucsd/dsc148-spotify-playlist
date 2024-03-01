@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CUBE
+> Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CHUNG
 
-801 songs - 1 day 17 hr 31 min
+803 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [habits](https://open.spotify.com/track/1LoiFcvXtUyL4UePoFiQkk) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [habits](https://open.spotify.com/album/4SOTM3379r1ryAyeFnYgr1) | 3:02 | 2023-08-23 | 2023-08-31 |
 | [Halfway](https://open.spotify.com/track/5Elhn0sv6jPtyaBxXwHYDM) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Halfway](https://open.spotify.com/album/5mAmP7fI9tN4hokOx94sxc) | 2:29 | 2023-08-23 | 2023-09-07 |
 | [Hands](https://open.spotify.com/track/0Zy0tCZZESUFUxCvKXv95j) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Hands](https://open.spotify.com/album/5OSwvy5caZkRrREeGlG4xX) | 3:08 | 2023-08-16 | 2024-01-11 |
+| [Hanna](https://open.spotify.com/track/0bYmV76zf0g55Fe7oJY2tj) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK), [Chris Vincent](https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ) | [Hanna](https://open.spotify.com/album/2NtzpLJVvO9kTPkmKqyDXo) | 4:06 | 2024-02-28 |  |
 | [Harder To Love](https://open.spotify.com/track/4aVezSe1eAxdn8QAMN44jS) | [Liam Barrack](https://open.spotify.com/artist/6J3nuRRUXPFTFGcWcOJvtG) | [Harder To Love](https://open.spotify.com/album/5mqDXhMQaCgyQ2zRFOTAr1) | 3:25 | 2023-11-22 | 2023-11-30 |
 | [hate myself for loving you](https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [hate myself for loving you](https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5) | 2:56 | 2024-01-24 |  |
 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 | 2023-07-26 | 2023-08-24 |
@@ -377,6 +378,7 @@
 | [Laberintos Mentales](https://open.spotify.com/track/3YUPphWogqLKvoAp1nIHi3) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA) | [Laberintos Mentales](https://open.spotify.com/album/02RiOsiyegbwQg36eHeWfL) | 3:48 | 2024-01-31 | 2024-02-08 |
 | [Laff It Off](https://open.spotify.com/track/6dQqYSF0S10fxEjPSMchhO) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Laff It Off](https://open.spotify.com/album/16NeB6HBLYMvGbgxCQ4gwr) | 4:00 | 2023-11-08 | 2023-11-23 |
 | [LaSenza](https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6) | [Jordel](https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h) | [LaSenza](https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc) | 2:10 | 2023-07-26 | 2023-08-17 |
+| [Last Words](https://open.spotify.com/track/0rFhcT9vhJUJtfQAMCB1Kt) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Last Words](https://open.spotify.com/album/77t6uPKOEDSh3gGeAtYwr9) | 3:27 | 2024-02-28 |  |
 | [Laundromat](https://open.spotify.com/track/1MpiwzFEhTSJWmwRSGmJLm) | [Tianda](https://open.spotify.com/artist/7eGlkTSrit8XlsDZkE2BmP) | [Welcome To Tiandaland](https://open.spotify.com/album/5GLSYFIWr5b0HZFImGE7TE) | 2:29 | 2024-01-10 | 2024-01-25 |
 | [Laws of the Universe](https://open.spotify.com/track/1zqHPErvJWfaobZemTcl4m) | [Twin Rains](https://open.spotify.com/artist/3bmwwqdBxhi6rc9oNi05HI) | [Laws of the Universe](https://open.spotify.com/album/5un7R89vVfNwwEesL7pmM7) | 4:22 | 2023-10-04 | 2023-10-12 |
 | [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-07-26 | 2023-08-28 |

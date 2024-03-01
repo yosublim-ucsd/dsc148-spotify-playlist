@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Lleflight.
 
-207 songs - 10 hr 57 min
+208 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,11 +54,12 @@
 | [Desahogo](https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:01 | 2023-03-30 | 2023-12-09 |
 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 | 2022-01-20 |  |
 | [Dinero](https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Dinero](https://open.spotify.com/album/78pA1wKO2gtUy6oEpil36j) | 2:51 | 2023-08-11 | 2023-12-09 |
-| [Drama](https://open.spotify.com/track/4ornlDArKwc3lubymSdCPt) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Drama](https://open.spotify.com/album/74I5QkFGAkIPBaXFCPwU6H) | 3:41 | 2023-09-08 |  |
+| [Drama](https://open.spotify.com/track/4ornlDArKwc3lubymSdCPt) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Drama](https://open.spotify.com/album/74I5QkFGAkIPBaXFCPwU6H) | 3:41 | 2023-09-08 | 2024-03-01 |
 | [DÍGITOS](https://open.spotify.com/track/0SUjxi6zWnsZtXyyGlABT9) | [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [DÍGITOS](https://open.spotify.com/album/5PYMBq2SnHpPVG6QkYvjHc) | 3:09 | 2022-01-20 | 2022-05-28 |
 | [El Extendo](https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Keylon](https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:54 | 2022-01-20 | 2024-02-03 |
 | [Endorfina](https://open.spotify.com/track/1UUFVfl4t9YFhmyMX5BdXz) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Endorfina](https://open.spotify.com/album/10aNOp2gug1lB3DIBJZSlo) | 2:19 | 2023-03-10 | 2023-08-12 |
 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 | 2022-01-20 |  |
+| [Escarlata \- Remix](https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr) | [eleven1.1](https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Escarlata \(Remix\)](https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0) | 4:43 | 2024-02-29 |  |
 | [EXARTE PA TRA](https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [EXARTE PA TRA](https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7) | 2:12 | 2023-05-05 |  |
 | [Exotica \(feat\. La Zowi\)](https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:24 | 2023-03-30 |  |
 | [Falsa](https://open.spotify.com/track/5kKP7nvRpeU4RHum06szZT) | [Johnnyl](https://open.spotify.com/artist/0W2sV4Cs9I0jughXrlQiUC), [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Falsa](https://open.spotify.com/album/3H8QaMCTIB5XiSEm8fnLje) | 3:15 | 2022-01-20 | 2023-08-12 |

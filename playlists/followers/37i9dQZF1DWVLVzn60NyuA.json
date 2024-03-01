@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 291845,
+  "2024-03-01": 291894,
   "date_first_scraped": "2021-12-21",
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
   "name": "Summer Vibes",
@@ -2321,7 +2321,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 168750,
       "name": "Day 2 Day",
       "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
@@ -4375,6 +4375,24 @@
       "duration_ms": 206315,
       "name": "Kontrol",
       "url": "https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy"
+    },
+    {
+      "album": {
+        "name": "Kontrol",
+        "url": "https://open.spotify.com/album/4o874HRJYyHc8LHgU92C2O"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Kontrol",
+      "url": "https://open.spotify.com/track/5HeHtkXf4LBS05U8Au7q3g"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Alice et Moi
+> The best French indie tracks right now\. Cover : Zélie
 
-468 songs - 1 day 1 hr 38 min
+469 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 | 2022-01-27 | 2022-05-07 |
 | [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-17 | 2022-03-11 |
 | [C'est La Vie](https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:51 | 2023-01-19 | 2023-02-10 |
-| [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 | 2023-02-23 |  |
+| [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 | 2023-02-23 | 2024-03-01 |
 | [C'est OK](https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [C'est OK](https://open.spotify.com/album/5KknyKEbHqlAEfkB64HGHe) | 3:04 | 2023-11-02 | 2023-12-08 |
 | [call it a night](https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [call it a night](https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6) | 2:56 | 2022-12-15 | 2023-01-06 |
 | [Call My Name](https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Call My Name](https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K) | 3:40 | 2022-12-01 | 2023-01-06 |
@@ -122,6 +122,7 @@
 | [En ce moment](https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En ce moment](https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D) | 2:16 | 2022-09-15 | 2023-01-13 |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
 | [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-12 | 2023-02-03 |
+| [en rosalie](https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:39 | 2024-02-29 |  |
 | [Encore](https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Encore](https://open.spotify.com/album/5YIj0XNQpAzJTYlXBXgd2M) | 3:19 | 2024-02-23 |  |
 | [Encore \(with Páula from PPJ\)](https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [PRIMADONNA COLLECTION](https://open.spotify.com/album/79pgJ3q3Q83lsdGrMFn6Y9) | 3:27 | 2023-06-01 | 2023-06-23 |
 | [Enfant star](https://open.spotify.com/track/5q33mH9sEEdZJyK51d66tu) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Club de cœur](https://open.spotify.com/album/2PSSIPFERBItM5RSZ3EZ62) | 2:31 | 2023-01-12 | 2023-06-09 |

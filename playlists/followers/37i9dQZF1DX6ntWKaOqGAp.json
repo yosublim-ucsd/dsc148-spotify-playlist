@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 244380,
+  "2024-03-01": 244484,
   "date_first_scraped": "2023-01-14",
   "description": "The biggest Japanese rock hits right now.  Cover: Teikoku Kissa(\u5e1d\u56fd\u55ab\u8336)\u3000\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
@@ -699,6 +699,24 @@
       "duration_ms": 192066,
       "name": "Alone",
       "url": "https://open.spotify.com/track/72OWeSElexd0PQCsJJsx8c"
+    },
+    {
+      "album": {
+        "name": "Along the long journey",
+        "url": "https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245076,
+      "name": "Along the long journey",
+      "url": "https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0"
     },
     {
       "album": {
@@ -5357,7 +5375,7 @@
     {
       "album": {
         "name": "IAI",
-        "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
+        "url": "https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo"
       },
       "artists": [
         {
@@ -5368,6 +5386,24 @@
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183666,
+      "name": "IAI",
+      "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
+    },
+    {
+      "album": {
+        "name": "IAI",
+        "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-29",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
@@ -6337,6 +6373,24 @@
       "duration_ms": 200193,
       "name": "Last Supper",
       "url": "https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx"
+    },
+    {
+      "album": {
+        "name": "Tenshi datta janaika",
+        "url": "https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Laundry",
+      "url": "https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x"
     },
     {
       "album": {
@@ -13727,7 +13781,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 245076,
       "name": "\u3053\u306e\u9577\u3044\u65c5\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb"
@@ -18345,7 +18399,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 206373,
       "name": "\u30e9\u30f3\u30c9\u30ea\u30fc",
       "url": "https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp"

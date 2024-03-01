@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-425 songs - 1 day 2 hr 17 min
+426 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-05-04 |  |
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2023-03-20 |  |
 | [Blue to Red](https://open.spotify.com/track/4wfkTVPHCmDCQGlsE6PL9T) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Blue to Red](https://open.spotify.com/album/5Cd7BhlVvsUr8dFPkLQ1JC) | 7:22 | 2022-04-22 | 2022-06-23 |
-| [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-03-20 |  |
+| [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-03-20 | 2024-03-01 |
 | [Brixton Blues](https://open.spotify.com/track/5ZVgiWySiGOav9Ztuj5XXW) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [George Crowley](https://open.spotify.com/artist/3e1ksaa0miXosHCRmDUZHj), [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [James Copus](https://open.spotify.com/artist/3QKktO8tdBUJq3qhZ3Iqrg) | [Brixton Blues](https://open.spotify.com/album/27idR1b6pCXimFuCvhxpbo) | 7:08 | 2022-02-17 | 2023-03-21 |
 | [Brother](https://open.spotify.com/track/7JDnCjOAuR6snlt3k6VtbO) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Knopperz](https://open.spotify.com/album/0FBG6lrsiOg3AvfxzK4Lh7) | 3:31 | 2022-02-17 | 2022-09-09 |
 | [Bump](https://open.spotify.com/track/3EkV27fUYxp9zvJ5RjCFXv) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [Plunderphonia](https://open.spotify.com/album/2xemfhIinfRJwA069G7twp) | 6:05 | 2022-06-02 | 2022-08-12 |
@@ -127,6 +127,7 @@
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2023-03-20 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2023-03-20 |  |
 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-20 |  |
+| [Forgetful](https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Forgetful](https://open.spotify.com/album/5TWNQuius9yqF8qamYmojN) | 4:06 | 2024-02-23 |  |
 | [Forgotten In Time](https://open.spotify.com/track/11h4l3EgeolFw8ELwimXKd) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Bluewerks Vol\. 9: Wash Away](https://open.spotify.com/album/447z6KiTpRlrMDrCcK6rlz) | 2:24 | 2023-03-09 | 2023-05-05 |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2022-12-09 | 2023-03-21 |
 | [Fork In The Rhodes](https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:58 | 2022-06-02 | 2022-11-20 |

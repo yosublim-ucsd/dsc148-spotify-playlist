@@ -2,7 +2,7 @@
 
 ### [Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone)
 
-> It's like rock, but softer\. Cover: Billy Joel
+> It's like rock, but softer\. Cover: Fleetwood Mac
 
 435 songs - 1 day 7 hr 37 min
 
@@ -228,7 +228,7 @@
 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 | 2023-03-20 |  |
 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 | 2023-03-20 |  |
 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 | 2021-04-29 | 2022-11-14 |
-| [Love Comes to Everyone \(2004 Remaster\)](https://open.spotify.com/track/5ZYXmLKf2GPYcCHCIYpxg4) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV) | 4:36 | 2023-03-20 |  |
+| [Love Comes to Everyone](https://open.spotify.com/track/5ZYXmLKf2GPYcCHCIYpxg4) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/49ZkNYNNscP7wzn5iFsfKV) | 4:36 | 2023-03-20 |  |
 | [Love Comes To Everyone \- 2004 Remaster](https://open.spotify.com/track/4ocIOYjSD4DzePZsiDWJXD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg) | 4:36 | 2023-03-20 | 2023-11-03 |
 | [Love Hurts](https://open.spotify.com/track/5RLd1yO9uqeVsrIgsxg60G) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [The Very Best Of](https://open.spotify.com/album/1w63pG38ojwbeKxKV0QTNl) | 3:53 | 2021-04-29 | 2022-07-29 |
 | [Love Is Alive](https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Dream Weaver](https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp) | 3:50 | 2023-03-20 |  |

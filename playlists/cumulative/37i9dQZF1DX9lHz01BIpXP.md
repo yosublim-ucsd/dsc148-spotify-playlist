@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0?si=tQN8O9JPSyCXmbNbUMMs\_Q">Umlungu The Rapper</a> & <a href="https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy?si=U\-cG6Z0\_TNu6lsKpLiOXHw">Big Xhosa</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=000QE8w3TOigD6pbhwU2\-A">Ziggy4x</a>
 
-130 songs - 6 hr 49 min
+132 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Is Duidelik](https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [G Tha Rapper](https://open.spotify.com/artist/2cIvQUkcdnw2vbChJjPYmM) | [Is Duidelik](https://open.spotify.com/album/7sLCM6pQ5S1p967HFWVsfx) | 2:38 | 2022-09-22 | 2023-10-30 |
 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 | 2023-11-02 |  |
 | [JMHWB](https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Stuwi W](https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO) | [JMHWB](https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO) | 3:47 | 2023-08-04 |  |
-| [Jou Mase](https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Bailomusiq](https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm) | [Jou Mase](https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8) | 3:04 | 2022-12-01 |  |
+| [Jou Mase](https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Bailomusiq](https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm) | [Jou Mase](https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8) | 3:04 | 2022-12-01 | 2024-03-01 |
 | [Kaapstad is Myne](https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT) | [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Kaapstad is Myne](https://open.spotify.com/album/2CyG7LKG8En8K89wPskp95) | 3:29 | 2022-09-08 | 2023-08-18 |
 | [Kap aan](https://open.spotify.com/track/5n2XtFhmaonY3SMckgyyo5) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [Razer](https://open.spotify.com/artist/2sMjcKVLv7D15UCmacBwTY) | [Kap aan](https://open.spotify.com/album/5zGEQPji4jbD30ZY2vkA5z) | 4:21 | 2023-05-25 | 2023-06-03 |
 | [KAPTEIN \- Drill Cover](https://open.spotify.com/track/6g3hWDArIHJgWZYvcG142K) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [KAPTEIN \(Drill Cover\)](https://open.spotify.com/album/0DY95ayoc3Te7uv1UABA3q) | 1:45 | 2023-05-05 | 2023-06-03 |
@@ -88,9 +88,11 @@
 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 | 2023-07-13 |  |
 | [My Ways](https://open.spotify.com/track/2hGvyLjMCgVSMgBt69gsLB) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv) | [My Ways](https://open.spotify.com/album/4t6o3PZSX9jD3bLSN1N6J3) | 2:47 | 2023-04-20 | 2023-07-07 |
 | [Neus Breek](https://open.spotify.com/track/2JxD0YQCAaGMSTqR1ColGD) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Die Evangelie Van Goeie Tye](https://open.spotify.com/album/1vKQJRx5BOWeiFZ1zXVp13) | 3:21 | 2023-02-23 | 2023-07-28 |
+| [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 | 2024-02-29 |  |
 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 | 2023-10-27 |  |
 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 | 2023-01-27 |  |
 | [nog 'n bietjie](https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [nog 'n bietjie](https://open.spotify.com/album/6ybeUMEKf4MNl6VPuafTRv) | 3:31 | 2023-03-02 | 2024-01-06 |
+| [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 | 2024-02-29 |  |
 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 | 2024-02-15 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 | 2023-09-01 |
 | [Old MacDonald](https://open.spotify.com/track/6qZgQWFWFcT7GyQxZbVKNL) | [Rich Boy Clothing® Presents:](https://open.spotify.com/artist/76e3qSJLGlSyJUBjVMfCGZ), [21 Promo](https://open.spotify.com/artist/1tHFwKhC5RhKjvYn2SfvAw), [Pengii](https://open.spotify.com/artist/6MtwzM6nLQSPdeu9784WyQ) | [Old MacDonald](https://open.spotify.com/album/4tEzTuocvSXOmGHxuw0NND) | 2:24 | 2023-04-20 | 2023-05-06 |
@@ -132,7 +134,7 @@
 | [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 | 2023-11-10 |
 | [Wesbank Bloei](https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Wesbank Bloei](https://open.spotify.com/album/0bo1Peg9WhB0rV0HNRK5Ss) | 3:13 | 2022-09-08 | 2023-02-10 |
 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 | 2023-11-09 |  |
-| [Wie](https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ) | [Young Midi](https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4) | [Wie](https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk) | 1:57 | 2023-02-23 |  |
+| [Wie](https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ) | [Young Midi](https://open.spotify.com/artist/4NQRYP8Shjn1eA4Ic0iTk4) | [Wie](https://open.spotify.com/album/2oVKdhq3UUbHCoh7mCmJhk) | 1:57 | 2023-02-23 | 2024-03-01 |
 | [wies djy](https://open.spotify.com/track/6REk3z1Zf5zgfSqEtmje8e) | [Niello](https://open.spotify.com/artist/5Jpoo4DrC5ALCK4pFjK69t), [arjay](https://open.spotify.com/artist/12yz6aI7XIu1D6T3FxBLlZ) | [wies djy](https://open.spotify.com/album/3bykGAOg691F7FDEDWroxS) | 2:45 | 2023-09-15 | 2024-01-27 |
 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 | 2022-09-08 |  |
 | [Windgat](https://open.spotify.com/track/6bttyQEk8x8i4pzNfqEjtd) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW) | [Windgat](https://open.spotify.com/album/28pC9cAetccJKHDpIjsCnd) | 4:35 | 2022-09-08 | 2022-12-02 |

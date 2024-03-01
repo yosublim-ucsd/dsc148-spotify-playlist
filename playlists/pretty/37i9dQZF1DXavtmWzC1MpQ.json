@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 130355,
+  "num_followers": 130394,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVkZjRmNGJkNGJkOWE0MjJlZmZmMGUxYTViZjNhN2UzZmIzZjdi",
+  "snapshot_id": "MCw2OGFiYzNiYWM3NWQ5ZTM0YmJiOTgxM2E1ODMwMjRkZTZjYzkzZjlm",
   "tracks": [
     {
       "added_at": "2023-06-19 13:01:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Thunderstorms vol II",
-        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Dripping Wet Leaves and Thunder",
-      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Nature Hideout",
         "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Thunderstorms vol II",
+        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Dripping Wet Leaves and Thunder",
+      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Ocean Noises",
-        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
-      },
-      "artists": [
-        {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
-        }
-      ],
-      "duration_ms": 247471,
-      "name": "By The Docks",
-      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Bird Life",
         "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Ocean Noises",
+        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
+      },
+      "artists": [
+        {
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+        }
+      ],
+      "duration_ms": 247471,
+      "name": "By The Docks",
+      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Birds",
-        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
-      },
-      "artists": [
-        {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "Birds in Village Park",
-      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Soothing Birdsong by the River",
         "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 184186,
       "name": "Soothing Birdsong by the River",
       "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Birds in Village Park",
+      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
     },
     {
       "added_at": "2023-06-19 13:01:14",

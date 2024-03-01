@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8f2x5zbH0oM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8f2x5zbH0oM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8f2x5zbH0oM)
 
-### [Oracle](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
+### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
 > La playlist au\-delà des genres\. Photo : Caroline Polachek
 

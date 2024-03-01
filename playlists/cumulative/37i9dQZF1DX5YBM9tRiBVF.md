@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:2FnhKB01CBc0KBjcTDDOod">Ão</a>
 
-602 songs - 1 day 8 hr 59 min
+603 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-07-05 | 2022-10-05 |
 | [Moon](https://open.spotify.com/track/46RoQhhmV1rH3zYN16Vvh4) | [STACE](https://open.spotify.com/artist/77ilYLfao13XeK0y38I6iX), [Kriticos](https://open.spotify.com/artist/2nGPuZfeFOBon0T2Q0R5HX) | [Green Onyx](https://open.spotify.com/album/6coHhGmYKyLUfXPAW4xYCx) | 4:06 | 2022-02-02 | 2022-05-04 |
 | [Moonlight](https://open.spotify.com/track/093KjE0RKo2wfnWqYZvWJo) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Wild At Heart](https://open.spotify.com/album/2Z74FlDExdsnJm1IG7Y2Ia) | 4:09 | 2023-11-07 | 2024-02-07 |
-| [More](https://open.spotify.com/track/5EfBx6DlAHr3SyZEgAZXG4) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 5:07 | 2024-02-06 |  |
+| [More](https://open.spotify.com/track/5EfBx6DlAHr3SyZEgAZXG4) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL) | 5:07 | 2024-02-06 | 2024-03-01 |
+| [More](https://open.spotify.com/track/69XbXl9UYqVNVQf0J7UmQu) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Ao Mar](https://open.spotify.com/album/5DQVjewJkgr91EsvqfPaUo) | 5:07 | 2024-02-06 |  |
 | [More Women](https://open.spotify.com/track/73R5rWJMt6zzgiwLzOYfWR) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:10 | 2023-02-28 | 2023-04-05 |
 | [Mr Fear](https://open.spotify.com/track/2TXvXcEt1KHqKwYbJgvi7D) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Mr Fear](https://open.spotify.com/album/3eOpcWC0RvEbxv8Tz3a8Tr) | 3:18 | 2023-11-07 | 2023-11-30 |
 | [Mulher](https://open.spotify.com/track/1Ye9nwgF29cjDGG9s7TZVg) | [Ão](https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod) | [Outra Mulher](https://open.spotify.com/album/2eAEFQTuF2bExUa7JSUU9t) | 4:49 | 2023-01-03 | 2023-03-01 |

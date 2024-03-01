@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Megan Thee Stallion
 
-1,103 songs - 2 day 4 hr 25 min
+1,104 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Ghetto Cinderella](https://open.spotify.com/track/5WkYdoquKFmWaQengD72RC) | [TEC](https://open.spotify.com/artist/0Y1fWbJgcZk0R2SbZbxo4R) | [Ghetto Cinderella](https://open.spotify.com/album/61MXhNTtr5R474qNT9cA2R) | 2:36 | 2022-12-09 | 2022-12-24 |
 | [Ghetto Gods Freestyle \(with EARTHGANG feat\. 2 Chainz\)](https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:53 | 2022-04-01 | 2022-05-28 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 | 2023-12-16 |
+| [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/track/2EA5h6XD8KB070waaoclje) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gin & Juice \(feat\. BigXthaPlug\)](https://open.spotify.com/album/1fOnjWaTMtIgKfFxNq78e2) | 3:11 | 2024-02-23 |  |
 | [Give Me A Sign](https://open.spotify.com/track/5jghmO5j7lvR10i0WrWZpg) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Give Me A Sign](https://open.spotify.com/album/2zGi3DyjpXt2MGubp54aQ0) | 2:49 | 2022-09-02 | 2022-10-01 |
 | [Gleecin \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/3MK1cTENZGGYtjuwBue1Va) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Quail Lane Baby](https://open.spotify.com/album/3wuXWLb7E0oy61UtBh5FvH) | 2:56 | 2022-10-28 | 2022-11-12 |
 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 | 2023-10-13 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 146453,
+  "2024-03-01": 146939,
   "date_first_scraped": "2022-05-11",
   "description": "The state of shoegaze, featuring over 20 new tracks added by flyingfish. ",
   "name": "Shoegaze Now",
@@ -9447,7 +9447,7 @@
     {
       "album": {
         "name": "ur all starz",
-        "url": "https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl"
+        "url": "https://open.spotify.com/album/6VwBKOJnv52tfaiEaBNkMv"
       },
       "artists": [
         {
@@ -9458,6 +9458,24 @@
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ur all starz",
+      "url": "https://open.spotify.com/track/1M5hKO5jWlSp74pVNLsB5a"
+    },
+    {
+      "album": {
+        "name": "ur all starz",
+        "url": "https://open.spotify.com/album/1Vd7JlXvfPsGn4Zqba3HEl"
+      },
+      "artists": [
+        {
+          "name": "BORNSTAR",
+          "url": "https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-29",
       "duration_ms": 160052,
       "name": "ur all starz",
       "url": "https://open.spotify.com/track/6wJw7aNIAk6e5mkkE88dI3"

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 65361,
+  "num_followers": 65388,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FhZGRiZWZjMjA5MTdjMzczM2E4NTQ5ZjIwMDMyYzAwOWZmY2Yz",
+  "snapshot_id": "MCw3YzE1MDA3OThlNWRiY2Q3Yjg4YzRlY2Q0MmY5YTMwZTZjZjIwNTVj",
   "tracks": [
     {
       "added_at": "2024-01-05 13:33:14",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-01-05 13:33:14",
       "album": {
+        "name": "Com Jesus",
+        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "Com Jesus",
+      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
+    },
+    {
+      "added_at": "2024-01-05 13:33:14",
+      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
-    },
-    {
-      "added_at": "2024-01-05 13:33:14",
-      "album": {
-        "name": "Com Jesus",
-        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "Com Jesus",
-      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
     },
     {
       "added_at": "2024-01-05 13:33:14",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-01-05 13:33:14",
       "album": {
+        "name": "Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Ol\u00edvia Teles",
+          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
+        }
+      ],
+      "duration_ms": 211312,
+      "name": "Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
+    },
+    {
+      "added_at": "2024-01-05 13:33:14",
+      "album": {
         "name": "Arautos do Rei pra Baixinhos e Grand\u00f5es",
         "url": "https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 171758,
       "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
       "url": "https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk"
-    },
-    {
-      "added_at": "2024-01-05 13:33:14",
-      "album": {
-        "name": "Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        },
-        {
-          "name": "Ol\u00edvia Teles",
-          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
-        }
-      ],
-      "duration_ms": 211312,
-      "name": "Verdadeiro Amor",
-      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
     },
     {
       "added_at": "2024-01-05 13:33:14",

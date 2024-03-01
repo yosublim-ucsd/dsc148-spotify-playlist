@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-62 songs - 2 hr 22 min
+63 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [](https://open.spotify.com/track/75XthnFP7DNG48s4gtNIkS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3xK8rPlzF8LDHIIVYsDJUD) | 0:00 | 2023-02-15 | 2023-04-19 |
 | [](https://open.spotify.com/track/7fKywVasHSlshJQpkN2atd) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3UhZwBv1QvSLG1OFQXx930) | 0:00 | 2023-02-15 | 2023-04-19 |
 | [Abhi Toh Party Shuru Hui Hai](https://open.spotify.com/track/0rUN8ascPVT9iiLzC5ocPw) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Khoobsurat](https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO) | 2:59 | 2023-02-15 |  |
+| [Aisa Main Shaitaan \- From "Shaitaan"](https://open.spotify.com/track/6wGaAGXlxv4ENR2PE1T74E) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Aisa Main Shaitaan \(From "Shaitaan"\)](https://open.spotify.com/album/15LYhlJkpFPfawIzewbdJ9) | 2:58 | 2024-02-29 |  |
 | [Asli Action Chaalu \(Theme Song\) \[From "An Action Hero"\]](https://open.spotify.com/track/7wTaexlHXGPcx3ORPLzRvv) | [Parag Chhabra](https://open.spotify.com/artist/6Yf6U4iCrJta8g2dX1Al2v), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [Asli Action Chaalu \(Theme Song\) \[From "An Action Hero"\]](https://open.spotify.com/album/6prkYvbRtR03unSG5w15EP) | 3:05 | 2023-02-15 |  |
 | [Baby Ko Bass Pasand Hai](https://open.spotify.com/track/7fllsOe1cV2pTBzdbkgrX7) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Isheeta](https://open.spotify.com/artist/7BcWKKmwvuroPq4DkC1fxN), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:13 | 2023-02-15 |  |
 | [Back To Then \- From "Blind"](https://open.spotify.com/track/6ZnsDwNHhn1FxX8A6yU3LO) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T), [Ricardo Pereira](https://open.spotify.com/artist/05mCASWISF8a8DF3Mp5JBS), [Shome Makhija](https://open.spotify.com/artist/42LwkF5pLZ8rCy1FzzNVBv) | [Back To Then \(From "Blind"\)](https://open.spotify.com/album/7uR2ySdVvO3FKbWC4WYQFo) | 3:12 | 2023-07-10 |  |

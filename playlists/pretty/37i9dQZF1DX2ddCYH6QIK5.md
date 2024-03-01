@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,324 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,329 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 57 | [sleep](https://open.spotify.com/track/0Zt1rFdighzqNQDgmN4srr) | [ischia](https://open.spotify.com/artist/57JM5OOc58JAe5H2NuUhsX) | [sleep](https://open.spotify.com/album/5vjW0YOkRA7LYsrAEMQkP4) | 2:51 |
 | 58 | [Over And Over Again](https://open.spotify.com/track/1r0KKV2i7fw7pkHNCMaews) | [Jeansboy](https://open.spotify.com/artist/2nYe3KXA5KldRLU6Zak0hw), [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Secret Blue Jeans Society](https://open.spotify.com/album/0dibS5iN58ZLKDCzpx7U0B) | 2:37 |
 | 59 | [Weit weg](https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Weit weg](https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a) | 2:23 |
-| 60 | [Künstliche Intelligenz](https://open.spotify.com/track/31FVHxuw0Q34rcSVYROia6) | [H.i.T.](https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Künstliche Intelligenz](https://open.spotify.com/album/1GhHWoaEBW1qlKuoMEkwzb) | 1:16 |
+| 60 | [Künstliche Intelligenz](https://open.spotify.com/track/31FVHxuw0Q34rcSVYROia6) | [H.i.T.](https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD) | [Künstliche Intelligenz](https://open.spotify.com/album/1GhHWoaEBW1qlKuoMEkwzb) | 1:16 |
 | 61 | [Up & Down](https://open.spotify.com/track/3HGMq458kM7EqMATTj3hHC) | [Yeshi](https://open.spotify.com/artist/4n4EtEvCABdRWbhGtre2v9) | [Up & Down](https://open.spotify.com/album/4tfcu5MC02QiiC6qbdtmdE) | 3:03 |
 | 62 | [Here to Stay](https://open.spotify.com/track/3avf3jb1HVYK5TkZBjytuB) | [Syren Dia](https://open.spotify.com/artist/11Nz7gTMUJjW8IOrsmQUb7) | [Here to Stay](https://open.spotify.com/album/2dmJne3mtY6RfhXe6nSiWS) | 3:06 |
 | 63 | [what did you do](https://open.spotify.com/track/2Ojj6zMXCImcMkLRqeN1QQ) | [being anne](https://open.spotify.com/artist/0IGdniqj6s9L1Hty8RoIIw), [Wilhelm Tell Me](https://open.spotify.com/artist/1dXrVDV7evHGSp1JVjBucF) | [what did you do](https://open.spotify.com/album/3VxhtrfLi9KoHNoPfF7P6V) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 |
 | 80 | [Falling Again](https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Falling Again](https://open.spotify.com/album/3KUTpdKpT4zvjSechCnIPL) | 2:50 |
 
-Snapshot ID: `MCwwNDU1ZGY4NTAzMjVhMDNmMDIzNGQ5ZTE2ZmI1ODAxNWRhOTY4YTZi`
+Snapshot ID: `MCwxNTAyMGRhYjZhOWZmMGIyN2JhMDcwOTFlMmYyZjQxYmUyZGUzYTg1`

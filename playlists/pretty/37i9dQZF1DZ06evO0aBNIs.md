@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,678 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,852 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 |
 | 50 | [Lean on Me \- ArtistsCAN](https://open.spotify.com/track/7ejusxgMqURCcMQa0fdOwl) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ), [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed), [Dan Kanter](https://open.spotify.com/artist/6BifD1GWsFMGLZnfYw0uVE), [Desiire](https://open.spotify.com/artist/3FKDrJjdEpzGNFgwVkzagd), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa), [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [TiKA](https://open.spotify.com/artist/7rBEyjzKmTmWrrhSOhxspU), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x), [Geddy Lee](https://open.spotify.com/artist/1mVhi0LYM9U7DEZNrKyC0l), [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Lean on Me \- ArtistsCAN](https://open.spotify.com/album/7fPGIJOxWbsae3wWYnydNj) | 4:02 |
 
-Snapshot ID: `Mjg0ODU0MjgsMDAwMDAwMDAzNTg5Zjk5ZDQyMzFjZGJiZjRjZThmY2NkMGM5MzIyMA==`
+Snapshot ID: `Mjg0ODY4NjcsMDAwMDAwMDAxYzBhZjE4MTg1YmEyOTg0ODc2YjU1MDk4Njg2ZGFkNQ==`

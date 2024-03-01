@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2479,
+  "num_followers": 2481,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWE4YzU1YjNiMzI3ZTA0NDIwZTFmZjNhYTU3MDZhYTJkMjg0NTZi",
+  "snapshot_id": "MCwyNjE4OTc0ZGM5ZGUyMzlkMTBlMDcwMDQwNTI1OGQyN2Q0YjRkNTA5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -275,6 +275,26 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Nou Sime",
+        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "Kifer to Pale Danse",
+      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 216270,
       "name": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
       "url": "https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Nou Sime",
-        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "Kifer to Pale Danse",
-      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -387,6 +387,30 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        }
+      ],
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -399,22 +423,6 @@
       "duration_ms": 174497,
       "name": "Ambalaba",
       "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Kol Kole",
-        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Eliana",
-      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -439,26 +447,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+        "name": "Kol Kole",
+        "url": "https://open.spotify.com/album/2EATaR0fYEMr5NUVnZUbBN"
       },
       "artists": [
         {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
         }
       ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+      "duration_ms": 302576,
+      "name": "Eliana",
+      "url": "https://open.spotify.com/track/2gFGX4D713Lxdn7X5k7C6V"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -515,38 +515,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sa Pa Zot Traka",
-        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
-      },
-      "artists": [
-        {
-          "name": "Lin",
-          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
-        }
-      ],
-      "duration_ms": 285882,
-      "name": "Sa Pa Zot Traka",
-      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -571,18 +539,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sort' dovan (La compil)",
-        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
+        "name": "Sa Pa Zot Traka",
+        "url": "https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H"
       },
       "artists": [
         {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
+          "name": "Lin",
+          "url": "https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN"
         }
       ],
-      "duration_ms": 285431,
-      "name": "Ma demand aou pardon",
-      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
+      "duration_ms": 285882,
+      "name": "Sa Pa Zot Traka",
+      "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -599,6 +567,38 @@
       "duration_ms": 265413,
       "name": "Fiesta Ravanna",
       "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sort' dovan (La compil)",
+        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
+      },
+      "artists": [
+        {
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
+        }
+      ],
+      "duration_ms": 285431,
+      "name": "Ma demand aou pardon",
+      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",

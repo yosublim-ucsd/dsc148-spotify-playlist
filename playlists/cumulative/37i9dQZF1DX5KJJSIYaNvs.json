@@ -1433,6 +1433,32 @@
     },
     {
       "album": {
+        "name": "Door Na Raeen",
+        "url": "https://open.spotify.com/album/0WxXIoWlkZ40JwQnKYGGos"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        },
+        {
+          "name": "SoumyaM",
+          "url": "https://open.spotify.com/artist/6iAPsYdGyduQXojlIG99GD"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186136,
+      "name": "Door Na Raeen",
+      "url": "https://open.spotify.com/track/5l8joQdINyZHBASZ5yDqTI"
+    },
+    {
+      "album": {
         "name": "Dooriyan",
         "url": "https://open.spotify.com/album/5Z0SfXPqh2ghL6CrdEecRh"
       },
@@ -3010,7 +3036,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 166016,
       "name": "Main Nahi Toh Kaun",
       "url": "https://open.spotify.com/track/6KlRkll3HwlUFV9UxDpXHA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 31 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 31 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 17 | [Ottomans](https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [unJUST](https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u) | [Ottomans](https://open.spotify.com/album/0GSXfRutHvrM76sOwT6R1y) | 2:52 |
 | 18 | [Love for Sale \- Ornithology Remix](https://open.spotify.com/track/0IwASeCcdCtSdbSOSnhW4B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Love for Sale \(Ornithology Remix\)](https://open.spotify.com/album/0Q7mdGkEJD9IO4VGXo1e3s) | 2:21 |
 | 19 | [Nothing](https://open.spotify.com/track/0tNrKgDkrktMm5QKRbvWWv) | [Aristoteles](https://open.spotify.com/artist/6jZRXGOQiOFPCHcvDHvhYy), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT) | [Nothing](https://open.spotify.com/album/5UH47NIEKQbj5oivxQ6pyn) | 2:06 |
-| 20 | [One, Two, & 3](https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [One, Two, & 3](https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn) | 3:26 |
-| 21 | [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 |
+| 20 | [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 |
+| 21 | [One, Two, & 3](https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [One, Two, & 3](https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn) | 3:26 |
 | 22 | [Years Ago](https://open.spotify.com/track/1UDVHg7pt5G5KWJTvlkjJx) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Years Ago](https://open.spotify.com/album/2OzbZJ4FOyUzIv90LRxmzD) | 4:06 |
 | 23 | [Free Game \- Chopped Not Slopped](https://open.spotify.com/track/73jxqs3nAUOVNt580QM0g7) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [I'M REALLY LIKE THAT \(Chopped Not Slopped\)](https://open.spotify.com/album/6ocMH9xg12XvuLiyaIdP9y) | 2:54 |
 | 24 | [Roll Call](https://open.spotify.com/track/0RzetgoIPY1gVQPSRSGeXK) | [Tech N9ne Collabos](https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [JL](https://open.spotify.com/artist/43Ni20kavBjsPjfQnJ78On), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [X\-Raided](https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No) | [Roll Call](https://open.spotify.com/album/0BlAYqNVSmgRtIL1pYPEcb) | 6:05 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 27 | [Off Minor \- Remastered 2013](https://open.spotify.com/track/0j7Sdz3I9lkgEjBoJ31Cti) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Late Night Thelonious Monk](https://open.spotify.com/album/2SUQ2KduYVwgJstPq2nz8s) | 2:59 |
 | 28 | [Trail of Whispering Giants](https://open.spotify.com/track/3xjgL34w9NvQu7qpbMX4Wk) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Trail of Whispering Giants](https://open.spotify.com/album/2CqpbiWGVxDERpA6mNVSqC) | 7:59 |
 | 29 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |
-| 30 | [The Equable](https://open.spotify.com/track/4UxJcns8mhRVaRqfTxmwZA) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Lingua Ignota: Part I](https://open.spotify.com/album/1tQq6Actphb5JBlKC83gKB) | 6:28 |
-| 31 | [Pas possible](https://open.spotify.com/track/7hF9l8mdFuknxwtxwOtLBx) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [HHHistory](https://open.spotify.com/album/3PqWqzEL9q9fWUk5tU4jGI) | 3:10 |
+| 30 | [Pas possible](https://open.spotify.com/track/7hF9l8mdFuknxwtxwOtLBx) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [HHHistory](https://open.spotify.com/album/3PqWqzEL9q9fWUk5tU4jGI) | 3:10 |
+| 31 | [Lingua Ignota](https://open.spotify.com/track/1cZl7hRofiCAzcWVWjHQ3q) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Lingua Ignota: Part I](https://open.spotify.com/album/1tQq6Actphb5JBlKC83gKB) | 7:34 |
 
-Snapshot ID: `Mjg0Nzc3NDAsMDAwMDAwMDBkYTA2YWNlZWRjN2JiYjk0ZTQwNTJhNWZlNjQzMTM5YQ==`
+Snapshot ID: `Mjg0Nzc3NDAsMDAwMDAwMDAzYzBiYjkzYzlhMzgxMjM0NjY4ZjQ0ZDc2NjAyODg3Nw==`

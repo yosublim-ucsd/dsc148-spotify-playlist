@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 73911,
+  "2024-03-01": 73965,
   "date_first_scraped": "2022-04-20",
   "description": "The hottest Anime hits of the 80s. 1980\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/hideyasu_moto/\"> Hideyasu Moto</a>",
   "name": "Anime Rewind '80s",
@@ -619,10 +619,28 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 220800,
       "name": "TRANSFORMAR \uff5e\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc\uff5e",
       "url": "https://open.spotify.com/track/1atzPmoTCzu2kAiazwkEMO"
+    },
+    {
+      "album": {
+        "name": "Nippon Television Anime Song Collection",
+        "url": "https://open.spotify.com/album/6q92YsujqyNkZcG8YiD2dE"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shimonari",
+          "url": "https://open.spotify.com/artist/69CRduhdZhgBVOhNOxzD5u"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "TRANSFORMER",
+      "url": "https://open.spotify.com/track/0ynybWFbrkKDVevzmhaxTp"
     },
     {
       "album": {

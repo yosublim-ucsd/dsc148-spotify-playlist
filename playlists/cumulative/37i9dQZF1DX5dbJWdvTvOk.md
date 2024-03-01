@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-662 songs - 1 day 4 hr 4 min
+664 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Cut Flower Garden](https://open.spotify.com/track/4mODR07RUAtPBH4ACE0r1r) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Cut Flower Garden](https://open.spotify.com/album/6rHPm1x9z81VJHbpqzdQ5A) | 2:49 | 2023-04-21 | 2023-11-03 |
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-26 |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-04-21 |  |
+| [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 | 2023-04-22 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-04-21 |  |
 | [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 | 2023-11-01 |
@@ -153,7 +154,7 @@
 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 | 2023-04-21 |  |
 | [Dedicatoria](https://open.spotify.com/track/4kSgfg7Onjho66CRdBNIEV) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Laurine Phélut](https://open.spotify.com/artist/2oK2RQBv4xshG5I2K1YsXh) | [Dedicatoria](https://open.spotify.com/album/14UWqXiWi3thrZOh1oUEIO) | 2:03 | 2023-04-21 | 2023-05-13 |
 | [Deep End](https://open.spotify.com/track/3NHWhbuTDRO5y5lWjkZOLE) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 2:23 | 2023-04-21 | 2023-06-09 |
-| [Deep Rivers](https://open.spotify.com/track/68DrdlEmRZrV7XSrGxg4Fc) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Deep Rivers](https://open.spotify.com/album/7pEzbIpYdVpDxBUhDkcZQu) | 2:16 | 2023-04-21 |  |
+| [Deep Rivers](https://open.spotify.com/track/68DrdlEmRZrV7XSrGxg4Fc) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Deep Rivers](https://open.spotify.com/album/7pEzbIpYdVpDxBUhDkcZQu) | 2:16 | 2023-04-21 | 2024-03-01 |
 | [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 |  |
 | [Demelza](https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Demelza](https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP) | 3:25 | 2023-03-10 |  |
 | [Depois do adeus](https://open.spotify.com/track/3UW7pLXAXwvGc6cMnnYd0e) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [The Longest Night](https://open.spotify.com/album/4LiHFIquwspZcQoqIfrTgi) | 2:51 | 2022-07-15 | 2023-04-22 |
@@ -383,7 +384,7 @@
 | [Mindwalking](https://open.spotify.com/track/2rCLuWRwCka6nCMOYJintR) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Mindwalking](https://open.spotify.com/album/2faqfHbeTfp4gz1SmMYOTC) | 2:11 | 2023-04-21 |  |
 | [Mineral](https://open.spotify.com/track/0TOLxJTPhAkvqg9GfnjstG) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Mineral](https://open.spotify.com/album/0Yua0C6bonDdLCp0FV4fC4) | 1:27 | 2023-04-21 | 2023-08-26 |
 | [Mistelbach](https://open.spotify.com/track/1OybgjNojqon6OnKdglQqQ) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Mistelbach](https://open.spotify.com/album/17gWtxW48Wan5M9DBCorbz) | 2:30 | 2023-04-21 | 2023-06-03 |
-| [Misteriosa](https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Misteriosa](https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e) | 2:38 | 2023-04-21 |  |
+| [Misteriosa](https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Misteriosa](https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e) | 2:38 | 2023-04-21 | 2024-03-01 |
 | [Misty Mountain](https://open.spotify.com/track/4P3uK33fTyCysCh6S4psZd) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Misty Mountain](https://open.spotify.com/album/13dlAe1Ubv4SvX9ZClmyXb) | 2:17 | 2023-04-21 | 2023-06-03 |
 | [Moi, toi et elle](https://open.spotify.com/track/4SQWZnUxFl825pqhyWrKJd) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Moi, toi et elle](https://open.spotify.com/album/6OSDdIhJhjaudk4cWncSG3) | 2:44 | 2023-04-21 | 2023-06-03 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
@@ -486,6 +487,7 @@
 | [Saas Fee](https://open.spotify.com/track/2q9RdGt69x8gWofFuPTLtD) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Welt Stille](https://open.spotify.com/album/0EDr3KbcnfoWmOsA4mhWaC) | 2:43 | 2022-07-15 | 2022-09-17 |
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-07-15 | 2022-11-18 |
 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2023-04-21 | 2024-02-07 |
+| [Saint Michel](https://open.spotify.com/track/1vx0RMtjAs0ZiLKXTsIxzA) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Saint Michel](https://open.spotify.com/album/5B6U8Kx1LppXVW0FivQdLS) | 2:47 | 2024-02-23 |  |
 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 | 2022-07-15 | 2023-04-22 |
 | [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 | 2023-04-21 | 2023-11-28 |
 | [Salt of the earth](https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl) | [Meg Stiles](https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8) | [Salt of the Earth](https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1) | 3:02 | 2022-07-15 | 2023-04-22 |

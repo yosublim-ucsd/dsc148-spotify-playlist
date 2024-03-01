@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 21298,
+  "num_followers": 21351,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmVkN2YyYjA0ZjhmMjAwYjY1YzI4Yzg1MWRkN2ZlNjBlMTNjM2Rh",
+  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "And Their Refinement of the Decline",
-        "url": "https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 610213,
-      "name": "Don't Bother They're Here",
-      "url": "https://open.spotify.com/track/477naywDON3t1iAF4COlOV"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/7505vXtzFDmbNt4QRKE5by"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 240506,
       "name": "Fragment II",
       "url": "https://open.spotify.com/track/7vv4tJIsMFm3XnDHikiwIc"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "And Their Refinement of the Decline",
+        "url": "https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 610213,
+      "name": "Don't Bother They're Here",
+      "url": "https://open.spotify.com/track/477naywDON3t1iAF4COlOV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Disintegration Loops (Remastered)",
         "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 309560,
-      "name": "Under the Water It Glowed",
-      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 309560,
+      "name": "Under the Water It Glowed",
+      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Yesterday Was Dramatic \u2013 Today Is OK",
         "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "An Imaginary Country",
-        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 286626,
-      "name": "Borderlands",
-      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Sings Reign Rebuilder",
         "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 102239,
       "name": "Jesus / Pop",
       "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "An Imaginary Country",
+        "url": "https://open.spotify.com/album/25dw2V4di8Wibx99F1jE5R"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 286626,
+      "name": "Borderlands",
+      "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "October Language",
-        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
-      },
-      "artists": [
-        {
-          "name": "Belong",
-          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "I'm Too Sleepy...Shall We Swim?",
-      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
-      },
-      "artists": [
-        {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        }
-      ],
-      "duration_ms": 602933,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Lambent Material",
         "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 278173,
       "name": "The Unfinished",
       "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "October Language",
+        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
+      },
+      "artists": [
+        {
+          "name": "Belong",
+          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "I'm Too Sleepy...Shall We Swim?",
+      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1011,6 +995,22 @@
       "duration_ms": 210706,
       "name": "And Then I Turned Away",
       "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "duration_ms": 602933,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "I Am a Man Who Will Fight for Your Honor",
-        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
       },
       "artists": [
         {
-          "name": "Chris Zabriskie",
-          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 424760,
-      "name": "The Sun Is Scheduled to Come Out Tomorrow",
-      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
+      "duration_ms": 330666,
+      "name": "Calm Of The Cast-Light Cloud",
+      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+        "name": "I Am a Man Who Will Fight for Your Honor",
+        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Chris Zabriskie",
+          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
         }
       ],
-      "duration_ms": 330666,
-      "name": "Calm Of The Cast-Light Cloud",
-      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
+      "duration_ms": 424760,
+      "name": "The Sun Is Scheduled to Come Out Tomorrow",
+      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Second Childhood",
-        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "BJ Nilsen",
-          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
-        },
-        {
-          "name": "Stilluppsteypa",
-          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
-        }
-      ],
-      "duration_ms": 371480,
-      "name": "The Direction Was Foggy or Cloudy",
-      "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Variations: A Movement In Chrome Primitive",
         "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 418880,
       "name": "chessa",
       "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Second Childhood",
+        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "BJ Nilsen",
+          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
+        },
+        {
+          "name": "Stilluppsteypa",
+          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
+        }
+      ],
+      "duration_ms": 371480,
+      "name": "The Direction Was Foggy or Cloudy",
+      "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Varde",
-        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
-      },
-      "artists": [
-        {
-          "name": "Elegi",
-          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Arves\u00f8lv",
-      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Streichelfisch (Remastered)",
         "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 351980,
       "name": "Aparaquasynthe (Remastered)",
       "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Varde",
+        "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
+      },
+      "artists": [
+        {
+          "name": "Elegi",
+          "url": "https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Arves\u00f8lv",
+      "url": "https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf"
     },
     {
       "added_at": "2023-08-04 12:53:28",

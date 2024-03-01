@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,969 likes - 80 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,978 likes - 80 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 9 | [Kenya](https://open.spotify.com/track/1xcbr90XR1lt6OXrOP50q6) | [El Porto](https://open.spotify.com/artist/4n6Lv5uPvYNUNvaQuXCXdh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Kenya](https://open.spotify.com/album/1DFe8MGmH1GTtS8aR4SV9z) | 3:08 |
 | 10 | [Imora \- House Remix](https://open.spotify.com/track/7exnaXBd4ATnHvCFhfPJGa) | [Matilda Hilda](https://open.spotify.com/artist/7r4t1GsAQGUME7YEYJ4s2e), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Imora \(House Remix\)](https://open.spotify.com/album/6qb2zkHYqYxfpxjnb0C9fM) | 5:05 |
 | 11 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 |
-| 12 | [Tsunyu \- 40D Remix \- Edit](https://open.spotify.com/track/1rVkrOyVCha9dUx3atfaKb) | [Anthony P.](https://open.spotify.com/artist/69YT6XOB8ZBuLEM3XthJzW), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [LLeiL](https://open.spotify.com/artist/2u6wkzdFPDDryBUHtRSnQO), [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x) | [Tsunyu \(40D Remix\)](https://open.spotify.com/album/0YDdbkTnJHGcQJ554wZoPr) | 3:54 |
+| 12 | [Tsunyu \- 40D Remix \- Edit](https://open.spotify.com/track/1rVkrOyVCha9dUx3atfaKb) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Anthony P\. \(CH\)](https://open.spotify.com/artist/4Wt3mqf25oan0sL0CsC75B), [LLeiL](https://open.spotify.com/artist/2u6wkzdFPDDryBUHtRSnQO), [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x) | [Tsunyu \(40D Remix\)](https://open.spotify.com/album/0YDdbkTnJHGcQJ554wZoPr) | 3:54 |
 | 13 | [Isa \- Radio Edit](https://open.spotify.com/track/7BuHkhO4CemVoUKlep5JeS) | [Iam JDP](https://open.spotify.com/artist/6jQYaYockXtGGCX3o1OXOa), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Isa](https://open.spotify.com/album/1jD1MFLKMXiGmqmn792sq6) | 3:32 |
 | 14 | [Umenitosha](https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [The 4th Republic](https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k) | 5:32 |
 | 15 | [I'll Be There \- Original](https://open.spotify.com/track/2seWEAts59TSfxKHqvPEz5) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [I'll Be There \(Original\)](https://open.spotify.com/album/2ub2bbZ37OG78pZIASi3Y7) | 6:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Kiti \- Original Mix](https://open.spotify.com/track/3tXI0KZSLrAGhhU9CUftTZ) | [Nawfel](https://open.spotify.com/artist/6GOC5kFP9ItbuvthbJIZH5), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kiti](https://open.spotify.com/album/0hAFNjxCsakZQUbT4oCMn6) | 6:26 |
 | 80 | [Weche \- Radio Edit](https://open.spotify.com/track/1Auk0gMNtlgOlw6MiI5u6m) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche \(Radio Edit\)](https://open.spotify.com/album/6L3HIE5eRD73FNzp4JMSdX) | 3:37 |
 
-Snapshot ID: `MCwwM2I1NGViMmE4NzYxYTE2NTdhZDMxYzQ0ZTFkZmI3MTNkYzYxNDQx`
+Snapshot ID: `MCxlZTkwNDk0YmIzNGM4Y2FkMWVlYWE2ZjI1ZjU4NWY1YmVjYWY1YjNi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : DJ Kawest",
+  "description": "Les hits zouk du moment. Photo :  L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -46,6 +46,28 @@
       "duration_ms": 150073,
       "name": "Amor",
       "url": "https://open.spotify.com/track/2VuKKcW0QtVfpuhpQhy0ui"
+    },
+    {
+      "album": {
+        "name": "Amour Consum\u00e9 (version zouk)",
+        "url": "https://open.spotify.com/album/5PcNLMgAd1lK7ACg4oK4xK"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168593,
+      "name": "Amour Consum\u00e9 (version zouk)",
+      "url": "https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh"
     },
     {
       "album": {
@@ -134,7 +156,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 160075,
       "name": "BB Attends",
       "url": "https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd"
@@ -258,7 +280,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 208191,
       "name": "COMPLIQU\u00c9",
       "url": "https://open.spotify.com/track/2GWCVjGJ30y2hXIKIXhsxT"
@@ -284,6 +306,24 @@
       "duration_ms": 209155,
       "name": "CORDIALEMENT",
       "url": "https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER"
+    },
+    {
+      "album": {
+        "name": "Dangereuse",
+        "url": "https://open.spotify.com/album/74gssChBg7pHuz31u2LayX"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178035,
+      "name": "Dangereuse",
+      "url": "https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D"
     },
     {
       "album": {
@@ -447,6 +487,32 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/5GdFNApbLpunZ2FsdkpUO7"
+      },
+      "artists": [
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        },
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        },
+        {
+          "name": "Dro",
+          "url": "https://open.spotify.com/artist/00YhAYuIQwWPYsEO8VSQDm"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229019,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/6VZtYtLfOUO9wh28TgY1Zz"
+    },
+    {
+      "album": {
         "name": "Faut doser",
         "url": "https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6"
       },
@@ -480,7 +546,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 234453,
       "name": "Fem voy\u00e9",
       "url": "https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD"
@@ -710,7 +776,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 194466,
       "name": "Joli coeur",
       "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
@@ -1373,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Plus jamais",
+        "url": "https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT"
+      },
+      "artists": [
+        {
+          "name": "Dieson Samba",
+          "url": "https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Plus jamais",
+      "url": "https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8"
+    },
+    {
+      "album": {
         "name": "Boss",
         "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
       },
@@ -1392,6 +1476,24 @@
       "duration_ms": 215294,
       "name": "Poko",
       "url": "https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF"
+    },
+    {
+      "album": {
+        "name": "POU OU ENTANN'",
+        "url": "https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt"
+      },
+      "artists": [
+        {
+          "name": "Pix'L",
+          "url": "https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "POU OU ENTANN'",
+      "url": "https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8"
     },
     {
       "album": {
@@ -1704,7 +1806,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 189615,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/1WL8DMNBEMOmeNw2VuQYAq"

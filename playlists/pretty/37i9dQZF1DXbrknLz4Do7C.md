@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,478 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,522 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 58 | [Solución](https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Solución](https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd) | 3:39 |
 | 59 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \[En Vivo\]](https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F) | 4:31 |
 | 60 | [Acepta \- Live](https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder \(Live\)](https://open.spotify.com/album/745LEHgUFX9cFvF68KVgBx) | 7:53 |
-| 61 | [Dios Es Bueno](https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Vallenato Se Hizo En El Cielo](https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL) | 3:50 |
+| 61 | [Dios Es Bueno](https://open.spotify.com/track/2aAXt6b25NvIXNaH7kj3pU) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Vallenato Se Hizo En El Cielo](https://open.spotify.com/album/0nL8AcKJG9UOm6ei1hknXA) | 3:50 |
 | 62 | [Confía \- En Vivo](https://open.spotify.com/track/7GIv9QngRgd0oc12Umc3Pc) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/6ITdWQDRJ40si7dDr4tckE) | 4:30 |
 | 63 | [Gracias por la cruz](https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No yo, sino Cristo](https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe) | 5:06 |
 | 64 | [Sí a la Vida](https://open.spotify.com/track/2z6VjaBUXUUSEbF6YJhwLL) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Daliza Cont](https://open.spotify.com/artist/6Yl8liObROzQbjW7orGmdS) | [Maverick](https://open.spotify.com/album/2pksgG7EddFk0Gvl2S3PsH) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 99 | [Love Won't Let Me Go \- Acoustic Version](https://open.spotify.com/track/22uzZQy0RrTC2n7gSKmDRI) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Love Won't Let Me Go \(Acoustic Version\)](https://open.spotify.com/album/2bPEY2qGKlKdQyY8iKLTp6) | 3:22 |
 | 100 | [CALL IT LYFE](https://open.spotify.com/track/0YUduu1mX5ctL1hHMMnaLt) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [CALL IT LYFE](https://open.spotify.com/album/0YbRUY8qjkKGJpqJYIvWh6) | 2:30 |
 
-Snapshot ID: `MCw5YzA2NWZkZWY1ODI1NDA3YTY4MTdmMWNjZjkwYTYwZjM2M2FlOWZh`
+Snapshot ID: `MCwwYjZiNzY5YzkxOTViZjcxNTAzOThiYzlhYjE1MmJiYTQyODYwZGY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,217 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,204 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
 | 100 | [BLACKLIGHT](https://open.spotify.com/track/2MkI9rQR1ZI2N36OgDzCpq) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [BLACKLIGHT](https://open.spotify.com/album/2QnOSMlVbSkEHPfrZLoNuq) | 5:09 |
 
-Snapshot ID: `MCwzYzIxMGY5M2I0YTEyMzg3NGQzMGVlYjU0MjY0MDIzZjU4ZThlMjVh`
+Snapshot ID: `MCxjZjUxNzJkZjU5NTM0N2MzZjVkZjJmN2ZlOGFhZDMyZWNlZTBkZGY4`

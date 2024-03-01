@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Nayunda
+> Dendang Dangdut teratas\. Cover: Fildan.
 
 151 songs - 11 hr 39 min
 

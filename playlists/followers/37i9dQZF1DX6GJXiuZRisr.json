@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 1542088,
+  "2024-03-01": 1542328,
   "date_first_scraped": "2021-12-21",
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
   "name": "Night Rider",
@@ -4401,7 +4401,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 201904,
       "name": "Let You Go - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/2Mi3VViZL1ty4BZJUdhRhH"
@@ -9343,7 +9343,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 315861,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"

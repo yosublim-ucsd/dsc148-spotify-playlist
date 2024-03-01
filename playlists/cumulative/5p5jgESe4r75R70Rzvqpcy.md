@@ -4,7 +4,7 @@
 
 > 
 
-49 songs - 3 hr 36 min
+49 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Freeway of Love](https://open.spotify.com/track/6fJY8FtkQGKgoAF0XSXhP0) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Greatest Hits 1980\-94](https://open.spotify.com/album/5Pj0mof9Nm0Y3vXEb9xh7K) | 5:53 | 2013-06-27 |  |
 | [Heaven](https://open.spotify.com/track/0GIOPJKTSxagq3rq07Ch3U) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0ex8ILH2tYYRfoL4ZnZKwB) | 4:03 | 2013-06-27 |  |
 | [I Feel for You](https://open.spotify.com/track/26vKwxgkbm2jcKyjvmScPK) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rhino Hi\-Five: Chaka Khan](https://open.spotify.com/album/7mA7PWIGtE4IVGJz8YTSHw) | 5:43 | 2013-06-27 |  |
-| [I Want to Know What Love Is \- 2008 Remaster](https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 4:55 | 2013-06-27 |  |
+| [I Want to Know What Love Is \- 2008 Remaster](https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 5:01 | 2013-06-27 |  |
 | [Like a Virgin](https://open.spotify.com/track/1iaIEmZHrjGzWUmJ9BaFr6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:08 | 2013-06-27 |  |
 | [Loverboy](https://open.spotify.com/track/0HlKZzvWf9slQlXoNf6S3B) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Greatest Hits](https://open.spotify.com/album/6O86TIFuVxSpIp0VnO71ZU) | 4:09 | 2013-06-27 |  |
 | [Lovergirl](https://open.spotify.com/track/13xKh7WqwxzEFYhYCJJwHg) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:19 | 2013-06-27 |  |

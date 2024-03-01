@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-120 songs - 7 hr 18 min
+121 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Dejarte de Querer \- Nico Castro Remix](https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 5:47 | 2023-09-08 | 2024-01-21 |
 | [Dejarte Estar \(Pyura Remix\)](https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Dejarte Estar \(Pyura Remix\)](https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD) | 2:55 | 2023-09-08 |  |
 | [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-15 |  |
-| [Delight](https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4) | [Gor2](https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME) | [Delight](https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc) | 5:09 | 2023-09-08 |  |
+| [Delight](https://open.spotify.com/track/2h4yMcOkn6n62XBYhtgQl4) | [Gor2](https://open.spotify.com/artist/0HaKpLgYbvjuZWzAvc39ME) | [Delight](https://open.spotify.com/album/1DNqh53UJJWkRg5Tk9ysWc) | 5:09 | 2023-09-08 | 2024-03-01 |
 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 | 2023-09-08 |  |
 | [Desaparecer](https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desaparecer](https://open.spotify.com/album/0yuO4ugzCbvXyyJLSfLHqh) | 4:20 | 2023-09-08 |  |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-09-08 |  |
@@ -50,6 +50,7 @@
 | [El Magnetismo](https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 5:11 | 2023-09-08 |  |
 | [El Mundo Será Nuestro](https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K) | [GLAS](https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch) | [El Mundo Será Nuestro](https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX) | 4:38 | 2023-09-08 |  |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2023-09-08 |  |
+| [Emocionalmente Tuya](https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Emocionalmente Tuya](https://open.spotify.com/album/5jWQXyer52lgjiOn1AdQni) | 4:10 | 2024-02-29 |  |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-09-08 | 2024-02-26 |
 | [Entender la luz](https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Zucker](https://open.spotify.com/artist/2ARej2X8wUv5o72p5K5p6B) | [Luz](https://open.spotify.com/album/6CJlsg416F8vi0YWIMGE2x) | 3:25 | 2023-09-08 | 2023-10-27 |
 | [Entre las Dos](https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Souvenir](https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC) | 3:25 | 2023-09-08 |  |

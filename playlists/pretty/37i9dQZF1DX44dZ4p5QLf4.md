@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,349 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,387 likes - 69 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 63 | [In Need \- Reworked](https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R), [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [In Need \(Reworked\)](https://open.spotify.com/album/2zE0Kw0j61mVY9aDR7kaqm) | 3:27 |
 | 64 | [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 |
 | 65 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 |
-| 66 | [Ride with You](https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75) | [Ride with You](https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF) | 2:44 |
-| 67 | [Limelight](https://open.spotify.com/track/6yqgNXoUQLYmBNh4OVbtct) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH), [Roy Reemy](https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0) | [Limelight](https://open.spotify.com/album/64drrSMZufxLkZBI84e2fV) | 3:03 |
-| 68 | [Love Island](https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Fantasy](https://open.spotify.com/album/6vse3DrFzUQ9HRv3xYlNVd) | 2:23 |
-| 69 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
-| 70 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
+| 66 | [Limelight](https://open.spotify.com/track/6yqgNXoUQLYmBNh4OVbtct) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH), [Roy Reemy](https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0) | [Limelight](https://open.spotify.com/album/64drrSMZufxLkZBI84e2fV) | 3:03 |
+| 67 | [Love Island](https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Fantasy](https://open.spotify.com/album/6vse3DrFzUQ9HRv3xYlNVd) | 2:23 |
+| 68 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
+| 69 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 |
 
-Snapshot ID: `MCw1ZjQzOTQxZjY3MDU0YjA1NTc2M2QwMTlmNDViNzc5YzM0YTg0MDRk`
+Snapshot ID: `MCxkZTljNjljZjRkOTM5MTIxNzZjOWMzNTU4OWQ4OTYyODUzNTkwY2Qz`

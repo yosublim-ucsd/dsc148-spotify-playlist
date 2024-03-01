@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 175741,
+  "num_followers": 175787,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTUwNDYzNDk5YTY5Y2FlZTIyNDI5NGRhNmEyZTJiOTY0NmIyMDMw",
+  "snapshot_id": "MCxiOTk0YmJlZTkzZjhiNGEwMTg3YTlkZDJjNmI3M2MzODMyZWE5OTlh",
   "tracks": [
     {
       "added_at": "2024-02-23 11:15:00",
@@ -707,6 +707,26 @@
     {
       "added_at": "2024-02-23 11:15:00",
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
+    },
+    {
+      "added_at": "2024-02-23 11:15:00",
+      "album": {
         "name": "Lost Gravity EP",
         "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
       },
@@ -719,22 +739,6 @@
       "duration_ms": 305401,
       "name": "Lost Gravity",
       "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
-    },
-    {
-      "added_at": "2024-02-23 11:15:00",
-      "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2024-02-23 11:15:00",
@@ -755,6 +759,22 @@
     {
       "added_at": "2024-02-23 11:15:00",
       "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2024-02-23 11:15:00",
+      "album": {
         "name": "Another Riff For The Good Times / Daydreaming",
         "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 228843,
       "name": "Another Riff For The Good Times",
       "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
-    },
-    {
-      "added_at": "2024-02-23 11:15:00",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
     },
     {
       "added_at": "2024-02-23 11:15:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-02-23 11:15:00",
       "album": {
+        "name": "Sunlight (Rodriguez Jr. Remix)",
+        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 199897,
+      "name": "Sunlight - Rodriguez Jr. Remix",
+      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
+    },
+    {
+      "added_at": "2024-02-23 11:15:00",
+      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2024-02-23 11:15:00",
-      "album": {
-        "name": "Sunlight (Rodriguez Jr. Remix)",
-        "url": "https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 199897,
-      "name": "Sunlight - Rodriguez Jr. Remix",
-      "url": "https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy"
     },
     {
       "added_at": "2024-02-23 11:15:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 0,
+  "2024-03-01": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 1588888,
       "name": "Anonymus Two - Live",
       "url": "https://open.spotify.com/track/0lBN5pXrgVFPn17jazhHGe"
@@ -6793,6 +6793,24 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272575,
+      "name": "Focus II - Live",
+      "url": "https://open.spotify.com/track/0soussNJZ0JnYzSplDrlsc"
+    },
+    {
+      "album": {
+        "name": "vol huis (Live)",
+        "url": "https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
       "date_removed": "2024-02-26",
       "duration_ms": 209295,
       "name": "Focus III - Live",
@@ -9603,7 +9621,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 239566,
       "name": "If It Measns A Lot To You (feat. Chiodos, L. A. Guns & Music Travel Love )",
       "url": "https://open.spotify.com/track/1UMQgzXfelJrhomlvJo33n"

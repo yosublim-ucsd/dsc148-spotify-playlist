@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Wendy Shay ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Smallgod",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -112,6 +112,24 @@
       "duration_ms": 196955,
       "name": "911",
       "url": "https://open.spotify.com/track/3ID7lddXvHicabgvswiVhT"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2KH3trv13BjHhQIDU0FSBH"
+      },
+      "artists": [
+        {
+          "name": "KWESI IYCON",
+          "url": "https://open.spotify.com/artist/3S1O4oATGeDx7aRMwO4i2G"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179554,
+      "name": "911",
+      "url": "https://open.spotify.com/track/1x5m60fSVOEewLpSqb3P70"
     },
     {
       "album": {
@@ -242,7 +260,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 137946,
       "name": "Adoley",
       "url": "https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 198962,
       "name": "An \"F\"",
       "url": "https://open.spotify.com/track/7BX0NVzdFycBGLMOOpjS2d"
@@ -593,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "album": {
         "name": "Atele",
         "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
       },
@@ -622,7 +658,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 202543,
       "name": "Atide",
       "url": "https://open.spotify.com/track/6scZrxPXUjUM5CdkV4onSp"
@@ -644,6 +680,36 @@
       "duration_ms": 212950,
       "name": "Aviator",
       "url": "https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke"
+    },
+    {
+      "album": {
+        "name": "Bridging The Gap",
+        "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Stunn",
+          "url": "https://open.spotify.com/artist/5zjyg4zTX7rqTPgcZmnbno"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168674,
+      "name": "Away (feat. Stunn)",
+      "url": "https://open.spotify.com/track/7nnCN0SbeioycrS1ThwjKZ"
     },
     {
       "album": {
@@ -1478,6 +1544,24 @@
       "duration_ms": 197522,
       "name": "Danc\u00e9",
       "url": "https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148651,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
     },
     {
       "album": {
@@ -2737,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "J.O.K.",
+        "url": "https://open.spotify.com/album/3Pf1SWY9syKZwWvdr2sW3S"
+      },
+      "artists": [
+        {
+          "name": "Deon Boakye",
+          "url": "https://open.spotify.com/artist/7uJxdfNB1wzMC3UQ1SyBfi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "J.O.K.",
+      "url": "https://open.spotify.com/track/31F9gmsnEaeGwN2kmjwCzg"
+    },
+    {
+      "album": {
         "name": "Jakpa",
         "url": "https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU"
       },
@@ -3068,7 +3170,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
@@ -3090,7 +3192,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 198000,
       "name": "Labadi (feat. King Promise)",
       "url": "https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO"
@@ -3650,7 +3752,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 192413,
       "name": "No Jaga",
       "url": "https://open.spotify.com/track/2jH9UBM8TM14xd15dK8KsI"
@@ -4207,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/7M0TnoDk2uz0AtE5oXaA2Z"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/3oxqlnjK6GQ9zpVgck8HxA"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T"
       },
@@ -4244,6 +4364,24 @@
       "duration_ms": 226666,
       "name": "Oofeets",
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "album": {
+        "name": "Our Day",
+        "url": "https://open.spotify.com/album/6XWLKjabihhtUqkff8Ts9l"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178076,
+      "name": "Our Day",
+      "url": "https://open.spotify.com/track/2mqHJQs6OXsllIjNmffAWn"
     },
     {
       "album": {
@@ -5146,7 +5284,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 158373,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/3bUPd3asMBo6vSCgCcbDjv"

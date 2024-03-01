@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Jessica Mauboy
 
-560 songs - 1 day 6 hr 2 min
+562 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Astral Projection](https://open.spotify.com/track/4Pg6eqgANtv5uZiUYkH9NX) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Astral Projection](https://open.spotify.com/album/1eDcD5cHvzCPcSuB9GdB06) | 3:52 | 2022-04-05 | 2022-05-28 |
 | [Baby Don't Fight It](https://open.spotify.com/track/6KgVaUmyv6CFjb9ZjXVQkV) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Baby Don't Fight It](https://open.spotify.com/album/5sgqCZRIWkjKAvo8qiZvkd) | 3:47 | 2023-10-31 |  |
 | [Baby Mama](https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0) | 3:34 | 2023-05-12 | 2023-11-23 |
-| [Baby Mama](https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/7cDGoweZdUcioBZTTWbAOs) | 3:34 | 2023-11-17 |  |
+| [Baby Mama](https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/7cDGoweZdUcioBZTTWbAOs) | 3:34 | 2023-11-17 | 2024-03-01 |
 | [Back To Your Heart](https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Back To Your Heart](https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc) | 3:15 | 2023-08-15 |  |
 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 | 2023-06-30 |  |
 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 | 2022-05-27 | 2022-09-06 |
@@ -259,6 +259,7 @@
 | [I Was Neon](https://open.spotify.com/track/2EFiEJ0WdC0zR6NYtoTE1t) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC) | 4:02 | 2022-07-31 | 2022-09-06 |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-07-03 | 2022-07-29 |
 | [I Was Neon](https://open.spotify.com/track/790lYlUNxJzwyUkEBkcGb7) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/1AqDTVzqtJDMciqllUWWbm) | 4:02 | 2022-07-03 | 2022-08-29 |
+| [I'd Love To Tell You](https://open.spotify.com/track/3tqsyPmhM3yARbZARFTRKE) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [I'd Love To Tell You](https://open.spotify.com/album/6C4G6hclJ1guDNuD0YghrL) | 2:38 | 2024-02-29 |  |
 | [I'll Be There](https://open.spotify.com/track/1rb3JMv4B08skOrLHhCVuo) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [I'll Be There](https://open.spotify.com/album/2cFaOuix1b5Qh2ySuqy14Y) | 3:11 | 2022-10-02 | 2023-01-01 |
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2023-02-28 | 2023-04-01 |
 | [I'm Upset](https://open.spotify.com/track/54H0lpWzFmkJHgwSTRJQLo) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wear My Wounds Like Armour](https://open.spotify.com/album/23fM3XHDMqq62dPBIurneZ) | 3:31 | 2022-02-03 | 2022-07-04 |
@@ -382,7 +383,7 @@
 | [On the low \(shh!\)](https://open.spotify.com/track/5MPNdkwJqA3RIFpZ14I4fX) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [LIFE IS BETTER NOW](https://open.spotify.com/album/4GluTrpGzdJWo0XcMYt84X) | 2:49 | 2022-10-31 | 2022-11-13 |
 | [On the low \(shh!\)](https://open.spotify.com/track/7ddrivgLLPCJWCYwMdabc8) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [On the low \(shh!\)](https://open.spotify.com/album/6scE3rZSfipes1dh5CpKoJ) | 2:49 | 2022-05-27 | 2022-07-29 |
 | [On the Rocks](https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [On the Rocks](https://open.spotify.com/album/0QlPy2vcgaSJkhvbrY0VAk) | 2:50 | 2023-04-30 | 2023-09-22 |
-| [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 | 2023-09-19 |  |
+| [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 | 2023-09-19 | 2024-03-01 |
 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 | 2023-05-31 | 2024-02-15 |
 | [On Your Mind](https://open.spotify.com/track/4guGo1F4CfF2IbsSFKR8dF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [On Your Mind](https://open.spotify.com/album/5Jv3U8CHmOBL1mTeR94c39) | 3:56 | 2022-04-05 | 2022-05-28 |
 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 | 2024-02-14 |  |
@@ -427,6 +428,7 @@
 | [Safety](https://open.spotify.com/track/2712VhU2lg1zVicy19XYax) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Safety](https://open.spotify.com/album/5rw8OZBGecZW0MJCUAORct) | 3:57 | 2022-02-03 | 2022-05-28 |
 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2022-02-03 | 2022-03-02 |
 | [Say You Want Me](https://open.spotify.com/track/2xR9fWmh2iFbai7Lv7EQpr) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Newer Oxygen](https://open.spotify.com/album/2zVk6KhrdW3jLcUwcACbT3) | 2:58 | 2022-05-27 | 2022-09-06 |
+| [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 | 2024-02-29 |  |
 | [See Through](https://open.spotify.com/track/0ZtMzghkupL55g6ToThFwZ) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [See Through](https://open.spotify.com/album/707D7zGBRDXtVVBwwWY24T) | 3:14 | 2022-10-02 | 2024-01-18 |
 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 | 2022-03-01 | 2022-10-03 |
 | [Sentimental](https://open.spotify.com/track/29ZBpjEMa3oUqkCgqH3qZA) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/0ZJo2SFmj1t8mDhOg2Y7yi) | 3:11 | 2022-02-03 | 2022-04-06 |

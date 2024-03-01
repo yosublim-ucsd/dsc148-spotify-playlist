@@ -2705,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "dozen",
+        "url": "https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw"
+      },
+      "artists": [
+        {
+          "name": "Parelo",
+          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122422,
+      "name": "dozen",
+      "url": "https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG"
+    },
+    {
+      "album": {
         "name": "dr. jyhkel",
         "url": "https://open.spotify.com/album/64SXdegWLZtEFAevppKenc"
       },
@@ -2786,6 +2804,24 @@
       "duration_ms": 122206,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS"
+    },
+    {
+      "album": {
+        "name": "Drow-Z",
+        "url": "https://open.spotify.com/album/3PsQtnHRTwzcXTydoCWX7V"
+      },
+      "artists": [
+        {
+          "name": "Hype Right",
+          "url": "https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165125,
+      "name": "Drow-Z",
+      "url": "https://open.spotify.com/track/1IAGdL9gWU2YZ20dMCmTUT"
     },
     {
       "album": {
@@ -9296,6 +9332,24 @@
       "duration_ms": 136639,
       "name": "Sun-Drenched",
       "url": "https://open.spotify.com/track/7siKUHMu8JmhDvZLInuDMd"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/1mYw4GjZIdZMsguUOHn5tW"
+      },
+      "artists": [
+        {
+          "name": "Mellow Melt",
+          "url": "https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135879,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3fI33pGId8m2csuVaVwIl6"
     },
     {
       "album": {

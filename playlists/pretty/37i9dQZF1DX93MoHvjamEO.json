@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2ZiMjMzNzRiMTE0OWExOTFmNzAyZDNmNjQyNGIyNjk5YjgwM2Zl",
+  "snapshot_id": "MCwwNDQ4YjAxOTM4OGUzZTk4MWYxNjNkMWE5M2M1MjI5ZTQwMThkYTgw",
   "tracks": [
     {
       "added_at": "2023-04-27 04:00:00",
@@ -172,7 +172,7 @@
       "added_at": "2023-04-27 04:00:00",
       "album": {
         "name": "Percocet (Remix)",
-        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
+        "url": "https://open.spotify.com/album/0LYlVklStGn0LfOPh9cTEJ"
       },
       "artists": [
         {
@@ -184,17 +184,17 @@
           "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         },
         {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-        },
-        {
           "name": "Quimico Ultra Mega",
           "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
         }
       ],
-      "duration_ms": 314626,
-      "name": "Percocet - Remix",
-      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+      "duration_ms": 314671,
+      "name": "Percocet (Remix)",
+      "url": "https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF"
     },
     {
       "added_at": "2023-04-27 04:00:00",

@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-5,539 songs - 15 day 8 hr 28 min
+5,540 songs - 15 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2778,7 +2778,8 @@
 | [Let You In](https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Let You In](https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ) | 3:23 | 2022-02-25 | 2022-03-12 |
 | [let you love me](https://open.spotify.com/track/4tEC98upl5nAN9quphe6yt) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [let you love me](https://open.spotify.com/album/1wtfaqooRtlfnn71wsvUjc) | 2:40 | 2024-02-23 |  |
 | [Let Your Light Shine](https://open.spotify.com/track/0OA6kCtDGoCaJnNPOzRDqq) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Let Your Light Shine](https://open.spotify.com/album/34sda18nBBQ2RUNR0R4Pft) | 3:24 | 2022-11-18 | 2023-01-06 |
-| [Let's Chill](https://open.spotify.com/track/7sHQIi7KBCwLVrIXFmeq0Q) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN), [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Let's Chill](https://open.spotify.com/album/5NzlLjVIqaooopawLwryDO) | 1:51 | 2024-02-23 |  |
+| [Let's Chill](https://open.spotify.com/track/5uRHiT8BYO8buRKXtf4dO7) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN), [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Let's Chill](https://open.spotify.com/album/1LxQ1pg6mw5HFx3aN50rz7) | 1:51 | 2024-02-23 |  |
+| [Let's Chill](https://open.spotify.com/track/7sHQIi7KBCwLVrIXFmeq0Q) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN), [Jackie Legere](https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA) | [Let's Chill](https://open.spotify.com/album/5NzlLjVIqaooopawLwryDO) | 1:51 | 2024-02-23 | 2024-03-01 |
 | [Let's Praise Him](https://open.spotify.com/track/1QsjgJVjYbLjlp9vWt0cOn) | [Antwan Jenkins](https://open.spotify.com/artist/5KMqgs62ZpQK4VqRPIzVh8) | [Let's Praise Him](https://open.spotify.com/album/5KOVoX92ZKoPzHnBkmGkOx) | 3:42 | 2023-05-19 | 2023-06-03 |
 | [Letter to My High School Self \(Be Kind\)](https://open.spotify.com/track/54vsTctFHZ2esosPPJmUxq) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Letter to My High School Self \(Be Kind\)](https://open.spotify.com/album/2t7HKbsa50oCeVT9f1S9Kj) | 3:13 | 2023-05-05 | 2023-05-13 |
 | [LETTER TO THE devil](https://open.spotify.com/track/5ErdfGzgERYWbvIQ1w8o6I) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [TO THE SEARCHING, THE LOST AND THE FOUND](https://open.spotify.com/album/7MtHCKUQ46QKt88K5jd6pD) | 2:18 | 2023-10-13 | 2023-10-28 |

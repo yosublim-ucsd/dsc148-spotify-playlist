@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 63741,
+  "2024-03-01": 63736,
   "date_first_scraped": "2023-11-08",
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
   "name": "Wellness",
@@ -51,6 +51,28 @@
       "duration_ms": 413476,
       "name": "20210310",
       "url": "https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH"
+    },
+    {
+      "album": {
+        "name": "3 Nocturnes, Op. 33: III. Nocturne in A-Flat Major",
+        "url": "https://open.spotify.com/album/4SS4QJjNRm7pAxRL6Tplpr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257706,
+      "name": "3 Nocturnes, Op. 33: III. Nocturne in A-Flat Major",
+      "url": "https://open.spotify.com/track/0YRnm2YeWpNB0gLmL1jQJn"
     },
     {
       "album": {
@@ -1697,28 +1719,6 @@
       "duration_ms": 316159,
       "name": "III. In the Old Castle",
       "url": "https://open.spotify.com/track/43Uh8rAv3cMaHqjLEWiTm4"
-    },
-    {
-      "album": {
-        "name": "III. Nocturne in A-Flat Major",
-        "url": "https://open.spotify.com/album/4SS4QJjNRm7pAxRL6Tplpr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
-        }
-      ],
-      "date_added": "2024-02-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257706,
-      "name": "III. Nocturne in A-Flat Major",
-      "url": "https://open.spotify.com/track/0YRnm2YeWpNB0gLmL1jQJn"
     },
     {
       "album": {

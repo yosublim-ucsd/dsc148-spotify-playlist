@@ -1,12 +1,12 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 95369,
+  "num_followers": 95419,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTRkYWVmYWNiNDE5OGE3YjEyZTNmNWY0YzExMGRiMjVkOTQ3NzVl",
+  "snapshot_id": "MCw0ODM2MmY5MTRjYjMzZDBkMmYzNDkzNWYyYmJkOWU1ZmFiNTM2NmIx",
   "tracks": [
     {
       "added_at": "2021-08-17 02:11:46",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog: The Electric Eclectics Of Dick Hyman",
-        "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
-      },
-      "artists": [
-        {
-          "name": "Dick Hyman",
-          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "The Moog And Me",
-      "url": "https://open.spotify.com/track/1JGFQsMhUaZZJiJTvfUqFc"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moon Safari Remixes, Rarities and Radio Sessions",
         "url": "https://open.spotify.com/album/2HypdH9T0bK9YEq7ama4Iq"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 239600,
       "name": "Arabesque No. 1",
       "url": "https://open.spotify.com/track/44E9fWdAOFcxXLctkQZMt7"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog: The Electric Eclectics Of Dick Hyman",
+        "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
+      },
+      "artists": [
+        {
+          "name": "Dick Hyman",
+          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "The Moog And Me",
+      "url": "https://open.spotify.com/track/1JGFQsMhUaZZJiJTvfUqFc"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "Yakety Moog",
-      "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "New Ways: Music from the Documentary I Dream of Wires (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7AjxhKLLUpjMLtniXCsfbL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 360503,
       "name": "King Vincent",
       "url": "https://open.spotify.com/track/7noeGi6e5U2YR01kNSQ1n3"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "Yakety Moog",
+      "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Mind Games",
-        "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
-      },
-      "artists": [
-        {
-          "name": "David Vorhaus",
-          "url": "https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Mainframe Blues",
-      "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Empetus (Deluxe)",
         "url": "https://open.spotify.com/album/5lNtJpNTrgKgCmzBrIAbVr"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 383066,
       "name": "Merge",
       "url": "https://open.spotify.com/track/3vn9J0OLzUQGCR4oziEyXb"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
+      },
+      "artists": [
+        {
+          "name": "David Vorhaus",
+          "url": "https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Mainframe Blues",
+      "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Kpm 1000 Series: Atmospheres",
-        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
-      },
-      "artists": [
-        {
-          "name": "Ron Geesin",
-          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
-        }
-      ],
-      "duration_ms": 134413,
-      "name": "Ambling Antics",
-      "url": "https://open.spotify.com/track/5s16qoTbmN2tCbNbGKVMVw"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moog Power",
         "url": "https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 174786,
       "name": "Moog Power",
       "url": "https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Kpm 1000 Series: Atmospheres",
+        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
+      },
+      "artists": [
+        {
+          "name": "Ron Geesin",
+          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
+        }
+      ],
+      "duration_ms": 134413,
+      "name": "Ambling Antics",
+      "url": "https://open.spotify.com/track/5s16qoTbmN2tCbNbGKVMVw"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Weinberg Method of Nonsynthetic Electronic Rock",
-        "url": "https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y"
+        "name": "P\u00e4iv\u00e4tanssien parhaat",
+        "url": "https://open.spotify.com/album/1ggSHsx9pvL1r92UX25oG4"
       },
       "artists": [
         {
-          "name": "Fred Weinberg",
-          "url": "https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ"
+          "name": "Seidat",
+          "url": "https://open.spotify.com/artist/2WgmqTDVPlhCtTNeRYMU8W"
         }
       ],
-      "duration_ms": 128941,
-      "name": "1958 Revisited",
-      "url": "https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa"
+      "duration_ms": 161200,
+      "name": "Sumu - Popcorn",
+      "url": "https://open.spotify.com/track/3qWV1gmD07HF4GFbfR2Pbf"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "P\u00e4iv\u00e4tanssien parhaat",
-        "url": "https://open.spotify.com/album/1ggSHsx9pvL1r92UX25oG4"
+        "name": "The Weinberg Method of Nonsynthetic Electronic Rock",
+        "url": "https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y"
       },
       "artists": [
         {
-          "name": "Seidat",
-          "url": "https://open.spotify.com/artist/2WgmqTDVPlhCtTNeRYMU8W"
+          "name": "Fred Weinberg",
+          "url": "https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Sumu - Popcorn",
-      "url": "https://open.spotify.com/track/3qWV1gmD07HF4GFbfR2Pbf"
+      "duration_ms": 128941,
+      "name": "1958 Revisited",
+      "url": "https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Baiyon",
-          "url": "https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Mixed Waste 4.2",
-      "url": "https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Retro Synth Pop",
         "url": "https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 171348,
       "name": "Mescalito - Remastered",
       "url": "https://open.spotify.com/track/31yVM1tAu20JonoiZLwvPB"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Baiyon",
+          "url": "https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Mixed Waste 4.2",
+      "url": "https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+        "name": "Retro Synth Pop",
+        "url": "https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT"
       },
       "artists": [
         {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+          "name": "Manuel Landy",
+          "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
         }
       ],
-      "duration_ms": 110426,
-      "name": "Martha White Theme",
-      "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
+      "duration_ms": 238047,
+      "name": "Tropic Topic - Remastered",
+      "url": "https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1787,18 +1787,42 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Retro Synth Pop",
-        "url": "https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT"
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
       "artists": [
         {
-          "name": "Manuel Landy",
-          "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
         }
       ],
-      "duration_ms": 238047,
-      "name": "Tropic Topic - Remastered",
-      "url": "https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo"
+      "duration_ms": 110426,
+      "name": "Martha White Theme",
+      "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo & El Palmas)",
+        "url": "https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "El Palmas",
+          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
+        },
+        {
+          "name": "Grupo Almendra",
+          "url": "https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK"
+        }
+      ],
+      "duration_ms": 268607,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/7FKAtMHMO9zcSOLI9ZJKDu"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1851,42 +1875,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo & El Palmas)",
-        "url": "https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        },
-        {
-          "name": "El Palmas",
-          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
-        },
-        {
-          "name": "Grupo Almendra",
-          "url": "https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK"
+          "name": "Electric Party",
+          "url": "https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy"
         }
       ],
-      "duration_ms": 268607,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/7FKAtMHMO9zcSOLI9ZJKDu"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Song of the Second Moon",
-        "url": "https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv"
-      },
-      "artists": [
-        {
-          "name": "Kid Baltan",
-          "url": "https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs"
-        }
-      ],
-      "duration_ms": 188203,
-      "name": "Song of the Second Moon",
-      "url": "https://open.spotify.com/track/07Y2a4zGLw0w7prWbZl0uJ"
+      "duration_ms": 138178,
+      "name": "Words From The Underground",
+      "url": "https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/4wmeNJgjxZ894daRCjiZG7"
+        "name": "Song of the Second Moon",
+        "url": "https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv"
       },
       "artists": [
         {
-          "name": "Electric Party",
-          "url": "https://open.spotify.com/artist/7EUiSsAIiMGVZoD7zK7Dpy"
+          "name": "Kid Baltan",
+          "url": "https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs"
         }
       ],
-      "duration_ms": 138178,
-      "name": "Words From The Underground",
-      "url": "https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM"
+      "duration_ms": 188203,
+      "name": "Song of the Second Moon",
+      "url": "https://open.spotify.com/track/07Y2a4zGLw0w7prWbZl0uJ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Romantische Technologie",
+        "url": "https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2"
+      },
+      "artists": [
+        {
+          "name": "Paolo Di Cioccio",
+          "url": "https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Db Angels",
+      "url": "https://open.spotify.com/track/1G85a7BogVOS1ql5iKvoBl"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Electronic Music",
         "url": "https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 153600,
       "name": "Sonik Re-Entry",
       "url": "https://open.spotify.com/track/2ozohxykp23xAoXBTs1IV7"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Romantische Technologie",
-        "url": "https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2"
-      },
-      "artists": [
-        {
-          "name": "Paolo Di Cioccio",
-          "url": "https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Db Angels",
-      "url": "https://open.spotify.com/track/1G85a7BogVOS1ql5iKvoBl"
     },
     {
       "added_at": "2021-08-17 02:11:46",

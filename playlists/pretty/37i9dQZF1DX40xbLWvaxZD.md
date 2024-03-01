@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,424 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,448 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 44 | [Today is a diamond \- Full Spec Edition](https://open.spotify.com/track/140e5u8qAM2IzhCyPqHfNG) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 3:31 |
 | 45 | [SAYONARA Silent Night \- Full Spec Edition](https://open.spotify.com/track/12IUwXqHngfkifbdpkLavs) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 5:08 |
 | 46 | [Like A Butterfly \- Red Eyes Edition](https://open.spotify.com/track/7EtKm3ZzKejbkb9YWW3scG) | [赤目\(ファーストサマーウイカ\)](https://open.spotify.com/artist/2e4m0NkcJGhZJY1gflbjSZ) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 4:08 |
-| 47 | [KONNANじゃないっ!](https://open.spotify.com/track/7d9SZZEOhF49sVaGRfPKv0) | [澤村 遥\(釘宮理恵\)](https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3), [澤村 遥](https://open.spotify.com/artist/1xvrW8VjpNWT6VZEkey9N1) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 5:10 |
+| 47 | [KONNANじゃないっ!](https://open.spotify.com/track/7d9SZZEOhF49sVaGRfPKv0) | [澤村 遥\(釘宮理恵\)](https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 5:10 |
 | 48 | [YUME MITA SUGATA E \- Full Spec Edition](https://open.spotify.com/track/3baNjwsVSDv48ZBUaLmb65) | [春日一番（中谷一博）](https://open.spotify.com/artist/7FiNLCEHSsQ6FXtV1Y01bZ) | [LIKE A DRAGON 8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv) | 3:43 |
 | 49 | [AKUMA NO JIGOKUNABE \- Full Spec Edition](https://open.spotify.com/track/038ibKsl5lpjWfP27cMfwv) | [春日 一番<中谷 一博>](https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:28 |
 | 50 | [Ichizu Samurai \- Full Spec Edition](https://open.spotify.com/track/4dK2KA0V95c5BYUwBYq9ZR) | [齋藤一\(黒田崇矢\)](https://open.spotify.com/artist/1b8YQnNKgfu5vQIHTkl6mJ) | [Like a Dragon: Ishin! Complete Karaoke Songs](https://open.spotify.com/album/3AkdomnfHiCVn6DDaFjaa2) | 4:09 |
 
-Snapshot ID: `MCw3N2FiNGNmZDAzNDkxYzg4MDVmZjEzNGQ1Y2E0MWE4NDg0NDkyNmMz`
+Snapshot ID: `MCxlOTY1Y2ZkMTk2YWNiYjUzYjAyYmM4OGYzMDkyNDdjOTAyYWUwZjE0`

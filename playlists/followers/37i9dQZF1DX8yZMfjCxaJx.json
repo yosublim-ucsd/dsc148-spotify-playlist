@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 211676,
+  "2024-03-01": 211803,
   "date_first_scraped": "2024-01-30",
   "description": "Las favoritas de los patrones. La Ventaja en portada.",
   "name": "Corridos Chakalosos",
@@ -937,7 +937,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
@@ -1569,6 +1569,28 @@
       "duration_ms": 256754,
       "name": "Malas Rachas (En Vivo)",
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
+    },
+    {
+      "album": {
+        "name": "Me Dicen El Nini",
+        "url": "https://open.spotify.com/album/1mlysUpLxuUf6wrZOEpFim"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Markitos Toys",
+          "url": "https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215121,
+      "name": "Me Dicen El Nini",
+      "url": "https://open.spotify.com/track/2fZ7RBS83fcOz2qS0sRgOb"
     },
     {
       "album": {

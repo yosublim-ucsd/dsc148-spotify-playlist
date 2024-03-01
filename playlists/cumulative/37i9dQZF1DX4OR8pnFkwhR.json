@@ -7374,7 +7374,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 274896,
       "name": "Lalala Sayonara Eien ni",
       "url": "https://open.spotify.com/track/1VeB86yd4Jmjjc0CYWjE99"
@@ -13016,7 +13016,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 163608,
       "name": "stay tune",
       "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
@@ -17787,6 +17787,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/2ESXxyR5HTcvHKOt04QCHA"
+      },
+      "artists": [
+        {
+          "name": "\u68ee \u5927\u7fd4",
+          "url": "https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232472,
+      "name": "\u30a2\u30a4\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/6CJkRcooiymjh59vFxHtKS"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30d5\u30bf\u30fc\u30aa\u30fc\u30eb",
         "url": "https://open.spotify.com/album/7nSsrf3EM08XVnRjG4R3mw"
       },
@@ -20288,6 +20306,24 @@
       "duration_ms": 214363,
       "name": "\u30de\u30b9\u30bf\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6bDvuOBeRI7JyIkzX8Mxg4"
+    },
+    {
+      "album": {
+        "name": "READ 02",
+        "url": "https://open.spotify.com/album/2cQKHnC3OPaW1r9FI3t11n"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "\u30de\u30cb\u30de\u30cb",
+      "url": "https://open.spotify.com/track/3Cw21i1oJAIsywtqTaFJGC"
     },
     {
       "album": {

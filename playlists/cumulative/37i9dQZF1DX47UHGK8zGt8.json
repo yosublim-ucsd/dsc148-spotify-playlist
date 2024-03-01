@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Amor Todinho",
+        "url": "https://open.spotify.com/album/6twToesubSRehurAORMXrC"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157118,
+      "name": "Amor Todinho",
+      "url": "https://open.spotify.com/track/2N4mZBmWI75yROTcGZwnux"
+    },
+    {
+      "album": {
         "name": "Andarilho",
         "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
       },
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 204007,
       "name": "Outono",
       "url": "https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj"

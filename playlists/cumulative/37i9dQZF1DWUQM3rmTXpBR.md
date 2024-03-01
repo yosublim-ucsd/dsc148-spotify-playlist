@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Mohammed Saeed
 
-183 songs - 11 hr 11 min
+184 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Sahara](https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Sahara](https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp) | 4:18 | 2021-12-23 |  |
 | [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 | 2021-12-23 | 2023-04-24 |
 | [Sauce El Macarona](https://open.spotify.com/track/19qywf58lzuI3ttwDnlQWE) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Sauce El Macarona](https://open.spotify.com/album/0lowrBWlswPVUYCgL9pxad) | 3:26 | 2021-12-23 | 2022-01-07 |
-| [Sawt El Madini](https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Sawt El Madini](https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp) | 3:09 | 2023-08-14 |  |
+| [Sawt El Madini](https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Sawt El Madini](https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp) | 3:09 | 2023-08-14 | 2024-03-01 |
 | [Seebik](https://open.spotify.com/track/5Uq25HvWT8keNea3ohgfRU) | [Zaid Kreshan](https://open.spotify.com/artist/2KdGoV3A2KHybSREzAdY4O), [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Seebik](https://open.spotify.com/album/4UxP0SoY9Yk1gwRJ2e4LO5) | 2:58 | 2023-06-23 | 2023-08-24 |
 | [Setta Sabahan](https://open.spotify.com/track/0zSPZ1QQFL6jvsCSqBiIJz) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:34 | 2021-12-23 | 2022-02-18 |
 | [Shakhsi El Da'em](https://open.spotify.com/track/2dOzN3zYW2rqVAXQC7oQ1d) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Tho3ban](https://open.spotify.com/album/62MsaGCeJAjmyIMT6A4mRl) | 4:56 | 2023-04-23 |  |
@@ -156,6 +156,7 @@
 | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/2cg6S1W6V2cyJU6a7HDSyq) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre فلسطين وين أنا؟](https://open.spotify.com/album/0cXOALLnX8i3DgqdD1gmfQ) | 3:35 | 2023-04-20 | 2023-05-13 |
 | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/3VLNM6OrIB5m8KMZ4EYc3b) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/album/1pwLq0eWnKezSJAvv3Zoht) | 3:35 | 2023-05-02 | 2023-05-30 |
 | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/6ROCxDLVhctKY22gnAFrLH) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre فلسطين وين أنا؟](https://open.spotify.com/album/0EADJlCNxnLYmYHZY1g4zP) | 3:35 | 2023-05-26 | 2023-05-31 |
+| [Ya Khsara](https://open.spotify.com/track/3NHzvUVVmkNQ6hQ9VJMbJq) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Ya Khsara](https://open.spotify.com/album/4PSYyfCAw0opDo9xKlv1tz) | 2:52 | 2024-02-29 |  |
 | [Ya Msafer Wahdak](https://open.spotify.com/track/1zPfv9d1zoorqjH3rVQq04) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Ya Msafer Wahdak](https://open.spotify.com/album/6C9tz8uAtt3WVIIH4P3Gjo) | 2:26 | 2022-01-06 | 2023-04-24 |
 | [Ya Thalam Ya Kabes](https://open.spotify.com/track/4NikczXsuYD29AMrHcx90I) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Manshaa](https://open.spotify.com/album/7IyiJ5H6iF16pXc5cs8RiF) | 3:56 | 2024-02-01 |  |
 | [Ya Weel Weely](https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [تجربة رقم ١ \\ ٢](https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4) | 3:44 | 2023-04-23 |  |

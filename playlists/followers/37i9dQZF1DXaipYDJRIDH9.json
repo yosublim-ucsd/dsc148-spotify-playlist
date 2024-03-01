@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 217515,
+  "2024-03-01": 217540,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -1284,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "album": {
         "name": "Return To Le Berry",
         "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
       },
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 144530,
       "name": "Secrets of the Earth",
       "url": "https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs"

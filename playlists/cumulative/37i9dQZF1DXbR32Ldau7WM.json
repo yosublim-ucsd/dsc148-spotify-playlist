@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "The Parades (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0DHG7ng7n1ozU9xbOVZSqE"
+      },
+      "artists": [
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288586,
+      "name": "Gesture of the Waves",
+      "url": "https://open.spotify.com/track/38X2tnfDn8eq2CpbJDGbVi"
+    },
+    {
+      "album": {
         "name": "GET BACK",
         "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
       },
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 272709,
       "name": "I MISS YOU",
       "url": "https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1"
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 297692,
       "name": "KANASHIBARI",
       "url": "https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO"
@@ -17904,7 +17922,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 176173,
       "name": "\u9244\u98a8 \u92ed\u304f\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/1wVMKOP4Gv0hqUE3HgP2ZG"

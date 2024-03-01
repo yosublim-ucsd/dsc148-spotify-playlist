@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 25411,
+  "2024-03-01": 25477,
   "date_first_scraped": "2023-04-07",
   "description": "Knees go down and the prayers go up",
   "name": "On Bended Knees",
@@ -337,6 +337,24 @@
       "duration_ms": 131640,
       "name": "Eyes of The Spirit Chant (Prayer Chant)",
       "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
+    },
+    {
+      "album": {
+        "name": "EYES ON JESUS",
+        "url": "https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726360,
+      "name": "EYES ON JESUS",
+      "url": "https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu"
     },
     {
       "album": {
@@ -829,7 +847,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 281093,
       "name": "Mma Mma",
       "url": "https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW"

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Nathalie Joachim on cover\. Artwork by Thami Nabil
 
-1,609 songs - 5 day 9 hr 0 min
+1,610 songs - 5 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,8 @@
 | [KAGIROI II](https://open.spotify.com/track/2UG7cRqTNKWFs5oP36KMaS) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H), [Lieven Martens](https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC) | [KAGIROI](https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq) | 14:06 | 2021-04-10 | 2021-06-18 |
 | [KAPITAŁKA 8 \(ODCHODZISZ OD NAS\)](https://open.spotify.com/track/1UUewV1iQZRFfoHjSBPgTb) | [Lemta Toro](https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf) | [KAPITAŁKA](https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP) | 7:35 | 2024-01-10 |  |
 | [Keabadian](https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2) | [Gardika Gigih](https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK) | [Nebula](https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX) | 3:01 | 2023-04-12 |  |
-| [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 | 2024-01-24 |  |
+| [Ki moun ou ye](https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7) | 5:20 | 2024-01-24 |  |
+| [Ki moun ou ye](https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy) | [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i) | [Ki moun ou ye](https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE) | 5:20 | 2024-01-24 | 2024-03-01 |
 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 | 2022-03-30 | 2022-06-08 |
 | [Killing It](https://open.spotify.com/track/4hQqvBV899zZK5iibYI8ZZ) | [Kassie Krut](https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X) | [Killing It](https://open.spotify.com/album/3OIDt5EGJ0cyrvAOfmjX22) | 3:20 | 2022-07-27 | 2022-09-09 |
 | [Kiss Your Skin](https://open.spotify.com/track/5npEN3pLaFJefCaZ1X15Ct) | [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Vision Leaks](https://open.spotify.com/album/4q8D03iDVIB8xGpse4HiFj) | 5:30 | 2024-01-10 |  |

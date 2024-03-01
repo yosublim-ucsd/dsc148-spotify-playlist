@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-170 songs - 9 hr 32 min
+171 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Frosty The Snowman](https://open.spotify.com/track/5RLrpUxEjyjkBPsWR2QysQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Holiday 2020](https://open.spotify.com/album/23UAHj0aCS6hTsEcV2hDaW) | 2:11 | 2022-10-23 | 2022-11-13 |
 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 | 2021-12-20 | 2022-12-06 |
 | [Frosty The Snowman](https://open.spotify.com/track/76nIlhb7sx9W9ceQKVKreg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:11 | 2021-12-20 | 2022-07-29 |
-| [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-12-08 |  |
+| [Give Love This Year](https://open.spotify.com/track/3h7LxHg3iDpwxOhqgDgZTd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Perfect Holiday](https://open.spotify.com/album/4ud1Hq1ipI8D2xBcuS9Ipj) | 3:06 | 2023-12-08 |  |
+| [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-12-08 | 2024-03-01 |
 | [Glow](https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 3:29 | 2021-12-20 | 2022-12-06 |
 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2022-12-05 |  |
 | [Grown\-Up Christmas List](https://open.spotify.com/track/24lCPIiEWKg9K7k1Gh1h8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 5:02 | 2023-11-29 |  |

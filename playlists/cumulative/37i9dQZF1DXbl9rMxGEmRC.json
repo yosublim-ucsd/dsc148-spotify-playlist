@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "Arsenal of War",
       "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Call Of The Wind",
+        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
+      },
+      "artists": [
+        {
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330226,
+      "name": "Call of the Wind",
+      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
+    },
+    {
+      "album": {
         "name": "Caravan of Broken Ghosts",
         "url": "https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG"
       },
@@ -1418,6 +1436,24 @@
       "duration_ms": 113870,
       "name": "Casket",
       "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
+    },
+    {
+      "album": {
+        "name": "Caught in the Treads",
+        "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215169,
+      "name": "Caught in the Treads",
+      "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
     },
     {
       "album": {
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 382000,
       "name": "Hrodgaud",
       "url": "https://open.spotify.com/track/5HbcmiWrUkM8K6RHiboDC7"
@@ -4938,6 +4974,28 @@
       "duration_ms": 281901,
       "name": "Infinite Sequential Visions of a Sphere of Hate",
       "url": "https://open.spotify.com/track/4tLtrLgROIRKkMkQdeYZ4h"
+    },
+    {
+      "album": {
+        "name": "Quietus",
+        "url": "https://open.spotify.com/album/3uo6dbceCpyiUhbvrUtsoa"
+      },
+      "artists": [
+        {
+          "name": "And Hell Followed With",
+          "url": "https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm"
+        },
+        {
+          "name": "Kyle Anderson",
+          "url": "https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281901,
+      "name": "Infinite Sequential Visions of a Sphere of Hate",
+      "url": "https://open.spotify.com/track/6AQ0NrYtkob5cubvjS6nzZ"
     },
     {
       "album": {
@@ -5540,6 +5598,24 @@
       "duration_ms": 209250,
       "name": "Licht",
       "url": "https://open.spotify.com/track/4ahueYbdIvChYPcSOk0uSr"
+    },
+    {
+      "album": {
+        "name": "Like Father, Like Son",
+        "url": "https://open.spotify.com/album/1um5CPg2zB0RxCBXFYZmLY"
+      },
+      "artists": [
+        {
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275453,
+      "name": "Like Father, Like Son",
+      "url": "https://open.spotify.com/track/121EREaiCm9ZNz70IvD7RC"
     },
     {
       "album": {
@@ -6329,6 +6405,32 @@
     },
     {
       "album": {
+        "name": "Quad Brutal",
+        "url": "https://open.spotify.com/album/1BDkunzwjb2C5fWWjXgenM"
+      },
+      "artists": [
+        {
+          "name": "Austrian Death Machine",
+          "url": "https://open.spotify.com/artist/0oxUux1OSwZpIpSK0JbqSS"
+        },
+        {
+          "name": "Craig Golias",
+          "url": "https://open.spotify.com/artist/1phweDlzfACpfdwXWZDkKj"
+        },
+        {
+          "name": "Angel Vivaldi",
+          "url": "https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "No Pain No Gain (feat. Craig Golias, Angel Vivaldi)",
+      "url": "https://open.spotify.com/track/1fiselEMUkmtFY1Ie3TneX"
+    },
+    {
+      "album": {
         "name": "There's Always Blood At The End Of The Road",
         "url": "https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4"
       },
@@ -6910,7 +7012,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 220430,
       "name": "Paradise Failed (feat. Shadows Fall)",
       "url": "https://open.spotify.com/track/2IoFXiUOo0OQGLRknL7XJc"
@@ -7570,7 +7672,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 248610,
       "name": "Rivus altus",
       "url": "https://open.spotify.com/track/7JRnBf4WQqwLKjLupK7wdM"
@@ -7696,7 +7798,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 644506,
       "name": "Sanctum - Nightsphere Part I",
       "url": "https://open.spotify.com/track/71Lnwin9IA0jnERgOHZeW3"
@@ -8513,6 +8615,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/5nK2siMASeGKxTsX9GqY3v"
+      },
+      "artists": [
+        {
+          "name": "Borknagar",
+          "url": "https://open.spotify.com/artist/0vxxsjcDy61x5zvrOqwHIL"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478546,
+      "name": "Summits",
+      "url": "https://open.spotify.com/track/2FTD7GTnQjvpeReCYB8sMP"
+    },
+    {
+      "album": {
         "name": "Summits",
         "url": "https://open.spotify.com/album/4TLxN1v9D46yxhS0LexG8J"
       },
@@ -8524,7 +8644,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 478546,
       "name": "Summits",
       "url": "https://open.spotify.com/track/2PLTVV7Kn0H8vJfW1O3AaP"
@@ -8936,7 +9056,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 310726,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/5u8PvMBODtQAaj8liNzHGE"
@@ -9314,7 +9434,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 263733,
       "name": "The Other Side of Anger",
       "url": "https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw"
@@ -9512,7 +9632,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 431360,
       "name": "The Thousand Tombs Of Western Promise",
       "url": "https://open.spotify.com/track/0cDdSTV0D2Ps4mGe9CYCtx"
@@ -9674,7 +9794,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 339350,
       "name": "To Wilt Beneath The Weight",
       "url": "https://open.spotify.com/track/1EBWErIk3ZhR2sdPjsHJG7"
@@ -9782,7 +9902,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 217053,
       "name": "TWICE BORN",
       "url": "https://open.spotify.com/track/4MCq8x9jHxbwhwPq0OwRMS"
@@ -10622,7 +10742,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 395508,
       "name": "Woe",
       "url": "https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2"

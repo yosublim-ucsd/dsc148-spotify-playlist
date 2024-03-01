@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Xande de Pilares, LUDMILLA, Oruam com MC Ryan SP e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,914,608 likes - 72 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,881 likes - 72 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 71 | [Vira\-lata Caramelo](https://open.spotify.com/track/6TMVpf8MoJgWnRNacsXOaP) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vira\-lata Caramelo](https://open.spotify.com/album/6XiZjm58a8pcj3oSqCQr4Z) | 3:32 |
 | 72 | [Mistério Solar](https://open.spotify.com/track/2285beJSt5Jh4XYssg4jDr) | [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Mistério Solar](https://open.spotify.com/album/1cKgSLrlNvt4Tqt1sjE4Kz) | 2:38 |
 
-Snapshot ID: `MCw5NWZlN2M0MmEzNzViNjJhY2M0ZmYwZGJlOTg0MTIwOTVmMGQyOTU1`
+Snapshot ID: `MCxkOTRlNGJhNTNlZjIyNDA0M2E2ZTY0MDFhNDI5ODgyNDA5NjRlMTFl`

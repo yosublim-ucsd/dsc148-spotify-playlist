@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,124 likes - 79 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,167 likes - 79 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 78 | [Rückert Lieder \(Arr\. for Voice & String Quartet by Anonymous\): No\. 3, Blicke mir nicht in die Lieder \- Live](https://open.spotify.com/track/6pwcERDnwI9zOdmztu1FxU) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Virpi Räisänen](https://open.spotify.com/artist/47y4a67vZGSJJcThbtMb2H), [Quatuor Danel](https://open.spotify.com/artist/04rlBDooBFFWAEs1v4XD5b) | [Blicke mir nicht in die Lieder: Recital \(Live\)](https://open.spotify.com/album/7n39f1yiwvPa3QwgHieW00) | 1:24 |
 | 79 | [David et Jonathas, H\. 490, Prologue: Ouverture](https://open.spotify.com/track/62pRVAhfKqI2zT83K4agw4) | [Marc\-Antoine Charpentier](https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s), [Les Temps Présents](https://open.spotify.com/artist/3cZKlvvIpN82UzyYnOuO61), [Dominique Serve](https://open.spotify.com/artist/0wgzetd7FdCFbX7nP1J4sc) | [Charpentier: David et Jonathas, H\. 490: Ouverture](https://open.spotify.com/album/27juIQqZ9pq2YhIcc9ygey) | 3:52 |
 
-Snapshot ID: `MCw5NGU0ZDFiMzVhNDg3ZTgzNjNmZTg3MzU0N2UzZmNiYzQxOTczOTJh`
+Snapshot ID: `MCw0MGYzZWFjYzkzODgzNzA0MDkxOWNkODc0NzhlNWRjYTJmOGU2YTRk`

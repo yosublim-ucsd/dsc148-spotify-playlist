@@ -1,13 +1,33 @@
 {
-  "description": "Discover the <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels in Canada, updated every Wednesday. Cover: CUBE",
-  "num_followers": 7855,
+  "description": "Discover the <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels in Canada, updated every Wednesday. Cover: CHUNG",
+  "num_followers": 7892,
   "original_name": "Fresh Finds Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzdlODIzMTBjN2RkODUxY2U4NzQxOTE1ZTY1ZWFjNzgxZjkzYTc3",
+  "snapshot_id": "MCxmMGQ0YWE3ZWViZDNlOGYzMjRkMjAwODIwNGNjZDBlOGMzOGQzNGMw",
   "tracks": [
+    {
+      "added_at": "2024-02-28 17:08:02",
+      "album": {
+        "name": "Babe Ruth",
+        "url": "https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        }
+      ],
+      "duration_ms": 109879,
+      "name": "Babe Ruth",
+      "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
+    },
     {
       "added_at": "2024-02-28 17:08:02",
       "album": {
@@ -75,22 +95,22 @@
     {
       "added_at": "2024-02-28 17:08:02",
       "album": {
-        "name": "Babe Ruth",
-        "url": "https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge"
+        "name": "Last Words",
+        "url": "https://open.spotify.com/album/77t6uPKOEDSh3gGeAtYwr9"
       },
       "artists": [
         {
-          "name": "CHUNG",
-          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+          "name": "Gracie Ella",
+          "url": "https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj"
         },
         {
-          "name": "perutheproducer",
-          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+          "name": "polun",
+          "url": "https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq"
         }
       ],
-      "duration_ms": 109879,
-      "name": "Babe Ruth",
-      "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
+      "duration_ms": 207284,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/0rFhcT9vhJUJtfQAMCB1Kt"
     },
     {
       "added_at": "2024-02-28 17:08:02",
@@ -551,6 +571,26 @@
       "duration_ms": 198890,
       "name": "contrast",
       "url": "https://open.spotify.com/track/2wkZuY8kwPU47wJmuvDSOy"
+    },
+    {
+      "added_at": "2024-02-28 17:08:02",
+      "album": {
+        "name": "Hanna",
+        "url": "https://open.spotify.com/album/2NtzpLJVvO9kTPkmKqyDXo"
+      },
+      "artists": [
+        {
+          "name": "Oscar Louis",
+          "url": "https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK"
+        },
+        {
+          "name": "Chris Vincent",
+          "url": "https://open.spotify.com/artist/2TP5gePc0SBG8sOpRp8ymQ"
+        }
+      ],
+      "duration_ms": 246270,
+      "name": "Hanna",
+      "url": "https://open.spotify.com/track/0bYmV76zf0g55Fe7oJY2tj"
     },
     {
       "added_at": "2024-02-28 17:08:02",

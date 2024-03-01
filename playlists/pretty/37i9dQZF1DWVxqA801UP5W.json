@@ -1,12 +1,12 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: Tate McRae",
-  "num_followers": 455098,
+  "num_followers": 455121,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmU1MTUzMWM5OWEzMDU5MGU3ZTYxMGE0ZWY0YjRkYmQ3ZDE5N2Nk",
+  "snapshot_id": "MCxiYmFlMWY2YWIyNTA5YzgzMWZjMDFhMTg0MzBmOGFjOWM5ZDYyMDI3",
   "tracks": [
     {
       "added_at": "2024-02-22 19:17:03",
@@ -115,6 +115,30 @@
       "duration_ms": 185217,
       "name": "Prada (feat. D-Block Europe & Ronnie Pacitti) - Ronnie Pacitti Remix",
       "url": "https://open.spotify.com/track/3MxwMM6A3Itnuokz1sNxRo"
+    },
+    {
+      "added_at": "2024-02-22 19:17:03",
+      "album": {
+        "name": "Heart Still Beating (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/4kyXCVgRPN3K3RC6lQdfWM"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Heart Still Beating - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/2C0Upltkg2wT3HnkxT5XEB"
     },
     {
       "added_at": "2024-02-22 19:17:03",

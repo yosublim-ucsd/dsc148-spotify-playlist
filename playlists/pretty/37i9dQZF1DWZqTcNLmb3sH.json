@@ -1,13 +1,69 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57128,
+  "num_followers": 57134,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmIwMGY4MWVlM2RlZDRkYTJmZWFlNzI4MDFkNzAyMTkzYjRjZTI5",
+  "snapshot_id": "MCw3ZTdmYjViOTVlZDEwYjA2ZDg4MWM5MDQ4OGUxZTIwMDk2OGI2OGVi",
   "tracks": [
+    {
+      "added_at": "2024-02-29 19:42:43",
+      "album": {
+        "name": "Paravasha (from \"Grey Games\")",
+        "url": "https://open.spotify.com/album/6KWlSdjzSuVb9krzNb76RG"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Atrangi Funkaar",
+          "url": "https://open.spotify.com/artist/1uvi7MKXfrVYQITj0VTIdf"
+        }
+      ],
+      "duration_ms": 254236,
+      "name": "Paravasha (from \"Grey Games\")",
+      "url": "https://open.spotify.com/track/73xfwYEsymSfVofTD6OKfs"
+    },
+    {
+      "added_at": "2024-02-29 19:45:55",
+      "album": {
+        "name": "Ee Parichayam",
+        "url": "https://open.spotify.com/album/4BEJzmCEMiuazcDu2TFiSK"
+      },
+      "artists": [
+        {
+          "name": "Praneeth Muzic",
+          "url": "https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Pavani Vasa",
+          "url": "https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        },
+        {
+          "name": "Prem",
+          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
+        },
+        {
+          "name": "Lakshmi Durga",
+          "url": "https://open.spotify.com/artist/4LUU58BaoLm4snXuQDE1g1"
+        }
+      ],
+      "duration_ms": 220195,
+      "name": "Ee Parichayam",
+      "url": "https://open.spotify.com/track/4kiMKHxNaw8oiH1vJSFXZT"
+    },
     {
       "added_at": "2024-02-16 09:14:10",
       "album": {
@@ -37,6 +93,102 @@
       "url": "https://open.spotify.com/track/2f2EuaH4Nvwg52C5u7SL6l"
     },
     {
+      "added_at": "2024-01-30 12:16:19",
+      "album": {
+        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 262725,
+      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
+    {
+      "added_at": "2024-02-29 19:44:37",
+      "album": {
+        "name": "Neene Neene (From \"Dil Kush\")",
+        "url": "https://open.spotify.com/album/7gg89wLf7ahQrdG6vUInWz"
+      },
+      "artists": [
+        {
+          "name": "Prasad K Shetty",
+          "url": "https://open.spotify.com/artist/20uxeH7uGGbhMA8RqEjUf4"
+        },
+        {
+          "name": "Ghouse Peer",
+          "url": "https://open.spotify.com/artist/7rN3ZHyF91OoEkEmktdvyB"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Aarthi Ashwin",
+          "url": "https://open.spotify.com/artist/2JcEOhY1ZpgPbY3AXuRGXF"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "Neene Neene (From \"Dil Kush\")",
+      "url": "https://open.spotify.com/track/5SCD5sujZXB2NhqpMgGewX"
+    },
+    {
+      "added_at": "2024-02-29 19:48:19",
+      "album": {
+        "name": "Guntur Kaaram (Kannada)",
+        "url": "https://open.spotify.com/album/3zvK8jniV8gOtt60ZNf0hj"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Surabhi",
+          "url": "https://open.spotify.com/artist/58pxJIczpmjeAikEW6xt6j"
+        },
+        {
+          "name": "Abhishek",
+          "url": "https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE"
+        },
+        {
+          "name": "Pratap",
+          "url": "https://open.spotify.com/artist/7dCDPRfjq5MzfeJFgwbqb5"
+        }
+      ],
+      "duration_ms": 258694,
+      "name": "Rangabhoomige Abhinandane",
+      "url": "https://open.spotify.com/track/3tFNzMneiqAXwPmzXmfCJ7"
+    },
+    {
+      "added_at": "2024-02-26 04:59:06",
+      "album": {
+        "name": "Meetadene Veene (From \"Karataka Damanaka\")",
+        "url": "https://open.spotify.com/album/5wAXK9k4QwX1y1eAIz315g"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "duration_ms": 193321,
+      "name": "Meetadene Veene (From \"Karataka Damanaka\")",
+      "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
+    },
+    {
       "added_at": "2024-02-19 13:42:53",
       "album": {
         "name": "Babu (No.1 Bullshit Guy) - Kannada",
@@ -61,46 +213,6 @@
       "url": "https://open.spotify.com/track/4QCj8gMq1fH5Pg06bpik3x"
     },
     {
-      "added_at": "2024-02-26 04:59:06",
-      "album": {
-        "name": "Meetadene Veene (From \"Karataka Damanaka\")",
-        "url": "https://open.spotify.com/album/5wAXK9k4QwX1y1eAIz315g"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 193321,
-      "name": "Meetadene Veene (From \"Karataka Damanaka\")",
-      "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
-    },
-    {
-      "added_at": "2024-01-30 12:16:19",
-      "album": {
-        "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
-        "url": "https://open.spotify.com/album/4DlpftS9Z7UD1ICVkOZSKi"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 262725,
-      "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
-      "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
-    },
-    {
       "added_at": "2024-02-22 10:15:57",
       "album": {
         "name": "Paapa Santhosha (From \"Bachelor Party\")",
@@ -123,6 +235,82 @@
       "duration_ms": 179253,
       "name": "Paapa Santhosha (From \"Bachelor Party\")",
       "url": "https://open.spotify.com/track/1nrSPuvDqrA947Cm2DPKNO"
+    },
+    {
+      "added_at": "2024-02-29 19:48:19",
+      "album": {
+        "name": "Guntur Kaaram (Kannada)",
+        "url": "https://open.spotify.com/album/3zvK8jniV8gOtt60ZNf0hj"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Surabhi",
+          "url": "https://open.spotify.com/artist/58pxJIczpmjeAikEW6xt6j"
+        },
+        {
+          "name": "Pratap",
+          "url": "https://open.spotify.com/artist/7dCDPRfjq5MzfeJFgwbqb5"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Ee Coffee",
+      "url": "https://open.spotify.com/track/5JIcWBGLTOqpJe55QGG7Lp"
+    },
+    {
+      "added_at": "2024-02-29 19:43:53",
+      "album": {
+        "name": "Dharege Doddovru (From \"Lineman\") (Kannada)",
+        "url": "https://open.spotify.com/album/7HFyLifCqHqUApIUCw6Ql3"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Ningashetty",
+          "url": "https://open.spotify.com/artist/255N9Ff1nwMckkgU1pILlC"
+        },
+        {
+          "name": "Ningaraju K Kalappa",
+          "url": "https://open.spotify.com/artist/42HOlVItsk5wkKmcV6BaVv"
+        },
+        {
+          "name": "Shankara",
+          "url": "https://open.spotify.com/artist/5G43SgIhCmTNzLcHR2b88O"
+        }
+      ],
+      "duration_ms": 223726,
+      "name": "Dharege Doddovru (From \"Lineman\") (Kannada)",
+      "url": "https://open.spotify.com/track/0jivW1vm0joYBzxYvQtRiv"
+    },
+    {
+      "added_at": "2024-02-29 19:42:06",
+      "album": {
+        "name": "Babu (No.1 Bullshit Guy) - Kannada",
+        "url": "https://open.spotify.com/album/2tU0crk3jV8WVZRPbdvtlL"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Karunya",
+          "url": "https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "duration_ms": 256034,
+      "name": "Ethukada Santhoshava",
+      "url": "https://open.spotify.com/track/43qx04vGcnGaKMVofQRluZ"
     },
     {
       "added_at": "2024-02-27 11:40:33",
@@ -191,26 +379,6 @@
       "duration_ms": 188526,
       "name": "Bhoomiya Maalika",
       "url": "https://open.spotify.com/track/3xWT4oe7AojLkPM1Jo6FvG"
-    },
-    {
-      "added_at": "2024-02-26 11:54:15",
-      "album": {
-        "name": "Agali Iralareno (From \"Shakhahaari\")",
-        "url": "https://open.spotify.com/album/6DC4tG2nFXgrd5XEWDlvYy"
-      },
-      "artists": [
-        {
-          "name": "Mayur Ambekallu",
-          "url": "https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY"
-        },
-        {
-          "name": "Chandrashekhara Kambara",
-          "url": "https://open.spotify.com/artist/6EYRxwHAGnVZt2QtmlJ9RW"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Agali Iralareno - From \"Shakhahaari\"",
-      "url": "https://open.spotify.com/track/7mjVi2K8KKADjAAJNPIYeY"
     },
     {
       "added_at": "2024-02-26 11:56:03",
@@ -683,30 +851,6 @@
       "duration_ms": 61375,
       "name": "Dhairyam Sarvatra Sadhanam \"Theme Music\" - From \"Dhairyam Sarvatra Sadhanam\"",
       "url": "https://open.spotify.com/track/3ip6B4XdPufrwgHx76NVj2"
-    },
-    {
-      "added_at": "2024-02-01 10:47:53",
-      "album": {
-        "name": "Uncle Song (From \"Bachelor Party\")",
-        "url": "https://open.spotify.com/album/4ViWgGrwuC4Q0IXug8frBy"
-      },
-      "artists": [
-        {
-          "name": "Arjun Ramu",
-          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
-        },
-        {
-          "name": "Praveen Biligiri",
-          "url": "https://open.spotify.com/artist/2xk6RkKvtrK1pcv5AkmBP0"
-        }
-      ],
-      "duration_ms": 197311,
-      "name": "Uncle Song (From \"Bachelor Party\")",
-      "url": "https://open.spotify.com/track/6oFI179OLqJuxLqazHQquI"
     },
     {
       "added_at": "2024-02-07 03:23:27",
@@ -1337,30 +1481,6 @@
       "url": "https://open.spotify.com/track/3j6jE75zIdCeQWTWENvwgd"
     },
     {
-      "added_at": "2024-01-19 10:31:20",
-      "album": {
-        "name": "Sojiga Sojiga (From \"KTM\")",
-        "url": "https://open.spotify.com/album/7e9xsagAQfgP5P4yEzeBTK"
-      },
-      "artists": [
-        {
-          "name": "Chetan Rao",
-          "url": "https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Arasu Anthare",
-          "url": "https://open.spotify.com/artist/0g7RzAVhQCg5PnqSGbybHl"
-        }
-      ],
-      "duration_ms": 197704,
-      "name": "Sojiga Sojiga - From \"KTM\"",
-      "url": "https://open.spotify.com/track/3enNtJWMMoAd8N0ugds8lY"
-    },
-    {
       "added_at": "2024-01-03 12:04:09",
       "album": {
         "name": "Maleyanthe Nee Baa (from \"Sanju Weds Geetha 2\")",
@@ -1473,30 +1593,6 @@
       "url": "https://open.spotify.com/track/56hNssGHtrjE5DwaLRvaDK"
     },
     {
-      "added_at": "2024-01-15 07:15:30",
-      "album": {
-        "name": "Mr. Madimaye",
-        "url": "https://open.spotify.com/album/2exhsxVgCKRR6PAKOxbqlr"
-      },
-      "artists": [
-        {
-          "name": "K P Milan Kumar",
-          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
-        },
-        {
-          "name": "Vismay Vinayak",
-          "url": "https://open.spotify.com/artist/7xFHHaQ1cDKKyaG6Q0zekN"
-        },
-        {
-          "name": "Umesh Mijar",
-          "url": "https://open.spotify.com/artist/1sKReGsoaaOvHYJAQmN2N7"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "Peg Song",
-      "url": "https://open.spotify.com/track/1y2ZQXSzAzPF1CQUPX9wdG"
-    },
-    {
       "added_at": "2024-01-03 06:27:07",
       "album": {
         "name": "Ninyaarele (from \"Ondu Sarala Prema Kathe\")",
@@ -1589,30 +1685,6 @@
       "url": "https://open.spotify.com/track/3vD690JxNiwBofoPC4j1Ce"
     },
     {
-      "added_at": "2024-01-12 10:33:41",
-      "album": {
-        "name": "Villain Yaarava [From \"Leo (Kannada)\"]",
-        "url": "https://open.spotify.com/album/1k4LKD2UsKTnNCaKrfi1Xl"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Sampath GK",
-          "url": "https://open.spotify.com/artist/6u3gttrS6xGDiQGEUVSRls"
-        }
-      ],
-      "duration_ms": 185801,
-      "name": "Villain Yaarava (From \"Leo (Kannada)\")",
-      "url": "https://open.spotify.com/track/1q9J80snLlKn7Vx3fH2fSk"
-    },
-    {
       "added_at": "2024-01-10 12:23:02",
       "album": {
         "name": "World of UI Teaser Theme (From \"Ui\")",
@@ -1627,30 +1699,6 @@
       "duration_ms": 111840,
       "name": "World of UI Teaser Theme - From \"Ui\"",
       "url": "https://open.spotify.com/track/745dqTr02McQ29bO8q1iDm"
-    },
-    {
-      "added_at": "2024-01-10 04:18:30",
-      "album": {
-        "name": "Muddada Maaye (From \"Vyuha\")",
-        "url": "https://open.spotify.com/album/1IXzQwhsemqW3mFkxxMcQO"
-      },
-      "artists": [
-        {
-          "name": "Franklin Rocky",
-          "url": "https://open.spotify.com/artist/7KYfhq391KJyUfEzXGEg2h"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Gowtham Mk",
-          "url": "https://open.spotify.com/artist/1nFoGuGHsl863UK7soMLeS"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "Muddada Maaye (From \"Vyuha\")",
-      "url": "https://open.spotify.com/track/0stQF7psKUq8QXr2ZJINn1"
     },
     {
       "added_at": "2024-01-05 05:05:45",
@@ -1675,22 +1723,6 @@
       "duration_ms": 271291,
       "name": "Thumbane Kelalaare (from\"Mafia\")",
       "url": "https://open.spotify.com/track/1hLgsE5vtSB4WGa6G254md"
-    },
-    {
-      "added_at": "2024-01-08 05:16:40",
-      "album": {
-        "name": "Mugiyada Ee Mouna ( From \"Yaava Mohana Murali Kareithu\" )",
-        "url": "https://open.spotify.com/album/4ArFXtj1Y0fqg8Rntvl7Sr"
-      },
-      "artists": [
-        {
-          "name": "Anil CJ",
-          "url": "https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "Mugiyada Ee Mouna ( From \"Yaava Mohana Murali Kareithu\" )",
-      "url": "https://open.spotify.com/track/4GfL2pMoV9ezqb96ghS0Sq"
     },
     {
       "added_at": "2024-01-03 06:57:22",

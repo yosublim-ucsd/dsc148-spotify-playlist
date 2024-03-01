@@ -1001,6 +1001,32 @@
     },
     {
       "album": {
+        "name": "Jaada (From \"Aavesham\")",
+        "url": "https://open.spotify.com/album/2i0rwB9IgecxcaRYeeGAas"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sreenath Bhasi",
+          "url": "https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162791,
+      "name": "Jaada - From \"Aavesham\"",
+      "url": "https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf"
+    },
+    {
+      "album": {
         "name": "Jayiche Theeru",
         "url": "https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU"
       },
@@ -2630,7 +2656,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 178217,
       "name": "Thamburati",
       "url": "https://open.spotify.com/track/7zZsi7kpplYLn7q7K6qQUu"
@@ -2766,7 +2792,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 147375,
       "name": "Thirumbi Varuvathu (From \"Neymar\")",
       "url": "https://open.spotify.com/track/2qJE0biPkcyUlmxXx5lny4"
@@ -2822,6 +2848,28 @@
       "duration_ms": 234962,
       "name": "Trap Sundhari",
       "url": "https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au"
+    },
+    {
+      "album": {
+        "name": "Utharam Para",
+        "url": "https://open.spotify.com/album/1k1o9ToLbRKtTPvgVpCx5U"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "AbRaw",
+          "url": "https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173223,
+      "name": "Utharam Para",
+      "url": "https://open.spotify.com/track/6VGbRuP8eSIVsNgm6nhlw3"
     },
     {
       "album": {

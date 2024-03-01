@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-327 songs - 16 hr 20 min
+328 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Miracle](https://open.spotify.com/track/0rIp4BZn76zzW9oXj5ZlDx) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [The Unlikely Pilgrimage of Harold Fry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PqjTQxeyMjZfIABkgvuog) | 2:30 | 2023-04-28 |  |
 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-28 |  |
 | [A New Era](https://open.spotify.com/track/76xQe9hXJSoGmrZ1ruNsqv) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Downton Abbey: A New Era \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nLWrA6Mke8UMLPCRCZpFO) | 5:22 | 2022-04-29 |  |
-| [A Time of Quiet Between the Storms](https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [A Time of Quiet Between the Storms / Harvester Attack \(from "Dune: Part Two"\)](https://open.spotify.com/album/31iFZsioqZFiA59rV3I4L7) | 4:21 | 2024-02-16 |  |
+| [A Time of Quiet Between the Storms](https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [A Time of Quiet Between the Storms / Harvester Attack \(from "Dune: Part Two"\)](https://open.spotify.com/album/31iFZsioqZFiA59rV3I4L7) | 4:21 | 2024-02-16 | 2024-03-01 |
+| [A Time of Quiet Between the Storms](https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 4:21 | 2024-02-16 |  |
 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 | 2022-11-11 |  |
 | [Aelis Arrives \- from the Amazon Original Movie "Catherine Called Birdy"](https://open.spotify.com/track/0Go1pDClKbn8J3wW4kEIxL) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Catherine Called Birdy \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB) | 1:55 | 2022-10-07 | 2023-05-06 |

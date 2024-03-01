@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: \(G\)I\-DLE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,185 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [I'll probably be fine \(with Taekwoo\)](https://open.spotify.com/track/2TTgKnSD2GfVeypiusr611) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [TAEKWOO](https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw) | [Wish.zip \(3\)](https://open.spotify.com/album/4P6QGcSeYHJVxZhYdwP6Y7) | 3:52 |
 | 50 | [Summer youth \(with 109\)](https://open.spotify.com/track/4h4NLtEdJpQLh6lLTWQjnw) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Wish.zip \(3\)](https://open.spotify.com/album/4P6QGcSeYHJVxZhYdwP6Y7) | 3:32 |
 
-Snapshot ID: `MCwzYjA1NTcxOTNhM2QyNzE0ZGNmZDYwN2ZmYzc1MGJhOTM2NTIxZjA5`
+Snapshot ID: `MCxmYTVmYWI3ZjE3N2I2ZDRlMDE5MDMyMGY0NWM2YjM0YWE4OGRhMDBi`

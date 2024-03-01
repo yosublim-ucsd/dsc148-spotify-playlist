@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 1285412,
+  "2024-03-01": 1285650,
   "date_first_scraped": "2022-01-13",
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
   "name": "Salsa Classics",
@@ -1355,10 +1355,36 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "album": {
+        "name": "La Rebelion",
+        "url": "https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC"
+      },
+      "artists": [
+        {
+          "name": "racheasf",
+          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
+        },
+        {
+          "name": "417se",
+          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
+        },
+        {
+          "name": "firatsamsi",
+          "url": "https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376451,
+      "name": "La Rebelion",
+      "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
     },
     {
       "album": {

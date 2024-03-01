@@ -4,7 +4,7 @@
 
 > 
 
-1,865 songs - 4 day 4 hr 49 min
+1,867 songs - 4 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1739,6 +1739,7 @@
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-07-10 |  |
 | [Variations on a Rococo Theme, Op\. 33, TH 57: Var: VI\. Andante](https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Jean\-Guihen Queyras](https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Jiří Bělohlávek](https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx) | [Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvořák: Silent Woods; Rondo](https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf) | 2:36 | 2022-11-10 |  |
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2021-08-05 |  |
+| [Venom](https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KILL YOURSELF Part XIV: The Vulture Saga](https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s) | 2:03 | 2024-02-29 |  |
 | [Venom](https://open.spotify.com/track/7tUXZgLbOCvRJ9FBlairoU) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Blackmage](https://open.spotify.com/album/0DdnuauBuHPfG8Y1pAmYVf) | 2:14 | 2021-08-05 |  |
 | [Verbatim](https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0) | 2:48 | 2021-08-05 |  |
 | [Vernissage](https://open.spotify.com/track/3jaNu6lgpjy6OxReklptT9) | [Pisse](https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3) | [Kohlrübenwinter](https://open.spotify.com/album/6l08YwLZJWq8qfaDv2gkWu) | 2:55 | 2022-05-23 |  |
@@ -1757,6 +1758,7 @@
 | [Vixen](https://open.spotify.com/track/43FtpuAePqILFhq4yrWeQu) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:37 | 2021-08-05 |  |
 | [Voicemail](https://open.spotify.com/track/7H7uRNjAMqX0cbRQ7w7NRJ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Choke](https://open.spotify.com/album/5butUAMQEYVZAeQEFuhG3J) | 2:42 | 2021-08-05 |  |
 | [Void](https://open.spotify.com/track/09hFzxySPHV6PMWUiW91Di) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [mothe](https://open.spotify.com/album/3Jsj2EXHXgXEsJ6ELMxTdY) | 3:03 | 2023-02-23 |  |
+| [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2021-08-05 |  |
 | [VULGAR](https://open.spotify.com/track/6vdWx0TNY8CkALyrAa15vn) | [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3) | [VULGAR](https://open.spotify.com/album/1qHehjps6smDCjJfLVgrIe) | 3:29 | 2021-08-05 |  |
 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 | 2022-06-08 |  |

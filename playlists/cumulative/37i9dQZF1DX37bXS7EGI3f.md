@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of "The Catalyst."
 
-574 songs - 1 day 19 hr 48 min
+575 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [I'm Here to Save You](https://open.spotify.com/track/4wn234gZXihakdPl1rmjsi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 3:47 | 2021-04-10 | 2022-01-22 |
 | [If I](https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [If I](https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq) | 3:43 | 2023-07-17 | 2023-09-10 |
 | [Imminent Threat](https://open.spotify.com/track/4TPMQfNauswpW8oxmY17PN) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Imminent Threat](https://open.spotify.com/album/2Rs28YNeV2Cob5Xt4JrW6w) | 5:16 | 2022-07-13 | 2022-07-29 |
+| [In Eternity](https://open.spotify.com/track/5UtdnAmaj0ouJmW1k2VbWi) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [In Eternity](https://open.spotify.com/album/58CIfEUTW6jkC8PNLrCqko) | 3:39 | 2024-02-23 |  |
 | [In the Dawn of the AI](https://open.spotify.com/track/4jzTw6omtWGIJrVmCxo5Vf) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [In the Dawn of the AI](https://open.spotify.com/album/6hKPL7QdATVIwRlbOQcxdP) | 6:07 | 2020-11-29\* | 2021-10-16 |
 | [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 | 2023-01-12 |  |
 | [In The Name Of Love \(feat\. Cyan Kicks\)](https://open.spotify.com/track/7zcL9Z95bPLFbowuAtY9Bw) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [In The Name Of Love \(feat\. Cyan Kicks\)](https://open.spotify.com/album/1BPZ8JJZTv6CFDoyU7kJY7) | 4:12 | 2021-02-12 | 2021-08-28 |
@@ -286,7 +287,7 @@
 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 | 2024-02-06 |
 | [Lonely Tears in Chinatown](https://open.spotify.com/track/3poXKPjtgJdt9Y1WbTsZOv) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Lonely Tears in Chinatown](https://open.spotify.com/album/41wAvfdHHgyW20L37DcYQr) | 3:40 | 2021-10-16 | 2021-11-20 |
 | [Louder Than Hell](https://open.spotify.com/track/4y8jRLVaKNEPx1Ri1uAhaN) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Louder Than Hell](https://open.spotify.com/album/5gtMaHTNhK0VBgFyP8i1uZ) | 4:26 | 2020-11-29\* | 2021-06-04 |
-| [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 | 2021-12-11 |  |
+| [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 | 2021-12-11 | 2024-03-01 |
 | [Lucid \- Instrumental](https://open.spotify.com/track/5L2wMhPjdmUxHf9NzhptuN) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/2l56oAA1ahY5Vs3VGWXwKk) | 4:30 | 2022-07-13 | 2022-07-29 |
 | [Lullaby](https://open.spotify.com/track/6h4VfFAmPR2kuEKUdpR35s) | [Cynik Scald](https://open.spotify.com/artist/28PVchMtv3S4Vfp8oLYYWD) | [Lullaby](https://open.spotify.com/album/6TCLCtQqi7KLLG2RYgm1Xa) | 4:03 | 2020-11-29\* | 2021-06-11 |
 | [Magellan's Expedition](https://open.spotify.com/track/6jZTrRpjpJKWxtmrm7yf0s) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Magellan's Expedition](https://open.spotify.com/album/4cDMhKTNyd4lRnLhMwKYop) | 4:38 | 2022-04-08 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Queen Cult
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,590 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,595 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 16 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 17 | [Better Now You're Gone](https://open.spotify.com/track/1VuYDtXZsEPVnAQ9JVt5Lk) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Better Now You're Gone](https://open.spotify.com/album/27x5ydoA9E4xDyUc6Xvgu9) | 3:01 |
 | 18 | [Waves](https://open.spotify.com/track/06JGsU2snVzhic3RegsYXx) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Waves](https://open.spotify.com/album/3bVrHlVSUVUss3doxEXu6j) | 3:14 |
-| 19 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 |
+| 19 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 |
 | 20 | [London \(Love to Hate\)](https://open.spotify.com/track/5EO7Imd5V2EZFUIOh9rtT6) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [London \(Love to Hate\)](https://open.spotify.com/album/7dVKNEaY2ScakAlYj9Ff9q) | 4:04 |
 | 21 | [Caroline](https://open.spotify.com/track/4xCbH4j4W3wqkqNVJCMElL) | [ALICE LILY](https://open.spotify.com/artist/76QfCo8TeN5wtqDoN6PbdQ) | [Caroline](https://open.spotify.com/album/5Fn9vv173RuHWjvONUWgoH) | 3:05 |
 | 22 | [King Size Slim](https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Title Track](https://open.spotify.com/album/08gFnRmxpci80sjhTkdFvL) | 4:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 54 | [6.0](https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF) | [House of Women](https://open.spotify.com/artist/69hDEF4aqs1XvGs9jHlIwf) | [People Printing](https://open.spotify.com/album/2q8j2IVYrNaM5pAWug6Er1) | 2:06 |
 | 55 | [Willow Tree](https://open.spotify.com/track/5erHAJLOI0IVgix6U2QPfL) | [DARLAH](https://open.spotify.com/artist/3mPFxrzHrRcZrFFFoMwXCG) | [Human Nature](https://open.spotify.com/album/7tN9HGssvTd1CiOMWL7k72) | 3:19 |
 
-Snapshot ID: `MCwzZDkwOGU4NGQyODkzZmYxMjBlMzc0ODlkZDdjOTg5ZDJkNzU4NGQ4`
+Snapshot ID: `MCw3Y2Y2MDBiZDQ0YmRkYWYwOWY4MmI0Nzg2MjJkZTlmODNmYmE2NzI1`

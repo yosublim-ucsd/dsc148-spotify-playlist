@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Gen & The Degenerates",
+  "description": "The best new music from the wide world of punk. Cover: Games We Play",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152546,
       "name": "All Comes Down to This",
       "url": "https://open.spotify.com/track/5yFPdq8zFlzZphQieFlxa1"
@@ -1380,7 +1380,7 @@
       },
       "artists": [
         {
-          "name": "Cherym",
+          "name": "CHERYM",
           "url": "https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5"
         }
       ],
@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Bad For You",
+        "url": "https://open.spotify.com/album/1bxifitCgMds4MuFyzWFpr"
+      },
+      "artists": [
+        {
+          "name": "HUSHMONEY",
+          "url": "https://open.spotify.com/artist/3uLtOTzzzSEJpuB2oWKExi"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84270,
+      "name": "Bad For You",
+      "url": "https://open.spotify.com/track/4ej52LFLy9icxcxPyYTCte"
+    },
+    {
+      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8"
       },
@@ -2786,7 +2804,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 117604,
       "name": "Birds Talk Too",
       "url": "https://open.spotify.com/track/4qcnEdOSgCLYgVK7BT5lug"
@@ -3094,6 +3112,46 @@
       "duration_ms": 199240,
       "name": "blindfolded",
       "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/2wY0brjuS8kzqMWI3C160A"
+      },
+      "artists": [
+        {
+          "name": "BEACH B\u00d8NES",
+          "url": "https://open.spotify.com/artist/4iPHcnrgNGWpdKhfgnrm7W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145909,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/3cNb6pGbjVzycUSI6JtQhy"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        },
+        {
+          "name": "Fears",
+          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231394,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
     },
     {
       "album": {
@@ -4289,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Can I Sleep In Your Mouth?",
+        "url": "https://open.spotify.com/album/3wMinEzUu9Bwug0SDsjsbq"
+      },
+      "artists": [
+        {
+          "name": "Doglung",
+          "url": "https://open.spotify.com/artist/1p0z2Fr9eIifcsyj53oDA0"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Can I Sleep In Your Mouth?",
+      "url": "https://open.spotify.com/track/6eRmZOwjCjo4keZ0gvfWc5"
+    },
+    {
+      "album": {
         "name": "Can We Stop Trying to Win?",
         "url": "https://open.spotify.com/album/3Q8gE5VrnQ8Pqp680pRl0M"
       },
@@ -5166,7 +5242,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 195195,
       "name": "Claw",
       "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
@@ -5228,6 +5304,24 @@
       "duration_ms": 164000,
       "name": "Clearview",
       "url": "https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW"
+    },
+    {
+      "album": {
+        "name": "Cling to a Poisoned Dream",
+        "url": "https://open.spotify.com/album/0RHs3NdKlZD1RMu02boc3y"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89293,
+      "name": "Cling to a Poisoned Dream",
+      "url": "https://open.spotify.com/track/114RKvqZgUCnBtjz7Qo2K1"
     },
     {
       "album": {
@@ -5420,7 +5514,7 @@
       },
       "artists": [
         {
-          "name": "Cherym",
+          "name": "CHERYM",
           "url": "https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5"
         }
       ],
@@ -8329,6 +8423,28 @@
     },
     {
       "album": {
+        "name": "EVERY MAN FOR HIMSELF",
+        "url": "https://open.spotify.com/album/70KXLvjv7CIssBvNh9AbTB"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117193,
+      "name": "EVERY MAN FOR HIMSELF",
+      "url": "https://open.spotify.com/track/6tKEneUBTaGvoHeSxpJltb"
+    },
+    {
+      "album": {
         "name": "Everybody but You",
         "url": "https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA"
       },
@@ -8488,7 +8604,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 190000,
       "name": "Expired Plastic",
       "url": "https://open.spotify.com/track/65RTPMaArggsAKg1WTL0Zn"
@@ -10086,7 +10202,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 182855,
       "name": "Girl Shaped Crater",
       "url": "https://open.spotify.com/track/4vkD9qo574mcQnd9i8nXFT"
@@ -13846,7 +13962,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 137520,
       "name": "Just Exist - Revived (Remixed / Remastered)",
       "url": "https://open.spotify.com/track/7F3wjqkXWDlfRcuoRwlmxn"
@@ -14540,6 +14656,24 @@
       "duration_ms": 196778,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/7FHyKzr58dfo5DEN9Rglrj"
+    },
+    {
+      "album": {
+        "name": "Leap Years",
+        "url": "https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Leap Years",
+      "url": "https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW"
     },
     {
       "album": {
@@ -15521,6 +15655,24 @@
     },
     {
       "album": {
+        "name": "A DESOLATE WARNING",
+        "url": "https://open.spotify.com/album/4F2tO62XjaU9DBJcJjM0Im"
+      },
+      "artists": [
+        {
+          "name": "Noah and the Loners",
+          "url": "https://open.spotify.com/artist/4JyEBU5Clo1VxtKoRCbYvH"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161450,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/5hF906Aip17n9fCqZmSPJF"
+    },
+    {
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
       },
@@ -16058,6 +16210,24 @@
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
+    },
+    {
+      "album": {
+        "name": "Makes Me Violent",
+        "url": "https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199643,
+      "name": "Makes Me Violent",
+      "url": "https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v"
     },
     {
       "album": {
@@ -17730,7 +17900,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 134655,
       "name": "No",
       "url": "https://open.spotify.com/track/4dTfNlITZYxnbL1jKQAThl"
@@ -20202,7 +20372,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 200480,
       "name": "Private Public Transport",
       "url": "https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX"
@@ -20477,6 +20647,24 @@
     },
     {
       "album": {
+        "name": "Pursuit",
+        "url": "https://open.spotify.com/album/0I8h6XhqiS8nf7ue5S6iQO"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206193,
+      "name": "Pursuit",
+      "url": "https://open.spotify.com/track/56rD4WsajHHWR3JQZN6SKh"
+    },
+    {
+      "album": {
         "name": "quiero saber (plis checa tu dm)",
         "url": "https://open.spotify.com/album/7rJET13fOKeW5kvLl0k8Zj"
       },
@@ -20668,7 +20856,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 172135,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0vv43xb2Ih2KZuZc61m1aJ"
@@ -20852,7 +21040,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 191053,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og"
@@ -20986,7 +21174,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 141960,
       "name": "Red/White",
       "url": "https://open.spotify.com/track/0QeHpEja4lZWWkIt7amenL"
@@ -23203,6 +23391,24 @@
     },
     {
       "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224899,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
+    },
+    {
+      "album": {
         "name": "Sixty-Two Thousand Dollars in Debt",
         "url": "https://open.spotify.com/album/4EUlieukqx1aFsgAUCeHV5"
       },
@@ -24950,7 +25156,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 190000,
       "name": "T-shirt pr\u00e9f\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/71VlU7vDDunkKXrMbti2k1"
@@ -25632,7 +25838,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 178189,
       "name": "Thameslink",
       "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
@@ -27100,7 +27306,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 127058,
       "name": "Too Slow",
       "url": "https://open.spotify.com/track/3WLlV0VSN58XV0CQGc5Gou"
@@ -27552,6 +27758,24 @@
       "duration_ms": 205456,
       "name": "two wrongs",
       "url": "https://open.spotify.com/track/0MQwkxujAw3BxQ1k0WWCN5"
+    },
+    {
+      "album": {
+        "name": "Life\u2019s Going Great",
+        "url": "https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159933,
+      "name": "Typical Me",
+      "url": "https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah"
     },
     {
       "album": {
@@ -30057,6 +30281,24 @@
     },
     {
       "album": {
+        "name": "You've Got The Nerve",
+        "url": "https://open.spotify.com/album/7lNgBcxF1c0tuU3uHd3n4z"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/3QiIyZ6uVHDIBHIcD9NguN"
+    },
+    {
+      "album": {
         "name": "You've Won",
         "url": "https://open.spotify.com/album/4GyKyaMWBVON06i7eMvqyv"
       },
@@ -30148,6 +30390,28 @@
       "duration_ms": 199273,
       "name": "Zero",
       "url": "https://open.spotify.com/track/49qf7uMixoBSbiUXzZg5zr"
+    },
+    {
+      "album": {
+        "name": "Zombie Nation (feat. Suggs)",
+        "url": "https://open.spotify.com/album/1z7swbmeQe8bYqQPm8Uycv"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        },
+        {
+          "name": "Suggs",
+          "url": "https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196946,
+      "name": "Zombie Nation - feat. Suggs",
+      "url": "https://open.spotify.com/track/6BMTBxXUtNLUe97uTtRi1n"
     },
     {
       "album": {

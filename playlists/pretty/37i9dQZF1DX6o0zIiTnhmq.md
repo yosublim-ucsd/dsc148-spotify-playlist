@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,741 likes - 50 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,789 likes - 50 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 7 | [Guruji Mantras](https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB) | [Anushka Bajaj](https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U) | [Guruji Mantras](https://open.spotify.com/album/3XcTUCAl9UYJiBkmwfXXLn) | 21:45 |
 | 8 | [Ganesh Stuti](https://open.spotify.com/track/2VkyL7OvkQqABhtM3hyPaf) | [Ankita Bramhe](https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj) | [Ganesh Stuti](https://open.spotify.com/album/6yta2A7hXHC2Cmv1eKVUOv) | 2:34 |
 | 9 | [Jap Le Mannva](https://open.spotify.com/track/7sNeybpyjW2Pp2P0xe6pib) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 4:00 |
-| 10 | [Surya Namaskar Mantra](https://open.spotify.com/track/7g3Y6bCXY8fLl0rw2XXkmX) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/0l5SkGFIFwUo01cwaRik4d) | 6:33 |
-| 11 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
-| 12 | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/track/7Hno3cOsGoENNxMYEZTlM2) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/album/2YOBo7LwSkb1INLMw6Rh3H) | 4:35 |
+| 10 | [Rudrashtakam](https://open.spotify.com/track/3CBzlr1rjztpKFurMbQizE) | [Rahul Vellal](https://open.spotify.com/artist/2UuXiT0l9zWMGwuz1dhyFw) | [Rudrashtakam](https://open.spotify.com/album/005iCBmS1Vhh7IzRW0j2rO) | 5:02 |
+| 11 | [Surya Namaskar Mantra](https://open.spotify.com/track/7g3Y6bCXY8fLl0rw2XXkmX) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/0l5SkGFIFwUo01cwaRik4d) | 6:33 |
+| 12 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
 | 13 | [Tera Mangal](https://open.spotify.com/track/2EBn6Tsi8LEIxUWDaUhpGT) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Tera Mangal](https://open.spotify.com/album/7G9sLNGMHH3RwkKAYYMWeF) | 4:22 |
 | 14 | [Shri Ram Jai Ram \(21 Chant\)](https://open.spotify.com/track/3k4uDqn0ll7m65127JfsD6) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Nishant Upadhyay](https://open.spotify.com/artist/6X5A6Nc7hVXf7V88rG7OpB), [Vivek Nayi](https://open.spotify.com/artist/5NmAnk2izH1vPZyUfTUqcR), [Margiv Trivedi](https://open.spotify.com/artist/3tu0DiS7GT1F7k8G3Ktltm), [Isha Nair](https://open.spotify.com/artist/1nLpmgdc1clXUHhNj2C3hG), [Deepaali Vyas](https://open.spotify.com/artist/5aLZJEZZgTBVB9UBiBZ6g2), [Bansari Maisuriya](https://open.spotify.com/artist/6p93w7A249t5ZWqohyXEMl) | [Shri Ram Jai Ram \(21 Chant\)](https://open.spotify.com/album/74xEYLqBS3lUUoWRy5MJcn) | 13:27 |
 | 15 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Kirtan Kriya \(Short Version\)](https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD) | [Nirinjan Kaur](https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R) | [Meditations for Transformation: Kirtan Kriya](https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s) | 11:31 |
 | 50 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 
-Snapshot ID: `MCw1OTlmZDUxODE3OGY5YTU4Y2U3MTVhNzM5M2IzY2QwNzI5NGIzMDZj`
+Snapshot ID: `MCxmOTgzYWE0MjljMTE3Y2UwODc1MWQ0M2Y4MjRlN2IwY2ZjYWQ2YmRl`

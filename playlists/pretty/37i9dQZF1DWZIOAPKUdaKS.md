@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,734 likes - 264 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,781 likes - 264 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 22 | [The swan](https://open.spotify.com/track/52KuODrja4LIiMh1a8pOBd) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [The swan](https://open.spotify.com/album/6pWEQPYZGnaHdL5CmWweDu) | 2:37 |
 | 23 | [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 |
 | 24 | [Silhouettes](https://open.spotify.com/track/6S3uL1i4W3gHIf1BauxjMZ) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Silhouettes](https://open.spotify.com/album/5qPhOA59aDQkHk8EYpECW5) | 3:32 |
-| 25 | [How Things Blend](https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [How Things Blend](https://open.spotify.com/album/1p5HCYFqWBB4VqkCpf9raI) | 2:36 |
+| 25 | [How Things Blend](https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [How Things Blend](https://open.spotify.com/album/1p5HCYFqWBB4VqkCpf9raI) | 2:36 |
 | 26 | [Whispers in the Fog](https://open.spotify.com/track/098b2wZzLGe9RwVCh1YZay) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Whispers in the Fog](https://open.spotify.com/album/13C3NpipjChcRCQIAERjk6) | 2:16 |
 | 27 | [Une promenade tranquille](https://open.spotify.com/track/1PNrhizOQldoC64LNejntF) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Une promenade tranquille](https://open.spotify.com/album/4IHIYGFTa0gQh07HJXFy3d) | 2:15 |
 | 28 | [Changes](https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Changes](https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp) | 3:05 |
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 263 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 |
 | 264 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 |
 
-Snapshot ID: `MCwwYzVjY2U3ZjhiYmFmMjA1YTliNWZhNjQ2ZjI3ZDc0NzE3ZDQ1ODBi`
+Snapshot ID: `MCw0ODE5YTEyNGNhOWQwYjRlMjdmYmUwNzYxNzljZjZkNzA1M2I0Nzg1`

@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-481 songs - 18 hr 44 min
+482 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Longboard Girl](https://open.spotify.com/track/3CIEoCUzOaYZ8lfuShGiU7) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Longboard Girl](https://open.spotify.com/album/2l2jc1TADiIyzIv4E3NkEI) | 2:14 | 2023-04-11 |  |
 | [Loopty](https://open.spotify.com/track/6b1YS18G8w8lxOWh7oD9rx) | [Bonobobby](https://open.spotify.com/artist/400ESgigbovgd0bpWZHuvu) | [Loopty](https://open.spotify.com/album/1sN2FbISltW6SaptIQmPUr) | 2:34 | 2022-02-04 |  |
 | [Loose](https://open.spotify.com/track/2jL3urmIC1PepoT93Mskmm) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Loose](https://open.spotify.com/album/7pzAH2m3DrWbjgkMEBOQtB) | 2:39 | 2021-11-11 | 2022-09-17 |
+| [Loose Kicks](https://open.spotify.com/track/2pJmmSzJzgyBwUhyqqNntp) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Loose Kicks](https://open.spotify.com/album/0d0398yXgXdrZSenztLHMX) | 1:45 | 2024-03-01 |  |
 | [Lost World](https://open.spotify.com/track/5up5Dz71Pju2BhK6NffTg8) | [Avatron](https://open.spotify.com/artist/0c1cREViIuF4oj5BtpHo6t) | [Lost World](https://open.spotify.com/album/5Ep9azVs5xJpLVANGBaH6b) | 2:40 | 2021-11-11 | 2022-06-10 |
 | [love in the morning sun](https://open.spotify.com/track/4zOMo4Ues4LK2eWzfKwESR) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/6LiSkiPDDbqeWnQUthrYKg) | 2:02 | 2022-07-29 | 2022-11-07 |
 | [love in the morning sun](https://open.spotify.com/track/6RWgGlkUfIb1DKR47S49T5) | [connor](https://open.spotify.com/artist/10TEwmyEErv40xMg2QDCCQ) | [love in the morning sun](https://open.spotify.com/album/3X32Fal5LpkL5DFOBL39BZ) | 2:02 | 2022-10-28 | 2023-10-24 |

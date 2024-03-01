@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-578 songs - 1 day 6 hr 16 min
+579 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [frozen halos](https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [frozen halos](https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt) | 3:02 | 2021-12-24 | 2022-11-12 |
 | [Get Together](https://open.spotify.com/track/26OMlnMpnndXSOhjs1Vrra) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Get Together](https://open.spotify.com/album/4SRd2gQIuLQdBflkMfTX36) | 3:46 | 2023-11-03 |  |
 | [GIFTS GIFTS GIFTS \- GIRLS GIRLS GIRLS REMIX](https://open.spotify.com/track/3SW26w23QM9DkpIbRYkzct) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [GIFTS GIFTS GIFTS \(GIRLS GIRLS GIRLS REMIX\)](https://open.spotify.com/album/0A1M7lpsjI9BCnuO3Ouv9e) | 2:58 | 2023-12-08 |  |
-| [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-11-03 |  |
+| [Give Love This Year](https://open.spotify.com/track/3h7LxHg3iDpwxOhqgDgZTd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Perfect Holiday](https://open.spotify.com/album/4ud1Hq1ipI8D2xBcuS9Ipj) | 3:06 | 2023-11-20 |  |
+| [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-11-03 | 2024-03-01 |
 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2021-12-24 | 2022-10-24 |
 | [Go Tell It On The Mountain \(Rewrapped\)](https://open.spotify.com/track/2zfXK6yHVv4xOiyIoqJaNf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Go Tell It On The Mountain \(Rewrapped\)](https://open.spotify.com/album/5Rk1kinVPd0BPcAH8cjkuG) | 3:18 | 2023-12-01 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6kVmzSme4v5p1I2IgeOlWU) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Winterlicious](https://open.spotify.com/album/6ADILx1y6wM0CryTlqIKlv) | 3:10 | 2022-10-23 | 2022-12-03 |

@@ -1,7 +1,7 @@
 {
-  "2024-02-29": 161851,
+  "2024-03-01": 161924,
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Saucy Dog *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/326494?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Saucy Dog *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/326671?utm_source=spotify.com&utm_medium=referral\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u304b\u3089\u65b0\u7740\u60c5\u5831\u3092\u30ad\u30e3\u30c3\u30c1! ",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3626,6 +3626,24 @@
     },
     {
       "album": {
+        "name": "Along the long journey",
+        "url": "https://open.spotify.com/album/15eDW5n9pntrJ5ldiLvYCb"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245076,
+      "name": "Along the long journey",
+      "url": "https://open.spotify.com/track/154GAA2hbSjg5JsyVKhXZ0"
+    },
+    {
+      "album": {
         "name": "ALOS",
         "url": "https://open.spotify.com/album/29y5aBN0K1xZx5u6jroZ2U"
       },
@@ -4343,6 +4361,24 @@
       "duration_ms": 127925,
       "name": "Any angle",
       "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
+    },
+    {
+      "album": {
+        "name": "Any angle (Korean Ver.)",
+        "url": "https://open.spotify.com/album/5Xf8aBnQyczf3qtDi0q7qV"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127925,
+      "name": "Any angle - Korean Ver.",
+      "url": "https://open.spotify.com/track/4uVC5yvMdjVvkbIR0gjhgm"
     },
     {
       "album": {
@@ -11409,6 +11445,24 @@
     {
       "album": {
         "name": "choose me (RE: i-dep ver.)",
+        "url": "https://open.spotify.com/album/1qSDX5wHcO4BkDKjShvdx3"
+      },
+      "artists": [
+        {
+          "name": "i-dep",
+          "url": "https://open.spotify.com/artist/1s0PMSVk5LQQshjbyYjsIr"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243937,
+      "name": "choose me - RE: i-dep ver.",
+      "url": "https://open.spotify.com/track/0R2Iie16VglcSk6cXeZ41N"
+    },
+    {
+      "album": {
+        "name": "choose me (RE: i-dep ver.)",
         "url": "https://open.spotify.com/album/4Rn0wpOtLKESTGddTJJg2v"
       },
       "artists": [
@@ -11419,7 +11473,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 243937,
       "name": "choose me - RE: i-dep ver.",
       "url": "https://open.spotify.com/track/2n7iGBwJPoTmf6mRHwfEFf"
@@ -17923,10 +17977,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 183956,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/2Fs8ACanwCf6XaTb3AaIcn"
+    },
+    {
+      "album": {
+        "name": "Excuse Me",
+        "url": "https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l"
+      },
+      "artists": [
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/5XGAX53b2t2iv9WkJzBvth"
     },
     {
       "album": {
@@ -19011,10 +19083,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 230896,
       "name": "Festival",
       "url": "https://open.spotify.com/track/37BksJtzjL1R8slNqyhb5C"
+    },
+    {
+      "album": {
+        "name": "JET SET RADIO",
+        "url": "https://open.spotify.com/album/61pSh7OR7bh65oeV1AWU0A"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        },
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230896,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/45crhqJrSYZthAHfSFQqYB"
     },
     {
       "album": {
@@ -24369,6 +24463,24 @@
     {
       "album": {
         "name": "Heart Beat",
+        "url": "https://open.spotify.com/album/1zx3sgc7LdFcC2lkGFpSmu"
+      },
+      "artists": [
+        {
+          "name": "Hakubi",
+          "url": "https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293306,
+      "name": "Heart Beat",
+      "url": "https://open.spotify.com/track/3of11Oxtx6W1EXV6E4qTSl"
+    },
+    {
+      "album": {
+        "name": "Heart Beat",
         "url": "https://open.spotify.com/album/51MZ0K8wlHpPSbRagwaxOU"
       },
       "artists": [
@@ -24379,7 +24491,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 293306,
       "name": "Heart Beat",
       "url": "https://open.spotify.com/track/5ALTLkogLzQZ0dAnkhNwT3"
@@ -28183,6 +28295,24 @@
     {
       "album": {
         "name": "IAI",
+        "url": "https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "IAI",
+      "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
+    },
+    {
+      "album": {
+        "name": "IAI",
         "url": "https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY"
       },
       "artists": [
@@ -28193,7 +28323,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
@@ -32137,10 +32267,36 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 195366,
       "name": "KONTROL - Remix",
       "url": "https://open.spotify.com/track/1N3OyOFye3DQOCtOQuPGb8"
+    },
+    {
+      "album": {
+        "name": "KONTROL (Remix)",
+        "url": "https://open.spotify.com/album/4lcW4yIuyYcOnhgcawewJj"
+      },
+      "artists": [
+        {
+          "name": "Taeyoung Boy",
+          "url": "https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n"
+        },
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA"
+        },
+        {
+          "name": "CYBER RUI",
+          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195366,
+      "name": "KONTROL - Remix",
+      "url": "https://open.spotify.com/track/7I4prSVzFmHL7yyX8ujk0l"
     },
     {
       "album": {
@@ -32643,6 +32799,24 @@
       "duration_ms": 175000,
       "name": "Late Flower",
       "url": "https://open.spotify.com/track/4vsCQQNOyRSSaCb40wHFml"
+    },
+    {
+      "album": {
+        "name": "Tenshi datta janaika",
+        "url": "https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Laundry",
+      "url": "https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x"
     },
     {
       "album": {
@@ -46413,6 +46587,24 @@
     {
       "album": {
         "name": "Poison",
+        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
+    },
+    {
+      "album": {
+        "name": "Poison",
         "url": "https://open.spotify.com/album/6ufhXSV3u4M9vSyKnsEBSX"
       },
       "artists": [
@@ -46423,7 +46615,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 172653,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2tHA1slw78Hu2xmWtRwzSp"
@@ -63246,6 +63438,24 @@
     },
     {
       "album": {
+        "name": "Utamamire -Vocalful Versions-",
+        "url": "https://open.spotify.com/album/6sib0I4ID9cI5SvNwUiT8H"
+      },
+      "artists": [
+        {
+          "name": "Sean Oshima",
+          "url": "https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220717,
+      "name": "Umaikotodekiteru -That's How it Works- - Vocalful ver.",
+      "url": "https://open.spotify.com/track/0xZVvdQNQI9jDmLgfQ36K4"
+    },
+    {
+      "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
       },
@@ -66587,7 +66797,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 173861,
       "name": "Where They At",
       "url": "https://open.spotify.com/track/0OI6FqVRdAFhWOBo4tq0UV"
@@ -67415,6 +67625,24 @@
       "duration_ms": 290935,
       "name": "WISH",
       "url": "https://open.spotify.com/track/0Nq1UdmGhRmcHrfJh6xzzW"
+    },
+    {
+      "album": {
+        "name": "WISH",
+        "url": "https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "WISH - Japanese Ver.",
+      "url": "https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI"
     },
     {
       "album": {
@@ -70487,7 +70715,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 220717,
       "name": "\u3046\u307e\u3044\u3053\u3068\u3067\u304d\u3066\u308b -That\u2019s How it Works- - Vocalful ver.",
       "url": "https://open.spotify.com/track/2jZbDz49wqfbPI7CwJi6dP"
@@ -71439,7 +71667,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 245076,
       "name": "\u3053\u306e\u9577\u3044\u65c5\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb"
@@ -83503,7 +83731,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 206373,
       "name": "\u30e9\u30f3\u30c9\u30ea\u30fc",
       "url": "https://open.spotify.com/track/2Ig3UQesxs7Vg8ZeQLy5cp"
@@ -86031,7 +86259,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 127925,
       "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973 - Korean Ver.",
       "url": "https://open.spotify.com/track/3g6ETV0Dut5NhFyDGM05Ef"

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,569 songs - 4 day 12 hr 0 min
+1,570 songs - 4 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,6 +1064,7 @@
 | [Paper Planes](https://open.spotify.com/track/0Lf7sSgj8fbOkLC68f5ldj) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN) | [Autonomous.](https://open.spotify.com/album/29HvI3jlicQ7a2pqxE9YtA) | 4:37 | 2020-03-20 | 2021-02-19 |
 | [Parachute](https://open.spotify.com/track/3NgAAoUZPkxL5mpvUI7Rl5) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Parachute](https://open.spotify.com/album/1yRcYuMJZfTpFGECIkRKgO) | 3:50 | 2020-08-06 | 2020-10-09 |
 | [Paradis \- Paradis reprise](https://open.spotify.com/track/42LqG7by3NJjZx4aF2W7Lu) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Le meilleur d'Alain Chamfort \(versions revisitées\)](https://open.spotify.com/album/5MYmRu1O2yPxAqwfC9IylD) | 6:20 | 2020-05-18 | 2020-07-03 |
+| [Paradise](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Paradise](https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo) | 4:07 | 2024-02-23 |  |
 | [Paradise](https://open.spotify.com/track/3DO4r1LcdreYzoMR9gEKjq) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Paradise](https://open.spotify.com/album/0f5ddbtff3tuI0S9XMncQj) | 2:51 | 2020-03-16 | 2020-07-03 |
 | [Paradox](https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Paradox](https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy) | 3:30 | 2021-01-16 |  |
 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 | 2020-03-20 | 2021-12-21 |
@@ -1403,7 +1404,7 @@
 | [This Place](https://open.spotify.com/track/73mS0eZixX8WFFMuKZ1iH1) | [obylx](https://open.spotify.com/artist/3oB2U9OWSyEKuSve5KNgyx) | [This Place](https://open.spotify.com/album/6cGZGCXTRVpc4Tbe9BbwBq) | 3:40 | 2020-03-17 | 2021-01-11 |
 | [This Time \- Four Tet Remix](https://open.spotify.com/track/1x62N4B6k427U5Oj2aFxRY) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [This Time \(Four Tet Remix\)](https://open.spotify.com/album/0GY2LOgXecSnpqFTLxnmhb) | 4:20 | 2022-08-26 | 2022-09-10 |
 | [This World](https://open.spotify.com/track/00p8qNEetqyyT1A61Kc5I2) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [This World](https://open.spotify.com/album/6rY1N1eCW1ZgwN6x0uqyfb) | 3:14 | 2021-12-17 | 2022-03-26 |
-| [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 | 2023-09-08 |  |
+| [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 | 2023-09-08 | 2024-03-01 |
 | [Threads](https://open.spotify.com/track/39bfCEpkqN01tmAILFBkgG) | [Archaellum](https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD) | [Threads](https://open.spotify.com/album/1GnfJnQnJKseHJLwYjzpFB) | 3:06 | 2021-10-08 | 2022-07-28 |
 | [Thunda \(feat\. John Mendelsohn\) \- HNNY Remix](https://open.spotify.com/track/7FcN74qp11KkNO0Xd7WMxU) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Tim K](https://open.spotify.com/artist/4d3uomgSkoaZSgZU7D67jE), [John Mendelsohn](https://open.spotify.com/artist/7ex7EZNGzENqaqUoPO6HQi) | [Thunda \(feat\. John Mendelsohn\)](https://open.spotify.com/album/2qvSsqazvZPxxBF3aiunlM) | 7:02 | 2020-05-18 | 2020-07-03 |
 | [Tide](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys) | [Tide](https://open.spotify.com/album/4gDzDcwlRZ5zDGfduf9lJw) | 3:11 | 2022-05-27 | 2022-12-29 |

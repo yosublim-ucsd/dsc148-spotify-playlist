@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Mike Parker, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,382 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,451 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 98 | [Tonight Ain't The Day](https://open.spotify.com/track/74QLeZ1c4Obi1uza5kpzUV) | [Steven Champion](https://open.spotify.com/artist/6q1g9kegyUqBXcoxDBulA6) | [Tonight Ain't The Day](https://open.spotify.com/album/4cdLbs8YQfeMvr1OKQQV0n) | 3:11 |
 | 99 | [Born For Leaving](https://open.spotify.com/track/6WkPVQxlnoOney8ULiXsxU) | [Niklas Juritsch](https://open.spotify.com/artist/4Nb87ZShMW1LoCrRjBJoJO) | [Born For Leaving](https://open.spotify.com/album/6STDg1uyOdbgrmPAFqSiRb) | 3:30 |
 
-Snapshot ID: `MCxjZDM1YTU2NWQ2NWMwM2VkZTJlMDNmNjM3NTJlNzYxN2JlNjUxYjQ2`
+Snapshot ID: `MCxhODkyZmZkMzZlZDMyNDI1Nzk5Zjc2ODlhNzc0NGMyNWQ4MTRiNDJj`

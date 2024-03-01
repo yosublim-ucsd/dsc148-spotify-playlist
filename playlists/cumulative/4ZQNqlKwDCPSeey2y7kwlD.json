@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Hypersensible (Deluxe)",
+        "url": "https://open.spotify.com/album/1xhn6B8miBagIupKrNdirq"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189292,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/6KHoaTf6LIYwJyCBWozjci"
+    },
+    {
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },

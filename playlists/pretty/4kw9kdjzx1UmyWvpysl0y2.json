@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126485,
+  "num_followers": 126493,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU4Nyw4NjcwYjQ2NDRlOTFlNTA3YzI1MDZmNmE1MDhkNzdjZDM2YzBiYzk5",
+  "snapshot_id": "NDU4OSxhMTU2ZmRhYTBkNTA2Yzk3NmI4ZjhlMWU2ZTMyMTExZGFmODVkMTk3",
   "tracks": [
+    {
+      "added_at": "2024-02-29 18:04:14",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0wBFjhEg6oiQ3fqc7p308r"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5aYAFbdlG9ljCTv4L1EUAX"
+    },
     {
       "added_at": "2024-02-28 18:08:07",
       "album": {
@@ -1139,26 +1155,6 @@
       "duration_ms": 122400,
       "name": "HEADCASE",
       "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
-    },
-    {
-      "added_at": "2023-11-17 13:59:25",
-      "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

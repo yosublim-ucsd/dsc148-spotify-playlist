@@ -1,5 +1,5 @@
 {
-  "2024-02-29": 1689565,
+  "2024-03-01": 1689585,
   "date_first_scraped": "2020-10-13",
   "description": "New and approved indie pop. Cover: Wallows",
   "name": "Indie Pop",
@@ -8719,7 +8719,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 137441,
       "name": "Ease",
       "url": "https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2"
@@ -17611,7 +17611,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 162236,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D"
@@ -20142,6 +20142,24 @@
     },
     {
       "album": {
+        "name": "Never Need Me",
+        "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205431,
+      "name": "Never Need Me",
+      "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
+    },
+    {
+      "album": {
         "name": "nevermind",
         "url": "https://open.spotify.com/album/7EKuPcaolXbxykekJyQo9K"
       },
@@ -21977,7 +21995,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 229713,
       "name": "Paint My Bedroom Black",
       "url": "https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3"
@@ -24371,7 +24389,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 217208,
       "name": "Running",
       "url": "https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll"
@@ -27139,7 +27157,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-29",
       "duration_ms": 136115,
       "name": "Steep",
       "url": "https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa"

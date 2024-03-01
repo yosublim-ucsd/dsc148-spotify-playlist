@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Arianna Pasini",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Pandorea",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 149756,
       "name": "Briciole",
       "url": "https://open.spotify.com/track/0WsYtbZjsv4oguJtVJvevh"
@@ -2020,6 +2020,24 @@
       "duration_ms": 151327,
       "name": "Candles",
       "url": "https://open.spotify.com/track/6ofXiQnzy0h8HvOs3P8zdy"
+    },
+    {
+      "album": {
+        "name": "Cani+",
+        "url": "https://open.spotify.com/album/7qny3hndlFkpNh4x1Jsrun"
+      },
+      "artists": [
+        {
+          "name": "Dodo Quartet",
+          "url": "https://open.spotify.com/artist/7JbowsTFL1dSlxZdcHfBU1"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Cani+",
+      "url": "https://open.spotify.com/track/28ctZ2myZj37wuXaZCAPs8"
     },
     {
       "album": {
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 164210,
       "name": "Chiama quando arrivi",
       "url": "https://open.spotify.com/track/4nfn8OPEj0TsZ63RFkWObG"
@@ -2557,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Tutto a Posto",
+        "url": "https://open.spotify.com/album/254VUHtJiTgUXs9ZAURgFS"
+      },
+      "artists": [
+        {
+          "name": "Colonne",
+          "url": "https://open.spotify.com/artist/1lyMJ6BKcP0BlzXX3fWVHT"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184793,
+      "name": "Cicatrici",
+      "url": "https://open.spotify.com/track/5NI77Wqg3GKECjoUtgwFTD"
+    },
+    {
+      "album": {
         "name": "Parrots & The Park (Pastimes Vol. I)",
         "url": "https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S"
       },
@@ -2586,7 +2622,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 132735,
       "name": "Cimitero",
       "url": "https://open.spotify.com/track/3IPNLgCJJkFjHRtktUa28N"
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 154842,
       "name": "Contare 0",
       "url": "https://open.spotify.com/track/0ErWsPtoGFO8qDnEbxJRkO"
@@ -4033,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Erkeysette",
+        "url": "https://open.spotify.com/album/4UzkJ6UTSfSw1vdY0d1lHo"
+      },
+      "artists": [
+        {
+          "name": "Enfores",
+          "url": "https://open.spotify.com/artist/3AehfYV3tDVbHMU8SlV77u"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Erkeysette",
+      "url": "https://open.spotify.com/track/24oKu2ajsqXAhB351IH1S2"
+    },
+    {
+      "album": {
         "name": "Ero troppo fatto",
         "url": "https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f"
       },
@@ -4560,7 +4614,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 223436,
       "name": "Fiorella Mannoia",
       "url": "https://open.spotify.com/track/4qgpGoI7AOI51jF5JznW0h"
@@ -5181,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "Go catch 'em",
+        "url": "https://open.spotify.com/album/2KT9S4I1YuF7AxLC2EnQFg"
+      },
+      "artists": [
+        {
+          "name": "OMINI",
+          "url": "https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Go catch 'em",
+      "url": "https://open.spotify.com/track/2HkT6v7XVIdYizYyJ6jy8e"
+    },
+    {
+      "album": {
         "name": "Go Fuck Yourself",
         "url": "https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT"
       },
@@ -5536,6 +5608,24 @@
       "duration_ms": 131907,
       "name": "ho sentito il tuo cuore",
       "url": "https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier"
+    },
+    {
+      "album": {
+        "name": "Ho'oponopono",
+        "url": "https://open.spotify.com/album/4fDW5mdTkWAkpKMYc290qr"
+      },
+      "artists": [
+        {
+          "name": "Tre Allegri Ragazzi Morti",
+          "url": "https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Ho'oponopono",
+      "url": "https://open.spotify.com/track/0Zluv3GSvcioMI90TlJr6w"
     },
     {
       "album": {
@@ -5990,7 +6080,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 173400,
       "name": "Il nastro di M\u00f6bius",
       "url": "https://open.spotify.com/track/2F5QIJHE3NyopZgiGLDUP1"
@@ -6239,6 +6329,24 @@
     },
     {
       "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/3EerWadIv1eDMhFduhPilL"
+      },
+      "artists": [
+        {
+          "name": "Karakaz",
+          "url": "https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162002,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/6HILJjnY3pu5IJJrkoAbNu"
+    },
+    {
+      "album": {
         "name": "Io me ne sto fermo ad aspettare",
         "url": "https://open.spotify.com/album/2Y65xP2U931ct1qr9JT4Cs"
       },
@@ -6362,6 +6470,24 @@
       "duration_ms": 205293,
       "name": "Jap'n Cazz",
       "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
+    },
+    {
+      "album": {
+        "name": "jealous.",
+        "url": "https://open.spotify.com/album/3QYbcJGrQFcIoldFtsuNHH"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "jealous.",
+      "url": "https://open.spotify.com/track/6itqtWRy9lzxbJJ58ydUuw"
     },
     {
       "album": {
@@ -7598,7 +7724,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 201230,
       "name": "Mare in Tempesta",
       "url": "https://open.spotify.com/track/2O814L7id34BCDXF0S5ukx"
@@ -9112,7 +9238,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 149835,
       "name": "OFF MY FACE",
       "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
@@ -9368,7 +9494,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 152000,
       "name": "Paranoia Park",
       "url": "https://open.spotify.com/track/3Vbw1LXY0RK8fQVRqomPWs"
@@ -9462,6 +9588,24 @@
       "duration_ms": 194067,
       "name": "Particles",
       "url": "https://open.spotify.com/track/3X6EsP4cCYwjtJjEGUrtiA"
+    },
+    {
+      "album": {
+        "name": "PASTIGLIE BLU",
+        "url": "https://open.spotify.com/album/5cOBAiQSaaepDET6bWlM6k"
+      },
+      "artists": [
+        {
+          "name": "INARIA",
+          "url": "https://open.spotify.com/artist/27tgtbtrHISzeyzYjsEoyf"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "PASTIGLIE BLU",
+      "url": "https://open.spotify.com/track/3S3QnIeVFa2HXKcoK4mw3U"
     },
     {
       "album": {
@@ -9574,6 +9718,24 @@
       "duration_ms": 192358,
       "name": "Pensiero magico",
       "url": "https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX"
+    },
+    {
+      "album": {
+        "name": "PER FORTUNA CHE CI SONO IO",
+        "url": "https://open.spotify.com/album/5JKZCBRT8KzQaG1mTwmPFF"
+      },
+      "artists": [
+        {
+          "name": "Bugo",
+          "url": "https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219670,
+      "name": "PER FORTUNA CHE CI SONO IO",
+      "url": "https://open.spotify.com/track/6jACDurC6Zhjvt6fKJstZl"
     },
     {
       "album": {
@@ -9798,6 +9960,28 @@
       "duration_ms": 254746,
       "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
       "url": "https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi"
+    },
+    {
+      "album": {
+        "name": "PMA",
+        "url": "https://open.spotify.com/album/4yczQQEJ78o43psH1AmYTO"
+      },
+      "artists": [
+        {
+          "name": "LVCRIME",
+          "url": "https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez"
+        },
+        {
+          "name": "Positive",
+          "url": "https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "PMA",
+      "url": "https://open.spotify.com/track/5MKMkf5WZxgWTGkR38h24O"
     },
     {
       "album": {
@@ -10174,7 +10358,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 214510,
       "name": "Pugno Di Sabbia",
       "url": "https://open.spotify.com/track/5JusmvJVYnbLnqxHvzbHQM"
@@ -11682,7 +11866,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 216000,
       "name": "Sospeso",
       "url": "https://open.spotify.com/track/1PJQQEslp4XOtqG1OEVqn9"
@@ -13018,7 +13202,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-03-01",
       "duration_ms": 141569,
       "name": "Tre volte",
       "url": "https://open.spotify.com/track/3a0S913LX7Nv95jPWN8nhn"
@@ -13249,6 +13433,24 @@
     },
     {
       "album": {
+        "name": "Tutto sbagliato",
+        "url": "https://open.spotify.com/album/0qhdUsXAwn2lsIXdNpRotU"
+      },
+      "artists": [
+        {
+          "name": "Alemoa",
+          "url": "https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212090,
+      "name": "Tutto sbagliato",
+      "url": "https://open.spotify.com/track/7b6n3ZxFrrX1e3l7AqaHia"
+    },
+    {
+      "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/7iCLcQ9JCgxsQHOfjnBemZ"
       },
@@ -13434,6 +13636,24 @@
       "duration_ms": 174857,
       "name": "UN SANTO, UN RICCO, UN FASCIO",
       "url": "https://open.spotify.com/track/2RIpuPWfnNgXF7eQBaugdA"
+    },
+    {
+      "album": {
+        "name": "Un'Altra Me",
+        "url": "https://open.spotify.com/album/6WInH2ZdBqEAzul2cAF2hM"
+      },
+      "artists": [
+        {
+          "name": "Pandorea",
+          "url": "https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Un'Altra Me",
+      "url": "https://open.spotify.com/track/1f7fdXPkUThNS5MwYHfaSM"
     },
     {
       "album": {
