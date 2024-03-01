@@ -1,4 +1,4 @@
-## Playlists \(7615\)
+## Playlists \(7616\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2657,6 +2657,7 @@
 - [Hultsfred 2012](/playlists/pretty/26yS4HN010lrCBBlCbjF2b.md)
 - [Hultsfred 2013](/playlists/pretty/0pTJgTL7GIhxto5z35Rfwu.md)
 - [Hulu Hits](/playlists/pretty/37i9dQZF1DWZ5kgu17cbcC.md)
+- [HurneyNerney](/playlists/pretty/2MRjDGxeIYDgOxA1acUM4z.md)
 - [Hustle Official Playlist](/playlists/pretty/37i9dQZF1DXbumjq5gXqxO.md)
 - [Hype](/playlists/pretty/37i9dQZF1DX4eRPd9frC1m.md)
 - [Hype List](/playlists/pretty/37i9dQZF1DXe74lXHc7E5A.md)
